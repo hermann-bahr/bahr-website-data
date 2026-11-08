@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "18b3dec0-743c-41ab-8fbd-4539e3a42d48",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/18b3dec0-743c-41ab-8fbd-4539e3a42d48?resourceVersion=id%3A3598"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/18b3dec0-743c-41ab-8fbd-4539e3a42d48?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 64104,
+    "drupal_internal__vid": 3598,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Cosima Wagner",
+    "created": "2012-01-30T14:12:42+00:00",
+    "changed": "2012-01-30T14:12:56+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/64104",
+      "pid": 1639,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Im August 1914 kommt es zum letzten Gespräch zwischen Cosima Wagner - Bahr nennt sie die \"größte Dame des Abendlands, vielleicht die letzte\" - im Garten von Wahnfried. Laut Bahr soll sie die Bereitschaft insinuiert haben, sich zum Katholizismus zu bekehren, wenn der nächste Papst ein Deutscher wäre.",
+      "format": "full_html",
+      "processed": "Im August 1914 kommt es zum letzten Gespräch zwischen Cosima Wagner - Bahr nennt sie die \"größte Dame des Abendlands, vielleicht die letzte\" - im Garten von Wahnfried. Laut Bahr soll sie die Bereitschaft insinuiert haben, sich zum Katholizismus zu bekehren, wenn der nächste Papst ein Deutscher wäre.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1914-08-01",
+      "end_value": "1914-08-01"
+    },
+    "field_sources": [
+      "Liebe der Lebenden, III, 305.",
+      "(Hier 1.8.1914)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/18b3dec0-743c-41ab-8fbd-4539e3a42d48/node_type?resourceVersion=id%3A3598"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/18b3dec0-743c-41ab-8fbd-4539e3a42d48/relationships/node_type?resourceVersion=id%3A3598"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/18b3dec0-743c-41ab-8fbd-4539e3a42d48/revision_uid?resourceVersion=id%3A3598"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/18b3dec0-743c-41ab-8fbd-4539e3a42d48/relationships/revision_uid?resourceVersion=id%3A3598"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/18b3dec0-743c-41ab-8fbd-4539e3a42d48/uid?resourceVersion=id%3A3598"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/18b3dec0-743c-41ab-8fbd-4539e3a42d48/relationships/uid?resourceVersion=id%3A3598"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/18b3dec0-743c-41ab-8fbd-4539e3a42d48/field_event_type?resourceVersion=id%3A3598"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/18b3dec0-743c-41ab-8fbd-4539e3a42d48/relationships/field_event_type?resourceVersion=id%3A3598"
+        }
+      }
+    }
+  }
+}

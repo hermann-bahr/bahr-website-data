@@ -1,0 +1,119 @@
+{
+  "type": "node--event",
+  "id": "45ec702f-20b5-433e-bdd4-cbd53a44fd7d",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/45ec702f-20b5-433e-bdd4-cbd53a44fd7d?resourceVersion=id%3A2759"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/45ec702f-20b5-433e-bdd4-cbd53a44fd7d?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38976,
+    "drupal_internal__vid": 2759,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Jung-Wien, Breslau",
+    "created": "2011-03-16T16:02:06+00:00",
+    "changed": "2012-10-23T13:31:43+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38976",
+      "pid": 713,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahr hat seinen Vortrag zu \"Jung-Wien\" am 10. Mai 1897 in Breslau in der \"Freien litterarischen Vereinigung\" gehalten.",
+      "format": "full_html",
+      "processed": "Bahr hat seinen Vortrag zu \"Jung-Wien\" am 10. Mai 1897 in Breslau in der \"Freien litterarischen Vereinigung\" gehalten.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1897-05-10",
+      "end_value": "1897-05-10"
+    },
+    "field_sources": [
+      "Berliner Fremdenblatt, #211, 13.5.1897",
+      "Schlesische Zeitung, #337, 15.5.1897",
+      "Tagebücher (Csàky), II, 239.",
+      "Brief an den Vater, 22.5.1897 und: Undatierter Brief an den Vater, beginnend mit: Ich bin in der ganzen Woche so in Hast"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/45ec702f-20b5-433e-bdd4-cbd53a44fd7d/node_type?resourceVersion=id%3A2759"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/45ec702f-20b5-433e-bdd4-cbd53a44fd7d/relationships/node_type?resourceVersion=id%3A2759"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/45ec702f-20b5-433e-bdd4-cbd53a44fd7d/revision_uid?resourceVersion=id%3A2759"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/45ec702f-20b5-433e-bdd4-cbd53a44fd7d/relationships/revision_uid?resourceVersion=id%3A2759"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/45ec702f-20b5-433e-bdd4-cbd53a44fd7d/uid?resourceVersion=id%3A2759"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/45ec702f-20b5-433e-bdd4-cbd53a44fd7d/relationships/uid?resourceVersion=id%3A2759"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/45ec702f-20b5-433e-bdd4-cbd53a44fd7d/field_event_type?resourceVersion=id%3A2759"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/45ec702f-20b5-433e-bdd4-cbd53a44fd7d/relationships/field_event_type?resourceVersion=id%3A2759"
+        }
+      }
+    }
+  }
+}

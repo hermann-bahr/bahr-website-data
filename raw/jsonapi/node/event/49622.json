@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "32f24d54-9bf8-4b47-bd40-6350dd00080c",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/32f24d54-9bf8-4b47-bd40-6350dd00080c?resourceVersion=id%3A3448"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/32f24d54-9bf8-4b47-bd40-6350dd00080c?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49622,
+    "drupal_internal__vid": 3448,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "\"Die neuen Menschen\" gedruckt",
+    "created": "2011-11-17T11:52:05+00:00",
+    "changed": "2011-11-17T11:52:05+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49622",
+      "pid": 1438,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "In Berlin schreibt Bahr in wenigen Tagen seinen neuen Dreiakter \"Die neuen Menschen\". Mitte Februar 1887 kursieren bereits gedruckte Exemplare. Die Bibliografie der Schweiz führt es im Februar 1887, zur ersten Aufführung kommt es 1891.",
+      "format": "full_html",
+      "processed": "In Berlin schreibt Bahr in wenigen Tagen seinen neuen Dreiakter \"Die neuen Menschen\". Mitte Februar 1887 kursieren bereits gedruckte Exemplare. Die Bibliografie der Schweiz führt es im Februar 1887, zur ersten Aufführung kommt es 1891.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1887-02-19",
+      "end_value": "1887-02-19"
+    },
+    "field_sources": [
+      "Brief an den Vater, eingegangen am 19.2.1887",
+      "Selbstbildnis, 199"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/32f24d54-9bf8-4b47-bd40-6350dd00080c/node_type?resourceVersion=id%3A3448"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/32f24d54-9bf8-4b47-bd40-6350dd00080c/relationships/node_type?resourceVersion=id%3A3448"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/32f24d54-9bf8-4b47-bd40-6350dd00080c/revision_uid?resourceVersion=id%3A3448"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/32f24d54-9bf8-4b47-bd40-6350dd00080c/relationships/revision_uid?resourceVersion=id%3A3448"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/32f24d54-9bf8-4b47-bd40-6350dd00080c/uid?resourceVersion=id%3A3448"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/32f24d54-9bf8-4b47-bd40-6350dd00080c/relationships/uid?resourceVersion=id%3A3448"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/32f24d54-9bf8-4b47-bd40-6350dd00080c/field_event_type?resourceVersion=id%3A3448"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/32f24d54-9bf8-4b47-bd40-6350dd00080c/relationships/field_event_type?resourceVersion=id%3A3448"
+        }
+      }
+    }
+  }
+}

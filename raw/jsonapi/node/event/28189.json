@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "0852ff04-ca53-448e-a4d2-2ffa105e5556",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/0852ff04-ca53-448e-a4d2-2ffa105e5556?resourceVersion=id%3A2496"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/0852ff04-ca53-448e-a4d2-2ffa105e5556?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28189,
+    "drupal_internal__vid": 2496,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Schauspielkunst",
+    "created": "2010-09-21T15:37:41+00:00",
+    "changed": "2011-09-15T17:16:12+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28189",
+      "pid": 334,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 17. Februar 1911 hält Hermann Bahr am Rudolfinum in Prag als Gast des tschechischen Klubs ,Slávia‘ einen Vortrag über Schauspielkunst.\r\n",
+      "format": "full_html",
+      "processed": "Am 17. Februar 1911 hält Hermann Bahr am Rudolfinum in Prag als Gast des tschechischen Klubs ,Slávia‘ einen Vortrag über Schauspielkunst.\n",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1911-02-17",
+      "end_value": "1911-02-17"
+    },
+    "field_sources": [
+      "Born/Krywalski: Deutschsprachige Literatur aus Prag und den böhmischen Ländern 1900-1939. 3., vollst. überarb. und erw. Aufl. München: Saur 2000, 32.",
+      "Bahr/Kvapil, 135-136."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0852ff04-ca53-448e-a4d2-2ffa105e5556/node_type?resourceVersion=id%3A2496"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0852ff04-ca53-448e-a4d2-2ffa105e5556/relationships/node_type?resourceVersion=id%3A2496"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0852ff04-ca53-448e-a4d2-2ffa105e5556/revision_uid?resourceVersion=id%3A2496"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0852ff04-ca53-448e-a4d2-2ffa105e5556/relationships/revision_uid?resourceVersion=id%3A2496"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0852ff04-ca53-448e-a4d2-2ffa105e5556/uid?resourceVersion=id%3A2496"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0852ff04-ca53-448e-a4d2-2ffa105e5556/relationships/uid?resourceVersion=id%3A2496"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0852ff04-ca53-448e-a4d2-2ffa105e5556/field_event_type?resourceVersion=id%3A2496"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0852ff04-ca53-448e-a4d2-2ffa105e5556/relationships/field_event_type?resourceVersion=id%3A2496"
+        }
+      }
+    }
+  }
+}

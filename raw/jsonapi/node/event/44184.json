@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "90ac831d-7c54-4530-af78-ce3144344e71",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/90ac831d-7c54-4530-af78-ce3144344e71?resourceVersion=id%3A3098"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/90ac831d-7c54-4530-af78-ce3144344e71?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44184,
+    "drupal_internal__vid": 3098,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Vortragsreise",
+    "created": "2011-09-19T12:08:08+00:00",
+    "changed": "2011-09-19T12:24:30+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44184",
+      "pid": 1077,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bereits zur Tradition geworden ist 1911 Bahrs Vortragsreise im Spätherbst. Am 20. November fährt er zur Erholung von den Strapazen nach Dalmatien. Als Vermutung von 1. bis 19. November datiert.",
+      "format": "full_html",
+      "processed": "Bereits zur Tradition geworden ist 1911 Bahrs Vortragsreise im Spätherbst. Am 20. November fährt er zur Erholung von den Strapazen nach Dalmatien. Als Vermutung von 1. bis 19. November datiert.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1911-11-01",
+      "end_value": "1911-11-19"
+    },
+    "field_sources": [
+      "Bahr/Kvapil, 147. "
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/90ac831d-7c54-4530-af78-ce3144344e71/node_type?resourceVersion=id%3A3098"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/90ac831d-7c54-4530-af78-ce3144344e71/relationships/node_type?resourceVersion=id%3A3098"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/90ac831d-7c54-4530-af78-ce3144344e71/revision_uid?resourceVersion=id%3A3098"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/90ac831d-7c54-4530-af78-ce3144344e71/relationships/revision_uid?resourceVersion=id%3A3098"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/90ac831d-7c54-4530-af78-ce3144344e71/uid?resourceVersion=id%3A3098"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/90ac831d-7c54-4530-af78-ce3144344e71/relationships/uid?resourceVersion=id%3A3098"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/90ac831d-7c54-4530-af78-ce3144344e71/field_event_type?resourceVersion=id%3A3098"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/90ac831d-7c54-4530-af78-ce3144344e71/relationships/field_event_type?resourceVersion=id%3A3098"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="forschung__derivate__bahr-der-jugend" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Bahr in der "Jugend"</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">43988</idno>
+        <idno type="drupal-alias">/bahr-der-jugend</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bahr-der-jugend">https://bahr.univie.ac.at/bahr-der-jugend</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="6" key="forschung">Forschung</term>
+          <term n="10" key="derivate">Derivate</term>
+          <term n="6" key="bahr-der-jugend" type="eintrag">Bahr in der "Jugend"</term>
+        </keywords>
+        <classCode scheme="drupal-type">page</classCode>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2011-07-12T14:38:57+00:00" type="created">angelegt in Drupal</change>
+      <change when="2011-07-12T14:38:57+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Erwähnungen Bahrs dokumentiert die Online-Ausgabe der Anna-Amalia-Bibliothek der Satire-Zeitschrift <ref target="http://www.simplicissimus.info/index.php?id=23&amp;tx_lombkswjournaldb_pi2[personid]=3112&amp;tx_lombkswjournaldb_pi2[element]=all&amp;tx_lombkswjournaldb_pi2[type]=date&amp;tx_lombkswjournaldb_pi2[action]=nameFilter&amp;tx_lombkswjournaldb_pi2[controller]=PersonRegister&amp;cHash=47ab9593aca51a9af8b4df97907d2adc#">Die Jugend</ref></p>
+      </div>
+    </body>
+  </text>
+</TEI>

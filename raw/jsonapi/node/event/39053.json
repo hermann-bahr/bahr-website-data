@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "1fc96765-1e41-4552-a3ee-ab617c276a19",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/1fc96765-1e41-4552-a3ee-ab617c276a19?resourceVersion=id%3A2828"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/1fc96765-1e41-4552-a3ee-ab617c276a19?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39053,
+    "drupal_internal__vid": 2828,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Secessionsbühne",
+    "created": "2011-05-03T11:18:18+00:00",
+    "changed": "2016-01-29T11:00:03+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39053",
+      "pid": 785,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Ein Gerücht geht im Frühjahr 1901 um: Bahr soll Direktor einer in Nachfolge des bankrotten Theaters an der Wien eröffneten \"Secessionsbühne\" werden.",
+      "format": "full_html",
+      "processed": "Ein Gerücht geht im Frühjahr 1901 um: Bahr soll Direktor einer in Nachfolge des bankrotten Theaters an der Wien eröffneten \"Secessionsbühne\" werden.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1901-04-04",
+      "end_value": "1901-04-04"
+    },
+    "field_sources": [
+      "Tagesbote aus Mähren und Schlesien, 4.4.1901, 4."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1fc96765-1e41-4552-a3ee-ab617c276a19/node_type?resourceVersion=id%3A2828"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1fc96765-1e41-4552-a3ee-ab617c276a19/relationships/node_type?resourceVersion=id%3A2828"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1fc96765-1e41-4552-a3ee-ab617c276a19/revision_uid?resourceVersion=id%3A2828"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1fc96765-1e41-4552-a3ee-ab617c276a19/relationships/revision_uid?resourceVersion=id%3A2828"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1fc96765-1e41-4552-a3ee-ab617c276a19/uid?resourceVersion=id%3A2828"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1fc96765-1e41-4552-a3ee-ab617c276a19/relationships/uid?resourceVersion=id%3A2828"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1fc96765-1e41-4552-a3ee-ab617c276a19/field_event_type?resourceVersion=id%3A2828"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1fc96765-1e41-4552-a3ee-ab617c276a19/relationships/field_event_type?resourceVersion=id%3A2828"
+        }
+      }
+    }
+  }
+}

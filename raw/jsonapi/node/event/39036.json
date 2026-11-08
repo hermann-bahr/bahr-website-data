@@ -1,0 +1,124 @@
+{
+  "type": "node--event",
+  "id": "f191efbd-f27c-4397-a1bd-def034e649b6",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f191efbd-f27c-4397-a1bd-def034e649b6?resourceVersion=id%3A2813"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f191efbd-f27c-4397-a1bd-def034e649b6?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39036,
+    "drupal_internal__vid": 2813,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Bayreuth",
+    "created": "2011-04-07T14:57:52+00:00",
+    "changed": "2013-01-28T11:00:29+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39036",
+      "pid": 769,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Ab 28. Juni bis zum 21. August 1909 ist Bahr in Bayreuth. Anna Bahr-Mildenburg hatte ihren ersten Auftritt als Ortrud in Bayreuth am 23. Juli in \"Lohengrin\". (1897 war sie bereits als Kundry aufgetreten). Bahr selbst lernt, wie er R. Strauß versichert, weder Henry Thode noch Houston Stewart Chamberlain kennen - in diesem Jahr zumindest.",
+      "format": "full_html",
+      "processed": "Ab 28. Juni bis zum 21. August 1909 ist Bahr in Bayreuth. Anna Bahr-Mildenburg hatte ihren ersten Auftritt als Ortrud in Bayreuth am 23. Juli in \"Lohengrin\". (1897 war sie bereits als Kundry aufgetreten). Bahr selbst lernt, wie er R. Strauß versichert, weder Henry Thode noch Houston Stewart Chamberlain kennen - in diesem Jahr zumindest.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1909-06-28",
+      "end_value": "1909-08-21"
+    },
+    "field_sources": [
+      "Erhard Buschbeck: Mimus Austriacus. Aus dem nachgelassenen Werk. Hg. Lotte v. Tobisch. Stuttgart, Salzburg: Bergland 1962, 258-260.",
+      "Brief Bahrs an Alfred Holzbock, 7. August 1909 aus Nürnberg",
+      "Hermann Bahr: Bayreuther Stimmung. Neue Freie Presse, (1909) #16153, Morgenblatt, 1-3. (10.8.1909)",
+      "Tagebücher (Csàky), V, 113. (Mit Weingartner in Nürnberg)",
+      "Gabriele Parizek: Anna Bahr-Mildenburg [Dissertation], 65.",
+      "Bahr/Kvapil, 99-101.",
+      "Bahr/Redlich, 65-76.",
+      "Hermann Bahr: Meister und Meisterbriefe um Hermann Bahr. Aus seinen Entwürfen, Tagebüchern und seinem Briefwechsel. Ausgewählt und eingeleitet von Joseph Gregor. Wien: Hermann Bauer 1947, 76. (An R. Strauß, 12.8.1909)",
+      "Hermann Bahr: Aufzeichnungen 1909-1911. Ausgabe in Vorbereitung von Kurt Ifkovits\r\n"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f191efbd-f27c-4397-a1bd-def034e649b6/node_type?resourceVersion=id%3A2813"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f191efbd-f27c-4397-a1bd-def034e649b6/relationships/node_type?resourceVersion=id%3A2813"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f191efbd-f27c-4397-a1bd-def034e649b6/revision_uid?resourceVersion=id%3A2813"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f191efbd-f27c-4397-a1bd-def034e649b6/relationships/revision_uid?resourceVersion=id%3A2813"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f191efbd-f27c-4397-a1bd-def034e649b6/uid?resourceVersion=id%3A2813"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f191efbd-f27c-4397-a1bd-def034e649b6/relationships/uid?resourceVersion=id%3A2813"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f191efbd-f27c-4397-a1bd-def034e649b6/field_event_type?resourceVersion=id%3A2813"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f191efbd-f27c-4397-a1bd-def034e649b6/relationships/field_event_type?resourceVersion=id%3A2813"
+        }
+      }
+    }
+  }
+}

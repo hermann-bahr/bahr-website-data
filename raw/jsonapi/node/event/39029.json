@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "f80c8e80-409e-436e-9fb7-2a6db57af11a",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f80c8e80-409e-436e-9fb7-2a6db57af11a?resourceVersion=id%3A2806"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f80c8e80-409e-436e-9fb7-2a6db57af11a?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39029,
+    "drupal_internal__vid": 2806,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Letzer Artikel im Berliner Tageblatt",
+    "created": "2011-04-06T15:33:18+00:00",
+    "changed": "2011-11-03T10:20:06+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39029",
+      "pid": 762,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 7. Jänner 1932 erscheint Bahrs letzter Artikel für das Berliner Tageblatt, eine kurze Notiz zu Stifter.",
+      "format": "full_html",
+      "processed": "Am 7. Jänner 1932 erscheint Bahrs letzter Artikel für das Berliner Tageblatt, eine kurze Notiz zu Stifter.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1932-01-07",
+      "end_value": "1932-01-07"
+    },
+    "field_sources": [
+      "Hermann Bahr: Adalbert Stifter. Berliner Tageblatt, 61 (1932) #11, Abend-Ausgabe, 2. (7.1.1932) "
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f80c8e80-409e-436e-9fb7-2a6db57af11a/node_type?resourceVersion=id%3A2806"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f80c8e80-409e-436e-9fb7-2a6db57af11a/relationships/node_type?resourceVersion=id%3A2806"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f80c8e80-409e-436e-9fb7-2a6db57af11a/revision_uid?resourceVersion=id%3A2806"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f80c8e80-409e-436e-9fb7-2a6db57af11a/relationships/revision_uid?resourceVersion=id%3A2806"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f80c8e80-409e-436e-9fb7-2a6db57af11a/uid?resourceVersion=id%3A2806"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f80c8e80-409e-436e-9fb7-2a6db57af11a/relationships/uid?resourceVersion=id%3A2806"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "d579e54c-64dd-4193-a9ef-da87efb3ed16",
+          "meta": {
+            "drupal_internal__target_id": 8
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f80c8e80-409e-436e-9fb7-2a6db57af11a/field_event_type?resourceVersion=id%3A2806"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f80c8e80-409e-436e-9fb7-2a6db57af11a/relationships/field_event_type?resourceVersion=id%3A2806"
+        }
+      }
+    }
+  }
+}

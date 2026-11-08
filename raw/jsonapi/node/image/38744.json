@@ -1,0 +1,109 @@
+{
+  "type": "node--image",
+  "id": "5ee4f164-5b30-47c4-ae30-06f86ccd1dd4",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/image/5ee4f164-5b30-47c4-ae30-06f86ccd1dd4?resourceVersion=id%3A3969"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/image/5ee4f164-5b30-47c4-ae30-06f86ccd1dd4?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38744,
+    "drupal_internal__vid": 3969,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:44:08+00:00",
+    "status": true,
+    "title": "Neueste Aufnahme",
+    "created": "2011-01-21T10:22:20+00:00",
+    "changed": "2013-01-17T09:07:17+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/bild/38744",
+      "pid": 493,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<i>Hermann Bahr. Neueste Aufnahme des Dichters, der demnächst den 65. Geburtstag feiert. Transocean. In: Vossische Zeitung, Zeitbilder, #27, 1. Juli 1928.<br>Dass. in: Der Querschnitt, 8 (1928) #8 (August).</i>",
+      "format": "full_html",
+      "processed": "<i>Hermann Bahr. Neueste Aufnahme des Dichters, der demnächst den 65. Geburtstag feiert. Transocean. In: Vossische Zeitung, Zeitbilder, #27, 1. Juli 1928.<br>Dass. in: Der Querschnitt, 8 (1928) #8 (August).</i>",
+      "summary": null
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "e2381624-d098-4c5b-bdd7-5dbfd773b84e",
+        "meta": {
+          "drupal_internal__target_id": "image"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/5ee4f164-5b30-47c4-ae30-06f86ccd1dd4/node_type?resourceVersion=id%3A3969"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/5ee4f164-5b30-47c4-ae30-06f86ccd1dd4/relationships/node_type?resourceVersion=id%3A3969"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/5ee4f164-5b30-47c4-ae30-06f86ccd1dd4/revision_uid?resourceVersion=id%3A3969"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/5ee4f164-5b30-47c4-ae30-06f86ccd1dd4/relationships/revision_uid?resourceVersion=id%3A3969"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/5ee4f164-5b30-47c4-ae30-06f86ccd1dd4/uid?resourceVersion=id%3A3969"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/5ee4f164-5b30-47c4-ae30-06f86ccd1dd4/relationships/uid?resourceVersion=id%3A3969"
+        }
+      }
+    },
+    "field_images": {
+      "data": [
+        {
+          "type": "media--image",
+          "id": "1c17c3e9-7462-469f-b9e1-2c94508f5745",
+          "meta": {
+            "drupal_internal__target_id": 148
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/5ee4f164-5b30-47c4-ae30-06f86ccd1dd4/field_images?resourceVersion=id%3A3969"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/5ee4f164-5b30-47c4-ae30-06f86ccd1dd4/relationships/field_images?resourceVersion=id%3A3969"
+        }
+      }
+    }
+  }
+}

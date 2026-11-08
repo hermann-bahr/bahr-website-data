@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "45b442c7-7297-4e50-90ad-daf17db80455",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/45b442c7-7297-4e50-90ad-daf17db80455?resourceVersion=id%3A3441"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/45b442c7-7297-4e50-90ad-daf17db80455?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49615,
+    "drupal_internal__vid": 3441,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Unverfälschte Deutsche Worte",
+    "created": "2011-11-16T15:31:51+00:00",
+    "changed": "2011-11-16T15:37:37+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49615",
+      "pid": 1431,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Der Vortrag Bahrs zu Rodbertus sowie seine Austrittsmeldung aus dem Kyffhäuser sind Bahrs einzige Beiträge zu Georg von Schönerers Abspaltung von den \"Deutschen Worten\" unter dem Titel \"Unverfälschte Deutsche Worte\".",
+      "format": "full_html",
+      "processed": "Der Vortrag Bahrs zu Rodbertus sowie seine Austrittsmeldung aus dem Kyffhäuser sind Bahrs einzige Beiträge zu Georg von Schönerers Abspaltung von den \"Deutschen Worten\" unter dem Titel \"Unverfälschte Deutsche Worte\".",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1884-10-16",
+      "end_value": "1884-10-16"
+    },
+    "field_sources": [
+      "Hermann Bahr: Über Rodbertus. Ein Vortrag. Unverfälschte deutsche Worte, 2 (1884) #20, 4-8. (16.10.1884) ",
+      "Erich Hermann Bahr, Karl Beurle, Richard Fellner, Wilhelm Heine, Wolfgang Heine und Theodor Jaensch: Erklärung. Unverfälschte deutsche Worte, 3 (1885) #3, VIII. (1.2.1885)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/45b442c7-7297-4e50-90ad-daf17db80455/node_type?resourceVersion=id%3A3441"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/45b442c7-7297-4e50-90ad-daf17db80455/relationships/node_type?resourceVersion=id%3A3441"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/45b442c7-7297-4e50-90ad-daf17db80455/revision_uid?resourceVersion=id%3A3441"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/45b442c7-7297-4e50-90ad-daf17db80455/relationships/revision_uid?resourceVersion=id%3A3441"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/45b442c7-7297-4e50-90ad-daf17db80455/uid?resourceVersion=id%3A3441"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/45b442c7-7297-4e50-90ad-daf17db80455/relationships/uid?resourceVersion=id%3A3441"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "d579e54c-64dd-4193-a9ef-da87efb3ed16",
+          "meta": {
+            "drupal_internal__target_id": 8
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/45b442c7-7297-4e50-90ad-daf17db80455/field_event_type?resourceVersion=id%3A3441"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/45b442c7-7297-4e50-90ad-daf17db80455/relationships/field_event_type?resourceVersion=id%3A3441"
+        }
+      }
+    }
+  }
+}

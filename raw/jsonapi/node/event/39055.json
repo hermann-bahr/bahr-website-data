@@ -1,0 +1,119 @@
+{
+  "type": "node--event",
+  "id": "3554d72c-05f8-4072-802e-6468b0337577",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/3554d72c-05f8-4072-802e-6468b0337577?resourceVersion=id%3A2830"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/3554d72c-05f8-4072-802e-6468b0337577?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39055,
+    "drupal_internal__vid": 2830,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Fulda-Klage",
+    "created": "2011-05-03T11:37:01+00:00",
+    "changed": "2013-08-01T09:16:02+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39055",
+      "pid": 787,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<blockquote><h4>Aus dem Gerichtssaale.</h4>Wien, 23. Dezember. (Priv.)<br><strong>Ehrenbeleidigungsklage.</strong> Der Dichter Ludwig Fulda hat gegen Hermann Bahr eine Ehrenbeleidugungsklage überreicht, weil Bahr in der Besprechung des im Burgtheater zur Aufführung gelangten Stückes \"Bannermann\" von Otto Ernst den Dichter einen Jobber nannte, der mit Meinungen wie mit alten Hosen hausiere.</blockquote>Die Verhandlung wird für den 21. Oktober 1905 festgesetzt, aber am 14. Oktober zieht Fulda seine Klage zurück.",
+      "format": "full_html",
+      "processed": "<blockquote><h4>Aus dem Gerichtssaale.</h4>Wien, 23. Dezember. (Priv.)<br><strong>Ehrenbeleidigungsklage.</strong> Der Dichter Ludwig Fulda hat gegen Hermann Bahr eine Ehrenbeleidugungsklage überreicht, weil Bahr in der Besprechung des im Burgtheater zur Aufführung gelangten Stückes \"Bannermann\" von Otto Ernst den Dichter einen Jobber nannte, der mit Meinungen wie mit alten Hosen hausiere.</blockquote>Die Verhandlung wird für den 21. Oktober 1905 festgesetzt, aber am 14. Oktober zieht Fulda seine Klage zurück.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1904-12-24",
+      "end_value": "1904-12-24"
+    },
+    "field_sources": [
+      "Tagesbote aus Mähren und Schlesien, 1904 #601, 3. (24.12.1904)",
+      "Neues Wiener Tagblatt, 38 (1904) #356, 10. (24.12.1904)",
+      "Tagebücher (Csàky), IV, 316.",
+      "Fulda an Schnitzler, 21.12.1904 in: Fulda: Briefwechsel 1882-1939, I, 344."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3554d72c-05f8-4072-802e-6468b0337577/node_type?resourceVersion=id%3A2830"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3554d72c-05f8-4072-802e-6468b0337577/relationships/node_type?resourceVersion=id%3A2830"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3554d72c-05f8-4072-802e-6468b0337577/revision_uid?resourceVersion=id%3A2830"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3554d72c-05f8-4072-802e-6468b0337577/relationships/revision_uid?resourceVersion=id%3A2830"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3554d72c-05f8-4072-802e-6468b0337577/uid?resourceVersion=id%3A2830"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3554d72c-05f8-4072-802e-6468b0337577/relationships/uid?resourceVersion=id%3A2830"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3554d72c-05f8-4072-802e-6468b0337577/field_event_type?resourceVersion=id%3A2830"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3554d72c-05f8-4072-802e-6468b0337577/relationships/field_event_type?resourceVersion=id%3A2830"
+        }
+      }
+    }
+  }
+}

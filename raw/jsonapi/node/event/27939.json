@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "8c35932a-ec83-4c08-9c84-2dd3abe18fb0",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/8c35932a-ec83-4c08-9c84-2dd3abe18fb0?resourceVersion=id%3A2281"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/8c35932a-ec83-4c08-9c84-2dd3abe18fb0?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27939,
+    "drupal_internal__vid": 2281,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Buch der Jugend",
+    "created": "2010-07-19T11:27:11+00:00",
+    "changed": "2012-10-16T11:59:09+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/27939",
+      "pid": 115,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Im Dezember 1908 erschien neuerlich ein Band mit gesammelten Aufsätzen, diesmal in Wien bei Hugo Heller.",
+      "format": "full_html",
+      "processed": "Im Dezember 1908 erschien neuerlich ein Band mit gesammelten Aufsätzen, diesmal in Wien bei Hugo Heller.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1908-12-13",
+      "end_value": "1908-12-13"
+    },
+    "field_sources": [
+      "Hermann Bahr: Buch der Jugend. Wien: H. Heller, 1908.",
+      "Pester Lloyd, 55 (1908) #298, 23. (13.12.1908)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8c35932a-ec83-4c08-9c84-2dd3abe18fb0/node_type?resourceVersion=id%3A2281"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8c35932a-ec83-4c08-9c84-2dd3abe18fb0/relationships/node_type?resourceVersion=id%3A2281"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8c35932a-ec83-4c08-9c84-2dd3abe18fb0/revision_uid?resourceVersion=id%3A2281"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8c35932a-ec83-4c08-9c84-2dd3abe18fb0/relationships/revision_uid?resourceVersion=id%3A2281"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8c35932a-ec83-4c08-9c84-2dd3abe18fb0/uid?resourceVersion=id%3A2281"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8c35932a-ec83-4c08-9c84-2dd3abe18fb0/relationships/uid?resourceVersion=id%3A2281"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "da42ac4a-f48f-4397-af4d-b66e913825fb",
+          "meta": {
+            "drupal_internal__target_id": 3
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8c35932a-ec83-4c08-9c84-2dd3abe18fb0/field_event_type?resourceVersion=id%3A2281"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8c35932a-ec83-4c08-9c84-2dd3abe18fb0/relationships/field_event_type?resourceVersion=id%3A2281"
+        }
+      }
+    }
+  }
+}

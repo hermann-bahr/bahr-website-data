@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "de8eb72a-e03f-4ee4-90e4-4d8e7771052b",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/de8eb72a-e03f-4ee4-90e4-4d8e7771052b?resourceVersion=id%3A3157"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/de8eb72a-e03f-4ee4-90e4-4d8e7771052b?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44243,
+    "drupal_internal__vid": 3157,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Zola",
+    "created": "2011-10-03T12:55:49+00:00",
+    "changed": "2011-10-03T12:56:42+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44243",
+      "pid": 1136,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahr erklärt sich gegenüber Josef Redlich bereit, am 30. Oktober 1902 im sozialwissenschaftlichen Verein der Universität Wien über den eben verstorbenen Zola zu sprechen. Ob der Vortrag stattfand, ist offen, zwei Tage vorher erklärt er sich für krank und müde, stünde aber zu seiner Zusage.",
+      "format": "full_html",
+      "processed": "Bahr erklärt sich gegenüber Josef Redlich bereit, am 30. Oktober 1902 im sozialwissenschaftlichen Verein der Universität Wien über den eben verstorbenen Zola zu sprechen. Ob der Vortrag stattfand, ist offen, zwei Tage vorher erklärt er sich für krank und müde, stünde aber zu seiner Zusage.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1902-10-30",
+      "end_value": "1902-10-30"
+    },
+    "field_sources": [
+      "Bahr/Redlich, 8-9."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/de8eb72a-e03f-4ee4-90e4-4d8e7771052b/node_type?resourceVersion=id%3A3157"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/de8eb72a-e03f-4ee4-90e4-4d8e7771052b/relationships/node_type?resourceVersion=id%3A3157"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/de8eb72a-e03f-4ee4-90e4-4d8e7771052b/revision_uid?resourceVersion=id%3A3157"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/de8eb72a-e03f-4ee4-90e4-4d8e7771052b/relationships/revision_uid?resourceVersion=id%3A3157"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/de8eb72a-e03f-4ee4-90e4-4d8e7771052b/uid?resourceVersion=id%3A3157"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/de8eb72a-e03f-4ee4-90e4-4d8e7771052b/relationships/uid?resourceVersion=id%3A3157"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/de8eb72a-e03f-4ee4-90e4-4d8e7771052b/field_event_type?resourceVersion=id%3A3157"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/de8eb72a-e03f-4ee4-90e4-4d8e7771052b/relationships/field_event_type?resourceVersion=id%3A3157"
+        }
+      }
+    }
+  }
+}

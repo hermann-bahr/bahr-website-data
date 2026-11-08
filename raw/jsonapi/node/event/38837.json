@@ -1,0 +1,114 @@
+{
+  "type": "node--event",
+  "id": "6544e6f2-bfc9-4c4a-ad5a-99dd4dab5409",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/6544e6f2-bfc9-4c4a-ad5a-99dd4dab5409?resourceVersion=id%3A2655"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/6544e6f2-bfc9-4c4a-ad5a-99dd4dab5409?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38837,
+    "drupal_internal__vid": 2655,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Salzburger Volksblatt",
+    "created": "2011-02-04T14:52:40+00:00",
+    "changed": "2011-02-04T14:52:40+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38837",
+      "pid": 582,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Auch das zweite journalistische Medium, in dem Bahr veröffentlichte, war in Salzburg angesiedelt. Das Salzburger Volksblatt brachte von ihm im Mai/Juni 1882 eine Besprechungsserie der Ausstellung in Wiener Künstlerhaus, eine Tourismusglosse und zuletzt die vermutlich erste literarische Arbeit Bahrs, die veröffentlicht wurde: \"Wie das Volkslied zu ehren kam\", erschienen in zwei Teilen am 19. und 26. August 1882.",
+      "format": "full_html",
+      "processed": "Auch das zweite journalistische Medium, in dem Bahr veröffentlichte, war in Salzburg angesiedelt. Das Salzburger Volksblatt brachte von ihm im Mai/Juni 1882 eine Besprechungsserie der Ausstellung in Wiener Künstlerhaus, eine Tourismusglosse und zuletzt die vermutlich erste literarische Arbeit Bahrs, die veröffentlicht wurde: \"Wie das Volkslied zu ehren kam\", erschienen in zwei Teilen am 19. und 26. August 1882.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1882-05-06",
+      "end_value": "1882-08-26"
+    },
+    "field_sources": []
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6544e6f2-bfc9-4c4a-ad5a-99dd4dab5409/node_type?resourceVersion=id%3A2655"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6544e6f2-bfc9-4c4a-ad5a-99dd4dab5409/relationships/node_type?resourceVersion=id%3A2655"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6544e6f2-bfc9-4c4a-ad5a-99dd4dab5409/revision_uid?resourceVersion=id%3A2655"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6544e6f2-bfc9-4c4a-ad5a-99dd4dab5409/relationships/revision_uid?resourceVersion=id%3A2655"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6544e6f2-bfc9-4c4a-ad5a-99dd4dab5409/uid?resourceVersion=id%3A2655"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6544e6f2-bfc9-4c4a-ad5a-99dd4dab5409/relationships/uid?resourceVersion=id%3A2655"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "d579e54c-64dd-4193-a9ef-da87efb3ed16",
+          "meta": {
+            "drupal_internal__target_id": 8
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6544e6f2-bfc9-4c4a-ad5a-99dd4dab5409/field_event_type?resourceVersion=id%3A2655"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6544e6f2-bfc9-4c4a-ad5a-99dd4dab5409/relationships/field_event_type?resourceVersion=id%3A2655"
+        }
+      }
+    }
+  }
+}

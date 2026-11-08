@@ -1,0 +1,112 @@
+{
+  "type": "node--article",
+  "id": "9b72b728-8ed1-4cd3-846b-e17e1f0a5b4e",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/article/9b72b728-8ed1-4cd3-846b-e17e1f0a5b4e?resourceVersion=id%3A3998"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/article/9b72b728-8ed1-4cd3-846b-e17e1f0a5b4e?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 17875,
+    "drupal_internal__vid": 3998,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:47:58+00:00",
+    "status": true,
+    "title": "Auf der Bühne 1910/11",
+    "created": "2010-02-03T22:16:10+00:00",
+    "changed": "2010-03-26T13:52:53+00:00",
+    "promote": true,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/article/17875",
+      "pid": 23,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Das Salzburger Volksblatt (3.5.1913) entnimmt dem im Verlage Oesterheld und Co in Berlin erschienenen 16. Jahrgang des \"Deutschen Bühnenspielplans\" eine Statistik, wie oft welche Autoren auf den 887 deutschsprachigen Bühnen aufgeführt wird. \r\n\r\nAufführungen:\r\n<table>\r\n<tr><th>Autor<th>1910/11<th>1911/12</tr>\r\n<tr><td>Schiller<td>1526<td>1584\r\n<tr><td>Sudermann<td><td>1228\r\n<tr><td>Schönherr<td><td>974\r\n<tr><td>Kleist<td>427<td>971\r\n<tr><td>von Schönthan<td><td>905\r\n<tr><td>Ibsen<td><td>832\r\n<tr><td>Schnitzler<td>508<td>768\r\n<tr><td>Goethe<td>680<td>723\r\n<tr><td>Hauptmann<td>637<td>581\r\n<tr><td><strong>Bahr</strong><td><strong>896</strong><td><strong>495</strong>\r\n<tr><td>L‘Arronge<td><td>462\r\n<tr><td>Grillparzer<td><td>443\r\n<tr><td>Hebbel<td><td>443\r\n<tr><td>Lessing<td><td>405\r\n<tr><td>Anzengruber<td>297<td>346\r\n<tr><td>Wedekind<td><td>214\r\n</table>\r\n\r\nWir stellen fest, dass Bahr und Schnitzler ziemlich gleichauf waren.",
+      "format": "full_html",
+      "processed": "Das Salzburger Volksblatt (3.5.1913) entnimmt dem im Verlage Oesterheld und Co in Berlin erschienenen 16. Jahrgang des \"Deutschen Bühnenspielplans\" eine Statistik, wie oft welche Autoren auf den 887 deutschsprachigen Bühnen aufgeführt wird. \n\nAufführungen:\n<table>\n<tr><th>Autor</th><th>1910/11</th><th>1911/12</th></tr>\n<tr><td>Schiller</td><td>1526</td><td>1584\n</td></tr><tr><td>Sudermann</td><td></td><td>1228\n</td></tr><tr><td>Schönherr</td><td></td><td>974\n</td></tr><tr><td>Kleist</td><td>427</td><td>971\n</td></tr><tr><td>von Schönthan</td><td></td><td>905\n</td></tr><tr><td>Ibsen</td><td></td><td>832\n</td></tr><tr><td>Schnitzler</td><td>508</td><td>768\n</td></tr><tr><td>Goethe</td><td>680</td><td>723\n</td></tr><tr><td>Hauptmann</td><td>637</td><td>581\n</td></tr><tr><td><strong>Bahr</strong></td><td><strong>896</strong></td><td><strong>495</strong>\n</td></tr><tr><td>L‘Arronge</td><td></td><td>462\n</td></tr><tr><td>Grillparzer</td><td></td><td>443\n</td></tr><tr><td>Hebbel</td><td></td><td>443\n</td></tr><tr><td>Lessing</td><td></td><td>405\n</td></tr><tr><td>Anzengruber</td><td>297</td><td>346\n</td></tr><tr><td>Wedekind</td><td></td><td>214\n</td></tr></table>\n\nWir stellen fest, dass Bahr und Schnitzler ziemlich gleichauf waren.",
+      "summary": null
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "2591b802-2e12-43ea-999f-36ccdccd1176",
+        "meta": {
+          "drupal_internal__target_id": "article"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/9b72b728-8ed1-4cd3-846b-e17e1f0a5b4e/node_type?resourceVersion=id%3A3998"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/9b72b728-8ed1-4cd3-846b-e17e1f0a5b4e/relationships/node_type?resourceVersion=id%3A3998"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/9b72b728-8ed1-4cd3-846b-e17e1f0a5b4e/revision_uid?resourceVersion=id%3A3998"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/9b72b728-8ed1-4cd3-846b-e17e1f0a5b4e/relationships/revision_uid?resourceVersion=id%3A3998"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/9b72b728-8ed1-4cd3-846b-e17e1f0a5b4e/uid?resourceVersion=id%3A3998"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/9b72b728-8ed1-4cd3-846b-e17e1f0a5b4e/relationships/uid?resourceVersion=id%3A3998"
+        }
+      }
+    },
+    "field_image": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/9b72b728-8ed1-4cd3-846b-e17e1f0a5b4e/field_image?resourceVersion=id%3A3998"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/9b72b728-8ed1-4cd3-846b-e17e1f0a5b4e/relationships/field_image?resourceVersion=id%3A3998"
+        }
+      }
+    },
+    "field_tags": {
+      "data": [],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/9b72b728-8ed1-4cd3-846b-e17e1f0a5b4e/field_tags?resourceVersion=id%3A3998"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/9b72b728-8ed1-4cd3-846b-e17e1f0a5b4e/relationships/field_tags?resourceVersion=id%3A3998"
+        }
+      }
+    }
+  }
+}

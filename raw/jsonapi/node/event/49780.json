@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "ab74dfd6-97b4-42b1-9d44-8bf61bdf329f",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/ab74dfd6-97b4-42b1-9d44-8bf61bdf329f?resourceVersion=id%3A3551"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/ab74dfd6-97b4-42b1-9d44-8bf61bdf329f?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49780,
+    "drupal_internal__vid": 3551,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Herzl",
+    "created": "2012-01-16T14:08:54+00:00",
+    "changed": "2012-01-16T14:08:54+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49780",
+      "pid": 1592,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Die Bekanntschaft Bahrs mit Herzl beginnt 1883, 1893 sehen sie sich in Paris, doch dürfte die Freundschaft erst nach Herzls Rückkehr nach Wien Ende 1895 begonnen haben. Bahr berichtet öfters, wie Herzl in die Redaktion der \"Zeit\" kam und die beiden diskutierend um die Votivkirche spazierten. Herzls Rückkehr fällt zusammen mit dem Erscheinen des \"Judenstaats\" und Bahrs erste Erwähnung in Herzls Tagebuch ist positiv:<blockquote>23. Februar [1896] […] Hermann Bahr sagte mir, er wolle gegen mich schreiben, weil man die Juden nicht entbehren könne. <i>Pas mal!</i></blockquote>",
+      "format": "full_html",
+      "processed": "Die Bekanntschaft Bahrs mit Herzl beginnt 1883, 1893 sehen sie sich in Paris, doch dürfte die Freundschaft erst nach Herzls Rückkehr nach Wien Ende 1895 begonnen haben. Bahr berichtet öfters, wie Herzl in die Redaktion der \"Zeit\" kam und die beiden diskutierend um die Votivkirche spazierten. Herzls Rückkehr fällt zusammen mit dem Erscheinen des \"Judenstaats\" und Bahrs erste Erwähnung in Herzls Tagebuch ist positiv:<blockquote>23. Februar [1896] […] Hermann Bahr sagte mir, er wolle gegen mich schreiben, weil man die Juden nicht entbehren könne. <i>Pas mal!</i></blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1896-02-23",
+      "end_value": "1896-02-23"
+    },
+    "field_sources": [
+      "[1] Z. B. Liebe der Lebenden, II, 253.",
+      "[2] Theodor Herzls Tagebücher. Erster Band. Berlin: Jüdischer Verlag 1922, 351."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ab74dfd6-97b4-42b1-9d44-8bf61bdf329f/node_type?resourceVersion=id%3A3551"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ab74dfd6-97b4-42b1-9d44-8bf61bdf329f/relationships/node_type?resourceVersion=id%3A3551"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ab74dfd6-97b4-42b1-9d44-8bf61bdf329f/revision_uid?resourceVersion=id%3A3551"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ab74dfd6-97b4-42b1-9d44-8bf61bdf329f/relationships/revision_uid?resourceVersion=id%3A3551"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ab74dfd6-97b4-42b1-9d44-8bf61bdf329f/uid?resourceVersion=id%3A3551"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ab74dfd6-97b4-42b1-9d44-8bf61bdf329f/relationships/uid?resourceVersion=id%3A3551"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ab74dfd6-97b4-42b1-9d44-8bf61bdf329f/field_event_type?resourceVersion=id%3A3551"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ab74dfd6-97b4-42b1-9d44-8bf61bdf329f/relationships/field_event_type?resourceVersion=id%3A3551"
+        }
+      }
+    }
+  }
+}

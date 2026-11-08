@@ -1,0 +1,119 @@
+{
+  "type": "node--event",
+  "id": "0b49b24e-25a3-427c-87ac-1a853a58bdbe",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/0b49b24e-25a3-427c-87ac-1a853a58bdbe?resourceVersion=id%3A3438"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/0b49b24e-25a3-427c-87ac-1a853a58bdbe?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49612,
+    "drupal_internal__vid": 3438,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "In Adolf Wagners Seminar",
+    "created": "2011-11-16T14:22:28+00:00",
+    "changed": "2013-03-12T11:48:35+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49612",
+      "pid": 1428,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "In einem Brief an seinen Vater zählt Bahr auf, wer im Seminar von Adolf Wagner sitzt, das am 24. Mai 1884 begann:\r\n<blockquote>Eine höchst internationale Gesellschaft: Ein Amerikaner, ein Engländer, ein Belgier, der eine Zeit lang bei der belgischen Gesandtschaft in Brasilien attachirt gewesen, ein Italiener, ein junger russischer Staatsbeamter, ein tschechischer Doktor, ein Wiener Doktor, ein preußischer Referendar, der Rest deutsche Studenten.</blockquote>\r\nMit dem Selbstbildnis (und anderen Quellen) lassen sich Personen entschlüsseln:\r\nHeinrich Dietzel, Werner Sombart, Karel Kramař [\"der tschechische Doktor\"] und einer der zeitlebens engsten Freunde Bahrs, Wolfgang Heine [\"preußischer Referendar\"] sowie der spätere Bundespräsident Michael Hainisch [\"Wiener Doktor\"].\r\nInwiefern es zutrifft, dass Bahr für Adolf Wagner eine der größten Hoffnungen seines Seminars und gleichermaßen auch Enttäuschung war, ist offen. Sicher ist, dass Bahr innerhalb von wenigen Wochen beginnt, über Rodbertus - und damit über dessen Herausgeber Wagner - publizistisch aufzutreten.",
+      "format": "full_html",
+      "processed": "In einem Brief an seinen Vater zählt Bahr auf, wer im Seminar von Adolf Wagner sitzt, das am 24. Mai 1884 begann:\n<blockquote>Eine höchst internationale Gesellschaft: Ein Amerikaner, ein Engländer, ein Belgier, der eine Zeit lang bei der belgischen Gesandtschaft in Brasilien attachirt gewesen, ein Italiener, ein junger russischer Staatsbeamter, ein tschechischer Doktor, ein Wiener Doktor, ein preußischer Referendar, der Rest deutsche Studenten.</blockquote>\nMit dem Selbstbildnis (und anderen Quellen) lassen sich Personen entschlüsseln:\nHeinrich Dietzel, Werner Sombart, Karel Kramař [\"der tschechische Doktor\"] und einer der zeitlebens engsten Freunde Bahrs, Wolfgang Heine [\"preußischer Referendar\"] sowie der spätere Bundespräsident Michael Hainisch [\"Wiener Doktor\"].\nInwiefern es zutrifft, dass Bahr für Adolf Wagner eine der größten Hoffnungen seines Seminars und gleichermaßen auch Enttäuschung war, ist offen. Sicher ist, dass Bahr innerhalb von wenigen Wochen beginnt, über Rodbertus - und damit über dessen Herausgeber Wagner - publizistisch aufzutreten.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1884-05-05",
+      "end_value": "1884-05-05"
+    },
+    "field_sources": [
+      "Brief an den Vater, 25.5.1884",
+      "Selbstbildnis, 174-177",
+      "Hermann Bahr: Rodbertus Kapital. [I]. Kyffhäuser-Zeitung, 3.6 (1884) #37, 380-381. (9.6.1884)",
+      "Nachruf auf Wagner in: Hermann Bahr: Tagebuch. Salzburg, 12. November. Neues Wiener Journal, 25 (1917) #8647, 5-6. (25.11.1917) Buchausgabe: Tagebuch \"1917\", 210-217\r\n"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0b49b24e-25a3-427c-87ac-1a853a58bdbe/node_type?resourceVersion=id%3A3438"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0b49b24e-25a3-427c-87ac-1a853a58bdbe/relationships/node_type?resourceVersion=id%3A3438"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0b49b24e-25a3-427c-87ac-1a853a58bdbe/revision_uid?resourceVersion=id%3A3438"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0b49b24e-25a3-427c-87ac-1a853a58bdbe/relationships/revision_uid?resourceVersion=id%3A3438"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0b49b24e-25a3-427c-87ac-1a853a58bdbe/uid?resourceVersion=id%3A3438"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0b49b24e-25a3-427c-87ac-1a853a58bdbe/relationships/uid?resourceVersion=id%3A3438"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0b49b24e-25a3-427c-87ac-1a853a58bdbe/field_event_type?resourceVersion=id%3A3438"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0b49b24e-25a3-427c-87ac-1a853a58bdbe/relationships/field_event_type?resourceVersion=id%3A3438"
+        }
+      }
+    }
+  }
+}

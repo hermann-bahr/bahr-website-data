@@ -1,0 +1,122 @@
+{
+  "type": "node--event",
+  "id": "7a42a6a7-3f68-4cbd-99f7-0a91ccec9721",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/7a42a6a7-3f68-4cbd-99f7-0a91ccec9721?resourceVersion=id%3A2568"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/7a42a6a7-3f68-4cbd-99f7-0a91ccec9721?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38745,
+    "drupal_internal__vid": 2568,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Karl Schönherr",
+    "created": "2011-01-21T10:49:57+00:00",
+    "changed": "2013-01-07T14:31:33+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38745",
+      "pid": 494,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Karl Schönherr veröffentlicht am 18. Jänner im \"Neuen Wiener Tagblatt\" [1] eine heftige Polemik gegen Bahr, weil dieser das Stück \"Königreich\" nicht zur vertragsmäßigen Aufführung bringen will und zieht alle seine Stücke vom Burgtheater zurück. Die Bombe [2] fasst zusammen:<blockquote>Hermann Bahr, der Mit-Direktor des Burgtheaters, hat Schönherr die Türe der ehemaligen Hofbühne gewiesen. <br>Man nimmt allgemein an, daß diese Maßregelung dem freisinnigen Dichter von \"Glaube und Heimat\" gilt, und kann sich als geübter Österreicher darüber nicht wundern.<br>Wir haben zwar einen radikalen Freistaat, aber an vielen Stellen bleibt der Klerikalismus Trumpf.<br>Allerdings, der ehemalige Sozialist Bahr als Klerikaler – das macht selbst dem geübtesten Österreicher Magendrücken.<br>Gestalten wie Hermann Bahr sollten im erneuten Österreich denn doch ins Dunkel zurücktreten.</blockquote>Nicht uninteressant dazu das Gespräch Schnitzlers mit Bahr, worin Bahr bekennt, sämtliche von seinem Vorgänger Millenkovich angenommenen Stücke nicht spielen zu wollen, explizit auch Schönherrs \"Weibsteufel\".[3]",
+      "format": "full_html",
+      "processed": "Karl Schönherr veröffentlicht am 18. Jänner im \"Neuen Wiener Tagblatt\" [1] eine heftige Polemik gegen Bahr, weil dieser das Stück \"Königreich\" nicht zur vertragsmäßigen Aufführung bringen will und zieht alle seine Stücke vom Burgtheater zurück. Die Bombe [2] fasst zusammen:<blockquote>Hermann Bahr, der Mit-Direktor des Burgtheaters, hat Schönherr die Türe der ehemaligen Hofbühne gewiesen. <br>Man nimmt allgemein an, daß diese Maßregelung dem freisinnigen Dichter von \"Glaube und Heimat\" gilt, und kann sich als geübter Österreicher darüber nicht wundern.<br>Wir haben zwar einen radikalen Freistaat, aber an vielen Stellen bleibt der Klerikalismus Trumpf.<br>Allerdings, der ehemalige Sozialist Bahr als Klerikaler – das macht selbst dem geübtesten Österreicher Magendrücken.<br>Gestalten wie Hermann Bahr sollten im erneuten Österreich denn doch ins Dunkel zurücktreten.</blockquote>Nicht uninteressant dazu das Gespräch Schnitzlers mit Bahr, worin Bahr bekennt, sämtliche von seinem Vorgänger Millenkovich angenommenen Stücke nicht spielen zu wollen, explizit auch Schönherrs \"Weibsteufel\".[3]",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1919-01-18",
+      "end_value": "1919-01-18"
+    },
+    "field_sources": [
+      "Meldung in: Vossische Zeitung, 1919 #34, Sonntags-Ausgabe, 3. (19.1.1919)",
+      "[2] Die Bombe, 49 (1919) #4, 3. (1.2.1919)",
+      "Karl Schönherr contra Hermann Bahr. Volkszeitung, 19.1.1919, 5.",
+      "Meldung in: Berliner Tageblatt, 48 (1919) #21, Morgen-Ausgabe, 2. (19.1.1919)",
+      "Schönherr contra Bahr. In: Deutsche Zeitung Bohemia, 92 (1919) #20, 7. (21.1.1919)\r\n",
+      "[1] Karl Schönherr: Mein Volksmärchen 'Königreich' und das Burgtheater des Herrn Bahr. In: Neues Wiener Tagblatt, 18.1.1919, 2.",
+      "Schnitzler: Tagebücher, V, 178. (15.9.1918)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7a42a6a7-3f68-4cbd-99f7-0a91ccec9721/node_type?resourceVersion=id%3A2568"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7a42a6a7-3f68-4cbd-99f7-0a91ccec9721/relationships/node_type?resourceVersion=id%3A2568"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7a42a6a7-3f68-4cbd-99f7-0a91ccec9721/revision_uid?resourceVersion=id%3A2568"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7a42a6a7-3f68-4cbd-99f7-0a91ccec9721/relationships/revision_uid?resourceVersion=id%3A2568"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7a42a6a7-3f68-4cbd-99f7-0a91ccec9721/uid?resourceVersion=id%3A2568"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7a42a6a7-3f68-4cbd-99f7-0a91ccec9721/relationships/uid?resourceVersion=id%3A2568"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7a42a6a7-3f68-4cbd-99f7-0a91ccec9721/field_event_type?resourceVersion=id%3A2568"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7a42a6a7-3f68-4cbd-99f7-0a91ccec9721/relationships/field_event_type?resourceVersion=id%3A2568"
+        }
+      }
+    }
+  }
+}

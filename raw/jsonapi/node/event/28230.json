@@ -1,0 +1,114 @@
+{
+  "type": "node--event",
+  "id": "5dea8137-155a-4386-9cfa-c1a3f9e87ca9",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/5dea8137-155a-4386-9cfa-c1a3f9e87ca9?resourceVersion=id%3A2529"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/5dea8137-155a-4386-9cfa-c1a3f9e87ca9?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28230,
+    "drupal_internal__vid": 2529,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Verbot Fin de siècle",
+    "created": "2010-11-03T08:17:24+00:00",
+    "changed": "2010-11-03T08:17:24+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28230",
+      "pid": 367,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<blockquote>\r\nDie Polizei fährt fort, sich mit der jungdeutschen Literatur zu beschäftigen. Wie man uns mittheilt, ist Hermann Bahrs Novellensammlung „Fin de siècle“ verboten und 149 Exemplare, die sich beim Verlagsbuchhändler noch vorfanden, mit Beschlag belegt worden. Die Auflage ist also so gut wie verkauft. Fehlte nur noch die Reklame. Dafür hat nun auch die gütige Polizei gesorgt.</blockquote>\r\n<i>Berliner Tageblatt, 20 (1891) #5, 2. Beiblatt, 1. (4.1.1891)</i>",
+      "format": "full_html",
+      "processed": "<blockquote>\nDie Polizei fährt fort, sich mit der jungdeutschen Literatur zu beschäftigen. Wie man uns mittheilt, ist Hermann Bahrs Novellensammlung „Fin de siècle“ verboten und 149 Exemplare, die sich beim Verlagsbuchhändler noch vorfanden, mit Beschlag belegt worden. Die Auflage ist also so gut wie verkauft. Fehlte nur noch die Reklame. Dafür hat nun auch die gütige Polizei gesorgt.</blockquote>\n<i>Berliner Tageblatt, 20 (1891) #5, 2. Beiblatt, 1. (4.1.1891)</i>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1891-01-04",
+      "end_value": "1891-01-04"
+    },
+    "field_sources": []
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5dea8137-155a-4386-9cfa-c1a3f9e87ca9/node_type?resourceVersion=id%3A2529"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5dea8137-155a-4386-9cfa-c1a3f9e87ca9/relationships/node_type?resourceVersion=id%3A2529"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5dea8137-155a-4386-9cfa-c1a3f9e87ca9/revision_uid?resourceVersion=id%3A2529"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5dea8137-155a-4386-9cfa-c1a3f9e87ca9/relationships/revision_uid?resourceVersion=id%3A2529"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5dea8137-155a-4386-9cfa-c1a3f9e87ca9/uid?resourceVersion=id%3A2529"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5dea8137-155a-4386-9cfa-c1a3f9e87ca9/relationships/uid?resourceVersion=id%3A2529"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5dea8137-155a-4386-9cfa-c1a3f9e87ca9/field_event_type?resourceVersion=id%3A2529"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5dea8137-155a-4386-9cfa-c1a3f9e87ca9/relationships/field_event_type?resourceVersion=id%3A2529"
+        }
+      }
+    }
+  }
+}

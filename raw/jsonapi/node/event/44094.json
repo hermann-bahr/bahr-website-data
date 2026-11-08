@@ -1,0 +1,119 @@
+{
+  "type": "node--event",
+  "id": "2747f6b9-b995-466e-b974-a3c4437bddaa",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/2747f6b9-b995-466e-b974-a3c4437bddaa?resourceVersion=id%3A3011"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/2747f6b9-b995-466e-b974-a3c4437bddaa?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44094,
+    "drupal_internal__vid": 3011,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Wolfgang Heine, Wilhelm Heine",
+    "created": "2011-09-08T13:24:16+00:00",
+    "changed": "2012-05-31T19:05:23+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44094",
+      "pid": 989,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Über den Beginn seiner Freundschaft mit dem späteren sozialistischen Politiker Wolfgang Heine (1861-1944) schreibt Bahr am Beginn seines Feuilletons über \"Vor Sonnenaufgang\". Er siedelt es in seinem Studium in Berlin an, als sie gemeinsam im Café Bauer in Berlin polemisieren. Beide sind, wie er im Selbstbildnis schreibt, im Seminar Adolf Wagners. Genauer datieren lässt es sich mit einem Brief Heines an Bahr, der im \"Briefkasten\" der Kyffhäuser-Zeitung erscheint, für die Heine arbeitet. Am 9. Juni 1884, im gleichen Heft, das Bahrs ersten Text für die Zeitung enthält, steht da:<blockquote><strong>Hermann Bahr, Berlin.</strong> Schönen Dank, wir bitten um Fortsetzung. D. Gr.<br>Würden Sie wohl die Freundlichkeit haben, mir so schnell als möglich Ihre Adresse mitzuteilen? Ich muß Sie in dringenden Angelegenheiten womöglich noch vor Montag sprechen. Wolfgang Heine, Schumannstr. 11.</blockquote>Damit kennen sie sich noch nicht, obgleich sie beim gleichen Professor studieren. Die Freundschaft vertieft sich, als Bahr im Dezember in die Kalkscheunenstraße und damit in die Nähe Wolfgangs und seines jüngeren Bruders Wilhelms zieht.",
+      "format": "full_html",
+      "processed": "Über den Beginn seiner Freundschaft mit dem späteren sozialistischen Politiker Wolfgang Heine (1861-1944) schreibt Bahr am Beginn seines Feuilletons über \"Vor Sonnenaufgang\". Er siedelt es in seinem Studium in Berlin an, als sie gemeinsam im Café Bauer in Berlin polemisieren. Beide sind, wie er im Selbstbildnis schreibt, im Seminar Adolf Wagners. Genauer datieren lässt es sich mit einem Brief Heines an Bahr, der im \"Briefkasten\" der Kyffhäuser-Zeitung erscheint, für die Heine arbeitet. Am 9. Juni 1884, im gleichen Heft, das Bahrs ersten Text für die Zeitung enthält, steht da:<blockquote><strong>Hermann Bahr, Berlin.</strong> Schönen Dank, wir bitten um Fortsetzung. D. Gr.<br>Würden Sie wohl die Freundlichkeit haben, mir so schnell als möglich Ihre Adresse mitzuteilen? Ich muß Sie in dringenden Angelegenheiten womöglich noch vor Montag sprechen. Wolfgang Heine, Schumannstr. 11.</blockquote>Damit kennen sie sich noch nicht, obgleich sie beim gleichen Professor studieren. Die Freundschaft vertieft sich, als Bahr im Dezember in die Kalkscheunenstraße und damit in die Nähe Wolfgangs und seines jüngeren Bruders Wilhelms zieht.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1884-06-09",
+      "end_value": "1884-06-09"
+    },
+    "field_sources": [
+      "Hermann Bahr: Vor Sonnenaufgang. (Soziales Drama von Gerhart Hauptmann. Zur heutigen Aufführung durch den Akademischen Verein für Kunst und Literatur im Deutschen Volkstheater). Neues Wiener Tagblatt, 37 (1903) #113, 1-3. (25.4.1903) Buchausgabe: Glossen, 140-149.\r\n",
+      "Selbstbildnis, 177-149",
+      "Hermann Bahr: Rodbertus Kapital. [I]. Kyffhäuser-Zeitung. Wochenschrift für alle Hochschulen-Angehörige deutschen Stammes und deutscher Zunge, 3.6 (1884) #37, 380-381. (9.6.1884)",
+      "Erich Hermann Bahr, Karl Beurle, Richard Fellner, Wilhelm Heine, Wolfgang Heine und Theodor Jaensch: Erklärung. Unverfälschte deutsche Worte, 3 (1885) #3, VIII. (1.2.1885)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2747f6b9-b995-466e-b974-a3c4437bddaa/node_type?resourceVersion=id%3A3011"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2747f6b9-b995-466e-b974-a3c4437bddaa/relationships/node_type?resourceVersion=id%3A3011"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2747f6b9-b995-466e-b974-a3c4437bddaa/revision_uid?resourceVersion=id%3A3011"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2747f6b9-b995-466e-b974-a3c4437bddaa/relationships/revision_uid?resourceVersion=id%3A3011"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2747f6b9-b995-466e-b974-a3c4437bddaa/uid?resourceVersion=id%3A3011"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2747f6b9-b995-466e-b974-a3c4437bddaa/relationships/uid?resourceVersion=id%3A3011"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2747f6b9-b995-466e-b974-a3c4437bddaa/field_event_type?resourceVersion=id%3A3011"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2747f6b9-b995-466e-b974-a3c4437bddaa/relationships/field_event_type?resourceVersion=id%3A3011"
+        }
+      }
+    }
+  }
+}

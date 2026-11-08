@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "6c2daa42-fe93-4a3b-91e3-a6a784444091",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/6c2daa42-fe93-4a3b-91e3-a6a784444091?resourceVersion=id%3A3479"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/6c2daa42-fe93-4a3b-91e3-a6a784444091?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49699,
+    "drupal_internal__vid": 3479,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "\"Österreich in Ewigkeit\" fertiggestellt",
+    "created": "2011-11-29T15:13:36+00:00",
+    "changed": "2011-11-29T15:13:36+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49699",
+      "pid": 1513,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "In einer Umfrage erklärt Bahr am 19. Mai 1929, seinen neuen Roman \"Österreich in Ewigkeit\" fertiggestellt zu haben.",
+      "format": "full_html",
+      "processed": "In einer Umfrage erklärt Bahr am 19. Mai 1929, seinen neuen Roman \"Österreich in Ewigkeit\" fertiggestellt zu haben.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1929-05-19",
+      "end_value": "1929-05-19"
+    },
+    "field_sources": [
+      "Hermann Bahr: Woran arbeiten Sie? Eine Rundfrage des \"Neuen Wiener Journals\" an prominente Schriftsteller und Musiker. Neues Wiener Journal, 37 (1929) #12748, 13-14, hier: 13. (19.5.1929)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6c2daa42-fe93-4a3b-91e3-a6a784444091/node_type?resourceVersion=id%3A3479"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6c2daa42-fe93-4a3b-91e3-a6a784444091/relationships/node_type?resourceVersion=id%3A3479"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6c2daa42-fe93-4a3b-91e3-a6a784444091/revision_uid?resourceVersion=id%3A3479"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6c2daa42-fe93-4a3b-91e3-a6a784444091/relationships/revision_uid?resourceVersion=id%3A3479"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6c2daa42-fe93-4a3b-91e3-a6a784444091/uid?resourceVersion=id%3A3479"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6c2daa42-fe93-4a3b-91e3-a6a784444091/relationships/uid?resourceVersion=id%3A3479"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6c2daa42-fe93-4a3b-91e3-a6a784444091/field_event_type?resourceVersion=id%3A3479"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6c2daa42-fe93-4a3b-91e3-a6a784444091/relationships/field_event_type?resourceVersion=id%3A3479"
+        }
+      }
+    }
+  }
+}

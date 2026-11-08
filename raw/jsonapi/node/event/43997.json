@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "f6dcd463-3e50-4a1e-a6d7-1cae3963af52",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f6dcd463-3e50-4a1e-a6d7-1cae3963af52?resourceVersion=id%3A2924"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f6dcd463-3e50-4a1e-a6d7-1cae3963af52?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 43997,
+    "drupal_internal__vid": 2924,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "München",
+    "created": "2011-07-13T10:45:35+00:00",
+    "changed": "2011-09-14T13:18:01+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/43997",
+      "pid": 897,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Schnitzler an Adele Sandrock am 5. Juni 1894 aus München: <blockquote>Bahr ist heute früh gekommen.</blockquote>Am 7. Juni in sein Tagebuch:<blockquote>Bahr reist ab.</blockquote>",
+      "format": "full_html",
+      "processed": "Schnitzler an Adele Sandrock am 5. Juni 1894 aus München: <blockquote>Bahr ist heute früh gekommen.</blockquote>Am 7. Juni in sein Tagebuch:<blockquote>Bahr reist ab.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1894-06-05",
+      "end_value": "1894-06-07"
+    },
+    "field_sources": [
+      "Adele Sandrock und Arthur Schnitzler: Dilly. Geschichte einer Liebe in Briefen, Bildern und Dokumenten. Hg. Renate Wagner. Frankfurt/Main: Fischer 1983, 124.",
+      "Schnitzler: Tagebuch, II, 78.",
+      "Vgl. Hugo v. Hofmannsthal – Richard Beer-Hofmann: Briefwechsel. Hg. Eugen Weber. Frankfurt/Main: Fischer 1972, 32. Zit. n. Tagebuch (Csàky), II, XIX."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f6dcd463-3e50-4a1e-a6d7-1cae3963af52/node_type?resourceVersion=id%3A2924"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f6dcd463-3e50-4a1e-a6d7-1cae3963af52/relationships/node_type?resourceVersion=id%3A2924"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f6dcd463-3e50-4a1e-a6d7-1cae3963af52/revision_uid?resourceVersion=id%3A2924"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f6dcd463-3e50-4a1e-a6d7-1cae3963af52/relationships/revision_uid?resourceVersion=id%3A2924"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f6dcd463-3e50-4a1e-a6d7-1cae3963af52/uid?resourceVersion=id%3A2924"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f6dcd463-3e50-4a1e-a6d7-1cae3963af52/relationships/uid?resourceVersion=id%3A2924"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f6dcd463-3e50-4a1e-a6d7-1cae3963af52/field_event_type?resourceVersion=id%3A2924"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f6dcd463-3e50-4a1e-a6d7-1cae3963af52/relationships/field_event_type?resourceVersion=id%3A2924"
+        }
+      }
+    }
+  }
+}

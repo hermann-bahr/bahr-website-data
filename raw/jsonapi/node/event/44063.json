@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "34411d11-bcc5-49ae-957b-da74a1e0601f",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/34411d11-bcc5-49ae-957b-da74a1e0601f?resourceVersion=id%3A2983"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/34411d11-bcc5-49ae-957b-da74a1e0601f?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44063,
+    "drupal_internal__vid": 2983,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Internationales Zeitschriftenprojekt",
+    "created": "2011-09-02T10:37:50+00:00",
+    "changed": "2011-09-02T10:37:50+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44063",
+      "pid": 961,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 11. November 1906 trifft Bahr auf den Verleger Bard, mit dem er den Entwurf einer internationalen Zeitschrift diskutiert. Sie sollte zumindest in deutsch, französisch und englisch erscheinen oder gleich dreisprachig sein. Bahr wäre Chefredakteur. Das Projekt wurde nie umgesetzt.",
+      "format": "full_html",
+      "processed": "Am 11. November 1906 trifft Bahr auf den Verleger Bard, mit dem er den Entwurf einer internationalen Zeitschrift diskutiert. Sie sollte zumindest in deutsch, französisch und englisch erscheinen oder gleich dreisprachig sein. Bahr wäre Chefredakteur. Das Projekt wurde nie umgesetzt.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1906-11-11",
+      "end_value": "1906-11-11"
+    },
+    "field_sources": [
+      "Tagebücher (Csàky), III, 22."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/34411d11-bcc5-49ae-957b-da74a1e0601f/node_type?resourceVersion=id%3A2983"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/34411d11-bcc5-49ae-957b-da74a1e0601f/relationships/node_type?resourceVersion=id%3A2983"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/34411d11-bcc5-49ae-957b-da74a1e0601f/revision_uid?resourceVersion=id%3A2983"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/34411d11-bcc5-49ae-957b-da74a1e0601f/relationships/revision_uid?resourceVersion=id%3A2983"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/34411d11-bcc5-49ae-957b-da74a1e0601f/uid?resourceVersion=id%3A2983"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/34411d11-bcc5-49ae-957b-da74a1e0601f/relationships/uid?resourceVersion=id%3A2983"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "d579e54c-64dd-4193-a9ef-da87efb3ed16",
+          "meta": {
+            "drupal_internal__target_id": 8
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/34411d11-bcc5-49ae-957b-da74a1e0601f/field_event_type?resourceVersion=id%3A2983"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/34411d11-bcc5-49ae-957b-da74a1e0601f/relationships/field_event_type?resourceVersion=id%3A2983"
+        }
+      }
+    }
+  }
+}

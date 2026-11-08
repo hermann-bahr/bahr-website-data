@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "100419a6-702d-4797-8316-5c1c4d975e56",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/100419a6-702d-4797-8316-5c1c4d975e56?resourceVersion=id%3A2630"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/100419a6-702d-4797-8316-5c1c4d975e56?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38809,
+    "drupal_internal__vid": 2630,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Censurkommission",
+    "created": "2011-02-02T14:43:46+00:00",
+    "changed": "2011-07-18T14:50:20+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38809",
+      "pid": 557,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Anfang Jänner 1897: Bahr ist zusammen mit Alfred von Berger, Max Burckhard und anderen in der Censurkommission, die offizielle Vorschläge zu einer Neuordnung des Zensurwesens bzw. deren Abschaffung liefern soll.",
+      "format": "full_html",
+      "processed": "Anfang Jänner 1897: Bahr ist zusammen mit Alfred von Berger, Max Burckhard und anderen in der Censurkommission, die offizielle Vorschläge zu einer Neuordnung des Zensurwesens bzw. deren Abschaffung liefern soll.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1897-01-14",
+      "end_value": "1897-01-14"
+    },
+    "field_sources": [
+      "Brief an den Vater, 14.1.1897"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/100419a6-702d-4797-8316-5c1c4d975e56/node_type?resourceVersion=id%3A2630"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/100419a6-702d-4797-8316-5c1c4d975e56/relationships/node_type?resourceVersion=id%3A2630"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/100419a6-702d-4797-8316-5c1c4d975e56/revision_uid?resourceVersion=id%3A2630"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/100419a6-702d-4797-8316-5c1c4d975e56/relationships/revision_uid?resourceVersion=id%3A2630"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/100419a6-702d-4797-8316-5c1c4d975e56/uid?resourceVersion=id%3A2630"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/100419a6-702d-4797-8316-5c1c4d975e56/relationships/uid?resourceVersion=id%3A2630"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/100419a6-702d-4797-8316-5c1c4d975e56/field_event_type?resourceVersion=id%3A2630"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/100419a6-702d-4797-8316-5c1c4d975e56/relationships/field_event_type?resourceVersion=id%3A2630"
+        }
+      }
+    }
+  }
+}

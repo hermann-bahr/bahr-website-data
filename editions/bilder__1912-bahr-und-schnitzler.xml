@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bilder__1912-bahr-und-schnitzler" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">1912 Bahr und Schnitzler</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">28243</idno>
+        <idno type="drupal-alias">/bild/28243</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bild/28243">https://bahr.univie.ac.at/bild/28243</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="7" key="bilder">Bilder</term>
+          <term n="23" key="1912-bahr-und-schnitzler" type="eintrag">1912 Bahr und Schnitzler</term>
+        </keywords>
+        <classCode scheme="drupal-type">image</classCode>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2010-11-09T12:13:46+00:00" type="created">angelegt in Drupal</change>
+      <change when="2010-11-09T12:14:13+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <figure>
+          <graphic url="files/bahr_bilder/1912_bahr-schnitzler.jpg"/>
+          <figDesc>1912 Bahr und Schnitzler</figDesc>
+        </figure>
+        <p>
+          <hi rend="italic">Der Merker, 3 (1912) #11</hi>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

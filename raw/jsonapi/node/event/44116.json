@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "33f1290d-a391-40bc-8fdb-22138bd0e56f",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/33f1290d-a391-40bc-8fdb-22138bd0e56f?resourceVersion=id%3A3032"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/33f1290d-a391-40bc-8fdb-22138bd0e56f?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44116,
+    "drupal_internal__vid": 3032,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Annus mirabilis",
+    "created": "2011-09-14T10:38:41+00:00",
+    "changed": "2012-10-29T09:58:35+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44116",
+      "pid": 1011,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahrs Jahresrückschau an Silvester 1904 ist in Anbetracht der frischen Beziehung zur Mildenburg positiv:<blockquote>Annus mirabilis. Mit dem Tod beginnend. Akropolis. Vom Marsyas und Sanna. Die schönen Tage in Rodaun. Bayreuth. Der 6. September. Und seitdem dies.</blockquote>Dieser Ausdruck, mit dieser Reihenfolge begründet, findet sich auch schon am 8. September in einem Brief an Gerty Hofmannsthal, da aber die \"Tage in Rodaun\" mit \"in diesem Jahr habe ich Sie kennen gelernt\" expliziert.",
+      "format": "full_html",
+      "processed": "Bahrs Jahresrückschau an Silvester 1904 ist in Anbetracht der frischen Beziehung zur Mildenburg positiv:<blockquote>Annus mirabilis. Mit dem Tod beginnend. Akropolis. Vom Marsyas und Sanna. Die schönen Tage in Rodaun. Bayreuth. Der 6. September. Und seitdem dies.</blockquote>Dieser Ausdruck, mit dieser Reihenfolge begründet, findet sich auch schon am 8. September in einem Brief an Gerty Hofmannsthal, da aber die \"Tage in Rodaun\" mit \"in diesem Jahr habe ich Sie kennen gelernt\" expliziert.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1904-12-31",
+      "end_value": "1904-12-31"
+    },
+    "field_sources": [
+      "An Gerty, 8.9.1904. Briefwechsel Bahr/Hofmannsthal. Hg. Elsbeth Dangel-Pelloquin. Göttingen: Wallstein. (In Vorbereitung)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/33f1290d-a391-40bc-8fdb-22138bd0e56f/node_type?resourceVersion=id%3A3032"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/33f1290d-a391-40bc-8fdb-22138bd0e56f/relationships/node_type?resourceVersion=id%3A3032"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/33f1290d-a391-40bc-8fdb-22138bd0e56f/revision_uid?resourceVersion=id%3A3032"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/33f1290d-a391-40bc-8fdb-22138bd0e56f/relationships/revision_uid?resourceVersion=id%3A3032"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/33f1290d-a391-40bc-8fdb-22138bd0e56f/uid?resourceVersion=id%3A3032"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/33f1290d-a391-40bc-8fdb-22138bd0e56f/relationships/uid?resourceVersion=id%3A3032"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/33f1290d-a391-40bc-8fdb-22138bd0e56f/field_event_type?resourceVersion=id%3A3032"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/33f1290d-a391-40bc-8fdb-22138bd0e56f/relationships/field_event_type?resourceVersion=id%3A3032"
+        }
+      }
+    }
+  }
+}

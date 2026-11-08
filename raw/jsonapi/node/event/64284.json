@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "382777fa-fb35-4b71-93be-9d2a88299ae3",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/382777fa-fb35-4b71-93be-9d2a88299ae3?resourceVersion=id%3A3674"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/382777fa-fb35-4b71-93be-9d2a88299ae3?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 64284,
+    "drupal_internal__vid": 3674,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Wiener Studenten-Club",
+    "created": "2012-09-24T15:24:19+00:00",
+    "changed": "2013-04-02T08:36:19+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/64284",
+      "pid": 1717,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 13. März 1882 wird Bahr zum Schriftführer des Wiener Studenten-Clubs gewählt. Geleitet wird dieser von Edmund Wengraf. Im Folgejahr nimmt er keine Position mehr ein. Im Zuge einer Statutenänderung wird 1883 auch die bisherige Aufgabe beschrieben: <blockquote>der Club, dessen Aufgabe es war, der nationalen Finkenschaft Wiens einestheils einen geistigen und geselligen Mittelpunkt und anderntheils eine stramm organisirte Parteidisciplin zu schaffen, zählt bereits  ü b e r  hundert Mitglieder, welche er vollzählig dem Vereine der deutschen Studenten Wiens zuzuführen zu können hofft.</blockquote>",
+      "format": "full_html",
+      "processed": "Am 13. März 1882 wird Bahr zum Schriftführer des Wiener Studenten-Clubs gewählt. Geleitet wird dieser von Edmund Wengraf. Im Folgejahr nimmt er keine Position mehr ein. Im Zuge einer Statutenänderung wird 1883 auch die bisherige Aufgabe beschrieben: <blockquote>der Club, dessen Aufgabe es war, der nationalen Finkenschaft Wiens einestheils einen geistigen und geselligen Mittelpunkt und anderntheils eine stramm organisirte Parteidisciplin zu schaffen, zählt bereits  ü b e r  hundert Mitglieder, welche er vollzählig dem Vereine der deutschen Studenten Wiens zuzuführen zu können hofft.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1882-03-16",
+      "end_value": "1882-03-16"
+    },
+    "field_sources": [
+      "Deutsche Hochschule, Prag, 1 (1882) #3, 4. (16.3.1882)",
+      "Deutsche Hochschule, Prag, 2 (1883) #47, 7. (1.2.1883)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/382777fa-fb35-4b71-93be-9d2a88299ae3/node_type?resourceVersion=id%3A3674"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/382777fa-fb35-4b71-93be-9d2a88299ae3/relationships/node_type?resourceVersion=id%3A3674"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/382777fa-fb35-4b71-93be-9d2a88299ae3/revision_uid?resourceVersion=id%3A3674"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/382777fa-fb35-4b71-93be-9d2a88299ae3/relationships/revision_uid?resourceVersion=id%3A3674"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/382777fa-fb35-4b71-93be-9d2a88299ae3/uid?resourceVersion=id%3A3674"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/382777fa-fb35-4b71-93be-9d2a88299ae3/relationships/uid?resourceVersion=id%3A3674"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/382777fa-fb35-4b71-93be-9d2a88299ae3/field_event_type?resourceVersion=id%3A3674"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/382777fa-fb35-4b71-93be-9d2a88299ae3/relationships/field_event_type?resourceVersion=id%3A3674"
+        }
+      }
+    }
+  }
+}

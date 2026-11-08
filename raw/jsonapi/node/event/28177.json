@@ -1,0 +1,114 @@
+{
+  "type": "node--event",
+  "id": "53e46996-d5c4-4de3-8cbd-fbc39af27c97",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/53e46996-d5c4-4de3-8cbd-fbc39af27c97?resourceVersion=id%3A2486"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/53e46996-d5c4-4de3-8cbd-fbc39af27c97?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28177,
+    "drupal_internal__vid": 2486,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Ganghofer",
+    "created": "2010-09-06T09:18:30+00:00",
+    "changed": "2010-09-06T09:18:30+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28177",
+      "pid": 323,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Zum 20. April 1918 vermerkt Bahr in seinem \"Tagebuch\", dass er nach dem Konzert seiner Frau in München mit Ludwig Ganghofer und Gattin Catharina zusammensaß.",
+      "format": "full_html",
+      "processed": "Zum 20. April 1918 vermerkt Bahr in seinem \"Tagebuch\", dass er nach dem Konzert seiner Frau in München mit Ludwig Ganghofer und Gattin Catharina zusammensaß.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1918-04-20",
+      "end_value": "1918-04-20"
+    },
+    "field_sources": []
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/53e46996-d5c4-4de3-8cbd-fbc39af27c97/node_type?resourceVersion=id%3A2486"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/53e46996-d5c4-4de3-8cbd-fbc39af27c97/relationships/node_type?resourceVersion=id%3A2486"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/53e46996-d5c4-4de3-8cbd-fbc39af27c97/revision_uid?resourceVersion=id%3A2486"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/53e46996-d5c4-4de3-8cbd-fbc39af27c97/relationships/revision_uid?resourceVersion=id%3A2486"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/53e46996-d5c4-4de3-8cbd-fbc39af27c97/uid?resourceVersion=id%3A2486"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/53e46996-d5c4-4de3-8cbd-fbc39af27c97/relationships/uid?resourceVersion=id%3A2486"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/53e46996-d5c4-4de3-8cbd-fbc39af27c97/field_event_type?resourceVersion=id%3A2486"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/53e46996-d5c4-4de3-8cbd-fbc39af27c97/relationships/field_event_type?resourceVersion=id%3A2486"
+        }
+      }
+    }
+  }
+}

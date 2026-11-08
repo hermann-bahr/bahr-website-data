@@ -1,0 +1,36 @@
+{
+  "type": "file--file",
+  "id": "3d7ea9d8-4b62-4e68-be6d-1ca5fbfd0257",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/file/file/3d7ea9d8-4b62-4e68-be6d-1ca5fbfd0257"
+    }
+  },
+  "attributes": {
+    "drupal_internal__fid": 210,
+    "langcode": "de",
+    "filename": "1933_illustrierte.jpg",
+    "uri": {
+      "value": "public://bahr_bilder/1933_illustrierte.jpg",
+      "url": "/sites/default/files/bahr_bilder/1933_illustrierte.jpg"
+    },
+    "filemime": "image/jpeg",
+    "filesize": 468710,
+    "status": true,
+    "created": "2020-02-18T15:00:35+00:00",
+    "changed": "2020-02-18T15:11:43+00:00"
+  },
+  "relationships": {
+    "uid": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/file/file/3d7ea9d8-4b62-4e68-be6d-1ca5fbfd0257/uid"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/file/file/3d7ea9d8-4b62-4e68-be6d-1ca5fbfd0257/relationships/uid"
+        }
+      }
+    }
+  }
+}

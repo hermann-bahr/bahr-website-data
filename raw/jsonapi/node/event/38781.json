@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "b2b4d577-b6a9-4601-a0c2-eb62d8eaafdd",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b2b4d577-b6a9-4601-a0c2-eb62d8eaafdd?resourceVersion=id%3A2602"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b2b4d577-b6a9-4601-a0c2-eb62d8eaafdd?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38781,
+    "drupal_internal__vid": 2602,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Linz",
+    "created": "2011-02-01T11:59:19+00:00",
+    "changed": "2012-12-18T09:27:14+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38781",
+      "pid": 529,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Um den Ostersonntag (25. März) 1894 will Bahr für zwei, drei Tage nach Linz. Er bleibt bis Freitag, den 30., und bringt seinen Hund Wächterl mit.",
+      "format": "full_html",
+      "processed": "Um den Ostersonntag (25. März) 1894 will Bahr für zwei, drei Tage nach Linz. Er bleibt bis Freitag, den 30., und bringt seinen Hund Wächterl mit.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1894-03-25",
+      "end_value": "1894-03-30"
+    },
+    "field_sources": [
+      "Briefkarte A. Sandrock nach Linz, 25.3.1894, Poststempel: Rodaun 26.3.1894. Beginn: \"Ich gebe dich frei.\" A22941BaM",
+      "Brief an den Vater und Anna, 11.3.1894 sowie an den Vater, 1.4.1894",
+      "Tagebücher (Csàky), II, 70."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b2b4d577-b6a9-4601-a0c2-eb62d8eaafdd/node_type?resourceVersion=id%3A2602"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b2b4d577-b6a9-4601-a0c2-eb62d8eaafdd/relationships/node_type?resourceVersion=id%3A2602"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b2b4d577-b6a9-4601-a0c2-eb62d8eaafdd/revision_uid?resourceVersion=id%3A2602"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b2b4d577-b6a9-4601-a0c2-eb62d8eaafdd/relationships/revision_uid?resourceVersion=id%3A2602"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b2b4d577-b6a9-4601-a0c2-eb62d8eaafdd/uid?resourceVersion=id%3A2602"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b2b4d577-b6a9-4601-a0c2-eb62d8eaafdd/relationships/uid?resourceVersion=id%3A2602"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b2b4d577-b6a9-4601-a0c2-eb62d8eaafdd/field_event_type?resourceVersion=id%3A2602"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b2b4d577-b6a9-4601-a0c2-eb62d8eaafdd/relationships/field_event_type?resourceVersion=id%3A2602"
+        }
+      }
+    }
+  }
+}

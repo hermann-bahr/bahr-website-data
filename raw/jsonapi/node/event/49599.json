@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "ada16a70-4c78-4d84-bd3f-fde2ed5ef92f",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/ada16a70-4c78-4d84-bd3f-fde2ed5ef92f?resourceVersion=id%3A3426"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/ada16a70-4c78-4d84-bd3f-fde2ed5ef92f?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49599,
+    "drupal_internal__vid": 3426,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Stück für Mitterwurzer",
+    "created": "2011-11-11T14:44:05+00:00",
+    "changed": "2011-11-11T14:44:05+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49599",
+      "pid": 1415,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Nach der Aufführung von \"L'Assommoir\" schreibt Bahr ein Stück für Mitterwurzer und bringt es ihm persönlich vorbei:<blockquote>Die Folge war auch, daß ich ein Stück für Mitterwurzer schrieb. Er war, als ich es ihm brachte, sehr lustig und hieß mich in acht Tagen wiederkommen. Ob er es gelesen hat, weiß ich nicht, er forderte mich, als ich wiederkam, nur dringend auf, Stücke zu schreiben, immerfort zu schreiben: nur weiter schreiben, nur nicht aufhören, nicht erst warten, ob es gespielt wird, gleich wieder ein neues schreiben, immer wieder ein neues, das ist die Hauptsache, dann wird eins schon auch einmal gespielt werden, und das ist übrigens unwichtig, aber schreiben, schreiben, zum eigenen Vergnügen schreiben, das ist die Hauptsache! Und schon, bevor ich mich in meiner Seligkeit recht besann, war ich wieder draußen. Als ich aber unten war, rief er mich durchs Fenster an. Mir klopfte das Herz: vielleicht hat er sich’s noch rasch überlegt und will doch mein Stück spielen! Er aber rief mir zu: \"Lieber Freund, schicken Sie mir doch einen Dienstmann herauf, an der Ecke stehen welche!\" Auch einen Dienstmann schicken zu dürfen, beglückte mich tief. Dann aber ging ich heim, schreiben, schreiben, schreiben!</blockquote>",
+      "format": "full_html",
+      "processed": "Nach der Aufführung von \"L'Assommoir\" schreibt Bahr ein Stück für Mitterwurzer und bringt es ihm persönlich vorbei:<blockquote>Die Folge war auch, daß ich ein Stück für Mitterwurzer schrieb. Er war, als ich es ihm brachte, sehr lustig und hieß mich in acht Tagen wiederkommen. Ob er es gelesen hat, weiß ich nicht, er forderte mich, als ich wiederkam, nur dringend auf, Stücke zu schreiben, immerfort zu schreiben: nur weiter schreiben, nur nicht aufhören, nicht erst warten, ob es gespielt wird, gleich wieder ein neues schreiben, immer wieder ein neues, das ist die Hauptsache, dann wird eins schon auch einmal gespielt werden, und das ist übrigens unwichtig, aber schreiben, schreiben, zum eigenen Vergnügen schreiben, das ist die Hauptsache! Und schon, bevor ich mich in meiner Seligkeit recht besann, war ich wieder draußen. Als ich aber unten war, rief er mich durchs Fenster an. Mir klopfte das Herz: vielleicht hat er sich’s noch rasch überlegt und will doch mein Stück spielen! Er aber rief mir zu: \"Lieber Freund, schicken Sie mir doch einen Dienstmann herauf, an der Ecke stehen welche!\" Auch einen Dienstmann schicken zu dürfen, beglückte mich tief. Dann aber ging ich heim, schreiben, schreiben, schreiben!</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1882-04-01",
+      "end_value": "1882-04-01"
+    },
+    "field_sources": [
+      "Selbstbildnis, 131-132."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ada16a70-4c78-4d84-bd3f-fde2ed5ef92f/node_type?resourceVersion=id%3A3426"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ada16a70-4c78-4d84-bd3f-fde2ed5ef92f/relationships/node_type?resourceVersion=id%3A3426"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ada16a70-4c78-4d84-bd3f-fde2ed5ef92f/revision_uid?resourceVersion=id%3A3426"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ada16a70-4c78-4d84-bd3f-fde2ed5ef92f/relationships/revision_uid?resourceVersion=id%3A3426"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ada16a70-4c78-4d84-bd3f-fde2ed5ef92f/uid?resourceVersion=id%3A3426"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ada16a70-4c78-4d84-bd3f-fde2ed5ef92f/relationships/uid?resourceVersion=id%3A3426"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "27f3d2a4-8970-4726-9ab8-ce37707ec1bc",
+          "meta": {
+            "drupal_internal__target_id": 1
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ada16a70-4c78-4d84-bd3f-fde2ed5ef92f/field_event_type?resourceVersion=id%3A3426"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ada16a70-4c78-4d84-bd3f-fde2ed5ef92f/relationships/field_event_type?resourceVersion=id%3A3426"
+        }
+      }
+    }
+  }
+}

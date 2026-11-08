@@ -1,0 +1,90 @@
+{
+  "type": "node--page",
+  "id": "ea4d0566-7810-4036-9ec1-1ffdc20ab537",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/page/ea4d0566-7810-4036-9ec1-1ffdc20ab537?resourceVersion=id%3A4071"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/page/ea4d0566-7810-4036-9ec1-1ffdc20ab537?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39135,
+    "drupal_internal__vid": 4071,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T17:01:03+00:00",
+    "status": true,
+    "title": "Themenbibliografien",
+    "created": "2011-06-24T08:42:58+00:00",
+    "changed": "2011-06-24T08:42:58+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/themenbibliografien",
+      "pid": 863,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Zusammenstellungen der zentralen Texte Bahrs zu bestimmen Themen gibt es von:\r\n<ul>\r\n<li><a href=\"/bahr/node/38903\">Bahrs Kriegspublizistik</a></li>\r\n<li><a href=\"/bahr/node/39134\">Bahr und Klimt</a></li>\r\n</ul>",
+      "format": "full_html",
+      "processed": "Zusammenstellungen der zentralen Texte Bahrs zu bestimmen Themen gibt es von:\n<ul>\n<li><a href=\"/bahr/node/38903\">Bahrs Kriegspublizistik</a></li>\n<li><a href=\"/bahr/node/39134\">Bahr und Klimt</a></li>\n</ul>",
+      "summary": null
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "016d417b-5c75-4303-8420-18e221e9e269",
+        "meta": {
+          "drupal_internal__target_id": "page"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/ea4d0566-7810-4036-9ec1-1ffdc20ab537/node_type?resourceVersion=id%3A4071"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/ea4d0566-7810-4036-9ec1-1ffdc20ab537/relationships/node_type?resourceVersion=id%3A4071"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/ea4d0566-7810-4036-9ec1-1ffdc20ab537/revision_uid?resourceVersion=id%3A4071"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/ea4d0566-7810-4036-9ec1-1ffdc20ab537/relationships/revision_uid?resourceVersion=id%3A4071"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/ea4d0566-7810-4036-9ec1-1ffdc20ab537/uid?resourceVersion=id%3A4071"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/ea4d0566-7810-4036-9ec1-1ffdc20ab537/relationships/uid?resourceVersion=id%3A4071"
+        }
+      }
+    }
+  }
+}

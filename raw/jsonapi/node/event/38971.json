@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "630e0e23-6c0a-40f6-a391-733c04d732a7",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/630e0e23-6c0a-40f6-a391-733c04d732a7?resourceVersion=id%3A2754"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/630e0e23-6c0a-40f6-a391-733c04d732a7?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38971,
+    "drupal_internal__vid": 2754,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Lebensformen",
+    "created": "2011-03-16T15:21:43+00:00",
+    "changed": "2012-12-21T11:45:42+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38971",
+      "pid": 708,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Für den Betrag von 350 Mark hielt Bahr den 6. und letzten Vortrag des Redezyklus zur \"Großstadt\" am 30. Jänner 1912 im Jahreszeitensaal in München. Textgrundlage dürfte \"Der Betrieb\" sein, den Bahr im gleichen Jahr in der \"Neuen Rundschau\" und seinem Buch \"Inventur\" veröffentlichte.",
+      "format": "full_html",
+      "processed": "Für den Betrag von 350 Mark hielt Bahr den 6. und letzten Vortrag des Redezyklus zur \"Großstadt\" am 30. Jänner 1912 im Jahreszeitensaal in München. Textgrundlage dürfte \"Der Betrieb\" sein, den Bahr im gleichen Jahr in der \"Neuen Rundschau\" und seinem Buch \"Inventur\" veröffentlichte.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1912-01-30",
+      "end_value": "1912-01-30"
+    },
+    "field_sources": [
+      "Vortragsmitschrift als \"Die Großstadt. Vortrag von Hermann Bahr: 'Die Lebensformen'\" in: Münchner Neueste Nachrichten, 65 (1912) #54, 2-3. (1.2.1912) und nachgedruckt in: Neues Wiener Journal, 20 (1912) #6565, 5. (2.2.1912)\r\n",
+      "Roman Albert Mell: Die \"Lebensformen der Großstadt\" in: Salzburger Volksblatt, 42 (1912) #26, 5.",
+      "Im Nachlass, ZMBa29, Vorträge II: Handschriftlich: Theater und Vergnügungsanzeiger, 11.2.1912 und drei undatierte Artikel ohne Publikationsorgan."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/630e0e23-6c0a-40f6-a391-733c04d732a7/node_type?resourceVersion=id%3A2754"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/630e0e23-6c0a-40f6-a391-733c04d732a7/relationships/node_type?resourceVersion=id%3A2754"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/630e0e23-6c0a-40f6-a391-733c04d732a7/revision_uid?resourceVersion=id%3A2754"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/630e0e23-6c0a-40f6-a391-733c04d732a7/relationships/revision_uid?resourceVersion=id%3A2754"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/630e0e23-6c0a-40f6-a391-733c04d732a7/uid?resourceVersion=id%3A2754"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/630e0e23-6c0a-40f6-a391-733c04d732a7/relationships/uid?resourceVersion=id%3A2754"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/630e0e23-6c0a-40f6-a391-733c04d732a7/field_event_type?resourceVersion=id%3A2754"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/630e0e23-6c0a-40f6-a391-733c04d732a7/relationships/field_event_type?resourceVersion=id%3A2754"
+        }
+      }
+    }
+  }
+}

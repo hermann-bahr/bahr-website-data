@@ -1,0 +1,118 @@
+{
+  "type": "media--image",
+  "id": "41192ceb-4c90-40ee-8584-b8fe095ea45e",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/media/image/41192ceb-4c90-40ee-8584-b8fe095ea45e?resourceVersion=id%3A157"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/media/image/41192ceb-4c90-40ee-8584-b8fe095ea45e?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__mid": 157,
+    "drupal_internal__vid": 157,
+    "langcode": "de",
+    "revision_created": "2020-02-18T15:16:19+00:00",
+    "status": true,
+    "name": "1911_simplicissimus",
+    "created": "2020-02-18T15:16:19+00:00",
+    "changed": "2020-02-18T15:16:19+00:00",
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": null,
+      "pid": null,
+      "langcode": "de"
+    }
+  },
+  "relationships": {
+    "bundle": {
+      "data": {
+        "type": "media_type--media_type",
+        "id": "b82aabb6-e7a1-420d-b98b-5b981c2d920e",
+        "meta": {
+          "drupal_internal__target_id": "image"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/41192ceb-4c90-40ee-8584-b8fe095ea45e/bundle?resourceVersion=id%3A157"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/41192ceb-4c90-40ee-8584-b8fe095ea45e/relationships/bundle?resourceVersion=id%3A157"
+        }
+      }
+    },
+    "revision_user": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/41192ceb-4c90-40ee-8584-b8fe095ea45e/revision_user?resourceVersion=id%3A157"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/41192ceb-4c90-40ee-8584-b8fe095ea45e/relationships/revision_user?resourceVersion=id%3A157"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/41192ceb-4c90-40ee-8584-b8fe095ea45e/uid?resourceVersion=id%3A157"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/41192ceb-4c90-40ee-8584-b8fe095ea45e/relationships/uid?resourceVersion=id%3A157"
+        }
+      }
+    },
+    "thumbnail": {
+      "data": {
+        "type": "file--file",
+        "id": "0ebc358c-642f-421e-8fad-20fd72be7192",
+        "meta": {
+          "alt": "Bescherung",
+          "title": null,
+          "width": 1231,
+          "height": 1610,
+          "drupal_internal__target_id": 218
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/41192ceb-4c90-40ee-8584-b8fe095ea45e/thumbnail?resourceVersion=id%3A157"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/41192ceb-4c90-40ee-8584-b8fe095ea45e/relationships/thumbnail?resourceVersion=id%3A157"
+        }
+      }
+    },
+    "field_media_image": {
+      "data": {
+        "type": "file--file",
+        "id": "0ebc358c-642f-421e-8fad-20fd72be7192",
+        "meta": {
+          "alt": "Bescherung",
+          "title": "1911_simplicissimus",
+          "width": 1231,
+          "height": 1610,
+          "drupal_internal__target_id": 218
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/41192ceb-4c90-40ee-8584-b8fe095ea45e/field_media_image?resourceVersion=id%3A157"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/41192ceb-4c90-40ee-8584-b8fe095ea45e/relationships/field_media_image?resourceVersion=id%3A157"
+        }
+      }
+    }
+  }
+}

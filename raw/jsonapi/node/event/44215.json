@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "e2ef97d4-a5be-4500-bc8c-5ef331b784df",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/e2ef97d4-a5be-4500-bc8c-5ef331b784df?resourceVersion=id%3A3129"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/e2ef97d4-a5be-4500-bc8c-5ef331b784df?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44215,
+    "drupal_internal__vid": 3129,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "AS",
+    "created": "2011-09-22T10:57:54+00:00",
+    "changed": "2011-09-22T10:57:54+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44215",
+      "pid": 1108,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 26. März 1895 unterhalten sich Bahr und Schnitzler um Andrian, dessen Buch Bahr mehr, Schnitzler weniger schätzt.",
+      "format": "full_html",
+      "processed": "Am 26. März 1895 unterhalten sich Bahr und Schnitzler um Andrian, dessen Buch Bahr mehr, Schnitzler weniger schätzt.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1895-03-26",
+      "end_value": "1895-03-26"
+    },
+    "field_sources": [
+      "Schnitzler: Tagebuch, II, 132."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e2ef97d4-a5be-4500-bc8c-5ef331b784df/node_type?resourceVersion=id%3A3129"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e2ef97d4-a5be-4500-bc8c-5ef331b784df/relationships/node_type?resourceVersion=id%3A3129"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e2ef97d4-a5be-4500-bc8c-5ef331b784df/revision_uid?resourceVersion=id%3A3129"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e2ef97d4-a5be-4500-bc8c-5ef331b784df/relationships/revision_uid?resourceVersion=id%3A3129"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e2ef97d4-a5be-4500-bc8c-5ef331b784df/uid?resourceVersion=id%3A3129"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e2ef97d4-a5be-4500-bc8c-5ef331b784df/relationships/uid?resourceVersion=id%3A3129"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e2ef97d4-a5be-4500-bc8c-5ef331b784df/field_event_type?resourceVersion=id%3A3129"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e2ef97d4-a5be-4500-bc8c-5ef331b784df/relationships/field_event_type?resourceVersion=id%3A3129"
+        }
+      }
+    }
+  }
+}

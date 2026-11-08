@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "6f48fa91-e964-4461-bbae-04b8d85459ae",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/6f48fa91-e964-4461-bbae-04b8d85459ae?resourceVersion=id%3A2280"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/6f48fa91-e964-4461-bbae-04b8d85459ae?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27938,
+    "drupal_internal__vid": 2280,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Wien",
+    "created": "2010-07-19T11:24:37+00:00",
+    "changed": "2012-10-16T11:09:26+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/27938",
+      "pid": 114,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Im Herbst 1906 fertiggestellt, erscheint Bahrs Abrechnung mit Wien in Form einer Geschichtsdarstellung im April/Mai 1907 im Druck und wurde umgehend verboten. Die inkriminierten Aussagen über die Habsburger wurden der späteren Ausgabe aber nicht vorenthalten, sondern es wurde eine Appellation des Parlamentariers Josef Redlich eingebunden, die den vollständigen Text enthielt.\r\n(Schnitzler liest's am 25. Mai.)",
+      "format": "full_html",
+      "processed": "Im Herbst 1906 fertiggestellt, erscheint Bahrs Abrechnung mit Wien in Form einer Geschichtsdarstellung im April/Mai 1907 im Druck und wurde umgehend verboten. Die inkriminierten Aussagen über die Habsburger wurden der späteren Ausgabe aber nicht vorenthalten, sondern es wurde eine Appellation des Parlamentariers Josef Redlich eingebunden, die den vollständigen Text enthielt.\n(Schnitzler liest's am 25. Mai.)",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1907-05-25",
+      "end_value": "1907-05-25"
+    },
+    "field_sources": [
+      "Hermann Bahr: Wien. Mit acht Vollbildern. Leo Greiner, Hg. Städte und Landschaften, 6. Stuttgart: Carl Krabbe, 1907.",
+      "Schnitzler: Tagebücher, III, 279."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6f48fa91-e964-4461-bbae-04b8d85459ae/node_type?resourceVersion=id%3A2280"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6f48fa91-e964-4461-bbae-04b8d85459ae/relationships/node_type?resourceVersion=id%3A2280"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6f48fa91-e964-4461-bbae-04b8d85459ae/revision_uid?resourceVersion=id%3A2280"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6f48fa91-e964-4461-bbae-04b8d85459ae/relationships/revision_uid?resourceVersion=id%3A2280"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6f48fa91-e964-4461-bbae-04b8d85459ae/uid?resourceVersion=id%3A2280"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6f48fa91-e964-4461-bbae-04b8d85459ae/relationships/uid?resourceVersion=id%3A2280"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "da42ac4a-f48f-4397-af4d-b66e913825fb",
+          "meta": {
+            "drupal_internal__target_id": 3
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6f48fa91-e964-4461-bbae-04b8d85459ae/field_event_type?resourceVersion=id%3A2280"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6f48fa91-e964-4461-bbae-04b8d85459ae/relationships/field_event_type?resourceVersion=id%3A2280"
+        }
+      }
+    }
+  }
+}

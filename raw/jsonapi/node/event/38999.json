@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "f9ba8699-9fbb-4fc9-b097-4cef72801f22",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f9ba8699-9fbb-4fc9-b097-4cef72801f22?resourceVersion=id%3A2781"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f9ba8699-9fbb-4fc9-b097-4cef72801f22?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38999,
+    "drupal_internal__vid": 2781,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Religiöser Moment in Königsberg",
+    "created": "2011-03-22T10:43:18+00:00",
+    "changed": "2012-01-26T14:55:49+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38999",
+      "pid": 735,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "In seinem Text \"Selbstinventur\" berichtet Bahr über seinen Weg zum Glauben, der einerseits durch die Erfahrung von Todesangst ausgelöst worden sein soll, andererseits durch einen Saulus-Paulus-Moment bei einem Nickerchen im Hotel in Königsberg, kurz vor einem Vortrag vorangetrieben wurde. <blockquote>Aber albern kam mir vor, Gott zu suchen, der mich ja jederzeit zu finden weiß. [1]</blockquote>Am 1. Dezember 1909 um vier Uhr notiert sich Bahr<blockquote>seltsamer Moment religiöser Überflutung[2]</blockquote>ins Tagebuch.",
+      "format": "full_html",
+      "processed": "In seinem Text \"Selbstinventur\" berichtet Bahr über seinen Weg zum Glauben, der einerseits durch die Erfahrung von Todesangst ausgelöst worden sein soll, andererseits durch einen Saulus-Paulus-Moment bei einem Nickerchen im Hotel in Königsberg, kurz vor einem Vortrag vorangetrieben wurde. <blockquote>Aber albern kam mir vor, Gott zu suchen, der mich ja jederzeit zu finden weiß. [1]</blockquote>Am 1. Dezember 1909 um vier Uhr notiert sich Bahr<blockquote>seltsamer Moment religiöser Überflutung[2]</blockquote>ins Tagebuch.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1909-12-01",
+      "end_value": "1909-12-01"
+    },
+    "field_sources": [
+      "[1] Inventur, 161.",
+      "[2] Hermann Bahr: Aufzeichnungen 1909-1911. Ausgabe in Vorbereitung von Kurt Ifkovits\r\n"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f9ba8699-9fbb-4fc9-b097-4cef72801f22/node_type?resourceVersion=id%3A2781"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f9ba8699-9fbb-4fc9-b097-4cef72801f22/relationships/node_type?resourceVersion=id%3A2781"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f9ba8699-9fbb-4fc9-b097-4cef72801f22/revision_uid?resourceVersion=id%3A2781"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f9ba8699-9fbb-4fc9-b097-4cef72801f22/relationships/revision_uid?resourceVersion=id%3A2781"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f9ba8699-9fbb-4fc9-b097-4cef72801f22/uid?resourceVersion=id%3A2781"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f9ba8699-9fbb-4fc9-b097-4cef72801f22/relationships/uid?resourceVersion=id%3A2781"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f9ba8699-9fbb-4fc9-b097-4cef72801f22/field_event_type?resourceVersion=id%3A2781"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f9ba8699-9fbb-4fc9-b097-4cef72801f22/relationships/field_event_type?resourceVersion=id%3A2781"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "7a627f6a-ca3d-4281-857a-9c83445f26b0",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/7a627f6a-ca3d-4281-857a-9c83445f26b0?resourceVersion=id%3A3742"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/7a627f6a-ca3d-4281-857a-9c83445f26b0?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74414,
+    "drupal_internal__vid": 3742,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Organisation gegen Arbeitslosigkeit",
+    "created": "2012-10-30T08:59:27+00:00",
+    "changed": "2013-09-14T11:54:38+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/74414",
+      "pid": 1788,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "An Hofmannsthal schreibt Bahr am 13. September 1914, dass er sich nach der Rückkehr aus Bayreuth sofort zu Hilfstätigkeit gemeldet hat und nunmehr in der \"Organisation gegen Arbeitslosigkeit den ganzen Tag unterwegs\" sei, während Anna Bahr-Mildenburg in der Notstandsküche tätig sei.",
+      "format": "full_html",
+      "processed": "An Hofmannsthal schreibt Bahr am 13. September 1914, dass er sich nach der Rückkehr aus Bayreuth sofort zu Hilfstätigkeit gemeldet hat und nunmehr in der \"Organisation gegen Arbeitslosigkeit den ganzen Tag unterwegs\" sei, während Anna Bahr-Mildenburg in der Notstandsküche tätig sei.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1914-09-13",
+      "end_value": "1914-09-13"
+    },
+    "field_sources": [
+      "An HvH, 13.9.1914. Briefwechsel Bahr/Hofmannsthal. Hg. Elsbeth Dangel-Pelloquin. Göttingen: Wallstein. (In Vorbereitung)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7a627f6a-ca3d-4281-857a-9c83445f26b0/node_type?resourceVersion=id%3A3742"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7a627f6a-ca3d-4281-857a-9c83445f26b0/relationships/node_type?resourceVersion=id%3A3742"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7a627f6a-ca3d-4281-857a-9c83445f26b0/revision_uid?resourceVersion=id%3A3742"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7a627f6a-ca3d-4281-857a-9c83445f26b0/relationships/revision_uid?resourceVersion=id%3A3742"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7a627f6a-ca3d-4281-857a-9c83445f26b0/uid?resourceVersion=id%3A3742"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7a627f6a-ca3d-4281-857a-9c83445f26b0/relationships/uid?resourceVersion=id%3A3742"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7a627f6a-ca3d-4281-857a-9c83445f26b0/field_event_type?resourceVersion=id%3A3742"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7a627f6a-ca3d-4281-857a-9c83445f26b0/relationships/field_event_type?resourceVersion=id%3A3742"
+        }
+      }
+    }
+  }
+}

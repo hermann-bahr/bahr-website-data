@@ -1,0 +1,109 @@
+{
+  "type": "node--image",
+  "id": "090b244b-704c-4c26-b36a-c2abf96cde70",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/image/090b244b-704c-4c26-b36a-c2abf96cde70?resourceVersion=id%3A3977"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/image/090b244b-704c-4c26-b36a-c2abf96cde70?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 43986,
+    "drupal_internal__vid": 3977,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:44:08+00:00",
+    "status": true,
+    "title": "Bescherung",
+    "created": "2011-07-12T13:54:48+00:00",
+    "changed": "2011-11-25T12:14:04+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/bild/43986",
+      "pid": 887,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<br><blockquote>Einundzwanzig Kinder wurden dem allverehrten Dichter Hermann Bahr von den deutschen Theaterdirektoren unter den Weihnachtsbaum gelegt. Es waren viele Mißgeburten darunter.</blockquote><br /><br>(Zeichnung von O. Gulbransson)<br /><i>Simplicissimus, 15 (1911) #42, 722. <a href=\"http://www.simplicissimus.info/uploads/tx_lombkswjournaldb/pdf/1/15/15_42.pdf\">[Quelle]</a></i>",
+      "format": "full_html",
+      "processed": "<br><blockquote>Einundzwanzig Kinder wurden dem allverehrten Dichter Hermann Bahr von den deutschen Theaterdirektoren unter den Weihnachtsbaum gelegt. Es waren viele Mißgeburten darunter.</blockquote><br><br>(Zeichnung von O. Gulbransson)<br><i>Simplicissimus, 15 (1911) #42, 722. <a href=\"http://www.simplicissimus.info/uploads/tx_lombkswjournaldb/pdf/1/15/15_42.pdf\">[Quelle]</a></i>",
+      "summary": null
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "e2381624-d098-4c5b-bdd7-5dbfd773b84e",
+        "meta": {
+          "drupal_internal__target_id": "image"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/090b244b-704c-4c26-b36a-c2abf96cde70/node_type?resourceVersion=id%3A3977"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/090b244b-704c-4c26-b36a-c2abf96cde70/relationships/node_type?resourceVersion=id%3A3977"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/090b244b-704c-4c26-b36a-c2abf96cde70/revision_uid?resourceVersion=id%3A3977"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/090b244b-704c-4c26-b36a-c2abf96cde70/relationships/revision_uid?resourceVersion=id%3A3977"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/090b244b-704c-4c26-b36a-c2abf96cde70/uid?resourceVersion=id%3A3977"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/090b244b-704c-4c26-b36a-c2abf96cde70/relationships/uid?resourceVersion=id%3A3977"
+        }
+      }
+    },
+    "field_images": {
+      "data": [
+        {
+          "type": "media--image",
+          "id": "41192ceb-4c90-40ee-8584-b8fe095ea45e",
+          "meta": {
+            "drupal_internal__target_id": 157
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/090b244b-704c-4c26-b36a-c2abf96cde70/field_images?resourceVersion=id%3A3977"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/090b244b-704c-4c26-b36a-c2abf96cde70/relationships/field_images?resourceVersion=id%3A3977"
+        }
+      }
+    }
+  }
+}

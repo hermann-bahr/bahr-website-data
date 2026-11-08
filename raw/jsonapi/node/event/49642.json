@@ -1,0 +1,119 @@
+{
+  "type": "node--event",
+  "id": "e7d3a26d-7c6c-4de8-9fda-a9983e50c530",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/e7d3a26d-7c6c-4de8-9fda-a9983e50c530?resourceVersion=id%3A3467"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/e7d3a26d-7c6c-4de8-9fda-a9983e50c530?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49642,
+    "drupal_internal__vid": 3467,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Richard Ulbing, Otto Stauffer",
+    "created": "2011-11-21T10:27:29+00:00",
+    "changed": "2011-12-16T15:11:06+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49642",
+      "pid": 1457,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Im \"Selbstbildnis\" schreibt Bahr über sein öffentliches Auftreten und Organisieren 1892:<blockquote>Meinen alten Freunden aus meiner ersten Wiener Zeit, Richard Ulbing und Otto Stauffer, ward ich fast unheimlich;</blockquote>Wenig ist über die beiden bekannt. Richard Ulbing ist Kärntner, absolviert ein Jusstudium, veröffentlicht eine Kritik von Bahrs erstem Roman, übernimmt eine Kanzlei in Ischl und stirbt 1919 ebendort. \r\nVon Otto Stauffer sagt Bahr:<blockquote>dem gefälligsten aller Menschen, der nur für \"Kommissionen\" anderer und vom Zeitunglesen lebte</blockquote>\r\nWeiter ist über die beiden Freunde nichts bekannt, die von ihnen erhaltenen Briefe im Nachlass wurden nicht ausgewertet.",
+      "format": "full_html",
+      "processed": "Im \"Selbstbildnis\" schreibt Bahr über sein öffentliches Auftreten und Organisieren 1892:<blockquote>Meinen alten Freunden aus meiner ersten Wiener Zeit, Richard Ulbing und Otto Stauffer, ward ich fast unheimlich;</blockquote>Wenig ist über die beiden bekannt. Richard Ulbing ist Kärntner, absolviert ein Jusstudium, veröffentlicht eine Kritik von Bahrs erstem Roman, übernimmt eine Kanzlei in Ischl und stirbt 1919 ebendort. \nVon Otto Stauffer sagt Bahr:<blockquote>dem gefälligsten aller Menschen, der nur für \"Kommissionen\" anderer und vom Zeitunglesen lebte</blockquote>\nWeiter ist über die beiden Freunde nichts bekannt, die von ihnen erhaltenen Briefe im Nachlass wurden nicht ausgewertet.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1882-01-01",
+      "end_value": "1882-01-01"
+    },
+    "field_sources": [
+      "Selbstbildnis, 282",
+      "Richard Ulbing über Bahrs \"Die gute Schule\" in: Deutsche Worte, 10 (1890) #3, 113-122. \r\n",
+      "Tagebuch 1919, 304-305. (20. Oktober)",
+      "(Hier auf 1.1.1882 datiert)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e7d3a26d-7c6c-4de8-9fda-a9983e50c530/node_type?resourceVersion=id%3A3467"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e7d3a26d-7c6c-4de8-9fda-a9983e50c530/relationships/node_type?resourceVersion=id%3A3467"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e7d3a26d-7c6c-4de8-9fda-a9983e50c530/revision_uid?resourceVersion=id%3A3467"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e7d3a26d-7c6c-4de8-9fda-a9983e50c530/relationships/revision_uid?resourceVersion=id%3A3467"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e7d3a26d-7c6c-4de8-9fda-a9983e50c530/uid?resourceVersion=id%3A3467"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e7d3a26d-7c6c-4de8-9fda-a9983e50c530/relationships/uid?resourceVersion=id%3A3467"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e7d3a26d-7c6c-4de8-9fda-a9983e50c530/field_event_type?resourceVersion=id%3A3467"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e7d3a26d-7c6c-4de8-9fda-a9983e50c530/relationships/field_event_type?resourceVersion=id%3A3467"
+        }
+      }
+    }
+  }
+}

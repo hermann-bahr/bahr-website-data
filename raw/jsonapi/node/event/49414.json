@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "75b17017-e031-46ad-8b5d-b17c6b1b340b",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/75b17017-e031-46ad-8b5d-b17c6b1b340b?resourceVersion=id%3A3257"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/75b17017-e031-46ad-8b5d-b17c6b1b340b?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49414,
+    "drupal_internal__vid": 3257,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "JR, Hans Redlich, Pannwitz, Thienen",
+    "created": "2011-10-19T09:34:47+00:00",
+    "changed": "2011-10-27T09:50:55+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49414",
+      "pid": 1238,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 28. Juni 1919 fährt Redlich mit seinem Sohn bis zum 1. nach Salzburg. Er trifft dort vor allem auf Bahr und Pannwitz (ob die beiden aufeinander, sagt Redlich nicht). Einmal Abendessen von Bahr und Anna Bahr mit Waldemar von Thienen-Adlerflycht und dessen Frau Helene.",
+      "format": "full_html",
+      "processed": "Am 28. Juni 1919 fährt Redlich mit seinem Sohn bis zum 1. nach Salzburg. Er trifft dort vor allem auf Bahr und Pannwitz (ob die beiden aufeinander, sagt Redlich nicht). Einmal Abendessen von Bahr und Anna Bahr mit Waldemar von Thienen-Adlerflycht und dessen Frau Helene.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1919-06-28",
+      "end_value": "1919-07-01"
+    },
+    "field_sources": [
+      "Fritz Fellner und Doris A. Corradini (Hgg.): Schicksalsjahre Österreichs. Die Erinnerungen und Tagebücher Josef Redlichs 1869–1936. Wien: Böhlau 2011, II, 508.",
+      "Bahr/Redlich, 368-371."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/75b17017-e031-46ad-8b5d-b17c6b1b340b/node_type?resourceVersion=id%3A3257"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/75b17017-e031-46ad-8b5d-b17c6b1b340b/relationships/node_type?resourceVersion=id%3A3257"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/75b17017-e031-46ad-8b5d-b17c6b1b340b/revision_uid?resourceVersion=id%3A3257"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/75b17017-e031-46ad-8b5d-b17c6b1b340b/relationships/revision_uid?resourceVersion=id%3A3257"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/75b17017-e031-46ad-8b5d-b17c6b1b340b/uid?resourceVersion=id%3A3257"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/75b17017-e031-46ad-8b5d-b17c6b1b340b/relationships/uid?resourceVersion=id%3A3257"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/75b17017-e031-46ad-8b5d-b17c6b1b340b/field_event_type?resourceVersion=id%3A3257"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/75b17017-e031-46ad-8b5d-b17c6b1b340b/relationships/field_event_type?resourceVersion=id%3A3257"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "d3bf32ec-e06f-4005-bffb-056b0429336b",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/d3bf32ec-e06f-4005-bffb-056b0429336b?resourceVersion=id%3A3758"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/d3bf32ec-e06f-4005-bffb-056b0429336b?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74436,
+    "drupal_internal__vid": 3758,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Jassy",
+    "created": "2012-11-13T14:43:30+00:00",
+    "changed": "2013-03-12T10:43:26+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/74436",
+      "pid": 1810,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Ein mit 27. Juni 1883 datiertes Foto eines jungen Mannes im Nachlass Bahrs ist beschriftet mit \"Zur dauerhaften Erinnerung an Jassy\", wo das Foto auch gemacht wurde. Hat Bahr dahin einen Ausflug gemacht? An seinen Vater schreibt er am 3. Juli:<blockquote>Durch einmaliges Verschlafen sowie durch die Festlichkeiten in Graz bewogen, bin ich erst heute früh, also einen Tag später als meine ursprüngliche Absicht, in Steinkogel angekommen</blockquote>",
+      "format": "full_html",
+      "processed": "Ein mit 27. Juni 1883 datiertes Foto eines jungen Mannes im Nachlass Bahrs ist beschriftet mit \"Zur dauerhaften Erinnerung an Jassy\", wo das Foto auch gemacht wurde. Hat Bahr dahin einen Ausflug gemacht? An seinen Vater schreibt er am 3. Juli:<blockquote>Durch einmaliges Verschlafen sowie durch die Festlichkeiten in Graz bewogen, bin ich erst heute früh, also einen Tag später als meine ursprüngliche Absicht, in Steinkogel angekommen</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1883-06-27",
+      "end_value": "1883-06-27"
+    },
+    "field_sources": [
+      "Brief an den Vater aus Ebensee, 3.7.1883"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d3bf32ec-e06f-4005-bffb-056b0429336b/node_type?resourceVersion=id%3A3758"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d3bf32ec-e06f-4005-bffb-056b0429336b/relationships/node_type?resourceVersion=id%3A3758"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d3bf32ec-e06f-4005-bffb-056b0429336b/revision_uid?resourceVersion=id%3A3758"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d3bf32ec-e06f-4005-bffb-056b0429336b/relationships/revision_uid?resourceVersion=id%3A3758"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d3bf32ec-e06f-4005-bffb-056b0429336b/uid?resourceVersion=id%3A3758"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d3bf32ec-e06f-4005-bffb-056b0429336b/relationships/uid?resourceVersion=id%3A3758"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d3bf32ec-e06f-4005-bffb-056b0429336b/field_event_type?resourceVersion=id%3A3758"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d3bf32ec-e06f-4005-bffb-056b0429336b/relationships/field_event_type?resourceVersion=id%3A3758"
+        }
+      }
+    }
+  }
+}

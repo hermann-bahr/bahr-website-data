@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "b54631da-bd6d-4f2e-b6a6-9b82c0661de9",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b54631da-bd6d-4f2e-b6a6-9b82c0661de9?resourceVersion=id%3A3625"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b54631da-bd6d-4f2e-b6a6-9b82c0661de9?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 64235,
+    "drupal_internal__vid": 3625,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "AS (Vortragstournée mit HvH?)",
+    "created": "2012-05-23T10:50:11+00:00",
+    "changed": "2012-05-23T10:50:11+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/64235",
+      "pid": 1668,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Zum 16. Juni 1902 notiert sich Schnitzler:<blockquote>Ober St. Veit, Bahr. – Gewitter. Über eine Vortragstournée, Hugo, Bahr, ich. –Sympathie für Bahr.–</blockquote>",
+      "format": "full_html",
+      "processed": "Zum 16. Juni 1902 notiert sich Schnitzler:<blockquote>Ober St. Veit, Bahr. – Gewitter. Über eine Vortragstournée, Hugo, Bahr, ich. –Sympathie für Bahr.–</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1902-06-16",
+      "end_value": "1902-06-16"
+    },
+    "field_sources": [
+      "Schnitzler: Tagebücher, II, 372."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b54631da-bd6d-4f2e-b6a6-9b82c0661de9/node_type?resourceVersion=id%3A3625"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b54631da-bd6d-4f2e-b6a6-9b82c0661de9/relationships/node_type?resourceVersion=id%3A3625"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b54631da-bd6d-4f2e-b6a6-9b82c0661de9/revision_uid?resourceVersion=id%3A3625"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b54631da-bd6d-4f2e-b6a6-9b82c0661de9/relationships/revision_uid?resourceVersion=id%3A3625"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b54631da-bd6d-4f2e-b6a6-9b82c0661de9/uid?resourceVersion=id%3A3625"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b54631da-bd6d-4f2e-b6a6-9b82c0661de9/relationships/uid?resourceVersion=id%3A3625"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b54631da-bd6d-4f2e-b6a6-9b82c0661de9/field_event_type?resourceVersion=id%3A3625"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b54631da-bd6d-4f2e-b6a6-9b82c0661de9/relationships/field_event_type?resourceVersion=id%3A3625"
+        }
+      }
+    }
+  }
+}

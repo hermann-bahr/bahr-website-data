@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "f1af65f9-bcf0-4b23-b3a7-ea089d5d0a1c",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f1af65f9-bcf0-4b23-b3a7-ea089d5d0a1c?resourceVersion=id%3A2711"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f1af65f9-bcf0-4b23-b3a7-ea089d5d0a1c?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38924,
+    "drupal_internal__vid": 2711,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Schauspieler",
+    "created": "2011-03-11T10:45:01+00:00",
+    "changed": "2013-03-08T10:20:34+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38924",
+      "pid": 665,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<i>Das unrettbare Ich:</i><blockquote>Ich hatte die Universität bezogen und schwankte herum, ob ich Schauspieler oder Philolog werden sollte. Wenn ich im Stadttheater Mitterwurzer sah, riß es mich, gleich auf die Bühne zu springen. […] Nun, die gnädigen Götter haben beides verhütet.</blockquote>\r\n<i>Tagebuch, 1930</i>\r\n<blockquote>Als Student im ersten Semester an der Wiener Universität sah ich dann Mitterwurzer, da flammte meine Passion wieder mächtig auf und so lief ich denn eines Tages in seine Wohnung, ihn flehentlich beschwörend, sein Schüler werden zu dürfen. Er blinzelte mich listig an und sagte: \"Sie wollen zum Theater? Bravo!\" – \"Ich darf also hoffen, Ihr Schüler zu werden?\" Da schrie er mich an: \"Pfui, Schauspielkunst lässt sich nicht lehren noch lernen! Laufen Sie zur nächsten Schmiere, toben Sie sich aus, die Weiber der Kleinstadt werden sich alle prompt in Sie verlieben, Glück auf!\"</blockquote>",
+      "format": "full_html",
+      "processed": "<i>Das unrettbare Ich:</i><blockquote>Ich hatte die Universität bezogen und schwankte herum, ob ich Schauspieler oder Philolog werden sollte. Wenn ich im Stadttheater Mitterwurzer sah, riß es mich, gleich auf die Bühne zu springen. […] Nun, die gnädigen Götter haben beides verhütet.</blockquote>\n<i>Tagebuch, 1930</i>\n<blockquote>Als Student im ersten Semester an der Wiener Universität sah ich dann Mitterwurzer, da flammte meine Passion wieder mächtig auf und so lief ich denn eines Tages in seine Wohnung, ihn flehentlich beschwörend, sein Schüler werden zu dürfen. Er blinzelte mich listig an und sagte: \"Sie wollen zum Theater? Bravo!\" – \"Ich darf also hoffen, Ihr Schüler zu werden?\" Da schrie er mich an: \"Pfui, Schauspielkunst lässt sich nicht lehren noch lernen! Laufen Sie zur nächsten Schmiere, toben Sie sich aus, die Weiber der Kleinstadt werden sich alle prompt in Sie verlieben, Glück auf!\"</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1881-12-01",
+      "end_value": "1881-12-01"
+    },
+    "field_sources": [
+      "Hermann Bahr: Tagebuch. 25. März. Neues Wiener Journal, 38 (1930) #13066, 14. (6.4.1930)\r\n",
+      "\"Das unrettbare Ich\" in: Inventur, 42. "
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f1af65f9-bcf0-4b23-b3a7-ea089d5d0a1c/node_type?resourceVersion=id%3A2711"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f1af65f9-bcf0-4b23-b3a7-ea089d5d0a1c/relationships/node_type?resourceVersion=id%3A2711"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f1af65f9-bcf0-4b23-b3a7-ea089d5d0a1c/revision_uid?resourceVersion=id%3A2711"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f1af65f9-bcf0-4b23-b3a7-ea089d5d0a1c/relationships/revision_uid?resourceVersion=id%3A2711"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f1af65f9-bcf0-4b23-b3a7-ea089d5d0a1c/uid?resourceVersion=id%3A2711"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f1af65f9-bcf0-4b23-b3a7-ea089d5d0a1c/relationships/uid?resourceVersion=id%3A2711"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f1af65f9-bcf0-4b23-b3a7-ea089d5d0a1c/field_event_type?resourceVersion=id%3A2711"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f1af65f9-bcf0-4b23-b3a7-ea089d5d0a1c/relationships/field_event_type?resourceVersion=id%3A2711"
+        }
+      }
+    }
+  }
+}

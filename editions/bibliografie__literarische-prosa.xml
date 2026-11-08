@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bibliografie__literarische-prosa" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Bibliografie der literarischen Prosa</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">9596</idno>
+        <idno type="drupal-alias">/bibliografie-der-literarischen-prosa</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bibliografie-der-literarischen-prosa">https://bahr.univie.ac.at/bibliografie-der-literarischen-prosa</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="1" key="bibliografie">Bibliografie</term>
+          <term n="3" key="literarische-prosa">Literarische Prosa</term>
+        </keywords>
+        <classCode scheme="drupal-type">page</classCode>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2010-01-12T12:28:28+00:00" type="created">angelegt in Drupal</change>
+      <change when="2020-02-27T15:23:13+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Für Kurt Thomasberger heißt die Kategorie »Romane und Novellen«. Damit macht er sich angreifbar, denn Bahrs literarische Texte sind oft genug keinem von beiden Gattungen zuzuordnen. Anstelle des zu eng gefassten Titels dürfte »Literarische Prosa« eine bessere Zusammenfassung des Inhalts geben. Die Gruppe umfasst nunmehr 17 Einträge, wovon zehn Romane sind, die restlichen Textzusammenstellungen. Nicht nachvollziehen lässt sich auch die Einordnung von »Fin de siècle« ins kritische Œuvre, nunmehr wird es dem fiktiven literarischen Texten zugeteilt.</p>
+      </div>
+      <divGen type="eintraege"/>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "4556d50d-c670-4975-b29a-138ad9b13867",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/4556d50d-c670-4975-b29a-138ad9b13867?resourceVersion=id%3A3641"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/4556d50d-c670-4975-b29a-138ad9b13867?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 64251,
+    "drupal_internal__vid": 3641,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Abschiedsfeier",
+    "created": "2012-05-25T20:49:30+00:00",
+    "changed": "2012-05-25T20:49:30+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/64251",
+      "pid": 1684,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 13. April 1883 veranstaltet die Burschenschaft \"Albia\" in Fiedlers Restauration (Johannesgasse 2) eine Abschiedsveranstaltung für den relegierten Bahr, der nach Graz übersiedeln soll. Bei der Kneipe sind 60 Personen anwesend, Bahr hält eine Rede und sein Freund Paul von Portheim hat eine Kneipzeitung erstellt.",
+      "format": "full_html",
+      "processed": "Am 13. April 1883 veranstaltet die Burschenschaft \"Albia\" in Fiedlers Restauration (Johannesgasse 2) eine Abschiedsveranstaltung für den relegierten Bahr, der nach Graz übersiedeln soll. Bei der Kneipe sind 60 Personen anwesend, Bahr hält eine Rede und sein Freund Paul von Portheim hat eine Kneipzeitung erstellt.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1883-04-13",
+      "end_value": "1883-04-13"
+    },
+    "field_sources": [
+      "Deutsche Hochschule, Prag, 2 (1883) #55, 5. (29.4.1883)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4556d50d-c670-4975-b29a-138ad9b13867/node_type?resourceVersion=id%3A3641"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4556d50d-c670-4975-b29a-138ad9b13867/relationships/node_type?resourceVersion=id%3A3641"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4556d50d-c670-4975-b29a-138ad9b13867/revision_uid?resourceVersion=id%3A3641"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4556d50d-c670-4975-b29a-138ad9b13867/relationships/revision_uid?resourceVersion=id%3A3641"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4556d50d-c670-4975-b29a-138ad9b13867/uid?resourceVersion=id%3A3641"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4556d50d-c670-4975-b29a-138ad9b13867/relationships/uid?resourceVersion=id%3A3641"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4556d50d-c670-4975-b29a-138ad9b13867/field_event_type?resourceVersion=id%3A3641"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4556d50d-c670-4975-b29a-138ad9b13867/relationships/field_event_type?resourceVersion=id%3A3641"
+        }
+      }
+    }
+  }
+}

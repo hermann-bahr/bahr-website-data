@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kritische-schriften__russische-reise-1891" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Russische Reise (1891)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">28276</idno>
+        <idno type="drupal-alias">/bibliografie/28276</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bibliografie/28276">https://bahr.univie.ac.at/bibliografie/28276</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+        <bibl type="beschriebene-ausgabe">
+          <author>Hermann Bahr</author>
+          <title type="main">Russische Reise</title>
+          <pubPlace>Dresden</pubPlace>
+          <publisher>E. Pierson</publisher>
+          <date>1891</date>
+          <extent>185</extent>
+          <note>Widmung S. 1: "Dem kleinen Fräulein. Wien, Juni 1891." (Gemeint ist die mitreisende Schauspielerin Lotte Witt). In Deutschland wurden fünf Seiten aus der russischen Reise verboten, doch waren zu dem Zeitpunkt bereits 1165 Exemplare von der Auflage von 1500 verkauft.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="2" key="kritische-schriften">Kritische Schriften</term>
+          <term n="22" key="russische-reise-1891" type="eintrag">Russische Reise (1891)</term>
+        </keywords>
+        <classCode scheme="drupal-type">bibliographie</classCode>
+        <keywords scheme="bibliografie_type">
+          <term>Schriften in Einzelausgaben</term>
+        </keywords>
+        <keywords scheme="bibliografie_type">
+          <term>Kritische Schriften</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2010-11-24T14:51:28+00:00" type="created">angelegt in Drupal</change>
+      <change when="2013-03-05T10:16:02+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="intro">
+        <head>Einleitung</head>
+        <p>Im Tross einer Berliner Theatergruppe reist Hermann Bahr im Frühling 1891 nach St. Petersburg. Der als „Russische Reise“ noch im selben Jahr veröffentlichte Bericht beschränkt sich jedoch nicht auf eine Beschreibung der Aufführungen des deutschen Ensembles. Vielmehr macht sich Bahr auf die Jagd nach den verschiedensten „Sensationen“ für seine Nerven. Von der Eremitage geht es in öffentliche Bäder und Nachtlokale, Theateraufführungen werden abgelöst durch ausgiebige Diners und Bordellbesuche. Dabei prüft Bahr anhand neuer und ständig wechselnder Eindrücke die eigene Wahrnehmungs- und Erlebnisfähigkeit: bürgen doch erst Überraschung und Verstörung für die Relevanz einer „Impression“, wie sie nicht aus dem Baedeker gezogen werden kann.</p>
+      </div>
+      <div xml:id="bib">
+        <head>Bibliografie</head>
+        <table type="bibliografie">
+          <row>
+            <cell>Autor:</cell>
+            <cell>Hermann Bahr</cell>
+          </row>
+          <row>
+            <cell>Titel:</cell>
+            <cell>Russische Reise</cell>
+          </row>
+          <row>
+            <cell>Stadt:</cell>
+            <cell>Dresden</cell>
+          </row>
+          <row>
+            <cell>Verlag:</cell>
+            <cell>E. Pierson</cell>
+          </row>
+          <row>
+            <cell>Jahr:</cell>
+            <cell>1891</cell>
+          </row>
+          <row>
+            <cell>Seiten:</cell>
+            <cell>185</cell>
+          </row>
+          <row>
+            <cell>Anm.:</cell>
+            <cell>Widmung S. 1: "Dem kleinen Fräulein. Wien, Juni 1891." (Gemeint ist die mitreisende Schauspielerin Lotte Witt). In Deutschland wurden fünf Seiten aus der russischen Reise verboten, doch waren zu dem Zeitpunkt bereits 1165 Exemplare von der Auflage von 1500 verkauft.</cell>
+          </row>
+        </table>
+      </div>
+      <div xml:id="ks">
+        <head>Kritische Schriften</head>
+        <div>
+          <head>Band 21</head>
+          <p>Herausgegeben von Gottfried Schnödl <hi rend="italic">2011</hi> ISBN: 9783897396777 <ref target="http://www.vdg-weimar.de/katalog/?id=609">VDG Weimar</ref></p>
+        </div>
+      </div>
+      <div xml:id="rezens">
+        <head>Rezensionen</head>
+        <p>Ola Hansson: Neue Bücher. In: Freie Bühne, 2 (1891) #46, 1125-1126. (18.11.1891) Leo Berg: Die Romantik der Moderne. [II] In: Die Welt, Berlin, 1 (1891) #70, 2. (17.12.1891) <hi rend="italic">[Mit "Überwindung des Naturalismus"]</hi> Westermanns Illustrierte Deutsche Monatshefte, 74 (1893), 144. [O. N.]: "Auch eine russische Reise", Neues Wiener Tagblatt, 28.4.1892. M. H. [=Marie Herzfeld]: Russische Reise. Wiener Literatur-Zeitung, 3 (1892) #3, 20.</p>
+      </div>
+      <div xml:id="digit">
+        <head>Digitalisate</head>
+        <p><hi rend="italic">Neusatz:</hi> <ref target="https://bahr.univie.ac.at/sites/all/ks/21-russische.pdf" type="sites-all"><hi rend="bold">Kritische Schriften in Einzelausgaben</hi></ref> <hi rend="italic">Faksimile der Erstausgabe:</hi> <ref target="http://www.archive.org/search.php?query=hermann%20bahr%20russische">Archive.org</ref> <ref target="http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=43">ÖNB-ANNO</ref></p>
+      </div>
+    </body>
+  </text>
+</TEI>

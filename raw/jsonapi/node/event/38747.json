@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "f0e385e9-2c7c-4b95-9d62-014a2394a183",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f0e385e9-2c7c-4b95-9d62-014a2394a183?resourceVersion=id%3A2570"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f0e385e9-2c7c-4b95-9d62-014a2394a183?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38747,
+    "drupal_internal__vid": 2570,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Rekonvaleszenz",
+    "created": "2011-01-21T12:09:39+00:00",
+    "changed": "2011-09-07T15:13:04+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38747",
+      "pid": 496,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Die Rekonvaleszenz der Blinddarmoperation vom 26. Jänner 1901 verläuft schleppend. Zwar kann er am 17. Februar das Spital als geheilt entlassen. Doch noch am 28., 29. und 30. März trägt er sich im Tagebuch ein: \"Herzanfall mit Schwindel\". Er leidet in Nachfolge der Krankheit an Todesängsten und Depressionen.",
+      "format": "full_html",
+      "processed": "Die Rekonvaleszenz der Blinddarmoperation vom 26. Jänner 1901 verläuft schleppend. Zwar kann er am 17. Februar das Spital als geheilt entlassen. Doch noch am 28., 29. und 30. März trägt er sich im Tagebuch ein: \"Herzanfall mit Schwindel\". Er leidet in Nachfolge der Krankheit an Todesängsten und Depressionen.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1903-01-27",
+      "end_value": "1903-03-17"
+    },
+    "field_sources": [
+      "Briefwechsel Bahr/Redlich, 12-13.",
+      "Tagebücher (Csàky), III, 273 und 279."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f0e385e9-2c7c-4b95-9d62-014a2394a183/node_type?resourceVersion=id%3A2570"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f0e385e9-2c7c-4b95-9d62-014a2394a183/relationships/node_type?resourceVersion=id%3A2570"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f0e385e9-2c7c-4b95-9d62-014a2394a183/revision_uid?resourceVersion=id%3A2570"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f0e385e9-2c7c-4b95-9d62-014a2394a183/relationships/revision_uid?resourceVersion=id%3A2570"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f0e385e9-2c7c-4b95-9d62-014a2394a183/uid?resourceVersion=id%3A2570"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f0e385e9-2c7c-4b95-9d62-014a2394a183/relationships/uid?resourceVersion=id%3A2570"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f0e385e9-2c7c-4b95-9d62-014a2394a183/field_event_type?resourceVersion=id%3A2570"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f0e385e9-2c7c-4b95-9d62-014a2394a183/relationships/field_event_type?resourceVersion=id%3A2570"
+        }
+      }
+    }
+  }
+}

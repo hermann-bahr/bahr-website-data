@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="forschung__derivate__aus-verschiedenen-organen" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Derivate aus verschiedenen Organen</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">27860</idno>
+        <idno type="drupal-alias">/derivate-aus-verschiedenen-organen</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/derivate-aus-verschiedenen-organen">https://bahr.univie.ac.at/derivate-aus-verschiedenen-organen</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="6" key="forschung">Forschung</term>
+          <term n="10" key="derivate">Derivate</term>
+          <term n="1" key="aus-verschiedenen-organen" type="eintrag">Derivate aus verschiedenen Organen</term>
+        </keywords>
+        <classCode scheme="drupal-type">page</classCode>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2010-05-31T16:13:39+00:00" type="created">angelegt in Drupal</change>
+      <change when="2020-02-28T09:43:50+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head>
+          <hi rend="italic">Hans Joachim Heerde</hi>
+        </head>
+        <p>Hans-Joachim Heerde, Wissenschaftlicher Mitarbeiter an der <ref target="http://kritische-walser-ausgabe.ch/editionsplan">Kritischen Robert Walser-Ausgabe</ref> (Universität Basel/Zürich), hat bei den Recherchen nach Erstdrucken von Robert Walser-Texten in Zeitungen und Zeitschriften freundlicherweise auch Daten zu Texten von und über Hermann Bahr erfasst und unserem Projekt zur Verfügung gestellt. Diese sind in die Artikeldatenbank aufgenommen, Rezensionen von Büchern Bahrs in den jeweils betreffenden Anmerkungen erwähnt. Zusätzliche Fundstücke sind hier aufgelistet. Dabei handelt es sich um Rohdaten, die nicht bibliografisch aufbereitet wurden.</p>
+      </div>
+      <div xml:id="aehre">
+        <head>Die Ähre. Wochenschrift für Dichtung, Konzert, Theater und Unterhaltungen</head>
+        <p>Hermann Bahr. Aufruf zur Verschwendung. In: Die Ähre, H. 7/8, 22.11.1914, Rubrik „Tagebuch“, S. 18-19 [Bezieht sich auf Bahrs Aufruf in den „Wiener Blättern“]</p>
+      </div>
+      <div xml:id="bbc">
+        <head>Berliner Börsen-Courier</head>
+        <p>
+          <hi rend="bold">1909 (41. Jg.)</hi>
+        </p>
+        <list rend="bulleted">
+          <item>[Meldung] Hermann Bahrs Lustspiel „Das Konzert“, das in im Lessing-Theater zur Uraufführung gelangen wird, wurde von folgenden Bühnen erworben: … In: Berliner Börsen-Courier, Nr. 441, 21.09.1909 (MA), 1. Beilage, [S. 1] [Kop.]</item>
+          <item>[Meldung] Hermann Bahrs Lustspiel „Das Konzert“ wird am 1. Weihnachtsfeiertag gleichzeitig in Dresden und Berlin uraufgeführt. In: Berliner Börsen-Courier, Nr. 569, 05.12.09 (MA), 1. Beilage, S. 8</item>
+        </list>
+        <p>
+          <hi rend="bold">1910 (42. Jg.)</hi>
+        </p>
+        <list rend="bulleted">
+          <item>Hinweis auf „Nord und Süd“, Februar 1910, Jubiläums-Nummer 400, darin u. a. Texte von Hermann Bahr und Franz Blei</item>
+          <item>Hinweis auf Bahr-Text „Österreichisches 8“ in „März“, Heft 17, 1910. In: Berliner Börsen-Courier, Nr. 415, 06.09.1910, Morgenausgabe, S. 6-7</item>
+          <item>Gekürzter Vorabdruck aus „Neues Wiener Journal“, Hübsche Autogramme (darin u.a. H.B.). In: Berliner Börsen-Courier, Nr. 455, 29.09.1910, Morgenausgabe,1. Beilage, S. 5</item>
+          <item>Hermann Bahrs Komödie „Die Kinder“ wird am 23.12.1910 an 21 Bühnen uraufgeführt. In: Berliner Börsen-Courier, Nr. 593, 20.12.1910, Morgenausgabe, S. 4</item>
+        </list>
+      </div>
+      <div xml:id="ddn">
+        <head>Dresdner Neueste Nachrichten</head>
+        <p>Hermann Bahr sprach gestern im Künstlerhaus. In: Dresdner Neueste Nachrichten, 17 (1909) #314, 2. (17.11.1909)</p>
+      </div>
+      <div xml:id="fzh">
+        <head>Frankfurter Zeitung und Handelsblatt</head>
+        <p>[Meldung] Der Fall Hermann Bahr (= Ablehnung H.B.s in Müchnen). In: FZ Nr. 355, 2. Morgenblatt, Sa., 23.12.1905, S. 1-2.</p>
+      </div>
+      <div xml:id="io">
+        <head>Illustriertes Österreichisches Journal</head>
+        <p><hi rend="bold">1913</hi> [Meldung] Bahrs Schauspiel „Prinzip“ wird vom Publikum des Lessing-Theaters „kühl“ aufgenommen. In: Illustriertes Österreichisches Journal Nr. 1270 v. 20.01.1913, S. 6 <ref target="http://anno.onb.ac.at/cgi-content/anno?apm=0&amp;aid=oij&amp;datum=19130120&amp;seite=1&amp;zoom=2"> [ANNO] 1</ref>, <ref target="http://anno.onb.ac.at/cgi-content/anno?apm=0&amp;aid=oij&amp;datum=19130120&amp;seite=6&amp;zoom=2"> [ANNO] 2</ref> <hi rend="bold">1919</hi> [Meldung] Bahr verlässt Wiener Burgtheater. In: Illustriertes Österreichisches Journal Nr. 1372 v. 15.02.1919, S. 3 <ref target="http://anno.onb.ac.at/cgi-content/anno?apm=0&amp;aid=oij&amp;datum=19190215&amp;seite=1&amp;zoom=2"> [ANNO] 1</ref>, <ref target="http://anno.onb.ac.at/cgi-content/anno?apm=0&amp;aid=oij&amp;datum=19190215&amp;seite=3&amp;zoom=2"> [ANNO] 2</ref></p>
+      </div>
+      <div xml:id="koen">
+        <head>Königsberger Hartungsche Zeitung</head>
+        <p>16.10.1908, Nr. 488, AA, Beilage, S. 1, Hermann Bahr, Goethe-Abend-Einladung [Dr. F.B.] Hermann Bahr im Goethebund. In: Königsberger Hartungsche Zeitung, 02.12.1909, Nr. 564, AA, 1. Beilage</p>
+      </div>
+      <div xml:id="lw">
+        <head>Die literarische Welt</head>
+        <p>Maurus Fontana, Laurus: Kurze Burgtheatergeschichte nach berühmten Mustern, S. 5 f. (Polemik; Laube, Bahr, Löwy etc.) LW 2, 1926, Nr. 15 Rutra, Arthur Ernst: Hermann Bahr über die junge Generation, LW 2, 1926, Nr. 17, S. 1 Haas, Willy: Meine Meinung (Rubrik "Zeitchronik der Literarischen Welt") (Antwort an Bahr), LW 2, 1926, Nr. 17, S. 2</p>
+      </div>
+      <div xml:id="mb">
+        <head>Montagsblatt, Prag</head>
+        <p>Hermann Wandel-Bahr (zu seinem 60. Geburtstag). In: Montagsblatt, Prag, 45 (1923) #29, 3. (16.7.1923)</p>
+      </div>
+      <div xml:id="nzb">
+        <head>National-Zeitung, Berlin</head>
+        <p>Hermann Bahr in Berlin [Ausführliche, 3-Spaltige Meldung über Bahrs Engagement in München]. In: National-Zeitung (Berlin), 58. Jg., 13.12.1905, Nr. 680, S. 2,</p>
+      </div>
+      <div xml:id="nwj">
+        <head>Neues Wiener Journal</head>
+        <p>23.12.1905, Nr. 4372, S. 2-3, Alfred Frhr. v. Mensi: Der Fall Bahr (Über Bahrs Ernennug zum Direktor der Königlichen Schauspielhäuser zu München)</p>
+      </div>
+      <div xml:id="omh">
+        <head>Österreichische Morgenzeitung und Handelsblatt (Mährisch-Ostrau)</head>
+        <p><hi rend="bold">1916</hi> 23.10.1916, Nr. 294, S. 4, Stefan Großmann: Der fromme Bahr [3-spaltige Rez. zur Uraufführung „Die Stimme“ in Düsseldorf, Köln und Darmstadt] <hi rend="bold">1918</hi> 4.10.18, Nr. 275, S. 4, Hans Heinrich Twardowski: Tagebuch von Hermann Bahr (Nachdruck aus der Schaubühne/Weltbühne)</p>
+      </div>
+      <div>
+        <head>Prager Tagblatt</head>
+        <p><hi rend="bold">1910 (35. Jg.)</hi> [o. V.] Theater. Grosse Protestveranstaltung gegen das Verbot des „Feldherrnhügels“. Hermann Bahr spricht. In: Prager Tagblatt (Morgen-Ausg.) Nr. 25 v. 25.01.1910, S. 7 <ref target="http://anno.onb.ac.at/cgi-content/anno?apm=0&amp;aid=ptb&amp;datum=19100125&amp;seite=7&amp;zoom=2">[ANNO]</ref> <hi rend="bold">1912 (37. Jg.)</hi></p>
+        <list rend="bulleted">
+          <item>[o. V.] „Bahr als Schlossherr“. In: Prager Tagblatt Nr. 62 v. 03.03.1912, S. 7 [Meldung über Bahrs neuen, dauerhaften Wohnsitz auf Schloss Bürgelstein] <ref target="http://anno.onb.ac.at/cgi-content/anno?apm=0&amp;aid=ptb&amp;datum=19120303&amp;seite=7&amp;zoom=2">[ANNO]</ref></item>
+          <item>[o. V.] Prozessbericht aus Wien: Gabor Steiner gegen Hermann Bahr. In: Prager Tagblatt (Morgen-Ausg.) Nr. 185 v. 07.07.1912, S. 8</item>
+          <item>
+            <ref target="http://anno.onb.ac.at/cgi-content/anno?apm=0&amp;aid=ptb&amp;datum=19120707&amp;seite=8&amp;zoom=2">[ANNO]</ref>
+          </item>
+          <item>[o. V.] Hermann Bahr und der Parsifal-Schutz. In: Prager Tagblatt (Morgen-Ausg.) Nr. 217 v. 08.08.12, S. 5 [Meldung]<ref target="http://anno.onb.ac.at/cgi-content/anno?apm=0&amp;aid=ptb&amp;datum=19120808&amp;seite=5&amp;zoom=2">[ANNO]</ref></item>
+          <item>[o. V.] Felix Salten gegen Hermann Bahrs Parsifal-Agitation. In: Prager Tagblatt (Morgen-Ausg.) Nr. 235 v. 27.08.12, S. 5 [Meldung]<ref target="http://anno.onb.ac.at/cgi-content/anno?apm=0&amp;aid=ptb&amp;datum=19120827&amp;seite=5&amp;zoom=2">[ANNO]</ref></item>
+        </list>
+        <p><hi rend="bold">1927</hi> [Meldung] Hermann Bahr und Frau übersiedeln nach Berlin. In: Prager Tagblatt, Nr. 9, 12.01.1927, S. 6 <hi rend="bold">1928</hi> Austriacus: Mein Kandidat (Schlägt Hermann Bahr zum Präsidentschaftskandidaten vor). In: Prager Tagblatt, Nr. 281, 25.11.1928, Der Sonntag, S. 3 <ref target="http://anno.onb.ac.at/cgi-content/anno?apm=0&amp;aid=ptb&amp;datum=19281125&amp;seite=9&amp;zoom=2">[ANNO]</ref> <hi rend="bold">1931 (56. Jg.)</hi>[Meldung] Bahr schenkt seine Bibliothek dem Land Salzburg. In: Prager Tagblatt, Nr. 271, 21.11.1931, S. 6 <ref target="http://anno.onb.ac.at/cgi-content/anno?apm=0&amp;aid=ptb&amp;datum=19311121&amp;seite=6&amp;zoom=2">[ANNO]</ref> <hi rend="bold">1933 (58. Jg.)</hi> [Meldung] Hermann Bahr geisteskrank. In Prager Tagblatt, Nr. 296, 1912.1933, S. 4 <ref target="http://anno.onb.ac.at/cgi-content/anno?apm=0&amp;aid=ptb&amp;datum=19331219&amp;seite=4&amp;zoom=2">[ANNO]</ref> <hi rend="bold">1934 (59. Jg.) </hi></p>
+        <list rend="bulleted">
+          <item>
+            <hi rend="bold">[Meldung] Hermann Bahr gestorben. In: Prager Tagblatt, Nr. 12, 16.01.1934, S. 4 <ref target="http://anno.onb.ac.at/cgi-content/anno?apm=0&amp;aid=ptb&amp;datum=19340116&amp;seite=4&amp;zoom=2">[ANNO]</ref> </hi>
+          </item>
+          <item>
+            <hi rend="bold">[Meldung] Beisetzung Hermann Bahrs in Salzburg. In: Prager Tagblatt, Nr. 14, 18.01.1934, S. 6 &lt; href=“http://anno.onb.ac.at/cgi-content/anno?apm=0&amp;aid=ptb&amp;datum=19340118&amp;seite=6&amp;zoom=2“&gt;[ANNO] </hi>
+          </item>
+        </list>
+      </div>
+      <div xml:id="rwz">
+        <head>
+          <hi rend="bold">Rheinisch-Westfälische Zeitung</hi>
+        </head>
+        <p>
+          <hi rend="bold">[Sammelrez., darin] [o.V.] Über Hermann Bahr „Krampus“. In Nr. 1173, 24.10.1910, Abend (III) Ausgabe, S. 1 </hi>
+        </p>
+      </div>
+      <div xml:id="tv">
+        <head>
+          <hi rend="bold">Temesvarer Nachrichten</hi>
+        </head>
+        <p>
+          <hi rend="bold">Hermann Bahr gestorben. [Meldung aus München; galt als „der gescheiteste Mensch Alt-Österreichs“.] In: Temesvarer Nachrichten Nr. 12, 17.01.1934, S. 6 </hi>
+        </p>
+      </div>
+      <div xml:id="_us">
+        <head>
+          <hi rend="bold">Unterm Strich: Feuilletonkorrespondenz für Deutsche Zeitungen </hi>
+        </head>
+        <p>
+          <hi rend="bold"><hi rend="bold">1919</hi> [o. V.]: Hermann Bahrs Wegweisung von der Universität Wien. Zum 60. Geburtstag des Dichters (19. Juli 1863). In: Unterm Strich: Feuilletonkorrespondenz für Deutsche Zeitungen; Halle a. d. S., 3. Jg. (1923), Nr. 112 Vorhanden: Deutsche Nationalbibliothek Leipzig, Signatur: ZD 229 <hi rend="italic">[Kolportiert Anekdote über öffentliche Trauerfeier für Richard Wagner am 5.3.1893 in Wien, an der über 4.000 Studenten teilnahmen und wo Hermann Bahr als Redner aufgetreten ist. Kam daraufhin wegen „Deutschtümelei und revolutionärer Ambitionen“ vor das Universitätsgericht. Wiederholte dort seine „Feuerrede“, woraufhin er wegen „Verletzung des österreichischen Vaterlandsgefühls“ auf Lebzeit von der Universität verwiesen wurde.] </hi></hi>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "e7d87685-9955-4c4f-99d3-cb2966be4aad",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/e7d87685-9955-4c4f-99d3-cb2966be4aad?resourceVersion=id%3A2565"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/e7d87685-9955-4c4f-99d3-cb2966be4aad?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38718,
+    "drupal_internal__vid": 2565,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Moderne Mystik",
+    "created": "2011-01-18T13:04:35+00:00",
+    "changed": "2011-07-05T11:22:32+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38718",
+      "pid": 467,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 29. März 1892 spricht Hermann Bahr im \"Verein für modernes Leben\" über \"Moderne Mystik\". Die Veranstaltung findet um 1/2 8 im Saal des \"Hôtel de France\", Schottenring 3, Wien 1, statt. In einem Brief an seinen Vater (28. Februar 1892) hat er es so angekündigt:<blockquote>In der nächsten Versammlung der \"Freien Bühne\", die auf meinen Antrag ganz umgemodelt wurde und jetzt \"Verein für modernes Leben\" heißt, soll ich die \"Treue Adele\" lesen und ein anderes Mal den Vortrag über \"Moderne Mystik\" halten, mit dem ich die Dummen des Deutschen Klubs seinerzeit erschreckte.</blockquote>",
+      "format": "full_html",
+      "processed": "Am 29. März 1892 spricht Hermann Bahr im \"Verein für modernes Leben\" über \"Moderne Mystik\". Die Veranstaltung findet um 1/2 8 im Saal des \"Hôtel de France\", Schottenring 3, Wien 1, statt. In einem Brief an seinen Vater (28. Februar 1892) hat er es so angekündigt:<blockquote>In der nächsten Versammlung der \"Freien Bühne\", die auf meinen Antrag ganz umgemodelt wurde und jetzt \"Verein für modernes Leben\" heißt, soll ich die \"Treue Adele\" lesen und ein anderes Mal den Vortrag über \"Moderne Mystik\" halten, mit dem ich die Dummen des Deutschen Klubs seinerzeit erschreckte.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1892-03-29",
+      "end_value": "1892-03-29"
+    },
+    "field_sources": [
+      "Briefwechsel mit dem Vater, 317.",
+      "Briefwechsel Schnitzler/Hofmannsthal, 19.",
+      "Neue Freie Presse, #9912, Morgenblatt, 5. (29.3.1892) "
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e7d87685-9955-4c4f-99d3-cb2966be4aad/node_type?resourceVersion=id%3A2565"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e7d87685-9955-4c4f-99d3-cb2966be4aad/relationships/node_type?resourceVersion=id%3A2565"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e7d87685-9955-4c4f-99d3-cb2966be4aad/revision_uid?resourceVersion=id%3A2565"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e7d87685-9955-4c4f-99d3-cb2966be4aad/relationships/revision_uid?resourceVersion=id%3A2565"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e7d87685-9955-4c4f-99d3-cb2966be4aad/uid?resourceVersion=id%3A2565"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e7d87685-9955-4c4f-99d3-cb2966be4aad/relationships/uid?resourceVersion=id%3A2565"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e7d87685-9955-4c4f-99d3-cb2966be4aad/field_event_type?resourceVersion=id%3A2565"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e7d87685-9955-4c4f-99d3-cb2966be4aad/relationships/field_event_type?resourceVersion=id%3A2565"
+        }
+      }
+    }
+  }
+}

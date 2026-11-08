@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "12b3be4f-c4c6-40e4-83da-f2909db1597c",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/12b3be4f-c4c6-40e4-83da-f2909db1597c?resourceVersion=id%3A2380"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/12b3be4f-c4c6-40e4-83da-f2909db1597c?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28049,
+    "drupal_internal__vid": 2380,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Wedekind-Prozess",
+    "created": "2010-08-04T14:52:02+00:00",
+    "changed": "2011-11-07T12:55:19+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28049",
+      "pid": 214,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Wedekind an Bahr: <blockquote>Berlin, 8. I. 1906<br>Sehr verehrter Herr Bahr!<br>Ich kam um Ihre Hülfe zu erflehen. Übermorgen, Mittwoch, habe ich Verhandlung wegen Büchse der Pandore. Herr Justizrat Jonas und ich wären Ihnen herzlich dankbar, wenn Sie als Sachverständiger uns zur Seite stehen wollten. Ich werde mir erlauben, heute oder morgen noch einmal per Telephon bei Ihnen anzufragen.[1]<br>Mit ergebensten Grüßen Ihr<br>Frank Wedekind</blockquote>Bahr hält sich bereits in Berlin auf. Am 10. Jänner wird Bahr im Landgericht II als einer der zwei Sachverständigen im Prozess um Frank Wedekinds \"Die Büchse der Pandora\" gehört. Bahr vertritt die Meinung, dass das Buch sowieso ein elitäres Zielpublikum hat. Letztlich kommt ein Freispruch heraus, mit gleichzeitiger Zerstörung der gedruckten Exemplare, \"da es zwar nicht Lüsternheit, doch aber <i>Abscheu und Ekel in sittlicher Beziehung</i> zu erzeugen geeignet sei.[2] ",
+      "format": "full_html",
+      "processed": "Wedekind an Bahr: <blockquote>Berlin, 8. I. 1906<br>Sehr verehrter Herr Bahr!<br>Ich kam um Ihre Hülfe zu erflehen. Übermorgen, Mittwoch, habe ich Verhandlung wegen Büchse der Pandore. Herr Justizrat Jonas und ich wären Ihnen herzlich dankbar, wenn Sie als Sachverständiger uns zur Seite stehen wollten. Ich werde mir erlauben, heute oder morgen noch einmal per Telephon bei Ihnen anzufragen.[1]<br>Mit ergebensten Grüßen Ihr<br>Frank Wedekind</blockquote>Bahr hält sich bereits in Berlin auf. Am 10. Jänner wird Bahr im Landgericht II als einer der zwei Sachverständigen im Prozess um Frank Wedekinds \"Die Büchse der Pandora\" gehört. Bahr vertritt die Meinung, dass das Buch sowieso ein elitäres Zielpublikum hat. Letztlich kommt ein Freispruch heraus, mit gleichzeitiger Zerstörung der gedruckten Exemplare, \"da es zwar nicht Lüsternheit, doch aber <i>Abscheu und Ekel in sittlicher Beziehung</i> zu erzeugen geeignet sei.[2] ",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1906-01-10",
+      "end_value": "1906-01-10"
+    },
+    "field_sources": [
+      "[1] Frank Wedekind: Gesammelte Briefe. München: Georg Müller, II, 152-153. [#258]\r\n",
+      "[2] Österreichische Volkszeitung, 52 (1906) #12, 6. (13.1.1906)",
+      "Neues Wiener Abendblatt, 40 (1906) #11, 3. (12.1.1906)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/12b3be4f-c4c6-40e4-83da-f2909db1597c/node_type?resourceVersion=id%3A2380"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/12b3be4f-c4c6-40e4-83da-f2909db1597c/relationships/node_type?resourceVersion=id%3A2380"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/12b3be4f-c4c6-40e4-83da-f2909db1597c/revision_uid?resourceVersion=id%3A2380"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/12b3be4f-c4c6-40e4-83da-f2909db1597c/relationships/revision_uid?resourceVersion=id%3A2380"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/12b3be4f-c4c6-40e4-83da-f2909db1597c/uid?resourceVersion=id%3A2380"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/12b3be4f-c4c6-40e4-83da-f2909db1597c/relationships/uid?resourceVersion=id%3A2380"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/12b3be4f-c4c6-40e4-83da-f2909db1597c/field_event_type?resourceVersion=id%3A2380"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/12b3be4f-c4c6-40e4-83da-f2909db1597c/relationships/field_event_type?resourceVersion=id%3A2380"
+        }
+      }
+    }
+  }
+}

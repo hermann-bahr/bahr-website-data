@@ -1,0 +1,118 @@
+{
+  "type": "media--image",
+  "id": "ebff26d1-bd69-42bd-bab7-8678f29b1933",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/media/image/ebff26d1-bd69-42bd-bab7-8678f29b1933?resourceVersion=id%3A129"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/media/image/ebff26d1-bd69-42bd-bab7-8678f29b1933?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__mid": 129,
+    "drupal_internal__vid": 129,
+    "langcode": "de",
+    "revision_created": "2020-02-18T15:16:19+00:00",
+    "status": true,
+    "name": "1900_interieur",
+    "created": "2020-02-18T15:16:19+00:00",
+    "changed": "2020-02-18T15:16:19+00:00",
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": null,
+      "pid": null,
+      "langcode": "de"
+    }
+  },
+  "relationships": {
+    "bundle": {
+      "data": {
+        "type": "media_type--media_type",
+        "id": "b82aabb6-e7a1-420d-b98b-5b981c2d920e",
+        "meta": {
+          "drupal_internal__target_id": "image"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/ebff26d1-bd69-42bd-bab7-8678f29b1933/bundle?resourceVersion=id%3A129"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/ebff26d1-bd69-42bd-bab7-8678f29b1933/relationships/bundle?resourceVersion=id%3A129"
+        }
+      }
+    },
+    "revision_user": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/ebff26d1-bd69-42bd-bab7-8678f29b1933/revision_user?resourceVersion=id%3A129"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/ebff26d1-bd69-42bd-bab7-8678f29b1933/relationships/revision_user?resourceVersion=id%3A129"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/ebff26d1-bd69-42bd-bab7-8678f29b1933/uid?resourceVersion=id%3A129"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/ebff26d1-bd69-42bd-bab7-8678f29b1933/relationships/uid?resourceVersion=id%3A129"
+        }
+      }
+    },
+    "thumbnail": {
+      "data": {
+        "type": "file--file",
+        "id": "d1cc1585-6aa6-4a77-83fa-c9a6c1df785e",
+        "meta": {
+          "alt": "1900 Interieur",
+          "title": null,
+          "width": 1938,
+          "height": 2496,
+          "drupal_internal__target_id": 190
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/ebff26d1-bd69-42bd-bab7-8678f29b1933/thumbnail?resourceVersion=id%3A129"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/ebff26d1-bd69-42bd-bab7-8678f29b1933/relationships/thumbnail?resourceVersion=id%3A129"
+        }
+      }
+    },
+    "field_media_image": {
+      "data": {
+        "type": "file--file",
+        "id": "d1cc1585-6aa6-4a77-83fa-c9a6c1df785e",
+        "meta": {
+          "alt": "1900 Interieur",
+          "title": "1900_interieur",
+          "width": 1938,
+          "height": 2496,
+          "drupal_internal__target_id": 190
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/ebff26d1-bd69-42bd-bab7-8678f29b1933/field_media_image?resourceVersion=id%3A129"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/ebff26d1-bd69-42bd-bab7-8678f29b1933/relationships/field_media_image?resourceVersion=id%3A129"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "099b535b-9014-4827-913a-24ae6c35d19b",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/099b535b-9014-4827-913a-24ae6c35d19b?resourceVersion=id%3A3108"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/099b535b-9014-4827-913a-24ae6c35d19b?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44194,
+    "drupal_internal__vid": 3108,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Prag",
+    "created": "2011-09-20T10:48:51+00:00",
+    "changed": "2011-09-20T10:48:51+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44194",
+      "pid": 1087,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 31. Jänner 1913 fährt Bahr nach Prag, wo er Jaroslav Kvapil und Willi Handl trifft.",
+      "format": "full_html",
+      "processed": "Am 31. Jänner 1913 fährt Bahr nach Prag, wo er Jaroslav Kvapil und Willi Handl trifft.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1913-01-31",
+      "end_value": "1913-01-31"
+    },
+    "field_sources": [
+      "Bahr/Kvapil, 671."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/099b535b-9014-4827-913a-24ae6c35d19b/node_type?resourceVersion=id%3A3108"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/099b535b-9014-4827-913a-24ae6c35d19b/relationships/node_type?resourceVersion=id%3A3108"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/099b535b-9014-4827-913a-24ae6c35d19b/revision_uid?resourceVersion=id%3A3108"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/099b535b-9014-4827-913a-24ae6c35d19b/relationships/revision_uid?resourceVersion=id%3A3108"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/099b535b-9014-4827-913a-24ae6c35d19b/uid?resourceVersion=id%3A3108"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/099b535b-9014-4827-913a-24ae6c35d19b/relationships/uid?resourceVersion=id%3A3108"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/099b535b-9014-4827-913a-24ae6c35d19b/field_event_type?resourceVersion=id%3A3108"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/099b535b-9014-4827-913a-24ae6c35d19b/relationships/field_event_type?resourceVersion=id%3A3108"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "7ca432a7-5b17-4ca7-ad8c-7051acdd2d5b",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/7ca432a7-5b17-4ca7-ad8c-7051acdd2d5b?resourceVersion=id%3A3694"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/7ca432a7-5b17-4ca7-ad8c-7051acdd2d5b?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74366,
+    "drupal_internal__vid": 3694,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Linz",
+    "created": "2012-10-15T14:49:55+00:00",
+    "changed": "2012-10-29T07:39:22+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/74366",
+      "pid": 1740,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 21. August 1893 schreibt Bahr aus Linz an Hofmannsthal. Er hat gerade fünf Tage Idylle (Anspielung auf eine Liebschaft) erlebt, nunmehr ist es seinem Vater gelungen, die Einberufung zu einer Waffenübung mithilfe eines Stabsarztes abzuwehren, nun will er noch zwei, drei Tage bei der Familie bleiben..",
+      "format": "full_html",
+      "processed": "Am 21. August 1893 schreibt Bahr aus Linz an Hofmannsthal. Er hat gerade fünf Tage Idylle (Anspielung auf eine Liebschaft) erlebt, nunmehr ist es seinem Vater gelungen, die Einberufung zu einer Waffenübung mithilfe eines Stabsarztes abzuwehren, nun will er noch zwei, drei Tage bei der Familie bleiben..",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1893-08-21",
+      "end_value": "1893-08-24"
+    },
+    "field_sources": [
+      "Briefwechsel Bahr/Hofmannsthal. Hg. Elsbeth Dangel-Pelloquin. Göttingen: Wallstein. (In Vorbereitung), 21. Aug. 1893"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7ca432a7-5b17-4ca7-ad8c-7051acdd2d5b/node_type?resourceVersion=id%3A3694"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7ca432a7-5b17-4ca7-ad8c-7051acdd2d5b/relationships/node_type?resourceVersion=id%3A3694"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7ca432a7-5b17-4ca7-ad8c-7051acdd2d5b/revision_uid?resourceVersion=id%3A3694"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7ca432a7-5b17-4ca7-ad8c-7051acdd2d5b/relationships/revision_uid?resourceVersion=id%3A3694"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7ca432a7-5b17-4ca7-ad8c-7051acdd2d5b/uid?resourceVersion=id%3A3694"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7ca432a7-5b17-4ca7-ad8c-7051acdd2d5b/relationships/uid?resourceVersion=id%3A3694"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7ca432a7-5b17-4ca7-ad8c-7051acdd2d5b/field_event_type?resourceVersion=id%3A3694"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7ca432a7-5b17-4ca7-ad8c-7051acdd2d5b/relationships/field_event_type?resourceVersion=id%3A3694"
+        }
+      }
+    }
+  }
+}

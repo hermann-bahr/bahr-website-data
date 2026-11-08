@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "6ea69952-87be-4833-bde8-ac928c4afe53",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/6ea69952-87be-4833-bde8-ac928c4afe53?resourceVersion=id%3A3252"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/6ea69952-87be-4833-bde8-ac928c4afe53?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49409,
+    "drupal_internal__vid": 3252,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Ramsau bei Berchtesgaden",
+    "created": "2011-10-18T14:53:03+00:00",
+    "changed": "2011-10-18T14:53:03+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49409",
+      "pid": 1233,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Von seinem vierzehntägigen Urlaub in Ramsau (Berchtesgaden) berichtet Bahr im \"Selbstbildnis\". Der Vater hat ihm hier \"Waldmeisters Brautfahrt\" von Otto Roquette vorgetragen. Bahr erwähnt, dass es \"heuer\" gerade 50 Jahre her wäre. Nachdem das Kapitel 1920 verfasst sein dürfte - siehe Vorabdruck -, werden die Ferien mit Onkel Tibor im Sommer 1870 verortet.",
+      "format": "full_html",
+      "processed": "Von seinem vierzehntägigen Urlaub in Ramsau (Berchtesgaden) berichtet Bahr im \"Selbstbildnis\". Der Vater hat ihm hier \"Waldmeisters Brautfahrt\" von Otto Roquette vorgetragen. Bahr erwähnt, dass es \"heuer\" gerade 50 Jahre her wäre. Nachdem das Kapitel 1920 verfasst sein dürfte - siehe Vorabdruck -, werden die Ferien mit Onkel Tibor im Sommer 1870 verortet.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1870-07-01",
+      "end_value": "1870-07-14"
+    },
+    "field_sources": [
+      "Hermann Bahr: Erinnerungen. III. Das Neue Reich. Wochenschrift für Kultur, Politik und Volkswirtschaft, 3 (1920) #11, 217-220. (12.12.1920) Buchausgabe: Selbstbildnis, 23."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6ea69952-87be-4833-bde8-ac928c4afe53/node_type?resourceVersion=id%3A3252"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6ea69952-87be-4833-bde8-ac928c4afe53/relationships/node_type?resourceVersion=id%3A3252"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6ea69952-87be-4833-bde8-ac928c4afe53/revision_uid?resourceVersion=id%3A3252"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6ea69952-87be-4833-bde8-ac928c4afe53/relationships/revision_uid?resourceVersion=id%3A3252"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6ea69952-87be-4833-bde8-ac928c4afe53/uid?resourceVersion=id%3A3252"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6ea69952-87be-4833-bde8-ac928c4afe53/relationships/uid?resourceVersion=id%3A3252"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6ea69952-87be-4833-bde8-ac928c4afe53/field_event_type?resourceVersion=id%3A3252"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6ea69952-87be-4833-bde8-ac928c4afe53/relationships/field_event_type?resourceVersion=id%3A3252"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "d2e472cb-da4c-4b4e-83e9-c4d6d4e79050",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/d2e472cb-da4c-4b4e-83e9-c4d6d4e79050?resourceVersion=id%3A3101"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/d2e472cb-da4c-4b4e-83e9-c4d6d4e79050?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44187,
+    "drupal_internal__vid": 3101,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Prag",
+    "created": "2011-09-19T12:31:31+00:00",
+    "changed": "2012-12-18T14:16:56+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44187",
+      "pid": 1080,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Für den 3. Februar 1912 kündigt Bahr einen eintägigen Aufenthalt in Prag an. Er ist erkältet und heiser und möchte zwar Kvapil, Handl und Eger treffen, das Hotel aber am liebsten nicht verlassen. Der 3. auch handschriftlich eingetragen auf einem Blatt mit der Planung der Vortragsreise im Nachlass. Der Herausgeber des Briefwechsels vermutet, dass der Besuch erst am 5. stattfand.",
+      "format": "full_html",
+      "processed": "Für den 3. Februar 1912 kündigt Bahr einen eintägigen Aufenthalt in Prag an. Er ist erkältet und heiser und möchte zwar Kvapil, Handl und Eger treffen, das Hotel aber am liebsten nicht verlassen. Der 3. auch handschriftlich eingetragen auf einem Blatt mit der Planung der Vortragsreise im Nachlass. Der Herausgeber des Briefwechsels vermutet, dass der Besuch erst am 5. stattfand.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1912-02-03",
+      "end_value": "1912-02-04"
+    },
+    "field_sources": [
+      "Bahr/Kvapil, 148 und 670.",
+      "Nachlass Kiste 29: Vorträge"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d2e472cb-da4c-4b4e-83e9-c4d6d4e79050/node_type?resourceVersion=id%3A3101"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d2e472cb-da4c-4b4e-83e9-c4d6d4e79050/relationships/node_type?resourceVersion=id%3A3101"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d2e472cb-da4c-4b4e-83e9-c4d6d4e79050/revision_uid?resourceVersion=id%3A3101"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d2e472cb-da4c-4b4e-83e9-c4d6d4e79050/relationships/revision_uid?resourceVersion=id%3A3101"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d2e472cb-da4c-4b4e-83e9-c4d6d4e79050/uid?resourceVersion=id%3A3101"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d2e472cb-da4c-4b4e-83e9-c4d6d4e79050/relationships/uid?resourceVersion=id%3A3101"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d2e472cb-da4c-4b4e-83e9-c4d6d4e79050/field_event_type?resourceVersion=id%3A3101"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d2e472cb-da4c-4b4e-83e9-c4d6d4e79050/relationships/field_event_type?resourceVersion=id%3A3101"
+        }
+      }
+    }
+  }
+}

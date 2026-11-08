@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "2e71fcb0-407f-4343-a52f-12bc0fb000bb",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/2e71fcb0-407f-4343-a52f-12bc0fb000bb?resourceVersion=id%3A2785"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/2e71fcb0-407f-4343-a52f-12bc0fb000bb?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39004,
+    "drupal_internal__vid": 2785,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Natalie Elisabeth Bahr",
+    "created": "2011-03-24T11:32:36+00:00",
+    "changed": "2013-01-24T14:42:47+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39004",
+      "pid": 740,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 29.3.1907 bringt Rosa Bahr ein Mädchen auf die Welt: Natalie Elisabeth Bahr. Obwohl es rechtlich sein Kind ist, da Bahr noch mit der Mutter verheiratet ist - und Bahr es auch anerkennt -, ist er nicht der biologische Vater.<blockquote>Dieser ersten Ehe entstammt eine Tochter, deren gesetzlicher Vater ich also bin, übrigens ohne ihr natürlicher Vater zu sein [1]</blockquote> 1909, zwei Jahre später, erfährt Redlich von dem Kind und insinuiert, ohne es auszusprechen, dass es ein Grund für die Scheidung sein dürfte [2]. Trotzdem zahlt Bahr auch nach der Scheidung im selben Jahr für Mutter und Tochter Unterhalt. Nach dem Tod Bahrs streiten sich die beiden Frauen Bahrs um Geld und in einem Brief [3] schreibt Anna Bahr-Mildenburg einem Freund, Bahr hätte erst eineinhalb Jahre nach der Geburt erfahren, dass ihn Rosa als Vater eingetragen hätte und sich eben nicht darum gekümmert. Außerdem wären Briefe Rosas vorhanden, die sie als in Rom befindlich ausweisen, obwohl sie zu der Zeit in Wien das Kind bekommen haben will. Diese Briefe sind nicht erhalten. Vorstellbar ist, dass Bahr, als er von dem Kind erfuhr, die Möglichkeit bekam, sich scheiden zu lassen und seine Geliebte Anna Mildenburg zu heiraten.\r\nIm Nachlass findet sich in einem Fotoalbum auch eine Fotografie Natalies als junges Mädchen, die von Anna Bahr-Mildenburg mit einem Dialog beschriftet ist (inhaltliche Wiedergabe): ABM: Hier, weißt du wer das ist! HB: So a fesches Madl! ABM: Das ist deine Tochter! HB: Do schau!\r\n",
+      "format": "full_html",
+      "processed": "Am 29.3.1907 bringt Rosa Bahr ein Mädchen auf die Welt: Natalie Elisabeth Bahr. Obwohl es rechtlich sein Kind ist, da Bahr noch mit der Mutter verheiratet ist - und Bahr es auch anerkennt -, ist er nicht der biologische Vater.<blockquote>Dieser ersten Ehe entstammt eine Tochter, deren gesetzlicher Vater ich also bin, übrigens ohne ihr natürlicher Vater zu sein [1]</blockquote> 1909, zwei Jahre später, erfährt Redlich von dem Kind und insinuiert, ohne es auszusprechen, dass es ein Grund für die Scheidung sein dürfte [2]. Trotzdem zahlt Bahr auch nach der Scheidung im selben Jahr für Mutter und Tochter Unterhalt. Nach dem Tod Bahrs streiten sich die beiden Frauen Bahrs um Geld und in einem Brief [3] schreibt Anna Bahr-Mildenburg einem Freund, Bahr hätte erst eineinhalb Jahre nach der Geburt erfahren, dass ihn Rosa als Vater eingetragen hätte und sich eben nicht darum gekümmert. Außerdem wären Briefe Rosas vorhanden, die sie als in Rom befindlich ausweisen, obwohl sie zu der Zeit in Wien das Kind bekommen haben will. Diese Briefe sind nicht erhalten. Vorstellbar ist, dass Bahr, als er von dem Kind erfuhr, die Möglichkeit bekam, sich scheiden zu lassen und seine Geliebte Anna Mildenburg zu heiraten.\nIm Nachlass findet sich in einem Fotoalbum auch eine Fotografie Natalies als junges Mädchen, die von Anna Bahr-Mildenburg mit einem Dialog beschriftet ist (inhaltliche Wiedergabe): ABM: Hier, weißt du wer das ist! HB: So a fesches Madl! ABM: Das ist deine Tochter! HB: Do schau!\n",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1907-03-29",
+      "end_value": "1907-03-29"
+    },
+    "field_sources": [
+      "[1] Brief in Abschrift an einen Anwalt, 19.7.1926, in der Kiste 99: Biographisches",
+      "[2] Vgl. Fritz Fellner und Doris A. Corradini (Hgg.): Schicksalsjahre Österreichs. Die Erinnerungen und Tagebücher Josef Redlichs 1869–1936. Wien: Böhlau 2011, I, 230.",
+      "[3] Maschingeschriebene Briefe im Nachlass Mildenburg, Kiste zum Ariernachweis. Dass. handschriftlich auf dem Brief an den Anwalt, 19.7.1926"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2e71fcb0-407f-4343-a52f-12bc0fb000bb/node_type?resourceVersion=id%3A2785"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2e71fcb0-407f-4343-a52f-12bc0fb000bb/relationships/node_type?resourceVersion=id%3A2785"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2e71fcb0-407f-4343-a52f-12bc0fb000bb/revision_uid?resourceVersion=id%3A2785"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2e71fcb0-407f-4343-a52f-12bc0fb000bb/relationships/revision_uid?resourceVersion=id%3A2785"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2e71fcb0-407f-4343-a52f-12bc0fb000bb/uid?resourceVersion=id%3A2785"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2e71fcb0-407f-4343-a52f-12bc0fb000bb/relationships/uid?resourceVersion=id%3A2785"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2e71fcb0-407f-4343-a52f-12bc0fb000bb/field_event_type?resourceVersion=id%3A2785"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2e71fcb0-407f-4343-a52f-12bc0fb000bb/relationships/field_event_type?resourceVersion=id%3A2785"
+        }
+      }
+    }
+  }
+}

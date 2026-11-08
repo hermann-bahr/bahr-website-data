@@ -1,0 +1,118 @@
+{
+  "type": "media--image",
+  "id": "eb86b2ed-5e17-4b9e-aa69-d228a245178a",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/media/image/eb86b2ed-5e17-4b9e-aa69-d228a245178a?resourceVersion=id%3A142"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/media/image/eb86b2ed-5e17-4b9e-aa69-d228a245178a?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__mid": 142,
+    "drupal_internal__vid": 142,
+    "langcode": "de",
+    "revision_created": "2020-02-18T15:16:19+00:00",
+    "status": true,
+    "name": "1897_vorleser",
+    "created": "2020-02-18T15:16:19+00:00",
+    "changed": "2020-02-18T15:16:19+00:00",
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": null,
+      "pid": null,
+      "langcode": "de"
+    }
+  },
+  "relationships": {
+    "bundle": {
+      "data": {
+        "type": "media_type--media_type",
+        "id": "b82aabb6-e7a1-420d-b98b-5b981c2d920e",
+        "meta": {
+          "drupal_internal__target_id": "image"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/eb86b2ed-5e17-4b9e-aa69-d228a245178a/bundle?resourceVersion=id%3A142"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/eb86b2ed-5e17-4b9e-aa69-d228a245178a/relationships/bundle?resourceVersion=id%3A142"
+        }
+      }
+    },
+    "revision_user": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/eb86b2ed-5e17-4b9e-aa69-d228a245178a/revision_user?resourceVersion=id%3A142"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/eb86b2ed-5e17-4b9e-aa69-d228a245178a/relationships/revision_user?resourceVersion=id%3A142"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/eb86b2ed-5e17-4b9e-aa69-d228a245178a/uid?resourceVersion=id%3A142"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/eb86b2ed-5e17-4b9e-aa69-d228a245178a/relationships/uid?resourceVersion=id%3A142"
+        }
+      }
+    },
+    "thumbnail": {
+      "data": {
+        "type": "file--file",
+        "id": "febf1b94-6f26-4a20-bfd5-8a2c6fd4ab31",
+        "meta": {
+          "alt": "1897 Bahr als Vorleser",
+          "title": null,
+          "width": 1448,
+          "height": 2018,
+          "drupal_internal__target_id": 203
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/eb86b2ed-5e17-4b9e-aa69-d228a245178a/thumbnail?resourceVersion=id%3A142"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/eb86b2ed-5e17-4b9e-aa69-d228a245178a/relationships/thumbnail?resourceVersion=id%3A142"
+        }
+      }
+    },
+    "field_media_image": {
+      "data": {
+        "type": "file--file",
+        "id": "febf1b94-6f26-4a20-bfd5-8a2c6fd4ab31",
+        "meta": {
+          "alt": "1897 Bahr als Vorleser",
+          "title": "1897_vorleser",
+          "width": 1448,
+          "height": 2018,
+          "drupal_internal__target_id": 203
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/eb86b2ed-5e17-4b9e-aa69-d228a245178a/field_media_image?resourceVersion=id%3A142"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/eb86b2ed-5e17-4b9e-aa69-d228a245178a/relationships/field_media_image?resourceVersion=id%3A142"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "84f7e449-10b1-4d7b-9e7c-58937e48ae66",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/84f7e449-10b1-4d7b-9e7c-58937e48ae66?resourceVersion=id%3A3436"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/84f7e449-10b1-4d7b-9e7c-58937e48ae66?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49610,
+    "drupal_internal__vid": 3436,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Über Rodbertus",
+    "created": "2011-11-16T13:42:07+00:00",
+    "changed": "2011-11-16T13:49:38+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49610",
+      "pid": 1426,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bei einem Aufenthalt in Linz hält Bahr am 1. Oktober 1884 einen Vortrag im Deutschen Klub über die zentrale Figur seiner nationalökonomischen Studien: Rodbertus. Ihn Laien schmackhaft zu machen, motiviert er sein Unterfangen im Vorwort der gedruckten Ausgabe, die in Georg Schönerers \"Unverfälschten Deutschen Worten\" und mit Vorwort als Sonderdruck erschienen,",
+      "format": "full_html",
+      "processed": "Bei einem Aufenthalt in Linz hält Bahr am 1. Oktober 1884 einen Vortrag im Deutschen Klub über die zentrale Figur seiner nationalökonomischen Studien: Rodbertus. Ihn Laien schmackhaft zu machen, motiviert er sein Unterfangen im Vorwort der gedruckten Ausgabe, die in Georg Schönerers \"Unverfälschten Deutschen Worten\" und mit Vorwort als Sonderdruck erschienen,",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1884-10-01",
+      "end_value": "1884-10-01"
+    },
+    "field_sources": [
+      "Hermann Bahr: Über Rodbertus. Vortrag. Mit einem Vorworte des Verfassers. Wien: Verl. der \"Unverfälschten Deutschen Worte\" (Georg Ritter von Schönerer), 1884. ",
+      "Hermann Bahr: Über Rodbertus. Ein Vortrag. Unverfälschte deutsche Worte, 2 (1884) #20, 4-8. (16.10.1884)",
+      "Selbstbildnis, 172"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/84f7e449-10b1-4d7b-9e7c-58937e48ae66/node_type?resourceVersion=id%3A3436"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/84f7e449-10b1-4d7b-9e7c-58937e48ae66/relationships/node_type?resourceVersion=id%3A3436"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/84f7e449-10b1-4d7b-9e7c-58937e48ae66/revision_uid?resourceVersion=id%3A3436"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/84f7e449-10b1-4d7b-9e7c-58937e48ae66/relationships/revision_uid?resourceVersion=id%3A3436"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/84f7e449-10b1-4d7b-9e7c-58937e48ae66/uid?resourceVersion=id%3A3436"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/84f7e449-10b1-4d7b-9e7c-58937e48ae66/relationships/uid?resourceVersion=id%3A3436"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/84f7e449-10b1-4d7b-9e7c-58937e48ae66/field_event_type?resourceVersion=id%3A3436"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/84f7e449-10b1-4d7b-9e7c-58937e48ae66/relationships/field_event_type?resourceVersion=id%3A3436"
+        }
+      }
+    }
+  }
+}

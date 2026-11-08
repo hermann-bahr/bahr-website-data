@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "8903a9a5-26ba-46e2-b618-e14acf1b3fd3",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/8903a9a5-26ba-46e2-b618-e14acf1b3fd3?resourceVersion=id%3A3538"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/8903a9a5-26ba-46e2-b618-e14acf1b3fd3?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49767,
+    "drupal_internal__vid": 3538,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "München",
+    "created": "2012-01-10T11:55:10+00:00",
+    "changed": "2012-01-10T11:55:28+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49767",
+      "pid": 1579,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 20. November 1921 ist Bahr in München.",
+      "format": "full_html",
+      "processed": "Am 20. November 1921 ist Bahr in München.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1921-11-20",
+      "end_value": "1921-11-20"
+    },
+    "field_sources": [
+      "Liebe der Lebenden, I, 363."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8903a9a5-26ba-46e2-b618-e14acf1b3fd3/node_type?resourceVersion=id%3A3538"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8903a9a5-26ba-46e2-b618-e14acf1b3fd3/relationships/node_type?resourceVersion=id%3A3538"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8903a9a5-26ba-46e2-b618-e14acf1b3fd3/revision_uid?resourceVersion=id%3A3538"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8903a9a5-26ba-46e2-b618-e14acf1b3fd3/relationships/revision_uid?resourceVersion=id%3A3538"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8903a9a5-26ba-46e2-b618-e14acf1b3fd3/uid?resourceVersion=id%3A3538"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8903a9a5-26ba-46e2-b618-e14acf1b3fd3/relationships/uid?resourceVersion=id%3A3538"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8903a9a5-26ba-46e2-b618-e14acf1b3fd3/field_event_type?resourceVersion=id%3A3538"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8903a9a5-26ba-46e2-b618-e14acf1b3fd3/relationships/field_event_type?resourceVersion=id%3A3538"
+        }
+      }
+    }
+  }
+}

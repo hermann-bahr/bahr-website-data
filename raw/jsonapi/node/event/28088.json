@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "65e46089-5ee4-4125-8944-5ef2c42ec948",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/65e46089-5ee4-4125-8944-5ef2c42ec948?resourceVersion=id%3A2414"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/65e46089-5ee4-4125-8944-5ef2c42ec948?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28088,
+    "drupal_internal__vid": 2414,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Spielerei",
+    "created": "2010-08-09T11:10:35+00:00",
+    "changed": "2011-10-19T13:50:54+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28088",
+      "pid": 248,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Unter dem Titel \"Spielerei\" versammelt Bahr 1919 die drei Stücke \"Landpartie\", \"Der Selige\" und \"Der Umsturz\". Verlegt werden sie bei Ahn und Simrock als Manuskriptdruck. Für das mittlere Stück lässt sich die Première für den 24. April 1920 am Kleinen Schauspielhaus Berlin nachweisen. ",
+      "format": "full_html",
+      "processed": "Unter dem Titel \"Spielerei\" versammelt Bahr 1919 die drei Stücke \"Landpartie\", \"Der Selige\" und \"Der Umsturz\". Verlegt werden sie bei Ahn und Simrock als Manuskriptdruck. Für das mittlere Stück lässt sich die Première für den 24. April 1920 am Kleinen Schauspielhaus Berlin nachweisen. ",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1920-04-24",
+      "end_value": "1920-04-24"
+    },
+    "field_sources": [
+      "Hermann Bahr: Spielerei. (Landpartie. Der Selige. Der Umsturz). Berlin: Ahn & Simrock, 1919."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/65e46089-5ee4-4125-8944-5ef2c42ec948/node_type?resourceVersion=id%3A2414"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/65e46089-5ee4-4125-8944-5ef2c42ec948/relationships/node_type?resourceVersion=id%3A2414"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/65e46089-5ee4-4125-8944-5ef2c42ec948/revision_uid?resourceVersion=id%3A2414"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/65e46089-5ee4-4125-8944-5ef2c42ec948/relationships/revision_uid?resourceVersion=id%3A2414"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/65e46089-5ee4-4125-8944-5ef2c42ec948/uid?resourceVersion=id%3A2414"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/65e46089-5ee4-4125-8944-5ef2c42ec948/relationships/uid?resourceVersion=id%3A2414"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "27f3d2a4-8970-4726-9ab8-ce37707ec1bc",
+          "meta": {
+            "drupal_internal__target_id": 1
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/65e46089-5ee4-4125-8944-5ef2c42ec948/field_event_type?resourceVersion=id%3A2414"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/65e46089-5ee4-4125-8944-5ef2c42ec948/relationships/field_event_type?resourceVersion=id%3A2414"
+        }
+      }
+    }
+  }
+}

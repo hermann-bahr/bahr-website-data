@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "a51ddd42-0324-4f4d-8a61-590765a7da8f",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/a51ddd42-0324-4f4d-8a61-590765a7da8f?resourceVersion=id%3A3571"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/a51ddd42-0324-4f4d-8a61-590765a7da8f?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 64077,
+    "drupal_internal__vid": 3571,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Erfurt",
+    "created": "2012-01-26T14:46:35+00:00",
+    "changed": "2012-01-26T14:46:35+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/64077",
+      "pid": 1612,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 19. November 1909 spricht Bahr in Erfurt. Am Vormittag macht er einen Abstecher nach Weimar.",
+      "format": "full_html",
+      "processed": "Am 19. November 1909 spricht Bahr in Erfurt. Am Vormittag macht er einen Abstecher nach Weimar.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1909-11-19",
+      "end_value": "1909-11-19"
+    },
+    "field_sources": [
+      "Hermann Bahr: Aufzeichnungen 1909-1911. Ausgabe in Vorbereitung von Kurt Ifkovits\r\n"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a51ddd42-0324-4f4d-8a61-590765a7da8f/node_type?resourceVersion=id%3A3571"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a51ddd42-0324-4f4d-8a61-590765a7da8f/relationships/node_type?resourceVersion=id%3A3571"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a51ddd42-0324-4f4d-8a61-590765a7da8f/revision_uid?resourceVersion=id%3A3571"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a51ddd42-0324-4f4d-8a61-590765a7da8f/relationships/revision_uid?resourceVersion=id%3A3571"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a51ddd42-0324-4f4d-8a61-590765a7da8f/uid?resourceVersion=id%3A3571"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a51ddd42-0324-4f4d-8a61-590765a7da8f/relationships/uid?resourceVersion=id%3A3571"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a51ddd42-0324-4f4d-8a61-590765a7da8f/field_event_type?resourceVersion=id%3A3571"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a51ddd42-0324-4f4d-8a61-590765a7da8f/relationships/field_event_type?resourceVersion=id%3A3571"
+        }
+      }
+    }
+  }
+}

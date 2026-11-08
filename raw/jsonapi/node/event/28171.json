@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "14074ede-9d6d-429b-b197-cb077c6a6e16",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/14074ede-9d6d-429b-b197-cb077c6a6e16?resourceVersion=id%3A2480"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/14074ede-9d6d-429b-b197-cb077c6a6e16?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28171,
+    "drupal_internal__vid": 2480,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Beethoven-Wagner-Abend",
+    "created": "2010-09-01T14:00:34+00:00",
+    "changed": "2013-01-10T13:08:34+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28171",
+      "pid": 317,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am Sonntag den 5. März 1911 <blockquote>um 8 Uhr Abends findet auch im großen Musikvereinssaal ein Beethoven-Wagner-Abend der Freien Volksbühne unter Mitwirkung des Wiener Tonkünstler-Orchesters, der Kammersängerin Frau Anna Bahr-Mildenburg und des Schriftstellers Hermann Bahr statt. An der Abendkasse sind nur mehr Stehplätze erhältlich.[1]</blockquote>Im Nachlass auch drei dazugehörige Brief von Hans Kulhanek, dem Sekretär.[2]",
+      "format": "full_html",
+      "processed": "Am Sonntag den 5. März 1911 <blockquote>um 8 Uhr Abends findet auch im großen Musikvereinssaal ein Beethoven-Wagner-Abend der Freien Volksbühne unter Mitwirkung des Wiener Tonkünstler-Orchesters, der Kammersängerin Frau Anna Bahr-Mildenburg und des Schriftstellers Hermann Bahr statt. An der Abendkasse sind nur mehr Stehplätze erhältlich.[1]</blockquote>Im Nachlass auch drei dazugehörige Brief von Hans Kulhanek, dem Sekretär.[2]",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1911-03-05",
+      "end_value": "1911-03-05"
+    },
+    "field_sources": [
+      "[1]  Wiener Zeitung, 1911, #53, 11. (5.3.1911)",
+      "[2] An Bahr, A17725BaM, A17726BaM, A17727BaM"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/14074ede-9d6d-429b-b197-cb077c6a6e16/node_type?resourceVersion=id%3A2480"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/14074ede-9d6d-429b-b197-cb077c6a6e16/relationships/node_type?resourceVersion=id%3A2480"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/14074ede-9d6d-429b-b197-cb077c6a6e16/revision_uid?resourceVersion=id%3A2480"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/14074ede-9d6d-429b-b197-cb077c6a6e16/relationships/revision_uid?resourceVersion=id%3A2480"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/14074ede-9d6d-429b-b197-cb077c6a6e16/uid?resourceVersion=id%3A2480"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/14074ede-9d6d-429b-b197-cb077c6a6e16/relationships/uid?resourceVersion=id%3A2480"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/14074ede-9d6d-429b-b197-cb077c6a6e16/field_event_type?resourceVersion=id%3A2480"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/14074ede-9d6d-429b-b197-cb077c6a6e16/relationships/field_event_type?resourceVersion=id%3A2480"
+        }
+      }
+    }
+  }
+}

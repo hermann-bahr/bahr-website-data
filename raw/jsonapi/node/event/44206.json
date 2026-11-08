@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "015da480-d02f-4028-8da9-6f463a814432",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/015da480-d02f-4028-8da9-6f463a814432?resourceVersion=id%3A3120"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/015da480-d02f-4028-8da9-6f463a814432?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44206,
+    "drupal_internal__vid": 3120,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Freigabe \"Unter sich\"",
+    "created": "2011-09-20T13:12:43+00:00",
+    "changed": "2011-09-20T13:12:43+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44206",
+      "pid": 1099,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 7. November 1903, dem Tag nach der Uraufführung in München, schreibt das Neue Wiener Tagblatt:<blockquote>Wie man uns aus München schreibt, wurde Hermann Bahrs satirischer Einakter \"Unter sich\" von der dortigen Zensur auch für die öffentliche Aufführung freigegeben.</blockquote>Ob das bereits für die Uraufführung Gültigkeit hatte, ist unklar.",
+      "format": "full_html",
+      "processed": "Am 7. November 1903, dem Tag nach der Uraufführung in München, schreibt das Neue Wiener Tagblatt:<blockquote>Wie man uns aus München schreibt, wurde Hermann Bahrs satirischer Einakter \"Unter sich\" von der dortigen Zensur auch für die öffentliche Aufführung freigegeben.</blockquote>Ob das bereits für die Uraufführung Gültigkeit hatte, ist unklar.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1903-11-07",
+      "end_value": "1903-11-07"
+    },
+    "field_sources": [
+      "Neues Wiener Tagblatt, 37 (1903) #306, 12. (7.11.1903)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/015da480-d02f-4028-8da9-6f463a814432/node_type?resourceVersion=id%3A3120"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/015da480-d02f-4028-8da9-6f463a814432/relationships/node_type?resourceVersion=id%3A3120"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/015da480-d02f-4028-8da9-6f463a814432/revision_uid?resourceVersion=id%3A3120"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/015da480-d02f-4028-8da9-6f463a814432/relationships/revision_uid?resourceVersion=id%3A3120"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/015da480-d02f-4028-8da9-6f463a814432/uid?resourceVersion=id%3A3120"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/015da480-d02f-4028-8da9-6f463a814432/relationships/uid?resourceVersion=id%3A3120"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/015da480-d02f-4028-8da9-6f463a814432/field_event_type?resourceVersion=id%3A3120"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/015da480-d02f-4028-8da9-6f463a814432/relationships/field_event_type?resourceVersion=id%3A3120"
+        }
+      }
+    }
+  }
+}

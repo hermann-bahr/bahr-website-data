@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bibliografie__herausgaben__briefe-von-josef-kainz" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Briefe von Josef Kainz</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">44020</idno>
+        <idno type="drupal-alias">/bibliografie/44020</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bibliografie/44020">https://bahr.univie.ac.at/bibliografie/44020</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+        <bibl type="beschriebene-ausgabe">
+          <author>Josef Kainz</author>
+          <title type="main">Briefe von Josef Kainz</title>
+          <pubPlace>Wien</pubPlace>
+          <publisher>Rikola</publisher>
+          <date>1921</date>
+          <edition>4.-8. Tsd. 1922</edition>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="1" key="bibliografie">Bibliografie</term>
+          <term n="7" key="herausgaben">Herausgaben</term>
+          <term n="1" key="briefe-von-josef-kainz" type="eintrag">Briefe von Josef Kainz</term>
+        </keywords>
+        <classCode scheme="drupal-type">bibliographie</classCode>
+        <keywords scheme="bibliografie_type">
+          <term>Herausgaben</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2011-07-21T09:58:50+00:00" type="created">angelegt in Drupal</change>
+      <change when="2011-11-22T11:07:55+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="bib">
+        <head>Bibliografie</head>
+        <table type="bibliografie">
+          <row>
+            <cell>Autor:</cell>
+            <cell>Josef Kainz</cell>
+          </row>
+          <row>
+            <cell>Titel:</cell>
+            <cell>Briefe von Josef Kainz</cell>
+          </row>
+          <row>
+            <cell>Ort:</cell>
+            <cell>Wien</cell>
+          </row>
+          <row>
+            <cell>Verlag:</cell>
+            <cell>Rikola</cell>
+          </row>
+          <row>
+            <cell>Jahr:</cell>
+            <cell>1921</cell>
+          </row>
+          <row>
+            <cell>Aufl.:</cell>
+            <cell>4.-8. Tsd. 1922</cell>
+          </row>
+        </table>
+      </div>
+      <div xml:id="rezens">
+        <head>Rezensionen</head>
+        <p>Ab dem 29.9.1921. Wiener Zeitung, 13.3.1923.</p>
+      </div>
+      <div xml:id="digit">
+        <head>Digitalisate</head>
+        <p>
+          <ref target="http://www.archive.org/search.php?query=hermann%20bahr%20kainz">archive.org</ref>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

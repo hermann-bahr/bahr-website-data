@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "f0e92b5e-6915-41b7-868c-4c91f5a6a5d3",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f0e92b5e-6915-41b7-868c-4c91f5a6a5d3?resourceVersion=id%3A2217"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f0e92b5e-6915-41b7-868c-4c91f5a6a5d3?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27865,
+    "drupal_internal__vid": 2217,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Studium Klassische Philologie in Wien",
+    "created": "2010-06-21T08:34:16+00:00",
+    "changed": "2011-11-14T13:46:58+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/27865",
+      "pid": 50,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 6. Oktober 1881 Inskription der Klassischen Philologie in Wien.[1] Zwar erscheint noch ein Text seiner Maturareise in die Schweiz mit Oktober datiert, doch dürften die Artikel falsch datiert sein. Das Studium behagt ihm nicht, es gibt niemanden, der die Wirkung seines Gymnasiallehrers Josef Steger auf ihn hat, und fühlt sich nur mit etwas Grammatik zum Mittelschullehrer abgefertigt.[2] Gleichzeitig lassen ihn seine Umtriebe in der Burschenschaft und im Café Scheidl das Studium vernachlässigen. Gegen Weihnachten wechselt er dann. Im März 1883 wird er von der Universität relegiert.\r\n",
+      "format": "full_html",
+      "processed": "Am 6. Oktober 1881 Inskription der Klassischen Philologie in Wien.[1] Zwar erscheint noch ein Text seiner Maturareise in die Schweiz mit Oktober datiert, doch dürften die Artikel falsch datiert sein. Das Studium behagt ihm nicht, es gibt niemanden, der die Wirkung seines Gymnasiallehrers Josef Steger auf ihn hat, und fühlt sich nur mit etwas Grammatik zum Mittelschullehrer abgefertigt.[2] Gleichzeitig lassen ihn seine Umtriebe in der Burschenschaft und im Café Scheidl das Studium vernachlässigen. Gegen Weihnachten wechselt er dann. Im März 1883 wird er von der Universität relegiert.\n",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1881-10-06",
+      "end_value": "1881-10-06"
+    },
+    "field_sources": [
+      "[1] Meldungsbuch des Studirenden Hermann Bahr aus Linz, im Nachlass, Kiste 98 Biografisches",
+      "[2] Selbstbildnis, 123-124."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f0e92b5e-6915-41b7-868c-4c91f5a6a5d3/node_type?resourceVersion=id%3A2217"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f0e92b5e-6915-41b7-868c-4c91f5a6a5d3/relationships/node_type?resourceVersion=id%3A2217"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f0e92b5e-6915-41b7-868c-4c91f5a6a5d3/revision_uid?resourceVersion=id%3A2217"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f0e92b5e-6915-41b7-868c-4c91f5a6a5d3/relationships/revision_uid?resourceVersion=id%3A2217"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f0e92b5e-6915-41b7-868c-4c91f5a6a5d3/uid?resourceVersion=id%3A2217"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f0e92b5e-6915-41b7-868c-4c91f5a6a5d3/relationships/uid?resourceVersion=id%3A2217"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f0e92b5e-6915-41b7-868c-4c91f5a6a5d3/field_event_type?resourceVersion=id%3A2217"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f0e92b5e-6915-41b7-868c-4c91f5a6a5d3/relationships/field_event_type?resourceVersion=id%3A2217"
+        }
+      }
+    }
+  }
+}

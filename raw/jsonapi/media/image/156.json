@@ -1,0 +1,118 @@
+{
+  "type": "media--image",
+  "id": "4e0db37f-a9b7-45de-88d6-d9663c4a64a8",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/media/image/4e0db37f-a9b7-45de-88d6-d9663c4a64a8?resourceVersion=id%3A156"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/media/image/4e0db37f-a9b7-45de-88d6-d9663c4a64a8?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__mid": 156,
+    "drupal_internal__vid": 156,
+    "langcode": "de",
+    "revision_created": "2020-02-18T15:16:19+00:00",
+    "status": true,
+    "name": "1928-7-19_telegrammzeitung",
+    "created": "2020-02-18T15:16:19+00:00",
+    "changed": "2020-02-18T15:16:19+00:00",
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": null,
+      "pid": null,
+      "langcode": "de"
+    }
+  },
+  "relationships": {
+    "bundle": {
+      "data": {
+        "type": "media_type--media_type",
+        "id": "b82aabb6-e7a1-420d-b98b-5b981c2d920e",
+        "meta": {
+          "drupal_internal__target_id": "image"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/4e0db37f-a9b7-45de-88d6-d9663c4a64a8/bundle?resourceVersion=id%3A156"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/4e0db37f-a9b7-45de-88d6-d9663c4a64a8/relationships/bundle?resourceVersion=id%3A156"
+        }
+      }
+    },
+    "revision_user": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/4e0db37f-a9b7-45de-88d6-d9663c4a64a8/revision_user?resourceVersion=id%3A156"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/4e0db37f-a9b7-45de-88d6-d9663c4a64a8/relationships/revision_user?resourceVersion=id%3A156"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/4e0db37f-a9b7-45de-88d6-d9663c4a64a8/uid?resourceVersion=id%3A156"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/4e0db37f-a9b7-45de-88d6-d9663c4a64a8/relationships/uid?resourceVersion=id%3A156"
+        }
+      }
+    },
+    "thumbnail": {
+      "data": {
+        "type": "file--file",
+        "id": "b46b46f8-0cbe-4281-b2a4-d336a0c4dd4a",
+        "meta": {
+          "alt": "1928",
+          "title": null,
+          "width": 926,
+          "height": 1399,
+          "drupal_internal__target_id": 217
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/4e0db37f-a9b7-45de-88d6-d9663c4a64a8/thumbnail?resourceVersion=id%3A156"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/4e0db37f-a9b7-45de-88d6-d9663c4a64a8/relationships/thumbnail?resourceVersion=id%3A156"
+        }
+      }
+    },
+    "field_media_image": {
+      "data": {
+        "type": "file--file",
+        "id": "b46b46f8-0cbe-4281-b2a4-d336a0c4dd4a",
+        "meta": {
+          "alt": "1928",
+          "title": "1928-7-19_telegrammzeitung",
+          "width": 926,
+          "height": 1399,
+          "drupal_internal__target_id": 217
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/4e0db37f-a9b7-45de-88d6-d9663c4a64a8/field_media_image?resourceVersion=id%3A156"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/4e0db37f-a9b7-45de-88d6-d9663c4a64a8/relationships/field_media_image?resourceVersion=id%3A156"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="texte" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Texte</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">3080</idno>
+        <idno type="drupal-alias">/texte</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/texte">https://bahr.univie.ac.at/texte</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="none">
+          <term>nicht im Menü</term>
+        </keywords>
+        <classCode scheme="drupal-type">page</classCode>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2009-12-22T17:43:10+00:00" type="created">angelegt in Drupal</change>
+      <change when="2009-12-22T17:43:31+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Hierher kommen Ordner. Und damit die nicht ungefüllt in der Internetlandschaft stehen, kommen PDFs mit Scans rein. Für den Zusammenhalt sorgt dabei, dass es Bahrs Texte sein werden.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

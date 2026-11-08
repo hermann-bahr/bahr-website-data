@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "78be1ce7-e5ee-4d8e-8f8e-b61209bc0c66",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/78be1ce7-e5ee-4d8e-8f8e-b61209bc0c66?resourceVersion=id%3A3315"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/78be1ce7-e5ee-4d8e-8f8e-b61209bc0c66?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49477,
+    "drupal_internal__vid": 3315,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "JR, Rose, Singer, Steed",
+    "created": "2011-10-24T11:28:43+00:00",
+    "changed": "2011-10-24T14:13:03+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49477",
+      "pid": 1299,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Für 12. Mai 1910 notiert sich Redlich:<blockquote>Mittags bei Bahr mit Wilhelm Singer, Mad. Rose, Steed. Sehr vergnügte Tafel.</blockquote>Neben dem Herausgeber Singer sind die Korrespondenten der Morning Post, Clemence Rose und der Times, Henry Wickham Steed gemeint.",
+      "format": "full_html",
+      "processed": "Für 12. Mai 1910 notiert sich Redlich:<blockquote>Mittags bei Bahr mit Wilhelm Singer, Mad. Rose, Steed. Sehr vergnügte Tafel.</blockquote>Neben dem Herausgeber Singer sind die Korrespondenten der Morning Post, Clemence Rose und der Times, Henry Wickham Steed gemeint.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1910-05-12",
+      "end_value": "1910-05-12"
+    },
+    "field_sources": [
+      "Fritz Fellner und Doris A. Corradini (Hgg.): Schicksalsjahre Österreichs. Die Erinnerungen und Tagebücher Josef Redlichs 1869–1936. Wien: Böhlau 2011, I, 310."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/78be1ce7-e5ee-4d8e-8f8e-b61209bc0c66/node_type?resourceVersion=id%3A3315"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/78be1ce7-e5ee-4d8e-8f8e-b61209bc0c66/relationships/node_type?resourceVersion=id%3A3315"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/78be1ce7-e5ee-4d8e-8f8e-b61209bc0c66/revision_uid?resourceVersion=id%3A3315"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/78be1ce7-e5ee-4d8e-8f8e-b61209bc0c66/relationships/revision_uid?resourceVersion=id%3A3315"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/78be1ce7-e5ee-4d8e-8f8e-b61209bc0c66/uid?resourceVersion=id%3A3315"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/78be1ce7-e5ee-4d8e-8f8e-b61209bc0c66/relationships/uid?resourceVersion=id%3A3315"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/78be1ce7-e5ee-4d8e-8f8e-b61209bc0c66/field_event_type?resourceVersion=id%3A3315"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/78be1ce7-e5ee-4d8e-8f8e-b61209bc0c66/relationships/field_event_type?resourceVersion=id%3A3315"
+        }
+      }
+    }
+  }
+}

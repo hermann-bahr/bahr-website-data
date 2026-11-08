@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "9c0217c2-d2f4-4ea2-8aa7-72af19620682",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/9c0217c2-d2f4-4ea2-8aa7-72af19620682?resourceVersion=id%3A2571"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/9c0217c2-d2f4-4ea2-8aa7-72af19620682?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38748,
+    "drupal_internal__vid": 2571,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Eitrige Blinddarmnaht",
+    "created": "2011-01-21T12:15:04+00:00",
+    "changed": "2011-10-03T13:06:58+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38748",
+      "pid": 497,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 25. Februar 1903 kommt es zu einem Rückschlag in der Rekonvaleszenz, eine Naht hat zu eitern begonnen und Bahr empfindet starke Schmerzen.",
+      "format": "full_html",
+      "processed": "Am 25. Februar 1903 kommt es zu einem Rückschlag in der Rekonvaleszenz, eine Naht hat zu eitern begonnen und Bahr empfindet starke Schmerzen.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1903-02-25",
+      "end_value": "1903-02-25"
+    },
+    "field_sources": [
+      "Bahr/Redlich, An Redlich, 13. (An R., 15.3.1903)",
+      "Tagebücher (Csàky), III, 275."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9c0217c2-d2f4-4ea2-8aa7-72af19620682/node_type?resourceVersion=id%3A2571"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9c0217c2-d2f4-4ea2-8aa7-72af19620682/relationships/node_type?resourceVersion=id%3A2571"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9c0217c2-d2f4-4ea2-8aa7-72af19620682/revision_uid?resourceVersion=id%3A2571"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9c0217c2-d2f4-4ea2-8aa7-72af19620682/relationships/revision_uid?resourceVersion=id%3A2571"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9c0217c2-d2f4-4ea2-8aa7-72af19620682/uid?resourceVersion=id%3A2571"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9c0217c2-d2f4-4ea2-8aa7-72af19620682/relationships/uid?resourceVersion=id%3A2571"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9c0217c2-d2f4-4ea2-8aa7-72af19620682/field_event_type?resourceVersion=id%3A2571"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9c0217c2-d2f4-4ea2-8aa7-72af19620682/relationships/field_event_type?resourceVersion=id%3A2571"
+        }
+      }
+    }
+  }
+}

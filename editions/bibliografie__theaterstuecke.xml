@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bibliografie__theaterstuecke" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Bibliografie der Theaterstücke</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">49644</idno>
+        <idno type="drupal-alias">/bibliografie/49644</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bibliografie/49644">https://bahr.univie.ac.at/bibliografie/49644</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="1" key="bibliografie">Bibliografie</term>
+          <term n="2" key="theaterstuecke">Theaterstücke</term>
+        </keywords>
+        <classCode scheme="drupal-type">bibliographie</classCode>
+        <keywords scheme="bibliografie_type">
+          <term>Theaterstücke</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2011-11-22T11:17:44+00:00" type="created">angelegt in Drupal</change>
+      <change when="2020-02-27T15:17:20+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Kurt Thomasberger listet 40 Theaterstücke Bahrs in seiner Bibliografie auf. Zusätzlich mit dem ihm unbekannten »Veilchen« lassen sich Bahr also 41 gedruckte Theatertexte zuschreiben. Erstmals konnte auch eine Bibliothek mit Bestand des »Lieben Augustin« ausfindig gemacht werden. Unklarheiten bestehen bei Thomasberger bezüglich der Bühnenmanuskripte. Er führt häufig nur Jahr und Verlag (Ahn &amp; Simrock) an, nennt aber keine Seitenzahlen. Deswegen werden nur jene Stücke mit eigenen Bühnenmanuskripten nachgewiesen, bei denen Thomasberger oder ich Seitenzahlen anführen können. Bühnenmanuskripte Thomasbergers ohne Seitenzahlen werden als Mutmaßung desselben in den Anmerkungen der jeweiligen Buchausgabe erwähnt. Die Angaben zu Aufführungen und Rezensionen sind Sammlungen von Hinweisen, die weder auf Vollständigkeit abzielen (können), noch eigens überprüft wurden.</p>
+      </div>
+      <divGen type="eintraege"/>
+    </body>
+  </text>
+</TEI>

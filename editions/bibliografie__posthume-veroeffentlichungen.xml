@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bibliografie__posthume-veroeffentlichungen" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Posthume Veröffentlichungen</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">49643</idno>
+        <idno type="drupal-alias">/bibliografie/49643</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bibliografie/49643">https://bahr.univie.ac.at/bibliografie/49643</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="1" key="bibliografie">Bibliografie</term>
+          <term n="8" key="posthume-veroeffentlichungen">Posthume Veröffentlichungen</term>
+        </keywords>
+        <classCode scheme="drupal-type">bibliographie</classCode>
+        <keywords scheme="bibliografie_type">
+          <term>Posthume Veröffentlichungen</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2011-11-22T11:02:21+00:00" type="created">angelegt in Drupal</change>
+      <change when="2020-02-27T14:17:11+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p><hi rend="bold">Vorbemerkung:</hi> Diese, bei Thomasberger nicht vorhandene, Kategorie umfasst neue Veröffentlichungen und Zusammenstellungen mit Primärtexten Bahrs seit seinem Tod. Einfache Neuauflagen werden nicht verzeichnet, sondern sind bei den Erstausgaben angefügt. Briefwechsel werden nicht nicht erfasst, sondern sind <ref target="briefe__veroeffentlichte-briefwechsel.xml">hier</ref> zusammengestellt. Die von diesem Projekt betreuten "Kritischen Schriften in Einzelausgaben" sind <ref target="kritische-schriften.xml">hier</ref> aufgeführt.</p>
+        <list rend="numbered">
+          <item><hi rend="h4">Salzburger Landschaft</hi> Aus Briefen an seine Frau Anna Bahr-Mildenburg und aus seinen Tagebüchern. Mit Zeichnungen von Anton Steinhart <table><row><cell>Autor:</cell><cell>Hermann Bahr</cell></row><row><cell>Hg.:</cell><cell>Ludwig Praehauser</cell></row><row><cell> </cell><cell>Innsbruck, Leipzig: Felizian Rauch 1937</cell></row><row><cell>Seiten:</cell><cell>54</cell></row></table></item>
+          <item><hi rend="h4">Adalbert Stifters Witiko</hi> <table><row><cell>Autor</cell><cell>Hermann Bahr</cell></row><row><cell> </cell><cell>St. Gallen: Tschudy &amp; Co. 1928</cell></row><row><cell>Seiten:</cell><cell>28</cell></row><row><cell>Aufl.:</cell><cell>Aufl. 400 Stück (schriftl. Auskunft Tschudy-Verl., 2.11.2009)</cell></row><row><cell>Neuaufl.:</cell><cell>Unser Oberdonau. Ewiger Kraftquell der Heimat. Ausgew. und hg. von Anton Fellner. Berlin: Die Heimbücherei 1945, 176-178</cell></row><row><cell>Anm.:</cell><cell><hi rend="italic">Thomasberger datiert mit Hinweis auf Heck: Das Werk Adalbert Stifters, Wien: 1953, S. 75 Nr. 10 auf [1928]. Wir folgen der Schweizer Nationalbiografie (1941, #4), die es auf 1940 datiert. Im Nachlass Bahrs gibt es keinen Hinweis darauf, dass Hermann Bahr oder Anna Bahr-Mildenburg die Ausgabe gekannt haben könnten. Ein Verzeichnis im Archiv, in der Anna Bahr-Mildenburg 1934 die Werke ihres verstorbenen Mannes in ihrem Besitz erfasst, erwähnt diese Ausgabe nicht.</hi></cell></row></table></item>
+          <item><hi rend="h4">Österreichischer Genius</hi> Grillparzer – Stifter – Feuchtersleben <table><row><cell>Autor:</cell><cell>Hermann Bahr</cell></row><row><cell> </cell><cell>Wien: Bellaria 1947</cell></row><row><cell>Reihe:</cell><cell>Bellaria Bücherei 9</cell></row><row><cell>Seiten:</cell><cell>95</cell></row></table></item>
+          <item><hi rend="h4">Kulturprofil der Jahrhundertwende. Essays</hi> Zum 100. Geburtstag des Dichters. Hgg. vom Land Oberösterreich und von der Stadt Linz <table><row><cell>Autor:</cell><cell>Hermann Bahr</cell></row><row><cell>Hg.:</cell><cell>Heinz Kindermann</cell></row><row><cell> </cell><cell>Wien: Bauer 1962</cell></row><row><cell>Seiten:</cell><cell>360</cell></row></table></item>
+          <item><hi rend="h4">Theater der Jahrhundertwende. Kritiken</hi> Zum 100. Geburtstag des Dichters. Hgg. vom Land Oberösterreich und von der Stadt Linz <table><row><cell>Autor:</cell><cell>Hermann Bahr</cell></row><row><cell>Hg.:</cell><cell>Heinz Kindermann</cell></row><row><cell> </cell><cell>Wien: Bauer 1963</cell></row><row><cell>Seiten:</cell><cell>422</cell></row></table></item>
+          <item><hi rend="h4">Sinn hinter der Komödie</hi> Auswahl, Einführung und Zwischentexte von Rudolf Holzer <table><row><cell>Autor:</cell><cell>Hermann Bahr</cell></row><row><cell> </cell><cell>Graz, Wien: Stiasny 1965</cell></row><row><cell>Reihe:</cell><cell>Stiasny-Bücherei 161</cell></row><row><cell>Seiten:</cell><cell>128</cell></row></table></item>
+          <item><hi rend="h4">Zur Überwindung des Naturalismus</hi> Theoretische Schriften 1887 – 1904. Ausgewählt, eingeleitet und erläutert von Gotthart Wunberg <table><row><cell>Autor:</cell><cell>Hermann Bahr</cell></row><row><cell> </cell><cell>Stuttgart u.a.: Kohlhammer 1968</cell></row><row><cell>Reihe:</cell><cell>Sprache und Literatur 46</cell></row><row><cell>Seiten:</cell><cell>XII, 244</cell></row></table></item>
+          <item><hi rend="h4">Das Junge Wien. Österreichische Literatur- und Kunstkritik 1887 - 1902</hi> <table><row><cell>Hg.:</cell><cell>Gotthart Wunberg</cell></row><row><cell> </cell><cell>Tübingen: Niemeyer 1976</cell></row><row><cell>Seiten:</cell><cell>XC, 1347</cell></row></table></item>
+          <item><hi rend="h4">Der Antisemitismus</hi> Ein internationales Interview. Mit einem Anhang <table><row><cell>Autor:</cell><cell>Hermann Bahr</cell></row><row><cell>Hg.:</cell><cell>Hermann Greive</cell></row><row><cell> </cell><cell>Königstein/Ts: Jüdischer Verlag 1979</cell></row><row><cell>Seiten:</cell><cell>154</cell></row></table></item>
+          <item><hi rend="h4">Josef Kainz</hi> Mit Fotoüberarbeitungen seiner Totenmaske von Arnulf Rainer <table><row><cell>Autor:</cell><cell>Hermann Bahr</cell></row><row><cell> </cell><cell>Wien: Sonderzahl-Verl.-Ges. 1984</cell></row><row><cell>Seiten:</cell><cell>47</cell></row></table></item>
+          <item><hi rend="h4">Leander</hi> <table><row><cell>Autor:</cell><cell>Hermann Bahr</cell></row><row><cell>Hg.:</cell><cell>Konrad Paul</cell></row><row><cell> </cell><cell>Berlin: Aufbau 1986</cell></row><row><cell>Seiten:</cell><cell>205</cell></row></table></item>
+          <item><hi rend="h4">Prophet der Moderne</hi> Tagebücher 1888-1904 <table><row><cell>Autor:</cell><cell>Hermann Bahr</cell></row><row><cell>Hg.:</cell><cell>Reinhard Farkas</cell></row><row><cell> </cell><cell>Wien: Böhlau 1987</cell></row><row><cell>Seiten:</cell><cell>228</cell></row></table></item>
+          <item><hi rend="h4">Tagebücher, Skizzenbücher, Notizhefte</hi> Band 1. 1885 - 1890. Bearbeitet von Lottelis Moser und Helene Zand <table><row><cell>Autor:</cell><cell>Hermann Bahr</cell></row><row><cell>Hg.:</cell><cell>Moritz Csáky</cell></row><row><cell> </cell><cell>Wien, Köln, Weimar: Böhlau 1994</cell></row><row><cell>Seiten:</cell><cell>XXI, 422</cell></row></table></item>
+          <item><hi rend="h4">Tagebücher, Skizzenbücher, Notizhefte</hi> Band 2. 1890 - 1900. Bearbeitet von Helene Zand, Lukas Mayerhofer und Lottelis Moser <table><row><cell>Autor:</cell><cell>Hermann Bahr</cell></row><row><cell>Hg.:</cell><cell>Moritz Csáky</cell></row><row><cell> </cell><cell>Wien, Köln, Weimar: Böhlau 1996</cell></row><row><cell>Seiten:</cell><cell>XXXI, 529</cell></row></table></item>
+          <item><hi rend="h4">Tagebücher, Skizzenbücher, Notizhefte</hi> Band 3. 1901 - 1903. Bearbeitet von Helene Zand und Lukas Mayerhofer <table><row><cell>Autor:</cell><cell>Hermann Bahr</cell></row><row><cell>Hg.:</cell><cell>Moritz Csáky</cell></row><row><cell> </cell><cell>Wien, Köln, Weimar: Böhlau 1997</cell></row><row><cell>Seiten:</cell><cell>XXIX, 532</cell></row></table></item>
+          <item><hi rend="h4">Tagebücher, Skizzenbücher, Notizhefte</hi> Band 4. 1904 - 1905. Bearbeitet von Lukas Mayerhofer und Helene Zand <table><row><cell>Autor:</cell><cell>Hermann Bahr</cell></row><row><cell>Hg.:</cell><cell>Moritz Csáky</cell></row><row><cell> </cell><cell>Wien, Köln, Weimar: Böhlau 2000</cell></row><row><cell>Seiten:</cell><cell>XXI, 504</cell></row></table></item>
+          <item><hi rend="h4">Tagebücher, Skizzenbücher, Notizhefte</hi> Band 5. 1906 - 1908. Bearbeitet von Kurt Ifkovits und Lukas Mayerhofer <table><row><cell>Autor:</cell><cell>Hermann Bahr</cell></row><row><cell>Hg.:</cell><cell>Moritz Csáky</cell></row><row><cell> </cell><cell>Wien, Köln, Weimar: Böhlau 2003</cell></row><row><cell>Seiten:</cell><cell>XXV, 563</cell></row></table></item>
+          <item><hi rend="h4">Ce monsieur de Linz qui inventa Vienne</hi> Hermann Bahr. Textes d'Eduard Michael Kafka, Hugo von Hofmannsthal, Karl Kraus et Otto Stoessl. Trad. et présentés par Jean Launay <table><row><cell>Autor:</cell><cell>Hermann Bahr</cell></row><row><cell> </cell><cell>Monaco: Éd. du Rocher 2006</cell></row><row><cell>Reihe:</cell><cell>Anatolia</cell></row><row><cell>Seiten:</cell><cell>267</cell></row></table></item>
+          <item><hi rend="h4">Niemals und immer derselbe</hi> Prosa <table><row><cell>Autor:</cell><cell>Hermann Bahr</cell></row><row><cell>Hg.:</cell><cell>Marius Huszar</cell></row><row><cell> </cell><cell>Weitra: Verl. Publication PN°1 - Bibliothek der Provinz 2008</cell></row><row><cell>Seiten:</cell><cell>47</cell></row></table></item>
+        </list>
+      </div>
+    </body>
+  </text>
+</TEI>

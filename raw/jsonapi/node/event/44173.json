@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "19f90d98-29b7-4ca5-90c1-2f0108576a95",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/19f90d98-29b7-4ca5-90c1-2f0108576a95?resourceVersion=id%3A3088"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/19f90d98-29b7-4ca5-90c1-2f0108576a95?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44173,
+    "drupal_internal__vid": 3088,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Zell am Ziller",
+    "created": "2011-09-15T13:27:31+00:00",
+    "changed": "2012-01-26T14:33:50+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44173",
+      "pid": 1067,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Nach der Hochzeit halten sich Bahr und die neue Frau Bahr-Mildenburg im Zillertal auf. Dort halten sie sich vom 23. August bis zum 1. September 1909 auf.\r\n\r\n",
+      "format": "full_html",
+      "processed": "Nach der Hochzeit halten sich Bahr und die neue Frau Bahr-Mildenburg im Zillertal auf. Dort halten sie sich vom 23. August bis zum 1. September 1909 auf.\n\n",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1909-08-23",
+      "end_value": "1909-09-01"
+    },
+    "field_sources": [
+      "Bahr/Redlich, 67.",
+      "Bahr/Kvapil, 102.",
+      "Hermann Bahr: Aufzeichnungen 1909-1911. Ausgabe in Vorbereitung von Kurt Ifkovits\r\n"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/19f90d98-29b7-4ca5-90c1-2f0108576a95/node_type?resourceVersion=id%3A3088"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/19f90d98-29b7-4ca5-90c1-2f0108576a95/relationships/node_type?resourceVersion=id%3A3088"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/19f90d98-29b7-4ca5-90c1-2f0108576a95/revision_uid?resourceVersion=id%3A3088"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/19f90d98-29b7-4ca5-90c1-2f0108576a95/relationships/revision_uid?resourceVersion=id%3A3088"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/19f90d98-29b7-4ca5-90c1-2f0108576a95/uid?resourceVersion=id%3A3088"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/19f90d98-29b7-4ca5-90c1-2f0108576a95/relationships/uid?resourceVersion=id%3A3088"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/19f90d98-29b7-4ca5-90c1-2f0108576a95/field_event_type?resourceVersion=id%3A3088"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/19f90d98-29b7-4ca5-90c1-2f0108576a95/relationships/field_event_type?resourceVersion=id%3A3088"
+        }
+      }
+    }
+  }
+}

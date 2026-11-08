@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "2acfcb28-579f-4750-9b55-cfd645b3826e",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/2acfcb28-579f-4750-9b55-cfd645b3826e?resourceVersion=id%3A3267"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/2acfcb28-579f-4750-9b55-cfd645b3826e?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49424,
+    "drupal_internal__vid": 3267,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Kein AS",
+    "created": "2011-10-19T11:29:55+00:00",
+    "changed": "2012-11-29T15:07:38+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49424",
+      "pid": 1248,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 20. September 1918 begegnen sich Bahr und Schnitzler bei Berta Zuckerkandl, wo Bahr die Aufgabe hat, diesem beizubringen, dass dessen neues Stück <i>Die Schwestern oder Casanova in Spa</i> nicht auf dem Spielplan des Burgtheaters landen würde. Schnitzler notiert sich:<blockquote>Wer ihm's prophezeit hätte - vor 25 Jahren - daß seine erste Amtshandlung im B.Th. sein würde, des \"Kampfgenossen aus Jugendjahren\" Stück - zu refusiren - weil dem Cardinal die Aufführung peinlich sein könnte! -</blockquote>",
+      "format": "full_html",
+      "processed": "Am 20. September 1918 begegnen sich Bahr und Schnitzler bei Berta Zuckerkandl, wo Bahr die Aufgabe hat, diesem beizubringen, dass dessen neues Stück <i>Die Schwestern oder Casanova in Spa</i> nicht auf dem Spielplan des Burgtheaters landen würde. Schnitzler notiert sich:<blockquote>Wer ihm's prophezeit hätte - vor 25 Jahren - daß seine erste Amtshandlung im B.Th. sein würde, des \"Kampfgenossen aus Jugendjahren\" Stück - zu refusiren - weil dem Cardinal die Aufführung peinlich sein könnte! -</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1918-09-20",
+      "end_value": "1918-09-20"
+    },
+    "field_sources": [
+      "Schnitzler: Tagebücher, VI, 181."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2acfcb28-579f-4750-9b55-cfd645b3826e/node_type?resourceVersion=id%3A3267"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2acfcb28-579f-4750-9b55-cfd645b3826e/relationships/node_type?resourceVersion=id%3A3267"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2acfcb28-579f-4750-9b55-cfd645b3826e/revision_uid?resourceVersion=id%3A3267"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2acfcb28-579f-4750-9b55-cfd645b3826e/relationships/revision_uid?resourceVersion=id%3A3267"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2acfcb28-579f-4750-9b55-cfd645b3826e/uid?resourceVersion=id%3A3267"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2acfcb28-579f-4750-9b55-cfd645b3826e/relationships/uid?resourceVersion=id%3A3267"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2acfcb28-579f-4750-9b55-cfd645b3826e/field_event_type?resourceVersion=id%3A3267"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2acfcb28-579f-4750-9b55-cfd645b3826e/relationships/field_event_type?resourceVersion=id%3A3267"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "78cc1f4a-50cb-4d23-8471-c8e59df108af",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/78cc1f4a-50cb-4d23-8471-c8e59df108af?resourceVersion=id%3A3134"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/78cc1f4a-50cb-4d23-8471-c8e59df108af?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44220,
+    "drupal_internal__vid": 3134,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Verbot \"Böhmen\"",
+    "created": "2011-09-28T08:12:20+00:00",
+    "changed": "2011-09-28T08:12:20+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44220",
+      "pid": 1113,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 6. Februar 1916 meldet das Prager Tagblatt:<blockquote><strong>[Hermann Bahrs Artikel \"Böhmen\" verboten]</strong> Die Weiterverbreitung des Jännerheftes der Berliner Monatsschrift \"Die neue Rundschau\", die Bahrs Artikel über Böhmen enthält, ist – wie die deutsche Buchhändlerzeitung mitteilt – <i>verboten.</i></blockquote>",
+      "format": "full_html",
+      "processed": "Am 6. Februar 1916 meldet das Prager Tagblatt:<blockquote><strong>[Hermann Bahrs Artikel \"Böhmen\" verboten]</strong> Die Weiterverbreitung des Jännerheftes der Berliner Monatsschrift \"Die neue Rundschau\", die Bahrs Artikel über Böhmen enthält, ist – wie die deutsche Buchhändlerzeitung mitteilt – <i>verboten.</i></blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1916-02-06",
+      "end_value": "1916-02-06"
+    },
+    "field_sources": [
+      "Prager Tagblatt, 41 (1916) #37, Morgen-Ausgabe, 5. (6.2.1916)",
+      "Vgl. Bahr/Kvapil, 397-398 u.ö."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/78cc1f4a-50cb-4d23-8471-c8e59df108af/node_type?resourceVersion=id%3A3134"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/78cc1f4a-50cb-4d23-8471-c8e59df108af/relationships/node_type?resourceVersion=id%3A3134"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/78cc1f4a-50cb-4d23-8471-c8e59df108af/revision_uid?resourceVersion=id%3A3134"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/78cc1f4a-50cb-4d23-8471-c8e59df108af/relationships/revision_uid?resourceVersion=id%3A3134"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/78cc1f4a-50cb-4d23-8471-c8e59df108af/uid?resourceVersion=id%3A3134"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/78cc1f4a-50cb-4d23-8471-c8e59df108af/relationships/uid?resourceVersion=id%3A3134"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/78cc1f4a-50cb-4d23-8471-c8e59df108af/field_event_type?resourceVersion=id%3A3134"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/78cc1f4a-50cb-4d23-8471-c8e59df108af/relationships/field_event_type?resourceVersion=id%3A3134"
+        }
+      }
+    }
+  }
+}

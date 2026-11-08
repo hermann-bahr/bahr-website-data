@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "135509d6-ee99-4438-8d8f-ce3f6f6c63b6",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/135509d6-ee99-4438-8d8f-ce3f6f6c63b6?resourceVersion=id%3A2231"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/135509d6-ee99-4438-8d8f-ce3f6f6c63b6?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27880,
+    "drupal_internal__vid": 2231,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Wechsel zur Steyrermühl",
+    "created": "2010-06-21T14:16:46+00:00",
+    "changed": "2011-07-11T12:07:39+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/27880",
+      "pid": 64,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Dass Bahr bei der \"Zeit\" kündigte, weil er bereits ein Folgeangebot hatte, geht aus einem Brief an seine Mutter hervor. Am 3. Juli 1899 schreibt er ihr,dass er zum Medienhaus \"Steyrermühl\" wechselt, das das \"Wiener Tagblatt\" und die \"Österreichische Volkszeitung\" herausgibt. Er begründet das damit, dass er mehr verdienen soll und durch die gedruckten 70-80.000 Exemplare eine deutlich größere Leserschaft erreichen werde.\r\nAb 1. Oktober und bis ins Frühjahr 1906 wird der Großteil von Bahrs journalistischer Tätigkeit in den beiden Blättern veröffentlicht.",
+      "format": "full_html",
+      "processed": "Dass Bahr bei der \"Zeit\" kündigte, weil er bereits ein Folgeangebot hatte, geht aus einem Brief an seine Mutter hervor. Am 3. Juli 1899 schreibt er ihr,dass er zum Medienhaus \"Steyrermühl\" wechselt, das das \"Wiener Tagblatt\" und die \"Österreichische Volkszeitung\" herausgibt. Er begründet das damit, dass er mehr verdienen soll und durch die gedruckten 70-80.000 Exemplare eine deutlich größere Leserschaft erreichen werde.\nAb 1. Oktober und bis ins Frühjahr 1906 wird der Großteil von Bahrs journalistischer Tätigkeit in den beiden Blättern veröffentlicht.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1899-07-03",
+      "end_value": "1899-07-03"
+    },
+    "field_sources": [
+      "Brief an die Mutter, 3.7.1899. Abgedruckt in: Die Zeit und die tschechische Moderne, 366."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/135509d6-ee99-4438-8d8f-ce3f6f6c63b6/node_type?resourceVersion=id%3A2231"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/135509d6-ee99-4438-8d8f-ce3f6f6c63b6/relationships/node_type?resourceVersion=id%3A2231"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/135509d6-ee99-4438-8d8f-ce3f6f6c63b6/revision_uid?resourceVersion=id%3A2231"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/135509d6-ee99-4438-8d8f-ce3f6f6c63b6/relationships/revision_uid?resourceVersion=id%3A2231"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/135509d6-ee99-4438-8d8f-ce3f6f6c63b6/uid?resourceVersion=id%3A2231"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/135509d6-ee99-4438-8d8f-ce3f6f6c63b6/relationships/uid?resourceVersion=id%3A2231"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "d579e54c-64dd-4193-a9ef-da87efb3ed16",
+          "meta": {
+            "drupal_internal__target_id": 8
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/135509d6-ee99-4438-8d8f-ce3f6f6c63b6/field_event_type?resourceVersion=id%3A2231"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/135509d6-ee99-4438-8d8f-ce3f6f6c63b6/relationships/field_event_type?resourceVersion=id%3A2231"
+        }
+      }
+    }
+  }
+}

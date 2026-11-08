@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "d3af6df0-1846-4f3e-9b3e-0235bc2eb23d",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/d3af6df0-1846-4f3e-9b3e-0235bc2eb23d?resourceVersion=id%3A3373"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/d3af6df0-1846-4f3e-9b3e-0235bc2eb23d?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49540,
+    "drupal_internal__vid": 3373,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Salzburg",
+    "created": "2011-10-28T13:35:24+00:00",
+    "changed": "2011-10-28T13:35:24+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49540",
+      "pid": 1357,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 7. Februar 1924 kündigt Bahr an, in den \"allernächsten Tagen\" auf ein paar Tage nach Salzburg zu fahren.",
+      "format": "full_html",
+      "processed": "Am 7. Februar 1924 kündigt Bahr an, in den \"allernächsten Tagen\" auf ein paar Tage nach Salzburg zu fahren.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1924-02-09",
+      "end_value": "1924-02-12"
+    },
+    "field_sources": [
+      "Bahr/Redlich, 520."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d3af6df0-1846-4f3e-9b3e-0235bc2eb23d/node_type?resourceVersion=id%3A3373"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d3af6df0-1846-4f3e-9b3e-0235bc2eb23d/relationships/node_type?resourceVersion=id%3A3373"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d3af6df0-1846-4f3e-9b3e-0235bc2eb23d/revision_uid?resourceVersion=id%3A3373"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d3af6df0-1846-4f3e-9b3e-0235bc2eb23d/relationships/revision_uid?resourceVersion=id%3A3373"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d3af6df0-1846-4f3e-9b3e-0235bc2eb23d/uid?resourceVersion=id%3A3373"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d3af6df0-1846-4f3e-9b3e-0235bc2eb23d/relationships/uid?resourceVersion=id%3A3373"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d3af6df0-1846-4f3e-9b3e-0235bc2eb23d/field_event_type?resourceVersion=id%3A3373"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d3af6df0-1846-4f3e-9b3e-0235bc2eb23d/relationships/field_event_type?resourceVersion=id%3A3373"
+        }
+      }
+    }
+  }
+}

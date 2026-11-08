@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "03c12582-df4d-44ff-86dd-3dfc814aaa4d",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/03c12582-df4d-44ff-86dd-3dfc814aaa4d?resourceVersion=id%3A2325"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/03c12582-df4d-44ff-86dd-3dfc814aaa4d?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27992,
+    "drupal_internal__vid": 2325,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Linz",
+    "created": "2010-07-27T14:15:02+00:00",
+    "changed": "2012-10-29T09:53:45+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/27992",
+      "pid": 159,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Vom September bis zum 28. November 1891 lebt Bahr in Linz, von kurzen Abstechern nach Wien abgesehen. ",
+      "format": "full_html",
+      "processed": "Vom September bis zum 28. November 1891 lebt Bahr in Linz, von kurzen Abstechern nach Wien abgesehen. ",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1891-09-01",
+      "end_value": "1891-11-28"
+    },
+    "field_sources": [
+      "Briefwechsel Bahr/Hofmannsthal. Hg. Elsbeth Dangel-Pelloquin. Göttingen: Wallstein. (In Vorbereitung), Bahr an HvH, 23.11.1891"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/03c12582-df4d-44ff-86dd-3dfc814aaa4d/node_type?resourceVersion=id%3A2325"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/03c12582-df4d-44ff-86dd-3dfc814aaa4d/relationships/node_type?resourceVersion=id%3A2325"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/03c12582-df4d-44ff-86dd-3dfc814aaa4d/revision_uid?resourceVersion=id%3A2325"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/03c12582-df4d-44ff-86dd-3dfc814aaa4d/relationships/revision_uid?resourceVersion=id%3A2325"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/03c12582-df4d-44ff-86dd-3dfc814aaa4d/uid?resourceVersion=id%3A2325"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/03c12582-df4d-44ff-86dd-3dfc814aaa4d/relationships/uid?resourceVersion=id%3A2325"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/03c12582-df4d-44ff-86dd-3dfc814aaa4d/field_event_type?resourceVersion=id%3A2325"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/03c12582-df4d-44ff-86dd-3dfc814aaa4d/relationships/field_event_type?resourceVersion=id%3A2325"
+        }
+      }
+    }
+  }
+}

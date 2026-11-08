@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "18a25d79-6c3c-40ca-b4c2-8db58c5ce9ac",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/18a25d79-6c3c-40ca-b4c2-8db58c5ce9ac?resourceVersion=id%3A2577"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/18a25d79-6c3c-40ca-b4c2-8db58c5ce9ac?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38756,
+    "drupal_internal__vid": 2577,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Isoline",
+    "created": "2011-01-25T20:04:02+00:00",
+    "changed": "2011-11-17T16:59:37+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38756",
+      "pid": 504,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 28. Dezember 1888 sieht er im Renaissance-Theater die Feerie \"Isoline\", die ihn zu einem gleichnamigen Aufsatz inspiriert, die zuerst in der Deutschen Zeitung und dann in Zur Kritik der Moderne erscheint.",
+      "format": "full_html",
+      "processed": "Am 28. Dezember 1888 sieht er im Renaissance-Theater die Feerie \"Isoline\", die ihn zu einem gleichnamigen Aufsatz inspiriert, die zuerst in der Deutschen Zeitung und dann in Zur Kritik der Moderne erscheint.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1888-12-28",
+      "end_value": "1888-12-28"
+    },
+    "field_sources": [
+      "Brief an den Vater, 29.12.1888",
+      "Hermann Bahr: Isoline. Ein Pariser Brief. Deutsche Zeitung, Wien, 19 (1889) #6147, Morgen-Ausgabe, 1-3. (8.2.1889) Buchausgabe: Zur Kritik der Moderne, 170-176"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/18a25d79-6c3c-40ca-b4c2-8db58c5ce9ac/node_type?resourceVersion=id%3A2577"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/18a25d79-6c3c-40ca-b4c2-8db58c5ce9ac/relationships/node_type?resourceVersion=id%3A2577"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/18a25d79-6c3c-40ca-b4c2-8db58c5ce9ac/revision_uid?resourceVersion=id%3A2577"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/18a25d79-6c3c-40ca-b4c2-8db58c5ce9ac/relationships/revision_uid?resourceVersion=id%3A2577"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/18a25d79-6c3c-40ca-b4c2-8db58c5ce9ac/uid?resourceVersion=id%3A2577"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/18a25d79-6c3c-40ca-b4c2-8db58c5ce9ac/relationships/uid?resourceVersion=id%3A2577"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/18a25d79-6c3c-40ca-b4c2-8db58c5ce9ac/field_event_type?resourceVersion=id%3A2577"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/18a25d79-6c3c-40ca-b4c2-8db58c5ce9ac/relationships/field_event_type?resourceVersion=id%3A2577"
+        }
+      }
+    }
+  }
+}

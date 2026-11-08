@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "d3889771-1ca4-45bc-adbc-c9e768c45c2e",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/d3889771-1ca4-45bc-adbc-c9e768c45c2e?resourceVersion=id%3A2527"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/d3889771-1ca4-45bc-adbc-c9e768c45c2e?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28228,
+    "drupal_internal__vid": 2527,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "3 Bücher",
+    "created": "2010-10-28T11:18:55+00:00",
+    "changed": "2011-07-18T14:53:23+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28228",
+      "pid": 365,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Über die publizistische Präsenz Bahrs Ende 1890 gibt eine kurze Meldung in der \"Modernen Dichtung\" Aufschluss:\r\n<blockquote>Soeben gelangt bei S. Fischer in Berlin „Die gute Schule,“ Hermann Bahr‘s erster Roman, der bei seinem theilweisen Erscheinen in der „Freien Bühne“ so großes Aufesehen erregt hat, zur vollständigen Ausgabe: man ist jetzt erst in der Lage, diesem Versuche, den psychologischen Idealismus zu erneuern, völlig gerecht zu werden. Gleichzeitig erscheint bei Adolf Zoberbier in Berlin unter dem Titel „Fin de Siècle“ eine Sammlung von Novellen, welche aus demselben antinaturalistischen Geiste geschaffen sind. Gegenwärtig arbeitet Hermann Bahr an dem zweiten Bande seiner „Kritik der Moderne“, welcher unter dem Titel „Die Überwindung des Naturalismus“ alle auf die Wiedergeburt des Idealismus gerichteten Bestrebungen der Moderne in Frankreich, Spanien, Italien und Deutschland darstellen soll.</blockquote>\r\n",
+      "format": "full_html",
+      "processed": "Über die publizistische Präsenz Bahrs Ende 1890 gibt eine kurze Meldung in der \"Modernen Dichtung\" Aufschluss:\n<blockquote>Soeben gelangt bei S. Fischer in Berlin „Die gute Schule,“ Hermann Bahr‘s erster Roman, der bei seinem theilweisen Erscheinen in der „Freien Bühne“ so großes Aufesehen erregt hat, zur vollständigen Ausgabe: man ist jetzt erst in der Lage, diesem Versuche, den psychologischen Idealismus zu erneuern, völlig gerecht zu werden. Gleichzeitig erscheint bei Adolf Zoberbier in Berlin unter dem Titel „Fin de Siècle“ eine Sammlung von Novellen, welche aus demselben antinaturalistischen Geiste geschaffen sind. Gegenwärtig arbeitet Hermann Bahr an dem zweiten Bande seiner „Kritik der Moderne“, welcher unter dem Titel „Die Überwindung des Naturalismus“ alle auf die Wiedergeburt des Idealismus gerichteten Bestrebungen der Moderne in Frankreich, Spanien, Italien und Deutschland darstellen soll.</blockquote>\n",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1890-10-01",
+      "end_value": "1890-10-01"
+    },
+    "field_sources": [
+      "[O.N.: O.T.] Moderne Dichtung, 2 (1890) #4, 657. (1.10.1890)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d3889771-1ca4-45bc-adbc-c9e768c45c2e/node_type?resourceVersion=id%3A2527"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d3889771-1ca4-45bc-adbc-c9e768c45c2e/relationships/node_type?resourceVersion=id%3A2527"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d3889771-1ca4-45bc-adbc-c9e768c45c2e/revision_uid?resourceVersion=id%3A2527"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d3889771-1ca4-45bc-adbc-c9e768c45c2e/relationships/revision_uid?resourceVersion=id%3A2527"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d3889771-1ca4-45bc-adbc-c9e768c45c2e/uid?resourceVersion=id%3A2527"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d3889771-1ca4-45bc-adbc-c9e768c45c2e/relationships/uid?resourceVersion=id%3A2527"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d3889771-1ca4-45bc-adbc-c9e768c45c2e/field_event_type?resourceVersion=id%3A2527"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d3889771-1ca4-45bc-adbc-c9e768c45c2e/relationships/field_event_type?resourceVersion=id%3A2527"
+        }
+      }
+    }
+  }
+}

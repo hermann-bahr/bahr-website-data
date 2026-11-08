@@ -1,0 +1,114 @@
+{
+  "type": "node--event",
+  "id": "2d83afb4-bf4c-478d-9207-ba7f4a9bb286",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/2d83afb4-bf4c-478d-9207-ba7f4a9bb286?resourceVersion=id%3A2566"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/2d83afb4-bf4c-478d-9207-ba7f4a9bb286?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38719,
+    "drupal_internal__vid": 2566,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Moderne Mystik",
+    "created": "2011-01-18T13:09:14+00:00",
+    "changed": "2011-01-18T13:13:34+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38719",
+      "pid": 468,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Im November 1891 hält Bahr im \"Deutschen Klub\" in Linz seinen Vortrag \"Moderne Mystik\", den er im März in Wien wiederholt. ",
+      "format": "full_html",
+      "processed": "Im November 1891 hält Bahr im \"Deutschen Klub\" in Linz seinen Vortrag \"Moderne Mystik\", den er im März in Wien wiederholt. ",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1891-11-01",
+      "end_value": "1891-11-01"
+    },
+    "field_sources": []
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2d83afb4-bf4c-478d-9207-ba7f4a9bb286/node_type?resourceVersion=id%3A2566"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2d83afb4-bf4c-478d-9207-ba7f4a9bb286/relationships/node_type?resourceVersion=id%3A2566"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2d83afb4-bf4c-478d-9207-ba7f4a9bb286/revision_uid?resourceVersion=id%3A2566"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2d83afb4-bf4c-478d-9207-ba7f4a9bb286/relationships/revision_uid?resourceVersion=id%3A2566"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2d83afb4-bf4c-478d-9207-ba7f4a9bb286/uid?resourceVersion=id%3A2566"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2d83afb4-bf4c-478d-9207-ba7f4a9bb286/relationships/uid?resourceVersion=id%3A2566"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2d83afb4-bf4c-478d-9207-ba7f4a9bb286/field_event_type?resourceVersion=id%3A2566"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2d83afb4-bf4c-478d-9207-ba7f4a9bb286/relationships/field_event_type?resourceVersion=id%3A2566"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "2cd82256-8468-4eab-bc54-1b1bb83fb858",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/2cd82256-8468-4eab-bc54-1b1bb83fb858?resourceVersion=id%3A2307"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/2cd82256-8468-4eab-bc54-1b1bb83fb858?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27966,
+    "drupal_internal__vid": 2307,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Bayreuther Festspiele",
+    "created": "2010-07-20T09:32:29+00:00",
+    "changed": "2011-12-06T16:02:52+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/27966",
+      "pid": 141,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 19. Juni 1912 schreibt er an Kvapil aus Villach, dass er sich am Weg nach Bayreuth befinde.[1] Er nützt seinen Aufenthalt bei den Bayreuther Festspielen, bei denen seine Frau Anna Mildenburg singt, um mit verschiedenen Artikeln für den \"Parsifalschutz\" zu werben. Gemeint ist eine Änderung des Urheberrechts, so dass Bayreuth auch nach dem Auslaufen des Copyrights (30 Jahre nach Wagners Tod im Jahr 1913) Bayreuth das alleinige Aufführungsrecht am \"Parsifal\" besitzt. Wohnhaft bezeichnenderweise in der Parsifalstraße 15 schreibt er etwa an Gerhart Hauptmann, um ihn zur Unterstützung des Comitès für den Parsifalschutz zu gewinnen. Für den Winter kündigt er eine Vortragstournee durch Deutschland zu dem Thema an. Gesammelt erscheinen die Texte in einer Broschüre mit dem Titel \"Parsifalschutz ohne Ausnahmegesetz\".[2] ",
+      "format": "full_html",
+      "processed": "Am 19. Juni 1912 schreibt er an Kvapil aus Villach, dass er sich am Weg nach Bayreuth befinde.[1] Er nützt seinen Aufenthalt bei den Bayreuther Festspielen, bei denen seine Frau Anna Mildenburg singt, um mit verschiedenen Artikeln für den \"Parsifalschutz\" zu werben. Gemeint ist eine Änderung des Urheberrechts, so dass Bayreuth auch nach dem Auslaufen des Copyrights (30 Jahre nach Wagners Tod im Jahr 1913) Bayreuth das alleinige Aufführungsrecht am \"Parsifal\" besitzt. Wohnhaft bezeichnenderweise in der Parsifalstraße 15 schreibt er etwa an Gerhart Hauptmann, um ihn zur Unterstützung des Comitès für den Parsifalschutz zu gewinnen. Für den Winter kündigt er eine Vortragstournee durch Deutschland zu dem Thema an. Gesammelt erscheinen die Texte in einer Broschüre mit dem Titel \"Parsifalschutz ohne Ausnahmegesetz\".[2] ",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1912-06-19",
+      "end_value": "1912-08-20"
+    },
+    "field_sources": [
+      "[1] Bahr/Kvapil, 151. Da ein Korrespondenzstück vom 8.8. aus Bayreuth.",
+      "[2] Peter Sprengel: Hermann Bahr und Gerhart Hauptmann in Briefen und anderen Zeugnissen. In: Johann Lachinger, Hg.: Hermann Bahr – Mittler der europäischen Moderne. Linz: Adalbert-Stifter-Institut des Landes Oberösterreich 2001, 211."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2cd82256-8468-4eab-bc54-1b1bb83fb858/node_type?resourceVersion=id%3A2307"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2cd82256-8468-4eab-bc54-1b1bb83fb858/relationships/node_type?resourceVersion=id%3A2307"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2cd82256-8468-4eab-bc54-1b1bb83fb858/revision_uid?resourceVersion=id%3A2307"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2cd82256-8468-4eab-bc54-1b1bb83fb858/relationships/revision_uid?resourceVersion=id%3A2307"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2cd82256-8468-4eab-bc54-1b1bb83fb858/uid?resourceVersion=id%3A2307"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2cd82256-8468-4eab-bc54-1b1bb83fb858/relationships/uid?resourceVersion=id%3A2307"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2cd82256-8468-4eab-bc54-1b1bb83fb858/field_event_type?resourceVersion=id%3A2307"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2cd82256-8468-4eab-bc54-1b1bb83fb858/relationships/field_event_type?resourceVersion=id%3A2307"
+        }
+      }
+    }
+  }
+}

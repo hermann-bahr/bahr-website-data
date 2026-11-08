@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bibliografie__theaterstuecke__die-andere-1906" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Die Andere (1906)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">49664</idno>
+        <idno type="drupal-alias">/bibliografie/49664</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bibliografie/49664">https://bahr.univie.ac.at/bibliografie/49664</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+        <bibl type="beschriebene-ausgabe">
+          <author>Hermann Bahr</author>
+          <title type="main">Die Andere</title>
+          <pubPlace>Berlin</pubPlace>
+          <publisher>S. Fischer</publisher>
+          <date>1906</date>
+          <extent>139</extent>
+          <note>Schauspiel in fünf Akten. Thomasberger: "Bühnenmanuskript Berlin Ahn &amp; Simrock 1905". Die Widmung "M. Ndw Juli 1905" dürfte als "Mildenburg, Noordwijk aan Zee" aufzulösen sein, wo Bahr mit seiner späteren Frau im Juli Urlaub machte.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="1" key="bibliografie">Bibliografie</term>
+          <term n="2" key="theaterstuecke">Theaterstücke</term>
+          <term n="21" key="die-andere-1906" type="eintrag">Die Andere (1906)</term>
+        </keywords>
+        <classCode scheme="drupal-type">bibliographie</classCode>
+        <keywords scheme="bibliografie_type">
+          <term>Theaterstücke</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2011-11-22T16:47:00+00:00" type="created">angelegt in Drupal</change>
+      <change when="2011-11-23T10:18:37+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="bib">
+        <head>Bibliografie</head>
+        <table type="bibliografie">
+          <row>
+            <cell>Autor:</cell>
+            <cell>Hermann Bahr</cell>
+          </row>
+          <row>
+            <cell>Titel:</cell>
+            <cell>Die Andere</cell>
+          </row>
+          <row>
+            <cell>Ort:</cell>
+            <cell>Berlin</cell>
+          </row>
+          <row>
+            <cell>Verlag:</cell>
+            <cell>S. Fischer</cell>
+          </row>
+          <row>
+            <cell>Jahr:</cell>
+            <cell>1906</cell>
+          </row>
+          <row>
+            <cell>Seiten:</cell>
+            <cell>139</cell>
+          </row>
+          <row>
+            <cell>Anm.:</cell>
+            <cell>Schauspiel in fünf Akten. Thomasberger: "Bühnenmanuskript Berlin Ahn &amp; Simrock 1905". Die Widmung "M. Ndw Juli 1905" dürfte als "Mildenburg, Noordwijk aan Zee" aufzulösen sein, wo Bahr mit seiner späteren Frau im Juli Urlaub machte.</cell>
+          </row>
+        </table>
+      </div>
+      <div xml:id="auff">
+        <head>Inszenierungen</head>
+        <p>4.11.1905 Uraufführung Münchner Schauspielhaus, 7 Aufführungen. 25.11.1905 Erstaufführung im Deutschen Volkstheater in Wien, 2 Aufführungen. 1905/06: Leipzig, München, Wien (11)</p>
+      </div>
+      <div xml:id="rezens">
+        <head>Rezensionen</head>
+        <p>Berliner Tageblatt, 34 (1905) #567, Abend-Ausgabe, 2. (6.11.1905) Österreichische Volks-Zeitung, 51 (1903) #308, 6. (7.11.1905) (Nachtkritik) Marco Brociner in: Neues Wiener Tagblatt, 39 (1905) #327, 11. (26.11.1905) Ludwig Fischl in: Österreichische Volks-Zeitung, 51 (1903) #327, 13 und 21. (26.11.1905) [O. N.:] Eine stürmische Première. In: Illustriertes Wiener Extrablatt, 26.11.1905, 8-9. Willi Handl: Bahrs "Andere". In: Schaubühne, 1 (1905) #14, 394-396. (7.12.1905)</p>
+      </div>
+      <div xml:id="www">
+        <head>Digitalisate</head>
+        <p>
+          <ref target="http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=63&amp;zoom=1">Link</ref>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

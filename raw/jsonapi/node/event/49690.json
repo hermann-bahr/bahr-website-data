@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "5dca0a31-6bb6-4aa4-b633-98c53575b555",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/5dca0a31-6bb6-4aa4-b633-98c53575b555?resourceVersion=id%3A3472"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/5dca0a31-6bb6-4aa4-b633-98c53575b555?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49690,
+    "drupal_internal__vid": 3472,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Verliebt in Operettensängerin",
+    "created": "2011-11-28T12:04:11+00:00",
+    "changed": "2011-11-28T12:04:11+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49690",
+      "pid": 1505,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "In einer Aufzählung seiner frühen Verliebungen schreibt Bahr:<blockquote>erst in Kreuzen, noch vor dem Gymnasium, in eine Wienerin, dann in Linz in eine Operettensängerin; sie wohnte uns gegenüber im 'Schwarzen Bären' und mein begünstigter Nebenbuhler war der Statthalter, wodurch in mir der Keim zur Verachtung aller Bureaukratie gelegt worden sein mag.</blockquote>",
+      "format": "full_html",
+      "processed": "In einer Aufzählung seiner frühen Verliebungen schreibt Bahr:<blockquote>erst in Kreuzen, noch vor dem Gymnasium, in eine Wienerin, dann in Linz in eine Operettensängerin; sie wohnte uns gegenüber im 'Schwarzen Bären' und mein begünstigter Nebenbuhler war der Statthalter, wodurch in mir der Keim zur Verachtung aller Bureaukratie gelegt worden sein mag.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1873-09-01",
+      "end_value": "1873-09-01"
+    },
+    "field_sources": [
+      "Hermann Bahr: Tagebuch. 1. Mai. In: 1919. Tagebuch, 147-152, hier 148-149",
+      "(Hier auf das Gymnasium, also 1.9.1873 datiert)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5dca0a31-6bb6-4aa4-b633-98c53575b555/node_type?resourceVersion=id%3A3472"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5dca0a31-6bb6-4aa4-b633-98c53575b555/relationships/node_type?resourceVersion=id%3A3472"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5dca0a31-6bb6-4aa4-b633-98c53575b555/revision_uid?resourceVersion=id%3A3472"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5dca0a31-6bb6-4aa4-b633-98c53575b555/relationships/revision_uid?resourceVersion=id%3A3472"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5dca0a31-6bb6-4aa4-b633-98c53575b555/uid?resourceVersion=id%3A3472"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5dca0a31-6bb6-4aa4-b633-98c53575b555/relationships/uid?resourceVersion=id%3A3472"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5dca0a31-6bb6-4aa4-b633-98c53575b555/field_event_type?resourceVersion=id%3A3472"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5dca0a31-6bb6-4aa4-b633-98c53575b555/relationships/field_event_type?resourceVersion=id%3A3472"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "b5fd9c7e-f538-4db8-ab0d-3f79c05da6e2",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b5fd9c7e-f538-4db8-ab0d-3f79c05da6e2?resourceVersion=id%3A3769"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b5fd9c7e-f538-4db8-ab0d-3f79c05da6e2?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74452,
+    "drupal_internal__vid": 3769,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Bielefeld, Frankfurt",
+    "created": "2012-12-21T11:40:45+00:00",
+    "changed": "2012-12-21T11:44:14+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/74452",
+      "pid": 1826,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahr beginnt seine Vortragstournee am 26. Januar 1912 im Großen Saal der Eintracht, wo die Pfeffersche Buchhandlung ihn für einen Vortrag im Großen Saal der Eintracht gebucht hat, Honorar 300 Mark. Als Unterkunft dient das Hotel drei Kronen. \r\n\r\nAm 28. spricht er in Frankfurt am Main für das Neue Theater in einer Matinée. Honorar 400 Mark. Hotel: Englischer Hof. Vermutlich liest er das Schlußkapitel von \"O Mensch\" und die \"Schöne Frau\".",
+      "format": "full_html",
+      "processed": "Bahr beginnt seine Vortragstournee am 26. Januar 1912 im Großen Saal der Eintracht, wo die Pfeffersche Buchhandlung ihn für einen Vortrag im Großen Saal der Eintracht gebucht hat, Honorar 300 Mark. Als Unterkunft dient das Hotel drei Kronen. \n\nAm 28. spricht er in Frankfurt am Main für das Neue Theater in einer Matinée. Honorar 400 Mark. Hotel: Englischer Hof. Vermutlich liest er das Schlußkapitel von \"O Mensch\" und die \"Schöne Frau\".",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1912-01-26",
+      "end_value": "1912-01-28"
+    },
+    "field_sources": [
+      "Nachlass ZMBa 29: Vorträge, Tourneeplan 1912",
+      "[1] Dazu gehört wohl: Handschriftlich beschrifteter Artikel: Berliner Börsen-Courier, 31.2 [![!].1912 in Nachlass, ZMBa29, Vorlesungen II."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b5fd9c7e-f538-4db8-ab0d-3f79c05da6e2/node_type?resourceVersion=id%3A3769"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b5fd9c7e-f538-4db8-ab0d-3f79c05da6e2/relationships/node_type?resourceVersion=id%3A3769"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b5fd9c7e-f538-4db8-ab0d-3f79c05da6e2/revision_uid?resourceVersion=id%3A3769"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b5fd9c7e-f538-4db8-ab0d-3f79c05da6e2/relationships/revision_uid?resourceVersion=id%3A3769"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b5fd9c7e-f538-4db8-ab0d-3f79c05da6e2/uid?resourceVersion=id%3A3769"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b5fd9c7e-f538-4db8-ab0d-3f79c05da6e2/relationships/uid?resourceVersion=id%3A3769"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b5fd9c7e-f538-4db8-ab0d-3f79c05da6e2/field_event_type?resourceVersion=id%3A3769"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b5fd9c7e-f538-4db8-ab0d-3f79c05da6e2/relationships/field_event_type?resourceVersion=id%3A3769"
+        }
+      }
+    }
+  }
+}

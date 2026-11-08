@@ -1,0 +1,114 @@
+{
+  "type": "node--event",
+  "id": "15395c29-61d0-4a44-95a9-1d4ae2a6027b",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/15395c29-61d0-4a44-95a9-1d4ae2a6027b?resourceVersion=id%3A2607"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/15395c29-61d0-4a44-95a9-1d4ae2a6027b?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38786,
+    "drupal_internal__vid": 2607,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Burckhard",
+    "created": "2011-02-01T12:50:52+00:00",
+    "changed": "2011-02-01T12:50:52+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38786",
+      "pid": 534,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 26. August 1894 vermerkt Bahr gegenüber seinem Vater, dass er in der vorangegangenen Nacht mit Max Burckhard gesessen sei und das Programm für das Burgtheater entworfen habe. Bahr mochte die Vorstellung, dass er im Hintergrund die Fäden zog und war auch deswegen Burckhardt sehr zugetan und verteidigte ihn publizistisch, als er abgelöst wurde.\r\n<i>Brief an den Vater, 26.8.1894",
+      "format": "full_html",
+      "processed": "Am 26. August 1894 vermerkt Bahr gegenüber seinem Vater, dass er in der vorangegangenen Nacht mit Max Burckhard gesessen sei und das Programm für das Burgtheater entworfen habe. Bahr mochte die Vorstellung, dass er im Hintergrund die Fäden zog und war auch deswegen Burckhardt sehr zugetan und verteidigte ihn publizistisch, als er abgelöst wurde.\n<i>Brief an den Vater, 26.8.1894</i>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1894-08-25",
+      "end_value": "1894-08-25"
+    },
+    "field_sources": []
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/15395c29-61d0-4a44-95a9-1d4ae2a6027b/node_type?resourceVersion=id%3A2607"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/15395c29-61d0-4a44-95a9-1d4ae2a6027b/relationships/node_type?resourceVersion=id%3A2607"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/15395c29-61d0-4a44-95a9-1d4ae2a6027b/revision_uid?resourceVersion=id%3A2607"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/15395c29-61d0-4a44-95a9-1d4ae2a6027b/relationships/revision_uid?resourceVersion=id%3A2607"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/15395c29-61d0-4a44-95a9-1d4ae2a6027b/uid?resourceVersion=id%3A2607"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/15395c29-61d0-4a44-95a9-1d4ae2a6027b/relationships/uid?resourceVersion=id%3A2607"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/15395c29-61d0-4a44-95a9-1d4ae2a6027b/field_event_type?resourceVersion=id%3A2607"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/15395c29-61d0-4a44-95a9-1d4ae2a6027b/relationships/field_event_type?resourceVersion=id%3A2607"
+        }
+      }
+    }
+  }
+}

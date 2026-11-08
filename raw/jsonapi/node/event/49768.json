@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "c2007062-3572-4eab-9337-17f23c1cac9c",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/c2007062-3572-4eab-9337-17f23c1cac9c?resourceVersion=id%3A3539"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/c2007062-3572-4eab-9337-17f23c1cac9c?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49768,
+    "drupal_internal__vid": 3539,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Johannes Müller",
+    "created": "2012-01-10T12:36:30+00:00",
+    "changed": "2012-01-10T12:36:30+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49768",
+      "pid": 1580,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Dem spirituellen Freund späterer Jahre begegnet Bahr zum ersten Mal \"in den neunziger Jahren bei Konrad Dreher, dem bayrischen Komiker, in Schliersee pokulierend\" (zechend). Welcher der Aufenthalte zwischen 1895 und 1897 ist offen.",
+      "format": "full_html",
+      "processed": "Dem spirituellen Freund späterer Jahre begegnet Bahr zum ersten Mal \"in den neunziger Jahren bei Konrad Dreher, dem bayrischen Komiker, in Schliersee pokulierend\" (zechend). Welcher der Aufenthalte zwischen 1895 und 1897 ist offen.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1895-06-25",
+      "end_value": "1895-06-25"
+    },
+    "field_sources": [
+      "Liebe der Lebenden, I, 382.",
+      "(Hier auf 25.6.1895 datiert)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c2007062-3572-4eab-9337-17f23c1cac9c/node_type?resourceVersion=id%3A3539"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c2007062-3572-4eab-9337-17f23c1cac9c/relationships/node_type?resourceVersion=id%3A3539"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c2007062-3572-4eab-9337-17f23c1cac9c/revision_uid?resourceVersion=id%3A3539"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c2007062-3572-4eab-9337-17f23c1cac9c/relationships/revision_uid?resourceVersion=id%3A3539"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c2007062-3572-4eab-9337-17f23c1cac9c/uid?resourceVersion=id%3A3539"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c2007062-3572-4eab-9337-17f23c1cac9c/relationships/uid?resourceVersion=id%3A3539"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c2007062-3572-4eab-9337-17f23c1cac9c/field_event_type?resourceVersion=id%3A3539"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c2007062-3572-4eab-9337-17f23c1cac9c/relationships/field_event_type?resourceVersion=id%3A3539"
+        }
+      }
+    }
+  }
+}

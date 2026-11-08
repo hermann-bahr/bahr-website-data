@@ -1,0 +1,118 @@
+{
+  "type": "media--image_vdg",
+  "id": "b7602117-64dc-4254-8c8f-67440562992f",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/b7602117-64dc-4254-8c8f-67440562992f?resourceVersion=id%3A202"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/b7602117-64dc-4254-8c8f-67440562992f?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__mid": 201,
+    "drupal_internal__vid": 202,
+    "langcode": "de",
+    "revision_created": "2020-02-27T15:45:26+00:00",
+    "status": true,
+    "name": "18.jpg",
+    "created": "2020-02-27T15:45:15+00:00",
+    "changed": "2020-02-27T15:45:15+00:00",
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": null,
+      "pid": null,
+      "langcode": "de"
+    }
+  },
+  "relationships": {
+    "bundle": {
+      "data": {
+        "type": "media_type--media_type",
+        "id": "1e270fb0-cbb8-4385-a6d7-69db224c61f7",
+        "meta": {
+          "drupal_internal__target_id": "image_vdg"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/b7602117-64dc-4254-8c8f-67440562992f/bundle?resourceVersion=id%3A202"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/b7602117-64dc-4254-8c8f-67440562992f/relationships/bundle?resourceVersion=id%3A202"
+        }
+      }
+    },
+    "revision_user": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/b7602117-64dc-4254-8c8f-67440562992f/revision_user?resourceVersion=id%3A202"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/b7602117-64dc-4254-8c8f-67440562992f/relationships/revision_user?resourceVersion=id%3A202"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/b7602117-64dc-4254-8c8f-67440562992f/uid?resourceVersion=id%3A202"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/b7602117-64dc-4254-8c8f-67440562992f/relationships/uid?resourceVersion=id%3A202"
+        }
+      }
+    },
+    "thumbnail": {
+      "data": {
+        "type": "file--file",
+        "id": "b8bae5f5-fa3a-4164-84f2-c98a149409d7",
+        "meta": {
+          "alt": "Hermann Bahr, Kritische Schriften - 18 - Selbstbildnis",
+          "title": null,
+          "width": 202,
+          "height": 286,
+          "drupal_internal__target_id": 279
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/b7602117-64dc-4254-8c8f-67440562992f/thumbnail?resourceVersion=id%3A202"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/b7602117-64dc-4254-8c8f-67440562992f/relationships/thumbnail?resourceVersion=id%3A202"
+        }
+      }
+    },
+    "field_media_image_1": {
+      "data": {
+        "type": "file--file",
+        "id": "b8bae5f5-fa3a-4164-84f2-c98a149409d7",
+        "meta": {
+          "alt": "Hermann Bahr, Kritische Schriften - 18 - Selbstbildnis",
+          "title": "",
+          "width": 202,
+          "height": 286,
+          "drupal_internal__target_id": 279
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/b7602117-64dc-4254-8c8f-67440562992f/field_media_image_1?resourceVersion=id%3A202"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/b7602117-64dc-4254-8c8f-67440562992f/relationships/field_media_image_1?resourceVersion=id%3A202"
+        }
+      }
+    }
+  }
+}

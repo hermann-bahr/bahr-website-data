@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "9eae58a7-7225-4649-b29e-9e44332f6493",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/9eae58a7-7225-4649-b29e-9e44332f6493?resourceVersion=id%3A3770"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/9eae58a7-7225-4649-b29e-9e44332f6493?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74453,
+    "drupal_internal__vid": 3770,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Kirchmair",
+    "created": "2013-01-08T09:55:02+00:00",
+    "changed": "2013-01-08T09:57:18+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/74453",
+      "pid": 1827,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 5. Juli 1883 schreibt der Redakteur des \"Linzer Sonntagsblatts\", dass Bahrs Wunsch, die Zeitung nunmehr nach Ebensee geschickt zu bekommen, selbstverständlich entsprochen werde. Weiters lädt er ihn ein, am 8. nach Vöcklabruck zu einer \"Vereins-Versammlung\" zu kommen, wohin sie von Attnang weg gemeinsam reisen könnten. Ob Bahr fuhr, ist ungewiss, aber in Folge schreibt er (wieder) für's Linzer Sonntagsblatt.",
+      "format": "full_html",
+      "processed": "Am 5. Juli 1883 schreibt der Redakteur des \"Linzer Sonntagsblatts\", dass Bahrs Wunsch, die Zeitung nunmehr nach Ebensee geschickt zu bekommen, selbstverständlich entsprochen werde. Weiters lädt er ihn ein, am 8. nach Vöcklabruck zu einer \"Vereins-Versammlung\" zu kommen, wohin sie von Attnang weg gemeinsam reisen könnten. Ob Bahr fuhr, ist ungewiss, aber in Folge schreibt er (wieder) für's Linzer Sonntagsblatt.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1883-07-05",
+      "end_value": "1883-07-05"
+    },
+    "field_sources": [
+      "Brief Hans Kirchmairs im Nachlass Bahrs, A 19620 BaM"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9eae58a7-7225-4649-b29e-9e44332f6493/node_type?resourceVersion=id%3A3770"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9eae58a7-7225-4649-b29e-9e44332f6493/relationships/node_type?resourceVersion=id%3A3770"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9eae58a7-7225-4649-b29e-9e44332f6493/revision_uid?resourceVersion=id%3A3770"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9eae58a7-7225-4649-b29e-9e44332f6493/relationships/revision_uid?resourceVersion=id%3A3770"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9eae58a7-7225-4649-b29e-9e44332f6493/uid?resourceVersion=id%3A3770"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9eae58a7-7225-4649-b29e-9e44332f6493/relationships/uid?resourceVersion=id%3A3770"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9eae58a7-7225-4649-b29e-9e44332f6493/field_event_type?resourceVersion=id%3A3770"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9eae58a7-7225-4649-b29e-9e44332f6493/relationships/field_event_type?resourceVersion=id%3A3770"
+        }
+      }
+    }
+  }
+}

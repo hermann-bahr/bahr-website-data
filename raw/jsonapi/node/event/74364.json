@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "3a8ca418-5a21-4aa7-a050-beedb508a01f",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/3a8ca418-5a21-4aa7-a050-beedb508a01f?resourceVersion=id%3A3692"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/3a8ca418-5a21-4aa7-a050-beedb508a01f?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74364,
+    "drupal_internal__vid": 3692,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "AS",
+    "created": "2012-10-15T12:16:37+00:00",
+    "changed": "2012-10-15T12:16:37+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/74364",
+      "pid": 1738,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 28. November 1891 treffen sich Bahr und Schnitzler im Kaffeehaus.",
+      "format": "full_html",
+      "processed": "Am 28. November 1891 treffen sich Bahr und Schnitzler im Kaffeehaus.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1891-11-28",
+      "end_value": "1891-11-28"
+    },
+    "field_sources": [
+      "Schnitzler: Tagebücher, I, 356"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3a8ca418-5a21-4aa7-a050-beedb508a01f/node_type?resourceVersion=id%3A3692"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3a8ca418-5a21-4aa7-a050-beedb508a01f/relationships/node_type?resourceVersion=id%3A3692"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3a8ca418-5a21-4aa7-a050-beedb508a01f/revision_uid?resourceVersion=id%3A3692"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3a8ca418-5a21-4aa7-a050-beedb508a01f/relationships/revision_uid?resourceVersion=id%3A3692"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3a8ca418-5a21-4aa7-a050-beedb508a01f/uid?resourceVersion=id%3A3692"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3a8ca418-5a21-4aa7-a050-beedb508a01f/relationships/uid?resourceVersion=id%3A3692"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3a8ca418-5a21-4aa7-a050-beedb508a01f/field_event_type?resourceVersion=id%3A3692"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3a8ca418-5a21-4aa7-a050-beedb508a01f/relationships/field_event_type?resourceVersion=id%3A3692"
+        }
+      }
+    }
+  }
+}

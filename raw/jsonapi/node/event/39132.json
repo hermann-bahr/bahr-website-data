@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "e6544986-4ddd-4f8a-87c8-12a428bf11c5",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/e6544986-4ddd-4f8a-87c8-12a428bf11c5?resourceVersion=id%3A2895"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/e6544986-4ddd-4f8a-87c8-12a428bf11c5?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39132,
+    "drupal_internal__vid": 2895,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Ungezogen",
+    "created": "2011-06-20T12:10:34+00:00",
+    "changed": "2011-12-20T10:05:40+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39132",
+      "pid": 860,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "1901 schreibt Bahr: <blockquote>Als ich ein Bub von dreizehn Jahren war, wurde ich nach Salzburg ins Gymnasium geschickt, gewissermaßen in die Verbannung, weil ich so schlimm war, daß es zu Hause Niemand mehr mit mir aushielt. Ich wurde dort einer alten Dame zur Erziehung übergeben, die den Ruf hatte, durch ihre Strenge jedes noch so wilde und trotzige Gemüth bändigen zu können.</blockquote>In einem Text von 1903 erzählt er eine ähnliche Variante, nur dass er hier bereits vierzehn ist, was zutrifft. Für die restliche Geschichte gibt es eine Variation: Zwanzig Jahre später, im \"Selbstbildnis\", ist es die Schwangerschaft, die die Eltern Bahrs veranlasst, diesen nach Salzburg zu schicken.",
+      "format": "full_html",
+      "processed": "1901 schreibt Bahr: <blockquote>Als ich ein Bub von dreizehn Jahren war, wurde ich nach Salzburg ins Gymnasium geschickt, gewissermaßen in die Verbannung, weil ich so schlimm war, daß es zu Hause Niemand mehr mit mir aushielt. Ich wurde dort einer alten Dame zur Erziehung übergeben, die den Ruf hatte, durch ihre Strenge jedes noch so wilde und trotzige Gemüth bändigen zu können.</blockquote>In einem Text von 1903 erzählt er eine ähnliche Variante, nur dass er hier bereits vierzehn ist, was zutrifft. Für die restliche Geschichte gibt es eine Variation: Zwanzig Jahre später, im \"Selbstbildnis\", ist es die Schwangerschaft, die die Eltern Bahrs veranlasst, diesen nach Salzburg zu schicken.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1878-08-01",
+      "end_value": "1878-08-01"
+    },
+    "field_sources": [
+      "Hermann Bahr: Durch Kunst zum Leben. Neues Wiener Tagblatt, 35 (1901) #90, 1-3, hier: 1. (2.4.1901)",
+      "Hermann Bahr: Aus Salzburg. Neues Wiener Tagblatt, 37 (1903) #4, 2-3. (4.1.1903)",
+      "Selbstbildnis, 72."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e6544986-4ddd-4f8a-87c8-12a428bf11c5/node_type?resourceVersion=id%3A2895"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e6544986-4ddd-4f8a-87c8-12a428bf11c5/relationships/node_type?resourceVersion=id%3A2895"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e6544986-4ddd-4f8a-87c8-12a428bf11c5/revision_uid?resourceVersion=id%3A2895"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e6544986-4ddd-4f8a-87c8-12a428bf11c5/relationships/revision_uid?resourceVersion=id%3A2895"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e6544986-4ddd-4f8a-87c8-12a428bf11c5/uid?resourceVersion=id%3A2895"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e6544986-4ddd-4f8a-87c8-12a428bf11c5/relationships/uid?resourceVersion=id%3A2895"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e6544986-4ddd-4f8a-87c8-12a428bf11c5/field_event_type?resourceVersion=id%3A2895"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e6544986-4ddd-4f8a-87c8-12a428bf11c5/relationships/field_event_type?resourceVersion=id%3A2895"
+        }
+      }
+    }
+  }
+}

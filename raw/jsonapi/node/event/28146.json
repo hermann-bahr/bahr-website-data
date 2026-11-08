@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "e5ff335e-9608-460f-9b68-b9d4c495de89",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/e5ff335e-9608-460f-9b68-b9d4c495de89?resourceVersion=id%3A2462"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/e5ff335e-9608-460f-9b68-b9d4c495de89?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28146,
+    "drupal_internal__vid": 2462,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Das Reich Gottes",
+    "created": "2010-08-24T12:05:33+00:00",
+    "changed": "2011-10-03T10:36:55+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28146",
+      "pid": 298,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 2. März 1923 spricht Bahr im Verein akademisch gebildeter Katholiken Münchens über \"Das Reich Gottes\"",
+      "format": "full_html",
+      "processed": "Am 2. März 1923 spricht Bahr im Verein akademisch gebildeter Katholiken Münchens über \"Das Reich Gottes\"",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1923-03-02",
+      "end_value": "1923-03-02"
+    },
+    "field_sources": [
+      "Hermann Bahr über katholisches Wesen. In: Salzburger Chronik, 59 (1923) #53, 2. (7.3.1923)",
+      "Einladung im Nachlass, ZMBa29, Vorträge I."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e5ff335e-9608-460f-9b68-b9d4c495de89/node_type?resourceVersion=id%3A2462"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e5ff335e-9608-460f-9b68-b9d4c495de89/relationships/node_type?resourceVersion=id%3A2462"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e5ff335e-9608-460f-9b68-b9d4c495de89/revision_uid?resourceVersion=id%3A2462"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e5ff335e-9608-460f-9b68-b9d4c495de89/relationships/revision_uid?resourceVersion=id%3A2462"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e5ff335e-9608-460f-9b68-b9d4c495de89/uid?resourceVersion=id%3A2462"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e5ff335e-9608-460f-9b68-b9d4c495de89/relationships/uid?resourceVersion=id%3A2462"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e5ff335e-9608-460f-9b68-b9d4c495de89/field_event_type?resourceVersion=id%3A2462"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e5ff335e-9608-460f-9b68-b9d4c495de89/relationships/field_event_type?resourceVersion=id%3A2462"
+        }
+      }
+    }
+  }
+}

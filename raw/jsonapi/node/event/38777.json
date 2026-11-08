@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "20768086-175a-4f31-ab02-222d5630e3c5",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/20768086-175a-4f31-ab02-222d5630e3c5?resourceVersion=id%3A2598"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/20768086-175a-4f31-ab02-222d5630e3c5?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38777,
+    "drupal_internal__vid": 2598,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Purkersdorf",
+    "created": "2011-01-31T17:22:53+00:00",
+    "changed": "2011-07-13T13:10:53+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38777",
+      "pid": 525,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 3. April 1892 teilt Bahr seinem Vater mit, dass er für drei Wochen nach Purkersdorf ziehe: Um in Ruhe seinen Roman \"Neben der Liebe\" zu beenden und in der Nähe von Kainz zu sein, der sich im Sanatorium Löw erholen will. Er bleibt aber bis zum 1. \r\n",
+      "format": "full_html",
+      "processed": "Am 3. April 1892 teilt Bahr seinem Vater mit, dass er für drei Wochen nach Purkersdorf ziehe: Um in Ruhe seinen Roman \"Neben der Liebe\" zu beenden und in der Nähe von Kainz zu sein, der sich im Sanatorium Löw erholen will. Er bleibt aber bis zum 1. \n",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1892-04-03",
+      "end_value": "1892-05-01"
+    },
+    "field_sources": [
+      "Brief an den Vater, 3.4.1892 und 1.5.1892"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/20768086-175a-4f31-ab02-222d5630e3c5/node_type?resourceVersion=id%3A2598"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/20768086-175a-4f31-ab02-222d5630e3c5/relationships/node_type?resourceVersion=id%3A2598"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/20768086-175a-4f31-ab02-222d5630e3c5/revision_uid?resourceVersion=id%3A2598"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/20768086-175a-4f31-ab02-222d5630e3c5/relationships/revision_uid?resourceVersion=id%3A2598"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/20768086-175a-4f31-ab02-222d5630e3c5/uid?resourceVersion=id%3A2598"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/20768086-175a-4f31-ab02-222d5630e3c5/relationships/uid?resourceVersion=id%3A2598"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/20768086-175a-4f31-ab02-222d5630e3c5/field_event_type?resourceVersion=id%3A2598"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/20768086-175a-4f31-ab02-222d5630e3c5/relationships/field_event_type?resourceVersion=id%3A2598"
+        }
+      }
+    }
+  }
+}

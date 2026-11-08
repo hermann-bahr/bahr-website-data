@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "01a6a49c-845d-4953-ab70-0774ae722d55",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/01a6a49c-845d-4953-ab70-0774ae722d55?resourceVersion=id%3A2263"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/01a6a49c-845d-4953-ab70-0774ae722d55?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27920,
+    "drupal_internal__vid": 2263,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Steiermark",
+    "created": "2010-07-16T10:55:56+00:00",
+    "changed": "2011-10-13T12:18:08+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/27920",
+      "pid": 97,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Eine Reise in die Steiermark beginnt Bahr am 3. Dezember 1916 mit einem eineinhalbtägigen Aufenthalt in Seckau. Am 5. geht's nach Graz, wo er einen Vortrag hält und am 9. Dezember heimreist. Es ist das erste, was das fortan veröffentlichte \"Tagebuch\" dokumentiert.",
+      "format": "full_html",
+      "processed": "Eine Reise in die Steiermark beginnt Bahr am 3. Dezember 1916 mit einem eineinhalbtägigen Aufenthalt in Seckau. Am 5. geht's nach Graz, wo er einen Vortrag hält und am 9. Dezember heimreist. Es ist das erste, was das fortan veröffentlichte \"Tagebuch\" dokumentiert.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1916-12-03",
+      "end_value": "1916-12-09"
+    },
+    "field_sources": [
+      "Hermann Bahr: Tagebuch. 5. Dezember. Neues Wiener Journal, 24 (1916) #8318, 7. (24.12.1916)",
+      "Bahr/Redlich, 199."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/01a6a49c-845d-4953-ab70-0774ae722d55/node_type?resourceVersion=id%3A2263"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/01a6a49c-845d-4953-ab70-0774ae722d55/relationships/node_type?resourceVersion=id%3A2263"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/01a6a49c-845d-4953-ab70-0774ae722d55/revision_uid?resourceVersion=id%3A2263"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/01a6a49c-845d-4953-ab70-0774ae722d55/relationships/revision_uid?resourceVersion=id%3A2263"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/01a6a49c-845d-4953-ab70-0774ae722d55/uid?resourceVersion=id%3A2263"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/01a6a49c-845d-4953-ab70-0774ae722d55/relationships/uid?resourceVersion=id%3A2263"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/01a6a49c-845d-4953-ab70-0774ae722d55/field_event_type?resourceVersion=id%3A2263"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/01a6a49c-845d-4953-ab70-0774ae722d55/relationships/field_event_type?resourceVersion=id%3A2263"
+        }
+      }
+    }
+  }
+}

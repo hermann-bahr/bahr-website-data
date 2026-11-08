@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "ed123c55-47bc-425d-8ce9-19c2d4ca2147",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/ed123c55-47bc-425d-8ce9-19c2d4ca2147?resourceVersion=id%3A3719"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/ed123c55-47bc-425d-8ce9-19c2d4ca2147?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74391,
+    "drupal_internal__vid": 3719,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Mürzzuschlag",
+    "created": "2012-10-22T18:28:08+00:00",
+    "changed": "2013-09-14T11:54:40+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/74391",
+      "pid": 1765,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 26. Dezember 1898 schickt er aus Mürzzuschlag einen Gruß an Gerty Schlesinger. Mit ihm sind seine Frau, Max Burckhard, Carl Karlweis und Siegfried Loewy.",
+      "format": "full_html",
+      "processed": "Am 26. Dezember 1898 schickt er aus Mürzzuschlag einen Gruß an Gerty Schlesinger. Mit ihm sind seine Frau, Max Burckhard, Carl Karlweis und Siegfried Loewy.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1898-12-26",
+      "end_value": "1898-12-26"
+    },
+    "field_sources": [
+      "Briefwechsel Bahr/Hofmannsthal. Hg. Elsbeth Dangel-Pelloquin. Göttingen: Wallstein. (In Vorbereitung)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ed123c55-47bc-425d-8ce9-19c2d4ca2147/node_type?resourceVersion=id%3A3719"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ed123c55-47bc-425d-8ce9-19c2d4ca2147/relationships/node_type?resourceVersion=id%3A3719"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ed123c55-47bc-425d-8ce9-19c2d4ca2147/revision_uid?resourceVersion=id%3A3719"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ed123c55-47bc-425d-8ce9-19c2d4ca2147/relationships/revision_uid?resourceVersion=id%3A3719"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ed123c55-47bc-425d-8ce9-19c2d4ca2147/uid?resourceVersion=id%3A3719"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ed123c55-47bc-425d-8ce9-19c2d4ca2147/relationships/uid?resourceVersion=id%3A3719"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ed123c55-47bc-425d-8ce9-19c2d4ca2147/field_event_type?resourceVersion=id%3A3719"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ed123c55-47bc-425d-8ce9-19c2d4ca2147/relationships/field_event_type?resourceVersion=id%3A3719"
+        }
+      }
+    }
+  }
+}

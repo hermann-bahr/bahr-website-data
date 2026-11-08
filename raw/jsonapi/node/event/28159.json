@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "32e9097a-15f3-4938-997e-ad44fa359af6",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/32e9097a-15f3-4938-997e-ad44fa359af6?resourceVersion=id%3A2471"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/32e9097a-15f3-4938-997e-ad44fa359af6?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28159,
+    "drupal_internal__vid": 2471,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Pascal",
+    "created": "2010-08-30T11:49:22+00:00",
+    "changed": "2011-10-19T14:27:09+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28159",
+      "pid": 307,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 10. März 1920 ist Thomas Mann auf Bahrs Vortrag \"Blaise Pascal\" im Münchner Hotel \"4 Jahreszeiten\". \r\n",
+      "format": "full_html",
+      "processed": "Am 10. März 1920 ist Thomas Mann auf Bahrs Vortrag \"Blaise Pascal\" im Münchner Hotel \"4 Jahreszeiten\". \n",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1920-03-10",
+      "end_value": "1920-03-10"
+    },
+    "field_sources": [
+      "Thomas Mann, Tagebuch, I, 395.",
+      "Rezension in: Hermann Bahr über Pascal. Salzburger Chronik, 56 (1920) #63, 2-3. (17.3.1920), was ein Nachdruck aus dem Bayrischen Kurier ist."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/32e9097a-15f3-4938-997e-ad44fa359af6/node_type?resourceVersion=id%3A2471"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/32e9097a-15f3-4938-997e-ad44fa359af6/relationships/node_type?resourceVersion=id%3A2471"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/32e9097a-15f3-4938-997e-ad44fa359af6/revision_uid?resourceVersion=id%3A2471"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/32e9097a-15f3-4938-997e-ad44fa359af6/relationships/revision_uid?resourceVersion=id%3A2471"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/32e9097a-15f3-4938-997e-ad44fa359af6/uid?resourceVersion=id%3A2471"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/32e9097a-15f3-4938-997e-ad44fa359af6/relationships/uid?resourceVersion=id%3A2471"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/32e9097a-15f3-4938-997e-ad44fa359af6/field_event_type?resourceVersion=id%3A2471"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/32e9097a-15f3-4938-997e-ad44fa359af6/relationships/field_event_type?resourceVersion=id%3A2471"
+        }
+      }
+    }
+  }
+}

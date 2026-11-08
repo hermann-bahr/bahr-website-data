@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "430eaf11-e804-432d-bceb-b4b382355e4c",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/430eaf11-e804-432d-bceb-b4b382355e4c?resourceVersion=id%3A2276"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/430eaf11-e804-432d-bceb-b4b382355e4c?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27934,
+    "drupal_internal__vid": 2276,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Rede über Klimt",
+    "created": "2010-07-19T11:08:15+00:00",
+    "changed": "2011-06-27T11:26:37+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/27934",
+      "pid": 110,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 24. März 1901 um 20 Uhr fand im Wiener Bösendorfersaal ein \"Leseabend der Concordia\" statt, wo Bahr seine Rede über Klimt hielt. Diese erschien in Folge auch als Druck. Weiters sprachen Carl Karlweis und Vinzenz Chiavacci.",
+      "format": "full_html",
+      "processed": "Am 24. März 1901 um 20 Uhr fand im Wiener Bösendorfersaal ein \"Leseabend der Concordia\" statt, wo Bahr seine Rede über Klimt hielt. Diese erschien in Folge auch als Druck. Weiters sprachen Carl Karlweis und Vinzenz Chiavacci.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1901-03-24",
+      "end_value": "1901-03-24"
+    },
+    "field_sources": [
+      "Ankündigung: Österreichische Volkszeitung, 47 (1901) #81, 7. (23.3.1901)\r\n",
+      "Rezension: [O.N.]: Klimt und seine \"Medizin\". Vom Leseabende der \"Concordia\". In: Österreichische Volks-Zeitung, 47 (1901) #83, 2. (26.3.1901)\r\n",
+      "[O.N.] Neues Wiener Tagblatt, 35 (1901) #83, 4. (26.3.1901)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/430eaf11-e804-432d-bceb-b4b382355e4c/node_type?resourceVersion=id%3A2276"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/430eaf11-e804-432d-bceb-b4b382355e4c/relationships/node_type?resourceVersion=id%3A2276"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/430eaf11-e804-432d-bceb-b4b382355e4c/revision_uid?resourceVersion=id%3A2276"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/430eaf11-e804-432d-bceb-b4b382355e4c/relationships/revision_uid?resourceVersion=id%3A2276"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/430eaf11-e804-432d-bceb-b4b382355e4c/uid?resourceVersion=id%3A2276"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/430eaf11-e804-432d-bceb-b4b382355e4c/relationships/uid?resourceVersion=id%3A2276"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/430eaf11-e804-432d-bceb-b4b382355e4c/field_event_type?resourceVersion=id%3A2276"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/430eaf11-e804-432d-bceb-b4b382355e4c/relationships/field_event_type?resourceVersion=id%3A2276"
+        }
+      }
+    }
+  }
+}

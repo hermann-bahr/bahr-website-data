@@ -1,0 +1,90 @@
+{
+  "type": "node--page",
+  "id": "777f5437-971f-4acd-bc42-f98d3867704b",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/page/777f5437-971f-4acd-bc42-f98d3867704b?resourceVersion=id%3A4155"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/page/777f5437-971f-4acd-bc42-f98d3867704b?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28269,
+    "drupal_internal__vid": 4155,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-27T15:19:52+00:00",
+    "status": true,
+    "title": "Bibliografie der Kritischen Schriften",
+    "created": "2010-11-24T13:51:28+00:00",
+    "changed": "2020-02-27T15:19:52+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/bibliografie-der-kritischen-schriften",
+      "pid": 401,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<p>Kurt Thomasberger nennt diese Gruppe »Schriften in Prosa«&nbsp;und meint damit gleichermaßen Satiren, Essays, Biographien und Autobiographisches, Reisebeschreibungen sowie Brief- und Zitatsammlungen aus dem Nachlass. Mit der Umbenennung in »Kritische Schriften«&nbsp;bekommt diese Gruppe einen stärkeren Fokus und enthält nun 43 Einträge. »Fin de Siècle«&nbsp;wird anders als bei Thomasberger zu den »Literarischen Schriften«&nbsp;geordnet, »Bayreuth«&nbsp;und »Parsifalschutz«&nbsp;den »Schriften zum Theater«&nbsp;zugesellt. Zentrale Veröffentlichungen aus dem Nachlass werden als neue Gruppe geführt. Das betrifft auch die von Thomasberger vorbehaltlich datierte Ausgabe von »Adalbert Stifters Witiko«, die sich auf 1940 datieren lässt. Der bei Thomasberger noch angeführte Hinweis auf das Buch »Der neue Stil«&nbsp;wurde weggelassen. Am 12. Dezember [1893] schrieb der Verleger Fischer an Bahr: »Der ›Antisemitismus‹&nbsp;geht sehr schlecht, und ich muß unter diesen Umstanden von den ›Interviews der Schauspieler‹&nbsp;absehen.\" (Fischer: Briefwechsel mit den Autoren, 169). Bei dem häufig abgeschriebenen Hinweis dürfte es sich also um eine nie realisierte Ankündigung handeln, oder, wie Thomasberger vermutet, einen Separatdruck der Seiten 266–325 der »Studien zur Kritik der Moderne«&nbsp;bezeichnen, der für den Autor angefertigt wurde.</p>\r\n",
+      "format": "full_html",
+      "processed": "<p>Kurt Thomasberger nennt diese Gruppe »Schriften in Prosa«&nbsp;und meint damit gleichermaßen Satiren, Essays, Biographien und Autobiographisches, Reisebeschreibungen sowie Brief- und Zitatsammlungen aus dem Nachlass. Mit der Umbenennung in »Kritische Schriften«&nbsp;bekommt diese Gruppe einen stärkeren Fokus und enthält nun 43 Einträge. »Fin de Siècle«&nbsp;wird anders als bei Thomasberger zu den »Literarischen Schriften«&nbsp;geordnet, »Bayreuth«&nbsp;und »Parsifalschutz«&nbsp;den »Schriften zum Theater«&nbsp;zugesellt. Zentrale Veröffentlichungen aus dem Nachlass werden als neue Gruppe geführt. Das betrifft auch die von Thomasberger vorbehaltlich datierte Ausgabe von »Adalbert Stifters Witiko«, die sich auf 1940 datieren lässt. Der bei Thomasberger noch angeführte Hinweis auf das Buch »Der neue Stil«&nbsp;wurde weggelassen. Am 12. Dezember [1893] schrieb der Verleger Fischer an Bahr: »Der ›Antisemitismus‹&nbsp;geht sehr schlecht, und ich muß unter diesen Umstanden von den ›Interviews der Schauspieler‹&nbsp;absehen.\" (Fischer: Briefwechsel mit den Autoren, 169). Bei dem häufig abgeschriebenen Hinweis dürfte es sich also um eine nie realisierte Ankündigung handeln, oder, wie Thomasberger vermutet, einen Separatdruck der Seiten 266–325 der »Studien zur Kritik der Moderne«&nbsp;bezeichnen, der für den Autor angefertigt wurde.</p>\n",
+      "summary": ""
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "016d417b-5c75-4303-8420-18e221e9e269",
+        "meta": {
+          "drupal_internal__target_id": "page"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/777f5437-971f-4acd-bc42-f98d3867704b/node_type?resourceVersion=id%3A4155"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/777f5437-971f-4acd-bc42-f98d3867704b/relationships/node_type?resourceVersion=id%3A4155"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/777f5437-971f-4acd-bc42-f98d3867704b/revision_uid?resourceVersion=id%3A4155"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/777f5437-971f-4acd-bc42-f98d3867704b/relationships/revision_uid?resourceVersion=id%3A4155"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/777f5437-971f-4acd-bc42-f98d3867704b/uid?resourceVersion=id%3A4155"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/777f5437-971f-4acd-bc42-f98d3867704b/relationships/uid?resourceVersion=id%3A4155"
+        }
+      }
+    }
+  }
+}

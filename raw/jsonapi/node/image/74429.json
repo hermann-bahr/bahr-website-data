@@ -1,0 +1,109 @@
+{
+  "type": "node--image",
+  "id": "07e1e12e-12c3-4aff-a2fa-295321084b2b",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/image/07e1e12e-12c3-4aff-a2fa-295321084b2b?resourceVersion=id%3A3986"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/image/07e1e12e-12c3-4aff-a2fa-295321084b2b?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74429,
+    "drupal_internal__vid": 3986,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:44:08+00:00",
+    "status": true,
+    "title": "1926 Als Mönch",
+    "created": "2012-11-06T12:58:38+00:00",
+    "changed": "2012-11-06T12:58:38+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/bild/74429",
+      "pid": 1803,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<i>Benedikt F. Dolbin: Die Gezeichneten des Herrn Dolbin. Karikaturen. [Wien:] Krystall-Verlag [1926]</i>",
+      "format": "full_html",
+      "processed": "<i>Benedikt F. Dolbin: Die Gezeichneten des Herrn Dolbin. Karikaturen. [Wien:] Krystall-Verlag [1926]</i>",
+      "summary": null
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "e2381624-d098-4c5b-bdd7-5dbfd773b84e",
+        "meta": {
+          "drupal_internal__target_id": "image"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/07e1e12e-12c3-4aff-a2fa-295321084b2b/node_type?resourceVersion=id%3A3986"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/07e1e12e-12c3-4aff-a2fa-295321084b2b/relationships/node_type?resourceVersion=id%3A3986"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/07e1e12e-12c3-4aff-a2fa-295321084b2b/revision_uid?resourceVersion=id%3A3986"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/07e1e12e-12c3-4aff-a2fa-295321084b2b/relationships/revision_uid?resourceVersion=id%3A3986"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/07e1e12e-12c3-4aff-a2fa-295321084b2b/uid?resourceVersion=id%3A3986"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/07e1e12e-12c3-4aff-a2fa-295321084b2b/relationships/uid?resourceVersion=id%3A3986"
+        }
+      }
+    },
+    "field_images": {
+      "data": [
+        {
+          "type": "media--image",
+          "id": "ad5885c7-58ea-439d-a76a-72bd8bb59eef",
+          "meta": {
+            "drupal_internal__target_id": 166
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/07e1e12e-12c3-4aff-a2fa-295321084b2b/field_images?resourceVersion=id%3A3986"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/07e1e12e-12c3-4aff-a2fa-295321084b2b/relationships/field_images?resourceVersion=id%3A3986"
+        }
+      }
+    }
+  }
+}

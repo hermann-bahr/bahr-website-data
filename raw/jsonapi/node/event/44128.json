@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "b8dfd750-f484-4077-99ce-2a5a97c48536",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b8dfd750-f484-4077-99ce-2a5a97c48536?resourceVersion=id%3A3044"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b8dfd750-f484-4077-99ce-2a5a97c48536?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44128,
+    "drupal_internal__vid": 3044,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Sandrock, AS, Salten, B.-H.",
+    "created": "2011-09-14T12:54:20+00:00",
+    "changed": "2012-11-13T15:13:23+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44128",
+      "pid": 1023,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 2. Dezember schauen Bahr, Salten und Beer-Hofmann bei Adele Sandrock vorbei, wo auch gerade Schnitzler ist. Vom gleichen Tag datiert ein Foto Schnitzlers im Nachlass Bahrs mit der rückseitigen Beschriftung:<blockquote>Meinem lieben Freund Hermann Bahr in herzlicher Verehrung Arthur\r\nWien, 2.12.93</blockquote>",
+      "format": "full_html",
+      "processed": "Am 2. Dezember schauen Bahr, Salten und Beer-Hofmann bei Adele Sandrock vorbei, wo auch gerade Schnitzler ist. Vom gleichen Tag datiert ein Foto Schnitzlers im Nachlass Bahrs mit der rückseitigen Beschriftung:<blockquote>Meinem lieben Freund Hermann Bahr in herzlicher Verehrung Arthur\nWien, 2.12.93</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1893-12-02",
+      "end_value": "1893-12-02"
+    },
+    "field_sources": [
+      "Schnitzler: Tagebuch, II, 60.",
+      "Nachlass, Kiste mit Fotografien"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b8dfd750-f484-4077-99ce-2a5a97c48536/node_type?resourceVersion=id%3A3044"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b8dfd750-f484-4077-99ce-2a5a97c48536/relationships/node_type?resourceVersion=id%3A3044"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b8dfd750-f484-4077-99ce-2a5a97c48536/revision_uid?resourceVersion=id%3A3044"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b8dfd750-f484-4077-99ce-2a5a97c48536/relationships/revision_uid?resourceVersion=id%3A3044"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b8dfd750-f484-4077-99ce-2a5a97c48536/uid?resourceVersion=id%3A3044"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b8dfd750-f484-4077-99ce-2a5a97c48536/relationships/uid?resourceVersion=id%3A3044"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b8dfd750-f484-4077-99ce-2a5a97c48536/field_event_type?resourceVersion=id%3A3044"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b8dfd750-f484-4077-99ce-2a5a97c48536/relationships/field_event_type?resourceVersion=id%3A3044"
+        }
+      }
+    }
+  }
+}

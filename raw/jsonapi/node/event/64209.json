@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "7b411bd0-b8e4-421e-8f38-e6f90f82e954",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/7b411bd0-b8e4-421e-8f38-e6f90f82e954?resourceVersion=id%3A3599"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/7b411bd0-b8e4-421e-8f38-e6f90f82e954?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 64209,
+    "drupal_internal__vid": 3599,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Aussprache mit AS",
+    "created": "2012-05-22T19:57:42+00:00",
+    "changed": "2012-05-22T19:57:42+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/64209",
+      "pid": 1642,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 21. Jänner 1896 kommt Bahr bei Schnitzler vorbei, wo er als Unterhändler für das Raimundtheater das nächste Stück Schnitzlers sichern will. Schnitzler wiederum nimmt die Gelegenheit war für eine Aussprache, denn er fühlt sich von Bahr in dessen Feuilletons nicht richtig behandelt. Bahr behauptet, in seiner Beurteilung zu schwanken.",
+      "format": "full_html",
+      "processed": "Am 21. Jänner 1896 kommt Bahr bei Schnitzler vorbei, wo er als Unterhändler für das Raimundtheater das nächste Stück Schnitzlers sichern will. Schnitzler wiederum nimmt die Gelegenheit war für eine Aussprache, denn er fühlt sich von Bahr in dessen Feuilletons nicht richtig behandelt. Bahr behauptet, in seiner Beurteilung zu schwanken.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1896-01-21",
+      "end_value": "1896-01-21"
+    },
+    "field_sources": [
+      "Schnitzler: Tagebuch, II, 170-171."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7b411bd0-b8e4-421e-8f38-e6f90f82e954/node_type?resourceVersion=id%3A3599"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7b411bd0-b8e4-421e-8f38-e6f90f82e954/relationships/node_type?resourceVersion=id%3A3599"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7b411bd0-b8e4-421e-8f38-e6f90f82e954/revision_uid?resourceVersion=id%3A3599"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7b411bd0-b8e4-421e-8f38-e6f90f82e954/relationships/revision_uid?resourceVersion=id%3A3599"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7b411bd0-b8e4-421e-8f38-e6f90f82e954/uid?resourceVersion=id%3A3599"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7b411bd0-b8e4-421e-8f38-e6f90f82e954/relationships/uid?resourceVersion=id%3A3599"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7b411bd0-b8e4-421e-8f38-e6f90f82e954/field_event_type?resourceVersion=id%3A3599"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7b411bd0-b8e4-421e-8f38-e6f90f82e954/relationships/field_event_type?resourceVersion=id%3A3599"
+        }
+      }
+    }
+  }
+}

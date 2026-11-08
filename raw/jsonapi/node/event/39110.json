@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "005d6e1e-4a31-4cc2-8313-2309a664813d",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/005d6e1e-4a31-4cc2-8313-2309a664813d?resourceVersion=id%3A2875"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/005d6e1e-4a31-4cc2-8313-2309a664813d?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39110,
+    "drupal_internal__vid": 2875,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Bildung",
+    "created": "2011-05-20T12:44:10+00:00",
+    "changed": "2011-06-27T11:42:33+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39110",
+      "pid": 840,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Kraus spricht von einem zweiten Vortrag Bahrs in der Loge \"Heimath\", diesmal über \"Bildung\".",
+      "format": "full_html",
+      "processed": "Kraus spricht von einem zweiten Vortrag Bahrs in der Loge \"Heimath\", diesmal über \"Bildung\".",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1900-03-01",
+      "end_value": "1900-03-01"
+    },
+    "field_sources": [
+      "Fackel, 1 (1900) #34, 28. (Anfang März 1900)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/005d6e1e-4a31-4cc2-8313-2309a664813d/node_type?resourceVersion=id%3A2875"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/005d6e1e-4a31-4cc2-8313-2309a664813d/relationships/node_type?resourceVersion=id%3A2875"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/005d6e1e-4a31-4cc2-8313-2309a664813d/revision_uid?resourceVersion=id%3A2875"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/005d6e1e-4a31-4cc2-8313-2309a664813d/relationships/revision_uid?resourceVersion=id%3A2875"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/005d6e1e-4a31-4cc2-8313-2309a664813d/uid?resourceVersion=id%3A2875"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/005d6e1e-4a31-4cc2-8313-2309a664813d/relationships/uid?resourceVersion=id%3A2875"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/005d6e1e-4a31-4cc2-8313-2309a664813d/field_event_type?resourceVersion=id%3A2875"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/005d6e1e-4a31-4cc2-8313-2309a664813d/relationships/field_event_type?resourceVersion=id%3A2875"
+        }
+      }
+    }
+  }
+}

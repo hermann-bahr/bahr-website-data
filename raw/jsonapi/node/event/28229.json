@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "771f4ade-e0f7-47d9-817f-59b326b87dec",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/771f4ade-e0f7-47d9-817f-59b326b87dec?resourceVersion=id%3A2528"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/771f4ade-e0f7-47d9-817f-59b326b87dec?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28229,
+    "drupal_internal__vid": 2528,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Levico",
+    "created": "2010-10-28T11:55:31+00:00",
+    "changed": "2011-09-07T11:06:48+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28229",
+      "pid": 366,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Nach dem Aufenthalt am Lido ist er in der spätestens ab 2. August 1908 in Levico im Trentino. Die Heimreise dürfte um den 19. geschehen, da ist er in Villach.",
+      "format": "full_html",
+      "processed": "Nach dem Aufenthalt am Lido ist er in der spätestens ab 2. August 1908 in Levico im Trentino. Die Heimreise dürfte um den 19. geschehen, da ist er in Villach.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1908-08-01",
+      "end_value": "1908-08-19"
+    },
+    "field_sources": [
+      "Tagebücher (Csàky), V, 384-385, 498 und 503.",
+      "Hermann Bahr: Levico. Neue Freie Presse, (1908) #15804, Morgenblatt, 1-3. (21.8.1908) Buchausgabe: Tagebuch (1909), 220-229\r\n"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/771f4ade-e0f7-47d9-817f-59b326b87dec/node_type?resourceVersion=id%3A2528"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/771f4ade-e0f7-47d9-817f-59b326b87dec/relationships/node_type?resourceVersion=id%3A2528"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/771f4ade-e0f7-47d9-817f-59b326b87dec/revision_uid?resourceVersion=id%3A2528"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/771f4ade-e0f7-47d9-817f-59b326b87dec/relationships/revision_uid?resourceVersion=id%3A2528"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/771f4ade-e0f7-47d9-817f-59b326b87dec/uid?resourceVersion=id%3A2528"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/771f4ade-e0f7-47d9-817f-59b326b87dec/relationships/uid?resourceVersion=id%3A2528"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/771f4ade-e0f7-47d9-817f-59b326b87dec/field_event_type?resourceVersion=id%3A2528"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/771f4ade-e0f7-47d9-817f-59b326b87dec/relationships/field_event_type?resourceVersion=id%3A2528"
+        }
+      }
+    }
+  }
+}

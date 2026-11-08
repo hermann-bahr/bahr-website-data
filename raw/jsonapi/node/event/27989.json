@@ -1,0 +1,114 @@
+{
+  "type": "node--event",
+  "id": "c8caa048-d5cd-417e-85f6-6f6774f4d2b8",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/c8caa048-d5cd-417e-85f6-6f6774f4d2b8?resourceVersion=id%3A2322"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/c8caa048-d5cd-417e-85f6-6f6774f4d2b8?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27989,
+    "drupal_internal__vid": 2322,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Wien",
+    "created": "2010-07-27T14:07:24+00:00",
+    "changed": "2011-02-23T17:49:11+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/27989",
+      "pid": 156,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Nach seiner Rückkehr aus Petersburg am 27. April 1891 hält sich Bahr bis zum Mai in Wien auf.",
+      "format": "full_html",
+      "processed": "Nach seiner Rückkehr aus Petersburg am 27. April 1891 hält sich Bahr bis zum Mai in Wien auf.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1891-04-27",
+      "end_value": "1891-05-31"
+    },
+    "field_sources": []
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c8caa048-d5cd-417e-85f6-6f6774f4d2b8/node_type?resourceVersion=id%3A2322"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c8caa048-d5cd-417e-85f6-6f6774f4d2b8/relationships/node_type?resourceVersion=id%3A2322"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c8caa048-d5cd-417e-85f6-6f6774f4d2b8/revision_uid?resourceVersion=id%3A2322"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c8caa048-d5cd-417e-85f6-6f6774f4d2b8/relationships/revision_uid?resourceVersion=id%3A2322"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c8caa048-d5cd-417e-85f6-6f6774f4d2b8/uid?resourceVersion=id%3A2322"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c8caa048-d5cd-417e-85f6-6f6774f4d2b8/relationships/uid?resourceVersion=id%3A2322"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c8caa048-d5cd-417e-85f6-6f6774f4d2b8/field_event_type?resourceVersion=id%3A2322"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c8caa048-d5cd-417e-85f6-6f6774f4d2b8/relationships/field_event_type?resourceVersion=id%3A2322"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "0f890b3a-c4cd-400f-97a1-fa3937ccba93",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/0f890b3a-c4cd-400f-97a1-fa3937ccba93?resourceVersion=id%3A3113"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/0f890b3a-c4cd-400f-97a1-fa3937ccba93?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44199,
+    "drupal_internal__vid": 3113,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Salzburg",
+    "created": "2011-09-20T11:01:33+00:00",
+    "changed": "2011-09-20T11:01:33+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44199",
+      "pid": 1092,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 1. August 1915 schreibt Bahr aus Salzburg an Kvapil.",
+      "format": "full_html",
+      "processed": "Am 1. August 1915 schreibt Bahr aus Salzburg an Kvapil.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1915-08-01",
+      "end_value": "1915-08-01"
+    },
+    "field_sources": [
+      "Bahr/Kvapil, 174."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0f890b3a-c4cd-400f-97a1-fa3937ccba93/node_type?resourceVersion=id%3A3113"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0f890b3a-c4cd-400f-97a1-fa3937ccba93/relationships/node_type?resourceVersion=id%3A3113"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0f890b3a-c4cd-400f-97a1-fa3937ccba93/revision_uid?resourceVersion=id%3A3113"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0f890b3a-c4cd-400f-97a1-fa3937ccba93/relationships/revision_uid?resourceVersion=id%3A3113"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0f890b3a-c4cd-400f-97a1-fa3937ccba93/uid?resourceVersion=id%3A3113"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0f890b3a-c4cd-400f-97a1-fa3937ccba93/relationships/uid?resourceVersion=id%3A3113"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0f890b3a-c4cd-400f-97a1-fa3937ccba93/field_event_type?resourceVersion=id%3A3113"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0f890b3a-c4cd-400f-97a1-fa3937ccba93/relationships/field_event_type?resourceVersion=id%3A3113"
+        }
+      }
+    }
+  }
+}

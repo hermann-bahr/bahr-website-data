@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "e3258283-9d45-479e-becd-dc5e61d506ae",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/e3258283-9d45-479e-becd-dc5e61d506ae?resourceVersion=id%3A2354"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/e3258283-9d45-479e-becd-dc5e61d506ae?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28022,
+    "drupal_internal__vid": 2354,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Stimmen des Bluts",
+    "created": "2010-07-28T10:38:21+00:00",
+    "changed": "2012-10-16T11:46:46+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28022",
+      "pid": 188,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Zeitgleich mit dem Roman \"Die Rahl\" brachte S. Fischer im Winter 1908, auf 1909 vordatiert, auch eine neue Sammlung von Erzählungen Bahrs auf den Markt. Josef Redlich hat es schon am 10. Oktober 1908 zur Lektüre. (Bahr/Redlich, 57).\r\n",
+      "format": "full_html",
+      "processed": "Zeitgleich mit dem Roman \"Die Rahl\" brachte S. Fischer im Winter 1908, auf 1909 vordatiert, auch eine neue Sammlung von Erzählungen Bahrs auf den Markt. Josef Redlich hat es schon am 10. Oktober 1908 zur Lektüre. (Bahr/Redlich, 57).\n",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1908-10-10",
+      "end_value": "1908-10-10"
+    },
+    "field_sources": [
+      "Hermann Bahr: Stimmen des Bluts. Novellen. Berlin S. Fischer, 1909.\r\n",
+      "Bahr/Redlich, 57."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e3258283-9d45-479e-becd-dc5e61d506ae/node_type?resourceVersion=id%3A2354"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e3258283-9d45-479e-becd-dc5e61d506ae/relationships/node_type?resourceVersion=id%3A2354"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e3258283-9d45-479e-becd-dc5e61d506ae/revision_uid?resourceVersion=id%3A2354"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e3258283-9d45-479e-becd-dc5e61d506ae/relationships/revision_uid?resourceVersion=id%3A2354"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e3258283-9d45-479e-becd-dc5e61d506ae/uid?resourceVersion=id%3A2354"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e3258283-9d45-479e-becd-dc5e61d506ae/relationships/uid?resourceVersion=id%3A2354"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "2f55ff54-49af-41ba-a2d1-45a7ac71add2",
+          "meta": {
+            "drupal_internal__target_id": 2
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e3258283-9d45-479e-becd-dc5e61d506ae/field_event_type?resourceVersion=id%3A2354"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e3258283-9d45-479e-becd-dc5e61d506ae/relationships/field_event_type?resourceVersion=id%3A2354"
+        }
+      }
+    }
+  }
+}

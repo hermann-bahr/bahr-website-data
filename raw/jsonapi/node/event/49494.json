@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "05052ccc-1eae-4593-816d-499ed095e3f7",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/05052ccc-1eae-4593-816d-499ed095e3f7?resourceVersion=id%3A3330"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/05052ccc-1eae-4593-816d-499ed095e3f7?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49494,
+    "drupal_internal__vid": 3330,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Galen",
+    "created": "2011-10-24T14:30:33+00:00",
+    "changed": "2011-11-28T11:02:54+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49494",
+      "pid": 1314,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 22. September 1918 treffen bei Redlich Bahr und Pater Augustin Galen aufeinander. Bahr hatte bereits zuvor Redlich des öfteren Galen als Kontaktperson empfohlen.",
+      "format": "full_html",
+      "processed": "Am 22. September 1918 treffen bei Redlich Bahr und Pater Augustin Galen aufeinander. Bahr hatte bereits zuvor Redlich des öfteren Galen als Kontaktperson empfohlen.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1918-09-22",
+      "end_value": "1918-09-22"
+    },
+    "field_sources": [
+      "Fritz Fellner und Doris A. Corradini (Hgg.): Schicksalsjahre Österreichs. Die Erinnerungen und Tagebücher Josef Redlichs 1869–1936. Wien: Böhlau 2011, II, 434."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/05052ccc-1eae-4593-816d-499ed095e3f7/node_type?resourceVersion=id%3A3330"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/05052ccc-1eae-4593-816d-499ed095e3f7/relationships/node_type?resourceVersion=id%3A3330"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/05052ccc-1eae-4593-816d-499ed095e3f7/revision_uid?resourceVersion=id%3A3330"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/05052ccc-1eae-4593-816d-499ed095e3f7/relationships/revision_uid?resourceVersion=id%3A3330"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/05052ccc-1eae-4593-816d-499ed095e3f7/uid?resourceVersion=id%3A3330"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/05052ccc-1eae-4593-816d-499ed095e3f7/relationships/uid?resourceVersion=id%3A3330"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/05052ccc-1eae-4593-816d-499ed095e3f7/field_event_type?resourceVersion=id%3A3330"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/05052ccc-1eae-4593-816d-499ed095e3f7/relationships/field_event_type?resourceVersion=id%3A3330"
+        }
+      }
+    }
+  }
+}

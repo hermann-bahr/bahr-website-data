@@ -1,0 +1,36 @@
+{
+  "type": "file--file",
+  "id": "54a8f6d5-70ed-406b-9e92-7a143963c68d",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/file/file/54a8f6d5-70ed-406b-9e92-7a143963c68d"
+    }
+  },
+  "attributes": {
+    "drupal_internal__fid": 230,
+    "langcode": "de",
+    "filename": "1894_studien.jpg",
+    "uri": {
+      "value": "public://bahr_bilder/1894_studien.jpg",
+      "url": "/sites/default/files/bahr_bilder/1894_studien.jpg"
+    },
+    "filemime": "image/jpeg",
+    "filesize": 2616643,
+    "status": true,
+    "created": "2020-02-18T15:00:35+00:00",
+    "changed": "2020-02-18T15:11:43+00:00"
+  },
+  "relationships": {
+    "uid": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/file/file/54a8f6d5-70ed-406b-9e92-7a143963c68d/uid"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/file/file/54a8f6d5-70ed-406b-9e92-7a143963c68d/relationships/uid"
+        }
+      }
+    }
+  }
+}

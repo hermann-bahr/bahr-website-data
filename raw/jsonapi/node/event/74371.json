@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "f001bdd8-20d6-4396-9246-81648500a9cb",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f001bdd8-20d6-4396-9246-81648500a9cb?resourceVersion=id%3A3699"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f001bdd8-20d6-4396-9246-81648500a9cb?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74371,
+    "drupal_internal__vid": 3699,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "AS, Handl",
+    "created": "2012-10-16T10:55:45+00:00",
+    "changed": "2012-10-16T10:55:45+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/74371",
+      "pid": 1745,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 13. Jänner 1907 sind Arthur Schnitzler und später Willi Handl vormittags bei Bahr.",
+      "format": "full_html",
+      "processed": "Am 13. Jänner 1907 sind Arthur Schnitzler und später Willi Handl vormittags bei Bahr.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1907-01-13",
+      "end_value": "1907-01-13"
+    },
+    "field_sources": [
+      "Schnitzler: Tagebücher, III, 248."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f001bdd8-20d6-4396-9246-81648500a9cb/node_type?resourceVersion=id%3A3699"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f001bdd8-20d6-4396-9246-81648500a9cb/relationships/node_type?resourceVersion=id%3A3699"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f001bdd8-20d6-4396-9246-81648500a9cb/revision_uid?resourceVersion=id%3A3699"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f001bdd8-20d6-4396-9246-81648500a9cb/relationships/revision_uid?resourceVersion=id%3A3699"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f001bdd8-20d6-4396-9246-81648500a9cb/uid?resourceVersion=id%3A3699"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f001bdd8-20d6-4396-9246-81648500a9cb/relationships/uid?resourceVersion=id%3A3699"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f001bdd8-20d6-4396-9246-81648500a9cb/field_event_type?resourceVersion=id%3A3699"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f001bdd8-20d6-4396-9246-81648500a9cb/relationships/field_event_type?resourceVersion=id%3A3699"
+        }
+      }
+    }
+  }
+}

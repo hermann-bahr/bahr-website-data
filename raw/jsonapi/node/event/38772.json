@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "e449dab7-9c3f-41e6-aee1-96ef70bbf27e",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/e449dab7-9c3f-41e6-aee1-96ef70bbf27e?resourceVersion=id%3A2593"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/e449dab7-9c3f-41e6-aee1-96ef70bbf27e?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38772,
+    "drupal_internal__vid": 2593,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Salon Levysohn",
+    "created": "2011-01-28T15:31:28+00:00",
+    "changed": "2012-10-29T09:55:22+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38772",
+      "pid": 520,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahr frequentiert in Berlin, wie er seinem Vater schreibt, den Salon Levysohn. Gemeint ist Arthur Levysohn, damals Herausgeber beim Berliner Tageblatt.<blockquote>(es ist ja alles grässlich u. am liebsten möchte ich manchmal dreinhauen)</blockquote>Vgl. auch den Einführungsbrief, den Bahr Hugo von Hofmannsthal im Mai 1898 Levysohn mitgibt.",
+      "format": "full_html",
+      "processed": "Bahr frequentiert in Berlin, wie er seinem Vater schreibt, den Salon Levysohn. Gemeint ist Arthur Levysohn, damals Herausgeber beim Berliner Tageblatt.<blockquote>(es ist ja alles grässlich u. am liebsten möchte ich manchmal dreinhauen)</blockquote>Vgl. auch den Einführungsbrief, den Bahr Hugo von Hofmannsthal im Mai 1898 Levysohn mitgibt.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1890-11-16",
+      "end_value": "1890-11-16"
+    },
+    "field_sources": [
+      "Hoffmannsthal-Blätter, 23/24 (1980/1981), 81. Zit. n. Briefwechsel Bahr/Hofmannsthal. Hg. Elsbeth Dangel-Pelloquin. Göttingen: Wallstein. (In Vorbereitung) Anm. zu Brief von HB, 5.5.1898"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e449dab7-9c3f-41e6-aee1-96ef70bbf27e/node_type?resourceVersion=id%3A2593"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e449dab7-9c3f-41e6-aee1-96ef70bbf27e/relationships/node_type?resourceVersion=id%3A2593"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e449dab7-9c3f-41e6-aee1-96ef70bbf27e/revision_uid?resourceVersion=id%3A2593"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e449dab7-9c3f-41e6-aee1-96ef70bbf27e/relationships/revision_uid?resourceVersion=id%3A2593"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e449dab7-9c3f-41e6-aee1-96ef70bbf27e/uid?resourceVersion=id%3A2593"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e449dab7-9c3f-41e6-aee1-96ef70bbf27e/relationships/uid?resourceVersion=id%3A2593"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e449dab7-9c3f-41e6-aee1-96ef70bbf27e/field_event_type?resourceVersion=id%3A2593"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e449dab7-9c3f-41e6-aee1-96ef70bbf27e/relationships/field_event_type?resourceVersion=id%3A2593"
+        }
+      }
+    }
+  }
+}

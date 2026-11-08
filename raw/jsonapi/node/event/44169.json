@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "09b3dc35-fbad-450e-8d41-e8eb63bfd681",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/09b3dc35-fbad-450e-8d41-e8eb63bfd681?resourceVersion=id%3A3085"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/09b3dc35-fbad-450e-8d41-e8eb63bfd681?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44169,
+    "drupal_internal__vid": 3085,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Dresden",
+    "created": "2011-09-15T13:09:44+00:00",
+    "changed": "2012-01-26T14:09:38+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44169",
+      "pid": 1064,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Vom 23. Jänner 1909 bis 26. Jänner 1909 ist Bahr in Dresden, wo er auch auf Jaroslav Kvapil trifft.",
+      "format": "full_html",
+      "processed": "Vom 23. Jänner 1909 bis 26. Jänner 1909 ist Bahr in Dresden, wo er auch auf Jaroslav Kvapil trifft.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1909-01-23",
+      "end_value": "1909-01-26"
+    },
+    "field_sources": [
+      "Bahr/Kvapil, 91-92 und 670.",
+      "Brief an Leonhard Fanto, 26.1.1909, Literaturarchiv Marbach",
+      "Hermann Bahr: Aufzeichnungen 1909-1911. Ausgabe in Vorbereitung von Kurt Ifkovits\r\n"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/09b3dc35-fbad-450e-8d41-e8eb63bfd681/node_type?resourceVersion=id%3A3085"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/09b3dc35-fbad-450e-8d41-e8eb63bfd681/relationships/node_type?resourceVersion=id%3A3085"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/09b3dc35-fbad-450e-8d41-e8eb63bfd681/revision_uid?resourceVersion=id%3A3085"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/09b3dc35-fbad-450e-8d41-e8eb63bfd681/relationships/revision_uid?resourceVersion=id%3A3085"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/09b3dc35-fbad-450e-8d41-e8eb63bfd681/uid?resourceVersion=id%3A3085"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/09b3dc35-fbad-450e-8d41-e8eb63bfd681/relationships/uid?resourceVersion=id%3A3085"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/09b3dc35-fbad-450e-8d41-e8eb63bfd681/field_event_type?resourceVersion=id%3A3085"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/09b3dc35-fbad-450e-8d41-e8eb63bfd681/relationships/field_event_type?resourceVersion=id%3A3085"
+        }
+      }
+    }
+  }
+}

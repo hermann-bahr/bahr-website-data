@@ -1,0 +1,109 @@
+{
+  "type": "node--bibliographie",
+  "id": "d9ee5e55-3a37-4995-81d4-cfb11b0cd2d8",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/d9ee5e55-3a37-4995-81d4-cfb11b0cd2d8?resourceVersion=id%3A3821"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/d9ee5e55-3a37-4995-81d4-cfb11b0cd2d8?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28274,
+    "drupal_internal__vid": 3821,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:44:00+00:00",
+    "status": true,
+    "title": "Henrik Ibsen (1887)",
+    "created": "2010-11-24T14:24:15+00:00",
+    "changed": "2011-11-21T14:16:14+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/bibliografie/28274",
+      "pid": 406,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<h3 id=\"bib\">Bibliografie</h3>\r\n<table class=\"bibliografie\">\r\n<tr><td>Autor:</td><td>Hermann Bahr</td></tr>\r\n<tr><td>Titel:</td><td>Henrik Ibsen</td></tr>\r\n<tr><td> </td><td>Sonderabdruck aus dem 8. und 9. (August-September-) Heft der \"Deutschen Worte\"</td></tr>\r\n<tr><td>Stadt:</td><td>Wien</td></tr>\r\n<tr><td>Verlag:</td><td>Verlag der Deutschen Worte (Engelbert Pernerstorfer)</td></tr>\r\n<tr><td>Jahr:</td><td>1887</td></tr>\r\n<tr><td> </td></tr>\r\n<tr><td>Seiten:</td><td>18</td></tr>\r\n<tr><td>Anm.:</td><td>Bahr konnte seinem Vater am 14.11.1887 für die \"nächsten Tage\" drei Exemplare versprechen.</td></tr></table>\r\n\r\n<h3 id=\"digit\">Digitalisat</h3>\r\n\r\n<a href=\"/bahr/sites/all/txt/deutsche-worte/1887_ibsen_sonderabdruck.pdf\">[Text]</a>",
+      "format": "full_html",
+      "processed": "<h3 id=\"bib\">Bibliografie</h3>\n<table class=\"bibliografie\">\n<tr><td>Autor:</td><td>Hermann Bahr</td></tr>\n<tr><td>Titel:</td><td>Henrik Ibsen</td></tr>\n<tr><td> </td><td>Sonderabdruck aus dem 8. und 9. (August-September-) Heft der \"Deutschen Worte\"</td></tr>\n<tr><td>Stadt:</td><td>Wien</td></tr>\n<tr><td>Verlag:</td><td>Verlag der Deutschen Worte (Engelbert Pernerstorfer)</td></tr>\n<tr><td>Jahr:</td><td>1887</td></tr>\n<tr><td> </td></tr>\n<tr><td>Seiten:</td><td>18</td></tr>\n<tr><td>Anm.:</td><td>Bahr konnte seinem Vater am 14.11.1887 für die \"nächsten Tage\" drei Exemplare versprechen.</td></tr></table>\n\n<h3 id=\"digit\">Digitalisat</h3>\n\n<a href=\"/bahr/sites/all/txt/deutsche-worte/1887_ibsen_sonderabdruck.pdf\">[Text]</a>",
+      "summary": null
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "c4d97a7b-20a3-4a00-9858-72c5abf35af3",
+        "meta": {
+          "drupal_internal__target_id": "bibliographie"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/d9ee5e55-3a37-4995-81d4-cfb11b0cd2d8/node_type?resourceVersion=id%3A3821"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/d9ee5e55-3a37-4995-81d4-cfb11b0cd2d8/relationships/node_type?resourceVersion=id%3A3821"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/d9ee5e55-3a37-4995-81d4-cfb11b0cd2d8/revision_uid?resourceVersion=id%3A3821"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/d9ee5e55-3a37-4995-81d4-cfb11b0cd2d8/relationships/revision_uid?resourceVersion=id%3A3821"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/d9ee5e55-3a37-4995-81d4-cfb11b0cd2d8/uid?resourceVersion=id%3A3821"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/d9ee5e55-3a37-4995-81d4-cfb11b0cd2d8/relationships/uid?resourceVersion=id%3A3821"
+        }
+      }
+    },
+    "field_bibliographie_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--bibliografie_type",
+          "id": "7918c4ca-8976-4b38-be44-298fcc23a3ab",
+          "meta": {
+            "drupal_internal__target_id": 10
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/d9ee5e55-3a37-4995-81d4-cfb11b0cd2d8/field_bibliographie_type?resourceVersion=id%3A3821"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/d9ee5e55-3a37-4995-81d4-cfb11b0cd2d8/relationships/field_bibliographie_type?resourceVersion=id%3A3821"
+        }
+      }
+    }
+  }
+}

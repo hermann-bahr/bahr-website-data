@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "66851d6f-1142-4576-987d-51e616d63303",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/66851d6f-1142-4576-987d-51e616d63303?resourceVersion=id%3A2368"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/66851d6f-1142-4576-987d-51e616d63303?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28036,
+    "drupal_internal__vid": 2368,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Die häusliche Frau",
+    "created": "2010-07-28T21:47:06+00:00",
+    "changed": "2012-10-29T09:54:05+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28036",
+      "pid": 202,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 8. Juni 1892 findet die Uraufführung von Bahrs 1891 geschriebenem Stück \"Die häusliche Frau\" durch Emanuel Reichers Deutsche Gastspielgesellschaft am Berliner Lessing-Theater statt. Reicher dürfte Bahr (wie er Hofmannsthal schreibt) telegrafiert haben, dass es wegen \"prinzipieller Opposition\" zu einem Misserfolg wurde. \r\nDie Buchausgabe war bereits im Herbst des vorigen Jahres gedruckt worden.",
+      "format": "full_html",
+      "processed": "Am 8. Juni 1892 findet die Uraufführung von Bahrs 1891 geschriebenem Stück \"Die häusliche Frau\" durch Emanuel Reichers Deutsche Gastspielgesellschaft am Berliner Lessing-Theater statt. Reicher dürfte Bahr (wie er Hofmannsthal schreibt) telegrafiert haben, dass es wegen \"prinzipieller Opposition\" zu einem Misserfolg wurde. \nDie Buchausgabe war bereits im Herbst des vorigen Jahres gedruckt worden.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1892-06-08",
+      "end_value": "1892-06-08"
+    },
+    "field_sources": [
+      "Briefwechsel Bahr/Hofmannsthal. Hg. Elsbeth Dangel-Pelloquin. Göttingen: Wallstein. (In Vorbereitung), ca. 9.6.1892",
+      "Die Presse, 45 (1892) #160, Abendblatt, 3. "
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/66851d6f-1142-4576-987d-51e616d63303/node_type?resourceVersion=id%3A2368"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/66851d6f-1142-4576-987d-51e616d63303/relationships/node_type?resourceVersion=id%3A2368"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/66851d6f-1142-4576-987d-51e616d63303/revision_uid?resourceVersion=id%3A2368"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/66851d6f-1142-4576-987d-51e616d63303/relationships/revision_uid?resourceVersion=id%3A2368"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/66851d6f-1142-4576-987d-51e616d63303/uid?resourceVersion=id%3A2368"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/66851d6f-1142-4576-987d-51e616d63303/relationships/uid?resourceVersion=id%3A2368"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "27f3d2a4-8970-4726-9ab8-ce37707ec1bc",
+          "meta": {
+            "drupal_internal__target_id": 1
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/66851d6f-1142-4576-987d-51e616d63303/field_event_type?resourceVersion=id%3A2368"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/66851d6f-1142-4576-987d-51e616d63303/relationships/field_event_type?resourceVersion=id%3A2368"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "cbf7606f-9bf5-4078-bcb0-91c72b4edee9",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/cbf7606f-9bf5-4078-bcb0-91c72b4edee9?resourceVersion=id%3A2692"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/cbf7606f-9bf5-4078-bcb0-91c72b4edee9?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38882,
+    "drupal_internal__vid": 2692,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Secessions-Bankett",
+    "created": "2011-02-25T14:20:26+00:00",
+    "changed": "2013-01-14T09:29:51+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38882",
+      "pid": 625,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 19. Jänner 1900 findet ein Bankett der \"Vereinigung bildender Künstler Österreichs\" statt. Die Einladenden, die auf der Einladungskarte unterschreiben: Josef Maria Auchentaller, Ferdinand Andri, Wilhelm List, Koloman Moser, Josef Hoffmann, Friedrich König, Alfred Lichtwark, Otto Wagner, Hermann Bahr und Max Burkhardt. ",
+      "format": "full_html",
+      "processed": "Am 19. Jänner 1900 findet ein Bankett der \"Vereinigung bildender Künstler Österreichs\" statt. Die Einladenden, die auf der Einladungskarte unterschreiben: Josef Maria Auchentaller, Ferdinand Andri, Wilhelm List, Koloman Moser, Josef Hoffmann, Friedrich König, Alfred Lichtwark, Otto Wagner, Hermann Bahr und Max Burkhardt. ",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1900-01-19",
+      "end_value": "1900-01-19"
+    },
+    "field_sources": [
+      "Tagebücher (Csàky), II, 395-396.",
+      "Die Speisekarte inventarisiert im Theatermuseum, Wien, Inv.-Nr. HZ_HK36957 und Online über die Bilddatenbank des KHM",
+      "Beschreibung des Banketts und die Einladungskarte abgebildet in: Alma Mahler-Werfel: Diaries. 1898-1902. Cornell University 2000, 226-230. [Suite 15]"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cbf7606f-9bf5-4078-bcb0-91c72b4edee9/node_type?resourceVersion=id%3A2692"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cbf7606f-9bf5-4078-bcb0-91c72b4edee9/relationships/node_type?resourceVersion=id%3A2692"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cbf7606f-9bf5-4078-bcb0-91c72b4edee9/revision_uid?resourceVersion=id%3A2692"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cbf7606f-9bf5-4078-bcb0-91c72b4edee9/relationships/revision_uid?resourceVersion=id%3A2692"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cbf7606f-9bf5-4078-bcb0-91c72b4edee9/uid?resourceVersion=id%3A2692"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cbf7606f-9bf5-4078-bcb0-91c72b4edee9/relationships/uid?resourceVersion=id%3A2692"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cbf7606f-9bf5-4078-bcb0-91c72b4edee9/field_event_type?resourceVersion=id%3A2692"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cbf7606f-9bf5-4078-bcb0-91c72b4edee9/relationships/field_event_type?resourceVersion=id%3A2692"
+        }
+      }
+    }
+  }
+}

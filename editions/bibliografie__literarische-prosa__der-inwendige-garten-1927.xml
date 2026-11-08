@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bibliografie__literarische-prosa__der-inwendige-garten-1927" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Der inwendige Garten (1927)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">38900</idno>
+        <idno type="drupal-alias">/bibliografie/38900</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bibliografie/38900">https://bahr.univie.ac.at/bibliografie/38900</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+        <bibl type="beschriebene-ausgabe">
+          <author>Hermann Bahr</author>
+          <title type="main">Der inwendige Garten</title>
+          <title type="sub">Roman</title>
+          <pubPlace>Hildesheim</pubPlace>
+          <publisher>F. Borgmeyer</publisher>
+          <date>1927</date>
+          <extent>194</extent>
+          <edition>1.-3. Aufl</edition>
+          <note>Bahr kündigt in einer Umfrage von Reclams Universum (Dichter und ihre Werke. Reclams Universum, 44 (1927) #2, 33-35, hier: 34. (6.10.1927)) an, dass es noch im Oktober erscheine. Tags darauf, am 7.10.1927 und in den folgenden Tagen bringen einige Zeitungen die Meldung, dass der Roman noch im Oktober erscheinen soll. Die Rezensionen beginnen dann mit dem 1.12.1927.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="1" key="bibliografie">Bibliografie</term>
+          <term n="3" key="literarische-prosa">Literarische Prosa</term>
+          <term n="2" key="der-inwendige-garten-1927" type="eintrag">Der inwendige Garten (1927)</term>
+        </keywords>
+        <classCode scheme="drupal-type">bibliographie</classCode>
+        <keywords scheme="bibliografie_type">
+          <term>Literarische Prosa</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2011-03-04T13:33:37+00:00" type="created">angelegt in Drupal</change>
+      <change when="2012-10-22T09:30:45+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="bib">
+        <head>Bibliografie</head>
+        <table type="bibliografie">
+          <row>
+            <cell>Autor:</cell>
+            <cell>Hermann Bahr</cell>
+          </row>
+          <row>
+            <cell>Titel:</cell>
+            <cell>Der inwendige Garten</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>Roman</cell>
+          </row>
+          <row>
+            <cell>Ort:</cell>
+            <cell>Hildesheim</cell>
+          </row>
+          <row>
+            <cell>Verlag:</cell>
+            <cell>F. Borgmeyer</cell>
+          </row>
+          <row>
+            <cell>Jahr:</cell>
+            <cell>1927</cell>
+          </row>
+          <row>
+            <cell>Seiten:</cell>
+            <cell>194</cell>
+          </row>
+          <row>
+            <cell>Aufl.:</cell>
+            <cell>1.-3. Aufl</cell>
+          </row>
+          <row>
+            <cell>Anm.:</cell>
+            <cell>Bahr kündigt in einer Umfrage von Reclams Universum (Dichter und ihre Werke. Reclams Universum, 44 (1927) #2, 33-35, hier: 34. (6.10.1927)) an, dass es noch im Oktober erscheine. Tags darauf, am 7.10.1927 und in den folgenden Tagen bringen einige Zeitungen die Meldung, dass der Roman noch im Oktober erscheinen soll. Die Rezensionen beginnen dann mit dem 1.12.1927.</cell>
+          </row>
+        </table>
+      </div>
+      <div xml:id="rezens">
+        <head>Rezensionen</head>
+        <p>Else Kolliner in: Frankfurter Zeitung, 29.4.1928 (2. Morgenblatt, Literaturbeilage) L.P.M.: Neue Bücher von Hermann Bahr: „Der Zauberstab“. Tagebücher aus den Jahren 1924/26; „Der inwendige Garten“. Roman. In: Danziger Neueste Nachrichten, 35 (1928) #30, 10. (4.2.1928) O. N.: Hermann Bahr: Der inwendige Garten; Hermann Bahr: Der Zauberstab. In: Die Moderne Welt. Illustrierte Halbmonatsschrift für Kunst, Literatur, Mode, 4 (1928) #28 (Erstes Augustheft 1928), 45.</p>
+      </div>
+      <div xml:id="digit">
+        <head>Digitalisate</head>
+        <list rend="bulleted">
+          <item>-</item>
+        </list>
+      </div>
+    </body>
+  </text>
+</TEI>

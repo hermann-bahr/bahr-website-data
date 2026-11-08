@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "77ebc9ec-1d74-46ff-93c2-2ef0d11cb68d",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/77ebc9ec-1d74-46ff-93c2-2ef0d11cb68d?resourceVersion=id%3A2555"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/77ebc9ec-1d74-46ff-93c2-2ef0d11cb68d?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38692,
+    "drupal_internal__vid": 2555,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Abschluss-Rede",
+    "created": "2010-12-27T14:54:50+00:00",
+    "changed": "2012-08-08T12:35:40+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38692",
+      "pid": 442,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahr maturierte mit Auszeichnung und durfte die Schluss-Rede halten. In seinem \"Selbstbildnis\" berichtet Bahr von dem Skandal, den diese hervorgerufen habe. Die Salzburger Volkszeitung lässt den Vortrag unerwähnt. Im \"Selbstbildnis\" behauptet Bahr auch, das Salzburger Volksblatt hätte seine Abschlussrede veröffentlichen wollen, sein Vater habe es verhindert. In den Salzburger Nachrichten wird nach einer Anführung der anwesenden Honorationen das Ereignis geschildert, aber als ein Triumph, nicht als Skandal:<blockquote>Das höchste was wir jedoch im Applause bisher erlebt haben, hatte die \"Abschiedsrede\" des Hrn. Herm. Baar [!] zu Folge, welche circa 1/2 Stunde währte und eine geradezu zündende Wirkung äußerte. Das Thema der Rede war glücklich gewählt, es behandelte die Macht der Arbeit und erging sich in Vergleichen der jetzigen Republik Frankreich als in wirthschaftlicher Beziehung besten Staates, mit dem Erfolge anderer Länder. Brillanter Vortrag, flammende Begeisterung des Redners, erfüllte Alles im Saale, mit Bewunderung für denselben, daher der nicht enden wollende, frenetische Beifall, welcher jedoch Herrn Baar zu keinem nochmaligen Erscheinen vermochte.</blockquote>",
+      "format": "full_html",
+      "processed": "Bahr maturierte mit Auszeichnung und durfte die Schluss-Rede halten. In seinem \"Selbstbildnis\" berichtet Bahr von dem Skandal, den diese hervorgerufen habe. Die Salzburger Volkszeitung lässt den Vortrag unerwähnt. Im \"Selbstbildnis\" behauptet Bahr auch, das Salzburger Volksblatt hätte seine Abschlussrede veröffentlichen wollen, sein Vater habe es verhindert. In den Salzburger Nachrichten wird nach einer Anführung der anwesenden Honorationen das Ereignis geschildert, aber als ein Triumph, nicht als Skandal:<blockquote>Das höchste was wir jedoch im Applause bisher erlebt haben, hatte die \"Abschiedsrede\" des Hrn. Herm. Baar [!] zu Folge, welche circa 1/2 Stunde währte und eine geradezu zündende Wirkung äußerte. Das Thema der Rede war glücklich gewählt, es behandelte die Macht der Arbeit und erging sich in Vergleichen der jetzigen Republik Frankreich als in wirthschaftlicher Beziehung besten Staates, mit dem Erfolge anderer Länder. Brillanter Vortrag, flammende Begeisterung des Redners, erfüllte Alles im Saale, mit Bewunderung für denselben, daher der nicht enden wollende, frenetische Beifall, welcher jedoch Herrn Baar zu keinem nochmaligen Erscheinen vermochte.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1881-07-15",
+      "end_value": "1881-07-15"
+    },
+    "field_sources": [
+      "Salzburger Nachrichten, 1 (1881) #85, 2. (17.7.1881)",
+      "Selbstbildnis, 98-99",
+      "Eckardt, Johannes: Hermann Bahr in Salzburg. Salzburger Chronik, 45 (1909) #70, 1-3. (29.3.1909)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/77ebc9ec-1d74-46ff-93c2-2ef0d11cb68d/node_type?resourceVersion=id%3A2555"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/77ebc9ec-1d74-46ff-93c2-2ef0d11cb68d/relationships/node_type?resourceVersion=id%3A2555"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/77ebc9ec-1d74-46ff-93c2-2ef0d11cb68d/revision_uid?resourceVersion=id%3A2555"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/77ebc9ec-1d74-46ff-93c2-2ef0d11cb68d/relationships/revision_uid?resourceVersion=id%3A2555"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/77ebc9ec-1d74-46ff-93c2-2ef0d11cb68d/uid?resourceVersion=id%3A2555"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/77ebc9ec-1d74-46ff-93c2-2ef0d11cb68d/relationships/uid?resourceVersion=id%3A2555"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/77ebc9ec-1d74-46ff-93c2-2ef0d11cb68d/field_event_type?resourceVersion=id%3A2555"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/77ebc9ec-1d74-46ff-93c2-2ef0d11cb68d/relationships/field_event_type?resourceVersion=id%3A2555"
+        }
+      }
+    }
+  }
+}

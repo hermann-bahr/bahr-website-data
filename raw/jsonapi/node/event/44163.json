@@ -1,0 +1,123 @@
+{
+  "type": "node--event",
+  "id": "cff24261-3290-440f-b7db-88556c090c9d",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/cff24261-3290-440f-b7db-88556c090c9d?resourceVersion=id%3A3079"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/cff24261-3290-440f-b7db-88556c090c9d?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44163,
+    "drupal_internal__vid": 3079,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "\"Andere\" in Wien",
+    "created": "2011-09-15T11:31:24+00:00",
+    "changed": "2012-06-04T15:12:50+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44163",
+      "pid": 1058,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bei der Wiener Première am 25. November 1905 am Deutschen Volkstheater ist Bahr in München zur Vertragsunterzeichnung. Schnitzler notiert sich: \"Theaterskandal\", Bahr einfach: \"Skandal\". <blockquote>27. Nach starkem Skandal auch in der zweiten Aufführung setzt Weisse die \"Andere\" ab, obwol auch die dritte Vorstellung schon im Vorverkauf ausverkauft ist.</blockquote>Eine eigenwillige Frage beantwortet der Advokat Dr. Moritz Singer in Folge als Leserbrief in der Rubrik \"Gerichtssaal\", wenn er die Rechte des Theaterpublikums auf Kritiksäußerungen untersucht.\r\n",
+      "format": "full_html",
+      "processed": "Bei der Wiener Première am 25. November 1905 am Deutschen Volkstheater ist Bahr in München zur Vertragsunterzeichnung. Schnitzler notiert sich: \"Theaterskandal\", Bahr einfach: \"Skandal\". <blockquote>27. Nach starkem Skandal auch in der zweiten Aufführung setzt Weisse die \"Andere\" ab, obwol auch die dritte Vorstellung schon im Vorverkauf ausverkauft ist.</blockquote>Eine eigenwillige Frage beantwortet der Advokat Dr. Moritz Singer in Folge als Leserbrief in der Rubrik \"Gerichtssaal\", wenn er die Rechte des Theaterpublikums auf Kritiksäußerungen untersucht.\n",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1905-11-25",
+      "end_value": "1905-11-27"
+    },
+    "field_sources": [
+      "Tagebücher (Csàky), IV, 437.",
+      "Marco Brociner in: Neues Wiener Tagblatt, 39 (1905) #327, 11. (26.11.1905)\r\n",
+      "L. F. [=Ludwig Fischl] in: Österreichische Volks-Zeitung, 51 (1903) #327, 21. (26.11.1905)\r\n",
+      "[O. N.:] Eine stürmische Première. In: Illustriertes Wiener Extrablatt, 26.11.1905, 8-9.",
+      "\"Die Andere\" – abgesetzt. In: Österreichische Volks-Zeitung, 51 (1903) #328, 2. (27.11.1905)",
+      "Bahrs \"Die Andere\" in: Neues Wiener Tagblatt, 39 (1905) #328 ,12-13. (27.11.1905) [Über Skandalpublikum]",
+      "Leserbrief Moritz Singer: Neues Wiener Tagblatt, 39 (1905) #338, 15. (4.12.1905)",
+      "Schnitzler: Tagebücher, III, 169."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cff24261-3290-440f-b7db-88556c090c9d/node_type?resourceVersion=id%3A3079"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cff24261-3290-440f-b7db-88556c090c9d/relationships/node_type?resourceVersion=id%3A3079"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cff24261-3290-440f-b7db-88556c090c9d/revision_uid?resourceVersion=id%3A3079"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cff24261-3290-440f-b7db-88556c090c9d/relationships/revision_uid?resourceVersion=id%3A3079"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cff24261-3290-440f-b7db-88556c090c9d/uid?resourceVersion=id%3A3079"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cff24261-3290-440f-b7db-88556c090c9d/relationships/uid?resourceVersion=id%3A3079"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cff24261-3290-440f-b7db-88556c090c9d/field_event_type?resourceVersion=id%3A3079"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cff24261-3290-440f-b7db-88556c090c9d/relationships/field_event_type?resourceVersion=id%3A3079"
+        }
+      }
+    }
+  }
+}

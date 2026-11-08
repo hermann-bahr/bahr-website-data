@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "d2172a68-e9c5-44c4-8ba8-b537096ff17a",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/d2172a68-e9c5-44c4-8ba8-b537096ff17a?resourceVersion=id%3A3812"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/d2172a68-e9c5-44c4-8ba8-b537096ff17a?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 81336,
+    "drupal_internal__vid": 3812,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Finanziell gut gestellt",
+    "created": "2013-04-22T09:33:06+00:00",
+    "changed": "2013-04-22T09:33:22+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/81336",
+      "pid": 1876,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<blockquote>Meine Frau und ich hatten uns vor dem Krieg so viel erspart, dass wir von den Zinsen angenehm leben konnten; was ich schrieb, was ich sang, alles nur aus innerem Drang.</blockquote>Nach dem Krieg war das Geld weg und Bahr hatte ernste Geldsorgen.",
+      "format": "full_html",
+      "processed": "<blockquote>Meine Frau und ich hatten uns vor dem Krieg so viel erspart, dass wir von den Zinsen angenehm leben konnten; was ich schrieb, was ich sang, alles nur aus innerem Drang.</blockquote>Nach dem Krieg war das Geld weg und Bahr hatte ernste Geldsorgen.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1914-01-01",
+      "end_value": "1914-01-01"
+    },
+    "field_sources": [
+      "An Verkade, 20. November 1921",
+      "(Hier auf 1.1.1914 datiert)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d2172a68-e9c5-44c4-8ba8-b537096ff17a/node_type?resourceVersion=id%3A3812"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d2172a68-e9c5-44c4-8ba8-b537096ff17a/relationships/node_type?resourceVersion=id%3A3812"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d2172a68-e9c5-44c4-8ba8-b537096ff17a/revision_uid?resourceVersion=id%3A3812"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d2172a68-e9c5-44c4-8ba8-b537096ff17a/relationships/revision_uid?resourceVersion=id%3A3812"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d2172a68-e9c5-44c4-8ba8-b537096ff17a/uid?resourceVersion=id%3A3812"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d2172a68-e9c5-44c4-8ba8-b537096ff17a/relationships/uid?resourceVersion=id%3A3812"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d2172a68-e9c5-44c4-8ba8-b537096ff17a/field_event_type?resourceVersion=id%3A3812"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d2172a68-e9c5-44c4-8ba8-b537096ff17a/relationships/field_event_type?resourceVersion=id%3A3812"
+        }
+      }
+    }
+  }
+}

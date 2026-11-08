@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "b4819e6f-ce9d-4384-9930-4e37a9f2f0e5",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b4819e6f-ce9d-4384-9930-4e37a9f2f0e5?resourceVersion=id%3A3443"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b4819e6f-ce9d-4384-9930-4e37a9f2f0e5?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49617,
+    "drupal_internal__vid": 3443,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Franz Johannes von Rottenburg über Österreich",
+    "created": "2011-11-16T15:52:22+00:00",
+    "changed": "2011-11-16T15:52:22+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49617",
+      "pid": 1433,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "\"Wenige Wochen\" nach dem Fackelumzug zu Ehren Bismarcks darf Bahr die Geburtstagsadresse der Wiener Burschenschaften zwar nicht dem Kanzler persönlich, aber dessen Ratgeber, Franz Johannes von Rottenburg überreichen. Dieser belehrt ihn über die Bedeutung Österreichs, die in Bahr den Keim zu seiner Wandlung vom Deutschnationalen zum Patrioten des Vielvölkerstaats vorbereitet.",
+      "format": "full_html",
+      "processed": "\"Wenige Wochen\" nach dem Fackelumzug zu Ehren Bismarcks darf Bahr die Geburtstagsadresse der Wiener Burschenschaften zwar nicht dem Kanzler persönlich, aber dessen Ratgeber, Franz Johannes von Rottenburg überreichen. Dieser belehrt ihn über die Bedeutung Österreichs, die in Bahr den Keim zu seiner Wandlung vom Deutschnationalen zum Patrioten des Vielvölkerstaats vorbereitet.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1885-05-01",
+      "end_value": "1885-05-01"
+    },
+    "field_sources": [
+      "Selbstbildnis, 185-186"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b4819e6f-ce9d-4384-9930-4e37a9f2f0e5/node_type?resourceVersion=id%3A3443"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b4819e6f-ce9d-4384-9930-4e37a9f2f0e5/relationships/node_type?resourceVersion=id%3A3443"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b4819e6f-ce9d-4384-9930-4e37a9f2f0e5/revision_uid?resourceVersion=id%3A3443"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b4819e6f-ce9d-4384-9930-4e37a9f2f0e5/relationships/revision_uid?resourceVersion=id%3A3443"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b4819e6f-ce9d-4384-9930-4e37a9f2f0e5/uid?resourceVersion=id%3A3443"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b4819e6f-ce9d-4384-9930-4e37a9f2f0e5/relationships/uid?resourceVersion=id%3A3443"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b4819e6f-ce9d-4384-9930-4e37a9f2f0e5/field_event_type?resourceVersion=id%3A3443"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b4819e6f-ce9d-4384-9930-4e37a9f2f0e5/relationships/field_event_type?resourceVersion=id%3A3443"
+        }
+      }
+    }
+  }
+}

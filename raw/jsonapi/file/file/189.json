@@ -1,0 +1,36 @@
+{
+  "type": "file--file",
+  "id": "007723c1-cf2d-4670-81cc-bf9bba8806af",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/file/file/007723c1-cf2d-4670-81cc-bf9bba8806af"
+    }
+  },
+  "attributes": {
+    "drupal_internal__fid": 189,
+    "langcode": "de",
+    "filename": "1903_duncan-duse.jpg",
+    "uri": {
+      "value": "public://bahr_bilder/1903_duncan-duse.jpg",
+      "url": "/sites/default/files/bahr_bilder/1903_duncan-duse.jpg"
+    },
+    "filemime": "image/jpeg",
+    "filesize": 2215755,
+    "status": true,
+    "created": "2020-02-18T15:00:35+00:00",
+    "changed": "2020-02-18T15:11:43+00:00"
+  },
+  "relationships": {
+    "uid": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/file/file/007723c1-cf2d-4670-81cc-bf9bba8806af/uid"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/file/file/007723c1-cf2d-4670-81cc-bf9bba8806af/relationships/uid"
+        }
+      }
+    }
+  }
+}

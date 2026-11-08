@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "00c1c616-9faa-43ef-9b2c-1a880d7225d1",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/00c1c616-9faa-43ef-9b2c-1a880d7225d1?resourceVersion=id%3A2850"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/00c1c616-9faa-43ef-9b2c-1a880d7225d1?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39076,
+    "drupal_internal__vid": 2850,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Lesung",
+    "created": "2011-05-05T20:52:41+00:00",
+    "changed": "2011-08-22T09:57:55+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39076",
+      "pid": 807,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Nicht nur war er im Jänner für eine Woche in Hamburg zur Première der dortigen Inszenierung von \"Der Herr Hofrat\" (=\"Krampus\"), schreibt er seiner Mutter zwei Wochen danach, er hat…\r\n<blockquote>dazwischen auch noch eine Vorlesung gehalten</blockquote>\r\nDie Vorlesung fand am 22. Jänner im Zuge des 2. Abend des vom Damencomité arrangierten Zyklus zu Gunsten des Rekonvaleszentenheims für arme Frauen in Hütteldorf statt. Bahr las: Schnitzler (\"Der Ehrentag\"), Felix Dörmann (\"Wie man Minister fängt\"), Ferdinand Groß (\"Eine neue literarische Schule\").\r\n",
+      "format": "full_html",
+      "processed": "Nicht nur war er im Jänner für eine Woche in Hamburg zur Première der dortigen Inszenierung von \"Der Herr Hofrat\" (=\"Krampus\"), schreibt er seiner Mutter zwei Wochen danach, er hat…\n<blockquote>dazwischen auch noch eine Vorlesung gehalten</blockquote>\nDie Vorlesung fand am 22. Jänner im Zuge des 2. Abend des vom Damencomité arrangierten Zyklus zu Gunsten des Rekonvaleszentenheims für arme Frauen in Hütteldorf statt. Bahr las: Schnitzler (\"Der Ehrentag\"), Felix Dörmann (\"Wie man Minister fängt\"), Ferdinand Groß (\"Eine neue literarische Schule\").\n",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1902-01-22",
+      "end_value": "1902-01-22"
+    },
+    "field_sources": [
+      "Brief an die Mutter, 30.1.1902.",
+      "Österreichische Volks-Zeitung, 48 (1902) #23, 5. (24.1.1902)",
+      "Tagebücher (Csàky), III, 166."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/00c1c616-9faa-43ef-9b2c-1a880d7225d1/node_type?resourceVersion=id%3A2850"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/00c1c616-9faa-43ef-9b2c-1a880d7225d1/relationships/node_type?resourceVersion=id%3A2850"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/00c1c616-9faa-43ef-9b2c-1a880d7225d1/revision_uid?resourceVersion=id%3A2850"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/00c1c616-9faa-43ef-9b2c-1a880d7225d1/relationships/revision_uid?resourceVersion=id%3A2850"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/00c1c616-9faa-43ef-9b2c-1a880d7225d1/uid?resourceVersion=id%3A2850"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/00c1c616-9faa-43ef-9b2c-1a880d7225d1/relationships/uid?resourceVersion=id%3A2850"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/00c1c616-9faa-43ef-9b2c-1a880d7225d1/field_event_type?resourceVersion=id%3A2850"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/00c1c616-9faa-43ef-9b2c-1a880d7225d1/relationships/field_event_type?resourceVersion=id%3A2850"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bilder__bescherung" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Bescherung</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">43986</idno>
+        <idno type="drupal-alias">/bild/43986</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bild/43986">https://bahr.univie.ac.at/bild/43986</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="7" key="bilder">Bilder</term>
+          <term n="46" key="bescherung" type="eintrag">Bescherung</term>
+        </keywords>
+        <classCode scheme="drupal-type">image</classCode>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2011-07-12T13:54:48+00:00" type="created">angelegt in Drupal</change>
+      <change when="2011-11-25T12:14:04+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <figure>
+          <graphic url="files/bahr_bilder/1911_simplicissimus.jpg"/>
+          <figDesc>Bescherung</figDesc>
+        </figure>
+        <quote>Einundzwanzig Kinder wurden dem allverehrten Dichter Hermann Bahr von den deutschen Theaterdirektoren unter den Weihnachtsbaum gelegt. Es waren viele Mißgeburten darunter.</quote>
+        <p>(Zeichnung von O. Gulbransson)<lb/><hi rend="italic">Simplicissimus, 15 (1911) #42, 722. <ref target="http://www.simplicissimus.info/uploads/tx_lombkswjournaldb/pdf/1/15/15_42.pdf">[Quelle]</ref></hi></p>
+      </div>
+    </body>
+  </text>
+</TEI>

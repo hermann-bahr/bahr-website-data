@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "f2f0472a-8216-46f1-9cac-84e37d9b1b47",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f2f0472a-8216-46f1-9cac-84e37d9b1b47?resourceVersion=id%3A2871"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f2f0472a-8216-46f1-9cac-84e37d9b1b47?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39105,
+    "drupal_internal__vid": 2871,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Kraus-Friedmann",
+    "created": "2011-05-20T09:46:28+00:00",
+    "changed": "2011-06-27T11:44:15+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39105",
+      "pid": 836,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Für eine Kritik der Aufführung von Oskar Friedmanns \"Das Dreieck\" wurde Karl Kraus in der Nacht vom 10. auf den 11. Mai 1899 im Café Imperial vom Autor verprügelt und musste von der Rettung abtransportiert werden. Nebenbeteiligte waren Figuren im Bahr-Umfeld, Willy Handl, Arthur Kahane und Felix Dörmann. Im Zuge des Prozesses wurde Bahr als Zeuge gehört, dem Kraus vorgeworfen hatte, zusammen mit Julius Bauer das Publikum zu manipulieren.<blockquote>Was den Zeugen Bahr anlangt, so muss ich mir für heute einige Reserve auferlegen. Er hat ausgesagt, dass meine consequenten Angriffe seine Carrière nur gefördert hätten. Greife ich ihn noch einmal an, so ist er vielleicht tags darauf schon am Ziel seiner Wünsche, also beim Neuen Wiener Tagblatt, angelangt. Schweige ich ihn aber todt, erbarmt sich am Ende die Neue Freie Presse seiner. Aus diesem Dilemma vermag ich nur herauszukommen, wenn ich beide Methoden abwechselnd an ihm versuche. Im übrigen scheint Herr Bahr meine Angriffe zu überschätzen; ein einziger Toast, den er auf Herrn Wilhelm Singer ausbringt, bedeutet für sein Fortkommen mehr, als meine jahrelange Abwehr seines den letzten Ernst unserer Literatur verludernden Treibens. Er wird sich auch weiterhin nicht so sehr auf meine böse als auf seine gute Zunge verlassen müssen.</blockquote>",
+      "format": "full_html",
+      "processed": "Für eine Kritik der Aufführung von Oskar Friedmanns \"Das Dreieck\" wurde Karl Kraus in der Nacht vom 10. auf den 11. Mai 1899 im Café Imperial vom Autor verprügelt und musste von der Rettung abtransportiert werden. Nebenbeteiligte waren Figuren im Bahr-Umfeld, Willy Handl, Arthur Kahane und Felix Dörmann. Im Zuge des Prozesses wurde Bahr als Zeuge gehört, dem Kraus vorgeworfen hatte, zusammen mit Julius Bauer das Publikum zu manipulieren.<blockquote>Was den Zeugen Bahr anlangt, so muss ich mir für heute einige Reserve auferlegen. Er hat ausgesagt, dass meine consequenten Angriffe seine Carrière nur gefördert hätten. Greife ich ihn noch einmal an, so ist er vielleicht tags darauf schon am Ziel seiner Wünsche, also beim Neuen Wiener Tagblatt, angelangt. Schweige ich ihn aber todt, erbarmt sich am Ende die Neue Freie Presse seiner. Aus diesem Dilemma vermag ich nur herauszukommen, wenn ich beide Methoden abwechselnd an ihm versuche. Im übrigen scheint Herr Bahr meine Angriffe zu überschätzen; ein einziger Toast, den er auf Herrn Wilhelm Singer ausbringt, bedeutet für sein Fortkommen mehr, als meine jahrelange Abwehr seines den letzten Ernst unserer Literatur verludernden Treibens. Er wird sich auch weiterhin nicht so sehr auf meine böse als auf seine gute Zunge verlassen müssen.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1899-05-10",
+      "end_value": "1899-05-10"
+    },
+    "field_sources": [
+      "Die Fackel, 1 (1899) #6, 26-27."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f2f0472a-8216-46f1-9cac-84e37d9b1b47/node_type?resourceVersion=id%3A2871"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f2f0472a-8216-46f1-9cac-84e37d9b1b47/relationships/node_type?resourceVersion=id%3A2871"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f2f0472a-8216-46f1-9cac-84e37d9b1b47/revision_uid?resourceVersion=id%3A2871"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f2f0472a-8216-46f1-9cac-84e37d9b1b47/relationships/revision_uid?resourceVersion=id%3A2871"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f2f0472a-8216-46f1-9cac-84e37d9b1b47/uid?resourceVersion=id%3A2871"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f2f0472a-8216-46f1-9cac-84e37d9b1b47/relationships/uid?resourceVersion=id%3A2871"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f2f0472a-8216-46f1-9cac-84e37d9b1b47/field_event_type?resourceVersion=id%3A2871"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f2f0472a-8216-46f1-9cac-84e37d9b1b47/relationships/field_event_type?resourceVersion=id%3A2871"
+        }
+      }
+    }
+  }
+}

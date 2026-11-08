@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "9afb1f2a-9c2e-4923-8799-bcf609e9c0af",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/9afb1f2a-9c2e-4923-8799-bcf609e9c0af?resourceVersion=id%3A3430"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/9afb1f2a-9c2e-4923-8799-bcf609e9c0af?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49603,
+    "drupal_internal__vid": 3430,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Edmund Lang und Paul von Portheim",
+    "created": "2011-11-11T15:14:32+00:00",
+    "changed": "2013-03-25T18:36:27+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49603",
+      "pid": 1419,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahrs wichtigste Gefährten in der Wiener Zeit seines vertrödelten Studiums heißen Edmund Lang und Paul Porges von Portheim, die ihn auch in die Burschenschaft \"Albia\" einführen. \r\n1883, beim Abschied Bahrs nach Graz verfasst Portheim eine Kneipzeitung, am 13. Juli 1883 erschießt er sich. ",
+      "format": "full_html",
+      "processed": "Bahrs wichtigste Gefährten in der Wiener Zeit seines vertrödelten Studiums heißen Edmund Lang und Paul Porges von Portheim, die ihn auch in die Burschenschaft \"Albia\" einführen. \n1883, beim Abschied Bahrs nach Graz verfasst Portheim eine Kneipzeitung, am 13. Juli 1883 erschießt er sich. ",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1882-01-01",
+      "end_value": "1882-01-01"
+    },
+    "field_sources": [
+      "Selbstbildnis, 135-136.",
+      "(Hier mit 1. Januar 1882 datiert)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9afb1f2a-9c2e-4923-8799-bcf609e9c0af/node_type?resourceVersion=id%3A3430"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9afb1f2a-9c2e-4923-8799-bcf609e9c0af/relationships/node_type?resourceVersion=id%3A3430"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9afb1f2a-9c2e-4923-8799-bcf609e9c0af/revision_uid?resourceVersion=id%3A3430"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9afb1f2a-9c2e-4923-8799-bcf609e9c0af/relationships/revision_uid?resourceVersion=id%3A3430"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9afb1f2a-9c2e-4923-8799-bcf609e9c0af/uid?resourceVersion=id%3A3430"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9afb1f2a-9c2e-4923-8799-bcf609e9c0af/relationships/uid?resourceVersion=id%3A3430"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9afb1f2a-9c2e-4923-8799-bcf609e9c0af/field_event_type?resourceVersion=id%3A3430"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9afb1f2a-9c2e-4923-8799-bcf609e9c0af/relationships/field_event_type?resourceVersion=id%3A3430"
+        }
+      }
+    }
+  }
+}

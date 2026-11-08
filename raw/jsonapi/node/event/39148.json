@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "5d2faed7-b36a-4cfe-9290-fa2c73db67ed",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/5d2faed7-b36a-4cfe-9290-fa2c73db67ed?resourceVersion=id%3A2906"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/5d2faed7-b36a-4cfe-9290-fa2c73db67ed?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39148,
+    "drupal_internal__vid": 2906,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "AS",
+    "created": "2011-07-08T10:01:13+00:00",
+    "changed": "2011-07-08T10:01:13+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39148",
+      "pid": 876,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Arthur Schnitzler, 15. Oktober 1909:\r\n<blockquote>15/10 Vm. Generalprobe \"Jene Asra\" von Burckhard, recht schlechts Stück – fast unbegreiflich. […] Sprach Bahr (seit seiner Verheiratung mit der Mildenburg zum ersten Mal)</blockquote>",
+      "format": "full_html",
+      "processed": "Arthur Schnitzler, 15. Oktober 1909:\n<blockquote>15/10 Vm. Generalprobe \"Jene Asra\" von Burckhard, recht schlechts Stück – fast unbegreiflich. […] Sprach Bahr (seit seiner Verheiratung mit der Mildenburg zum ersten Mal)</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1909-10-15",
+      "end_value": "1909-10-15"
+    },
+    "field_sources": [
+      "Schnitzler: Tagebuch, 1909-1912, 95. "
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5d2faed7-b36a-4cfe-9290-fa2c73db67ed/node_type?resourceVersion=id%3A2906"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5d2faed7-b36a-4cfe-9290-fa2c73db67ed/relationships/node_type?resourceVersion=id%3A2906"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5d2faed7-b36a-4cfe-9290-fa2c73db67ed/revision_uid?resourceVersion=id%3A2906"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5d2faed7-b36a-4cfe-9290-fa2c73db67ed/relationships/revision_uid?resourceVersion=id%3A2906"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5d2faed7-b36a-4cfe-9290-fa2c73db67ed/uid?resourceVersion=id%3A2906"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5d2faed7-b36a-4cfe-9290-fa2c73db67ed/relationships/uid?resourceVersion=id%3A2906"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5d2faed7-b36a-4cfe-9290-fa2c73db67ed/field_event_type?resourceVersion=id%3A2906"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5d2faed7-b36a-4cfe-9290-fa2c73db67ed/relationships/field_event_type?resourceVersion=id%3A2906"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "1749cbf7-aeec-41d6-a6ac-1170c782418c",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/1749cbf7-aeec-41d6-a6ac-1170c782418c?resourceVersion=id%3A2869"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/1749cbf7-aeec-41d6-a6ac-1170c782418c?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39103,
+    "drupal_internal__vid": 2869,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Rom?",
+    "created": "2011-05-19T13:19:50+00:00",
+    "changed": "2012-10-17T09:05:26+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39103",
+      "pid": 834,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Ein Artikel über den Umzug der Wittwe des ermordeten Königs Umberto im \"Neuen Wiener Tagblatt\" vom 18. Oktober 1900 ist mit Bahrs Kürzel \"H.B.\" gekennzeichnet. Heißt das, Bahr war in Rom? So lange nicht ein weiterer Hinweis auf die Reise folgt, muss das als unwahrscheinlich gelten.",
+      "format": "full_html",
+      "processed": "Ein Artikel über den Umzug der Wittwe des ermordeten Königs Umberto im \"Neuen Wiener Tagblatt\" vom 18. Oktober 1900 ist mit Bahrs Kürzel \"H.B.\" gekennzeichnet. Heißt das, Bahr war in Rom? So lange nicht ein weiterer Hinweis auf die Reise folgt, muss das als unwahrscheinlich gelten.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1900-10-18",
+      "end_value": "1900-10-18"
+    },
+    "field_sources": [
+      "H. B.: Villa Malta. (Der Witwensitz der Königin Margherita). Neues Wiener Tagblatt, 34 (1900) #286, 5. (18.10.1900)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1749cbf7-aeec-41d6-a6ac-1170c782418c/node_type?resourceVersion=id%3A2869"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1749cbf7-aeec-41d6-a6ac-1170c782418c/relationships/node_type?resourceVersion=id%3A2869"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1749cbf7-aeec-41d6-a6ac-1170c782418c/revision_uid?resourceVersion=id%3A2869"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1749cbf7-aeec-41d6-a6ac-1170c782418c/relationships/revision_uid?resourceVersion=id%3A2869"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1749cbf7-aeec-41d6-a6ac-1170c782418c/uid?resourceVersion=id%3A2869"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1749cbf7-aeec-41d6-a6ac-1170c782418c/relationships/uid?resourceVersion=id%3A2869"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1749cbf7-aeec-41d6-a6ac-1170c782418c/field_event_type?resourceVersion=id%3A2869"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1749cbf7-aeec-41d6-a6ac-1170c782418c/relationships/field_event_type?resourceVersion=id%3A2869"
+        }
+      }
+    }
+  }
+}

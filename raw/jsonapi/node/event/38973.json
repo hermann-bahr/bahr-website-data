@@ -1,0 +1,119 @@
+{
+  "type": "node--event",
+  "id": "ff01baf4-ce4c-473a-923e-b9f2caf2eed0",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/ff01baf4-ce4c-473a-923e-b9f2caf2eed0?resourceVersion=id%3A2756"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/ff01baf4-ce4c-473a-923e-b9f2caf2eed0?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38973,
+    "drupal_internal__vid": 2756,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Aussig, Plauen, Dresden",
+    "created": "2011-03-16T15:28:41+00:00",
+    "changed": "2013-01-08T09:14:55+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38973",
+      "pid": 710,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "In Aussig liest Bahr am 4. Februar 1912 im Verein für Kunstpflege (Ansprechpartner: Dr. Liebitzky) im Saal Ressource für 350 Mark  aus \"O Mensch\". Er übernachtet im Hotel Englischer Hof. [1-3]\r\n\r\nTags darauf ist Bahr in Dresden [4]. Er steigt im Hotel Europäischer Hof ab und liest am 7. im Künstlerhaus für die Buchhandlung Tittmann (Inh. Engler) \"Das Bayreuther Werk\". Honorar: 400 Mark.[3]\r\n\r\nVermutlich reist er für einen Vortrag (200 Mark) am 6. von Dresden aus noch nach Plauen.[3]",
+      "format": "full_html",
+      "processed": "In Aussig liest Bahr am 4. Februar 1912 im Verein für Kunstpflege (Ansprechpartner: Dr. Liebitzky) im Saal Ressource für 350 Mark  aus \"O Mensch\". Er übernachtet im Hotel Englischer Hof. [1-3]\n\nTags darauf ist Bahr in Dresden [4]. Er steigt im Hotel Europäischer Hof ab und liest am 7. im Künstlerhaus für die Buchhandlung Tittmann (Inh. Engler) \"Das Bayreuther Werk\". Honorar: 400 Mark.[3]\n\nVermutlich reist er für einen Vortrag (200 Mark) am 6. von Dresden aus noch nach Plauen.[3]",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1912-02-04",
+      "end_value": "1912-02-07"
+    },
+    "field_sources": [
+      "[2] Unvollständige Angabe bei der Besprechung des Vortrags: Aussiger Tagblatt, #28.",
+      "[3] Nachlass Kiste 29: Vorträge, Tourneeplan 1912",
+      "[4] Brief an Leonhard Fanto, 5.2.1912, Literaturarchiv Marbach",
+      "[1] Handschriftlich datiert im Nachlass: Hermann Bahr. (Zum 4. Februar 1912). Volksrecht, Aussig, 3.2.1912"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ff01baf4-ce4c-473a-923e-b9f2caf2eed0/node_type?resourceVersion=id%3A2756"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ff01baf4-ce4c-473a-923e-b9f2caf2eed0/relationships/node_type?resourceVersion=id%3A2756"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ff01baf4-ce4c-473a-923e-b9f2caf2eed0/revision_uid?resourceVersion=id%3A2756"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ff01baf4-ce4c-473a-923e-b9f2caf2eed0/relationships/revision_uid?resourceVersion=id%3A2756"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ff01baf4-ce4c-473a-923e-b9f2caf2eed0/uid?resourceVersion=id%3A2756"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ff01baf4-ce4c-473a-923e-b9f2caf2eed0/relationships/uid?resourceVersion=id%3A2756"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ff01baf4-ce4c-473a-923e-b9f2caf2eed0/field_event_type?resourceVersion=id%3A2756"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ff01baf4-ce4c-473a-923e-b9f2caf2eed0/relationships/field_event_type?resourceVersion=id%3A2756"
+        }
+      }
+    }
+  }
+}

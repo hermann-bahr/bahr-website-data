@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "1dc0b75e-dea5-4c14-b681-0851b6bc8a78",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/1dc0b75e-dea5-4c14-b681-0851b6bc8a78?resourceVersion=id%3A3182"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/1dc0b75e-dea5-4c14-b681-0851b6bc8a78?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49335,
+    "drupal_internal__vid": 3182,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "JR, über Burckhard",
+    "created": "2011-10-11T08:50:31+00:00",
+    "changed": "2011-10-24T14:12:51+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49335",
+      "pid": 1161,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Den Nachmittag des 5. Oktober 1912 verbringen Bahr und Josef Redlich gemeinsam, zuerst im Hotel Matschakerhof, dann in der Salesianergasse. Bahr plant, ein Buch über Max Burckhard zu schreiben und erzählt Anekdoten über diesen und dessen Verhältnis zu Kaiser Franz Josef, die Redlich in sein Tagebuch notiert.",
+      "format": "full_html",
+      "processed": "Den Nachmittag des 5. Oktober 1912 verbringen Bahr und Josef Redlich gemeinsam, zuerst im Hotel Matschakerhof, dann in der Salesianergasse. Bahr plant, ein Buch über Max Burckhard zu schreiben und erzählt Anekdoten über diesen und dessen Verhältnis zu Kaiser Franz Josef, die Redlich in sein Tagebuch notiert.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1912-10-05",
+      "end_value": "1912-10-05"
+    },
+    "field_sources": [
+      "Fritz Fellner und Doris A. Corradini (Hgg.): Schicksalsjahre Österreichs. Die Erinnerungen und Tagebücher Josef Redlichs 1869–1936. Wien: Böhlau 2011, I, 477-478."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1dc0b75e-dea5-4c14-b681-0851b6bc8a78/node_type?resourceVersion=id%3A3182"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1dc0b75e-dea5-4c14-b681-0851b6bc8a78/relationships/node_type?resourceVersion=id%3A3182"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1dc0b75e-dea5-4c14-b681-0851b6bc8a78/revision_uid?resourceVersion=id%3A3182"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1dc0b75e-dea5-4c14-b681-0851b6bc8a78/relationships/revision_uid?resourceVersion=id%3A3182"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1dc0b75e-dea5-4c14-b681-0851b6bc8a78/uid?resourceVersion=id%3A3182"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1dc0b75e-dea5-4c14-b681-0851b6bc8a78/relationships/uid?resourceVersion=id%3A3182"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1dc0b75e-dea5-4c14-b681-0851b6bc8a78/field_event_type?resourceVersion=id%3A3182"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1dc0b75e-dea5-4c14-b681-0851b6bc8a78/relationships/field_event_type?resourceVersion=id%3A3182"
+        }
+      }
+    }
+  }
+}

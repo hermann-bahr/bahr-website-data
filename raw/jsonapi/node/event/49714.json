@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "b80f5bf3-bf74-4fe7-85f1-adeb6fc9471e",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b80f5bf3-bf74-4fe7-85f1-adeb6fc9471e?resourceVersion=id%3A3489"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b80f5bf3-bf74-4fe7-85f1-adeb6fc9471e?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49714,
+    "drupal_internal__vid": 3489,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Pläne für Autobiografie, Die Räuber",
+    "created": "2011-12-14T12:18:30+00:00",
+    "changed": "2011-12-14T16:27:46+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49714",
+      "pid": 1528,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 19. Oktober 1912 meldet das Berliner Tageblatt, Bahr würde nun mit der Niederschrift seiner Memoiren beginnen. Am 14. November wird das Dementi gedruckt, Bahr arbeite zur Zeit am neuen Roman \"Die Räuber\" und einem Lustspiel, bis zum Erscheinen der Erinnerungen werde es noch einige Zeit dauern. (Die Autobiografie kommt 1923 heraus).",
+      "format": "full_html",
+      "processed": "Am 19. Oktober 1912 meldet das Berliner Tageblatt, Bahr würde nun mit der Niederschrift seiner Memoiren beginnen. Am 14. November wird das Dementi gedruckt, Bahr arbeite zur Zeit am neuen Roman \"Die Räuber\" und einem Lustspiel, bis zum Erscheinen der Erinnerungen werde es noch einige Zeit dauern. (Die Autobiografie kommt 1923 heraus).",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1912-10-19",
+      "end_value": "1912-10-19"
+    },
+    "field_sources": [
+      "Berliner Tageblatt, 41 (1912) #583, Abend-Ausgabe, 3. (14.11.1912)",
+      "Berliner Tageblatt, 41 (1912) #535, Abend-Ausgabe, 2. (19.10.1912)",
+      "Neues Wiener Journal, 20 (1912) #6848, 14. (15.11.1912)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b80f5bf3-bf74-4fe7-85f1-adeb6fc9471e/node_type?resourceVersion=id%3A3489"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b80f5bf3-bf74-4fe7-85f1-adeb6fc9471e/relationships/node_type?resourceVersion=id%3A3489"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b80f5bf3-bf74-4fe7-85f1-adeb6fc9471e/revision_uid?resourceVersion=id%3A3489"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b80f5bf3-bf74-4fe7-85f1-adeb6fc9471e/relationships/revision_uid?resourceVersion=id%3A3489"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b80f5bf3-bf74-4fe7-85f1-adeb6fc9471e/uid?resourceVersion=id%3A3489"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b80f5bf3-bf74-4fe7-85f1-adeb6fc9471e/relationships/uid?resourceVersion=id%3A3489"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b80f5bf3-bf74-4fe7-85f1-adeb6fc9471e/field_event_type?resourceVersion=id%3A3489"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b80f5bf3-bf74-4fe7-85f1-adeb6fc9471e/relationships/field_event_type?resourceVersion=id%3A3489"
+        }
+      }
+    }
+  }
+}

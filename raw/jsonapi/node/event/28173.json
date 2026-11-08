@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "e7561270-39da-4db3-8bac-70c7903e80c0",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/e7561270-39da-4db3-8bac-70c7903e80c0?resourceVersion=id%3A2482"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/e7561270-39da-4db3-8bac-70c7903e80c0?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28173,
+    "drupal_internal__vid": 2482,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Die neue Dichterjugend, Absage",
+    "created": "2010-09-01T15:15:34+00:00",
+    "changed": "2011-10-17T10:27:42+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28173",
+      "pid": 319,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Der für 29. Jänner 1918 in Wien angesetzte Vortrag \"Die Dichterjugend\" muss \"auf ärztlichen Rat wegen eines Gichtanfalles abgesagt\" werden.",
+      "format": "full_html",
+      "processed": "Der für 29. Jänner 1918 in Wien angesetzte Vortrag \"Die Dichterjugend\" muss \"auf ärztlichen Rat wegen eines Gichtanfalles abgesagt\" werden.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1918-01-29",
+      "end_value": "1918-01-29"
+    },
+    "field_sources": [
+      "Wiener Abendpost, 1918 #22, 5 (28.1.1918)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e7561270-39da-4db3-8bac-70c7903e80c0/node_type?resourceVersion=id%3A2482"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e7561270-39da-4db3-8bac-70c7903e80c0/relationships/node_type?resourceVersion=id%3A2482"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e7561270-39da-4db3-8bac-70c7903e80c0/revision_uid?resourceVersion=id%3A2482"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e7561270-39da-4db3-8bac-70c7903e80c0/relationships/revision_uid?resourceVersion=id%3A2482"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e7561270-39da-4db3-8bac-70c7903e80c0/uid?resourceVersion=id%3A2482"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e7561270-39da-4db3-8bac-70c7903e80c0/relationships/uid?resourceVersion=id%3A2482"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e7561270-39da-4db3-8bac-70c7903e80c0/field_event_type?resourceVersion=id%3A2482"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e7561270-39da-4db3-8bac-70c7903e80c0/relationships/field_event_type?resourceVersion=id%3A2482"
+        }
+      }
+    }
+  }
+}

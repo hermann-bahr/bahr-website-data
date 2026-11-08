@@ -1,0 +1,36 @@
+{
+  "type": "file--file",
+  "id": "814c8fbf-1799-4f87-970b-8d6ceb3c7f0a",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/file/file/814c8fbf-1799-4f87-970b-8d6ceb3c7f0a"
+    }
+  },
+  "attributes": {
+    "drupal_internal__fid": 202,
+    "langcode": "de",
+    "filename": "1900_steckbrief.jpg",
+    "uri": {
+      "value": "public://bahr_bilder/1900_steckbrief.jpg",
+      "url": "/sites/default/files/bahr_bilder/1900_steckbrief.jpg"
+    },
+    "filemime": "image/jpeg",
+    "filesize": 72813,
+    "status": true,
+    "created": "2020-02-18T15:00:35+00:00",
+    "changed": "2020-02-18T15:11:43+00:00"
+  },
+  "relationships": {
+    "uid": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/file/file/814c8fbf-1799-4f87-970b-8d6ceb3c7f0a/uid"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/file/file/814c8fbf-1799-4f87-970b-8d6ceb3c7f0a/relationships/uid"
+        }
+      }
+    }
+  }
+}

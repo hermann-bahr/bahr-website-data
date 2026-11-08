@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "08604c0e-11c0-47ad-9a9e-0a4db9014a5c",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/08604c0e-11c0-47ad-9a9e-0a4db9014a5c?resourceVersion=id%3A3380"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/08604c0e-11c0-47ad-9a9e-0a4db9014a5c?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49547,
+    "drupal_internal__vid": 3380,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "JR",
+    "created": "2011-10-28T14:03:51+00:00",
+    "changed": "2011-10-28T14:03:51+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49547",
+      "pid": 1364,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 7. und 8. September 1924 besucht Redlich Bahr am Attersee.",
+      "format": "full_html",
+      "processed": "Am 7. und 8. September 1924 besucht Redlich Bahr am Attersee.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1924-09-07",
+      "end_value": "1924-09-08"
+    },
+    "field_sources": [
+      "Bahr/Redlich, 530-531."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/08604c0e-11c0-47ad-9a9e-0a4db9014a5c/node_type?resourceVersion=id%3A3380"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/08604c0e-11c0-47ad-9a9e-0a4db9014a5c/relationships/node_type?resourceVersion=id%3A3380"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/08604c0e-11c0-47ad-9a9e-0a4db9014a5c/revision_uid?resourceVersion=id%3A3380"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/08604c0e-11c0-47ad-9a9e-0a4db9014a5c/relationships/revision_uid?resourceVersion=id%3A3380"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/08604c0e-11c0-47ad-9a9e-0a4db9014a5c/uid?resourceVersion=id%3A3380"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/08604c0e-11c0-47ad-9a9e-0a4db9014a5c/relationships/uid?resourceVersion=id%3A3380"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/08604c0e-11c0-47ad-9a9e-0a4db9014a5c/field_event_type?resourceVersion=id%3A3380"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/08604c0e-11c0-47ad-9a9e-0a4db9014a5c/relationships/field_event_type?resourceVersion=id%3A3380"
+        }
+      }
+    }
+  }
+}

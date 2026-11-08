@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "58aaf970-fe93-45c7-aa6d-5b0cec943ad3",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/58aaf970-fe93-45c7-aa6d-5b0cec943ad3?resourceVersion=id%3A3615"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/58aaf970-fe93-45c7-aa6d-5b0cec943ad3?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 64225,
+    "drupal_internal__vid": 3615,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "AS",
+    "created": "2012-05-23T10:21:58+00:00",
+    "changed": "2012-05-23T10:21:58+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/64225",
+      "pid": 1658,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 23. Jänner 1901 verbringt Schnitzler den Vormittag bei Bahr.",
+      "format": "full_html",
+      "processed": "Am 23. Jänner 1901 verbringt Schnitzler den Vormittag bei Bahr.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1901-01-23",
+      "end_value": "1901-01-23"
+    },
+    "field_sources": [
+      "Schnitzler: Tagebücher, II, 346."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/58aaf970-fe93-45c7-aa6d-5b0cec943ad3/node_type?resourceVersion=id%3A3615"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/58aaf970-fe93-45c7-aa6d-5b0cec943ad3/relationships/node_type?resourceVersion=id%3A3615"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/58aaf970-fe93-45c7-aa6d-5b0cec943ad3/revision_uid?resourceVersion=id%3A3615"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/58aaf970-fe93-45c7-aa6d-5b0cec943ad3/relationships/revision_uid?resourceVersion=id%3A3615"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/58aaf970-fe93-45c7-aa6d-5b0cec943ad3/uid?resourceVersion=id%3A3615"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/58aaf970-fe93-45c7-aa6d-5b0cec943ad3/relationships/uid?resourceVersion=id%3A3615"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/58aaf970-fe93-45c7-aa6d-5b0cec943ad3/field_event_type?resourceVersion=id%3A3615"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/58aaf970-fe93-45c7-aa6d-5b0cec943ad3/relationships/field_event_type?resourceVersion=id%3A3615"
+        }
+      }
+    }
+  }
+}

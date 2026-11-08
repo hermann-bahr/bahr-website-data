@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "df396e49-0925-4960-b0f0-58c63ad4fcf4",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/df396e49-0925-4960-b0f0-58c63ad4fcf4?resourceVersion=id%3A3077"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/df396e49-0925-4960-b0f0-58c63ad4fcf4?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44161,
+    "drupal_internal__vid": 3077,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Pötzl",
+    "created": "2011-09-15T10:17:16+00:00",
+    "changed": "2011-09-15T10:17:16+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44161",
+      "pid": 1056,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Die latenten Animositäten zwischen Eduard Pötzl, Feuilletonchef beim Neuen Wiener Tagblatt, und Bahr dürften im Herbst 1905 zugenommen haben. Am 10. September erfährt er das Gerücht, Pötzl habe sich mit dem Verwaltungsrat gegen ihn verschworen. Am 9. November will ihn der Herausgeber Singer vergeblich überzeugen, sich mit Pötzl zu versöhnen.",
+      "format": "full_html",
+      "processed": "Die latenten Animositäten zwischen Eduard Pötzl, Feuilletonchef beim Neuen Wiener Tagblatt, und Bahr dürften im Herbst 1905 zugenommen haben. Am 10. September erfährt er das Gerücht, Pötzl habe sich mit dem Verwaltungsrat gegen ihn verschworen. Am 9. November will ihn der Herausgeber Singer vergeblich überzeugen, sich mit Pötzl zu versöhnen.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1905-11-09",
+      "end_value": "1905-11-09"
+    },
+    "field_sources": [
+      "Tagebücher (Csàky), IV, 428 und 434."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/df396e49-0925-4960-b0f0-58c63ad4fcf4/node_type?resourceVersion=id%3A3077"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/df396e49-0925-4960-b0f0-58c63ad4fcf4/relationships/node_type?resourceVersion=id%3A3077"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/df396e49-0925-4960-b0f0-58c63ad4fcf4/revision_uid?resourceVersion=id%3A3077"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/df396e49-0925-4960-b0f0-58c63ad4fcf4/relationships/revision_uid?resourceVersion=id%3A3077"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/df396e49-0925-4960-b0f0-58c63ad4fcf4/uid?resourceVersion=id%3A3077"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/df396e49-0925-4960-b0f0-58c63ad4fcf4/relationships/uid?resourceVersion=id%3A3077"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "d579e54c-64dd-4193-a9ef-da87efb3ed16",
+          "meta": {
+            "drupal_internal__target_id": 8
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/df396e49-0925-4960-b0f0-58c63ad4fcf4/field_event_type?resourceVersion=id%3A3077"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/df396e49-0925-4960-b0f0-58c63ad4fcf4/relationships/field_event_type?resourceVersion=id%3A3077"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "1bfdb3f4-049e-4e77-a485-43b9143b901f",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/1bfdb3f4-049e-4e77-a485-43b9143b901f?resourceVersion=id%3A2405"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/1bfdb3f4-049e-4e77-a485-43b9143b901f?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28078,
+    "drupal_internal__vid": 2405,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Die Kinder",
+    "created": "2010-08-09T09:42:15+00:00",
+    "changed": "2011-12-14T11:49:42+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28078",
+      "pid": 239,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahrs Erfolg mit dem \"Konzert\" führt dazu, dass sein nächstes Stück als Ereignis begangen wird: Am 23. Dezember 1910 kommt es zu simultanen Uraufführungen im Leipziger Schauspielhaus, in Frankfurt am Main, München, Dresden, Chemnitz, Prag (als \"Děti\"), Amsterdam und Rotterdam. Die Buchausgabe bei S. Fischer erreicht im Jahr des Erscheinens, 1911, drei Auflagen.\r\n\r\nDer Inhalt: Die Heiratsabsichten eines Paares werden durchkreuzt, weil sich der eine Vater des Bräutigams als unehelicher Vater der Tochter bekennen muss. Gelöst wird das Problem dadurch, dass der Brautvater gesteht, der eigentliche Zeuger des Sohns zu sein.",
+      "format": "full_html",
+      "processed": "Bahrs Erfolg mit dem \"Konzert\" führt dazu, dass sein nächstes Stück als Ereignis begangen wird: Am 23. Dezember 1910 kommt es zu simultanen Uraufführungen im Leipziger Schauspielhaus, in Frankfurt am Main, München, Dresden, Chemnitz, Prag (als \"Děti\"), Amsterdam und Rotterdam. Die Buchausgabe bei S. Fischer erreicht im Jahr des Erscheinens, 1911, drei Auflagen.\n\nDer Inhalt: Die Heiratsabsichten eines Paares werden durchkreuzt, weil sich der eine Vater des Bräutigams als unehelicher Vater der Tochter bekennen muss. Gelöst wird das Problem dadurch, dass der Brautvater gesteht, der eigentliche Zeuger des Sohns zu sein.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1910-12-23",
+      "end_value": "1910-12-23"
+    },
+    "field_sources": [
+      "Hermann Bahr: Die Kinder. Komödie. Berlin: S. Fischer, 1911."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1bfdb3f4-049e-4e77-a485-43b9143b901f/node_type?resourceVersion=id%3A2405"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1bfdb3f4-049e-4e77-a485-43b9143b901f/relationships/node_type?resourceVersion=id%3A2405"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1bfdb3f4-049e-4e77-a485-43b9143b901f/revision_uid?resourceVersion=id%3A2405"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1bfdb3f4-049e-4e77-a485-43b9143b901f/relationships/revision_uid?resourceVersion=id%3A2405"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1bfdb3f4-049e-4e77-a485-43b9143b901f/uid?resourceVersion=id%3A2405"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1bfdb3f4-049e-4e77-a485-43b9143b901f/relationships/uid?resourceVersion=id%3A2405"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "27f3d2a4-8970-4726-9ab8-ce37707ec1bc",
+          "meta": {
+            "drupal_internal__target_id": 1
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1bfdb3f4-049e-4e77-a485-43b9143b901f/field_event_type?resourceVersion=id%3A2405"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1bfdb3f4-049e-4e77-a485-43b9143b901f/relationships/field_event_type?resourceVersion=id%3A2405"
+        }
+      }
+    }
+  }
+}

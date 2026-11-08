@@ -1,0 +1,36 @@
+{
+  "type": "file--file",
+  "id": "87f2b8ee-29bb-4e28-8a2c-1960e5fb9bb5",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/file/file/87f2b8ee-29bb-4e28-8a2c-1960e5fb9bb5"
+    }
+  },
+  "attributes": {
+    "drupal_internal__fid": 181,
+    "langcode": "de",
+    "filename": "1907_bahr_schminke.jpg",
+    "uri": {
+      "value": "public://bahr_bilder/1907_bahr_schminke.jpg",
+      "url": "/sites/default/files/bahr_bilder/1907_bahr_schminke.jpg"
+    },
+    "filemime": "image/jpeg",
+    "filesize": 243397,
+    "status": true,
+    "created": "2020-02-18T15:00:35+00:00",
+    "changed": "2020-02-18T15:11:43+00:00"
+  },
+  "relationships": {
+    "uid": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/file/file/87f2b8ee-29bb-4e28-8a2c-1960e5fb9bb5/uid"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/file/file/87f2b8ee-29bb-4e28-8a2c-1960e5fb9bb5/relationships/uid"
+        }
+      }
+    }
+  }
+}

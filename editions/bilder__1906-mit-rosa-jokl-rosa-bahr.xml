@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bilder__1906-mit-rosa-jokl-rosa-bahr" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">1906 Mit Rosa Jokl / Rosa Bahr</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">38876</idno>
+        <idno type="drupal-alias">/bild/38876</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bild/38876">https://bahr.univie.ac.at/bild/38876</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="7" key="bilder">Bilder</term>
+          <term n="17" key="1906-mit-rosa-jokl-rosa-bahr" type="eintrag">1906 Mit Rosa Jokl / Rosa Bahr</term>
+        </keywords>
+        <classCode scheme="drupal-type">image</classCode>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2011-02-21T17:19:07+00:00" type="created">angelegt in Drupal</change>
+      <change when="2011-03-02T10:51:32+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <figure>
+          <graphic url="files/bahr_bilder/1906_rosa-jokl.jpg"/>
+          <figDesc>1906 Mit Rosa Jokl / Rosa Bahr</figDesc>
+        </figure>
+        <p>
+          <hi rend="italic">Berliner Illustrierte Zeitung, 1906, #253</hi>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

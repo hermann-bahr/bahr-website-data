@@ -1,0 +1,109 @@
+{
+  "type": "node--bibliographie",
+  "id": "e43c7611-c055-417c-bbb4-0f63a73b0210",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/e43c7611-c055-417c-bbb4-0f63a73b0210?resourceVersion=id%3A3850"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/e43c7611-c055-417c-bbb4-0f63a73b0210?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38724,
+    "drupal_internal__vid": 3850,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:44:00+00:00",
+    "status": true,
+    "title": "Der Augenblick Österreichs (1918)",
+    "created": "2011-01-19T11:01:15+00:00",
+    "changed": "2012-01-25T16:18:51+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/bibliografie/38724",
+      "pid": 473,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<h3 id=\"bib\">Bibliografie</h3>\r\n<table class=\"bibliografie\">\r\n<tr><td>Autor:</td><td>Hermann Bahr</td></tr>\r\n<tr><td>Titel:</td><td>Der Augenblick Österreichs</td></tr>\r\n\r\n<tr><td>Ort:</td><td>München-Gladbach</td></tr>\r\n<tr><td>Verlag:</td><td>Volksvereins-Druckerei</td></tr>\r\n<tr><td>Reihe:</td><td>Der Weltkrieg, 77</td></tr>\r\n<tr><td>Jahr:</td><td>1918</td></tr>\r\n<tr><td>Seiten:</td><td>16</td></tr></table><h3 id=\"erstdrucke\">Erstdrucke</h3>\r\n\r\n<ol><li>Der Augenblick Österreichs. I. Neues Wiener Journal, 24 (1916) #8227, 6-7. (24.9.1916)</li>\r\n<li>Der Augenblick Österreichs. II. Neues Wiener Journal, 24 (1916) #8231, 5-6. (28.9.1916) </li>\r\n<li>Der Augenblick Österreichs. III. Neues Wiener Journal, 24 (1916) #8234, 6-7. (1.10.1916)</li>\r\n</ol>\r\n<small>Alle Texte verifziert, April 2011</small>\r\n\r\n<h3 id=\"digit\">Digitalisate</h3>\r\n\r\n<a href=\"http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&aid=88\">Anno</a>",
+      "format": "full_html",
+      "processed": "<h3 id=\"bib\">Bibliografie</h3>\n<table class=\"bibliografie\">\n<tr><td>Autor:</td><td>Hermann Bahr</td></tr>\n<tr><td>Titel:</td><td>Der Augenblick Österreichs</td></tr>\n\n<tr><td>Ort:</td><td>München-Gladbach</td></tr>\n<tr><td>Verlag:</td><td>Volksvereins-Druckerei</td></tr>\n<tr><td>Reihe:</td><td>Der Weltkrieg, 77</td></tr>\n<tr><td>Jahr:</td><td>1918</td></tr>\n<tr><td>Seiten:</td><td>16</td></tr></table><h3 id=\"erstdrucke\">Erstdrucke</h3>\n\n<ol><li>Der Augenblick Österreichs. I. Neues Wiener Journal, 24 (1916) #8227, 6-7. (24.9.1916)</li>\n<li>Der Augenblick Österreichs. II. Neues Wiener Journal, 24 (1916) #8231, 5-6. (28.9.1916) </li>\n<li>Der Augenblick Österreichs. III. Neues Wiener Journal, 24 (1916) #8234, 6-7. (1.10.1916)</li>\n</ol>\n<small>Alle Texte verifziert, April 2011</small>\n\n<h3 id=\"digit\">Digitalisate</h3>\n\n<a href=\"http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=88\">Anno</a>",
+      "summary": null
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "c4d97a7b-20a3-4a00-9858-72c5abf35af3",
+        "meta": {
+          "drupal_internal__target_id": "bibliographie"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/e43c7611-c055-417c-bbb4-0f63a73b0210/node_type?resourceVersion=id%3A3850"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/e43c7611-c055-417c-bbb4-0f63a73b0210/relationships/node_type?resourceVersion=id%3A3850"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/e43c7611-c055-417c-bbb4-0f63a73b0210/revision_uid?resourceVersion=id%3A3850"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/e43c7611-c055-417c-bbb4-0f63a73b0210/relationships/revision_uid?resourceVersion=id%3A3850"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/e43c7611-c055-417c-bbb4-0f63a73b0210/uid?resourceVersion=id%3A3850"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/e43c7611-c055-417c-bbb4-0f63a73b0210/relationships/uid?resourceVersion=id%3A3850"
+        }
+      }
+    },
+    "field_bibliographie_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--bibliografie_type",
+          "id": "7918c4ca-8976-4b38-be44-298fcc23a3ab",
+          "meta": {
+            "drupal_internal__target_id": 10
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/e43c7611-c055-417c-bbb4-0f63a73b0210/field_bibliographie_type?resourceVersion=id%3A3850"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/e43c7611-c055-417c-bbb4-0f63a73b0210/relationships/field_bibliographie_type?resourceVersion=id%3A3850"
+        }
+      }
+    }
+  }
+}

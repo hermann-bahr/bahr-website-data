@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "dd518796-6f79-4950-8af5-597b7281a909",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/dd518796-6f79-4950-8af5-597b7281a909?resourceVersion=id%3A2913"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/dd518796-6f79-4950-8af5-597b7281a909?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39155,
+    "drupal_internal__vid": 2913,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Film",
+    "created": "2011-07-11T11:26:43+00:00",
+    "changed": "2011-07-11T11:26:43+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39155",
+      "pid": 883,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Geldsorgen führen Bahr dazu, dass er seinem Theaterverlag Ahn & Simrock sich zu bemühen bittet, ob sich die Rechte an einer Verfilmung von \"Der Meister\" und \"Der Querulant\" nicht ebenso wie sein \"Konzert\" verkaufen ließen. Das Sache solle mit Diskretion gehandhabt werden.",
+      "format": "full_html",
+      "processed": "Geldsorgen führen Bahr dazu, dass er seinem Theaterverlag Ahn &amp; Simrock sich zu bemühen bittet, ob sich die Rechte an einer Verfilmung von \"Der Meister\" und \"Der Querulant\" nicht ebenso wie sein \"Konzert\" verkaufen ließen. Das Sache solle mit Diskretion gehandhabt werden.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1931-01-01",
+      "end_value": "1931-01-01"
+    },
+    "field_sources": [
+      "Briefe von Ahn & Simrock aus dem Jahr 1931, Nachlass Kiste HMBa51"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/dd518796-6f79-4950-8af5-597b7281a909/node_type?resourceVersion=id%3A2913"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/dd518796-6f79-4950-8af5-597b7281a909/relationships/node_type?resourceVersion=id%3A2913"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/dd518796-6f79-4950-8af5-597b7281a909/revision_uid?resourceVersion=id%3A2913"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/dd518796-6f79-4950-8af5-597b7281a909/relationships/revision_uid?resourceVersion=id%3A2913"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/dd518796-6f79-4950-8af5-597b7281a909/uid?resourceVersion=id%3A2913"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/dd518796-6f79-4950-8af5-597b7281a909/relationships/uid?resourceVersion=id%3A2913"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/dd518796-6f79-4950-8af5-597b7281a909/field_event_type?resourceVersion=id%3A2913"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/dd518796-6f79-4950-8af5-597b7281a909/relationships/field_event_type?resourceVersion=id%3A2913"
+        }
+      }
+    }
+  }
+}

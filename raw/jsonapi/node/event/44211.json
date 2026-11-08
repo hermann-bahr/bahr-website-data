@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "9bc405ac-b7c2-4314-9d28-36303c3e1bfa",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/9bc405ac-b7c2-4314-9d28-36303c3e1bfa?resourceVersion=id%3A3125"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/9bc405ac-b7c2-4314-9d28-36303c3e1bfa?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44211,
+    "drupal_internal__vid": 3125,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "AS",
+    "created": "2011-09-22T10:10:50+00:00",
+    "changed": "2011-09-22T10:11:27+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44211",
+      "pid": 1104,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Nachdem Bahr schon am 27. Jänner 1895 Schnitzler angerufen hat, und sie auch am 28. in der früh telefonierten, sehen sie sich am 28. am Nachmittag, Bahr vermittelt weiter für Adele Sandrock.",
+      "format": "full_html",
+      "processed": "Nachdem Bahr schon am 27. Jänner 1895 Schnitzler angerufen hat, und sie auch am 28. in der früh telefonierten, sehen sie sich am 28. am Nachmittag, Bahr vermittelt weiter für Adele Sandrock.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1895-01-28",
+      "end_value": "1895-01-28"
+    },
+    "field_sources": [
+      "Schnitzler: Tagebuch, II, 117."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9bc405ac-b7c2-4314-9d28-36303c3e1bfa/node_type?resourceVersion=id%3A3125"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9bc405ac-b7c2-4314-9d28-36303c3e1bfa/relationships/node_type?resourceVersion=id%3A3125"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9bc405ac-b7c2-4314-9d28-36303c3e1bfa/revision_uid?resourceVersion=id%3A3125"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9bc405ac-b7c2-4314-9d28-36303c3e1bfa/relationships/revision_uid?resourceVersion=id%3A3125"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9bc405ac-b7c2-4314-9d28-36303c3e1bfa/uid?resourceVersion=id%3A3125"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9bc405ac-b7c2-4314-9d28-36303c3e1bfa/relationships/uid?resourceVersion=id%3A3125"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9bc405ac-b7c2-4314-9d28-36303c3e1bfa/field_event_type?resourceVersion=id%3A3125"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9bc405ac-b7c2-4314-9d28-36303c3e1bfa/relationships/field_event_type?resourceVersion=id%3A3125"
+        }
+      }
+    }
+  }
+}

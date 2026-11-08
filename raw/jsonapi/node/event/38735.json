@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "a6c7218a-916a-40b2-a557-caf6acc9eac3",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/a6c7218a-916a-40b2-a557-caf6acc9eac3?resourceVersion=id%3A2567"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/a6c7218a-916a-40b2-a557-caf6acc9eac3?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38735,
+    "drupal_internal__vid": 2567,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Jena",
+    "created": "2011-01-19T17:40:39+00:00",
+    "changed": "2011-11-16T11:38:52+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38735",
+      "pid": 484,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Ende Juli 1883 ist Bahr (als Vertreter seiner Burschenschaft Albia) nach Jena gereist, wo er an dem vom 1. bis zum 2. August stattfindenden \"Deutschen Fest\" und der Enthüllung des \"Burschenschafter-Denkmals\" teilnahm. Einen wenig inspirierten Bericht schreibt er für das Linzer Sonntagsblatt.",
+      "format": "full_html",
+      "processed": "Ende Juli 1883 ist Bahr (als Vertreter seiner Burschenschaft Albia) nach Jena gereist, wo er an dem vom 1. bis zum 2. August stattfindenden \"Deutschen Fest\" und der Enthüllung des \"Burschenschafter-Denkmals\" teilnahm. Einen wenig inspirierten Bericht schreibt er für das Linzer Sonntagsblatt.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1883-08-01",
+      "end_value": "1883-08-02"
+    },
+    "field_sources": [
+      "Briefwechsel mit dem Vater, 25.7.1883.\r\n",
+      "E. H. B.: Ein deutsches Fest. I und II. Linzer Sonntagsblatt, 4 (1883) #35, 2. (26.8.1883) und #36, 2. (2.9.1883)\r\n"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a6c7218a-916a-40b2-a557-caf6acc9eac3/node_type?resourceVersion=id%3A2567"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a6c7218a-916a-40b2-a557-caf6acc9eac3/relationships/node_type?resourceVersion=id%3A2567"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a6c7218a-916a-40b2-a557-caf6acc9eac3/revision_uid?resourceVersion=id%3A2567"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a6c7218a-916a-40b2-a557-caf6acc9eac3/relationships/revision_uid?resourceVersion=id%3A2567"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a6c7218a-916a-40b2-a557-caf6acc9eac3/uid?resourceVersion=id%3A2567"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a6c7218a-916a-40b2-a557-caf6acc9eac3/relationships/uid?resourceVersion=id%3A2567"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a6c7218a-916a-40b2-a557-caf6acc9eac3/field_event_type?resourceVersion=id%3A2567"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a6c7218a-916a-40b2-a557-caf6acc9eac3/relationships/field_event_type?resourceVersion=id%3A2567"
+        }
+      }
+    }
+  }
+}

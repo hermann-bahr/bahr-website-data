@@ -1,0 +1,86 @@
+{
+  "type": "taxonomy_term--event_type",
+  "id": "27f3d2a4-8970-4726-9ab8-ce37707ec1bc",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/taxonomy_term/event_type/27f3d2a4-8970-4726-9ab8-ce37707ec1bc?resourceVersion=id%3A26"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/taxonomy_term/event_type/27f3d2a4-8970-4726-9ab8-ce37707ec1bc?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__tid": 1,
+    "drupal_internal__revision_id": 26,
+    "langcode": "de",
+    "revision_created": "2020-02-17T11:50:35+00:00",
+    "status": true,
+    "name": "Theater",
+    "description": null,
+    "weight": 0,
+    "changed": "2020-02-17T11:50:35+00:00",
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/event-type/theater",
+      "pid": 1883,
+      "langcode": "de"
+    }
+  },
+  "relationships": {
+    "vid": {
+      "data": {
+        "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+        "id": "8ca0f14a-d915-460d-a2e6-7c4132a5858d",
+        "meta": {
+          "drupal_internal__target_id": "event_type"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/taxonomy_term/event_type/27f3d2a4-8970-4726-9ab8-ce37707ec1bc/vid?resourceVersion=id%3A26"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/taxonomy_term/event_type/27f3d2a4-8970-4726-9ab8-ce37707ec1bc/relationships/vid?resourceVersion=id%3A26"
+        }
+      }
+    },
+    "revision_user": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/taxonomy_term/event_type/27f3d2a4-8970-4726-9ab8-ce37707ec1bc/revision_user?resourceVersion=id%3A26"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/taxonomy_term/event_type/27f3d2a4-8970-4726-9ab8-ce37707ec1bc/relationships/revision_user?resourceVersion=id%3A26"
+        }
+      }
+    },
+    "parent": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "virtual",
+          "meta": {
+            "links": {
+              "help": {
+                "href": "https://www.drupal.org/docs/8/modules/json-api/core-concepts#virtual",
+                "meta": {
+                  "about": "Usage and meaning of the 'virtual' resource identifier."
+                }
+              }
+            }
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/taxonomy_term/event_type/27f3d2a4-8970-4726-9ab8-ce37707ec1bc/parent?resourceVersion=id%3A26"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/taxonomy_term/event_type/27f3d2a4-8970-4726-9ab8-ce37707ec1bc/relationships/parent?resourceVersion=id%3A26"
+        }
+      }
+    }
+  }
+}

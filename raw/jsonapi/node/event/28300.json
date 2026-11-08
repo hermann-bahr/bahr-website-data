@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "15270964-93b9-4c7d-8035-4bf951bfe895",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/15270964-93b9-4c7d-8035-4bf951bfe895?resourceVersion=id%3A2548"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/15270964-93b9-4c7d-8035-4bf951bfe895?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28300,
+    "drupal_internal__vid": 2548,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Kaltenleutgeben",
+    "created": "2010-12-14T13:21:05+00:00",
+    "changed": "2011-11-21T10:30:59+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28300",
+      "pid": 430,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahr verbringt von dem 9. September 1892 zusammen mit Adalbert von Goldschmidt zwei Erholungswochen in Kaltenleutgeben. Seinem Vater schreibt er, er sei hierher gefahren <blockquote>meine Nerven auszubaden, refaire ma virginité, wie man in Paris sagt; dabei bin ich in 45 Minuten in Wien, wenn ich was zu besprechen habe, und es ist Telephon.</blockquote> Am 23. fährt er retour.",
+      "format": "full_html",
+      "processed": "Bahr verbringt von dem 9. September 1892 zusammen mit Adalbert von Goldschmidt zwei Erholungswochen in Kaltenleutgeben. Seinem Vater schreibt er, er sei hierher gefahren <blockquote>meine Nerven auszubaden, refaire ma virginité, wie man in Paris sagt; dabei bin ich in 45 Minuten in Wien, wenn ich was zu besprechen habe, und es ist Telephon.</blockquote> Am 23. fährt er retour.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1892-09-09",
+      "end_value": "1892-09-23"
+    },
+    "field_sources": [
+      "Briefwechsel mit dem Vater, 327-328. [11. September 1892)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/15270964-93b9-4c7d-8035-4bf951bfe895/node_type?resourceVersion=id%3A2548"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/15270964-93b9-4c7d-8035-4bf951bfe895/relationships/node_type?resourceVersion=id%3A2548"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/15270964-93b9-4c7d-8035-4bf951bfe895/revision_uid?resourceVersion=id%3A2548"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/15270964-93b9-4c7d-8035-4bf951bfe895/relationships/revision_uid?resourceVersion=id%3A2548"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/15270964-93b9-4c7d-8035-4bf951bfe895/uid?resourceVersion=id%3A2548"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/15270964-93b9-4c7d-8035-4bf951bfe895/relationships/uid?resourceVersion=id%3A2548"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/15270964-93b9-4c7d-8035-4bf951bfe895/field_event_type?resourceVersion=id%3A2548"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/15270964-93b9-4c7d-8035-4bf951bfe895/relationships/field_event_type?resourceVersion=id%3A2548"
+        }
+      }
+    }
+  }
+}

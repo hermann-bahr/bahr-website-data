@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "4ed20bc2-3c05-44ec-b70b-a409f8fbada7",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/4ed20bc2-3c05-44ec-b70b-a409f8fbada7?resourceVersion=id%3A3189"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/4ed20bc2-3c05-44ec-b70b-a409f8fbada7?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49342,
+    "drupal_internal__vid": 3189,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "\"Der Querulant\" fertig",
+    "created": "2011-10-11T10:19:24+00:00",
+    "changed": "2012-11-12T15:26:31+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49342",
+      "pid": 1168,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 30. April 1914 kann Bahr Redlich berichten, dass \"Der Querulant\" fertiggestellt sei. Am 2. Mai erfährt's die Öffentlichkeit.",
+      "format": "full_html",
+      "processed": "Am 30. April 1914 kann Bahr Redlich berichten, dass \"Der Querulant\" fertiggestellt sei. Am 2. Mai erfährt's die Öffentlichkeit.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1914-04-30",
+      "end_value": "1914-04-30"
+    },
+    "field_sources": [
+      "Bahr/Redlich, 96.",
+      "Berliner Tageblatt, 43 (1914) #221, Abend-Ausgabe für Berlin u. Umgebung, 2.",
+      "Salzburger Volksblatt, 44 (1914) #101, 8. (6.5.1914)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4ed20bc2-3c05-44ec-b70b-a409f8fbada7/node_type?resourceVersion=id%3A3189"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4ed20bc2-3c05-44ec-b70b-a409f8fbada7/relationships/node_type?resourceVersion=id%3A3189"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4ed20bc2-3c05-44ec-b70b-a409f8fbada7/revision_uid?resourceVersion=id%3A3189"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4ed20bc2-3c05-44ec-b70b-a409f8fbada7/relationships/revision_uid?resourceVersion=id%3A3189"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4ed20bc2-3c05-44ec-b70b-a409f8fbada7/uid?resourceVersion=id%3A3189"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4ed20bc2-3c05-44ec-b70b-a409f8fbada7/relationships/uid?resourceVersion=id%3A3189"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4ed20bc2-3c05-44ec-b70b-a409f8fbada7/field_event_type?resourceVersion=id%3A3189"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4ed20bc2-3c05-44ec-b70b-a409f8fbada7/relationships/field_event_type?resourceVersion=id%3A3189"
+        }
+      }
+    }
+  }
+}

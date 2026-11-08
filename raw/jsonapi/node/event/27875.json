@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "0ab3f7d3-ac10-41a2-adae-2e5eba017760",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/0ab3f7d3-ac10-41a2-adae-2e5eba017760?resourceVersion=id%3A2227"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/0ab3f7d3-ac10-41a2-adae-2e5eba017760?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27875,
+    "drupal_internal__vid": 2227,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Heirat mit Rosa Jokl",
+    "created": "2010-06-21T14:04:32+00:00",
+    "changed": "2012-12-07T11:47:32+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/27875",
+      "pid": 60,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 5. Mai 1895 Zivilehe mit Rosa Jokl, in Wien[1]. Da sie Jüdin war, trat Bahr aus der katholischen Kirche aus und wird als \"O. B.\", ohne Bekenntnis geführt. Rosa Jokl selbst trat in Vorbereitung der Hochzeit 1895 aus der IKG (Isrealischen Kultusgemeinde) aus. In der Austrittsmeldung[2] wird sie als Rosalia Jokl, Schauspielerin, geführt, geboren 1872 in Prag, Alter 23. (Traditionell wird in der Bahr-Forschung ihr Geburtsjahr mit 1871 angeführt.) - Trauzeugen waren Adalbert von Goldschmidt und Dr. Heinrich Müller, Advokat.[3]\r\nÜber die Ehe ist bislang wenig bekannt, doch dürfte sie durch Gastspiele zu längeren Aufenthalten fern von Wien gezwungen gewesen sein. Bahr erwirkt die Scheidung 1909 um Anna Mildenburg heiraten zu können, doch fand die Trennung bereits um 1900, wenngleich unterbrochen von Annäherungsphasen, statt. \r\n",
+      "format": "full_html",
+      "processed": "Am 5. Mai 1895 Zivilehe mit Rosa Jokl, in Wien[1]. Da sie Jüdin war, trat Bahr aus der katholischen Kirche aus und wird als \"O. B.\", ohne Bekenntnis geführt. Rosa Jokl selbst trat in Vorbereitung der Hochzeit 1895 aus der IKG (Isrealischen Kultusgemeinde) aus. In der Austrittsmeldung[2] wird sie als Rosalia Jokl, Schauspielerin, geführt, geboren 1872 in Prag, Alter 23. (Traditionell wird in der Bahr-Forschung ihr Geburtsjahr mit 1871 angeführt.) - Trauzeugen waren Adalbert von Goldschmidt und Dr. Heinrich Müller, Advokat.[3]\nÜber die Ehe ist bislang wenig bekannt, doch dürfte sie durch Gastspiele zu längeren Aufenthalten fern von Wien gezwungen gewesen sein. Bahr erwirkt die Scheidung 1909 um Anna Mildenburg heiraten zu können, doch fand die Trennung bereits um 1900, wenngleich unterbrochen von Annäherungsphasen, statt. \n",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1895-05-05",
+      "end_value": "1895-05-05"
+    },
+    "field_sources": [
+      "[1] Lfd. Nr. 165, Reihenzahl 1703.",
+      "[2] Lfd. Nr. 15640 IKG 1895/075.",
+      "[3] Ehe-Schein im Nachlass, Kiste 98: Biografisches"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0ab3f7d3-ac10-41a2-adae-2e5eba017760/node_type?resourceVersion=id%3A2227"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0ab3f7d3-ac10-41a2-adae-2e5eba017760/relationships/node_type?resourceVersion=id%3A2227"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0ab3f7d3-ac10-41a2-adae-2e5eba017760/revision_uid?resourceVersion=id%3A2227"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0ab3f7d3-ac10-41a2-adae-2e5eba017760/relationships/revision_uid?resourceVersion=id%3A2227"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0ab3f7d3-ac10-41a2-adae-2e5eba017760/uid?resourceVersion=id%3A2227"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0ab3f7d3-ac10-41a2-adae-2e5eba017760/relationships/uid?resourceVersion=id%3A2227"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0ab3f7d3-ac10-41a2-adae-2e5eba017760/field_event_type?resourceVersion=id%3A2227"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0ab3f7d3-ac10-41a2-adae-2e5eba017760/relationships/field_event_type?resourceVersion=id%3A2227"
+        }
+      }
+    }
+  }
+}

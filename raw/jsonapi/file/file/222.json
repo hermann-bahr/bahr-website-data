@@ -1,0 +1,36 @@
+{
+  "type": "file--file",
+  "id": "64dda010-001d-42d9-b75d-0346a3b1369d",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/file/file/64dda010-001d-42d9-b75d-0346a3b1369d"
+    }
+  },
+  "attributes": {
+    "drupal_internal__fid": 222,
+    "langcode": "de",
+    "filename": "1913_bahr-buch.jpg",
+    "uri": {
+      "value": "public://bahr_bilder/1913_bahr-buch.jpg",
+      "url": "/sites/default/files/bahr_bilder/1913_bahr-buch.jpg"
+    },
+    "filemime": "image/jpeg",
+    "filesize": 358845,
+    "status": true,
+    "created": "2020-02-18T15:00:35+00:00",
+    "changed": "2020-02-18T15:11:43+00:00"
+  },
+  "relationships": {
+    "uid": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/file/file/64dda010-001d-42d9-b75d-0346a3b1369d/uid"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/file/file/64dda010-001d-42d9-b75d-0346a3b1369d/relationships/uid"
+        }
+      }
+    }
+  }
+}

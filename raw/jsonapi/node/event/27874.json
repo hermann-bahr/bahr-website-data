@@ -1,0 +1,119 @@
+{
+  "type": "node--event",
+  "id": "e3691f70-4d95-4bcf-ab37-d72cad17f73b",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/e3691f70-4d95-4bcf-ab37-d72cad17f73b?resourceVersion=id%3A2226"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/e3691f70-4d95-4bcf-ab37-d72cad17f73b?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27874,
+    "drupal_internal__vid": 2226,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Russische Reise",
+    "created": "2010-06-21T13:52:08+00:00",
+    "changed": "2011-11-18T16:27:26+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/27874",
+      "pid": 59,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Zusammen mit Lotte Witt und Emanuel Reicher und ihrer Theatertruppe reist Bahr von Berlin aus im März (Ankunft 19.) nach St. Petersburg. Dort sieht er \"die Duse\" zum ersten Mal und schreibt ein euphorisches Feuilleton in der Frankfurter Zeitung. Die Reiseerfahrungen erscheinen gesammelt als \"Russische Reise\", <blockquote>ein russisches Tagebuch, das wol ein bischen verrückt, aber den Feinschmeckern eine Freude werden wird.[1]</blockquote>Auf dem Rückweg bleibt er in Warschau stehen und geht nach Wien, wo er am 26. April ankommt und im Hotel Elisabeth in der Weyburggasse absteigt.\r\n",
+      "format": "full_html",
+      "processed": "Zusammen mit Lotte Witt und Emanuel Reicher und ihrer Theatertruppe reist Bahr von Berlin aus im März (Ankunft 19.) nach St. Petersburg. Dort sieht er \"die Duse\" zum ersten Mal und schreibt ein euphorisches Feuilleton in der Frankfurter Zeitung. Die Reiseerfahrungen erscheinen gesammelt als \"Russische Reise\", <blockquote>ein russisches Tagebuch, das wol ein bischen verrückt, aber den Feinschmeckern eine Freude werden wird.[1]</blockquote>Auf dem Rückweg bleibt er in Warschau stehen und geht nach Wien, wo er am 26. April ankommt und im Hotel Elisabeth in der Weyburggasse absteigt.\n",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1891-03-15",
+      "end_value": "1891-04-26"
+    },
+    "field_sources": [
+      "[1] Brief an den Vater, 6.4.1891",
+      "Hermann Bahr: Russische Reise. Dresden: E. Pierson, 1891.",
+      "Hermann Bahr: Eleonora Duse. Frankfurter Zeitung, 35 (1891) #129, 1. Morgenblatt, 1-2. (9.5.1891) ",
+      "Zur Rückkehr siehe auch: Russische Reise, 181: 26. April, Krakau.\r\n"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e3691f70-4d95-4bcf-ab37-d72cad17f73b/node_type?resourceVersion=id%3A2226"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e3691f70-4d95-4bcf-ab37-d72cad17f73b/relationships/node_type?resourceVersion=id%3A2226"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e3691f70-4d95-4bcf-ab37-d72cad17f73b/revision_uid?resourceVersion=id%3A2226"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e3691f70-4d95-4bcf-ab37-d72cad17f73b/relationships/revision_uid?resourceVersion=id%3A2226"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e3691f70-4d95-4bcf-ab37-d72cad17f73b/uid?resourceVersion=id%3A2226"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e3691f70-4d95-4bcf-ab37-d72cad17f73b/relationships/uid?resourceVersion=id%3A2226"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e3691f70-4d95-4bcf-ab37-d72cad17f73b/field_event_type?resourceVersion=id%3A2226"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e3691f70-4d95-4bcf-ab37-d72cad17f73b/relationships/field_event_type?resourceVersion=id%3A2226"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="leben" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Leben</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">90887</idno>
+        <idno type="drupal-alias">/leben</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/leben">https://bahr.univie.ac.at/leben</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="4" key="leben">Leben</term>
+        </keywords>
+        <classCode scheme="drupal-type">page</classCode>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2020-02-27T15:58:23+00:00" type="created">angelegt in Drupal</change>
+      <change when="2023-11-22T20:42:45+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Eines der Nebenprodukte des Projekts war eine Zeitleiste. Ursprünglich noch als grobe Orientierung gedacht, wurde sie zunehmend Arbeitsgrundlage. Immer mehr Datenpunkte wurden gesetzt, unveröffentlichte Quellen und Hinweise aufgenommen. Zu verantworten hat sie Martin Anton Müller, der dabei auf Informationen von Elsbeth Dangel-Pelloquin, Kurt Ifkovits und Gottfried Schnödl zurückgreifen konnte.</p>
+        <p>Die ursprüngliche Darstellung hat das Serverupdate 2018 nicht überlebt. Die Daten können über <ref target="https://github.com/martinantonmueller/bahr-zeitleiste">Github</ref> (als XML, TEI-P5) bezogen werden.</p>
+      </div>
+      <divGen type="zeitleiste"/>
+    </body>
+  </text>
+</TEI>

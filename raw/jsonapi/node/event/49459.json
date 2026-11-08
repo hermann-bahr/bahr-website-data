@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "0e54e189-41cb-48ee-9ea1-851630ec7eaa",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/0e54e189-41cb-48ee-9ea1-851630ec7eaa?resourceVersion=id%3A3300"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/0e54e189-41cb-48ee-9ea1-851630ec7eaa?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49459,
+    "drupal_internal__vid": 3300,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Menière",
+    "created": "2011-10-20T15:00:18+00:00",
+    "changed": "2011-10-20T15:00:18+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49459",
+      "pid": 1281,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 28. Oktober 1921 erwähnt Bahr, dass er weiterhin ständig von leichteren Anfällen der Menière geplagt wird.",
+      "format": "full_html",
+      "processed": "Am 28. Oktober 1921 erwähnt Bahr, dass er weiterhin ständig von leichteren Anfällen der Menière geplagt wird.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1921-10-28",
+      "end_value": "1921-10-28"
+    },
+    "field_sources": [
+      "Bahr/Redlich, 463."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0e54e189-41cb-48ee-9ea1-851630ec7eaa/node_type?resourceVersion=id%3A3300"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0e54e189-41cb-48ee-9ea1-851630ec7eaa/relationships/node_type?resourceVersion=id%3A3300"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0e54e189-41cb-48ee-9ea1-851630ec7eaa/revision_uid?resourceVersion=id%3A3300"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0e54e189-41cb-48ee-9ea1-851630ec7eaa/relationships/revision_uid?resourceVersion=id%3A3300"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0e54e189-41cb-48ee-9ea1-851630ec7eaa/uid?resourceVersion=id%3A3300"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0e54e189-41cb-48ee-9ea1-851630ec7eaa/relationships/uid?resourceVersion=id%3A3300"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0e54e189-41cb-48ee-9ea1-851630ec7eaa/field_event_type?resourceVersion=id%3A3300"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0e54e189-41cb-48ee-9ea1-851630ec7eaa/relationships/field_event_type?resourceVersion=id%3A3300"
+        }
+      }
+    }
+  }
+}

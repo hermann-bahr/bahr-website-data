@@ -1,0 +1,804 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bibliografie__schriften-zum-theater__wiener-theater" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Wiener Theater</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">39094</idno>
+        <idno type="drupal-alias">/bibliografie/39094</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bibliografie/39094">https://bahr.univie.ac.at/bibliografie/39094</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+        <bibl type="beschriebene-ausgabe">
+          <author>Hermann Bahr</author>
+          <title type="main">Wiener Theater</title>
+          <title type="sub">(1892-1898)</title>
+          <pubPlace>Berlin</pubPlace>
+          <publisher>S. Fischer</publisher>
+          <date>1899</date>
+          <extent>509</extent>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="1" key="bibliografie">Bibliografie</term>
+          <term n="5" key="schriften-zum-theater">Schriften zum Theater</term>
+          <term n="10" key="wiener-theater" type="eintrag">Wiener Theater</term>
+        </keywords>
+        <classCode scheme="drupal-type">bibliographie</classCode>
+        <keywords scheme="bibliografie_type">
+          <term>Schriften für das Theater</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2011-05-18T17:23:51+00:00" type="created">angelegt in Drupal</change>
+      <change when="2013-01-30T10:47:36+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="intro">
+        <head>Einleitung</head>
+        <p>Bahrs Leidenschaft für das Theater verbindet ihn mit seinem Vater, mit dem er als Kind und Jugendlicher viele Aufführungen besuchte. Bahrs Entscheidung, 1899 eine Sammlung mit den zeitbezogenen Theaterkritiken für die Buchform zusammenzustellen, verbindet ihn mit den langen Ahnen der Theaterkritik, die er selbst stets und gerne heranzieht und die ihre Kritiken ebenfalls auf diese Weise sammelten. Im Unterschied zu ihnen liegt jedoch der Wert von Bahrs Weise, über das Theater zu schreiben, darin, dass er sich selbst als Mensch im Kritiker ernst nimmt und die vom Stück und den Aufführungen ausgelösten Empfindungen in ihm dazu verwendet, generell zu sprechen. Während er im Titel "Wiener Theater" eine örtliche Gebundenheit vorgibt, die die späteren Sammelbände nicht mehr haben (den kürzeren Titel "Theater" verwendet er zeitgleich für einen Roman), so ist doch das Fehlen eines Inhaltsverzeichnisses programmatisch: Es will nicht gelesen werden, sondern über den Personenindex als Nachschlagewerk fungieren.</p>
+      </div>
+      <div xml:id="bib">
+        <head>Bibliografie</head>
+        <table type="bibliografie">
+          <row>
+            <cell>Autor:</cell>
+            <cell>Hermann Bahr</cell>
+          </row>
+          <row>
+            <cell>Titel:</cell>
+            <cell>Wiener Theater</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>(1892-1898)</cell>
+          </row>
+          <row>
+            <cell>Ort:</cell>
+            <cell>Berlin</cell>
+          </row>
+          <row>
+            <cell>Verlag:</cell>
+            <cell>S. Fischer</cell>
+          </row>
+          <row>
+            <cell>Jahr:</cell>
+            <cell>1899</cell>
+          </row>
+          <row>
+            <cell>Seiten:</cell>
+            <cell>509</cell>
+          </row>
+        </table>
+      </div>
+      <div xml:id="erstdrucke">
+        <head>Erstdrucke</head>
+        <p>Karl Kraus weist Bahr im Zuge des Gerichtsverfahrens im Frühjahr 1901 nach, dass er Teile der Kritiken über das "Deutsche Volkstheater" weggelassen habe und dieses, da er nun selbst am Volkstheater gespielt werde, deutlich positiver darstelle. Bahrs Antwort (zitiert von Kraus in: Die Fackel, 2 (1901) #69, 38):</p>
+        <quote>Er sei als Kritiker der "Deutschen Zeitung" die Nachtarbeit nicht gewohnt gewesen und habe in nervöser Hast über manchen Schauspieler und Regisseur Worte von einer Heftigkeit gefunden, die ihn schon am nächsten Morgen gereut hätte.</quote>
+        <p>Auf die Frage, warum das auch für Texte der "Zeit" zuträfe, wo Bahr nicht als Nachtkritiker angestellt war, will Kraus keine Antwort bekommen haben. Den Vergleich zwischen Erstdruck und Buchausgabe bringt Kraus in Folge.</p>
+        <table>
+          <row>
+            <cell>1-6</cell>
+            <cell><hi rend="bold">Direktion Burckhard. </hi><lb/>Als "Burgtheater" in: Deutsche Zeitung (Wien), 23 (1893) #7740, 1-2. (16.7.1893)</cell>
+          </row>
+          <row>
+            <cell>7-12</cell>
+            <cell><hi rend="bold">Ein Nachtlager Corvin‘s. (Historisches Lustspiel in drei Acten von Franz Nissel. Zum ersten Male aufgeführt am Burgtheater den 17. October)</hi><lb/>Deutsche Zeitung (Wien), 23 (1893) #7834, 2-3. (18.10.1893)</cell>
+          </row>
+          <row>
+            <cell>12-17</cell>
+            <cell><hi rend="bold">Das goldene Buch. (Schauspiel in drei Acten von Franz v. Schönthan. Zum ersten Male aufgeführt am Burgtheater den 11. November)</hi><lb/>Deutsche Zeitung (Wien), 23 (1893) #7859, 8. (12.11.1893)</cell>
+          </row>
+          <row>
+            <cell>17-22</cell>
+            <cell><hi rend="bold">Niobe. (Nach dem Englischen von Oscar Blumenthal. Zum ersten Mal aufgeführt am 5. Februar)</hi><lb/>Neue deutsche Rundschau, 5 (1894) #3, 278-280</cell>
+          </row>
+          <row>
+            <cell>23-30</cell>
+            <cell><hi rend="bold">Das fünfte Jahr. </hi><lb/>Als "Burgtheater" in: Die Zeit, 1 (1894) #1, 9-10. (6.10.1890)</cell>
+          </row>
+          <row>
+            <cell>30-36</cell>
+            <cell><hi rend="bold">Die Schmetterlingsschlacht. (Komödie in vier Acten von Hermann Sudermann. Zum ersten Mal aufgeführt am 6. October)</hi><lb/>Als "Burgtheater" in: Die Zeit, 1 (1894) #2, 26. (13.10.1894)</cell>
+          </row>
+          <row>
+            <cell>36-54</cell>
+            <cell><hi rend="bold">Klein Eyolf. (Schauspiel in drei Aufzügen von Henrik Ibsen. Zum ersten Mal aufgeführt am 27. Februar). I.</hi><lb/> Als "Der neue Ibsen" in: Die Zeit, 1 (1894) #11, 170-173</cell>
+          </row>
+          <row>
+            <cell>54-59</cell>
+            <cell><hi rend="bold">Klein Eyolf. (Schauspiel in drei Aufzügen von Henrik Ibsen. Zum ersten Mal aufgeführt am 27. Februar). II</hi><lb/>Die Zeit, 2 (1895) #22, 139-140. (2.3.1895)</cell>
+          </row>
+          <row>
+            <cell>59-66</cell>
+            <cell><hi rend="bold">Adele Sandrock. </hi><lb/>Die Zeit, 2 (1895) #20, 108-109. (16.2.1895)</cell>
+          </row>
+          <row>
+            <cell>66-72</cell>
+            <cell><hi rend="bold">Lotte Witt. (Gastspiel im Burgtheater am 1., 3. und 6. April)</hi><lb/>Die Zeit, 3 (1895) #27, 11-12. (6.4.1895)</cell>
+          </row>
+          <row>
+            <cell>73-81</cell>
+            <cell><hi rend="bold">Tabarin. (Schauspiel in einem Act frei nach Catulle Mendès von Theodor Herzl, „Verbotene Früchte“, Lustspiel in drei Aufzügen nach einem Zwischenspiel des Cervantes von Emil Gött. Zum ersten Mal aufgeführt am 2. Mai)</hi><lb/>Als "Burgtheater" in: Die Zeit, 3 (1895) #31, 74-75. (4.5.1895)</cell>
+          </row>
+          <row>
+            <cell>81-87</cell>
+            <cell><hi rend="bold">Liebelei. (Schauspiel in drei Acten von Arthur Schnitzler. Rechte der Seele, Schauspiel in einem Act von Giuseppe Giacosa. Zum ersten Mal aufgeführt am 9. October)</hi><lb/>Als "Burgtheater" in: Die Zeit, 5 (1895) #54, 27-28. (12.10.1895)</cell>
+          </row>
+          <row>
+            <cell>88-93</cell>
+            <cell><hi rend="bold">Das Glück im Winkel. (Schauspiel in drei Aufzügen von Hermann Sudermann. Zum ersten Mal aufgeführt am 11. November)</hi><lb/>Die Zeit, 5 (1895) #59, 107-108. (16.11.1895)</cell>
+          </row>
+          <row>
+            <cell>93-98</cell>
+            <cell><hi rend="bold">Die rothe Fahne. (Zur Première von „Der Dornenweg“ von Felix Philippi im Burgtheater am 11. Februar 1896)</hi><lb/>Die Zeit, 6 (1896) #72, 112. (15.2.1896)</cell>
+          </row>
+          <row>
+            <cell>99-105</cell>
+            <cell><hi rend="bold">"Die Athenerin". (Drama in drei Aufzügen von Leo Ebermann. Zum ersten Mal aufgeführt im Burgtheater am 19. September)</hi><lb/>Die Zeit, 8 (1896) #104, 202-203. (26.9.1896)</cell>
+          </row>
+          <row>
+            <cell>105-112</cell>
+            <cell><hi rend="bold">Morituri. (Teja, Drama in einem Act. Fritzchen, Drama in einem Act. Das Ewig-Männliche, Spiel in einem Act. Von Hermann Sudermann. Zum ersten Mal aufgeführt im Burgtheater am 3. October 1896)</hi><lb/>Die Zeit, 9 (1896) #106, 29. (10.10.1896)</cell>
+          </row>
+          <row>
+            <cell>113-118</cell>
+            <cell><hi rend="bold">Debutanten. </hi><lb/>Die Zeit, 9 (1896) #107, 48-49. (17.10.1896)</cell>
+          </row>
+          <row>
+            <cell>118-123</cell>
+            <cell><hi rend="bold">Der Sohn des Kalifen. (Dramatisches Märchen in vier Aufzügen von Ludwig Fulda. Zum ersten Mal aufgeführt im Burgtheater am 21. November 1896)</hi><lb/>Die Zeit, 9 (1896) #113, 144. (28.11.1896)</cell>
+          </row>
+          <row>
+            <cell>124-132</cell>
+            <cell><hi rend="bold">Burgtheater. (Die Romantischen. Verlustspiel in drei Aufzügen von Edmond Rostand, deutsch von Ludwig Fulda. – Das letzte Ideal. Schauspiel in einem Aufzug von L'Epine und Alphonse Daudet. Zum ersten Mal aufgeführt am 7. Dezember 1896)</hi><lb/>Als "Burgtheater" in: Die Zeit, 9 (1896) #115, 174-76. (12.12.1896)</cell>
+          </row>
+          <row>
+            <cell>132-138</cell>
+            <cell><hi rend="bold">Hjalmar. (Zur ersten Aufführung der "Wildente" von Ibsen im Burgtheater am 16. Januar 1897)</hi><lb/>Die Zeit, 10 (1897) #121, 60-61. (23.1.1897)</cell>
+          </row>
+          <row>
+            <cell>138-143</cell>
+            <cell><hi rend="bold">Mitterwurzer. (Gestorben am 13. Februar 1897)</hi><lb/>Die Zeit, 10 (1897) #125, 122-123. (20.2.1897)</cell>
+          </row>
+          <row>
+            <cell>143-149</cell>
+            <cell><hi rend="bold">Die versunkene Glocke. (Ein deutsches Märchendrama von Gerhart Hauptmann. Zum ersten Mal aufgeführt im Burgtheater am 9. März)</hi><lb/>Die Zeit, 10 (1897) #128, 171-172. (13.3.1897)</cell>
+          </row>
+          <row>
+            <cell>150-156</cell>
+            <cell><hi rend="bold">Die Wolter. (Gestorben am 14. Juni 1897)</hi><lb/>Die Zeit, 11 (1897) #142, 186-87. (19.6.1897)</cell>
+          </row>
+          <row>
+            <cell>157-167</cell>
+            <cell><hi rend="bold">Josef Kainz. (Zu seinem Gastspiel im Burgtheater am 8., 10. und 12. October 1897)</hi><lb/>Die Zeit, 13 (1897) #158, 26-27. (9.10.1897)</cell>
+          </row>
+          <row>
+            <cell>168-190</cell>
+            <cell><hi rend="bold">Burgtheater. </hi><lb/>Die Zeit, 14 (1898) #173, 59-60, #175, 90-91 und #176, 106-108.</cell>
+          </row>
+          <row>
+            <cell>190-195</cell>
+            <cell><hi rend="bold">Lotte Witt. </hi><lb/>Die Zeit, 15 (1898) #193, 171. (11.6.1898)</cell>
+          </row>
+          <row>
+            <cell>195-201</cell>
+            <cell><hi rend="bold">Paul Schlenther. </hi><lb/>Als "Burgtheater" in: Die Zeit, 15 (1898) #194, 187-188. (18.6.1898)</cell>
+          </row>
+          <row>
+            <cell>205-211</cell>
+            <cell><hi rend="bold">Zwei glückliche Tage. (Schwank von Franz v. Schönthan und Gustav Kadelburg. Zum ersten Mal aufgeführt am 26. Januar)</hi><lb/>Als "Deutsches Volkstheater" in: Deutsche Zeitung (Wien), 23 (1893) #7573, 1-2. (27.1.1893)</cell>
+          </row>
+          <row>
+            <cell>212-216</cell>
+            <cell><hi rend="bold">"Lolo's Vater". (Von Adolf L'Arronge. Zum ersten Mal aufgeführt am 18. März)</hi><lb/>Deutsche Zeitung (Wien), 23 (1893) #7624, 8. (19.3.1893)</cell>
+          </row>
+          <row>
+            <cell>217-224</cell>
+            <cell><hi rend="bold">"Rosmersholm". (Von Henrik Ibsen. Zum ersten Mal aufgeführt am 4. Mai 1893)</hi><lb/>Deutsche Zeitung (Wien), 23 (1893) #7669, 1-2. (5.5.1893)</cell>
+          </row>
+          <row>
+            <cell>224-226</cell>
+            <cell><hi rend="bold">Eine Palastrevolution. (Von Richard Skowronnek. Zum ersten Mal aufgeführt am Deutschen Volkstheater den 14. October)</hi><lb/>Deutsche Zeitung (Wien), (1893) (15.10.1893)</cell>
+          </row>
+          <row>
+            <cell>227-231</cell>
+            <cell><hi rend="bold">"Malaria". (Schauspiel in fünf Aufzügen von Richard Voß, den 21. October)</hi><lb/>Deutsche Zeitung (Wien), 23 (1893) #7838, 2-3. (22.10.1893)</cell>
+          </row>
+          <row>
+            <cell>232-237</cell>
+            <cell><hi rend="bold">Der Talisman. I</hi><lb/>Als "Des Kaisers neue Kleider" in: Deutsche Zeitung, Wien, 23 (1893) #7851, Morgen-Ausgabe, 1-2. (4.11.1893)</cell>
+          </row>
+          <row>
+            <cell>237-242</cell>
+            <cell><hi rend="bold">Der Talisman. II</hi><lb/>Deutsche Zeitung, Wien, 23 (1893) #7852, Sonntags-Ausgabe, 1-2. (5.11.1893)</cell>
+          </row>
+          <row>
+            <cell>242-252</cell>
+            <cell><hi rend="bold">Das Märchen. (Schauspiel in drei Aufzügen von Arthur Schnitzler. Zum ersten Male aufgeführt den 1. December)</hi><lb/>Deutsche Zeitung (Wien), 23 (1893) #7879, 1-3. (2.12.1893)</cell>
+          </row>
+          <row>
+            <cell>253-258</cell>
+            <cell><hi rend="bold">"Komödianten". (Von Édouard Pailleron. Zum ersten Mal am 20. October)</hi><lb/>Als "Theater" in: Die Zeit, 1 (1894) #4, 59-60. (27.10.1894)</cell>
+          </row>
+          <row>
+            <cell>259-264</cell>
+            <cell><hi rend="bold">Entsagung. (Schauspiel in vier Acten von Wilhelm Karczag. Zum ersten Mal aufgeführt am 24. November)</hi><lb/>Die Zeit, 1 (1894) #9, 140-141. (1.12.1894)</cell>
+          </row>
+          <row>
+            <cell>264-270</cell>
+            <cell><hi rend="bold">"Die Kameraden". (Lustspiel in drei Acten von Ludwig Fulda. Zum ersten Mal aufgeführt den 19. Januar 1895)</hi><lb/>Die Zeit, 2 (1895) #17, 58-59. (26.1.1895)</cell>
+          </row>
+          <row>
+            <cell>270-279</cell>
+            <cell><hi rend="bold">Maria Magdalena. (Ein bürgerliches Trauerspiel in drei Aufzügen von Friedrich Hebbel. Zum ersten Mal aufgeführt am 4. Mai)</hi><lb/>Als "Maria Magdalene" in: Die Zeit, 3 (1895) #32, 91-92. (11.5.1895)</cell>
+          </row>
+          <row>
+            <cell>279-288</cell>
+            <cell><hi rend="bold">Romeo. (Zur Aufführung im Deutschen Volkstheater am 21. September 1895)</hi><lb/>Die Zeit, 4 (1895) #52, 203-205. (28.9.1895)</cell>
+          </row>
+          <row>
+            <cell>288-293</cell>
+            <cell><hi rend="bold">Medea. (Zur Aufführung im Deutschen Volkstheater am 29. September)</hi><lb/>Die Zeit, 5 (1895) #53, 12-13. (5.10.1895)</cell>
+          </row>
+          <row>
+            <cell>293-299</cell>
+            <cell><hi rend="bold">Zischen. (Zur Première von "Ein Regentag" von J. J. David im Deutschen Volkstheater am 12. Oktober)</hi><lb/>Die Zeit, 5 (1895) #55, 43. (19.10.1895)</cell>
+          </row>
+          <row>
+            <cell>299-305</cell>
+            <cell><hi rend="bold">Untreu. (Komödie in drei Acten nach Robert Bracco von Otto Eisenschitz. Zum ersten Mal aufgeführt im Deutschen Volkstheater am 29. November 1895)</hi><lb/>Die Zeit, 5 (1895) #61, 140-41</cell>
+          </row>
+          <row>
+            <cell>305-312</cell>
+            <cell><hi rend="bold">Ghismonda. (Schauspiel in fünf Acten von Victorien Sardou. Zum ersten Mal aufgeführt im Deutschen Volkstheater am 14. Dezember 1895)</hi><lb/>Die Zeit, 5 (1895) #64, 187-88. (21.12.1895)</cell>
+          </row>
+          <row>
+            <cell>312-318</cell>
+            <cell><hi rend="bold">Der kleine Lord. (Lebensbild in drei Acten nach dem gleichnamigen Roman von Mrs. Hodgson-Burnett. Zum ersten Mal aufgeführt im Deutschen Volkstheater am 28. December 1895)</hi><lb/>Die Zeit, 6 (1896) #66, 11-12. (4.1.1896)</cell>
+          </row>
+          <row>
+            <cell>318-334</cell>
+            <cell><hi rend="bold">Was ihr wollt. (Ein Lustspiel von William Shakespeare. Mit Benützung einer dramatischen Skizze Karl Immermanns nach dem Princip der altenglischen Bühne eingerichtet von Richard Fellner. Zum ersten Male aufgeführt im Deutschen Volkstheater am 17. Februar 1896)</hi><lb/>Die Zeit, 6 (1896) #73, 127-129. (22.2.1896)</cell>
+          </row>
+          <row>
+            <cell>334-339</cell>
+            <cell><hi rend="bold">"Ein unbeschriebenes Blatt". (Lustspiel in drei Aufzügen von Ernst von Wolzogen. Zum ersten Mal aufgeführt am 26. September 1896)</hi><lb/>Als "Das Lustspiel" in: Die Zeit, 9 (1896) #105, 11-12. (3.10.1896)</cell>
+          </row>
+          <row>
+            <cell>339-347</cell>
+            <cell><hi rend="bold">Die Mütter. (Schauspiel in vier Acten von Georg Hirschfeld. Zum ersten Mal aufgeführt im Deutschen Volkstheater am 17. October 1896)</hi><lb/>Die Zeit, 9 (1896) #108, 63-64. (24.10.1896)</cell>
+          </row>
+          <row>
+            <cell>347-352</cell>
+            <cell><hi rend="bold">Die sittliche Forderung. (Komödie in einem Act von Otto Erich Hartleben. Zum ersten Mal aufgeführt im Deutschen Volkstheater am 10. November 1896)</hi><lb/>Die Zeit, 9 (1896) #111, 111. (14.11.1896)</cell>
+          </row>
+          <row>
+            <cell>352-359</cell>
+            <cell><hi rend="bold">Maurice Donnay. (Zur Première der "Verliebten" von Maurice Donnay im Deutschen Volkstheater am 23. December 1896)</hi><lb/>Die Zeit, 9 (1896) #116, 191-92. (19.12.1896)</cell>
+          </row>
+          <row>
+            <cell>359-365</cell>
+            <cell><hi rend="bold">Das grobe Hemd. (Volksstück in vier Acten von C. Karlweis. Zum ersten Mal aufgeführt im Deutschen Volkstheater am 1. Februar 1897)</hi><lb/>Die Zeit, 10 (1897) #123, 92. (6.2.1897)</cell>
+          </row>
+          <row>
+            <cell>365-372</cell>
+            <cell><hi rend="bold">Hoei-lan-ki. (Der Kreidekreis, ein chinesisches Drama von Li-King-Tao, für die deutsche Bühne frei bearbeitet und eingerichtet von Heinrich Kadelburg. Zum ersten Mal aufgeführt am Volkstheaterabend im Ronacher am 20. März 1897)</hi><lb/>Die Zeit, 10 (1897) #130, 203-204. (27.3.1897)</cell>
+          </row>
+          <row>
+            <cell>373-379</cell>
+            <cell><hi rend="bold">Die Komödie. ("Ein angenehmer Gast", von Georges Courteline, zum ersten Mal aufgeführt im Deutschen Volkstheater am 30. März; "Der Biberpelz" von Gerhart Hauptmann, zum ersten Mal aufgeführt im Deutschen Volkstheater am 4. April 1897)</hi><lb/>Die Zeit, 11 (1897) #132, 28. (10.4.1897)</cell>
+          </row>
+          <row>
+            <cell>379-385</cell>
+            <cell><hi rend="bold">Die Schliersee'r. (Gastspiel des Schlieersee'r Bauerntheaters im Deutschen Volkstheater)</hi><lb/>Die Zeit, 11 (1897) #141, 172. (12.6.1897)</cell>
+          </row>
+          <row>
+            <cell>385-388</cell>
+            <cell><hi rend="bold">Zwei Welten. (Schauspiel in vier Acten von Marco Brociner. Zum ersten Mal aufgeführt im Deutschen Volkstheater am 4. September 1897)</hi><lb/>Die Zeit, 12 (1897) #154, 172-73.</cell>
+          </row>
+          <row>
+            <cell>388-393</cell>
+            <cell><hi rend="bold">Die Erziehung zur Ehe. ("Die Lore", Plauderei in einem Act von Otto Erich Hartleben; "Die Erziehung zur Ehe". Satire in drei Acten von Otto Erich Hartleben. Zum ersten Male aufgeführt im Deutschen Volkstheater am 11. September 1897)</hi><lb/>Die Zeit, 12 (1897) #155, 188-189. (18.9.1897)</cell>
+          </row>
+          <row>
+            <cell>393-398</cell>
+            <cell><hi rend="bold">An das Publicum. (Zur Première der "Douloureuse" von Maurice Donnay im "Deutschen Volkstheater" am 30. October 1897)</hi><lb/>Die Zeit, 13 (1897) #162, 91. (6.11.1897)</cell>
+          </row>
+          <row>
+            <cell>398-405</cell>
+            <cell><hi rend="bold">Max Burckhard. (Zur Première der "Bürgermeisterwahl" von Max Burckhard im Deutschen Volkstheater am 20. November 1897)</hi><lb/>Die Zeit, 13 (1897) #164, 123-124. (20.11.1897)</cell>
+          </row>
+          <row>
+            <cell>405-411</cell>
+            <cell><hi rend="bold">Bartel Turaser. (Drama in drei Akten von Philipp Langmann. Zum ersten Male aufgeführt im Deutschen Volkstheater am 11. December 1897)</hi><lb/>Die Zeit, 13 (1897) #168, 187-188. (18.12.1897)</cell>
+          </row>
+          <row>
+            <cell>412-416</cell>
+            <cell><hi rend="bold">Das Ende der Liebe. (Eine satirische Komödie von Robert Bracco. Zum ersten Mal aufgeführt im Deutschen Volkstheater am 19. Februar 1898)</hi><lb/>Die Zeit, 14 (1898) #178, 139-140. (26.2.1898)</cell>
+          </row>
+          <row>
+            <cell>417-421</cell>
+            <cell><hi rend="bold">Männerrecht. (Von Paul Hervieu. Deutsch von Ferdinand Groß. Zum ersten Mal aufgeführt im Deutschen Volkstheater am 5. März 1898)</hi><lb/>Als "Das Theater" in: Die Zeit, 14 (1898) #180, 170. (12.3.1898)</cell>
+          </row>
+          <row>
+            <cell>422-424</cell>
+            <cell><hi rend="bold">Raimund. (Zur Raimund-Feier im Deutschen Volkstheater am 31. Mai 1898, aus Anlaß der Enthüllung des Raimund-Denkmales von Franz Vogl)</hi><lb/>Die Zeit, 15 (1898) #192, 155-156. (4.6.1898)</cell>
+          </row>
+          <row>
+            <cell>427-434</cell>
+            <cell><hi rend="bold">Der Buckelhans. ("Jean Mayeux", Mimodrama in drei Acten von Blanchard de la Bretesche, Musik von Charles Tony. Zum ersten Mal aufgeführt im Theater in der Josefstadt am 11. November 1894)</hi><lb/>Als "Pantomime" in: Die Zeit, 1 (1894) #7, 107-108. (17.11.1894)</cell>
+          </row>
+          <row>
+            <cell>434-440</cell>
+            <cell><hi rend="bold">"Die Überzähligen". (Ein Stück aus dem Volksleben in vier Acten von Margarethe Langkammer. Zum ersten Male aufgeführt im Raimundtheater am 16. Januar 1895)</hi><lb/>Die Zeit, 2 (1895) #16, 42-43</cell>
+          </row>
+          <row>
+            <cell>440-448</cell>
+            <cell><hi rend="bold">Marionetten. </hi><lb/>Die Zeit, 4 (1895) #46, 108-109. (17.8.1895)</cell>
+          </row>
+          <row>
+            <cell>448-452</cell>
+            <cell><hi rend="bold">Conrad Dreher. (Als Gast im Theater a. d. Wien, 1. September 1898)</hi><lb/>Die Zeit, 4 (1895) #49, 154-55. (7.9.1895)</cell>
+          </row>
+          <row>
+            <cell>452-459</cell>
+            <cell><hi rend="bold">Alfred Freiherr v. Berger. </hi><lb/>Die Zeit, 6 (1896) #76, 176-177. (14.3.1896)</cell>
+          </row>
+          <row>
+            <cell>460-467</cell>
+            <cell><hi rend="bold">Der Zerrissene. (Posse mit Gesang in drei Acten von Johann Nestroy. Zum ersten Mal im Raimundtheater aufgeführt am 23. Mai 1896)</hi><lb/>Die Zeit, 7 (1896) #87, 139-40. (30.5.1896)</cell>
+          </row>
+          <row>
+            <cell>467-471</cell>
+            <cell><hi rend="bold">Ermete Zacconi. (Gastspiel im Carltheater vom 10. bis zum 14. April 1897)</hi><lb/>Die Zeit, 11 (1897) #133, 43-44. (17.4.1897)</cell>
+          </row>
+          <row>
+            <cell>472-477</cell>
+            <cell><hi rend="bold">Noch einmal: Ermete Zacconi (Als Gast im Carltheater seit dem 20. September)</hi><lb/>Die Zeit, 12 (1897) #156, 205-206. (25.9.1897)</cell>
+          </row>
+          <row>
+            <cell>477-483</cell>
+            <cell><hi rend="bold">Verismo. (Zum Gastspiel Zacconi im Carl-Theater)</hi><lb/>Die Zeit, 13 (1897) #157, 11. (2.10.1897)</cell>
+          </row>
+          <row>
+            <cell>483-490</cell>
+            <cell><hi rend="bold">"Noth kennt kein Gebot". (Ein Volksstück in 3 Acten von Rudolf Christoph Jenny. Zum ersten Mal aufgeführt im Raimund-Theater am 12. September 1896)</hi><lb/>Die Zeit, 8 (1896) #103, 187-188. (19.9.1896)</cell>
+          </row>
+          <row>
+            <cell>490-495</cell>
+            <cell><hi rend="bold">'s Katherl. (Volksstück in fünf Aufzügen von Max Burckhard. Zum ersten Mal aufgeführt im Raimundtheater am 25. November 1897)</hi><lb/>Die Zeit, 13 (1897) #165, 141. (27.11.1897)</cell>
+          </row>
+          <row>
+            <cell>495-500</cell>
+            <cell><hi rend="bold">Das neue Ghetto. (Schauspiel in vier Acten von Theodor Herzl. Zum ersten Mal aufgeführt im Carltheater am 5. Januar 1898)</hi><lb/>Die Zeit, 14 (1898) #171, 28. (8.1.1898)</cell>
+          </row>
+        </table>
+        <p>
+          <hi rend="small">Alle Artikel nachgeschlagen, Juni 2010</hi>
+        </p>
+      </div>
+      <div xml:id="rezens">
+        <head>Rezensionen</head>
+        <p>Im Archiv ab dem 4.5.1899. Eugen Kilian in: Literarisches Echo, 2 (1900) #11, 758-759. Moritz Necker in: Prager Tagblatt, 19.5.1899, 1-2. Karl Kraus in: Die Fackel, 1 (1899) #2.4, 30.</p>
+      </div>
+      <div xml:id="inhaltsvz">
+        <head>Inhaltsverzeichnis</head>
+        <table>
+          <row>
+            <cell role="label">Seiten</cell>
+            <cell role="label">Titel</cell>
+            <cell role="label">Stück</cell>
+          </row>
+          <row>
+            <cell> </cell>
+            <cell>
+              <hi rend="bold">BURGTHEATER</hi>
+            </cell>
+            <cell> </cell>
+          </row>
+          <row>
+            <cell>1-6</cell>
+            <cell>
+              <hi rend="bold">Direktion Burckhard.</hi>
+            </cell>
+            <cell> </cell>
+          </row>
+          <row>
+            <cell>7-12</cell>
+            <cell><hi rend="bold">Ein Nachtlager Corvin‘s.</hi> (Historisches Lustspiel in drei Acten von Franz Nissel. Zum ersten Male aufgeführt am Burgtheater den 17. October)</cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>12-17</cell>
+            <cell><hi rend="bold">Das goldene Buch.</hi> (Schauspiel in drei Acten von Franz v. Schönthan. Zum ersten Male aufgeführt am Burgtheater den 11. November)</cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>17-22</cell>
+            <cell><hi rend="bold">Niobe.</hi> (Nach dem Englischen von Oscar Blumenthal. Zum ersten Mal aufgeführt am 5. Februar)</cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>23-30</cell>
+            <cell>
+              <hi rend="bold">Das fünfte Jahr.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>30-36</cell>
+            <cell><hi rend="bold">Die Schmetterlingsschlacht.</hi> (Komödie in vier Acten von Hermann Sudermann. Zum ersten Mal aufgeführt am 6. October)</cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>36-59</cell>
+            <cell><hi rend="bold">Klein Eyolf.</hi> (Schauspiel in drei Aufzügen von Henrik Ibsen. Zum ersten Mal aufgeführt am 27. Februar)</cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>66-72</cell>
+            <cell><hi rend="bold">Lotte Witt.</hi> (Gastspiel im Burgtheater am 1., 3. und 6. April)</cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>73-81</cell>
+            <cell><hi rend="bold">Tabarin.</hi> (Schauspiel in einem Act frei nach Catulle Mendès von Theodor Herzl, „Verbotene Früchte“, Lustspiel in drei Aufzügen nach einem Zwischenspiel des Cervantes von Emil Gött. Zum ersten Mal aufgeführt am 2. Mai)</cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>81-87</cell>
+            <cell><hi rend="bold">Liebelei.</hi> (Schauspiel in drei Acten von Arthur Schnitzler. Rechte der Seele, Schauspiel in einem Act von Giuseppe Giacosa. Zum ersten Mal aufgeführt am 9. October)</cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>88-93</cell>
+            <cell><hi rend="bold">Das Glück im Winkel.</hi> (Schauspiel in drei Aufzügen von Hermann Sudermann. Zum ersten Mal aufgeführt am 11. November)</cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>93-98</cell>
+            <cell><hi rend="bold">Die rothe Fahne.</hi> (Zur Première von „Der Dornenweg“ von Felix Philippi im Burgtheater am 11. Februar 1896)</cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>99-105</cell>
+            <cell><hi rend="bold">"Die Athenerin".</hi> (Drama in drei Aufzügen von Leo Ebermann. Zum ersten Mal aufgeführt im Burgtheater am 19. September)</cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>105-112</cell>
+            <cell><hi rend="bold">Morituri.</hi> (Teja, Drama in einem Act. Fritzchen, Drama in einem Act. Das Ewig-Männliche, Spiel in einem Act. Von Hermann Sudermann. Zum ersten Mal aufgeführt im Burgtheater am 3. October 1896)</cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>113-118</cell>
+            <cell>
+              <hi rend="bold">Debutanten.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>118-123</cell>
+            <cell><hi rend="bold">Der Sohn des Kalifen.</hi> (Dramatisches Märchen in vier Aufzügen von Ludwig Fulda. Zum ersten Mal aufgeführt im Burgtheater am 21. November 1896)</cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>124-132</cell>
+            <cell><hi rend="bold">Burgtheater.</hi> (Die Romantischen. Verlustspiel in drei Aufzügen von Edmond Rostand, deutsch von Ludwig Fulda. – Das letzte Ideal. Schauspiel in einem Aufzug von L'Epine und Alphonse Daudet. Zum ersten Mal aufgeführt am 7. Dezember 1896)</cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>132-138</cell>
+            <cell><hi rend="bold">Hjalmar.</hi> (Zur ersten Aufführung der "Wildente" von Ibsen im Burgtheater am 16. Januar 1897)</cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>138-143</cell>
+            <cell><hi rend="bold">Mitterwurzer.</hi> (Gestorben am 13. Februar 1897)</cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>143-149</cell>
+            <cell><hi rend="bold">Die versunkene Glocke.</hi> (Ein deutsches Märchendrama von Gerhart Hauptmann. Zum ersten Mal aufgeführt im Burgtheater am 9. März)</cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>150-156</cell>
+            <cell><hi rend="bold">Die Wolter.</hi> (Gestorben am 14. Juni 1897)</cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>157-167</cell>
+            <cell><hi rend="bold">Josef Kainz.</hi> (Zu seinem Gastspiel im Burgtheater am 8., 10. und 12. October 1897)</cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>168-190</cell>
+            <cell>
+              <hi rend="bold">Burgtheater.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>190-195</cell>
+            <cell>
+              <hi rend="bold">Lotte Witt.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>195-201</cell>
+            <cell>
+              <hi rend="bold">Paul Schlenther.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell> </cell>
+            <cell>
+              <hi rend="bold">DEUTSCHES VOLKSTHEATER</hi>
+            </cell>
+            <cell> </cell>
+          </row>
+          <row>
+            <cell>205-211</cell>
+            <cell><hi rend="bold">Zwei glückliche Tage.</hi> (Schwank von Franz v. Schönthan und Gustav Kadelburg. Zum ersten Mal aufgeführt am 26. Januar)</cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>212-216</cell>
+            <cell><hi rend="bold">"Lolo's Vater".</hi> (Von Adolf L'Arronge. Zum ersten Mal aufgeführt am 18. März)</cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>217-224</cell>
+            <cell><hi rend="bold">"Rosmersholm".</hi> (Von Henrik Ibsen. Zum ersten Mal aufgeführt am 4. Mai 1893)</cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>224-226</cell>
+            <cell><hi rend="bold">Eine Palastrevolution.</hi> (Von Richard Skowronnek. Zum ersten Mal aufgeführt am Deutschen Volkstheater den 14. October)</cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>227-231</cell>
+            <cell><hi rend="bold">"Malaria".</hi> (Schauspiel in fünf Aufzügen von Richard Voß, den 21. October)</cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>232-242</cell>
+            <cell>
+              <hi rend="bold">Der Talisman.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>242-252</cell>
+            <cell><hi rend="bold">Das Märchen.</hi> (Schauspiel in drei Aufzügen von Arthur Schnitzler. Zum ersten Male aufgeführt den 1. December)</cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>253-258</cell>
+            <cell><hi rend="bold">"Komödianten".</hi> (Von Édouard Pailleron. Zum ersten Mal am 20. October)</cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>259-264</cell>
+            <cell><hi rend="bold">Entsagung.</hi> (Schauspiel in vier Acten von Wilhelm Karczag. Zum ersten Mal aufgeführt am 24. November)</cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>264-270</cell>
+            <cell><hi rend="bold">"Die Kameraden".</hi> (Lustspiel in drei Acten von Ludwig Fulda. Zum ersten Mal aufgeführt den 19. Januar 1895)</cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>270-279</cell>
+            <cell><hi rend="bold">Maria Magdalena.</hi> (Ein bürgerliches Trauerspiel in drei Aufzügen von Friedrich Hebbel. Zum ersten Mal aufgeführt am 4. Mai)</cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>279-288</cell>
+            <cell><hi rend="bold">Romeo.</hi> (Zur Aufführung im Deutschen Volkstheater am 21. September 1895)</cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>288-293</cell>
+            <cell><hi rend="bold">Medea.</hi> (Zur Aufführung im Deutschen Volkstheater am 29. September)</cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>293-299</cell>
+            <cell><hi rend="bold">Zischen.</hi> (Zur Première von "Ein Regentag" von J. J. David im Deutschen Volkstheater am 12. Oktober)</cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>299-305</cell>
+            <cell><hi rend="bold">Untreu.</hi> (Komödie in drei Acten nach Robert Bracco von Otto Eisenschitz. Zum ersten Mal aufgeführt im Deutschen Volkstheater am 29. November 1895)</cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>305-312</cell>
+            <cell><hi rend="bold">Ghismonda.</hi> (Schauspiel in fünf Acten von Victorien Sardou. Zum ersten Mal aufgeführt im Deutschen Volkstheater am 14. Dezember 1895)</cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>312-318</cell>
+            <cell><hi rend="bold">Der kleine Lord.</hi> (Lebensbild in drei Acten nach dem gleichnamigen Roman von Mrs. Hodgson-Burnett. Zum ersten Mal aufgeführt im Deutschen Volkstheater am 28. December 1895)</cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>318-334</cell>
+            <cell><hi rend="bold">Was ihr wollt.</hi> (Ein Lustspiel von William Shakespeare. Mit Benützung einer dramatischen Skizze Karl Immermanns nach dem Princip der altenglischen Bühne eingerichtet von Richard Fellner. Zum ersten Male aufgeführt im Deutschen Volkstheater am 17. Februar 1896)</cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>334-339</cell>
+            <cell><hi rend="bold">"Ein unbeschriebenes Blatt".</hi> (Lustspiel in drei Aufzügen von Ernst von Wolzogen. Zum ersten Mal aufgeführt am 26. September 1896)</cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>339-347</cell>
+            <cell><hi rend="bold">Die Mütter.</hi> (Schauspiel in vier Acten von Georg Hirschfeld. Zum ersten Mal aufgeführt im Deutschen Volkstheater am 17. October 1896)</cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>347-352</cell>
+            <cell><hi rend="bold">Die sittliche Forderung.</hi> (Komödie in einem Act von Otto Erich Hartleben. Zum ersten Mal aufgeführt im Deutschen Volkstheater am 10. November 1896)</cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>352-359</cell>
+            <cell><hi rend="bold">Maurice Donnay.</hi> (Zur Première der "Verliebten" von Maurice Donnay im Deutschen Volkstheater am 23. December 1896)</cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>359-365</cell>
+            <cell><hi rend="bold">Das grobe Hemd.</hi> (Volksstück in vier Acten von C. Karlweis. Zum ersten Mal aufgeführt im Deutschen Volkstheater am 1. Februar 1897)</cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>365-372</cell>
+            <cell><hi rend="bold">Hoei-lan-ki.</hi> (Der Kreidekreis, ein chinesisches Drama von Li-King-Tao, für die deutsche Bühne frei bearbeitet und eingerichtet von Heinrich Kadelburg. Zum ersten Mal aufgeführt am Volkstheaterabend im Ronacher am 20. März 1897)</cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>373-379</cell>
+            <cell><hi rend="bold">Die Komödie.</hi> ("Ein angenehmer Gast", von Georges Courteline, zum ersten Mal aufgeführt im Deutschen Volkstheater am 30. März; "Der Biberpelz" von Gerhart Hauptmann, zum ersten Mal aufgeführt im Deutschen Volkstheater am 4. April 1897)</cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>379-385</cell>
+            <cell><hi rend="bold">Die Schliersee'r.</hi> (Gastspiel des Schlieersee'r Bauerntheaters im Deutschen Volkstheater)</cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>385-388</cell>
+            <cell><hi rend="bold">Zwei Welten.</hi> (Schauspiel in vier Acten von Marco Brociner. Zum ersten Mal aufgeführt im Deutschen Volkstheater am 4. September 1897)</cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>388-393</cell>
+            <cell><hi rend="bold">Die Erziehung zur Ehe.</hi> ("Die Lore", Plauderei in einem Act von Otto Erich Hartleben; "Die Erziehung zur Ehe". Satire in drei Acten von Otto Erich Hartleben. Zum ersten Male aufgeführt im Deutschen Volkstheater am 11. September 1897)</cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>393-398</cell>
+            <cell><hi rend="bold">An das Publicum.</hi> (Zur Première der "Douloureuse" von Maurice Donnay im "Deutschen Volkstheater" am 30. October 1897)</cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>398-405</cell>
+            <cell><hi rend="bold">Max Burckhard.</hi> (Zur Première der "Bürgermeisterwahl" von Max Burckhard im Deutschen Volkstheater am 20. November 1897)</cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>405-411</cell>
+            <cell><hi rend="bold">Bartel Turaser.</hi> (Drama in drei Akten von Philipp Langmann. Zum ersten Male aufgeführt im Deutschen Volkstheater am 11. December 1897)</cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>412-416</cell>
+            <cell><hi rend="bold">Das Ende der Liebe.</hi> (Eine satirische Komödie von Robert Bracco. Zum ersten Mal aufgeführt im Deutschen Volkstheater am 19. Februar 1898)</cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>417-421</cell>
+            <cell><hi rend="bold">Männerrecht.</hi> (Von Paul Hervieu. Deutsch von Ferdinand Groß. Zum ersten Mal aufgeführt im Deutschen Volkstheater am 5. März 1898)</cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>422-424</cell>
+            <cell><hi rend="bold">Raimund.</hi> (Zur Raimund-Feier im Deutschen Volkstheater am 31. Mai 1898, aus Anlaß der Enthüllung des Raimund-Denkmales von Franz Vogl)</cell>
+            <cell/>
+          </row>
+          <row>
+            <cell> </cell>
+            <cell>
+              <hi rend="bold">ANDERES</hi>
+            </cell>
+            <cell> </cell>
+          </row>
+          <row>
+            <cell>427-434</cell>
+            <cell><hi rend="bold">Der Buckelhans.</hi> ("Jean Mayeux", Mimodrama in drei Acten von Blanchard de la Bretesche, Musik von Charles Tony. Zum ersten Mal aufgeführt im Theater in der Josefstadt am 11. November 1894)</cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>434-440</cell>
+            <cell><hi rend="bold">"Die Überzähligen".</hi> (Ein Stück aus dem Volksleben in vier Acten von Margarethe Langkammer. Zum ersten Male aufgeführt im Raimundtheater am 16. Januar 1895)</cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>440-448</cell>
+            <cell>
+              <hi rend="bold">Marionetten.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>448-452</cell>
+            <cell><hi rend="bold">Conrad Dreher.</hi> (Als Gast im Theater a. d. Wien, 1. September 1898)</cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>452-459</cell>
+            <cell>
+              <hi rend="bold">Alfred Freiherr v. Berger.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>460-467</cell>
+            <cell><hi rend="bold">Der Zerrissene.</hi> (Posse mit Gesang in drei Acten von Johann Nestroy. Zum ersten Mal im Raimundtheater aufgeführt am 23. Mai 1896)</cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>467-471</cell>
+            <cell><hi rend="bold">Ermete Zacconi.</hi> (Gastspiel im Carltheater vom 10. bis zum 14. April 1897)</cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>472-477</cell>
+            <cell><hi rend="bold">Noch einmal: Ermete Zacconi </hi> (Als Gast im Carltheater seit dem 20. September)</cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>477-483</cell>
+            <cell><hi rend="bold">Verismo.</hi> (Zum Gastspiel Zacconi im Carl-Theater)</cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>483-490</cell>
+            <cell><hi rend="bold">"Noth kennt kein Gebot".</hi> (Ein Volksstück in 3 Acten von Rudolf Christoph Jenny. Zum ersten Mal aufgeführt im Raimund-Theater am 12. September 1896)</cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>490-495</cell>
+            <cell><hi rend="bold">'s Katherl.</hi> (Volksstück in fünf Aufzügen von Max Burckhard. Zum ersten Mal aufgeführt im Raimundtheater am 25. November 1897)</cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>495-500</cell>
+            <cell><hi rend="bold">Das neue Ghetto.</hi> (Schauspiel in vier Acten von Theodor Herzl. Zum ersten Mal aufgeführt im Carltheater am 5. Januar 1898)</cell>
+            <cell/>
+          </row>
+        </table>
+      </div>
+      <div xml:id="digit">
+        <head>Digitalisate</head>
+        <list rend="bulleted">
+          <item>
+            <ref target="http://www.archive.org/search.php?query=hermann%20bahr%20">archive.org</ref>
+          </item>
+          <item>
+            <ref target="http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=53">ÖNB Anno</ref>
+          </item>
+        </list>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "165c187e-42c9-4587-9220-90efbc0770e2",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/165c187e-42c9-4587-9220-90efbc0770e2?resourceVersion=id%3A2302"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/165c187e-42c9-4587-9220-90efbc0770e2?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27961,
+    "drupal_internal__vid": 2302,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Himmel auf Erden",
+    "created": "2010-07-19T15:29:02+00:00",
+    "changed": "2011-11-03T09:58:18+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/27961",
+      "pid": 136,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Auf 1928 vordatiert, erscheint 1927 dieser \"Dialog\", in dem Bahr sich theologischen Fragestellungen zuwendet. Das Exemplar des Theatermuseums, das es digitalisiert bei ANNO gibt, enthält eine handschriftliche Bemerkung Anna Bahr-Mildenburgs, dass sie ihm in den letzten Stunden aus diesem Buch vorlas.",
+      "format": "full_html",
+      "processed": "Auf 1928 vordatiert, erscheint 1927 dieser \"Dialog\", in dem Bahr sich theologischen Fragestellungen zuwendet. Das Exemplar des Theatermuseums, das es digitalisiert bei ANNO gibt, enthält eine handschriftliche Bemerkung Anna Bahr-Mildenburgs, dass sie ihm in den letzten Stunden aus diesem Buch vorlas.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1927-11-01",
+      "end_value": "1927-11-01"
+    },
+    "field_sources": [
+      "Hermann Bahr: Himmel auf Erden. Ein Zwiegespräch. Mit 13 Illustrationen. München: Ars Sacra, 1928."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/165c187e-42c9-4587-9220-90efbc0770e2/node_type?resourceVersion=id%3A2302"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/165c187e-42c9-4587-9220-90efbc0770e2/relationships/node_type?resourceVersion=id%3A2302"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/165c187e-42c9-4587-9220-90efbc0770e2/revision_uid?resourceVersion=id%3A2302"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/165c187e-42c9-4587-9220-90efbc0770e2/relationships/revision_uid?resourceVersion=id%3A2302"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/165c187e-42c9-4587-9220-90efbc0770e2/uid?resourceVersion=id%3A2302"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/165c187e-42c9-4587-9220-90efbc0770e2/relationships/uid?resourceVersion=id%3A2302"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "da42ac4a-f48f-4397-af4d-b66e913825fb",
+          "meta": {
+            "drupal_internal__target_id": 3
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/165c187e-42c9-4587-9220-90efbc0770e2/field_event_type?resourceVersion=id%3A2302"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/165c187e-42c9-4587-9220-90efbc0770e2/relationships/field_event_type?resourceVersion=id%3A2302"
+        }
+      }
+    }
+  }
+}

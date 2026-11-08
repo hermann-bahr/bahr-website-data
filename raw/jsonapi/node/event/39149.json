@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "9e3baa47-0c14-4f0c-930b-86c08e8a9e57",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/9e3baa47-0c14-4f0c-930b-86c08e8a9e57?resourceVersion=id%3A2907"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/9e3baa47-0c14-4f0c-930b-86c08e8a9e57?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39149,
+    "drupal_internal__vid": 2907,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "AS",
+    "created": "2011-07-08T10:06:26+00:00",
+    "changed": "2011-10-21T13:20:33+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39149",
+      "pid": 877,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 28. Dezember 1909 besucht Schnitzler Bahr in seinem Haus in Ober-St. Veit und gratuliert zum Erfolg des \"Konzert\". (Das Stück selbst hält er, wie er sich schon früher notierte)<blockquote>Ich schwanke; ein furchtbarer Schmarrn.</blockquote>",
+      "format": "full_html",
+      "processed": "Am 28. Dezember 1909 besucht Schnitzler Bahr in seinem Haus in Ober-St. Veit und gratuliert zum Erfolg des \"Konzert\". (Das Stück selbst hält er, wie er sich schon früher notierte)<blockquote>Ich schwanke; ein furchtbarer Schmarrn.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1909-12-28",
+      "end_value": "1909-12-28"
+    },
+    "field_sources": [
+      "Schnitzler: Tagebuch, 1909-1912, 113. ",
+      "Schnitzler: Tagebuch, 1909-1912, 80-81. (16.7.1909)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9e3baa47-0c14-4f0c-930b-86c08e8a9e57/node_type?resourceVersion=id%3A2907"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9e3baa47-0c14-4f0c-930b-86c08e8a9e57/relationships/node_type?resourceVersion=id%3A2907"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9e3baa47-0c14-4f0c-930b-86c08e8a9e57/revision_uid?resourceVersion=id%3A2907"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9e3baa47-0c14-4f0c-930b-86c08e8a9e57/relationships/revision_uid?resourceVersion=id%3A2907"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9e3baa47-0c14-4f0c-930b-86c08e8a9e57/uid?resourceVersion=id%3A2907"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9e3baa47-0c14-4f0c-930b-86c08e8a9e57/relationships/uid?resourceVersion=id%3A2907"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9e3baa47-0c14-4f0c-930b-86c08e8a9e57/field_event_type?resourceVersion=id%3A2907"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9e3baa47-0c14-4f0c-930b-86c08e8a9e57/relationships/field_event_type?resourceVersion=id%3A2907"
+        }
+      }
+    }
+  }
+}

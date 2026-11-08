@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="forschung__derivate__bahr-im-feuilleton-der-frankfurter-zeitung-1918-1933" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Bahr im Feuilleton der "Frankfurter Zeitung" 1918-1933</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">27835</idno>
+        <idno type="drupal-alias">/bahr-im-feuilleton-der-frankfurter-zeitung-1918-1933</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bahr-im-feuilleton-der-frankfurter-zeitung-1918-1933">https://bahr.univie.ac.at/bahr-im-feuilleton-der-frankfurter-zeitung-1918-1933</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="6" key="forschung">Forschung</term>
+          <term n="10" key="derivate">Derivate</term>
+          <term n="7" key="bahr-im-feuilleton-der-frankfurter-zeitung-1918-1933" type="eintrag">Bahr im Feuilleton der "Frankfurter Zeitung" 1918-1933</term>
+        </keywords>
+        <classCode scheme="drupal-type">page</classCode>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2010-05-17T15:59:04+00:00" type="created">angelegt in Drupal</change>
+      <change when="2013-08-27T10:43:16+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head>
+          <hi rend="italic">Almut Todorow</hi>
+        </head>
+        <p>Frau Prof. Dr. Todorow von der <ref target="http://www.uni-konstanz.de/FuF/Philo/LitWiss/Germanistik/sites/personalia/todorow/todorow.htm">Universität Konstanz</ref> hat das FZ-Feuilleton der Weimarer Republik digital erschlossen und uns eine Auswertung zur Verfügung gestellt. Die Texte Bahrs wurden in der Artikeldatenbank übernommen. Der vollständige Auszug zu Bahr umfasst mehr und wird <ref target="https://bahr.univie.ac.at/sites/all/frankfurterzeitung.pdf" type="sites-all">hier</ref> zugänglich gemacht. Gebrauchsanleitung: Der Auszug steht einerseits in einer lesbaren Satzform, andererseits enthält er zahlreiche Abkürzungen und Codierungen, die die Erhebungsgrammatik abbilden. Überwiegend sind sie selbstevident auflösbar. Eine genauere Bestimmung ist mit Hilfe des Buchs <hi rend="italic">Almut Todorow: Das Feuilleton der 'Frankfurter Zeitung' in der Weimarer Republik. Tübingen: Niemeyer Verlag, 1996</hi> möglich, wo sich Seite 195ff. bzw. 241f. Legenden zu den Daten finden.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

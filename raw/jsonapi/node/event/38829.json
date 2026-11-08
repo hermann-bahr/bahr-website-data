@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "da25b091-e8c0-431f-9012-051a5155a2f6",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/da25b091-e8c0-431f-9012-051a5155a2f6?resourceVersion=id%3A2648"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/da25b091-e8c0-431f-9012-051a5155a2f6?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38829,
+    "drupal_internal__vid": 2648,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Ischl",
+    "created": "2011-02-02T18:57:45+00:00",
+    "changed": "2011-11-03T11:36:00+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38829",
+      "pid": 575,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Gemeinsam mit seiner Frau ist er vom 7. Mai 1898 für zwei Wochen in Ischl, wohnhaft Brennerstr. 5.",
+      "format": "full_html",
+      "processed": "Gemeinsam mit seiner Frau ist er vom 7. Mai 1898 für zwei Wochen in Ischl, wohnhaft Brennerstr. 5.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1898-05-07",
+      "end_value": "1898-05-21"
+    },
+    "field_sources": [
+      "Brief an den Vater, 10.5.1898",
+      "Hermann Bahr: Das Landhaus. Die Zeit, 15 (1898) #191, 139-140. (28.5.1898)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/da25b091-e8c0-431f-9012-051a5155a2f6/node_type?resourceVersion=id%3A2648"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/da25b091-e8c0-431f-9012-051a5155a2f6/relationships/node_type?resourceVersion=id%3A2648"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/da25b091-e8c0-431f-9012-051a5155a2f6/revision_uid?resourceVersion=id%3A2648"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/da25b091-e8c0-431f-9012-051a5155a2f6/relationships/revision_uid?resourceVersion=id%3A2648"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/da25b091-e8c0-431f-9012-051a5155a2f6/uid?resourceVersion=id%3A2648"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/da25b091-e8c0-431f-9012-051a5155a2f6/relationships/uid?resourceVersion=id%3A2648"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/da25b091-e8c0-431f-9012-051a5155a2f6/field_event_type?resourceVersion=id%3A2648"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/da25b091-e8c0-431f-9012-051a5155a2f6/relationships/field_event_type?resourceVersion=id%3A2648"
+        }
+      }
+    }
+  }
+}

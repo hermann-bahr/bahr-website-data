@@ -1,0 +1,109 @@
+{
+  "type": "node--image",
+  "id": "ed166c27-5a39-44f0-8b04-f9bc5e51c62d",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/image/ed166c27-5a39-44f0-8b04-f9bc5e51c62d?resourceVersion=id%3A3963"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/image/ed166c27-5a39-44f0-8b04-f9bc5e51c62d?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28299,
+    "drupal_internal__vid": 3963,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:44:08+00:00",
+    "status": true,
+    "title": "1897 Bahr als Vorleser",
+    "created": "2010-12-14T11:42:54+00:00",
+    "changed": "2011-03-16T15:48:39+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/bild/28299",
+      "pid": 429,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<i>Unbekannte Herkunft. Der Artikel \"Hermann Bahr als Vorleser\" abgedruckt in Wiener Bilder, #47, Jahr unklar, vermutlich Kommentar zur Conferènce Bahrs am 7. November 1897 (\"vorletzten Sonntag\"). Bahr las Saar (\"Pincelliade\") und Ebner-Eschenbach, die selbst im Saal anwesend war. Es folgt die Kolumne \"Modeglossen\".</i>",
+      "format": "full_html",
+      "processed": "<i>Unbekannte Herkunft. Der Artikel \"Hermann Bahr als Vorleser\" abgedruckt in Wiener Bilder, #47, Jahr unklar, vermutlich Kommentar zur Conferènce Bahrs am 7. November 1897 (\"vorletzten Sonntag\"). Bahr las Saar (\"Pincelliade\") und Ebner-Eschenbach, die selbst im Saal anwesend war. Es folgt die Kolumne \"Modeglossen\".</i>",
+      "summary": null
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "e2381624-d098-4c5b-bdd7-5dbfd773b84e",
+        "meta": {
+          "drupal_internal__target_id": "image"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/ed166c27-5a39-44f0-8b04-f9bc5e51c62d/node_type?resourceVersion=id%3A3963"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/ed166c27-5a39-44f0-8b04-f9bc5e51c62d/relationships/node_type?resourceVersion=id%3A3963"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/ed166c27-5a39-44f0-8b04-f9bc5e51c62d/revision_uid?resourceVersion=id%3A3963"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/ed166c27-5a39-44f0-8b04-f9bc5e51c62d/relationships/revision_uid?resourceVersion=id%3A3963"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/ed166c27-5a39-44f0-8b04-f9bc5e51c62d/uid?resourceVersion=id%3A3963"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/ed166c27-5a39-44f0-8b04-f9bc5e51c62d/relationships/uid?resourceVersion=id%3A3963"
+        }
+      }
+    },
+    "field_images": {
+      "data": [
+        {
+          "type": "media--image",
+          "id": "eb86b2ed-5e17-4b9e-aa69-d228a245178a",
+          "meta": {
+            "drupal_internal__target_id": 142
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/ed166c27-5a39-44f0-8b04-f9bc5e51c62d/field_images?resourceVersion=id%3A3963"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/ed166c27-5a39-44f0-8b04-f9bc5e51c62d/relationships/field_images?resourceVersion=id%3A3963"
+        }
+      }
+    }
+  }
+}

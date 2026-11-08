@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "734cf2f1-72b2-4669-a3ba-da4e6382e85b",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/734cf2f1-72b2-4669-a3ba-da4e6382e85b?resourceVersion=id%3A2519"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/734cf2f1-72b2-4669-a3ba-da4e6382e85b?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28214,
+    "drupal_internal__vid": 2519,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Beuron",
+    "created": "2010-10-09T14:20:55+00:00",
+    "changed": "2011-12-20T16:40:11+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28214",
+      "pid": 357,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 13. Juni 1918 reist Bahr nach Beuron, wo er acht oder zehn Tage bleiben will. Am 19. ist er retour: die Augen sind wieder schmerzhafter.",
+      "format": "full_html",
+      "processed": "Am 13. Juni 1918 reist Bahr nach Beuron, wo er acht oder zehn Tage bleiben will. Am 19. ist er retour: die Augen sind wieder schmerzhafter.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1918-06-13",
+      "end_value": "1918-06-19"
+    },
+    "field_sources": [
+      "Brief an Fritz Mauthner, 17.6.1918, aus Beuron",
+      "Bahr/Redlich, 348-349.",
+      "Hermann Bahr: Meister und Meisterbriefe um Hermann Bahr. Aus seinen Entwürfen, Tagebüchern und seinem Briefwechsel. Ausgewählt und eingeleitet von Joseph Gregor. Wien: Hermann Bauer 1947, 177. (An HvH, 19.6.1918)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/734cf2f1-72b2-4669-a3ba-da4e6382e85b/node_type?resourceVersion=id%3A2519"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/734cf2f1-72b2-4669-a3ba-da4e6382e85b/relationships/node_type?resourceVersion=id%3A2519"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/734cf2f1-72b2-4669-a3ba-da4e6382e85b/revision_uid?resourceVersion=id%3A2519"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/734cf2f1-72b2-4669-a3ba-da4e6382e85b/relationships/revision_uid?resourceVersion=id%3A2519"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/734cf2f1-72b2-4669-a3ba-da4e6382e85b/uid?resourceVersion=id%3A2519"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/734cf2f1-72b2-4669-a3ba-da4e6382e85b/relationships/uid?resourceVersion=id%3A2519"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/734cf2f1-72b2-4669-a3ba-da4e6382e85b/field_event_type?resourceVersion=id%3A2519"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/734cf2f1-72b2-4669-a3ba-da4e6382e85b/relationships/field_event_type?resourceVersion=id%3A2519"
+        }
+      }
+    }
+  }
+}

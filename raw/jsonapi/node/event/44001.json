@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "6c08e826-ca7c-4e70-bed5-194f89ee3503",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/6c08e826-ca7c-4e70-bed5-194f89ee3503?resourceVersion=id%3A2928"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/6c08e826-ca7c-4e70-bed5-194f89ee3503?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44001,
+    "drupal_internal__vid": 2928,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Generalversammlung Raimund-Theater",
+    "created": "2011-07-13T13:44:55+00:00",
+    "changed": "2011-07-13T13:44:55+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44001",
+      "pid": 901,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahr \"inszeniert\" auf der Generalversammung des Raimund-Theaters 1895 eine Opposition gegen den Direktor Adam Müller-Guttenbrunn. Die Presse berichtet gleich von einem (gescheiterten) Putschversuch. Ein halbes Jahr, am 15. Jänner, später hat sich Bahr durchgesetzt und auf die Entlassung Müller-Guttenbrunns folgt mit Karl Langkammer ein enger Freund Bahrs.",
+      "format": "full_html",
+      "processed": "Bahr \"inszeniert\" auf der Generalversammung des Raimund-Theaters 1895 eine Opposition gegen den Direktor Adam Müller-Guttenbrunn. Die Presse berichtet gleich von einem (gescheiterten) Putschversuch. Ein halbes Jahr, am 15. Jänner, später hat sich Bahr durchgesetzt und auf die Entlassung Müller-Guttenbrunns folgt mit Karl Langkammer ein enger Freund Bahrs.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1895-05-21",
+      "end_value": "1895-05-21"
+    },
+    "field_sources": [
+      "Brief an den Vater, 21.5.1895",
+      "Tagebücher (Csàky), II, XIX-XX."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6c08e826-ca7c-4e70-bed5-194f89ee3503/node_type?resourceVersion=id%3A2928"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6c08e826-ca7c-4e70-bed5-194f89ee3503/relationships/node_type?resourceVersion=id%3A2928"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6c08e826-ca7c-4e70-bed5-194f89ee3503/revision_uid?resourceVersion=id%3A2928"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6c08e826-ca7c-4e70-bed5-194f89ee3503/relationships/revision_uid?resourceVersion=id%3A2928"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6c08e826-ca7c-4e70-bed5-194f89ee3503/uid?resourceVersion=id%3A2928"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6c08e826-ca7c-4e70-bed5-194f89ee3503/relationships/uid?resourceVersion=id%3A2928"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6c08e826-ca7c-4e70-bed5-194f89ee3503/field_event_type?resourceVersion=id%3A2928"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6c08e826-ca7c-4e70-bed5-194f89ee3503/relationships/field_event_type?resourceVersion=id%3A2928"
+        }
+      }
+    }
+  }
+}

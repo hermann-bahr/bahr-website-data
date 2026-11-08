@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bibliografie__zur-bibliografie" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Bibliografie der Schriften Hermann Bahrs</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">17884</idno>
+        <idno type="drupal-alias">/bibliografie-der-schriften-hermann-bahrs</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bibliografie-der-schriften-hermann-bahrs">https://bahr.univie.ac.at/bibliografie-der-schriften-hermann-bahrs</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="1" key="bibliografie">Bibliografie</term>
+          <term n="1" key="zur-bibliografie">Zur Bibliografie</term>
+        </keywords>
+        <classCode scheme="drupal-type">page</classCode>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2010-03-15T17:54:35+00:00" type="created">angelegt in Drupal</change>
+      <change when="2020-02-27T14:15:14+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head>
+          <hi rend="italic">Martin Anton Müller</hi>
+        </head>
+        <p>Das bislang zuverlässigste und ausführlichste Verzeichnis aller Monographien Hermann Bahrs stammt von Kurt Thomasberger. Es erschien 1954 im Anhang einer Bahr-Biographie von Heinz Kindermann. Trotzdem es sich durch hohe Verlässlichkeit auszeichnet, zwingen die seither stattgefundene Forschung, aber auch die fünfzig Jahre später zur Verfügung stehenden bibliografischen Mittel, einige Änderungen im Detail vorzunehmen. So wird die Bibliografie hier in einer überarbeiteten Fassung zur Verfügung gestellt, die, in Anerkennung der Leistung Thomasbergers, bewusst nicht den Anspruch erhebt, eine Neuausgabe zu sein. In Ergänzung zu den Angaben Thomasbergers kommt es zu folgenden Erweiterungen:</p>
+        <list type="gloss">
+          <label>Erstdrucke</label>
+          <item/>
+          <label>Inhaltsverzeichnisse</label>
+          <item/>
+          <label>Rezensionen</label>
+          <item/>
+          <label>Aufführungen</label>
+          <item/>
+          <label>Digitalisate</label>
+          <item/>
+        </list>
+      </div>
+      <div>
+        <head>Einteilung nach Textgruppen</head>
+        <table>
+          <row>
+            <cell role="label">Neu</cell>
+            <cell role="label">Thomasberger</cell>
+          </row>
+          <row>
+            <cell>1. <ref target="bibliografie__theaterstuecke.xml">Theaterstücke</ref></cell>
+            <cell>Theaterstücke</cell>
+          </row>
+          <row>
+            <cell>2. <ref target="bibliografie__literarische-prosa.xml">Literarische Prosa</ref></cell>
+            <cell>Romane und Novellen</cell>
+          </row>
+          <row>
+            <cell>3. <ref target="bibliografie__kritische-schriften.xml">Kritische Schriften</ref></cell>
+            <cell>Schriften in Prosa</cell>
+          </row>
+          <row>
+            <cell>4. <ref target="bibliografie__schriften-zum-theater.xml">Schriften zum Theater</ref></cell>
+            <cell>Schriften für und über das Theater</cell>
+          </row>
+          <row>
+            <cell>5. <ref target="bibliografie__tagebuch.xml">Tagebuch</ref></cell>
+            <cell>Tagebücher</cell>
+          </row>
+          <row>
+            <cell>6. <ref target="bibliografie__herausgaben.xml">Herausgaben</ref></cell>
+            <cell>---</cell>
+          </row>
+          <row>
+            <cell>7. <ref target="bibliografie__posthume-veroeffentlichungen.xml">Posthume Veröffentlichungen</ref></cell>
+            <cell>---</cell>
+          </row>
+          <row>
+            <cell>      ---</cell>
+            <cell>Beiträge (Vorworte etc.) zu Büchern</cell>
+          </row>
+        </table>
+      </div>
+      <div>
+        <head>Die wichtigsten vorgenommenen Änderungen</head>
+        <list rend="bulleted">
+          <item>Nur vier der fünf Gruppen, in die Thomasberger die Bücher einteilt, sind inhaltlich motiviert. Die fünfte, "Schriften in Prosa" bleibt ein Sammelbegriff mit nicht Zugeordnetem. Für eine größere Klarheit soll die Umbenennung in "Kritische Schriften" sorgen. Für "Romane und Novellen" wird "Literarische Prosa" verwendet.</item>
+          <item>Die Gruppen bleiben bis auf drei Änderungen gleich. Einzig die dezidiert literarische Arbeit "Fin de Siècle" wird nunmehr zu den literarischen Arbeiten geordnet, die beiden Bücher zu Wagner und Bayreuth werden den Schriften zum Theater zugeteilt. Eine neue Kategorie "Posthume Veröffentlichungen" erfasst wichtige Editionen nach dem Tod Hermann Bahrs, auch jene, die Thomasberger in den "Schriften in Prosa" aufnahm.</item>
+          <item>Eine neue Kategorie verzeichnet von Bahr herausgegebene Werke</item>
+          <item>Zwei neue Texte, "Das Veilchen" und "Freie Erziehung" wurden aufgenommen</item>
+          <item>Drei Texte, deren Nachweis schon Thomasberger Zweifel an ihrer Existenz äußern ließ und die auch seither nicht nachweisbar sind, wurden gestrichen. Es handelt sich dabei um die letzten beiden Bände "Tagebücher" und den vermuteten Separatdruck "Der neue Stil" aus "Studien zur Kritik der Moderne"</item>
+          <item>Die sechste Kategorie Thomasbergers, die Bahrs Beiträge zu Büchern beinhaltet, wurde aufgegeben. Sie umfasste nur einen Bruchteil der im Zuge des <ref target="https://bahr.univie.ac.at/textverzeichnis" type="legacy">Textverzeichnis</ref> auf dieser Website zusammengetragenen Texte.</item>
+          <item>Die von Thomasberger angegebenen Hinweise auf den Satz in Fraktur oder Antiqua wurden weggelassen.</item>
+        </list>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "9690aa06-e4cb-424e-a0f9-969602214476",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/9690aa06-e4cb-424e-a0f9-969602214476?resourceVersion=id%3A3428"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/9690aa06-e4cb-424e-a0f9-969602214476?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49601,
+    "drupal_internal__vid": 3428,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Der fixe Punkt",
+    "created": "2011-11-11T14:52:16+00:00",
+    "changed": "2012-01-17T11:34:20+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49601",
+      "pid": 1417,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahrs erstes aufgeführtes Theaterstück, der \"Fixe Punkt\" wird im Zuge der Laieninszenierungen im Tegetthoffsaal aufgeführt, Bahr spielt selbst mit.",
+      "format": "full_html",
+      "processed": "Bahrs erstes aufgeführtes Theaterstück, der \"Fixe Punkt\" wird im Zuge der Laieninszenierungen im Tegetthoffsaal aufgeführt, Bahr spielt selbst mit.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1882-05-01",
+      "end_value": "1882-05-01"
+    },
+    "field_sources": [
+      "Selbstbildnis, 133.",
+      "Kurz erwähnt in: Liebe der Lebenden, II, 284.",
+      "(Hier auf 1. Mai 1882 datiert, aber Datum völlig offen)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9690aa06-e4cb-424e-a0f9-969602214476/node_type?resourceVersion=id%3A3428"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9690aa06-e4cb-424e-a0f9-969602214476/relationships/node_type?resourceVersion=id%3A3428"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9690aa06-e4cb-424e-a0f9-969602214476/revision_uid?resourceVersion=id%3A3428"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9690aa06-e4cb-424e-a0f9-969602214476/relationships/revision_uid?resourceVersion=id%3A3428"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9690aa06-e4cb-424e-a0f9-969602214476/uid?resourceVersion=id%3A3428"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9690aa06-e4cb-424e-a0f9-969602214476/relationships/uid?resourceVersion=id%3A3428"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "27f3d2a4-8970-4726-9ab8-ce37707ec1bc",
+          "meta": {
+            "drupal_internal__target_id": 1
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9690aa06-e4cb-424e-a0f9-969602214476/field_event_type?resourceVersion=id%3A3428"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9690aa06-e4cb-424e-a0f9-969602214476/relationships/field_event_type?resourceVersion=id%3A3428"
+        }
+      }
+    }
+  }
+}

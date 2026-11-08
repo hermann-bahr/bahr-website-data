@@ -1,0 +1,118 @@
+{
+  "type": "media--image_vdg",
+  "id": "68cabf47-174a-433e-a66f-f7675184a9a5",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/68cabf47-174a-433e-a66f-f7675184a9a5?resourceVersion=id%3A192"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/68cabf47-174a-433e-a66f-f7675184a9a5?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__mid": 191,
+    "drupal_internal__vid": 192,
+    "langcode": "de",
+    "revision_created": "2020-02-27T15:40:34+00:00",
+    "status": true,
+    "name": "8.jpg",
+    "created": "2020-02-27T15:40:19+00:00",
+    "changed": "2020-02-27T15:40:19+00:00",
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": null,
+      "pid": null,
+      "langcode": "de"
+    }
+  },
+  "relationships": {
+    "bundle": {
+      "data": {
+        "type": "media_type--media_type",
+        "id": "1e270fb0-cbb8-4385-a6d7-69db224c61f7",
+        "meta": {
+          "drupal_internal__target_id": "image_vdg"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/68cabf47-174a-433e-a66f-f7675184a9a5/bundle?resourceVersion=id%3A192"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/68cabf47-174a-433e-a66f-f7675184a9a5/relationships/bundle?resourceVersion=id%3A192"
+        }
+      }
+    },
+    "revision_user": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/68cabf47-174a-433e-a66f-f7675184a9a5/revision_user?resourceVersion=id%3A192"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/68cabf47-174a-433e-a66f-f7675184a9a5/relationships/revision_user?resourceVersion=id%3A192"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/68cabf47-174a-433e-a66f-f7675184a9a5/uid?resourceVersion=id%3A192"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/68cabf47-174a-433e-a66f-f7675184a9a5/relationships/uid?resourceVersion=id%3A192"
+        }
+      }
+    },
+    "thumbnail": {
+      "data": {
+        "type": "file--file",
+        "id": "591c9571-6f78-435f-ae9a-3e97c6f11891",
+        "meta": {
+          "alt": "Hermann Bahr, Kritische Schriften - 8 - Rede über Klimt / Gegen Klimt",
+          "title": null,
+          "width": 200,
+          "height": 286,
+          "drupal_internal__target_id": 266
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/68cabf47-174a-433e-a66f-f7675184a9a5/thumbnail?resourceVersion=id%3A192"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/68cabf47-174a-433e-a66f-f7675184a9a5/relationships/thumbnail?resourceVersion=id%3A192"
+        }
+      }
+    },
+    "field_media_image_1": {
+      "data": {
+        "type": "file--file",
+        "id": "591c9571-6f78-435f-ae9a-3e97c6f11891",
+        "meta": {
+          "alt": "Hermann Bahr, Kritische Schriften - 8 - Rede über Klimt / Gegen Klimt",
+          "title": "",
+          "width": 200,
+          "height": 286,
+          "drupal_internal__target_id": 266
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/68cabf47-174a-433e-a66f-f7675184a9a5/field_media_image_1?resourceVersion=id%3A192"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/68cabf47-174a-433e-a66f-f7675184a9a5/relationships/field_media_image_1?resourceVersion=id%3A192"
+        }
+      }
+    }
+  }
+}

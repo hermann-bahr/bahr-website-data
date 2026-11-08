@@ -1,0 +1,109 @@
+{
+  "type": "node--image",
+  "id": "b294b386-291c-40d8-9063-5d93df8b8146",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/image/b294b386-291c-40d8-9063-5d93df8b8146?resourceVersion=id%3A3942"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/image/b294b386-291c-40d8-9063-5d93df8b8146?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28239,
+    "drupal_internal__vid": 3942,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:44:08+00:00",
+    "status": true,
+    "title": "1908 Lido",
+    "created": "2010-11-09T11:59:57+00:00",
+    "changed": "2010-11-09T12:13:31+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/bild/28239",
+      "pid": 373,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<i>Koloman Moser aus: Der Merker, 4 (1913) #13 (1. Juli-Heft)</i>",
+      "format": "full_html",
+      "processed": "<i>Koloman Moser aus: Der Merker, 4 (1913) #13 (1. Juli-Heft)</i>",
+      "summary": null
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "e2381624-d098-4c5b-bdd7-5dbfd773b84e",
+        "meta": {
+          "drupal_internal__target_id": "image"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/b294b386-291c-40d8-9063-5d93df8b8146/node_type?resourceVersion=id%3A3942"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/b294b386-291c-40d8-9063-5d93df8b8146/relationships/node_type?resourceVersion=id%3A3942"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/b294b386-291c-40d8-9063-5d93df8b8146/revision_uid?resourceVersion=id%3A3942"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/b294b386-291c-40d8-9063-5d93df8b8146/relationships/revision_uid?resourceVersion=id%3A3942"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/b294b386-291c-40d8-9063-5d93df8b8146/uid?resourceVersion=id%3A3942"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/b294b386-291c-40d8-9063-5d93df8b8146/relationships/uid?resourceVersion=id%3A3942"
+        }
+      }
+    },
+    "field_images": {
+      "data": [
+        {
+          "type": "media--image",
+          "id": "c5959eaf-8c3e-4e95-ae73-9046896cad76",
+          "meta": {
+            "drupal_internal__target_id": 121
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/b294b386-291c-40d8-9063-5d93df8b8146/field_images?resourceVersion=id%3A3942"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/b294b386-291c-40d8-9063-5d93df8b8146/relationships/field_images?resourceVersion=id%3A3942"
+        }
+      }
+    }
+  }
+}

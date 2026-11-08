@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "12b5741d-cd44-4cbc-a88a-a7a97a9d70e5",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/12b5741d-cd44-4cbc-a88a-a7a97a9d70e5?resourceVersion=id%3A3084"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/12b5741d-cd44-4cbc-a88a-a7a97a9d70e5?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44168,
+    "drupal_internal__vid": 3084,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Semmering",
+    "created": "2011-09-15T13:07:03+00:00",
+    "changed": "2012-01-26T14:08:21+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44168",
+      "pid": 1063,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Vom 10. bis 17. Jänner 1909 ist Bahr am Semmering, dazwischen vielleicht ein Tagesausflug nach Spittal am 11.?",
+      "format": "full_html",
+      "processed": "Vom 10. bis 17. Jänner 1909 ist Bahr am Semmering, dazwischen vielleicht ein Tagesausflug nach Spittal am 11.?",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1909-01-10",
+      "end_value": "1909-01-17"
+    },
+    "field_sources": [
+      "Bahr/Kvapil, 90.",
+      "Hermann Bahr: Aufzeichnungen 1909-1911. Ausgabe in Vorbereitung von Kurt Ifkovits\r\n"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/12b5741d-cd44-4cbc-a88a-a7a97a9d70e5/node_type?resourceVersion=id%3A3084"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/12b5741d-cd44-4cbc-a88a-a7a97a9d70e5/relationships/node_type?resourceVersion=id%3A3084"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/12b5741d-cd44-4cbc-a88a-a7a97a9d70e5/revision_uid?resourceVersion=id%3A3084"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/12b5741d-cd44-4cbc-a88a-a7a97a9d70e5/relationships/revision_uid?resourceVersion=id%3A3084"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/12b5741d-cd44-4cbc-a88a-a7a97a9d70e5/uid?resourceVersion=id%3A3084"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/12b5741d-cd44-4cbc-a88a-a7a97a9d70e5/relationships/uid?resourceVersion=id%3A3084"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/12b5741d-cd44-4cbc-a88a-a7a97a9d70e5/field_event_type?resourceVersion=id%3A3084"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/12b5741d-cd44-4cbc-a88a-a7a97a9d70e5/relationships/field_event_type?resourceVersion=id%3A3084"
+        }
+      }
+    }
+  }
+}

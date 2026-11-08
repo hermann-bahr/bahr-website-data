@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bibliografie__theaterstuecke__die-nixe-1896" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Die Nixe [1896]</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">49651</idno>
+        <idno type="drupal-alias">/bibliografie/49651</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bibliografie/49651">https://bahr.univie.ac.at/bibliografie/49651</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+        <bibl type="beschriebene-ausgabe">
+          <author>Hermann Bahr</author>
+          <title type="main">Die Nixe</title>
+          <title type="sub">Drama in vier Akten. Nach dem Russischen des Spashinskij</title>
+          <pubPlace>München</pubPlace>
+          <publisher>Brakl's Rubinverlag</publisher>
+          <date>1896</date>
+          <extent>93</extent>
+          <note>Datierung [1896]. Das GV Gesamtverzeichnis deutschen Schrifttums gibt [1898] an. Als Manuskript gedruckt. Bahr behauptet gegenüber seinem Vater, gerade einmal 17 Stunden an dem Werk gesessen zu sein. (Brief an den Vater, 17.3.1896) Kennengelernt hat Bahr Špažinskij durch J. S. Machar. (Brief an Šimáček, 9.8.1894, in: Kostrbová, Ifkovits; Doubek: Die Zeit als Mittler zwischen der Tschechischen und Wiener Moderne, 295-296).</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="1" key="bibliografie">Bibliografie</term>
+          <term n="2" key="theaterstuecke">Theaterstücke</term>
+          <term n="28" key="die-nixe-1896" type="eintrag">Die Nixe [1896]</term>
+        </keywords>
+        <classCode scheme="drupal-type">bibliographie</classCode>
+        <keywords scheme="bibliografie_type">
+          <term>Theaterstücke</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2011-11-22T15:42:13+00:00" type="created">angelegt in Drupal</change>
+      <change when="2011-11-22T15:42:13+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="bib">
+        <head>Bibliografie</head>
+        <table type="bibliografie">
+          <row>
+            <cell>Autor:</cell>
+            <cell>Hermann Bahr</cell>
+          </row>
+          <row>
+            <cell>Titel:</cell>
+            <cell>Die Nixe</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>Drama in vier Akten. Nach dem Russischen des Spashinskij</cell>
+          </row>
+          <row>
+            <cell>Ort:</cell>
+            <cell>München</cell>
+          </row>
+          <row>
+            <cell>Verlag:</cell>
+            <cell>Brakl's Rubinverlag</cell>
+          </row>
+          <row>
+            <cell>Jahr:</cell>
+            <cell>1896</cell>
+          </row>
+          <row>
+            <cell>Seiten:</cell>
+            <cell>93</cell>
+          </row>
+          <row>
+            <cell>Anm.:</cell>
+            <cell>Datierung [1896]. Das GV Gesamtverzeichnis deutschen Schrifttums gibt [1898] an. Als Manuskript gedruckt. Bahr behauptet gegenüber seinem Vater, gerade einmal 17 Stunden an dem Werk gesessen zu sein. (Brief an den Vater, 17.3.1896) Kennengelernt hat Bahr Špažinskij durch J. S. Machar. (Brief an Šimáček, 9.8.1894, in: Kostrbová, Ifkovits; Doubek: Die Zeit als Mittler zwischen der Tschechischen und Wiener Moderne, 295-296).</cell>
+          </row>
+        </table>
+      </div>
+      <div xml:id="auff">
+        <head>Inszenierungen</head>
+        <p>Uraufführung 15.3.1896 Münchner Gärtnertortheater mit Konrad Dreher und Emil Norini Mai 1896 Nürnberg ? 28. Jänner 1898 Stadttheater Marburg.</p>
+      </div>
+      <div xml:id="rezens">
+        <head>Rezensionen</head>
+        <p>Stümcke, Heinrich: Hermann Bahr und seine "Nixe". In: Die Gesellschaft, 10 (1896) #8, 4. [Brief]</p>
+      </div>
+    </body>
+  </text>
+</TEI>

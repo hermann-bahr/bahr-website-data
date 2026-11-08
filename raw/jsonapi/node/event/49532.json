@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "9ef8f7de-d095-47d7-a4d8-6d6b33d356bf",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/9ef8f7de-d095-47d7-a4d8-6d6b33d356bf?resourceVersion=id%3A3365"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/9ef8f7de-d095-47d7-a4d8-6d6b33d356bf?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49532,
+    "drupal_internal__vid": 3365,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Vorträge Schweiz, Absage",
+    "created": "2011-10-28T12:01:09+00:00",
+    "changed": "2011-10-28T12:01:09+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49532",
+      "pid": 1349,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Die Grippe zwingt Bahr, geplante Vorträge in der Schweiz im März/April 1923 abzusagen.",
+      "format": "full_html",
+      "processed": "Die Grippe zwingt Bahr, geplante Vorträge in der Schweiz im März/April 1923 abzusagen.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1923-04-18",
+      "end_value": "1923-04-18"
+    },
+    "field_sources": [
+      "Bahr/Redlich, 487. (An R. 18.4.1923)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9ef8f7de-d095-47d7-a4d8-6d6b33d356bf/node_type?resourceVersion=id%3A3365"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9ef8f7de-d095-47d7-a4d8-6d6b33d356bf/relationships/node_type?resourceVersion=id%3A3365"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9ef8f7de-d095-47d7-a4d8-6d6b33d356bf/revision_uid?resourceVersion=id%3A3365"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9ef8f7de-d095-47d7-a4d8-6d6b33d356bf/relationships/revision_uid?resourceVersion=id%3A3365"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9ef8f7de-d095-47d7-a4d8-6d6b33d356bf/uid?resourceVersion=id%3A3365"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9ef8f7de-d095-47d7-a4d8-6d6b33d356bf/relationships/uid?resourceVersion=id%3A3365"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9ef8f7de-d095-47d7-a4d8-6d6b33d356bf/field_event_type?resourceVersion=id%3A3365"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9ef8f7de-d095-47d7-a4d8-6d6b33d356bf/relationships/field_event_type?resourceVersion=id%3A3365"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "type": "media--image_vdg",
+  "id": "52ecd8f5-6653-4671-9606-92f4e1539cd0",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/52ecd8f5-6653-4671-9606-92f4e1539cd0?resourceVersion=id%3A185"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/52ecd8f5-6653-4671-9606-92f4e1539cd0?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__mid": 184,
+    "drupal_internal__vid": 185,
+    "langcode": "de",
+    "revision_created": "2020-02-27T15:33:40+00:00",
+    "status": true,
+    "name": "Hermann Bahr, Kritische Schriften - 1 - Zur Kritik der Moderne",
+    "created": "2020-02-27T15:29:49+00:00",
+    "changed": "2020-02-27T15:33:40+00:00",
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": null,
+      "pid": null,
+      "langcode": "de"
+    }
+  },
+  "relationships": {
+    "bundle": {
+      "data": {
+        "type": "media_type--media_type",
+        "id": "1e270fb0-cbb8-4385-a6d7-69db224c61f7",
+        "meta": {
+          "drupal_internal__target_id": "image_vdg"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/52ecd8f5-6653-4671-9606-92f4e1539cd0/bundle?resourceVersion=id%3A185"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/52ecd8f5-6653-4671-9606-92f4e1539cd0/relationships/bundle?resourceVersion=id%3A185"
+        }
+      }
+    },
+    "revision_user": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/52ecd8f5-6653-4671-9606-92f4e1539cd0/revision_user?resourceVersion=id%3A185"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/52ecd8f5-6653-4671-9606-92f4e1539cd0/relationships/revision_user?resourceVersion=id%3A185"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/52ecd8f5-6653-4671-9606-92f4e1539cd0/uid?resourceVersion=id%3A185"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/52ecd8f5-6653-4671-9606-92f4e1539cd0/relationships/uid?resourceVersion=id%3A185"
+        }
+      }
+    },
+    "thumbnail": {
+      "data": {
+        "type": "file--file",
+        "id": "7ef95191-2a84-40f6-b23f-349515efbe69",
+        "meta": {
+          "alt": "Hermann Bahr, Kritische Schriften - 1 - Zur Kritik der Moderne",
+          "title": null,
+          "width": 202,
+          "height": 286,
+          "drupal_internal__target_id": 259
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/52ecd8f5-6653-4671-9606-92f4e1539cd0/thumbnail?resourceVersion=id%3A185"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/52ecd8f5-6653-4671-9606-92f4e1539cd0/relationships/thumbnail?resourceVersion=id%3A185"
+        }
+      }
+    },
+    "field_media_image_1": {
+      "data": {
+        "type": "file--file",
+        "id": "7ef95191-2a84-40f6-b23f-349515efbe69",
+        "meta": {
+          "alt": "Hermann Bahr, Kritische Schriften - 1 - Zur Kritik der Moderne",
+          "title": "",
+          "width": 202,
+          "height": 286,
+          "drupal_internal__target_id": 259
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/52ecd8f5-6653-4671-9606-92f4e1539cd0/field_media_image_1?resourceVersion=id%3A185"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/52ecd8f5-6653-4671-9606-92f4e1539cd0/relationships/field_media_image_1?resourceVersion=id%3A185"
+        }
+      }
+    }
+  }
+}

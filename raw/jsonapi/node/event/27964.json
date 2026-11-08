@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "964fb0a1-a850-4c52-b89d-c4b01d51cae1",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/964fb0a1-a850-4c52-b89d-c4b01d51cae1?resourceVersion=id%3A2305"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/964fb0a1-a850-4c52-b89d-c4b01d51cae1?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27964,
+    "drupal_internal__vid": 2305,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Das Konzert",
+    "created": "2010-07-19T15:43:40+00:00",
+    "changed": "2011-12-20T13:14:16+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/27964",
+      "pid": 139,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahrs erfolgreichstes Stück hat am 23.12.1909 am Lessing-Theater in Berlin Première. Für die Regie zeichnet Otto Brahm. Der Autor ist dabei nicht anwesend.\r\n\r\nDie Buchausgabe erschien, mit Widmung an Richard Strauß, bereits am 1. August. \r\n\r\nEin erfolgreicher Dirigent zieht sich mit einer Geliebten auf eine Berghütte zurück und wird daselbst von den betrogenen Eheleuten aufgesucht. Von diesen wird ihnen mitgeteilt, in die Scheidung einzuwilligen. Somit von der Liebschaft in die Ehe gedrängt, erkennen diese, dass ihre erste Ehe die für sie richtige ist.",
+      "format": "full_html",
+      "processed": "Bahrs erfolgreichstes Stück hat am 23.12.1909 am Lessing-Theater in Berlin Première. Für die Regie zeichnet Otto Brahm. Der Autor ist dabei nicht anwesend.\n\nDie Buchausgabe erschien, mit Widmung an Richard Strauß, bereits am 1. August. \n\nEin erfolgreicher Dirigent zieht sich mit einer Geliebten auf eine Berghütte zurück und wird daselbst von den betrogenen Eheleuten aufgesucht. Von diesen wird ihnen mitgeteilt, in die Scheidung einzuwilligen. Somit von der Liebschaft in die Ehe gedrängt, erkennen diese, dass ihre erste Ehe die für sie richtige ist.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1909-12-23",
+      "end_value": "1909-12-23"
+    },
+    "field_sources": [
+      "Hermann Bahr: Das Konzert. Lustspiel in drei Akten. Berlin: E. Reiss, 1909.",
+      "Hermann Bahr: Meister und Meisterbriefe um Hermann Bahr. Aus seinen Entwürfen, Tagebüchern und seinem Briefwechsel. Ausgewählt und eingeleitet von Joseph Gregor. Wien: Hermann Bauer 1947, 74. (An R. Strauß, 1.8.1909)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/964fb0a1-a850-4c52-b89d-c4b01d51cae1/node_type?resourceVersion=id%3A2305"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/964fb0a1-a850-4c52-b89d-c4b01d51cae1/relationships/node_type?resourceVersion=id%3A2305"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/964fb0a1-a850-4c52-b89d-c4b01d51cae1/revision_uid?resourceVersion=id%3A2305"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/964fb0a1-a850-4c52-b89d-c4b01d51cae1/relationships/revision_uid?resourceVersion=id%3A2305"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/964fb0a1-a850-4c52-b89d-c4b01d51cae1/uid?resourceVersion=id%3A2305"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/964fb0a1-a850-4c52-b89d-c4b01d51cae1/relationships/uid?resourceVersion=id%3A2305"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "27f3d2a4-8970-4726-9ab8-ce37707ec1bc",
+          "meta": {
+            "drupal_internal__target_id": 1
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/964fb0a1-a850-4c52-b89d-c4b01d51cae1/field_event_type?resourceVersion=id%3A2305"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/964fb0a1-a850-4c52-b89d-c4b01d51cae1/relationships/field_event_type?resourceVersion=id%3A2305"
+        }
+      }
+    }
+  }
+}

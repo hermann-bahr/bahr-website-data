@@ -1,0 +1,109 @@
+{
+  "type": "node--bibliographie",
+  "id": "e18b5479-4328-4966-a8fd-0248a9cda56a",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/e18b5479-4328-4966-a8fd-0248a9cda56a?resourceVersion=id%3A3920"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/e18b5479-4328-4966-a8fd-0248a9cda56a?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49666,
+    "drupal_internal__vid": 3920,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:44:00+00:00",
+    "status": true,
+    "title": "Grotesken (1907)",
+    "created": "2011-11-22T16:59:39+00:00",
+    "changed": "2013-01-10T11:36:15+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/bibliografie/49666",
+      "pid": 1481,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<h3 id=\"bib\">Bibliografie</h3>\r\n<table class=\"bibliografie\">\r\n<tr><td>Autor:</td><td>Hermann Bahr</td></tr>\r\n<tr><td>Titel:</td><td>Grotesken</td></tr>\r\n<tr><td> </td><td>Der Klub der Erlöser (Schauspiel in einem Akt) – Der Faun – Die tiefe Natur (Ein Akt)</td></tr>\r\n<tr><td>Ort:</td><td>Wien</td></tr>\r\n<tr><td>Verlag:</td><td>C. Konegen</td></tr>\r\n<tr><td>Jahr:</td><td>1907</td></tr>\r\n<tr><td>Seiten:</td><td>264</td></tr>\r\n<tr><td>Anm.:</td><td>1906, vordatiert auf 1907.\r\n\"Der Klub\" ist Felix Salten, \"Der Faun\" Franz Blei gewidmet, \"Die tiefe Natur\" \"in Erinnerung an meinen lieben Anatol\" verfasst.\r\n\"Der Klub\" wurde, wie das Neue Wiener Tagblatt (39 (1905) #331, 10) am 30. November 1905 berichtet, vom Kaiserjubiläums-Stadttheater angenommen, von der Zensur aber nicht freigegeben. \r\nIm Nachlass ist ein Brief des Verlags (19.10.1906, A19743BaM) mit den Vertragsbedingungen erhalten. Als Bezahlung erhält Bahr 20% vom Buchhändler-Nettopreis von jedem tatsächlich verkauften Exemplar.</td></tr>\r\n</table>\r\n<h3 id=\"auff\">Inszenierungen</h3>Der Faun: 28. Oktober 1908, Wiener Kammerabende\r\nDie tiefe Natur: 21.11.1908 Deutsches Volkstheater, Wien\r\n\r\n<h3 id=\"rezens\">Rezensionen</h3>\r\n\r\n<p>Edmund Reimer (S. Edmund Ironside): Grotesken und Wien (Hermann Bahr). In: Das literarische Deutsch-Österreich, 7 (1907) #8, 3-7.\r\nE. v. W. [=Eduard von Waclawiczek] in Das literarische Deutsch-Österreich, 8 (1908) #12, 464-465. [\"Tiefe Natur\" und \"Krampus\" im Deutschen Volkstheater]</p>\r\n\r\n<h3 id=\"www\">Digitalisate</h3><a href=\"http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&aid=65\">Link</a>",
+      "format": "full_html",
+      "processed": "<h3 id=\"bib\">Bibliografie</h3>\n<table class=\"bibliografie\">\n<tr><td>Autor:</td><td>Hermann Bahr</td></tr>\n<tr><td>Titel:</td><td>Grotesken</td></tr>\n<tr><td> </td><td>Der Klub der Erlöser (Schauspiel in einem Akt) – Der Faun – Die tiefe Natur (Ein Akt)</td></tr>\n<tr><td>Ort:</td><td>Wien</td></tr>\n<tr><td>Verlag:</td><td>C. Konegen</td></tr>\n<tr><td>Jahr:</td><td>1907</td></tr>\n<tr><td>Seiten:</td><td>264</td></tr>\n<tr><td>Anm.:</td><td>1906, vordatiert auf 1907.\n\"Der Klub\" ist Felix Salten, \"Der Faun\" Franz Blei gewidmet, \"Die tiefe Natur\" \"in Erinnerung an meinen lieben Anatol\" verfasst.\n\"Der Klub\" wurde, wie das Neue Wiener Tagblatt (39 (1905) #331, 10) am 30. November 1905 berichtet, vom Kaiserjubiläums-Stadttheater angenommen, von der Zensur aber nicht freigegeben. \nIm Nachlass ist ein Brief des Verlags (19.10.1906, A19743BaM) mit den Vertragsbedingungen erhalten. Als Bezahlung erhält Bahr 20% vom Buchhändler-Nettopreis von jedem tatsächlich verkauften Exemplar.</td></tr>\n</table>\n<h3 id=\"auff\">Inszenierungen</h3>Der Faun: 28. Oktober 1908, Wiener Kammerabende\nDie tiefe Natur: 21.11.1908 Deutsches Volkstheater, Wien\n\n<h3 id=\"rezens\">Rezensionen</h3>\n\n<p>Edmund Reimer (S. Edmund Ironside): Grotesken und Wien (Hermann Bahr). In: Das literarische Deutsch-Österreich, 7 (1907) #8, 3-7.\nE. v. W. [=Eduard von Waclawiczek] in Das literarische Deutsch-Österreich, 8 (1908) #12, 464-465. [\"Tiefe Natur\" und \"Krampus\" im Deutschen Volkstheater]</p>\n\n<h3 id=\"www\">Digitalisate</h3><a href=\"http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=65\">Link</a>",
+      "summary": null
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "c4d97a7b-20a3-4a00-9858-72c5abf35af3",
+        "meta": {
+          "drupal_internal__target_id": "bibliographie"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/e18b5479-4328-4966-a8fd-0248a9cda56a/node_type?resourceVersion=id%3A3920"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/e18b5479-4328-4966-a8fd-0248a9cda56a/relationships/node_type?resourceVersion=id%3A3920"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/e18b5479-4328-4966-a8fd-0248a9cda56a/revision_uid?resourceVersion=id%3A3920"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/e18b5479-4328-4966-a8fd-0248a9cda56a/relationships/revision_uid?resourceVersion=id%3A3920"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/e18b5479-4328-4966-a8fd-0248a9cda56a/uid?resourceVersion=id%3A3920"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/e18b5479-4328-4966-a8fd-0248a9cda56a/relationships/uid?resourceVersion=id%3A3920"
+        }
+      }
+    },
+    "field_bibliographie_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--bibliografie_type",
+          "id": "2729bfe4-73cf-46a1-8929-a36c1cba2af6",
+          "meta": {
+            "drupal_internal__target_id": 13
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/e18b5479-4328-4966-a8fd-0248a9cda56a/field_bibliographie_type?resourceVersion=id%3A3920"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/e18b5479-4328-4966-a8fd-0248a9cda56a/relationships/field_bibliographie_type?resourceVersion=id%3A3920"
+        }
+      }
+    }
+  }
+}

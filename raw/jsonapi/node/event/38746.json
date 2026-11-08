@@ -1,0 +1,114 @@
+{
+  "type": "node--event",
+  "id": "4f2f9423-671a-4db0-81b1-5a25d6ecb262",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/4f2f9423-671a-4db0-81b1-5a25d6ecb262?resourceVersion=id%3A2569"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/4f2f9423-671a-4db0-81b1-5a25d6ecb262?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38746,
+    "drupal_internal__vid": 2569,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Josef Redlich",
+    "created": "2011-01-21T11:59:55+00:00",
+    "changed": "2011-01-21T11:59:55+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38746",
+      "pid": 495,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 21. Februar 1896 setzt der Briefwechsel Bahrs mit Josef Redlichs an. Bahr teilt sein Beileid zum Tod von Redlichs Vater Adolf Redlich mit. Der bis zum Februar 1930 geführte schriftliche Austausch ist 1980 von Fritz Fellner herausgegeben worden.",
+      "format": "full_html",
+      "processed": "Am 21. Februar 1896 setzt der Briefwechsel Bahrs mit Josef Redlichs an. Bahr teilt sein Beileid zum Tod von Redlichs Vater Adolf Redlich mit. Der bis zum Februar 1930 geführte schriftliche Austausch ist 1980 von Fritz Fellner herausgegeben worden.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1896-02-21",
+      "end_value": "1896-02-21"
+    },
+    "field_sources": []
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4f2f9423-671a-4db0-81b1-5a25d6ecb262/node_type?resourceVersion=id%3A2569"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4f2f9423-671a-4db0-81b1-5a25d6ecb262/relationships/node_type?resourceVersion=id%3A2569"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4f2f9423-671a-4db0-81b1-5a25d6ecb262/revision_uid?resourceVersion=id%3A2569"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4f2f9423-671a-4db0-81b1-5a25d6ecb262/relationships/revision_uid?resourceVersion=id%3A2569"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4f2f9423-671a-4db0-81b1-5a25d6ecb262/uid?resourceVersion=id%3A2569"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4f2f9423-671a-4db0-81b1-5a25d6ecb262/relationships/uid?resourceVersion=id%3A2569"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4f2f9423-671a-4db0-81b1-5a25d6ecb262/field_event_type?resourceVersion=id%3A2569"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4f2f9423-671a-4db0-81b1-5a25d6ecb262/relationships/field_event_type?resourceVersion=id%3A2569"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "type": "node--event",
+  "id": "f3509aba-269f-4474-9202-abfa99f395a5",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f3509aba-269f-4474-9202-abfa99f395a5?resourceVersion=id%3A2244"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f3509aba-269f-4474-9202-abfa99f395a5?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27896,
+    "drupal_internal__vid": 2244,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Bei Max Reinhardt II",
+    "created": "2010-06-22T17:02:41+00:00",
+    "changed": "2011-09-01T08:47:02+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/27896",
+      "pid": 77,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "In seinem zweiten zweimonatigen Aufenthalt in Berlin vom 24.1. bis mindestens zum 26.3.1907 befasst sich Bahr mit der Inszenierung von zwei Werken Henrik Ibsens, \"Hedda Gabler\" in den Kammerspielen mit der Ausstattung Edvard Munchs (Première 11.3.1907) und im gleichen Haus am 25. März die \"Komödie der Liebe\".",
+      "format": "full_html",
+      "processed": "In seinem zweiten zweimonatigen Aufenthalt in Berlin vom 24.1. bis mindestens zum 26.3.1907 befasst sich Bahr mit der Inszenierung von zwei Werken Henrik Ibsens, \"Hedda Gabler\" in den Kammerspielen mit der Ausstattung Edvard Munchs (Première 11.3.1907) und im gleichen Haus am 25. März die \"Komödie der Liebe\".",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1907-01-24",
+      "end_value": "1907-03-26"
+    },
+    "field_sources": []
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f3509aba-269f-4474-9202-abfa99f395a5/node_type?resourceVersion=id%3A2244"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f3509aba-269f-4474-9202-abfa99f395a5/relationships/node_type?resourceVersion=id%3A2244"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f3509aba-269f-4474-9202-abfa99f395a5/revision_uid?resourceVersion=id%3A2244"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f3509aba-269f-4474-9202-abfa99f395a5/relationships/revision_uid?resourceVersion=id%3A2244"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f3509aba-269f-4474-9202-abfa99f395a5/uid?resourceVersion=id%3A2244"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f3509aba-269f-4474-9202-abfa99f395a5/relationships/uid?resourceVersion=id%3A2244"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f3509aba-269f-4474-9202-abfa99f395a5/field_event_type?resourceVersion=id%3A2244"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f3509aba-269f-4474-9202-abfa99f395a5/relationships/field_event_type?resourceVersion=id%3A2244"
+        }
+      }
+    }
+  }
+}

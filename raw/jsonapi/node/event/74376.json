@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "15b16859-154e-4083-ab26-97d75f44f6d0",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/15b16859-154e-4083-ab26-97d75f44f6d0?resourceVersion=id%3A3704"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/15b16859-154e-4083-ab26-97d75f44f6d0?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74376,
+    "drupal_internal__vid": 3704,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Der Faun",
+    "created": "2012-10-16T12:25:29+00:00",
+    "changed": "2012-10-16T12:25:29+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/74376",
+      "pid": 1750,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bei einem Wiener Kammerabend wird am 28. Oktober 1908 Bahrs Einakter \"Der Faun\" zum ersten Mal gegeben.",
+      "format": "full_html",
+      "processed": "Bei einem Wiener Kammerabend wird am 28. Oktober 1908 Bahrs Einakter \"Der Faun\" zum ersten Mal gegeben.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1908-10-28",
+      "end_value": "1908-10-28"
+    },
+    "field_sources": [
+      "Hermann Bahr: Der Faun. In: Die Schaubühne, 2 (1906) #2, 316-322, 343-349, 366-370, 406-411 und 426-431.",
+      "Hermann Bahr: Grotesken. Der Klub der Erlöser (Schauspiel in einem Akt) – Der Faun – Die tiefe Natur (Ein Akt). Wien: C. Konegen, 1907."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/15b16859-154e-4083-ab26-97d75f44f6d0/node_type?resourceVersion=id%3A3704"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/15b16859-154e-4083-ab26-97d75f44f6d0/relationships/node_type?resourceVersion=id%3A3704"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/15b16859-154e-4083-ab26-97d75f44f6d0/revision_uid?resourceVersion=id%3A3704"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/15b16859-154e-4083-ab26-97d75f44f6d0/relationships/revision_uid?resourceVersion=id%3A3704"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/15b16859-154e-4083-ab26-97d75f44f6d0/uid?resourceVersion=id%3A3704"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/15b16859-154e-4083-ab26-97d75f44f6d0/relationships/uid?resourceVersion=id%3A3704"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "27f3d2a4-8970-4726-9ab8-ce37707ec1bc",
+          "meta": {
+            "drupal_internal__target_id": 1
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/15b16859-154e-4083-ab26-97d75f44f6d0/field_event_type?resourceVersion=id%3A3704"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/15b16859-154e-4083-ab26-97d75f44f6d0/relationships/field_event_type?resourceVersion=id%3A3704"
+        }
+      }
+    }
+  }
+}

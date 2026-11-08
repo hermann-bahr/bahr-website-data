@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "b42cf223-9e8b-43a0-9694-729b329daa56",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b42cf223-9e8b-43a0-9694-729b329daa56?resourceVersion=id%3A2518"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b42cf223-9e8b-43a0-9694-729b329daa56?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28213,
+    "drupal_internal__vid": 2518,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Dresden",
+    "created": "2010-10-09T14:14:58+00:00",
+    "changed": "2011-12-15T10:50:15+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28213",
+      "pid": 356,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 13. November 1912 spricht Bahr in Dresden den \"Parsifalschutz\".",
+      "format": "full_html",
+      "processed": "Am 13. November 1912 spricht Bahr in Dresden den \"Parsifalschutz\".",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1912-11-13",
+      "end_value": "1912-11-13"
+    },
+    "field_sources": [
+      "Camill Hoffmann: Hermann Bahr spricht… In: Dresdner Neueste Nachrichten, 1912 #311, 2-3. (15.11.1912)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b42cf223-9e8b-43a0-9694-729b329daa56/node_type?resourceVersion=id%3A2518"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b42cf223-9e8b-43a0-9694-729b329daa56/relationships/node_type?resourceVersion=id%3A2518"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b42cf223-9e8b-43a0-9694-729b329daa56/revision_uid?resourceVersion=id%3A2518"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b42cf223-9e8b-43a0-9694-729b329daa56/relationships/revision_uid?resourceVersion=id%3A2518"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b42cf223-9e8b-43a0-9694-729b329daa56/uid?resourceVersion=id%3A2518"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b42cf223-9e8b-43a0-9694-729b329daa56/relationships/uid?resourceVersion=id%3A2518"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b42cf223-9e8b-43a0-9694-729b329daa56/field_event_type?resourceVersion=id%3A2518"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b42cf223-9e8b-43a0-9694-729b329daa56/relationships/field_event_type?resourceVersion=id%3A2518"
+        }
+      }
+    }
+  }
+}

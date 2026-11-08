@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bibliografie__kritische-schriften__ueber-rodbertus-1884" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Über Rodbertus (1884)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">28270</idno>
+        <idno type="drupal-alias">/bibliografie/28270</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bibliografie/28270">https://bahr.univie.ac.at/bibliografie/28270</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+        <bibl type="beschriebene-ausgabe">
+          <author>Hermann Bahr</author>
+          <title type="main">Über Rodbertus</title>
+          <title type="sub">Vortrag. Mit einem Vorworte des Verfassers</title>
+          <pubPlace>Wien</pubPlace>
+          <publisher>Verl. der "Unverfälschten Deutschen Worte" (Georg Ritter von Schönerer)</publisher>
+          <date>1884</date>
+          <extent>27</extent>
+          <note>"Sonder-Abdruck aus Nr. 20 der 'Unverfälschten Deutschen Worte' vom 16. Oktober 1884".</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="1" key="bibliografie">Bibliografie</term>
+          <term n="4" key="kritische-schriften">Kritische Schriften</term>
+          <term n="16" key="ueber-rodbertus-1884" type="eintrag">Über Rodbertus (1884)</term>
+        </keywords>
+        <classCode scheme="drupal-type">bibliographie</classCode>
+        <keywords scheme="bibliografie_type">
+          <term>Kritische Schriften</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2010-11-24T14:02:08+00:00" type="created">angelegt in Drupal</change>
+      <change when="2012-01-25T16:10:56+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="bib">
+        <head>Bibliografie</head>
+        <table type="bibliografie">
+          <row>
+            <cell>Autor:</cell>
+            <cell>Hermann Bahr</cell>
+          </row>
+          <row>
+            <cell>Titel:</cell>
+            <cell>Über Rodbertus</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>Vortrag. Mit einem Vorworte des Verfassers</cell>
+          </row>
+          <row>
+            <cell>Ort:</cell>
+            <cell>Wien</cell>
+          </row>
+          <row>
+            <cell>Verlag:</cell>
+            <cell>Verl. der "Unverfälschten Deutschen Worte" (Georg Ritter von Schönerer)</cell>
+          </row>
+          <row>
+            <cell>Jahr:</cell>
+            <cell>1884</cell>
+          </row>
+          <row>
+            <cell>Seiten:</cell>
+            <cell>27</cell>
+          </row>
+          <row>
+            <cell>Anm.</cell>
+            <cell>"Sonder-Abdruck aus Nr. 20 der 'Unverfälschten Deutschen Worte' vom 16. Oktober 1884".</cell>
+          </row>
+        </table>
+      </div>
+      <div xml:id="erstdrucke">
+        <head>Erstdruck</head>
+        <p>Hermann Bahr: Über Rodbertus. Ein Vortrag. Unverfälschte deutsche Worte, 2 (1884) #20, 4-8. (16.10.1884)</p>
+      </div>
+      <div xml:id="digit">
+        <head>Digitalisate</head>
+        <p><ref target="http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=35&amp;teil=0101&amp;seite=00000001">Sonder-Druck auf ANNO</ref> <ref target="https://bahr.univie.ac.at/sites/all/txt/unverfaelschte-deutsche-worte/1884_rodbertus.pdf" type="sites-all">Erstdruck</ref></p>
+      </div>
+    </body>
+  </text>
+</TEI>

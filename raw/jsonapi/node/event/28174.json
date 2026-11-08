@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "cdc77be2-de07-40f7-853a-ecfd9df9f9df",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/cdc77be2-de07-40f7-853a-ecfd9df9f9df?resourceVersion=id%3A2483"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/cdc77be2-de07-40f7-853a-ecfd9df9f9df?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28174,
+    "drupal_internal__vid": 2483,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Kriegskreuz",
+    "created": "2010-09-01T15:20:20+00:00",
+    "changed": "2011-11-28T12:48:19+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28174",
+      "pid": 320,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 28.5.1918 wird Bahr das \"Kriegskreuz für Zivilverdienste zweiter Klasse\" verliehen [1] - \"als Erinnerung an meinen Dienst in unserem Nostandsausschuß, dem Hilfskomitee für südländische Flüchtlinge und dem Kriegshilfsbureau\"[3]. Mit ihm bekommt es Hugo von Hofmannsthal.[2] Zugestellt bekommt er es erst ein Jahr später, als alle an der Verleihung maßgeblichen Personen nicht mehr im Amt sind.[3]",
+      "format": "full_html",
+      "processed": "Am 28.5.1918 wird Bahr das \"Kriegskreuz für Zivilverdienste zweiter Klasse\" verliehen [1] - \"als Erinnerung an meinen Dienst in unserem Nostandsausschuß, dem Hilfskomitee für südländische Flüchtlinge und dem Kriegshilfsbureau\"[3]. Mit ihm bekommt es Hugo von Hofmannsthal.[2] Zugestellt bekommt er es erst ein Jahr später, als alle an der Verleihung maßgeblichen Personen nicht mehr im Amt sind.[3]",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1918-05-28",
+      "end_value": "1918-05-28"
+    },
+    "field_sources": [
+      "[1] Wiener Zeitung, 1918 #120, 1. (28.5.1918)",
+      "[2] Bahr/Redlich, 344. ",
+      "[3] 1919. Tagebuch, 152-153. (5. Mai)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cdc77be2-de07-40f7-853a-ecfd9df9f9df/node_type?resourceVersion=id%3A2483"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cdc77be2-de07-40f7-853a-ecfd9df9f9df/relationships/node_type?resourceVersion=id%3A2483"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cdc77be2-de07-40f7-853a-ecfd9df9f9df/revision_uid?resourceVersion=id%3A2483"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cdc77be2-de07-40f7-853a-ecfd9df9f9df/relationships/revision_uid?resourceVersion=id%3A2483"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cdc77be2-de07-40f7-853a-ecfd9df9f9df/uid?resourceVersion=id%3A2483"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cdc77be2-de07-40f7-853a-ecfd9df9f9df/relationships/uid?resourceVersion=id%3A2483"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cdc77be2-de07-40f7-853a-ecfd9df9f9df/field_event_type?resourceVersion=id%3A2483"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cdc77be2-de07-40f7-853a-ecfd9df9f9df/relationships/field_event_type?resourceVersion=id%3A2483"
+        }
+      }
+    }
+  }
+}

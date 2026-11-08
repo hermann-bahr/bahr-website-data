@@ -1,0 +1,109 @@
+{
+  "type": "node--image",
+  "id": "dfcb4301-3de8-472e-9ab5-562a4b340892",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/image/dfcb4301-3de8-472e-9ab5-562a4b340892?resourceVersion=id%3A3946"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/image/dfcb4301-3de8-472e-9ab5-562a4b340892?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28244,
+    "drupal_internal__vid": 3946,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:44:08+00:00",
+    "status": true,
+    "title": "1905",
+    "created": "2010-11-09T12:18:24+00:00",
+    "changed": "2012-10-08T09:22:55+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/bild/28244",
+      "pid": 377,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<i>Beigebunden: Alois Aegid Spitzner: Hermann Bahr. In: Das Literarische Deutsch-Österreich, 5.1 (1905) #4, 1-4.</i>",
+      "format": "full_html",
+      "processed": "<i>Beigebunden: Alois Aegid Spitzner: Hermann Bahr. In: Das Literarische Deutsch-Österreich, 5.1 (1905) #4, 1-4.</i>",
+      "summary": null
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "e2381624-d098-4c5b-bdd7-5dbfd773b84e",
+        "meta": {
+          "drupal_internal__target_id": "image"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/dfcb4301-3de8-472e-9ab5-562a4b340892/node_type?resourceVersion=id%3A3946"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/dfcb4301-3de8-472e-9ab5-562a4b340892/relationships/node_type?resourceVersion=id%3A3946"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/dfcb4301-3de8-472e-9ab5-562a4b340892/revision_uid?resourceVersion=id%3A3946"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/dfcb4301-3de8-472e-9ab5-562a4b340892/relationships/revision_uid?resourceVersion=id%3A3946"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/dfcb4301-3de8-472e-9ab5-562a4b340892/uid?resourceVersion=id%3A3946"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/dfcb4301-3de8-472e-9ab5-562a4b340892/relationships/uid?resourceVersion=id%3A3946"
+        }
+      }
+    },
+    "field_images": {
+      "data": [
+        {
+          "type": "media--image",
+          "id": "8ee5b68d-e187-4d23-9b88-063904af912b",
+          "meta": {
+            "drupal_internal__target_id": 125
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/dfcb4301-3de8-472e-9ab5-562a4b340892/field_images?resourceVersion=id%3A3946"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/dfcb4301-3de8-472e-9ab5-562a4b340892/relationships/field_images?resourceVersion=id%3A3946"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "63823b10-440b-44c6-883a-f61ee672886b",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/63823b10-440b-44c6-883a-f61ee672886b?resourceVersion=id%3A3301"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/63823b10-440b-44c6-883a-f61ee672886b?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49460,
+    "drupal_internal__vid": 3301,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Berchtesgaden",
+    "created": "2011-10-20T15:01:38+00:00",
+    "changed": "2011-10-20T15:01:38+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49460",
+      "pid": 1282,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 5. September 1921 war Bahr <blockquote>eine Zeit in Berchtesgaden, aber ohne mich besser zu fühlen</blockquote>",
+      "format": "full_html",
+      "processed": "Am 5. September 1921 war Bahr <blockquote>eine Zeit in Berchtesgaden, aber ohne mich besser zu fühlen</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1921-08-20",
+      "end_value": "1921-08-31"
+    },
+    "field_sources": [
+      "Bahr/Redlich, 461."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/63823b10-440b-44c6-883a-f61ee672886b/node_type?resourceVersion=id%3A3301"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/63823b10-440b-44c6-883a-f61ee672886b/relationships/node_type?resourceVersion=id%3A3301"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/63823b10-440b-44c6-883a-f61ee672886b/revision_uid?resourceVersion=id%3A3301"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/63823b10-440b-44c6-883a-f61ee672886b/relationships/revision_uid?resourceVersion=id%3A3301"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/63823b10-440b-44c6-883a-f61ee672886b/uid?resourceVersion=id%3A3301"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/63823b10-440b-44c6-883a-f61ee672886b/relationships/uid?resourceVersion=id%3A3301"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/63823b10-440b-44c6-883a-f61ee672886b/field_event_type?resourceVersion=id%3A3301"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/63823b10-440b-44c6-883a-f61ee672886b/relationships/field_event_type?resourceVersion=id%3A3301"
+        }
+      }
+    }
+  }
+}

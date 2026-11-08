@@ -1,0 +1,118 @@
+{
+  "type": "media--image",
+  "id": "f9bac2b7-073d-400b-b681-b2fe96bb2093",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/media/image/f9bac2b7-073d-400b-b681-b2fe96bb2093?resourceVersion=id%3A153"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/media/image/f9bac2b7-073d-400b-b681-b2fe96bb2093?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__mid": 153,
+    "drupal_internal__vid": 153,
+    "langcode": "de",
+    "revision_created": "2020-02-18T15:16:19+00:00",
+    "status": true,
+    "name": "1934_arnold",
+    "created": "2020-02-18T15:16:19+00:00",
+    "changed": "2020-02-18T15:16:19+00:00",
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": null,
+      "pid": null,
+      "langcode": "de"
+    }
+  },
+  "relationships": {
+    "bundle": {
+      "data": {
+        "type": "media_type--media_type",
+        "id": "b82aabb6-e7a1-420d-b98b-5b981c2d920e",
+        "meta": {
+          "drupal_internal__target_id": "image"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/f9bac2b7-073d-400b-b681-b2fe96bb2093/bundle?resourceVersion=id%3A153"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/f9bac2b7-073d-400b-b681-b2fe96bb2093/relationships/bundle?resourceVersion=id%3A153"
+        }
+      }
+    },
+    "revision_user": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/f9bac2b7-073d-400b-b681-b2fe96bb2093/revision_user?resourceVersion=id%3A153"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/f9bac2b7-073d-400b-b681-b2fe96bb2093/relationships/revision_user?resourceVersion=id%3A153"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/f9bac2b7-073d-400b-b681-b2fe96bb2093/uid?resourceVersion=id%3A153"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/f9bac2b7-073d-400b-b681-b2fe96bb2093/relationships/uid?resourceVersion=id%3A153"
+        }
+      }
+    },
+    "thumbnail": {
+      "data": {
+        "type": "file--file",
+        "id": "a233b854-9705-4d81-bb45-dc7509155417",
+        "meta": {
+          "alt": "Karikatur Karl Arnold",
+          "title": null,
+          "width": 432,
+          "height": 1040,
+          "drupal_internal__target_id": 214
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/f9bac2b7-073d-400b-b681-b2fe96bb2093/thumbnail?resourceVersion=id%3A153"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/f9bac2b7-073d-400b-b681-b2fe96bb2093/relationships/thumbnail?resourceVersion=id%3A153"
+        }
+      }
+    },
+    "field_media_image": {
+      "data": {
+        "type": "file--file",
+        "id": "a233b854-9705-4d81-bb45-dc7509155417",
+        "meta": {
+          "alt": "Karikatur Karl Arnold",
+          "title": "1934_arnold",
+          "width": 432,
+          "height": 1040,
+          "drupal_internal__target_id": 214
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/f9bac2b7-073d-400b-b681-b2fe96bb2093/field_media_image?resourceVersion=id%3A153"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/f9bac2b7-073d-400b-b681-b2fe96bb2093/relationships/field_media_image?resourceVersion=id%3A153"
+        }
+      }
+    }
+  }
+}

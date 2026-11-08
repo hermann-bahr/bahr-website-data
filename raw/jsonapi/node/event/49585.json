@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "79be251a-b1f6-48cc-b379-b238b77994df",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/79be251a-b1f6-48cc-b379-b238b77994df?resourceVersion=id%3A3412"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/79be251a-b1f6-48cc-b379-b238b77994df?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49585,
+    "drupal_internal__vid": 3412,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Wiens Zauber",
+    "created": "2011-11-09T12:54:08+00:00",
+    "changed": "2011-11-09T12:54:19+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49585",
+      "pid": 1401,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahr beschreibt mit vierzig seine erste Zeit in Wien:<blockquote>Ich war, kaum achtzehn, von Salzburg nach Wien gekommen, um mich der Philologie zu ergeben. Manchmal dachte ich aber auch, lieber Schauspieler zu werden. Und dann fing mich der Zauber der großen Stadt ein und es regte sich das junge Herz. Griechische Verse, Mitterwurzers Macht, Freude, von gütigen Frauen geschenkt.</blockquote>",
+      "format": "full_html",
+      "processed": "Bahr beschreibt mit vierzig seine erste Zeit in Wien:<blockquote>Ich war, kaum achtzehn, von Salzburg nach Wien gekommen, um mich der Philologie zu ergeben. Manchmal dachte ich aber auch, lieber Schauspieler zu werden. Und dann fing mich der Zauber der großen Stadt ein und es regte sich das junge Herz. Griechische Verse, Mitterwurzers Macht, Freude, von gütigen Frauen geschenkt.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1881-11-01",
+      "end_value": "1881-11-01"
+    },
+    "field_sources": [
+      "Hermann Bahr: Vierzig. Neues Wiener Tagblatt, 37 (1903) #195, 1-2. (18.7.1903)",
+      "(Hier 1. November)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/79be251a-b1f6-48cc-b379-b238b77994df/node_type?resourceVersion=id%3A3412"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/79be251a-b1f6-48cc-b379-b238b77994df/relationships/node_type?resourceVersion=id%3A3412"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/79be251a-b1f6-48cc-b379-b238b77994df/revision_uid?resourceVersion=id%3A3412"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/79be251a-b1f6-48cc-b379-b238b77994df/relationships/revision_uid?resourceVersion=id%3A3412"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/79be251a-b1f6-48cc-b379-b238b77994df/uid?resourceVersion=id%3A3412"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/79be251a-b1f6-48cc-b379-b238b77994df/relationships/uid?resourceVersion=id%3A3412"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/79be251a-b1f6-48cc-b379-b238b77994df/field_event_type?resourceVersion=id%3A3412"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/79be251a-b1f6-48cc-b379-b238b77994df/relationships/field_event_type?resourceVersion=id%3A3412"
+        }
+      }
+    }
+  }
+}

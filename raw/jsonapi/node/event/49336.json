@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "b152ba72-fd7f-4b92-828a-b6f194762cb8",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b152ba72-fd7f-4b92-828a-b6f194762cb8?resourceVersion=id%3A3183"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b152ba72-fd7f-4b92-828a-b6f194762cb8?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49336,
+    "drupal_internal__vid": 3183,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Max Burckhard †",
+    "created": "2011-10-11T09:05:53+00:00",
+    "changed": "2011-10-11T09:06:31+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49336",
+      "pid": 1162,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am Morgen des 16. März 1912 stirbt Max Burckhard in Wien.[1] Bahr war mit ihm seit seiner Zeit als Direktor des Burgtheaters eng befreundet und im Oktober[2] sammelt er schon Material für sein Buch über Burckhard.",
+      "format": "full_html",
+      "processed": "Am Morgen des 16. März 1912 stirbt Max Burckhard in Wien.[1] Bahr war mit ihm seit seiner Zeit als Direktor des Burgtheaters eng befreundet und im Oktober[2] sammelt er schon Material für sein Buch über Burckhard.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1912-03-16",
+      "end_value": "1912-03-16"
+    },
+    "field_sources": [
+      "[1] Neue Freie Presse, #17085, Abendblatt, 4-5. (16.3.1912)",
+      "[2] Bahr/Redlich, 84-85."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b152ba72-fd7f-4b92-828a-b6f194762cb8/node_type?resourceVersion=id%3A3183"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b152ba72-fd7f-4b92-828a-b6f194762cb8/relationships/node_type?resourceVersion=id%3A3183"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b152ba72-fd7f-4b92-828a-b6f194762cb8/revision_uid?resourceVersion=id%3A3183"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b152ba72-fd7f-4b92-828a-b6f194762cb8/relationships/revision_uid?resourceVersion=id%3A3183"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b152ba72-fd7f-4b92-828a-b6f194762cb8/uid?resourceVersion=id%3A3183"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b152ba72-fd7f-4b92-828a-b6f194762cb8/relationships/uid?resourceVersion=id%3A3183"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b152ba72-fd7f-4b92-828a-b6f194762cb8/field_event_type?resourceVersion=id%3A3183"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b152ba72-fd7f-4b92-828a-b6f194762cb8/relationships/field_event_type?resourceVersion=id%3A3183"
+        }
+      }
+    }
+  }
+}

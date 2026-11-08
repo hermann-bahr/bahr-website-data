@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "310fa385-db76-41dd-bd58-427bbd8ffc41",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/310fa385-db76-41dd-bd58-427bbd8ffc41?resourceVersion=id%3A2753"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/310fa385-db76-41dd-bd58-427bbd8ffc41?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38969,
+    "drupal_internal__vid": 2753,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Frauenrecht",
+    "created": "2011-03-16T15:12:58+00:00",
+    "changed": "2013-01-08T09:18:15+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38969",
+      "pid": 707,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Einladungskarte:<blockquote>Hamburg-Altonaer Verein für Frauenstimmrecht<br><b>Öffentlicher Vortrag</b><br>am Freitag, den 16. Februar, 8 1/2 Uhr abends, im Grossen<br>Saal des Curiohauses, Rotenbaumchaussee 15<br><b>Frauenrecht</b><br>Redner:<br><b>Herr Hermann Bahr, Wien.</b><br>Diskussion.</blockquote>Wohnhaft ist er im Atlantic Hotel.",
+      "format": "full_html",
+      "processed": "Einladungskarte:<blockquote>Hamburg-Altonaer Verein für Frauenstimmrecht<br><b>Öffentlicher Vortrag</b><br>am Freitag, den 16. Februar, 8 1/2 Uhr abends, im Grossen<br>Saal des Curiohauses, Rotenbaumchaussee 15<br><b>Frauenrecht</b><br>Redner:<br><b>Herr Hermann Bahr, Wien.</b><br>Diskussion.</blockquote>Wohnhaft ist er im Atlantic Hotel.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1912-02-16",
+      "end_value": "1912-02-16"
+    },
+    "field_sources": [
+      "Einladungskarte im Nachlass, ZMBa29, Vorlesungen II. Datierung auf's Jahr mittels Wochentag. ",
+      "Nachlass ZMBa 29: Vorträge, Tourneeplan 1912"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/310fa385-db76-41dd-bd58-427bbd8ffc41/node_type?resourceVersion=id%3A2753"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/310fa385-db76-41dd-bd58-427bbd8ffc41/relationships/node_type?resourceVersion=id%3A2753"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/310fa385-db76-41dd-bd58-427bbd8ffc41/revision_uid?resourceVersion=id%3A2753"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/310fa385-db76-41dd-bd58-427bbd8ffc41/relationships/revision_uid?resourceVersion=id%3A2753"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/310fa385-db76-41dd-bd58-427bbd8ffc41/uid?resourceVersion=id%3A2753"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/310fa385-db76-41dd-bd58-427bbd8ffc41/relationships/uid?resourceVersion=id%3A2753"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/310fa385-db76-41dd-bd58-427bbd8ffc41/field_event_type?resourceVersion=id%3A2753"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/310fa385-db76-41dd-bd58-427bbd8ffc41/relationships/field_event_type?resourceVersion=id%3A2753"
+        }
+      }
+    }
+  }
+}

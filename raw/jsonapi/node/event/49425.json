@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "54acc466-4da6-4110-acaf-e571418e0d83",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/54acc466-4da6-4110-acaf-e571418e0d83?resourceVersion=id%3A3268"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/54acc466-4da6-4110-acaf-e571418e0d83?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49425,
+    "drupal_internal__vid": 3268,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Reinhardt-Abneigung",
+    "created": "2011-10-19T11:43:59+00:00",
+    "changed": "2011-11-23T15:01:39+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49425",
+      "pid": 1249,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Hofmannsthal schreibt Andrian am 8.9.1918 über gemeinsame Pläne mit Max Reinhardt, fordert diesen aber auch auf, Bahr unbedingt außen vor zu lassen.<blockquote>Daß er - in keiner vulgären Weise - äußerst rancunier u. äußerst eifersüchtig ist, das zu verstehen habe ich 15 Jahre gebraucht, während Gerty mit der gewissen Sagacität der Frauen es viel schneller heraushatte.<br>Zum Beweis, daß dies keine fixe Idee von mir, copiere ich Dir eine Zeile aus dem Brief von Zifferer an mich; <i>wörtlich</i>. \"Es ist mir aufgefallen, und das teile ich Ihnen mit, bitte aber darüber Stillschweigen zu beobachten, daß B. dem R. keineswegs so sehr gewogen ist, wie man glauben könnte. Es scheinen in der Zeit des gemeinsamen Wirkens tiefe u. schmerzliche Gegensätze sich ergeben zu haben, die notdürftig übertüncht, aber niemals überwunden wurden.\"</blockquote>",
+      "format": "full_html",
+      "processed": "Hofmannsthal schreibt Andrian am 8.9.1918 über gemeinsame Pläne mit Max Reinhardt, fordert diesen aber auch auf, Bahr unbedingt außen vor zu lassen.<blockquote>Daß er - in keiner vulgären Weise - äußerst rancunier u. äußerst eifersüchtig ist, das zu verstehen habe ich 15 Jahre gebraucht, während Gerty mit der gewissen Sagacität der Frauen es viel schneller heraushatte.<br>Zum Beweis, daß dies keine fixe Idee von mir, copiere ich Dir eine Zeile aus dem Brief von Zifferer an mich; <i>wörtlich</i>. \"Es ist mir aufgefallen, und das teile ich Ihnen mit, bitte aber darüber Stillschweigen zu beobachten, daß B. dem R. keineswegs so sehr gewogen ist, wie man glauben könnte. Es scheinen in der Zeit des gemeinsamen Wirkens tiefe u. schmerzliche Gegensätze sich ergeben zu haben, die notdürftig übertüncht, aber niemals überwunden wurden.\"</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1918-09-08",
+      "end_value": "1918-09-08"
+    },
+    "field_sources": [
+      "Ursula Prutsch, Klaus Zeyringer (Hg.): Leopold von Andrian (1875-1951). Korrespondenzen, Notizen, Essays, Berichte. Wien, Köln, Weimar: Böhlau 2003, 464."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/54acc466-4da6-4110-acaf-e571418e0d83/node_type?resourceVersion=id%3A3268"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/54acc466-4da6-4110-acaf-e571418e0d83/relationships/node_type?resourceVersion=id%3A3268"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/54acc466-4da6-4110-acaf-e571418e0d83/revision_uid?resourceVersion=id%3A3268"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/54acc466-4da6-4110-acaf-e571418e0d83/relationships/revision_uid?resourceVersion=id%3A3268"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/54acc466-4da6-4110-acaf-e571418e0d83/uid?resourceVersion=id%3A3268"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/54acc466-4da6-4110-acaf-e571418e0d83/relationships/uid?resourceVersion=id%3A3268"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/54acc466-4da6-4110-acaf-e571418e0d83/field_event_type?resourceVersion=id%3A3268"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/54acc466-4da6-4110-acaf-e571418e0d83/relationships/field_event_type?resourceVersion=id%3A3268"
+        }
+      }
+    }
+  }
+}

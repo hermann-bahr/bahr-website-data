@@ -1,0 +1,109 @@
+{
+  "type": "node--image",
+  "id": "f8288029-846e-4a4a-ad00-39d9688c7964",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/image/f8288029-846e-4a4a-ad00-39d9688c7964?resourceVersion=id%3A3982"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/image/f8288029-846e-4a4a-ad00-39d9688c7964?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 64297,
+    "drupal_internal__vid": 3982,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:44:08+00:00",
+    "status": true,
+    "title": "1915 Karl Bauer",
+    "created": "2012-10-08T12:22:11+00:00",
+    "changed": "2012-10-08T12:22:11+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/bild/64297",
+      "pid": 1730,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<i>Unterschrift: Originalzeichnung nach dem Leben von Karl Bauer. <br />Gegenüber dem Titelblatt von: Hermann Bahr: Kriegssegen. Mit einem Bild von H. B. München: Delphin, 1915.</i>",
+      "format": "full_html",
+      "processed": "<i>Unterschrift: Originalzeichnung nach dem Leben von Karl Bauer. <br>Gegenüber dem Titelblatt von: Hermann Bahr: Kriegssegen. Mit einem Bild von H. B. München: Delphin, 1915.</i>",
+      "summary": null
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "e2381624-d098-4c5b-bdd7-5dbfd773b84e",
+        "meta": {
+          "drupal_internal__target_id": "image"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/f8288029-846e-4a4a-ad00-39d9688c7964/node_type?resourceVersion=id%3A3982"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/f8288029-846e-4a4a-ad00-39d9688c7964/relationships/node_type?resourceVersion=id%3A3982"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/f8288029-846e-4a4a-ad00-39d9688c7964/revision_uid?resourceVersion=id%3A3982"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/f8288029-846e-4a4a-ad00-39d9688c7964/relationships/revision_uid?resourceVersion=id%3A3982"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/f8288029-846e-4a4a-ad00-39d9688c7964/uid?resourceVersion=id%3A3982"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/f8288029-846e-4a4a-ad00-39d9688c7964/relationships/uid?resourceVersion=id%3A3982"
+        }
+      }
+    },
+    "field_images": {
+      "data": [
+        {
+          "type": "media--image",
+          "id": "ec6b48ca-74e2-4a8a-b8ad-4c4478f23202",
+          "meta": {
+            "drupal_internal__target_id": 162
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/f8288029-846e-4a4a-ad00-39d9688c7964/field_images?resourceVersion=id%3A3982"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/f8288029-846e-4a4a-ad00-39d9688c7964/relationships/field_images?resourceVersion=id%3A3982"
+        }
+      }
+    }
+  }
+}

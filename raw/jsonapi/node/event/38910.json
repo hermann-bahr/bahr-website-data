@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "1567b45c-cfc9-426c-b9b3-8540e291392b",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/1567b45c-cfc9-426c-b9b3-8540e291392b?resourceVersion=id%3A2699"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/1567b45c-cfc9-426c-b9b3-8540e291392b?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38910,
+    "drupal_internal__vid": 2699,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Wien",
+    "created": "2011-03-08T12:48:11+00:00",
+    "changed": "2011-10-13T15:12:48+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38910",
+      "pid": 653,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Vom 24. bis zum 29. April 1917 ist Bahr in Wien, unter anderem um seine zwei Vorträge zu halten.",
+      "format": "full_html",
+      "processed": "Vom 24. bis zum 29. April 1917 ist Bahr in Wien, unter anderem um seine zwei Vorträge zu halten.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1917-04-24",
+      "end_value": "1917-04-29"
+    },
+    "field_sources": [
+      "Wienbibliothek, H.I.N. 207.331: Brief an Ludwig Klinenberger, 29.4.1917",
+      "Bahr/Redlich, 221."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1567b45c-cfc9-426c-b9b3-8540e291392b/node_type?resourceVersion=id%3A2699"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1567b45c-cfc9-426c-b9b3-8540e291392b/relationships/node_type?resourceVersion=id%3A2699"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1567b45c-cfc9-426c-b9b3-8540e291392b/revision_uid?resourceVersion=id%3A2699"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1567b45c-cfc9-426c-b9b3-8540e291392b/relationships/revision_uid?resourceVersion=id%3A2699"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1567b45c-cfc9-426c-b9b3-8540e291392b/uid?resourceVersion=id%3A2699"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1567b45c-cfc9-426c-b9b3-8540e291392b/relationships/uid?resourceVersion=id%3A2699"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1567b45c-cfc9-426c-b9b3-8540e291392b/field_event_type?resourceVersion=id%3A2699"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1567b45c-cfc9-426c-b9b3-8540e291392b/relationships/field_event_type?resourceVersion=id%3A2699"
+        }
+      }
+    }
+  }
+}

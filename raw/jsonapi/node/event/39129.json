@@ -1,0 +1,120 @@
+{
+  "type": "node--event",
+  "id": "69b139c3-2fbb-4c89-bb32-d9f08e27f539",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/69b139c3-2fbb-4c89-bb32-d9f08e27f539?resourceVersion=id%3A2892"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/69b139c3-2fbb-4c89-bb32-d9f08e27f539?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39129,
+    "drupal_internal__vid": 2892,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Jung-Wiener Theater zum lieben Augustin",
+    "created": "2011-06-09T11:33:32+00:00",
+    "changed": "2011-06-28T12:20:47+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39129",
+      "pid": 857,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 16. Mai 1901 berichten Zeitungen, dass in Wien nach dem Vorbild von Pariser Cabarets, in Nachfolge des Erfolgs von Wolzogens Münchner Unternehmen und der postiven Aufnahme eines Gastspiels des Berliner \"Überbrettls\" ab Herbst ein literarisches Varieté eingerichtet werden solle.[1] Den Boden dafür bereitet habe die \"Ludlamshöhle\". Geleitet wird es von Felix Salten, Mitarbeit haben Bahr, Chiavacci, Hofmannsthal, Karlweis und Schnitzler als Autoren, sowie die Komponisten Hugo Felix und Leo Ban-Jung und die Maler Rudolf Pick und Schönpflug angekündigt. Im Sommer wird dann nachgereicht, dass Kolo Moser das Bühnenbild gestalten wird und Bahr sein Zyklus \"Existenzen\" mit Musik von Hugo Felix zur Verfügung stellt.\r\nBahr bespricht die erste Aufführung des Varietés am 17. November 1901 im Neuen Wiener Tagblatt.[2]",
+      "format": "full_html",
+      "processed": "Am 16. Mai 1901 berichten Zeitungen, dass in Wien nach dem Vorbild von Pariser Cabarets, in Nachfolge des Erfolgs von Wolzogens Münchner Unternehmen und der postiven Aufnahme eines Gastspiels des Berliner \"Überbrettls\" ab Herbst ein literarisches Varieté eingerichtet werden solle.[1] Den Boden dafür bereitet habe die \"Ludlamshöhle\". Geleitet wird es von Felix Salten, Mitarbeit haben Bahr, Chiavacci, Hofmannsthal, Karlweis und Schnitzler als Autoren, sowie die Komponisten Hugo Felix und Leo Ban-Jung und die Maler Rudolf Pick und Schönpflug angekündigt. Im Sommer wird dann nachgereicht, dass Kolo Moser das Bühnenbild gestalten wird und Bahr sein Zyklus \"Existenzen\" mit Musik von Hugo Felix zur Verfügung stellt.\nBahr bespricht die erste Aufführung des Varietés am 17. November 1901 im Neuen Wiener Tagblatt.[2]",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1901-05-16",
+      "end_value": "1901-05-16"
+    },
+    "field_sources": [
+      "[1] Österreichische Volks-Zeitung, 47 (1901) #133, 14 (2 Kreuzer-Ausgabe: 13). (16.5.1901) ",
+      "[1] Neues Wiener Tagblatt, 35 (1901) #133, 7. (16.5.1901)\r\n",
+      "[2] Neues Wiener Tagblatt, 35 (1901) #316, 8-9. (17.11.1901) Buchausgabe: Rezensionen, 191-194.\r\n",
+      "Österreichische Volks-Zeitung, 47 (1901) #225, 13 (2 Kreuzer-Ausgabe: 17). (18.8.1901)\r\n",
+      "Größere Erwähnungen vgl.. Ö.V.Z., 47 (1901) #274, 4 (2 Kreuzer-Ausgabe: 8). (6.10.1901); #306, 11. (7.11.1901); #308, 8. (9.11.1901); #309, 17; #311, 4, #314, 10 u.ö. N.W.T., 35 (1901) #321, 8. (22.11.1901)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/69b139c3-2fbb-4c89-bb32-d9f08e27f539/node_type?resourceVersion=id%3A2892"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/69b139c3-2fbb-4c89-bb32-d9f08e27f539/relationships/node_type?resourceVersion=id%3A2892"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/69b139c3-2fbb-4c89-bb32-d9f08e27f539/revision_uid?resourceVersion=id%3A2892"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/69b139c3-2fbb-4c89-bb32-d9f08e27f539/relationships/revision_uid?resourceVersion=id%3A2892"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/69b139c3-2fbb-4c89-bb32-d9f08e27f539/uid?resourceVersion=id%3A2892"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/69b139c3-2fbb-4c89-bb32-d9f08e27f539/relationships/uid?resourceVersion=id%3A2892"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/69b139c3-2fbb-4c89-bb32-d9f08e27f539/field_event_type?resourceVersion=id%3A2892"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/69b139c3-2fbb-4c89-bb32-d9f08e27f539/relationships/field_event_type?resourceVersion=id%3A2892"
+        }
+      }
+    }
+  }
+}

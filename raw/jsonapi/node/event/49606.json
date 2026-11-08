@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "6272a151-624c-414a-8c04-55e092dc253f",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/6272a151-624c-414a-8c04-55e092dc253f?resourceVersion=id%3A3433"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/6272a151-624c-414a-8c04-55e092dc253f?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49606,
+    "drupal_internal__vid": 3433,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Robert †",
+    "created": "2011-11-14T19:29:35+00:00",
+    "changed": "2012-12-06T19:34:29+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49606",
+      "pid": 1422,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahrs jüngster Bruder Robert, stirbt, neun Jahre alt, am 27. Oktober 1887 in Linz an Diphterie.",
+      "format": "full_html",
+      "processed": "Bahrs jüngster Bruder Robert, stirbt, neun Jahre alt, am 27. Oktober 1887 in Linz an Diphterie.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1887-10-27",
+      "end_value": "1887-10-27"
+    },
+    "field_sources": [
+      "Todesanzeige im Nachlass, Mildenburg: Dokumente zum Ariernachweis",
+      "Auskunft aus dem Kirchenbuch der Stadtpfarre St. Matthias, Linz, erstellt für Rudolf Holzer, in Bahrs Nachlass, Kiste 104: Varia "
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6272a151-624c-414a-8c04-55e092dc253f/node_type?resourceVersion=id%3A3433"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6272a151-624c-414a-8c04-55e092dc253f/relationships/node_type?resourceVersion=id%3A3433"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6272a151-624c-414a-8c04-55e092dc253f/revision_uid?resourceVersion=id%3A3433"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6272a151-624c-414a-8c04-55e092dc253f/relationships/revision_uid?resourceVersion=id%3A3433"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6272a151-624c-414a-8c04-55e092dc253f/uid?resourceVersion=id%3A3433"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6272a151-624c-414a-8c04-55e092dc253f/relationships/uid?resourceVersion=id%3A3433"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6272a151-624c-414a-8c04-55e092dc253f/field_event_type?resourceVersion=id%3A3433"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6272a151-624c-414a-8c04-55e092dc253f/relationships/field_event_type?resourceVersion=id%3A3433"
+        }
+      }
+    }
+  }
+}

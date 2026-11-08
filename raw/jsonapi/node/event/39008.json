@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "4b8629c8-ca59-49fc-a5fd-0d5f21bea678",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/4b8629c8-ca59-49fc-a5fd-0d5f21bea678?resourceVersion=id%3A2789"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/4b8629c8-ca59-49fc-a5fd-0d5f21bea678?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39008,
+    "drupal_internal__vid": 2789,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Zeugnis",
+    "created": "2011-03-24T11:53:50+00:00",
+    "changed": "2011-11-03T11:03:40+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39008",
+      "pid": 744,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "1873 ist Bahr in der Volks- und Bürgerschule Linz. Seine Noten für die 5. Klasse bestehen ausschließlich aus \"Sehr gut\".",
+      "format": "full_html",
+      "processed": "1873 ist Bahr in der Volks- und Bürgerschule Linz. Seine Noten für die 5. Klasse bestehen ausschließlich aus \"Sehr gut\".",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1873-07-01",
+      "end_value": "1873-07-01"
+    },
+    "field_sources": [
+      "Nachlass, Kiste 77"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4b8629c8-ca59-49fc-a5fd-0d5f21bea678/node_type?resourceVersion=id%3A2789"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4b8629c8-ca59-49fc-a5fd-0d5f21bea678/relationships/node_type?resourceVersion=id%3A2789"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4b8629c8-ca59-49fc-a5fd-0d5f21bea678/revision_uid?resourceVersion=id%3A2789"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4b8629c8-ca59-49fc-a5fd-0d5f21bea678/relationships/revision_uid?resourceVersion=id%3A2789"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4b8629c8-ca59-49fc-a5fd-0d5f21bea678/uid?resourceVersion=id%3A2789"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4b8629c8-ca59-49fc-a5fd-0d5f21bea678/relationships/uid?resourceVersion=id%3A2789"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4b8629c8-ca59-49fc-a5fd-0d5f21bea678/field_event_type?resourceVersion=id%3A2789"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4b8629c8-ca59-49fc-a5fd-0d5f21bea678/relationships/field_event_type?resourceVersion=id%3A2789"
+        }
+      }
+    }
+  }
+}

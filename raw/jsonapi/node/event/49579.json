@@ -1,0 +1,122 @@
+{
+  "type": "node--event",
+  "id": "c0fc78c3-c9be-4681-9e11-a0faf622fc32",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/c0fc78c3-c9be-4681-9e11-a0faf622fc32?resourceVersion=id%3A3409"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/c0fc78c3-c9be-4681-9e11-a0faf622fc32?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49579,
+    "drupal_internal__vid": 3409,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Suzanne Desprès",
+    "created": "2011-11-07T13:15:22+00:00",
+    "changed": "2011-11-07T13:44:03+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49579",
+      "pid": 1395,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Das Gastspiel von Suzanne Desprès am Carl-Theater beginnt am 18. Jänner 1906 und endet am 21. Bahr berichtet gemeinsam mit Marco Brociner für das Neue Wiener Tagblatt.",
+      "format": "full_html",
+      "processed": "Das Gastspiel von Suzanne Desprès am Carl-Theater beginnt am 18. Jänner 1906 und endet am 21. Bahr berichtet gemeinsam mit Marco Brociner für das Neue Wiener Tagblatt.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1906-01-18",
+      "end_value": "1906-01-21"
+    },
+    "field_sources": [
+      "H. B.: Theater, Kunst und Literatur. Carl-Theater. Neues Wiener Tagblatt, 40 (1906) #20, 12. (21.1.1906) Buchausgabe: Glossen, 385-387\r\n",
+      "Interview mit S. D.: m. b. [=Marco Brociner] in: Neues Wiener Tagblatt, 40 (1906) #20, 7-8. (21.1.1906)",
+      "Hermann Bahr: Suzanne Després. (Als Gast im Carl-Theater vom 18. bis zum 21. Jänner 1906). Neues Wiener Tagblatt, 40 (1906) #18, 9. (19.1.1906) Buchausgabe: Glossen, 380-384",
+      "H. B.: Theater, Kunst und Literatur. Carl-Theater. Neues Wiener Tagblatt, 40 (1906) #19, 10. (20.1.1906) Buchausgabe: Glossen, 384-385\r\n",
+      "Ankündigung mit Interview-Schnippsel: Neues Wiener Tagblatt, 39 (1905) #359, 5. (30.12.1905)",
+      "Beginn: Neues Wiener Tagblatt, 40 (1906) #17, 12. (18.1.1906)",
+      "m. b.: Theater, Kunst und Literatur. Carl-Theater. Neues Wiener Tagblatt, 40 (1906) #21, 10. (22.1.1906)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c0fc78c3-c9be-4681-9e11-a0faf622fc32/node_type?resourceVersion=id%3A3409"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c0fc78c3-c9be-4681-9e11-a0faf622fc32/relationships/node_type?resourceVersion=id%3A3409"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c0fc78c3-c9be-4681-9e11-a0faf622fc32/revision_uid?resourceVersion=id%3A3409"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c0fc78c3-c9be-4681-9e11-a0faf622fc32/relationships/revision_uid?resourceVersion=id%3A3409"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c0fc78c3-c9be-4681-9e11-a0faf622fc32/uid?resourceVersion=id%3A3409"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c0fc78c3-c9be-4681-9e11-a0faf622fc32/relationships/uid?resourceVersion=id%3A3409"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c0fc78c3-c9be-4681-9e11-a0faf622fc32/field_event_type?resourceVersion=id%3A3409"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c0fc78c3-c9be-4681-9e11-a0faf622fc32/relationships/field_event_type?resourceVersion=id%3A3409"
+        }
+      }
+    }
+  }
+}

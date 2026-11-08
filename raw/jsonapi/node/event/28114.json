@@ -1,0 +1,114 @@
+{
+  "type": "node--event",
+  "id": "3ecd5df4-ada6-4969-9198-213e8193e888",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/3ecd5df4-ada6-4969-9198-213e8193e888?resourceVersion=id%3A2435"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/3ecd5df4-ada6-4969-9198-213e8193e888?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28114,
+    "drupal_internal__vid": 2435,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Mahlers 8.",
+    "created": "2010-08-17T09:13:59+00:00",
+    "changed": "2010-08-17T09:13:59+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28114",
+      "pid": 270,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 11. September 1910 ist Bahr in München bei der Generalprobe von Gustav Mahlers 8. Symphonie.",
+      "format": "full_html",
+      "processed": "Am 11. September 1910 ist Bahr in München bei der Generalprobe von Gustav Mahlers 8. Symphonie.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1910-09-11",
+      "end_value": "1910-09-11"
+    },
+    "field_sources": []
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3ecd5df4-ada6-4969-9198-213e8193e888/node_type?resourceVersion=id%3A2435"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3ecd5df4-ada6-4969-9198-213e8193e888/relationships/node_type?resourceVersion=id%3A2435"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3ecd5df4-ada6-4969-9198-213e8193e888/revision_uid?resourceVersion=id%3A2435"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3ecd5df4-ada6-4969-9198-213e8193e888/relationships/revision_uid?resourceVersion=id%3A2435"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3ecd5df4-ada6-4969-9198-213e8193e888/uid?resourceVersion=id%3A2435"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3ecd5df4-ada6-4969-9198-213e8193e888/relationships/uid?resourceVersion=id%3A2435"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3ecd5df4-ada6-4969-9198-213e8193e888/field_event_type?resourceVersion=id%3A2435"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3ecd5df4-ada6-4969-9198-213e8193e888/relationships/field_event_type?resourceVersion=id%3A2435"
+        }
+      }
+    }
+  }
+}

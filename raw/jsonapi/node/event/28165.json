@@ -1,0 +1,119 @@
+{
+  "type": "node--event",
+  "id": "b0c0133d-a568-4c44-a548-90bd07998454",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b0c0133d-a568-4c44-a548-90bd07998454?resourceVersion=id%3A2475"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b0c0133d-a568-4c44-a548-90bd07998454?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28165,
+    "drupal_internal__vid": 2475,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Frauenstimmrecht",
+    "created": "2010-09-01T12:18:08+00:00",
+    "changed": "2011-07-13T09:36:50+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28165",
+      "pid": 312,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Wie Bahr in einer Postkarte an eine Frau Alexander ankündigt, wird er am 27. November 1912 in Wiesbaden eintreffen, wo er im Hotel Nassauer Hof absteigt und sie ihm eine Mitteilung hinterlassen soll, wann und wo er seine Vorlesung halten soll. Der findet am selben Abend im \"nicht sonders gut besuchten\" Saale der Wartburg statt. Die Fackel:\r\n<blockquote>Hermann Bahr […] hat im Auftrage der Ortsgruppe Wiesbaden des Provinzialvereines Hessen-Nassau für Frauenstimmrecht einen besonders für diese Gelegenheit verfaßten Vortrag über das Recht der Frau gehalten</blockquote>\r\n",
+      "format": "full_html",
+      "processed": "Wie Bahr in einer Postkarte an eine Frau Alexander ankündigt, wird er am 27. November 1912 in Wiesbaden eintreffen, wo er im Hotel Nassauer Hof absteigt und sie ihm eine Mitteilung hinterlassen soll, wann und wo er seine Vorlesung halten soll. Der findet am selben Abend im \"nicht sonders gut besuchten\" Saale der Wartburg statt. Die Fackel:\n<blockquote>Hermann Bahr […] hat im Auftrage der Ortsgruppe Wiesbaden des Provinzialvereines Hessen-Nassau für Frauenstimmrecht einen besonders für diese Gelegenheit verfaßten Vortrag über das Recht der Frau gehalten</blockquote>\n",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1912-11-27",
+      "end_value": "1912-11-27"
+    },
+    "field_sources": [
+      "Wienbibliothek, H.I.N. 85449, Freiburg, 22.11.1912.",
+      "B. v. N.: Vortrag Hermann Bahr. In: Wiesbadener Tagblatt, 60 (1912) #557, Abend-Ausgabe, 2. <a href=\"http://dokumentserver.hlb-wiesbaden.de/WiesbadenerTagblatt/1912/1912-11-28/\">[Text]</a>",
+      "Karl Kraus in: Fackel, 14 (1912) #363-365, 56. (12.12.1912)",
+      "Der Vortragstext ist womöglich: Hermann Bahr: Frauenrecht. In: Inventur. Berlin: S. Fischer 1912, 119-125."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b0c0133d-a568-4c44-a548-90bd07998454/node_type?resourceVersion=id%3A2475"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b0c0133d-a568-4c44-a548-90bd07998454/relationships/node_type?resourceVersion=id%3A2475"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b0c0133d-a568-4c44-a548-90bd07998454/revision_uid?resourceVersion=id%3A2475"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b0c0133d-a568-4c44-a548-90bd07998454/relationships/revision_uid?resourceVersion=id%3A2475"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b0c0133d-a568-4c44-a548-90bd07998454/uid?resourceVersion=id%3A2475"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b0c0133d-a568-4c44-a548-90bd07998454/relationships/uid?resourceVersion=id%3A2475"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b0c0133d-a568-4c44-a548-90bd07998454/field_event_type?resourceVersion=id%3A2475"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b0c0133d-a568-4c44-a548-90bd07998454/relationships/field_event_type?resourceVersion=id%3A2475"
+        }
+      }
+    }
+  }
+}

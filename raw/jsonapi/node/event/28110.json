@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "d6871f42-5bec-4572-954d-6b36017f99ba",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/d6871f42-5bec-4572-954d-6b36017f99ba?resourceVersion=id%3A2433"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/d6871f42-5bec-4572-954d-6b36017f99ba?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28110,
+    "drupal_internal__vid": 2433,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "1. Besuch im Burgtheater",
+    "created": "2010-08-13T11:30:58+00:00",
+    "changed": "2011-11-14T22:35:02+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28110",
+      "pid": 268,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "In seinem Buch \"Burgtheater\"  schildert Bahr, wie er zur \"Belohnung\" für sein Erwachsenwerden mit dem Vater nach Wien ins Burgtheater fahren durfte. Am ersten Abend wurde Lessings \"Nathan der Weise\" gegeben, am 2. Ludwig Doczis \"Der Kuss\". Für den Monatsersten und Monatszweiten des Septembers 1877 trifft dies zum ersten Mal zu, da das Stück des Ungarn erst seit Februar im Programm war. Sie wohnten damals, wie er sich in seinem \"Tagebuch\" erinnert, im Matschakerhof. (In einem der Tagebücher Alois Bahrs findet sich ein Zeitungsschnippsel mit dem Programm vom 2. September)",
+      "format": "full_html",
+      "processed": "In seinem Buch \"Burgtheater\"  schildert Bahr, wie er zur \"Belohnung\" für sein Erwachsenwerden mit dem Vater nach Wien ins Burgtheater fahren durfte. Am ersten Abend wurde Lessings \"Nathan der Weise\" gegeben, am 2. Ludwig Doczis \"Der Kuss\". Für den Monatsersten und Monatszweiten des Septembers 1877 trifft dies zum ersten Mal zu, da das Stück des Ungarn erst seit Februar im Programm war. Sie wohnten damals, wie er sich in seinem \"Tagebuch\" erinnert, im Matschakerhof. (In einem der Tagebücher Alois Bahrs findet sich ein Zeitungsschnippsel mit dem Programm vom 2. September)",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1877-09-01",
+      "end_value": "1877-09-02"
+    },
+    "field_sources": [
+      "Hermann Bahr: Burgtheater, 1.",
+      "Hermann Bahr: Tagebuch. 13. Februar. Neues Wiener Journal, 25 (1917) #8377, 7. (25.2.1917)",
+      "Selbstbildnis, 103-104."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d6871f42-5bec-4572-954d-6b36017f99ba/node_type?resourceVersion=id%3A2433"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d6871f42-5bec-4572-954d-6b36017f99ba/relationships/node_type?resourceVersion=id%3A2433"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d6871f42-5bec-4572-954d-6b36017f99ba/revision_uid?resourceVersion=id%3A2433"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d6871f42-5bec-4572-954d-6b36017f99ba/relationships/revision_uid?resourceVersion=id%3A2433"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d6871f42-5bec-4572-954d-6b36017f99ba/uid?resourceVersion=id%3A2433"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d6871f42-5bec-4572-954d-6b36017f99ba/relationships/uid?resourceVersion=id%3A2433"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d6871f42-5bec-4572-954d-6b36017f99ba/field_event_type?resourceVersion=id%3A2433"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d6871f42-5bec-4572-954d-6b36017f99ba/relationships/field_event_type?resourceVersion=id%3A2433"
+        }
+      }
+    }
+  }
+}

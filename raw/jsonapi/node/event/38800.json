@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "934a04f3-b9b8-4eb8-b106-a081da4807a7",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/934a04f3-b9b8-4eb8-b106-a081da4807a7?resourceVersion=id%3A2621"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/934a04f3-b9b8-4eb8-b106-a081da4807a7?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38800,
+    "drupal_internal__vid": 2621,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Ischl",
+    "created": "2011-02-01T15:50:25+00:00",
+    "changed": "2012-10-16T07:59:38+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38800",
+      "pid": 548,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Die Wochenenden im Juli 1896 verbringt Bahr bei seiner Frau in Ischl, unter der Woche wiederum ist er in Wien. Erster Aufenthalt: 10.-13. Juli.\r\n",
+      "format": "full_html",
+      "processed": "Die Wochenenden im Juli 1896 verbringt Bahr bei seiner Frau in Ischl, unter der Woche wiederum ist er in Wien. Erster Aufenthalt: 10.-13. Juli.\n",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1896-07-10",
+      "end_value": "1896-07-31"
+    },
+    "field_sources": [
+      "Briefe an den Vater, 23.6., 28.6 und 14.7.1896",
+      "Tagebücher (Csàky), II, 222-223."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/934a04f3-b9b8-4eb8-b106-a081da4807a7/node_type?resourceVersion=id%3A2621"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/934a04f3-b9b8-4eb8-b106-a081da4807a7/relationships/node_type?resourceVersion=id%3A2621"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/934a04f3-b9b8-4eb8-b106-a081da4807a7/revision_uid?resourceVersion=id%3A2621"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/934a04f3-b9b8-4eb8-b106-a081da4807a7/relationships/revision_uid?resourceVersion=id%3A2621"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/934a04f3-b9b8-4eb8-b106-a081da4807a7/uid?resourceVersion=id%3A2621"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/934a04f3-b9b8-4eb8-b106-a081da4807a7/relationships/uid?resourceVersion=id%3A2621"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/934a04f3-b9b8-4eb8-b106-a081da4807a7/field_event_type?resourceVersion=id%3A2621"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/934a04f3-b9b8-4eb8-b106-a081da4807a7/relationships/field_event_type?resourceVersion=id%3A2621"
+        }
+      }
+    }
+  }
+}

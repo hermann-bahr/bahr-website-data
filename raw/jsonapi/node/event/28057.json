@@ -1,0 +1,114 @@
+{
+  "type": "node--event",
+  "id": "7b6a9cb2-50aa-4121-80b8-3f8635e0645a",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/7b6a9cb2-50aa-4121-80b8-3f8635e0645a?resourceVersion=id%3A2386"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/7b6a9cb2-50aa-4121-80b8-3f8635e0645a?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28057,
+    "drupal_internal__vid": 2386,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "1919",
+    "created": "2010-08-06T09:24:05+00:00",
+    "changed": "2010-08-06T09:24:05+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28057",
+      "pid": 220,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Für seinen dritten Sammelband mit seinen \"Tagebüchern\" aus den Neuen Wiener Verlag wechselt Bahr von Tyrolia zum Verleger E. P. Tal nach Leipzig. Wie seine Vorgänger etwas unscharf mit dem dargestellten Jahr betitelt, beginnt der Berichtszeitraum am 3. Dezember 1918 und endet bereits im November 1919. Erschienen im Sommer 1920.",
+      "format": "full_html",
+      "processed": "Für seinen dritten Sammelband mit seinen \"Tagebüchern\" aus den Neuen Wiener Verlag wechselt Bahr von Tyrolia zum Verleger E. P. Tal nach Leipzig. Wie seine Vorgänger etwas unscharf mit dem dargestellten Jahr betitelt, beginnt der Berichtszeitraum am 3. Dezember 1918 und endet bereits im November 1919. Erschienen im Sommer 1920.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1920-08-01",
+      "end_value": "1920-08-01"
+    },
+    "field_sources": []
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7b6a9cb2-50aa-4121-80b8-3f8635e0645a/node_type?resourceVersion=id%3A2386"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7b6a9cb2-50aa-4121-80b8-3f8635e0645a/relationships/node_type?resourceVersion=id%3A2386"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7b6a9cb2-50aa-4121-80b8-3f8635e0645a/revision_uid?resourceVersion=id%3A2386"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7b6a9cb2-50aa-4121-80b8-3f8635e0645a/relationships/revision_uid?resourceVersion=id%3A2386"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7b6a9cb2-50aa-4121-80b8-3f8635e0645a/uid?resourceVersion=id%3A2386"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7b6a9cb2-50aa-4121-80b8-3f8635e0645a/relationships/uid?resourceVersion=id%3A2386"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "b7b074bd-6489-4a96-84e9-9c8184cda171",
+          "meta": {
+            "drupal_internal__target_id": 7
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7b6a9cb2-50aa-4121-80b8-3f8635e0645a/field_event_type?resourceVersion=id%3A2386"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7b6a9cb2-50aa-4121-80b8-3f8635e0645a/relationships/field_event_type?resourceVersion=id%3A2386"
+        }
+      }
+    }
+  }
+}

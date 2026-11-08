@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bibliografie__schriften-zum-theater__schauspielkunst-1922" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Schauspielkunst (1922)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">39101</idno>
+        <idno type="drupal-alias">/bibliografie/39101</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bibliografie/39101">https://bahr.univie.ac.at/bibliografie/39101</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+        <bibl type="beschriebene-ausgabe">
+          <author>Hermann Bahr</author>
+          <title type="main">Schauspielkunst</title>
+          <pubPlace>Leipzig</pubPlace>
+          <publisher>Dürer &amp; Weber</publisher>
+          <series>
+            <title level="s">Zellenbücherei 62</title>
+          </series>
+          <date>1922</date>
+          <extent>80</extent>
+          <edition>1.-8. Tsd.</edition>
+          <note>Gedruckte Datierung am Ende des Texts: "Salzburg, Januar 1922."</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="1" key="bibliografie">Bibliografie</term>
+          <term n="5" key="schriften-zum-theater">Schriften zum Theater</term>
+          <term n="9" key="schauspielkunst-1922" type="eintrag">Schauspielkunst (1922)</term>
+        </keywords>
+        <classCode scheme="drupal-type">bibliographie</classCode>
+        <keywords scheme="bibliografie_type">
+          <term>Schriften für das Theater</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2011-05-18T18:54:33+00:00" type="created">angelegt in Drupal</change>
+      <change when="2013-03-05T10:53:52+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="intro">
+        <head>Einleitung</head>
+        <p>Die Beschäftigung mit dem zeitgenössischen Theater nimmt im kritischen Werk Bahrs einigen Raum ein. Zwei längere Essays verhandeln in seinem Spätwerk diese Thematik vor der Folie des Barocktheaters. Wie zur Zeit des Barock soll, so Bahrs Forderung, Theater auch heute mehr sein als ein der Dichtung nachgeschaltetes Verbreitungsmittel. Dabei pocht Bahr nicht nur auf die Bedeutung von Schauspieler, Regie und Bühnenbild, sondern auch auf die Wichtigkeit des Publikums.</p>
+      </div>
+      <div xml:id="bib">
+        <head>Bibliografie</head>
+        <table type="bibliografie">
+          <row>
+            <cell>Autor:</cell>
+            <cell>Hermann Bahr</cell>
+          </row>
+          <row>
+            <cell>Titel:</cell>
+            <cell>Schauspielkunst</cell>
+          </row>
+          <row>
+            <cell>Ort:</cell>
+            <cell>Leipzig</cell>
+          </row>
+          <row>
+            <cell>Verlag:</cell>
+            <cell>Dürer &amp; Weber</cell>
+          </row>
+          <row>
+            <cell>Reihe:</cell>
+            <cell>Zellenbücherei 62</cell>
+          </row>
+          <row>
+            <cell>Jahr:</cell>
+            <cell>1922</cell>
+          </row>
+          <row>
+            <cell>Seiten:</cell>
+            <cell>80</cell>
+          </row>
+          <row>
+            <cell>Aufl.:</cell>
+            <cell>1.-8. Tsd.</cell>
+          </row>
+          <row>
+            <cell>Anm.:</cell>
+            <cell>Gedruckte Datierung am Ende des Texts: "Salzburg, Januar 1922."</cell>
+          </row>
+        </table>
+      </div>
+      <div xml:id="ks">
+        <head>Kritische Schriften</head>
+        <div>
+          <head>Band 16<lb/>Burgtheater, Schauspielkunst, Notizen zur neueren spanischen Literatur</head>
+          <p>Herausgegeben von Gottfried Schnödl 2013 ISBN: 9783897396593 <ref target="http://www.vdg-weimar.de/katalog/?id=592">VDG Weimar</ref></p>
+        </div>
+      </div>
+      <div xml:id="rezens">
+        <head>Rezensionen</head>
+        <p>Berliner Börsenzeitung, 28.1.1923</p>
+      </div>
+      <div>
+        <head>Kommentiertes Inhaltsverzeichnis</head>
+        <list type="gloss">
+          <label>1.</label>
+          <item>Zu Beginn fragt Bahr, ob Schauspielkunst tatsächlich eine Kunst sei. Vorbehalte gebe es hier vor allem im Kreis der Schauspieler selbst. Aus diesem Umstand entwickelt Bahr einige Ansätze, die das Besondere der Schauspielkunst erhellen sollen.</item>
+          <label>2</label>
+          <item>Die bedeutendste Eigenheit der Schauspielkunst sei die hier konstitutive Rolle des Publikums. Bahr illustriert diesen Gedanken mit Rückgriffen auf das Barocktheater.</item>
+          <label>3</label>
+          <item>Bahr konzentriert sich hier einerseits auf die Ausbildung und Persönlichkeit der Schauspieler und andererseits auf Regie, Bühnenbild und Maske und stellt Relationen zwischen diesen scheinbar autonomen Phänomenen des Theaters her.</item>
+        </list>
+      </div>
+      <div xml:id="digit">
+        <head>Digitalisate</head>
+        <p><hi rend="italic">Neusatz:</hi> <ref target="https://bahr.univie.ac.at/sites/all/ks/16-burg-schauspiel-spanisch.pdf" type="sites-all"><hi rend="bold">Kritische Schriften in Einzelausgaben</hi></ref> <hi rend="italic">Faksimile der Erstausgabe:</hi> <ref target="http://www.archive.org/search.php?query=hermann%20bahr%20schauspielkunst">archive.org</ref> ÖNB Anno</p>
+      </div>
+    </body>
+  </text>
+</TEI>

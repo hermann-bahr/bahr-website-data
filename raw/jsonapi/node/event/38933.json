@@ -1,0 +1,119 @@
+{
+  "type": "node--event",
+  "id": "b9ca8fac-ef5e-4d38-85bf-4d017496e574",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b9ca8fac-ef5e-4d38-85bf-4d017496e574?resourceVersion=id%3A2719"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b9ca8fac-ef5e-4d38-85bf-4d017496e574?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38933,
+    "drupal_internal__vid": 2719,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Pannwitz",
+    "created": "2011-03-15T15:58:54+00:00",
+    "changed": "2011-10-14T16:02:37+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38933",
+      "pid": 673,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Nachdem Hofmannsthal ein Treffen Bahr-Rudolf Pannwitz in die Wege leiten möchte, hat es am 1. November 1917 stattgefunden. In einem Brief an Hofmannsthal schreibt Pannwitz aus Fürberg bei St. Gilgen (Salzburg):<blockquote>3/4 tag mit Hermann Bahr: ich spreche ihn wohl mittwoch wieder</blockquote> Die Freundschaft intensiviert sich in den folgenden Wochen zunehmend, doch drei Jahre später ist es damit längst vorbei. Am 22. Februar 1920 schreibt Pannwitz an Hofmannsthal:<blockquote>– Bahr benimmt sich – seit langem – sehr schlecht und ich bin ihn nun gänzlich satt</blockquote>\r\n",
+      "format": "full_html",
+      "processed": "Nachdem Hofmannsthal ein Treffen Bahr-Rudolf Pannwitz in die Wege leiten möchte, hat es am 1. November 1917 stattgefunden. In einem Brief an Hofmannsthal schreibt Pannwitz aus Fürberg bei St. Gilgen (Salzburg):<blockquote>3/4 tag mit Hermann Bahr: ich spreche ihn wohl mittwoch wieder</blockquote> Die Freundschaft intensiviert sich in den folgenden Wochen zunehmend, doch drei Jahre später ist es damit längst vorbei. Am 22. Februar 1920 schreibt Pannwitz an Hofmannsthal:<blockquote>– Bahr benimmt sich – seit langem – sehr schlecht und ich bin ihn nun gänzlich satt</blockquote>\n",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1917-11-01",
+      "end_value": "1917-11-01"
+    },
+    "field_sources": [
+      "Hugo von Hofmannsthal, Rudolf Pannwitz: Briefwechsel 1907-1926. Berlin: S. Fischer 1993, 149 und 519. [5.11.1917]",
+      "Bahr/Redlich, 279. (5.11.1917)",
+      "Hermann Bahr: Tagebuch. 22. September. Neues Wiener Journal, 25 (1917) #8595, 5. (4.10.1917) Buch: Tagebuch \"1917\", 165-169",
+      "Hermann Bahr: Tagebuch. Salzburg, 8. November. Neues Wiener Journal, 25 (1917) #8640, 4-5. (18.11.1917) Buchausgabe: Tagebuch \"1917\", 203-210"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b9ca8fac-ef5e-4d38-85bf-4d017496e574/node_type?resourceVersion=id%3A2719"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b9ca8fac-ef5e-4d38-85bf-4d017496e574/relationships/node_type?resourceVersion=id%3A2719"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b9ca8fac-ef5e-4d38-85bf-4d017496e574/revision_uid?resourceVersion=id%3A2719"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b9ca8fac-ef5e-4d38-85bf-4d017496e574/relationships/revision_uid?resourceVersion=id%3A2719"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b9ca8fac-ef5e-4d38-85bf-4d017496e574/uid?resourceVersion=id%3A2719"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b9ca8fac-ef5e-4d38-85bf-4d017496e574/relationships/uid?resourceVersion=id%3A2719"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b9ca8fac-ef5e-4d38-85bf-4d017496e574/field_event_type?resourceVersion=id%3A2719"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b9ca8fac-ef5e-4d38-85bf-4d017496e574/relationships/field_event_type?resourceVersion=id%3A2719"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "a3900917-a5cd-4055-b7b3-637ff469e51e",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/a3900917-a5cd-4055-b7b3-637ff469e51e?resourceVersion=id%3A2961"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/a3900917-a5cd-4055-b7b3-637ff469e51e?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44041,
+    "drupal_internal__vid": 2961,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Verband Österr. Journalisten",
+    "created": "2011-08-30T13:25:40+00:00",
+    "changed": "2011-09-12T11:12:16+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44041",
+      "pid": 939,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Den 28. Juni 1903 verbringt Bahr am Semmering. Er ist Vertreter des Journalistenbunds bei der…<blockquote>Gründ[ung] des \"Reichsverbandes Östreich. Journalisten\".</blockquote>",
+      "format": "full_html",
+      "processed": "Den 28. Juni 1903 verbringt Bahr am Semmering. Er ist Vertreter des Journalistenbunds bei der…<blockquote>Gründ[ung] des \"Reichsverbandes Östreich. Journalisten\".</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1903-06-28",
+      "end_value": "1903-06-28"
+    },
+    "field_sources": [
+      "Tagebücher (Csàky), III, 328.",
+      "Reichsverband österreichischer Journalisten und Schriftsteller. In: Neues Wiener Tagblatt, 37 (1903) #177, 7. (30.6.1903)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a3900917-a5cd-4055-b7b3-637ff469e51e/node_type?resourceVersion=id%3A2961"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a3900917-a5cd-4055-b7b3-637ff469e51e/relationships/node_type?resourceVersion=id%3A2961"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a3900917-a5cd-4055-b7b3-637ff469e51e/revision_uid?resourceVersion=id%3A2961"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a3900917-a5cd-4055-b7b3-637ff469e51e/relationships/revision_uid?resourceVersion=id%3A2961"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a3900917-a5cd-4055-b7b3-637ff469e51e/uid?resourceVersion=id%3A2961"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a3900917-a5cd-4055-b7b3-637ff469e51e/relationships/uid?resourceVersion=id%3A2961"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a3900917-a5cd-4055-b7b3-637ff469e51e/field_event_type?resourceVersion=id%3A2961"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a3900917-a5cd-4055-b7b3-637ff469e51e/relationships/field_event_type?resourceVersion=id%3A2961"
+        }
+      }
+    }
+  }
+}

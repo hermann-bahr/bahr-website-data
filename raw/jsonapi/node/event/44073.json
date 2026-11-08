@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "69205ea3-9b43-4bb8-8a14-71354aefc013",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/69205ea3-9b43-4bb8-8a14-71354aefc013?resourceVersion=id%3A2991"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/69205ea3-9b43-4bb8-8a14-71354aefc013?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44073,
+    "drupal_internal__vid": 2991,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Weimar, Dresden",
+    "created": "2011-09-05T09:01:58+00:00",
+    "changed": "2012-10-16T12:28:56+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44073",
+      "pid": 969,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "In Weimar geht es weiter in der Deutschland-Tournee: Bahr liest am 14. November. Am 16. November, nach einem Zusatztag in Weimar, liest er in Dresden. ",
+      "format": "full_html",
+      "processed": "In Weimar geht es weiter in der Deutschland-Tournee: Bahr liest am 14. November. Am 16. November, nach einem Zusatztag in Weimar, liest er in Dresden. ",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1908-11-14",
+      "end_value": "1908-11-16"
+    },
+    "field_sources": [
+      "Tagebücher (Csàky), V, 392."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/69205ea3-9b43-4bb8-8a14-71354aefc013/node_type?resourceVersion=id%3A2991"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/69205ea3-9b43-4bb8-8a14-71354aefc013/relationships/node_type?resourceVersion=id%3A2991"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/69205ea3-9b43-4bb8-8a14-71354aefc013/revision_uid?resourceVersion=id%3A2991"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/69205ea3-9b43-4bb8-8a14-71354aefc013/relationships/revision_uid?resourceVersion=id%3A2991"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/69205ea3-9b43-4bb8-8a14-71354aefc013/uid?resourceVersion=id%3A2991"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/69205ea3-9b43-4bb8-8a14-71354aefc013/relationships/uid?resourceVersion=id%3A2991"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/69205ea3-9b43-4bb8-8a14-71354aefc013/field_event_type?resourceVersion=id%3A2991"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/69205ea3-9b43-4bb8-8a14-71354aefc013/relationships/field_event_type?resourceVersion=id%3A2991"
+        }
+      }
+    }
+  }
+}

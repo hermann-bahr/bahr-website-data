@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "29dd1878-0c4e-44b0-bbe3-a9e9864a2111",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/29dd1878-0c4e-44b0-bbe3-a9e9864a2111?resourceVersion=id%3A2282"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/29dd1878-0c4e-44b0-bbe3-a9e9864a2111?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27940,
+    "drupal_internal__vid": 2282,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Dalmatinische Reise",
+    "created": "2010-07-19T11:28:39+00:00",
+    "changed": "2013-01-10T11:10:57+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/27940",
+      "pid": 116,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Anfang Herbst 1909 erscheint Bahrs politischer Reisebericht von seiner Reise nach Dalmatien, die er im Februar/März zuvor getätigt hatte.",
+      "format": "full_html",
+      "processed": "Anfang Herbst 1909 erscheint Bahrs politischer Reisebericht von seiner Reise nach Dalmatien, die er im Februar/März zuvor getätigt hatte.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1909-09-23",
+      "end_value": "1909-09-23"
+    },
+    "field_sources": [
+      "Hermann Bahr: Dalmatinische Reise. Berlin: S. Fischer, 1909."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/29dd1878-0c4e-44b0-bbe3-a9e9864a2111/node_type?resourceVersion=id%3A2282"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/29dd1878-0c4e-44b0-bbe3-a9e9864a2111/relationships/node_type?resourceVersion=id%3A2282"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/29dd1878-0c4e-44b0-bbe3-a9e9864a2111/revision_uid?resourceVersion=id%3A2282"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/29dd1878-0c4e-44b0-bbe3-a9e9864a2111/relationships/revision_uid?resourceVersion=id%3A2282"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/29dd1878-0c4e-44b0-bbe3-a9e9864a2111/uid?resourceVersion=id%3A2282"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/29dd1878-0c4e-44b0-bbe3-a9e9864a2111/relationships/uid?resourceVersion=id%3A2282"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "da42ac4a-f48f-4397-af4d-b66e913825fb",
+          "meta": {
+            "drupal_internal__target_id": 3
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/29dd1878-0c4e-44b0-bbe3-a9e9864a2111/field_event_type?resourceVersion=id%3A2282"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/29dd1878-0c4e-44b0-bbe3-a9e9864a2111/relationships/field_event_type?resourceVersion=id%3A2282"
+        }
+      }
+    }
+  }
+}

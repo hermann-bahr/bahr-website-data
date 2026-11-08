@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "2e2aead7-acdf-4b26-ae6e-9c67ca54cc03",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/2e2aead7-acdf-4b26-ae6e-9c67ca54cc03?resourceVersion=id%3A3661"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/2e2aead7-acdf-4b26-ae6e-9c67ca54cc03?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 64271,
+    "drupal_internal__vid": 3661,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "\"Expressionismus\" fertig?",
+    "created": "2012-07-10T11:39:39+00:00",
+    "changed": "2012-07-10T11:39:39+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/64271",
+      "pid": 1704,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "In der gleichen Umfrage, in der er auch die Fertigstellung von \"Himmelfahrt\" verkündet, erwähnt Bahr am 7. Oktober 1915 auch seine kleine Studie zum \"Expressionismus\" in einer Weise, die nahelegt, dass auch dieser abgeschlossen vorliegt.",
+      "format": "full_html",
+      "processed": "In der gleichen Umfrage, in der er auch die Fertigstellung von \"Himmelfahrt\" verkündet, erwähnt Bahr am 7. Oktober 1915 auch seine kleine Studie zum \"Expressionismus\" in einer Weise, die nahelegt, dass auch dieser abgeschlossen vorliegt.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1915-10-07",
+      "end_value": "1915-10-07"
+    },
+    "field_sources": [
+      "Hermann Bahr: Deutschlands Geistesarbeit im Kriegsjahr. 8 Uhr Abendblatt der National-Zeitung, Berlin, 68 (1915) #236, Beiblatt, [1-2]. (7.10.1915) "
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2e2aead7-acdf-4b26-ae6e-9c67ca54cc03/node_type?resourceVersion=id%3A3661"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2e2aead7-acdf-4b26-ae6e-9c67ca54cc03/relationships/node_type?resourceVersion=id%3A3661"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2e2aead7-acdf-4b26-ae6e-9c67ca54cc03/revision_uid?resourceVersion=id%3A3661"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2e2aead7-acdf-4b26-ae6e-9c67ca54cc03/relationships/revision_uid?resourceVersion=id%3A3661"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2e2aead7-acdf-4b26-ae6e-9c67ca54cc03/uid?resourceVersion=id%3A3661"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2e2aead7-acdf-4b26-ae6e-9c67ca54cc03/relationships/uid?resourceVersion=id%3A3661"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2e2aead7-acdf-4b26-ae6e-9c67ca54cc03/field_event_type?resourceVersion=id%3A3661"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2e2aead7-acdf-4b26-ae6e-9c67ca54cc03/relationships/field_event_type?resourceVersion=id%3A3661"
+        }
+      }
+    }
+  }
+}

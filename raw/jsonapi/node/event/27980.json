@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "6fcbfaaa-3ada-4c27-93f1-70340ff860d1",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/6fcbfaaa-3ada-4c27-93f1-70340ff860d1?resourceVersion=id%3A2319"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/6fcbfaaa-3ada-4c27-93f1-70340ff860d1?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27980,
+    "drupal_internal__vid": 2319,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Kategorischer Imperativ in Wissenschaft und Kunst",
+    "created": "2010-07-21T14:28:36+00:00",
+    "changed": "2011-09-26T12:12:34+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/27980",
+      "pid": 153,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 16. Oktober 1921 hält Bahr einen Vortrag in der Generalversammlung des Salzburger katholischen Universitätsvereins, der in Folge in der Salzburger Chronik, in \"Das neue Reich\" und in Bahrs Buch \"Sendung des Künstlers\" Aufnahme findet.",
+      "format": "full_html",
+      "processed": "Am 16. Oktober 1921 hält Bahr einen Vortrag in der Generalversammlung des Salzburger katholischen Universitätsvereins, der in Folge in der Salzburger Chronik, in \"Das neue Reich\" und in Bahrs Buch \"Sendung des Künstlers\" Aufnahme findet.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1921-10-16",
+      "end_value": "1921-10-16"
+    },
+    "field_sources": [
+      "Salzburger Chronik, 57 (1921) #237, 1-2 und #238, 1-2. (19. und 20.10.1921) [Vortragsmitschrift?]",
+      "Das Neue Reich, 4 (1921) #6, 97-99. (6.11.1921)",
+      "Sendung des Künstlers, 187-196"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6fcbfaaa-3ada-4c27-93f1-70340ff860d1/node_type?resourceVersion=id%3A2319"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6fcbfaaa-3ada-4c27-93f1-70340ff860d1/relationships/node_type?resourceVersion=id%3A2319"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6fcbfaaa-3ada-4c27-93f1-70340ff860d1/revision_uid?resourceVersion=id%3A2319"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6fcbfaaa-3ada-4c27-93f1-70340ff860d1/relationships/revision_uid?resourceVersion=id%3A2319"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6fcbfaaa-3ada-4c27-93f1-70340ff860d1/uid?resourceVersion=id%3A2319"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6fcbfaaa-3ada-4c27-93f1-70340ff860d1/relationships/uid?resourceVersion=id%3A2319"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6fcbfaaa-3ada-4c27-93f1-70340ff860d1/field_event_type?resourceVersion=id%3A2319"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6fcbfaaa-3ada-4c27-93f1-70340ff860d1/relationships/field_event_type?resourceVersion=id%3A2319"
+        }
+      }
+    }
+  }
+}

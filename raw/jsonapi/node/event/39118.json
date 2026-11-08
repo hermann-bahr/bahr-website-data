@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "abd75c5e-357e-429f-9e24-4a5e56e80166",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/abd75c5e-357e-429f-9e24-4a5e56e80166?resourceVersion=id%3A2883"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/abd75c5e-357e-429f-9e24-4a5e56e80166?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39118,
+    "drupal_internal__vid": 2883,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Karl Kraus",
+    "created": "2011-05-23T15:54:49+00:00",
+    "changed": "2011-06-27T11:37:30+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39118",
+      "pid": 848,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Im Zuge des Ehrenbeleidigungsprozesses, den Bahr 1901 gegen Karl Kraus führt, berichtet Bahr darüber, wie er Karl Kraus kennen gelernt habe. Kraus wäre ihm zehn Jahre zuvor in einem Kaffeehaus vorgestellt worden und die beiden hätten über Wochen Umgang gepflegt. Dann hätte sich Kraus zurückgezogen \"aus Angst vor einer Ohrfeige\", weil Kraus sich in einem Münchner oder Berliner Blatt kritisch über Bahrs Wirken geäußert habe. Danach hätten die beiden, selten, aber doch miteinander verkehrt. Nachdem die Gründung der \"Zeit\" beschlossen war, wäre Kraus für einige kleinere Notizen angeheuert worden. Weil die anderen beiden Mitherausgeber sich gegen Kraus ausgesprochen hätten, habe er ihn auf spätere Beschäftigung vertrösten müssen. Da hätten die Angriffe gegen ihn begonnen. Die besten Witze, die Schnitzler und Salten über Bahr gemacht hätten, fänden sich in Kraus' \"Demolirter Literatur\". Kraus, in seinem Statement, findet die Sache etwas schief erzählt und betont vor allem, dass alle Witze die seinen wären.",
+      "format": "full_html",
+      "processed": "Im Zuge des Ehrenbeleidigungsprozesses, den Bahr 1901 gegen Karl Kraus führt, berichtet Bahr darüber, wie er Karl Kraus kennen gelernt habe. Kraus wäre ihm zehn Jahre zuvor in einem Kaffeehaus vorgestellt worden und die beiden hätten über Wochen Umgang gepflegt. Dann hätte sich Kraus zurückgezogen \"aus Angst vor einer Ohrfeige\", weil Kraus sich in einem Münchner oder Berliner Blatt kritisch über Bahrs Wirken geäußert habe. Danach hätten die beiden, selten, aber doch miteinander verkehrt. Nachdem die Gründung der \"Zeit\" beschlossen war, wäre Kraus für einige kleinere Notizen angeheuert worden. Weil die anderen beiden Mitherausgeber sich gegen Kraus ausgesprochen hätten, habe er ihn auf spätere Beschäftigung vertrösten müssen. Da hätten die Angriffe gegen ihn begonnen. Die besten Witze, die Schnitzler und Salten über Bahr gemacht hätten, fänden sich in Kraus' \"Demolirter Literatur\". Kraus, in seinem Statement, findet die Sache etwas schief erzählt und betont vor allem, dass alle Witze die seinen wären.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1891-01-01",
+      "end_value": "1891-01-01"
+    },
+    "field_sources": [
+      "Neues Wiener Tagblatt, 35 (1901) #54, 6. (24.2.1901)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/abd75c5e-357e-429f-9e24-4a5e56e80166/node_type?resourceVersion=id%3A2883"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/abd75c5e-357e-429f-9e24-4a5e56e80166/relationships/node_type?resourceVersion=id%3A2883"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/abd75c5e-357e-429f-9e24-4a5e56e80166/revision_uid?resourceVersion=id%3A2883"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/abd75c5e-357e-429f-9e24-4a5e56e80166/relationships/revision_uid?resourceVersion=id%3A2883"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/abd75c5e-357e-429f-9e24-4a5e56e80166/uid?resourceVersion=id%3A2883"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/abd75c5e-357e-429f-9e24-4a5e56e80166/relationships/uid?resourceVersion=id%3A2883"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/abd75c5e-357e-429f-9e24-4a5e56e80166/field_event_type?resourceVersion=id%3A2883"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/abd75c5e-357e-429f-9e24-4a5e56e80166/relationships/field_event_type?resourceVersion=id%3A2883"
+        }
+      }
+    }
+  }
+}

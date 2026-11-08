@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bibliografie__kritische-schriften__rodbertus-theorie-der-absatzkrisen-1884" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Rodbertus' Theorie der Absatzkrisen (1884)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">28271</idno>
+        <idno type="drupal-alias">/bibliografie/28271</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bibliografie/28271">https://bahr.univie.ac.at/bibliografie/28271</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+        <bibl type="beschriebene-ausgabe">
+          <author>Hermann Bahr</author>
+          <title type="main">Rodbertus' Theorie der Absatzkrisen</title>
+          <title type="sub">Ein Vortrag</title>
+          <pubPlace>Wien</pubPlace>
+          <publisher>Carl Konegen</publisher>
+          <date>1884</date>
+          <extent>33</extent>
+          <note>"Gewidmet dem Herren von Rinbach in deutscher Treue."</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="1" key="bibliografie">Bibliografie</term>
+          <term n="4" key="kritische-schriften">Kritische Schriften</term>
+          <term n="13" key="rodbertus-theorie-der-absatzkrisen-1884" type="eintrag">Rodbertus' Theorie der Absatzkrisen (1884)</term>
+        </keywords>
+        <classCode scheme="drupal-type">bibliographie</classCode>
+        <keywords scheme="bibliografie_type">
+          <term>Kritische Schriften</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2010-11-24T14:09:40+00:00" type="created">angelegt in Drupal</change>
+      <change when="2011-11-21T15:19:47+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="bib">
+        <head>Bibliografie</head>
+        <table type="bibliografie">
+          <row>
+            <cell>Autor:</cell>
+            <cell>Hermann Bahr</cell>
+          </row>
+          <row>
+            <cell>Titel:</cell>
+            <cell>Rodbertus' Theorie der Absatzkrisen</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>Ein Vortrag</cell>
+          </row>
+          <row>
+            <cell>Ort:</cell>
+            <cell>Wien</cell>
+          </row>
+          <row>
+            <cell>Verlag:</cell>
+            <cell>Carl Konegen</cell>
+          </row>
+          <row>
+            <cell>Jahr:</cell>
+            <cell>1884</cell>
+          </row>
+          <row>
+            <cell>Seiten:</cell>
+            <cell>33</cell>
+          </row>
+          <row>
+            <cell>Anm.</cell>
+            <cell>"Gewidmet dem Herren von Rinbach in deutscher Treue."</cell>
+          </row>
+        </table>
+      </div>
+      <div xml:id="rezens">
+        <head>Rezensionen</head>
+        <p>Niederösterreichische Landeszeitung, 20.9.1884 Unverfälschte Deutsche Worte, 2 (1884) #24, 17-18. (16.12.1884)</p>
+      </div>
+      <div xml:id="digit">
+        <head>Digitalisate</head>
+        <p><ref target="http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=36">ANNO</ref> <ref target="http://www.archive.org/details/rodbertustheori00bahrgoog">Archive.org</ref></p>
+      </div>
+    </body>
+  </text>
+</TEI>

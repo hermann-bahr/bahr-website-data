@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "c4044937-5be5-44c8-ad38-08fca6b27881",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/c4044937-5be5-44c8-ad38-08fca6b27881?resourceVersion=id%3A2682"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/c4044937-5be5-44c8-ad38-08fca6b27881?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38867,
+    "drupal_internal__vid": 2682,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Starnberger See",
+    "created": "2011-02-16T21:44:51+00:00",
+    "changed": "2011-09-15T09:47:01+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38867",
+      "pid": 610,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Vom 7. bis zum 18. August 1905 urlaubt Bahr mit der Mildenburg im Hotel Leoni am Starnberger See. Am letzten Tag noch nach Salzburg, von dort zwei Tage später nach Wien.",
+      "format": "full_html",
+      "processed": "Vom 7. bis zum 18. August 1905 urlaubt Bahr mit der Mildenburg im Hotel Leoni am Starnberger See. Am letzten Tag noch nach Salzburg, von dort zwei Tage später nach Wien.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1905-08-07",
+      "end_value": "1905-08-20"
+    },
+    "field_sources": [
+      "Tagebücher (Csàky), IV, 414.",
+      "Bahr, Hermann an Stollberg, Ignaz Georg, 13.8.1905, aufbewahrt in der Monacensia-Bibliothek in München."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c4044937-5be5-44c8-ad38-08fca6b27881/node_type?resourceVersion=id%3A2682"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c4044937-5be5-44c8-ad38-08fca6b27881/relationships/node_type?resourceVersion=id%3A2682"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c4044937-5be5-44c8-ad38-08fca6b27881/revision_uid?resourceVersion=id%3A2682"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c4044937-5be5-44c8-ad38-08fca6b27881/relationships/revision_uid?resourceVersion=id%3A2682"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c4044937-5be5-44c8-ad38-08fca6b27881/uid?resourceVersion=id%3A2682"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c4044937-5be5-44c8-ad38-08fca6b27881/relationships/uid?resourceVersion=id%3A2682"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c4044937-5be5-44c8-ad38-08fca6b27881/field_event_type?resourceVersion=id%3A2682"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c4044937-5be5-44c8-ad38-08fca6b27881/relationships/field_event_type?resourceVersion=id%3A2682"
+        }
+      }
+    }
+  }
+}

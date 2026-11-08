@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "e1785788-742a-4bd0-8cb6-93ee5c0d7499",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/e1785788-742a-4bd0-8cb6-93ee5c0d7499?resourceVersion=id%3A2905"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/e1785788-742a-4bd0-8cb6-93ee5c0d7499?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39147,
+    "drupal_internal__vid": 2905,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Theatergesetz",
+    "created": "2011-07-08T09:22:21+00:00",
+    "changed": "2011-07-08T09:25:13+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39147",
+      "pid": 875,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Ein zweites Treffen mit gleicher Besetzung wie am 14. Juni fand 26. oder 27. Juni (\"gestern Nachmittag\") 1902 statt. Der überarbeitete Theatergesetz-Entwurf wird auch für im Buchhandel erwerbbar angekündigt.",
+      "format": "full_html",
+      "processed": "Ein zweites Treffen mit gleicher Besetzung wie am 14. Juni fand 26. oder 27. Juni (\"gestern Nachmittag\") 1902 statt. Der überarbeitete Theatergesetz-Entwurf wird auch für im Buchhandel erwerbbar angekündigt.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1902-06-28",
+      "end_value": "1902-06-28"
+    },
+    "field_sources": [
+      "Neues Wiener Tagblatt, 36 (1902) #176, 7. (28.6.1902)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e1785788-742a-4bd0-8cb6-93ee5c0d7499/node_type?resourceVersion=id%3A2905"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e1785788-742a-4bd0-8cb6-93ee5c0d7499/relationships/node_type?resourceVersion=id%3A2905"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e1785788-742a-4bd0-8cb6-93ee5c0d7499/revision_uid?resourceVersion=id%3A2905"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e1785788-742a-4bd0-8cb6-93ee5c0d7499/relationships/revision_uid?resourceVersion=id%3A2905"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e1785788-742a-4bd0-8cb6-93ee5c0d7499/uid?resourceVersion=id%3A2905"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e1785788-742a-4bd0-8cb6-93ee5c0d7499/relationships/uid?resourceVersion=id%3A2905"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e1785788-742a-4bd0-8cb6-93ee5c0d7499/field_event_type?resourceVersion=id%3A2905"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e1785788-742a-4bd0-8cb6-93ee5c0d7499/relationships/field_event_type?resourceVersion=id%3A2905"
+        }
+      }
+    }
+  }
+}

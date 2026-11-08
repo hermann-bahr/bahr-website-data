@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "b4a81cb8-98eb-4067-9219-d7e81ca6a612",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b4a81cb8-98eb-4067-9219-d7e81ca6a612?resourceVersion=id%3A2817"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b4a81cb8-98eb-4067-9219-d7e81ca6a612?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39042,
+    "drupal_internal__vid": 2817,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Abschied aus Salzburg",
+    "created": "2011-04-11T14:05:23+00:00",
+    "changed": "2011-10-03T10:22:10+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39042",
+      "pid": 774,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<blockquote>* <strong>Hermann Bahr übersiedelt nach München.</strong> Hermann <i>Bahr</i> verläßt Ende dieses Monats <i>Salzburg</i> und nimmt dauernd in <i>München</i> Aufenthalt. Als Hauptgrund seines Domizilwechsels führt Hermann Bahr an, daß Frau Mildenburg, seine Gattin, nicht bloß als Professor an der Münchener Akademie, sondern auch als Regisseur an der dortigen Oper tätig ist und daß das Künstlerpaar des Hin- und Herfahrens mit der Doppelwirtschaft müde ist.</blockquote>",
+      "format": "full_html",
+      "processed": "<blockquote>* <strong>Hermann Bahr übersiedelt nach München.</strong> Hermann <i>Bahr</i> verläßt Ende dieses Monats <i>Salzburg</i> und nimmt dauernd in <i>München</i> Aufenthalt. Als Hauptgrund seines Domizilwechsels führt Hermann Bahr an, daß Frau Mildenburg, seine Gattin, nicht bloß als Professor an der Münchener Akademie, sondern auch als Regisseur an der dortigen Oper tätig ist und daß das Künstlerpaar des Hin- und Herfahrens mit der Doppelwirtschaft müde ist.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1922-04-18",
+      "end_value": "1922-04-18"
+    },
+    "field_sources": [
+      "Salzburger Volksblatt, 52 (1922) #88, 4. (18.4.1922)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b4a81cb8-98eb-4067-9219-d7e81ca6a612/node_type?resourceVersion=id%3A2817"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b4a81cb8-98eb-4067-9219-d7e81ca6a612/relationships/node_type?resourceVersion=id%3A2817"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b4a81cb8-98eb-4067-9219-d7e81ca6a612/revision_uid?resourceVersion=id%3A2817"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b4a81cb8-98eb-4067-9219-d7e81ca6a612/relationships/revision_uid?resourceVersion=id%3A2817"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b4a81cb8-98eb-4067-9219-d7e81ca6a612/uid?resourceVersion=id%3A2817"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b4a81cb8-98eb-4067-9219-d7e81ca6a612/relationships/uid?resourceVersion=id%3A2817"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b4a81cb8-98eb-4067-9219-d7e81ca6a612/field_event_type?resourceVersion=id%3A2817"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b4a81cb8-98eb-4067-9219-d7e81ca6a612/relationships/field_event_type?resourceVersion=id%3A2817"
+        }
+      }
+    }
+  }
+}

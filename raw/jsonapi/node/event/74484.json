@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "b114396f-b4a8-4eeb-b276-834f5c53ab37",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b114396f-b4a8-4eeb-b276-834f5c53ab37?resourceVersion=id%3A3795"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b114396f-b4a8-4eeb-b276-834f5c53ab37?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74484,
+    "drupal_internal__vid": 3795,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Augenentzündung",
+    "created": "2013-03-12T15:00:02+00:00",
+    "changed": "2013-03-12T15:01:17+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/74484",
+      "pid": 1858,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 17. April 1887 informiert Wolfgang Heine den Vater, dass Hermann eine leichte Regenbogenhautentzündung habe und nicht schreiben könne, am 22. kann er wieder selbst schreiben, ist aber noch nicht ganz kuriert. Er braucht eine blaue Schutzbrille und noch Anfang Mai ist ihm Lesen und Schreiben ärztlich verboten.",
+      "format": "full_html",
+      "processed": "Am 17. April 1887 informiert Wolfgang Heine den Vater, dass Hermann eine leichte Regenbogenhautentzündung habe und nicht schreiben könne, am 22. kann er wieder selbst schreiben, ist aber noch nicht ganz kuriert. Er braucht eine blaue Schutzbrille und noch Anfang Mai ist ihm Lesen und Schreiben ärztlich verboten.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1887-04-17",
+      "end_value": "1887-05-01"
+    },
+    "field_sources": [
+      "Briefe an den Vater"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b114396f-b4a8-4eeb-b276-834f5c53ab37/node_type?resourceVersion=id%3A3795"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b114396f-b4a8-4eeb-b276-834f5c53ab37/relationships/node_type?resourceVersion=id%3A3795"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b114396f-b4a8-4eeb-b276-834f5c53ab37/revision_uid?resourceVersion=id%3A3795"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b114396f-b4a8-4eeb-b276-834f5c53ab37/relationships/revision_uid?resourceVersion=id%3A3795"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b114396f-b4a8-4eeb-b276-834f5c53ab37/uid?resourceVersion=id%3A3795"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b114396f-b4a8-4eeb-b276-834f5c53ab37/relationships/uid?resourceVersion=id%3A3795"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b114396f-b4a8-4eeb-b276-834f5c53ab37/field_event_type?resourceVersion=id%3A3795"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b114396f-b4a8-4eeb-b276-834f5c53ab37/relationships/field_event_type?resourceVersion=id%3A3795"
+        }
+      }
+    }
+  }
+}

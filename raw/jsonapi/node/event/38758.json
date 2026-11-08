@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "f26ae046-a631-4578-b466-4652f497364f",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f26ae046-a631-4578-b466-4652f497364f?resourceVersion=id%3A2579"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f26ae046-a631-4578-b466-4652f497364f?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38758,
+    "drupal_internal__vid": 2579,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Ibsen",
+    "created": "2011-01-25T20:20:38+00:00",
+    "changed": "2011-11-17T14:36:53+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38758",
+      "pid": 506,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahr lernt im November 1888, auf dem Weg nach Paris, in München Henrik Ibsen kennen.",
+      "format": "full_html",
+      "processed": "Bahr lernt im November 1888, auf dem Weg nach Paris, in München Henrik Ibsen kennen.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1888-11-10",
+      "end_value": "1888-11-10"
+    },
+    "field_sources": [
+      "Undatierte Karte an seinen Vater",
+      "Selbstbildnis, 216",
+      "Hermann Bahr: Münchener Brief. Deutsche Zeitung, Wien, 18 (1888) #6072, Morgen-Ausgabe, 1-2. (23.11.1888) Buchausgabe: Kritik der Moderne, 125-130"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f26ae046-a631-4578-b466-4652f497364f/node_type?resourceVersion=id%3A2579"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f26ae046-a631-4578-b466-4652f497364f/relationships/node_type?resourceVersion=id%3A2579"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f26ae046-a631-4578-b466-4652f497364f/revision_uid?resourceVersion=id%3A2579"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f26ae046-a631-4578-b466-4652f497364f/relationships/revision_uid?resourceVersion=id%3A2579"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f26ae046-a631-4578-b466-4652f497364f/uid?resourceVersion=id%3A2579"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f26ae046-a631-4578-b466-4652f497364f/relationships/uid?resourceVersion=id%3A2579"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f26ae046-a631-4578-b466-4652f497364f/field_event_type?resourceVersion=id%3A2579"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f26ae046-a631-4578-b466-4652f497364f/relationships/field_event_type?resourceVersion=id%3A2579"
+        }
+      }
+    }
+  }
+}

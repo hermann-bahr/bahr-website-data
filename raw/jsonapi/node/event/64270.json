@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "c679fe5e-2302-432b-9e06-ec43dc4d9bb9",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/c679fe5e-2302-432b-9e06-ec43dc4d9bb9?resourceVersion=id%3A3660"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/c679fe5e-2302-432b-9e06-ec43dc4d9bb9?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 64270,
+    "drupal_internal__vid": 3660,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Pächter des Burgtheaters?",
+    "created": "2012-07-09T17:02:20+00:00",
+    "changed": "2012-07-09T17:02:20+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/64270",
+      "pid": 1703,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Im Herbst 1897 wollen \"gewisse Kräfte\" den Kaiser dazu überreden, das Burgtheater an eine finanziell wie künstlerisch verlässliche Person zu verpachten. Während Franz Josef II. nicht reagiert, reagiert Bahr ablehnend, als bei ihm angefragt wird, ob er übernehmen würde. Der Wiener, findet Bahr in einem Leserbrief vom 29. Dezember 1897, würde das nie akzeptieren.",
+      "format": "full_html",
+      "processed": "Im Herbst 1897 wollen \"gewisse Kräfte\" den Kaiser dazu überreden, das Burgtheater an eine finanziell wie künstlerisch verlässliche Person zu verpachten. Während Franz Josef II. nicht reagiert, reagiert Bahr ablehnend, als bei ihm angefragt wird, ob er übernehmen würde. Der Wiener, findet Bahr in einem Leserbrief vom 29. Dezember 1897, würde das nie akzeptieren.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1897-12-23",
+      "end_value": "1897-12-23"
+    },
+    "field_sources": [
+      "Hinter den Coulissen. Berliner Börsen-Courier, 30 (1897) #599, Morgen-Ausgabe, [1]. (23.12.1897)",
+      "Hermann Bahr: Hinter den Coulissen. Berliner Börsen-Courier, 30 (1897) #607, 1. Beilage, [1]. (29.12.1897)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c679fe5e-2302-432b-9e06-ec43dc4d9bb9/node_type?resourceVersion=id%3A3660"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c679fe5e-2302-432b-9e06-ec43dc4d9bb9/relationships/node_type?resourceVersion=id%3A3660"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c679fe5e-2302-432b-9e06-ec43dc4d9bb9/revision_uid?resourceVersion=id%3A3660"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c679fe5e-2302-432b-9e06-ec43dc4d9bb9/relationships/revision_uid?resourceVersion=id%3A3660"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c679fe5e-2302-432b-9e06-ec43dc4d9bb9/uid?resourceVersion=id%3A3660"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c679fe5e-2302-432b-9e06-ec43dc4d9bb9/relationships/uid?resourceVersion=id%3A3660"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c679fe5e-2302-432b-9e06-ec43dc4d9bb9/field_event_type?resourceVersion=id%3A3660"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c679fe5e-2302-432b-9e06-ec43dc4d9bb9/relationships/field_event_type?resourceVersion=id%3A3660"
+        }
+      }
+    }
+  }
+}

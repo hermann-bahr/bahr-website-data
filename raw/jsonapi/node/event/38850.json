@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "ad2ea103-ff13-4cc0-a28c-89be9c3ca6ea",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/ad2ea103-ff13-4cc0-a28c-89be9c3ca6ea?resourceVersion=id%3A2666"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/ad2ea103-ff13-4cc0-a28c-89be9c3ca6ea?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38850,
+    "drupal_internal__vid": 2666,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Abschlussfeier",
+    "created": "2011-02-14T18:11:07+00:00",
+    "changed": "2011-07-18T14:52:57+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38850",
+      "pid": 594,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 14. Juli 1881 bringt die \"Salzburger Volkszeitung\" folgende Meldung:\r\n<blockquote><strong>* Die Schlußfeier des k. k. Gymnasiums</strong> findet am Freitag den 15. Juli, Vormittags 9 1/4 Uhr, in der Aula academica mit folgendem Programm statt: <ol><li>\"Frühling und Liebe\", dreistimmiger Knaben-Chor von F. Lachner.</li><li>Recitation von Homer's Odyssee XII von 142-200 durch Abiturienten Joh. Zwölnig.</li><li>Frühlings-Ode, Text von A. Erdt; für gemischten Chor und Orchester in Musik gesetzt und dem k. k. Gymnasium gewidmet von Carl Santner.</li><li>Abschiedsrede, gehalten vom Abiturienten Herm. Baar [!].</li><li>Prämien-Vertheilung</li><li>Volkshymne. Zöglinge der k. k. Lehrerbildungs-Anstalt und der k. k. Oberrealschule wirken bei dem musikalischen Theile aus besonderer Gefälligkeit mit.</li></ol></blockquote>\r\n",
+      "format": "full_html",
+      "processed": "Am 14. Juli 1881 bringt die \"Salzburger Volkszeitung\" folgende Meldung:\n<blockquote><strong>* Die Schlußfeier des k. k. Gymnasiums</strong> findet am Freitag den 15. Juli, Vormittags 9 1/4 Uhr, in der Aula academica mit folgendem Programm statt: <ol><li>\"Frühling und Liebe\", dreistimmiger Knaben-Chor von F. Lachner.</li><li>Recitation von Homer's Odyssee XII von 142-200 durch Abiturienten Joh. Zwölnig.</li><li>Frühlings-Ode, Text von A. Erdt; für gemischten Chor und Orchester in Musik gesetzt und dem k. k. Gymnasium gewidmet von Carl Santner.</li><li>Abschiedsrede, gehalten vom Abiturienten Herm. Baar [!].</li><li>Prämien-Vertheilung</li><li>Volkshymne. Zöglinge der k. k. Lehrerbildungs-Anstalt und der k. k. Oberrealschule wirken bei dem musikalischen Theile aus besonderer Gefälligkeit mit.</li></ol></blockquote>\n",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1881-07-14",
+      "end_value": "1881-07-14"
+    },
+    "field_sources": [
+      "Salzburger Volkszeitung, 11 (1881) #84, 3.",
+      "Salzburger Nachrichten, 1 (1881) #84, 2. (15.7.1881) Ankündigung mit gleichem Fehler in Bahrs Name"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ad2ea103-ff13-4cc0-a28c-89be9c3ca6ea/node_type?resourceVersion=id%3A2666"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ad2ea103-ff13-4cc0-a28c-89be9c3ca6ea/relationships/node_type?resourceVersion=id%3A2666"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ad2ea103-ff13-4cc0-a28c-89be9c3ca6ea/revision_uid?resourceVersion=id%3A2666"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ad2ea103-ff13-4cc0-a28c-89be9c3ca6ea/relationships/revision_uid?resourceVersion=id%3A2666"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ad2ea103-ff13-4cc0-a28c-89be9c3ca6ea/uid?resourceVersion=id%3A2666"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ad2ea103-ff13-4cc0-a28c-89be9c3ca6ea/relationships/uid?resourceVersion=id%3A2666"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ad2ea103-ff13-4cc0-a28c-89be9c3ca6ea/field_event_type?resourceVersion=id%3A2666"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ad2ea103-ff13-4cc0-a28c-89be9c3ca6ea/relationships/field_event_type?resourceVersion=id%3A2666"
+        }
+      }
+    }
+  }
+}

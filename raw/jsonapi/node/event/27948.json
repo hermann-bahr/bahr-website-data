@@ -1,0 +1,120 @@
+{
+  "type": "node--event",
+  "id": "680cb25d-81a6-4cf3-9f6c-cec993faf4f1",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/680cb25d-81a6-4cf3-9f6c-cec993faf4f1?resourceVersion=id%3A2289"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/680cb25d-81a6-4cf3-9f6c-cec993faf4f1?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27948,
+    "drupal_internal__vid": 2289,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Kriegssegen",
+    "created": "2010-07-19T14:50:22+00:00",
+    "changed": "2011-12-19T14:15:31+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/27948",
+      "pid": 123,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Eine erste Zusammenstellung von Bahrs Kriegspublizistik erscheint im Februar 1915. Rolland hat es am 15. März in den Händen. Stefan Zweig fordert Bahr am 9. September 1917 brieflich auf, sich endlich öffentlich von dem furchtbaren Machwerk zu distanzieren. ",
+      "format": "full_html",
+      "processed": "Eine erste Zusammenstellung von Bahrs Kriegspublizistik erscheint im Februar 1915. Rolland hat es am 15. März in den Händen. Stefan Zweig fordert Bahr am 9. September 1917 brieflich auf, sich endlich öffentlich von dem furchtbaren Machwerk zu distanzieren. ",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1915-02-12",
+      "end_value": "1915-02-12"
+    },
+    "field_sources": [
+      "Hermann Bahr: Kriegssegen. Mit einem Bild von H. B.  München: Delphin, 1915.\r\n",
+      "Berliner Tageblatt, 44 (1915) #86, Abend-Ausgabe, 3. (12.2.1915)\r\n",
+      "Bahr/Redlich, 105.",
+      "Romain Rolland - Stefan Zweig: Briefwechsel. Berlin: Rütten & Loening 1987, I, 142. ",
+      "Stefan Zweig: Briefe. 1914-1919. Hgg. Knut Beck, Jeffrey B. Berlin und Natascha Weschenbach-Feggeler. Berlin: S. Fischer 1998, 151-152."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/680cb25d-81a6-4cf3-9f6c-cec993faf4f1/node_type?resourceVersion=id%3A2289"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/680cb25d-81a6-4cf3-9f6c-cec993faf4f1/relationships/node_type?resourceVersion=id%3A2289"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/680cb25d-81a6-4cf3-9f6c-cec993faf4f1/revision_uid?resourceVersion=id%3A2289"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/680cb25d-81a6-4cf3-9f6c-cec993faf4f1/relationships/revision_uid?resourceVersion=id%3A2289"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/680cb25d-81a6-4cf3-9f6c-cec993faf4f1/uid?resourceVersion=id%3A2289"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/680cb25d-81a6-4cf3-9f6c-cec993faf4f1/relationships/uid?resourceVersion=id%3A2289"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "da42ac4a-f48f-4397-af4d-b66e913825fb",
+          "meta": {
+            "drupal_internal__target_id": 3
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/680cb25d-81a6-4cf3-9f6c-cec993faf4f1/field_event_type?resourceVersion=id%3A2289"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/680cb25d-81a6-4cf3-9f6c-cec993faf4f1/relationships/field_event_type?resourceVersion=id%3A2289"
+        }
+      }
+    }
+  }
+}

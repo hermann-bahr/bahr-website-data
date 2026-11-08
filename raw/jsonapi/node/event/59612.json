@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "c04c7179-c6fa-4f5c-80e0-ed2ca87000c1",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/c04c7179-c6fa-4f5c-80e0-ed2ca87000c1?resourceVersion=id%3A3559"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/c04c7179-c6fa-4f5c-80e0-ed2ca87000c1?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 59612,
+    "drupal_internal__vid": 3559,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "El Greco in Marczell",
+    "created": "2012-01-24T15:49:28+00:00",
+    "changed": "2012-12-21T11:56:35+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/59612",
+      "pid": 1600,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Aus dem Jahr 1923 zurück blickend, will zwölf Jahre zuvor Bahrs Begeisterung für El Greco, den er in Spanien noch zu Gunsten Velazquez links liegen ließ, in der Sammlung Marczell de Nemes in Budapest ihren ersten Höhepunkt erreicht haben.",
+      "format": "full_html",
+      "processed": "Aus dem Jahr 1923 zurück blickend, will zwölf Jahre zuvor Bahrs Begeisterung für El Greco, den er in Spanien noch zu Gunsten Velazquez links liegen ließ, in der Sammlung Marczell de Nemes in Budapest ihren ersten Höhepunkt erreicht haben.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1911-11-03",
+      "end_value": "1911-11-03"
+    },
+    "field_sources": [
+      "(Hier auf seinen Vortrag in Budapest 1911 datiert: 3.11.1911)",
+      "Liebe der Lebenden, III, 56. (4. März [1923])"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c04c7179-c6fa-4f5c-80e0-ed2ca87000c1/node_type?resourceVersion=id%3A3559"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c04c7179-c6fa-4f5c-80e0-ed2ca87000c1/relationships/node_type?resourceVersion=id%3A3559"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c04c7179-c6fa-4f5c-80e0-ed2ca87000c1/revision_uid?resourceVersion=id%3A3559"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c04c7179-c6fa-4f5c-80e0-ed2ca87000c1/relationships/revision_uid?resourceVersion=id%3A3559"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c04c7179-c6fa-4f5c-80e0-ed2ca87000c1/uid?resourceVersion=id%3A3559"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c04c7179-c6fa-4f5c-80e0-ed2ca87000c1/relationships/uid?resourceVersion=id%3A3559"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c04c7179-c6fa-4f5c-80e0-ed2ca87000c1/field_event_type?resourceVersion=id%3A3559"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c04c7179-c6fa-4f5c-80e0-ed2ca87000c1/relationships/field_event_type?resourceVersion=id%3A3559"
+        }
+      }
+    }
+  }
+}

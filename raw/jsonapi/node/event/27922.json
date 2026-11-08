@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "2a02f8b0-8069-4aa2-ae1b-fe8e12e8aec3",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/2a02f8b0-8069-4aa2-ae1b-fe8e12e8aec3?resourceVersion=id%3A2264"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/2a02f8b0-8069-4aa2-ae1b-fe8e12e8aec3?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27922,
+    "drupal_internal__vid": 2264,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Bayreuther Festspiele",
+    "created": "2010-07-16T15:08:12+00:00",
+    "changed": "2011-07-18T14:54:49+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/27922",
+      "pid": 98,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Die Verpflichtung seiner Frau, bei den Bayreuther Festspielen aufzutreten, verhilft Bahr zu einem Aufenthalt in dem oberfränkischen Wagnerort. Nachdem der Austausch mit Gerhart Hauptmann am 15. Juli 1911 beginnt, ist das das Datum, zu dem er bereits anwesend sein muss. In seinem Nachruf auf Albert Niemann, den er im \"Tagebuch\" (14.1.1917) publizierte, schildert Bahr den Abend in Bayreuth, an dem er auf Niemann traf. (20. August 1911) Vom gleichen Tag ist auch ein Brief erhalten.",
+      "format": "full_html",
+      "processed": "Die Verpflichtung seiner Frau, bei den Bayreuther Festspielen aufzutreten, verhilft Bahr zu einem Aufenthalt in dem oberfränkischen Wagnerort. Nachdem der Austausch mit Gerhart Hauptmann am 15. Juli 1911 beginnt, ist das das Datum, zu dem er bereits anwesend sein muss. In seinem Nachruf auf Albert Niemann, den er im \"Tagebuch\" (14.1.1917) publizierte, schildert Bahr den Abend in Bayreuth, an dem er auf Niemann traf. (20. August 1911) Vom gleichen Tag ist auch ein Brief erhalten.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1911-07-15",
+      "end_value": "1911-08-25"
+    },
+    "field_sources": [
+      "Peter Sprengel: Hermann Bahr und Gerhart Hauptmann in Briefen und anderen Zeugnissen. In: Johann Lachinger, Hg.: Hermann Bahr – Mittler der europäischen Moderne. Linz: Adalbert-Stifter-Institut des Landes Oberösterreich 2001, 210.",
+      "Wienbibliothek, H.I.N. 77092, Empfänger unbekannt"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2a02f8b0-8069-4aa2-ae1b-fe8e12e8aec3/node_type?resourceVersion=id%3A2264"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2a02f8b0-8069-4aa2-ae1b-fe8e12e8aec3/relationships/node_type?resourceVersion=id%3A2264"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2a02f8b0-8069-4aa2-ae1b-fe8e12e8aec3/revision_uid?resourceVersion=id%3A2264"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2a02f8b0-8069-4aa2-ae1b-fe8e12e8aec3/relationships/revision_uid?resourceVersion=id%3A2264"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2a02f8b0-8069-4aa2-ae1b-fe8e12e8aec3/uid?resourceVersion=id%3A2264"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2a02f8b0-8069-4aa2-ae1b-fe8e12e8aec3/relationships/uid?resourceVersion=id%3A2264"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2a02f8b0-8069-4aa2-ae1b-fe8e12e8aec3/field_event_type?resourceVersion=id%3A2264"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2a02f8b0-8069-4aa2-ae1b-fe8e12e8aec3/relationships/field_event_type?resourceVersion=id%3A2264"
+        }
+      }
+    }
+  }
+}

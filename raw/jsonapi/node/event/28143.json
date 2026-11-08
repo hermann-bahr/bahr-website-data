@@ -1,0 +1,114 @@
+{
+  "type": "node--event",
+  "id": "a90f34a3-c645-4f4a-8186-e0b6c88da57b",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/a90f34a3-c645-4f4a-8186-e0b6c88da57b?resourceVersion=id%3A2459"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/a90f34a3-c645-4f4a-8186-e0b6c88da57b?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28143,
+    "drupal_internal__vid": 2459,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Deutschland-Tournee",
+    "created": "2010-08-24T12:00:18+00:00",
+    "changed": "2011-10-11T08:37:57+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28143",
+      "pid": 295,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Vom 4. November bis zum 27. November 1912 führt Bahr eine Vortragstournee nach Bayern, Württemberg, Baden, Hessen und ins Rheinland. Die Veranstalter haben die Wahl aus folgendem Programm: A) \"O Mensch\", \"Die schöne Frau\"; B) Über Schauspielkunst; C) Die letzten dreißig Jahre deutscher Literatur; D) Die Großstadt (\"Rette deine Seele\"); E) Walt Whitman (verbunden mit Vorlesung aus dessen Werken); F) Über Erziehung G) Die religiöse Bewegung unserer Zeit; H) Bayreuth (Richard Wagner)",
+      "format": "full_html",
+      "processed": "Vom 4. November bis zum 27. November 1912 führt Bahr eine Vortragstournee nach Bayern, Württemberg, Baden, Hessen und ins Rheinland. Die Veranstalter haben die Wahl aus folgendem Programm: A) \"O Mensch\", \"Die schöne Frau\"; B) Über Schauspielkunst; C) Die letzten dreißig Jahre deutscher Literatur; D) Die Großstadt (\"Rette deine Seele\"); E) Walt Whitman (verbunden mit Vorlesung aus dessen Werken); F) Über Erziehung G) Die religiöse Bewegung unserer Zeit; H) Bayreuth (Richard Wagner)",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1912-11-05",
+      "end_value": "1912-11-27"
+    },
+    "field_sources": []
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a90f34a3-c645-4f4a-8186-e0b6c88da57b/node_type?resourceVersion=id%3A2459"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a90f34a3-c645-4f4a-8186-e0b6c88da57b/relationships/node_type?resourceVersion=id%3A2459"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a90f34a3-c645-4f4a-8186-e0b6c88da57b/revision_uid?resourceVersion=id%3A2459"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a90f34a3-c645-4f4a-8186-e0b6c88da57b/relationships/revision_uid?resourceVersion=id%3A2459"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a90f34a3-c645-4f4a-8186-e0b6c88da57b/uid?resourceVersion=id%3A2459"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a90f34a3-c645-4f4a-8186-e0b6c88da57b/relationships/uid?resourceVersion=id%3A2459"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a90f34a3-c645-4f4a-8186-e0b6c88da57b/field_event_type?resourceVersion=id%3A2459"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a90f34a3-c645-4f4a-8186-e0b6c88da57b/relationships/field_event_type?resourceVersion=id%3A2459"
+        }
+      }
+    }
+  }
+}

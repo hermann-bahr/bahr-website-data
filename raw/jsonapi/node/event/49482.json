@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "c9aca38b-8dea-4026-bd5b-cf48c4f14a17",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/c9aca38b-8dea-4026-bd5b-cf48c4f14a17?resourceVersion=id%3A3320"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/c9aca38b-8dea-4026-bd5b-cf48c4f14a17?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49482,
+    "drupal_internal__vid": 3320,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Antisemitismus",
+    "created": "2011-10-24T12:54:23+00:00",
+    "changed": "2011-10-24T12:54:23+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49482",
+      "pid": 1304,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 20. Februar 1917 ist Bahr bei Redlich und Bahr wundert sich, warum ihn niemand, mit Ausnahme Redlichs, politisch ernst nehme. Neben Kritik an gegenwärtigen Politikern notiert sich Redlich:<blockquote>Übrigens meint Bahr, dass da auch das \"Judentum\" eine gewisse Rolle spiele. Ich kann nicht leugnen, dass mich dieses Gespräch nicht anders als peinlich berührte.</blockquote>Das ist ein typisches Beispiel, wie Bahrs Antisemitismus zu diesem Zeitpunkt weiterhin in einer Verdächtigung weiter existiert, die es ihm trotzdem erlaubt, sich nicht als Antisemit zu fühlen. Vgl. auch die Jedermann-Inszenierung 1920!",
+      "format": "full_html",
+      "processed": "Am 20. Februar 1917 ist Bahr bei Redlich und Bahr wundert sich, warum ihn niemand, mit Ausnahme Redlichs, politisch ernst nehme. Neben Kritik an gegenwärtigen Politikern notiert sich Redlich:<blockquote>Übrigens meint Bahr, dass da auch das \"Judentum\" eine gewisse Rolle spiele. Ich kann nicht leugnen, dass mich dieses Gespräch nicht anders als peinlich berührte.</blockquote>Das ist ein typisches Beispiel, wie Bahrs Antisemitismus zu diesem Zeitpunkt weiterhin in einer Verdächtigung weiter existiert, die es ihm trotzdem erlaubt, sich nicht als Antisemit zu fühlen. Vgl. auch die Jedermann-Inszenierung 1920!",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1917-02-20",
+      "end_value": "1917-02-20"
+    },
+    "field_sources": [
+      "Fritz Fellner und Doris A. Corradini (Hgg.): Schicksalsjahre Österreichs. Die Erinnerungen und Tagebücher Josef Redlichs 1869–1936. Wien: Böhlau 2011, II, 277."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c9aca38b-8dea-4026-bd5b-cf48c4f14a17/node_type?resourceVersion=id%3A3320"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c9aca38b-8dea-4026-bd5b-cf48c4f14a17/relationships/node_type?resourceVersion=id%3A3320"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c9aca38b-8dea-4026-bd5b-cf48c4f14a17/revision_uid?resourceVersion=id%3A3320"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c9aca38b-8dea-4026-bd5b-cf48c4f14a17/relationships/revision_uid?resourceVersion=id%3A3320"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c9aca38b-8dea-4026-bd5b-cf48c4f14a17/uid?resourceVersion=id%3A3320"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c9aca38b-8dea-4026-bd5b-cf48c4f14a17/relationships/uid?resourceVersion=id%3A3320"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c9aca38b-8dea-4026-bd5b-cf48c4f14a17/field_event_type?resourceVersion=id%3A3320"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c9aca38b-8dea-4026-bd5b-cf48c4f14a17/relationships/field_event_type?resourceVersion=id%3A3320"
+        }
+      }
+    }
+  }
+}

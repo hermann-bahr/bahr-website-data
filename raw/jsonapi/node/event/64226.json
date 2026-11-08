@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "15659ee0-02c3-4c3d-b3dd-b69cf66f383b",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/15659ee0-02c3-4c3d-b3dd-b69cf66f383b?resourceVersion=id%3A3616"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/15659ee0-02c3-4c3d-b3dd-b69cf66f383b?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 64226,
+    "drupal_internal__vid": 3616,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "AS als Zeuge",
+    "created": "2012-05-23T10:23:55+00:00",
+    "changed": "2012-05-23T10:25:06+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/64226",
+      "pid": 1659,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Schnitzler notiert sich am 22. Februar 1901 ins Tagebuch:\r\n<blockquote>Zeuge im Prozess Bahr – Kraus</blockquote>\r\nTags darauf ist er auch im Schwurgerichtssaal, um Bahrs Pladoyer zu hören.",
+      "format": "full_html",
+      "processed": "Schnitzler notiert sich am 22. Februar 1901 ins Tagebuch:\n<blockquote>Zeuge im Prozess Bahr – Kraus</blockquote>\nTags darauf ist er auch im Schwurgerichtssaal, um Bahrs Pladoyer zu hören.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1901-02-22",
+      "end_value": "1901-02-23"
+    },
+    "field_sources": [
+      "Schnitzler: Tagebücher, II, 347"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/15659ee0-02c3-4c3d-b3dd-b69cf66f383b/node_type?resourceVersion=id%3A3616"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/15659ee0-02c3-4c3d-b3dd-b69cf66f383b/relationships/node_type?resourceVersion=id%3A3616"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/15659ee0-02c3-4c3d-b3dd-b69cf66f383b/revision_uid?resourceVersion=id%3A3616"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/15659ee0-02c3-4c3d-b3dd-b69cf66f383b/relationships/revision_uid?resourceVersion=id%3A3616"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/15659ee0-02c3-4c3d-b3dd-b69cf66f383b/uid?resourceVersion=id%3A3616"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/15659ee0-02c3-4c3d-b3dd-b69cf66f383b/relationships/uid?resourceVersion=id%3A3616"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/15659ee0-02c3-4c3d-b3dd-b69cf66f383b/field_event_type?resourceVersion=id%3A3616"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/15659ee0-02c3-4c3d-b3dd-b69cf66f383b/relationships/field_event_type?resourceVersion=id%3A3616"
+        }
+      }
+    }
+  }
+}

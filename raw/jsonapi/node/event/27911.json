@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "d30b6b92-c38f-4741-a9f1-78727f9b2ae9",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/d30b6b92-c38f-4741-a9f1-78727f9b2ae9?resourceVersion=id%3A2256"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/d30b6b92-c38f-4741-a9f1-78727f9b2ae9?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27911,
+    "drupal_internal__vid": 2256,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Rodbertus, Theorie der Handelskrisen",
+    "created": "2010-06-30T13:29:07+00:00",
+    "changed": "2011-11-16T13:32:10+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/27911",
+      "pid": 90,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am hält 21 Juni 1884 hält er im Seminar von Adolf Wagner einen Vortrag über \"Rodbertus, Theorie der Handelskrisen\". Die Beschäftigung mit Rodbertus nimmt eine zentrale Rolle in Bahrs nationalökonomischen Studien ein. Im gleichen Jahr erscheint der Text als Buch bei Konegen in Wien.",
+      "format": "full_html",
+      "processed": "Am hält 21 Juni 1884 hält er im Seminar von Adolf Wagner einen Vortrag über \"Rodbertus, Theorie der Handelskrisen\". Die Beschäftigung mit Rodbertus nimmt eine zentrale Rolle in Bahrs nationalökonomischen Studien ein. Im gleichen Jahr erscheint der Text als Buch bei Konegen in Wien.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1884-06-21",
+      "end_value": "1884-06-21"
+    },
+    "field_sources": [
+      "Biografische Angaben aus dem Nachlass",
+      "Vgl. Selbstbildnis, 172"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d30b6b92-c38f-4741-a9f1-78727f9b2ae9/node_type?resourceVersion=id%3A2256"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d30b6b92-c38f-4741-a9f1-78727f9b2ae9/relationships/node_type?resourceVersion=id%3A2256"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d30b6b92-c38f-4741-a9f1-78727f9b2ae9/revision_uid?resourceVersion=id%3A2256"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d30b6b92-c38f-4741-a9f1-78727f9b2ae9/relationships/revision_uid?resourceVersion=id%3A2256"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d30b6b92-c38f-4741-a9f1-78727f9b2ae9/uid?resourceVersion=id%3A2256"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d30b6b92-c38f-4741-a9f1-78727f9b2ae9/relationships/uid?resourceVersion=id%3A2256"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d30b6b92-c38f-4741-a9f1-78727f9b2ae9/field_event_type?resourceVersion=id%3A2256"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d30b6b92-c38f-4741-a9f1-78727f9b2ae9/relationships/field_event_type?resourceVersion=id%3A2256"
+        }
+      }
+    }
+  }
+}

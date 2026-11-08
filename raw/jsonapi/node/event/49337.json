@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "c7f21f44-abae-43c8-99a2-e04835a87ebf",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/c7f21f44-abae-43c8-99a2-e04835a87ebf?resourceVersion=id%3A3184"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/c7f21f44-abae-43c8-99a2-e04835a87ebf?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49337,
+    "drupal_internal__vid": 3184,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Beerdigung Burckhard",
+    "created": "2011-10-11T09:15:59+00:00",
+    "changed": "2012-10-08T13:46:50+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49337",
+      "pid": 1163,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 18. März 1912 ist Bahr auf der Beerdigung von Max Burckhard. Unter den Gästen sind auch Klimt und Schnitzler. Reden werden auf ausdrücklichen Wunsch des Verstorbenen keine gehalten.[1] Bahr will am Grab eine Jugendliebe Burckhards kennengelernt haben, die wohl Burckhard die Briefe Carl Rahls gegeben habe.",
+      "format": "full_html",
+      "processed": "Am 18. März 1912 ist Bahr auf der Beerdigung von Max Burckhard. Unter den Gästen sind auch Klimt und Schnitzler. Reden werden auf ausdrücklichen Wunsch des Verstorbenen keine gehalten.[1] Bahr will am Grab eine Jugendliebe Burckhards kennengelernt haben, die wohl Burckhard die Briefe Carl Rahls gegeben habe.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1912-03-18",
+      "end_value": "1912-03-18"
+    },
+    "field_sources": [
+      "[1] Neue Freie Presse, #17088, 8. (19.3.1912)",
+      "[2] Fritz Fellner und Doris A. Corradini (Hgg.): Schicksalsjahre Österreichs. Die Erinnerungen und Tagebücher Josef Redlichs 1869–1936. Wien: Böhlau 2011, I, 478.",
+      "Hermann Bahr: Erinnerung an Burckhard, 73"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c7f21f44-abae-43c8-99a2-e04835a87ebf/node_type?resourceVersion=id%3A3184"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c7f21f44-abae-43c8-99a2-e04835a87ebf/relationships/node_type?resourceVersion=id%3A3184"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c7f21f44-abae-43c8-99a2-e04835a87ebf/revision_uid?resourceVersion=id%3A3184"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c7f21f44-abae-43c8-99a2-e04835a87ebf/relationships/revision_uid?resourceVersion=id%3A3184"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c7f21f44-abae-43c8-99a2-e04835a87ebf/uid?resourceVersion=id%3A3184"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c7f21f44-abae-43c8-99a2-e04835a87ebf/relationships/uid?resourceVersion=id%3A3184"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c7f21f44-abae-43c8-99a2-e04835a87ebf/field_event_type?resourceVersion=id%3A3184"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c7f21f44-abae-43c8-99a2-e04835a87ebf/relationships/field_event_type?resourceVersion=id%3A3184"
+        }
+      }
+    }
+  }
+}

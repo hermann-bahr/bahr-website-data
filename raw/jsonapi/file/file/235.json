@@ -1,0 +1,36 @@
+{
+  "type": "file--file",
+  "id": "cd05ea82-d3b3-4c8c-950f-d721fbf7d3f3",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/file/file/cd05ea82-d3b3-4c8c-950f-d721fbf7d3f3"
+    }
+  },
+  "attributes": {
+    "drupal_internal__fid": 235,
+    "langcode": "de",
+    "filename": "1913_lido.jpg",
+    "uri": {
+      "value": "public://bahr_bilder/1913_lido.jpg",
+      "url": "/sites/default/files/bahr_bilder/1913_lido.jpg"
+    },
+    "filemime": "image/jpeg",
+    "filesize": 882481,
+    "status": true,
+    "created": "2020-02-18T15:00:35+00:00",
+    "changed": "2020-02-18T15:11:43+00:00"
+  },
+  "relationships": {
+    "uid": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/file/file/cd05ea82-d3b3-4c8c-950f-d721fbf7d3f3/uid"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/file/file/cd05ea82-d3b3-4c8c-950f-d721fbf7d3f3/relationships/uid"
+        }
+      }
+    }
+  }
+}

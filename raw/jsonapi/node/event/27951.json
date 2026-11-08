@@ -1,0 +1,114 @@
+{
+  "type": "node--event",
+  "id": "7c69bee1-a28e-44e4-8624-a077323d20d1",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/7c69bee1-a28e-44e4-8624-a077323d20d1?resourceVersion=id%3A2292"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/7c69bee1-a28e-44e4-8624-a077323d20d1?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27951,
+    "drupal_internal__vid": 2292,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Um Goethe",
+    "created": "2010-07-19T14:56:59+00:00",
+    "changed": "2010-07-19T14:56:59+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/27951",
+      "pid": 126,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Diese Zusammenstellung von bereits veröffentlichten Goethe-Texten erschien im Sommer 1917.",
+      "format": "full_html",
+      "processed": "Diese Zusammenstellung von bereits veröffentlichten Goethe-Texten erschien im Sommer 1917.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1917-08-01",
+      "end_value": "1917-08-01"
+    },
+    "field_sources": []
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7c69bee1-a28e-44e4-8624-a077323d20d1/node_type?resourceVersion=id%3A2292"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7c69bee1-a28e-44e4-8624-a077323d20d1/relationships/node_type?resourceVersion=id%3A2292"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7c69bee1-a28e-44e4-8624-a077323d20d1/revision_uid?resourceVersion=id%3A2292"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7c69bee1-a28e-44e4-8624-a077323d20d1/relationships/revision_uid?resourceVersion=id%3A2292"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7c69bee1-a28e-44e4-8624-a077323d20d1/uid?resourceVersion=id%3A2292"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7c69bee1-a28e-44e4-8624-a077323d20d1/relationships/uid?resourceVersion=id%3A2292"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "da42ac4a-f48f-4397-af4d-b66e913825fb",
+          "meta": {
+            "drupal_internal__target_id": 3
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7c69bee1-a28e-44e4-8624-a077323d20d1/field_event_type?resourceVersion=id%3A2292"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7c69bee1-a28e-44e4-8624-a077323d20d1/relationships/field_event_type?resourceVersion=id%3A2292"
+        }
+      }
+    }
+  }
+}

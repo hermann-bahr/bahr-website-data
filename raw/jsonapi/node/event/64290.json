@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "00f4ec7a-343c-4dc3-ba16-242d40d90b1e",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/00f4ec7a-343c-4dc3-ba16-242d40d90b1e?resourceVersion=id%3A3680"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/00f4ec7a-343c-4dc3-ba16-242d40d90b1e?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 64290,
+    "drupal_internal__vid": 3680,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Lisa Clarus als Schreiberin",
+    "created": "2012-09-26T17:15:48+00:00",
+    "changed": "2012-09-26T17:16:18+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/64290",
+      "pid": 1723,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Von 1.1.1909 bis zum 28.2.1913 ist Fräulein Elisabeth \"Lisa\" Clarus „Schreiberin nach Diktat“ für Bahr in Wien.\r\n\r\n",
+      "format": "full_html",
+      "processed": "Von 1.1.1909 bis zum 28.2.1913 ist Fräulein Elisabeth \"Lisa\" Clarus „Schreiberin nach Diktat“ für Bahr in Wien.\n\n",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1909-01-01",
+      "end_value": "1909-01-01"
+    },
+    "field_sources": [
+      "Briefe Clarus, Lisa im Nachlass\r\n",
+      "Brief: Allgemeine Pensionsanstalt für Angestellte, Brief im Nachlass vom 16.10.1914\r\n"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/00f4ec7a-343c-4dc3-ba16-242d40d90b1e/node_type?resourceVersion=id%3A3680"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/00f4ec7a-343c-4dc3-ba16-242d40d90b1e/relationships/node_type?resourceVersion=id%3A3680"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/00f4ec7a-343c-4dc3-ba16-242d40d90b1e/revision_uid?resourceVersion=id%3A3680"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/00f4ec7a-343c-4dc3-ba16-242d40d90b1e/relationships/revision_uid?resourceVersion=id%3A3680"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/00f4ec7a-343c-4dc3-ba16-242d40d90b1e/uid?resourceVersion=id%3A3680"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/00f4ec7a-343c-4dc3-ba16-242d40d90b1e/relationships/uid?resourceVersion=id%3A3680"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/00f4ec7a-343c-4dc3-ba16-242d40d90b1e/field_event_type?resourceVersion=id%3A3680"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/00f4ec7a-343c-4dc3-ba16-242d40d90b1e/relationships/field_event_type?resourceVersion=id%3A3680"
+        }
+      }
+    }
+  }
+}

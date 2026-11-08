@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "187c35b6-2fd4-4477-a232-bbe1b875d10f",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/187c35b6-2fd4-4477-a232-bbe1b875d10f?resourceVersion=id%3A3367"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/187c35b6-2fd4-4477-a232-bbe1b875d10f?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49534,
+    "drupal_internal__vid": 3367,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Salzburg",
+    "created": "2011-10-28T12:13:24+00:00",
+    "changed": "2011-10-28T12:13:24+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49534",
+      "pid": 1351,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bevor sie am 5. Juli 1923 am Millstätter-See anlangen, sind Bahr und Gattin noch für zwei Tage in Salzburg, wohin sie am 2. Juli abreisen.",
+      "format": "full_html",
+      "processed": "Bevor sie am 5. Juli 1923 am Millstätter-See anlangen, sind Bahr und Gattin noch für zwei Tage in Salzburg, wohin sie am 2. Juli abreisen.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1923-07-02",
+      "end_value": "1923-07-04"
+    },
+    "field_sources": [
+      "Bahr/Redlich, 494."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/187c35b6-2fd4-4477-a232-bbe1b875d10f/node_type?resourceVersion=id%3A3367"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/187c35b6-2fd4-4477-a232-bbe1b875d10f/relationships/node_type?resourceVersion=id%3A3367"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/187c35b6-2fd4-4477-a232-bbe1b875d10f/revision_uid?resourceVersion=id%3A3367"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/187c35b6-2fd4-4477-a232-bbe1b875d10f/relationships/revision_uid?resourceVersion=id%3A3367"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/187c35b6-2fd4-4477-a232-bbe1b875d10f/uid?resourceVersion=id%3A3367"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/187c35b6-2fd4-4477-a232-bbe1b875d10f/relationships/uid?resourceVersion=id%3A3367"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/187c35b6-2fd4-4477-a232-bbe1b875d10f/field_event_type?resourceVersion=id%3A3367"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/187c35b6-2fd4-4477-a232-bbe1b875d10f/relationships/field_event_type?resourceVersion=id%3A3367"
+        }
+      }
+    }
+  }
+}

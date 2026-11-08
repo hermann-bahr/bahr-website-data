@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "2bb9c83a-a599-4565-a849-076e37c54339",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/2bb9c83a-a599-4565-a849-076e37c54339?resourceVersion=id%3A3273"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/2bb9c83a-a599-4565-a849-076e37c54339?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49430,
+    "drupal_internal__vid": 3273,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Prozess \"Eipeldauen\"",
+    "created": "2011-10-19T12:53:02+00:00",
+    "changed": "2011-10-19T12:53:02+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49430",
+      "pid": 1254,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 7. Juli 1912 ist Prozessbeginn Gabor Steiner vs. Bahr. Bahrs Auftragsrevue \"Reise nach Eipeldauen\" (1910) wurde von der Zensurbehörde verboten, weswegen der Direktor des Ronacher seinen Vorschuss zurück möchte. Der Prozess wird vertagt, weil angefragt werden soll, ob Teile des Stücks oder das Stück als ganzes verboten wurde. Ende 1913 wird der Prozess in 2. Instanz zu Gunsten Bahrs entschieden.",
+      "format": "full_html",
+      "processed": "Am 7. Juli 1912 ist Prozessbeginn Gabor Steiner vs. Bahr. Bahrs Auftragsrevue \"Reise nach Eipeldauen\" (1910) wurde von der Zensurbehörde verboten, weswegen der Direktor des Ronacher seinen Vorschuss zurück möchte. Der Prozess wird vertagt, weil angefragt werden soll, ob Teile des Stücks oder das Stück als ganzes verboten wurde. Ende 1913 wird der Prozess in 2. Instanz zu Gunsten Bahrs entschieden.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1912-07-07",
+      "end_value": "1912-07-07"
+    },
+    "field_sources": [
+      "[o. V.] Prozessbericht aus Wien: Gabor Steiner gegen Hermann Bahr. In: Prager Tagblatt. 37 (1912) #185, Morgen-Ausgabe, 8. (7.7.1912)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2bb9c83a-a599-4565-a849-076e37c54339/node_type?resourceVersion=id%3A3273"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2bb9c83a-a599-4565-a849-076e37c54339/relationships/node_type?resourceVersion=id%3A3273"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2bb9c83a-a599-4565-a849-076e37c54339/revision_uid?resourceVersion=id%3A3273"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2bb9c83a-a599-4565-a849-076e37c54339/relationships/revision_uid?resourceVersion=id%3A3273"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2bb9c83a-a599-4565-a849-076e37c54339/uid?resourceVersion=id%3A3273"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2bb9c83a-a599-4565-a849-076e37c54339/relationships/uid?resourceVersion=id%3A3273"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2bb9c83a-a599-4565-a849-076e37c54339/field_event_type?resourceVersion=id%3A3273"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2bb9c83a-a599-4565-a849-076e37c54339/relationships/field_event_type?resourceVersion=id%3A3273"
+        }
+      }
+    }
+  }
+}

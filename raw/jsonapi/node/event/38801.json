@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "40349e46-4a93-4036-8135-7ea2edf83580",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/40349e46-4a93-4036-8135-7ea2edf83580?resourceVersion=id%3A2622"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/40349e46-4a93-4036-8135-7ea2edf83580?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38801,
+    "drupal_internal__vid": 2622,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Ein eigenes Haus",
+    "created": "2011-02-01T15:53:15+00:00",
+    "changed": "2011-07-18T14:49:09+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38801",
+      "pid": 549,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 23. Juni 1896 spricht Bahr zum ersten Mal davon, dass er sich überlegt, in Hietzing auf Kredit ein Haus zu kaufen. Im Juli schaut er sich bereits kleine Häuser an, findet aber nichts, das seinem\r\n<blockquote>Ideal von kleinem englischen Haus</blockquote>\r\nentspricht. In Folge wird daraus natürlich das Haus, das Olbrich für ihn in Hietzing baut.",
+      "format": "full_html",
+      "processed": "Am 23. Juni 1896 spricht Bahr zum ersten Mal davon, dass er sich überlegt, in Hietzing auf Kredit ein Haus zu kaufen. Im Juli schaut er sich bereits kleine Häuser an, findet aber nichts, das seinem\n<blockquote>Ideal von kleinem englischen Haus</blockquote>\nentspricht. In Folge wird daraus natürlich das Haus, das Olbrich für ihn in Hietzing baut.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1896-06-23",
+      "end_value": "1896-06-23"
+    },
+    "field_sources": [
+      "Briefe an den Vater, 23.6. und 5.7.1896"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/40349e46-4a93-4036-8135-7ea2edf83580/node_type?resourceVersion=id%3A2622"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/40349e46-4a93-4036-8135-7ea2edf83580/relationships/node_type?resourceVersion=id%3A2622"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/40349e46-4a93-4036-8135-7ea2edf83580/revision_uid?resourceVersion=id%3A2622"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/40349e46-4a93-4036-8135-7ea2edf83580/relationships/revision_uid?resourceVersion=id%3A2622"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/40349e46-4a93-4036-8135-7ea2edf83580/uid?resourceVersion=id%3A2622"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/40349e46-4a93-4036-8135-7ea2edf83580/relationships/uid?resourceVersion=id%3A2622"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/40349e46-4a93-4036-8135-7ea2edf83580/field_event_type?resourceVersion=id%3A2622"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/40349e46-4a93-4036-8135-7ea2edf83580/relationships/field_event_type?resourceVersion=id%3A2622"
+        }
+      }
+    }
+  }
+}

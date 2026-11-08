@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "2d4a1ce7-cf3b-41c6-9bd5-89c77f9058cc",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/2d4a1ce7-cf3b-41c6-9bd5-89c77f9058cc?resourceVersion=id%3A2818"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/2d4a1ce7-cf3b-41c6-9bd5-89c77f9058cc?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39043,
+    "drupal_internal__vid": 2818,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Neues Wiener Journal",
+    "created": "2011-04-13T11:07:18+00:00",
+    "changed": "2013-02-19T16:46:13+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39043",
+      "pid": 775,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Vom 30. Mai 1909 weg erscheinen im Neuen Wiener Journal neue Texte von Bahr. Ursprünglich dürfte sich Bahr für gelegentliche Besprechungen von Stücken im Burgtheater verpflichtet haben [1], doch mehr als monatlich ein Text erschien nie. Eigenwilliger wurde es dann in Folge, als Bahr nach Salzburg übersiedelte und von dort erklärte, \"was das Burgtheater den Wienern\" ist. Es blieb aber nicht bei der Konzentration auf Theater, sondern es begannen andere Texte zu erscheinen. Eine klare Abtrennung zu den Beiträgen in der \"Neuen Freien Presse\" ist nicht möglich. Ab 1916 wurde die Zusammenarbeit intensiviert, Bahrs \"Kolumne\" \"Tagebuch\" erschien üblicherweise jeden Sonntag fast bis zu seinem Lebensende.",
+      "format": "full_html",
+      "processed": "Vom 30. Mai 1909 weg erscheinen im Neuen Wiener Journal neue Texte von Bahr. Ursprünglich dürfte sich Bahr für gelegentliche Besprechungen von Stücken im Burgtheater verpflichtet haben [1], doch mehr als monatlich ein Text erschien nie. Eigenwilliger wurde es dann in Folge, als Bahr nach Salzburg übersiedelte und von dort erklärte, \"was das Burgtheater den Wienern\" ist. Es blieb aber nicht bei der Konzentration auf Theater, sondern es begannen andere Texte zu erscheinen. Eine klare Abtrennung zu den Beiträgen in der \"Neuen Freien Presse\" ist nicht möglich. Ab 1916 wurde die Zusammenarbeit intensiviert, Bahrs \"Kolumne\" \"Tagebuch\" erschien üblicherweise jeden Sonntag fast bis zu seinem Lebensende.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1909-05-30",
+      "end_value": "1909-05-30"
+    },
+    "field_sources": [
+      "[1] Brief von Jakob Lippowitz, Nachlass Bahr, AM 20477 Ba. Vgl. Liebe der Lebenden, II, 286."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2d4a1ce7-cf3b-41c6-9bd5-89c77f9058cc/node_type?resourceVersion=id%3A2818"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2d4a1ce7-cf3b-41c6-9bd5-89c77f9058cc/relationships/node_type?resourceVersion=id%3A2818"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2d4a1ce7-cf3b-41c6-9bd5-89c77f9058cc/revision_uid?resourceVersion=id%3A2818"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2d4a1ce7-cf3b-41c6-9bd5-89c77f9058cc/relationships/revision_uid?resourceVersion=id%3A2818"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2d4a1ce7-cf3b-41c6-9bd5-89c77f9058cc/uid?resourceVersion=id%3A2818"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2d4a1ce7-cf3b-41c6-9bd5-89c77f9058cc/relationships/uid?resourceVersion=id%3A2818"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "d579e54c-64dd-4193-a9ef-da87efb3ed16",
+          "meta": {
+            "drupal_internal__target_id": 8
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2d4a1ce7-cf3b-41c6-9bd5-89c77f9058cc/field_event_type?resourceVersion=id%3A2818"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2d4a1ce7-cf3b-41c6-9bd5-89c77f9058cc/relationships/field_event_type?resourceVersion=id%3A2818"
+        }
+      }
+    }
+  }
+}

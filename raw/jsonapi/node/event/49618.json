@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "2b66a6ce-598e-4b8a-a764-3f9b6a00f294",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/2b66a6ce-598e-4b8a-a764-3f9b6a00f294?resourceVersion=id%3A3444"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/2b66a6ce-598e-4b8a-a764-3f9b6a00f294?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49618,
+    "drupal_internal__vid": 3444,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Wilhelm Liebknecht, August Bebel und Georg von Vollmar",
+    "created": "2011-11-17T10:29:08+00:00",
+    "changed": "2011-11-17T10:29:08+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49618",
+      "pid": 1434,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Aus mehreren Gründen will Bahr um 1885 von der Berliner Polizei als \"verdächtig\" eingestuft worden sein: Weil er den \"Sozialdemokraten\" aus Zürich abonnierte, weil er \"Die Einsichtslosigkeit des Herrn Schäffle\" schrieb und weil er gelegentlich in der Bierhalle Weihenstephan am Tisch von Bebel, Liebknecht und Vollmar sitzen durfte.",
+      "format": "full_html",
+      "processed": "Aus mehreren Gründen will Bahr um 1885 von der Berliner Polizei als \"verdächtig\" eingestuft worden sein: Weil er den \"Sozialdemokraten\" aus Zürich abonnierte, weil er \"Die Einsichtslosigkeit des Herrn Schäffle\" schrieb und weil er gelegentlich in der Bierhalle Weihenstephan am Tisch von Bebel, Liebknecht und Vollmar sitzen durfte.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1885-08-01",
+      "end_value": "1885-08-01"
+    },
+    "field_sources": [
+      "Selbstbildnis, 187-188.",
+      "(Hier nach \"Schäffle\" auf 1. August 1885 datiert)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2b66a6ce-598e-4b8a-a764-3f9b6a00f294/node_type?resourceVersion=id%3A3444"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2b66a6ce-598e-4b8a-a764-3f9b6a00f294/relationships/node_type?resourceVersion=id%3A3444"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2b66a6ce-598e-4b8a-a764-3f9b6a00f294/revision_uid?resourceVersion=id%3A3444"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2b66a6ce-598e-4b8a-a764-3f9b6a00f294/relationships/revision_uid?resourceVersion=id%3A3444"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2b66a6ce-598e-4b8a-a764-3f9b6a00f294/uid?resourceVersion=id%3A3444"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2b66a6ce-598e-4b8a-a764-3f9b6a00f294/relationships/uid?resourceVersion=id%3A3444"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2b66a6ce-598e-4b8a-a764-3f9b6a00f294/field_event_type?resourceVersion=id%3A3444"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2b66a6ce-598e-4b8a-a764-3f9b6a00f294/relationships/field_event_type?resourceVersion=id%3A3444"
+        }
+      }
+    }
+  }
+}

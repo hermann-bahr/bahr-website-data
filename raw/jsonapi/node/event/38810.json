@@ -1,0 +1,122 @@
+{
+  "type": "node--event",
+  "id": "6790ed9b-947d-4c46-9d7f-21e5ce765d03",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/6790ed9b-947d-4c46-9d7f-21e5ce765d03?resourceVersion=id%3A2631"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/6790ed9b-947d-4c46-9d7f-21e5ce765d03?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38810,
+    "drupal_internal__vid": 2631,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Mit Schnitzler, HvH und Hirschfeld",
+    "created": "2011-02-02T15:10:09+00:00",
+    "changed": "2012-05-22T20:34:45+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38810",
+      "pid": 558,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<blockquote>Am Sonntag den 28. d. [d.i. März 1897], Abends, findet im Bösendorfer-Saale eine Vorlesung statt, die von vier der bekanntesten Vertreter jungdeutscher Literatur zu wohltätigem Zwecke veranstaltet wird. Am Vorlesertische werden erscheinen als Interpreten ihrer eigenen Werke: Hermann Bahr, der erst jüngst anläßlich seines \"Tschaperl\" so vielbesprochene Führer Jung-Wiens; Arthur Schnitzler, der Verfasser der \"Liebelei\"; Hugo v. Hofmannsthal (Loris), ein interessantes Talent des modernen Österreich, und Georg Hirschfeld, dessen \"Mütter\" vor Kurzem am Deutschen Volkstheater einen Sensations-Erfolg errangen.[1]</blockquote> Hugo von Hofmannsthal nahm nach anfänglichem Zögern doch daran teil und las \"Der Tor und der Tod“, Georg Hirschfeld \"Bei Beiden“, Schnitzler den ersten Akt von \"Freiwild“, Bahr seine \"Anekdote“. Laut Hirschfeld \"galt es, das Schicksal eines gelähmten Mädchens zu erleichtern.\"\r\n",
+      "format": "full_html",
+      "processed": "<blockquote>Am Sonntag den 28. d. [d.i. März 1897], Abends, findet im Bösendorfer-Saale eine Vorlesung statt, die von vier der bekanntesten Vertreter jungdeutscher Literatur zu wohltätigem Zwecke veranstaltet wird. Am Vorlesertische werden erscheinen als Interpreten ihrer eigenen Werke: Hermann Bahr, der erst jüngst anläßlich seines \"Tschaperl\" so vielbesprochene Führer Jung-Wiens; Arthur Schnitzler, der Verfasser der \"Liebelei\"; Hugo v. Hofmannsthal (Loris), ein interessantes Talent des modernen Österreich, und Georg Hirschfeld, dessen \"Mütter\" vor Kurzem am Deutschen Volkstheater einen Sensations-Erfolg errangen.[1]</blockquote> Hugo von Hofmannsthal nahm nach anfänglichem Zögern doch daran teil und las \"Der Tor und der Tod“, Georg Hirschfeld \"Bei Beiden“, Schnitzler den ersten Akt von \"Freiwild“, Bahr seine \"Anekdote“. Laut Hirschfeld \"galt es, das Schicksal eines gelähmten Mädchens zu erleichtern.\"\n",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1897-03-28",
+      "end_value": "1897-03-28"
+    },
+    "field_sources": [
+      "[1] Neue Freie Presse, #11702, 9. (21.3.1897)",
+      "Vgl. Tagebücher (Csàky), II, 237.",
+      "Vgl. Briefwechsel Schnitzler-Bahr, 60. (23.3.1897)",
+      "Vgl. auch SSchnitzler: Tagebücher, II, 243.",
+      "Georg Hirschfeld: Otto Brahm. Briefe und Erinnerungen. Berlin: Stilke 1925, 118.",
+      "Besprechungen: Extrablatt und Fremdenblatt, 29.3.; Wiener Tagblatt, Neues Wiener Tagblatt, Neues Wiener Journal, 30.3.",
+      "Wienbibliothek, Brief an Unbekannt, H.I.N. 213548, 7.4.1897"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6790ed9b-947d-4c46-9d7f-21e5ce765d03/node_type?resourceVersion=id%3A2631"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6790ed9b-947d-4c46-9d7f-21e5ce765d03/relationships/node_type?resourceVersion=id%3A2631"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6790ed9b-947d-4c46-9d7f-21e5ce765d03/revision_uid?resourceVersion=id%3A2631"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6790ed9b-947d-4c46-9d7f-21e5ce765d03/relationships/revision_uid?resourceVersion=id%3A2631"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6790ed9b-947d-4c46-9d7f-21e5ce765d03/uid?resourceVersion=id%3A2631"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6790ed9b-947d-4c46-9d7f-21e5ce765d03/relationships/uid?resourceVersion=id%3A2631"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6790ed9b-947d-4c46-9d7f-21e5ce765d03/field_event_type?resourceVersion=id%3A2631"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6790ed9b-947d-4c46-9d7f-21e5ce765d03/relationships/field_event_type?resourceVersion=id%3A2631"
+        }
+      }
+    }
+  }
+}

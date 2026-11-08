@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "84196b6a-6432-4be7-b067-ca64e11ee1ae",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/84196b6a-6432-4be7-b067-ca64e11ee1ae?resourceVersion=id%3A2525"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/84196b6a-6432-4be7-b067-ca64e11ee1ae?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28226,
+    "drupal_internal__vid": 2525,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Pressekongress",
+    "created": "2010-10-22T14:32:50+00:00",
+    "changed": "2011-09-05T09:16:47+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28226",
+      "pid": 363,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 23. September 1908, vermerkt Bahr in seinem \"Tagebuch\", fährt er nach Berlin zum Presse-Kongress. Zwei Tage drauf \"braust\" er mit Wilhelm Singer in dessen Automobil nach Potsdam. Letztere Fahrt wiederum dürfte Bahrs Besuch in der Berliner Sezession datieren, wo er \"neulich\" bei Max Klingers Brahm verweilte, um dann in Folge ins Automobil zu steigen. Am 27. kehrt er zurück.",
+      "format": "full_html",
+      "processed": "Am 23. September 1908, vermerkt Bahr in seinem \"Tagebuch\", fährt er nach Berlin zum Presse-Kongress. Zwei Tage drauf \"braust\" er mit Wilhelm Singer in dessen Automobil nach Potsdam. Letztere Fahrt wiederum dürfte Bahrs Besuch in der Berliner Sezession datieren, wo er \"neulich\" bei Max Klingers Brahm verweilte, um dann in Folge ins Automobil zu steigen. Am 27. kehrt er zurück.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1908-09-23",
+      "end_value": "1908-09-27"
+    },
+    "field_sources": [
+      "Hermann Bahr: Brahms von Klinger. Neue Freie Presse, (1909) #15990, Morgenblatt, 1-2. (25.2.1909) Buchausgabe: Essays (1912), 40-46.",
+      "Morgen, 2 (1908) #49, 1625. (4.12.1908)\r\n",
+      "Tagebücher (Csàky), V, 387-388."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/84196b6a-6432-4be7-b067-ca64e11ee1ae/node_type?resourceVersion=id%3A2525"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/84196b6a-6432-4be7-b067-ca64e11ee1ae/relationships/node_type?resourceVersion=id%3A2525"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/84196b6a-6432-4be7-b067-ca64e11ee1ae/revision_uid?resourceVersion=id%3A2525"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/84196b6a-6432-4be7-b067-ca64e11ee1ae/relationships/revision_uid?resourceVersion=id%3A2525"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/84196b6a-6432-4be7-b067-ca64e11ee1ae/uid?resourceVersion=id%3A2525"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/84196b6a-6432-4be7-b067-ca64e11ee1ae/relationships/uid?resourceVersion=id%3A2525"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/84196b6a-6432-4be7-b067-ca64e11ee1ae/field_event_type?resourceVersion=id%3A2525"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/84196b6a-6432-4be7-b067-ca64e11ee1ae/relationships/field_event_type?resourceVersion=id%3A2525"
+        }
+      }
+    }
+  }
+}

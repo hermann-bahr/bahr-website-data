@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "4f8f5845-c3a3-4d4c-b8e0-e74d8f3ee0ee",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/4f8f5845-c3a3-4d4c-b8e0-e74d8f3ee0ee?resourceVersion=id%3A3482"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/4f8f5845-c3a3-4d4c-b8e0-e74d8f3ee0ee?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49706,
+    "drupal_internal__vid": 3482,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "\"Woran arbeiten Sie?\"",
+    "created": "2011-12-05T15:34:41+00:00",
+    "changed": "2011-12-05T15:34:41+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49706",
+      "pid": 1520,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahrs Antwort auf die Frage, woran er arbeite, im Juni 1930:<blockquote>Ich arbeite an einem achten Roman in meiner österreichischen Reihe, die mit der \"Rahl\" begann, sich in \"Drut\", \"O Mensch\", \"Himmelfahrt\", der \"Rotte Korahs\" und \"Österreich in Ewigkeit\" fortsetzte, so daß nach meinem Plan dann nur noch vier zum Abschluß fehlen.</blockquote>",
+      "format": "full_html",
+      "processed": "Bahrs Antwort auf die Frage, woran er arbeite, im Juni 1930:<blockquote>Ich arbeite an einem achten Roman in meiner österreichischen Reihe, die mit der \"Rahl\" begann, sich in \"Drut\", \"O Mensch\", \"Himmelfahrt\", der \"Rotte Korahs\" und \"Österreich in Ewigkeit\" fortsetzte, so daß nach meinem Plan dann nur noch vier zum Abschluß fehlen.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1930-06-08",
+      "end_value": "1930-06-08"
+    },
+    "field_sources": [
+      "Woran arbeiten Sie? Eine Rundfrage des \"Neuen Wiener Journals\" an prominente Schriftsteller und Musiker. Neues Wiener Journal, 38 (1930) #13128, 7-8, hier: 7. (8.6.1930)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4f8f5845-c3a3-4d4c-b8e0-e74d8f3ee0ee/node_type?resourceVersion=id%3A3482"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4f8f5845-c3a3-4d4c-b8e0-e74d8f3ee0ee/relationships/node_type?resourceVersion=id%3A3482"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4f8f5845-c3a3-4d4c-b8e0-e74d8f3ee0ee/revision_uid?resourceVersion=id%3A3482"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4f8f5845-c3a3-4d4c-b8e0-e74d8f3ee0ee/relationships/revision_uid?resourceVersion=id%3A3482"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4f8f5845-c3a3-4d4c-b8e0-e74d8f3ee0ee/uid?resourceVersion=id%3A3482"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4f8f5845-c3a3-4d4c-b8e0-e74d8f3ee0ee/relationships/uid?resourceVersion=id%3A3482"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4f8f5845-c3a3-4d4c-b8e0-e74d8f3ee0ee/field_event_type?resourceVersion=id%3A3482"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4f8f5845-c3a3-4d4c-b8e0-e74d8f3ee0ee/relationships/field_event_type?resourceVersion=id%3A3482"
+        }
+      }
+    }
+  }
+}

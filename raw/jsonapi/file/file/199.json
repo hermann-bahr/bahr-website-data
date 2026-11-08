@@ -1,0 +1,36 @@
+{
+  "type": "file--file",
+  "id": "90007256-9474-4142-b9d4-9a164a1922c0",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/file/file/90007256-9474-4142-b9d4-9a164a1922c0"
+    }
+  },
+  "attributes": {
+    "drupal_internal__fid": 199,
+    "langcode": "de",
+    "filename": "zigarre.jpg",
+    "uri": {
+      "value": "public://bahr_bilder/zigarre.jpg",
+      "url": "/sites/default/files/bahr_bilder/zigarre.jpg"
+    },
+    "filemime": "image/jpeg",
+    "filesize": 89968,
+    "status": true,
+    "created": "2020-02-18T15:00:35+00:00",
+    "changed": "2020-02-18T15:11:43+00:00"
+  },
+  "relationships": {
+    "uid": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/file/file/90007256-9474-4142-b9d4-9a164a1922c0/uid"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/file/file/90007256-9474-4142-b9d4-9a164a1922c0/relationships/uid"
+        }
+      }
+    }
+  }
+}

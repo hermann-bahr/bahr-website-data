@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "acfd4cc6-20a4-496d-96da-95a5a80d2ed2",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/acfd4cc6-20a4-496d-96da-95a5a80d2ed2?resourceVersion=id%3A2363"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/acfd4cc6-20a4-496d-96da-95a5a80d2ed2?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28031,
+    "drupal_internal__vid": 2363,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "La Marquesa d'Amaëgui",
+    "created": "2010-07-28T10:59:25+00:00",
+    "changed": "2011-11-17T15:42:00+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28031",
+      "pid": 197,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 1. März 1888 wird im Linzer Landestheater Bahrs \"La Marquesa d'Amaëgui\" uraufgeführt. Unmittelbar danach geht es in den Druck und ist im Juni 1888 im wohlsortierten Buchhandel erhältlich.\r\n\r\nDas Stück ist Emma Adler gewidmet, die männlichem Hauptrollen dürften ein Selbstportrait (Rolf) und ein Portrait Pernerstorfers (Berner) sein, wie Bahr im \"Selbstbildnis\" ausspricht. \r\n\r\nDie Handlung ist sehr schematisch gebaut: Ein prominenter naturalistischer Dichter urlaubt mit seiner Schwester im Salzkammergut, daneben ein Politiker mit Frau und Kindern. Die ersten beiden Szenen, spiegelbildlich gebaut, zeigen wie der Dichter seiner Schwester erklärt, abreisen zu wollen, weil er dem Politiker nicht immer den Pessimisten vorspielen will, den dieser aus seinen Büchern kennt; hingegen beklagt sich der Politiker bei seiner Frau Stella, dass er nicht immer lebhaft sein will, nur weil das seine Wähler und hier eben Rolf es erwarten. Auch die Frau ist ihrer Rolle als melancholische Politikergattin überdrüssig, aber es benötigt den Schriftsteller, der ein fiktives Theaterstück entwirft, in dem er nicht Pessimist ist und um Stella freit, dass alle lernen, ihre Masken abzulegen.",
+      "format": "full_html",
+      "processed": "Am 1. März 1888 wird im Linzer Landestheater Bahrs \"La Marquesa d'Amaëgui\" uraufgeführt. Unmittelbar danach geht es in den Druck und ist im Juni 1888 im wohlsortierten Buchhandel erhältlich.\n\nDas Stück ist Emma Adler gewidmet, die männlichem Hauptrollen dürften ein Selbstportrait (Rolf) und ein Portrait Pernerstorfers (Berner) sein, wie Bahr im \"Selbstbildnis\" ausspricht. \n\nDie Handlung ist sehr schematisch gebaut: Ein prominenter naturalistischer Dichter urlaubt mit seiner Schwester im Salzkammergut, daneben ein Politiker mit Frau und Kindern. Die ersten beiden Szenen, spiegelbildlich gebaut, zeigen wie der Dichter seiner Schwester erklärt, abreisen zu wollen, weil er dem Politiker nicht immer den Pessimisten vorspielen will, den dieser aus seinen Büchern kennt; hingegen beklagt sich der Politiker bei seiner Frau Stella, dass er nicht immer lebhaft sein will, nur weil das seine Wähler und hier eben Rolf es erwarten. Auch die Frau ist ihrer Rolle als melancholische Politikergattin überdrüssig, aber es benötigt den Schriftsteller, der ein fiktives Theaterstück entwirft, in dem er nicht Pessimist ist und um Stella freit, dass alle lernen, ihre Masken abzulegen.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1888-03-01",
+      "end_value": "1888-03-01"
+    },
+    "field_sources": [
+      "Hermann Bahr: La Marquesa d'Amaëgui. Eine Plauderei. Zürich: J. Schabelitz, 1888.",
+      "Selbstbildnis, 214"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/acfd4cc6-20a4-496d-96da-95a5a80d2ed2/node_type?resourceVersion=id%3A2363"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/acfd4cc6-20a4-496d-96da-95a5a80d2ed2/relationships/node_type?resourceVersion=id%3A2363"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/acfd4cc6-20a4-496d-96da-95a5a80d2ed2/revision_uid?resourceVersion=id%3A2363"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/acfd4cc6-20a4-496d-96da-95a5a80d2ed2/relationships/revision_uid?resourceVersion=id%3A2363"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/acfd4cc6-20a4-496d-96da-95a5a80d2ed2/uid?resourceVersion=id%3A2363"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/acfd4cc6-20a4-496d-96da-95a5a80d2ed2/relationships/uid?resourceVersion=id%3A2363"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "27f3d2a4-8970-4726-9ab8-ce37707ec1bc",
+          "meta": {
+            "drupal_internal__target_id": 1
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/acfd4cc6-20a4-496d-96da-95a5a80d2ed2/field_event_type?resourceVersion=id%3A2363"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/acfd4cc6-20a4-496d-96da-95a5a80d2ed2/relationships/field_event_type?resourceVersion=id%3A2363"
+        }
+      }
+    }
+  }
+}

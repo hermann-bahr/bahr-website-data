@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hermann-bahr-jaroslav-kvapil-briefe-texte-dokumente" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Hermann Bahr - Jaroslav Kvapil. Briefe, Texte, Dokumente.</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">49463</idno>
+        <idno type="drupal-alias">/hermann-bahr-jaroslav-kvapil-briefe-texte-dokumente</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/hermann-bahr-jaroslav-kvapil-briefe-texte-dokumente">https://bahr.univie.ac.at/hermann-bahr-jaroslav-kvapil-briefe-texte-dokumente</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="none">
+          <term>nicht im Menü</term>
+        </keywords>
+        <classCode scheme="drupal-type">page</classCode>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2011-10-21T13:36:44+00:00" type="created">angelegt in Drupal</change>
+      <change when="2011-11-03T12:49:45+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head>
+          <hi rend="italic">Kurt Ifkovits, Martin Anton Müller</hi>
+        </head>
+        <p>Fehler bei der diakritischen Wiedergabe des Tschechischen werden nicht angeführt.</p>
+        <table>
+          <row>
+            <cell role="label">Seite</cell>
+            <cell role="label">Stelle</cell>
+            <cell role="label">Korrektur</cell>
+          </row>
+          <row>
+            <cell>264</cell>
+            <cell>Barerstrase</cell>
+            <cell>Barerstraße</cell>
+          </row>
+          <row>
+            <cell>387</cell>
+            <cell>Crusius ?</cell>
+            <cell>Otto Crusius (1857-1918)</cell>
+          </row>
+          <row>
+            <cell>390</cell>
+            <cell>Januar 1916 in Berlin ein wo er</cell>
+            <cell>Januar 1916 in Berlin ein, wo er</cell>
+          </row>
+          <row>
+            <cell>432</cell>
+            <cell>durch-gehend</cell>
+            <cell>durchgehend</cell>
+          </row>
+          <row>
+            <cell>481</cell>
+            <cell>Jubliäumsspiele</cell>
+            <cell>Jubiläumsspiele</cell>
+          </row>
+          <row>
+            <cell>555</cell>
+            <cell>Kaiser Josep</cell>
+            <cell>Kaiser Joseph</cell>
+          </row>
+          <row>
+            <cell>611</cell>
+            <cell>Waffenbündis</cell>
+            <cell>Waffenbündnis</cell>
+          </row>
+          <row>
+            <cell>611</cell>
+            <cell>Kulturbündis</cell>
+            <cell>Kulturbündnis</cell>
+          </row>
+          <row>
+            <cell>617</cell>
+            <cell>Ukarina</cell>
+            <cell>Ukraina</cell>
+          </row>
+          <row>
+            <cell>660</cell>
+            <cell>Jan ze Vserub</cell>
+            <cell>Johann von Neumarkt (1310-1380)</cell>
+          </row>
+        </table>
+      </div>
+    </body>
+  </text>
+</TEI>

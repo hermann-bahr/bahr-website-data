@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "46931e22-cccb-4e72-ac9b-4e9fce13825c",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/46931e22-cccb-4e72-ac9b-4e9fce13825c?resourceVersion=id%3A3500"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/46931e22-cccb-4e72-ac9b-4e9fce13825c?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49727,
+    "drupal_internal__vid": 3500,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Zweig",
+    "created": "2011-12-19T16:13:38+00:00",
+    "changed": "2011-12-19T16:14:25+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49727",
+      "pid": 1540,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 3. Oktober 1912 besucht Bahr Stefan Zweig in dessen Wiener Domizil. <blockquote>Schwer ist es gegen ihn zu Worte zu kommen, er strömt so hinreißend rasch und stark, daß er einen widerspruchslos in seine Welle reißt. Ich mahne ihn an seine Selbstbiografie und da sagt er mir ein schönes Wort: wenn ich nur wüßte, ob ich drei Jahre zu leben habe oder dreißig, dann wärs ja leicht! –</blockquote>",
+      "format": "full_html",
+      "processed": "Am 3. Oktober 1912 besucht Bahr Stefan Zweig in dessen Wiener Domizil. <blockquote>Schwer ist es gegen ihn zu Worte zu kommen, er strömt so hinreißend rasch und stark, daß er einen widerspruchslos in seine Welle reißt. Ich mahne ihn an seine Selbstbiografie und da sagt er mir ein schönes Wort: wenn ich nur wüßte, ob ich drei Jahre zu leben habe oder dreißig, dann wärs ja leicht! –</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1912-10-03",
+      "end_value": "1912-10-03"
+    },
+    "field_sources": [
+      "Stefan Zweig: Tagebücher. Frankfurt/Main: Fischer 1984, 19."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/46931e22-cccb-4e72-ac9b-4e9fce13825c/node_type?resourceVersion=id%3A3500"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/46931e22-cccb-4e72-ac9b-4e9fce13825c/relationships/node_type?resourceVersion=id%3A3500"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/46931e22-cccb-4e72-ac9b-4e9fce13825c/revision_uid?resourceVersion=id%3A3500"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/46931e22-cccb-4e72-ac9b-4e9fce13825c/relationships/revision_uid?resourceVersion=id%3A3500"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/46931e22-cccb-4e72-ac9b-4e9fce13825c/uid?resourceVersion=id%3A3500"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/46931e22-cccb-4e72-ac9b-4e9fce13825c/relationships/uid?resourceVersion=id%3A3500"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/46931e22-cccb-4e72-ac9b-4e9fce13825c/field_event_type?resourceVersion=id%3A3500"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/46931e22-cccb-4e72-ac9b-4e9fce13825c/relationships/field_event_type?resourceVersion=id%3A3500"
+        }
+      }
+    }
+  }
+}

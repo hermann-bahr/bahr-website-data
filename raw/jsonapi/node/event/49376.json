@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "b964b393-427d-4844-8fa1-f091097cfae1",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b964b393-427d-4844-8fa1-f091097cfae1?resourceVersion=id%3A3221"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b964b393-427d-4844-8fa1-f091097cfae1?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49376,
+    "drupal_internal__vid": 3221,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "JR, Kuenburg, O. A. Schmitz",
+    "created": "2011-10-13T15:24:01+00:00",
+    "changed": "2011-10-24T14:11:59+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49376",
+      "pid": 1200,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 17. und 18. Mai 1917 reist Redlich zu Bahr nach Salzburg. Neben Gandolf Kuenburg lernt er dabei auch O. A. Schmitz kennen, der ihm <blockquote>nicht allzusehr gefiel: ein Westdeutscher mit Berliner Lackierung</blockquote>",
+      "format": "full_html",
+      "processed": "Am 17. und 18. Mai 1917 reist Redlich zu Bahr nach Salzburg. Neben Gandolf Kuenburg lernt er dabei auch O. A. Schmitz kennen, der ihm <blockquote>nicht allzusehr gefiel: ein Westdeutscher mit Berliner Lackierung</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1917-05-18",
+      "end_value": "1917-05-18"
+    },
+    "field_sources": [
+      "Bahr/Redlich, 224.",
+      "Fritz Fellner und Doris A. Corradini (Hgg.): Schicksalsjahre Österreichs. Die Erinnerungen und Tagebücher Josef Redlichs 1869–1936. Wien: Böhlau 2011, II, 298."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b964b393-427d-4844-8fa1-f091097cfae1/node_type?resourceVersion=id%3A3221"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b964b393-427d-4844-8fa1-f091097cfae1/relationships/node_type?resourceVersion=id%3A3221"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b964b393-427d-4844-8fa1-f091097cfae1/revision_uid?resourceVersion=id%3A3221"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b964b393-427d-4844-8fa1-f091097cfae1/relationships/revision_uid?resourceVersion=id%3A3221"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b964b393-427d-4844-8fa1-f091097cfae1/uid?resourceVersion=id%3A3221"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b964b393-427d-4844-8fa1-f091097cfae1/relationships/uid?resourceVersion=id%3A3221"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b964b393-427d-4844-8fa1-f091097cfae1/field_event_type?resourceVersion=id%3A3221"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b964b393-427d-4844-8fa1-f091097cfae1/relationships/field_event_type?resourceVersion=id%3A3221"
+        }
+      }
+    }
+  }
+}

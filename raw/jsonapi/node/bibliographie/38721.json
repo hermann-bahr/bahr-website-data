@@ -1,0 +1,109 @@
+{
+  "type": "node--bibliographie",
+  "id": "999942c2-fea9-4aa2-8629-a534cd22918e",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/999942c2-fea9-4aa2-8629-a534cd22918e?resourceVersion=id%3A3847"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/999942c2-fea9-4aa2-8629-a534cd22918e?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38721,
+    "drupal_internal__vid": 3847,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:44:00+00:00",
+    "status": true,
+    "title": "Rudigier (1917)",
+    "created": "2011-01-19T10:34:51+00:00",
+    "changed": "2011-11-21T15:31:13+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/bibliografie/38721",
+      "pid": 470,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<h3 id=\"bib\">Bibliografie</h3>\r\n<table class=\"bibliografie\">\r\n<tr><td>Autor:</td><td>Hermann Bahr</td></tr>\r\n<tr><td>Titel:</td><td>Rudigier</td></tr>\r\n<tr><td>Ort:</td><td>Kempten und München</td></tr>\r\n<tr><td>Verlag:</td><td>Jos. Kösel</td></tr>\r\n<tr><td>Jahr:</td><td>1917</td></tr>\r\n<tr><td>Seiten:</td><td>61</td></tr>\r\n<tr><td>Anm.:</td><td>Thomasberger datiert auf [1916], vermutlich sich an dem Abdruck im 14. Jg. (1916) im \"Hochland\" orientierend. Sowohl \"Berliner Titeldrucke\", das \"Verzeichnis der von der Königlichen Bibliothek zu Berlin und den Preussischen Bibliotheken erworbenen neueren Druckschriften\" (4.2.1918, A #4/5, 80 [938]) wie auch das \"Deutsche Bücherverzeichnis\", 1915-1920, I, 137 datieren auf [1917]. Bahr fragt Redlich am 24. Dezember 1917 brieflich, ob er das \"Büchl\" erhalten habe (Bahr/Redlich, 293), was den Erscheinungstermin in den Tagen vorher bestimmt.</td></tr></table>\r\n\r\n<h3 id=\"erstdrucke\">Erstdrucke</h3>\r\nAls \"Der gute Kriegsmann unseres Herrn Jesu\" in: Hochland, 14 (1916), 52-69 und 181-196.\r\n<h3 id=\"rezens\">Rezensionen</h3>\r\n\r\n<p>Im Archiv ab dem 18.1.1918 erhalten.\r\nMax Foges: Hermann Bahrs \"Rudigier\". In: Neues Wiener Journal, 26 (1918) #8740, 11-12. (3.3.1918)</p>\r\n\r\n<h3 id=\"digit\">Digitalisate</h3>\r\n\r\n<a href=\"/bahr/sites/all/txt/buch/1917_rudigier.pdf\">[Text]</a>",
+      "format": "full_html",
+      "processed": "<h3 id=\"bib\">Bibliografie</h3>\n<table class=\"bibliografie\">\n<tr><td>Autor:</td><td>Hermann Bahr</td></tr>\n<tr><td>Titel:</td><td>Rudigier</td></tr>\n<tr><td>Ort:</td><td>Kempten und München</td></tr>\n<tr><td>Verlag:</td><td>Jos. Kösel</td></tr>\n<tr><td>Jahr:</td><td>1917</td></tr>\n<tr><td>Seiten:</td><td>61</td></tr>\n<tr><td>Anm.:</td><td>Thomasberger datiert auf [1916], vermutlich sich an dem Abdruck im 14. Jg. (1916) im \"Hochland\" orientierend. Sowohl \"Berliner Titeldrucke\", das \"Verzeichnis der von der Königlichen Bibliothek zu Berlin und den Preussischen Bibliotheken erworbenen neueren Druckschriften\" (4.2.1918, A #4/5, 80 [938]) wie auch das \"Deutsche Bücherverzeichnis\", 1915-1920, I, 137 datieren auf [1917]. Bahr fragt Redlich am 24. Dezember 1917 brieflich, ob er das \"Büchl\" erhalten habe (Bahr/Redlich, 293), was den Erscheinungstermin in den Tagen vorher bestimmt.</td></tr></table>\n\n<h3 id=\"erstdrucke\">Erstdrucke</h3>\nAls \"Der gute Kriegsmann unseres Herrn Jesu\" in: Hochland, 14 (1916), 52-69 und 181-196.\n<h3 id=\"rezens\">Rezensionen</h3>\n\n<p>Im Archiv ab dem 18.1.1918 erhalten.\nMax Foges: Hermann Bahrs \"Rudigier\". In: Neues Wiener Journal, 26 (1918) #8740, 11-12. (3.3.1918)</p>\n\n<h3 id=\"digit\">Digitalisate</h3>\n\n<a href=\"/bahr/sites/all/txt/buch/1917_rudigier.pdf\">[Text]</a>",
+      "summary": null
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "c4d97a7b-20a3-4a00-9858-72c5abf35af3",
+        "meta": {
+          "drupal_internal__target_id": "bibliographie"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/999942c2-fea9-4aa2-8629-a534cd22918e/node_type?resourceVersion=id%3A3847"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/999942c2-fea9-4aa2-8629-a534cd22918e/relationships/node_type?resourceVersion=id%3A3847"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/999942c2-fea9-4aa2-8629-a534cd22918e/revision_uid?resourceVersion=id%3A3847"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/999942c2-fea9-4aa2-8629-a534cd22918e/relationships/revision_uid?resourceVersion=id%3A3847"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/999942c2-fea9-4aa2-8629-a534cd22918e/uid?resourceVersion=id%3A3847"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/999942c2-fea9-4aa2-8629-a534cd22918e/relationships/uid?resourceVersion=id%3A3847"
+        }
+      }
+    },
+    "field_bibliographie_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--bibliografie_type",
+          "id": "7918c4ca-8976-4b38-be44-298fcc23a3ab",
+          "meta": {
+            "drupal_internal__target_id": 10
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/999942c2-fea9-4aa2-8629-a534cd22918e/field_bibliographie_type?resourceVersion=id%3A3847"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/999942c2-fea9-4aa2-8629-a534cd22918e/relationships/field_bibliographie_type?resourceVersion=id%3A3847"
+        }
+      }
+    }
+  }
+}

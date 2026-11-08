@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "524d7dbb-f3b5-42f2-b16a-cd19ac2ba4f9",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/524d7dbb-f3b5-42f2-b16a-cd19ac2ba4f9?resourceVersion=id%3A3240"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/524d7dbb-f3b5-42f2-b16a-cd19ac2ba4f9?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49395,
+    "drupal_internal__vid": 3240,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Bindehautentzündung",
+    "created": "2011-10-17T16:04:08+00:00",
+    "changed": "2011-10-18T11:44:25+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49395",
+      "pid": 1219,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Mitte Mai 1918 ereilt Bahr eine Bindehautentzündung, die am 7. Juni abklingen begonnen hat. Da er seine Fahrt nach Beuron ihretwegen verschiebt, diese aber zur Monatsmitte stattfindet, dürfte er sich bis dahin auskuriert haben. In Beuron kommt es dann aber wieder zu einer Verschlechterung.",
+      "format": "full_html",
+      "processed": "Mitte Mai 1918 ereilt Bahr eine Bindehautentzündung, die am 7. Juni abklingen begonnen hat. Da er seine Fahrt nach Beuron ihretwegen verschiebt, diese aber zur Monatsmitte stattfindet, dürfte er sich bis dahin auskuriert haben. In Beuron kommt es dann aber wieder zu einer Verschlechterung.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1918-05-15",
+      "end_value": "1918-06-07"
+    },
+    "field_sources": [
+      "Bahr/Redlich, 343 (An R., 30.5.1918) und 344 (An R., 7.6.)."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/524d7dbb-f3b5-42f2-b16a-cd19ac2ba4f9/node_type?resourceVersion=id%3A3240"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/524d7dbb-f3b5-42f2-b16a-cd19ac2ba4f9/relationships/node_type?resourceVersion=id%3A3240"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/524d7dbb-f3b5-42f2-b16a-cd19ac2ba4f9/revision_uid?resourceVersion=id%3A3240"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/524d7dbb-f3b5-42f2-b16a-cd19ac2ba4f9/relationships/revision_uid?resourceVersion=id%3A3240"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/524d7dbb-f3b5-42f2-b16a-cd19ac2ba4f9/uid?resourceVersion=id%3A3240"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/524d7dbb-f3b5-42f2-b16a-cd19ac2ba4f9/relationships/uid?resourceVersion=id%3A3240"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/524d7dbb-f3b5-42f2-b16a-cd19ac2ba4f9/field_event_type?resourceVersion=id%3A3240"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/524d7dbb-f3b5-42f2-b16a-cd19ac2ba4f9/relationships/field_event_type?resourceVersion=id%3A3240"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "72150edc-6971-4249-9c1b-4c521849c45f",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/72150edc-6971-4249-9c1b-4c521849c45f?resourceVersion=id%3A2279"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/72150edc-6971-4249-9c1b-4c521849c45f?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27937,
+    "drupal_internal__vid": 2279,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Dialog vom Marsyas",
+    "created": "2010-07-19T11:20:46+00:00",
+    "changed": "2011-11-07T13:05:37+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/27937",
+      "pid": 113,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Obwohl im Sommer 1904 fertiggestellt und im Oktober 1904 in der neuen Rundschau abgedruckt, führen Verzögerungen im Verlag dazu, dass das Erscheinen der Buchausgabe des zweiten Dialogs zur Rolle der Kunst erst im Jänner 1906 erfolgt. ",
+      "format": "full_html",
+      "processed": "Obwohl im Sommer 1904 fertiggestellt und im Oktober 1904 in der neuen Rundschau abgedruckt, führen Verzögerungen im Verlag dazu, dass das Erscheinen der Buchausgabe des zweiten Dialogs zur Rolle der Kunst erst im Jänner 1906 erfolgt. ",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1906-01-14",
+      "end_value": "1906-01-14"
+    },
+    "field_sources": [
+      "Hermann Bahr: Dialog vom Marsyas. (Aufsatz). Die neue Rundschau, 15 (1904) #10, 1173-1205.",
+      "Hermann Bahr: Dialog vom Marsyas. Mit einer Photogravüre und fünfzehn Vollbildern in Tonätzung. Cornelius Gurlitt, Hg. Die Kultur, Sammlung illustrierter Einzeldarstellungen, 4 Berlin: Bard-Marquardt, 1906.",
+      "Als Neuerscheinung: Neues Wiener Tagblatt, 40 (1906) #13, 34. (14.1.1906)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/72150edc-6971-4249-9c1b-4c521849c45f/node_type?resourceVersion=id%3A2279"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/72150edc-6971-4249-9c1b-4c521849c45f/relationships/node_type?resourceVersion=id%3A2279"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/72150edc-6971-4249-9c1b-4c521849c45f/revision_uid?resourceVersion=id%3A2279"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/72150edc-6971-4249-9c1b-4c521849c45f/relationships/revision_uid?resourceVersion=id%3A2279"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/72150edc-6971-4249-9c1b-4c521849c45f/uid?resourceVersion=id%3A2279"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/72150edc-6971-4249-9c1b-4c521849c45f/relationships/uid?resourceVersion=id%3A2279"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "da42ac4a-f48f-4397-af4d-b66e913825fb",
+          "meta": {
+            "drupal_internal__target_id": 3
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/72150edc-6971-4249-9c1b-4c521849c45f/field_event_type?resourceVersion=id%3A2279"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/72150edc-6971-4249-9c1b-4c521849c45f/relationships/field_event_type?resourceVersion=id%3A2279"
+        }
+      }
+    }
+  }
+}

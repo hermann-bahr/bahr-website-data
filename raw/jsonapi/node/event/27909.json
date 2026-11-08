@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "29447e87-5cd5-47f8-96ed-1fbb469ce8a7",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/29447e87-5cd5-47f8-96ed-1fbb469ce8a7?resourceVersion=id%3A2254"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/29447e87-5cd5-47f8-96ed-1fbb469ce8a7?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27909,
+    "drupal_internal__vid": 2254,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Steinkogl",
+    "created": "2010-06-30T10:25:44+00:00",
+    "changed": "2013-03-12T10:41:50+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/27909",
+      "pid": 88,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 26. Juni 1883 befiehlt Bahrs Vater, verärgert über die Umtriebe seines Sohnes, die diesen innerhalb weniger Wochen an zwei Universitäten zur <i>persona non grata</i> haben werden lassen, er solle sich in den Zug setzen und nach Steinkogl im Salzkammergut fahren, wo er den Sommer über zu bleiben habe:<blockquote>Mit dem Wunsche, daß der Teufel, welcher in Dich hineingefahren, in der sonnigen Waldesluft und der stillen Gebirgswelt ausgetrieben werde und Deine Begriffe von Recht und sittlicher Ordnung sich wieder klären.</blockquote>Er kommt am 3. in Ebensee an.",
+      "format": "full_html",
+      "processed": "Am 26. Juni 1883 befiehlt Bahrs Vater, verärgert über die Umtriebe seines Sohnes, die diesen innerhalb weniger Wochen an zwei Universitäten zur <i>persona non grata</i> haben werden lassen, er solle sich in den Zug setzen und nach Steinkogl im Salzkammergut fahren, wo er den Sommer über zu bleiben habe:<blockquote>Mit dem Wunsche, daß der Teufel, welcher in Dich hineingefahren, in der sonnigen Waldesluft und der stillen Gebirgswelt ausgetrieben werde und Deine Begriffe von Recht und sittlicher Ordnung sich wieder klären.</blockquote>Er kommt am 3. in Ebensee an.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1883-07-03",
+      "end_value": "1883-08-31"
+    },
+    "field_sources": [
+      "Selbstbildnis, 152-153.",
+      "Briefwechsel mit dem Vater, 27-29.",
+      "Brief an den Vater aus Ebensee, 3.7.1883"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/29447e87-5cd5-47f8-96ed-1fbb469ce8a7/node_type?resourceVersion=id%3A2254"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/29447e87-5cd5-47f8-96ed-1fbb469ce8a7/relationships/node_type?resourceVersion=id%3A2254"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/29447e87-5cd5-47f8-96ed-1fbb469ce8a7/revision_uid?resourceVersion=id%3A2254"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/29447e87-5cd5-47f8-96ed-1fbb469ce8a7/relationships/revision_uid?resourceVersion=id%3A2254"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/29447e87-5cd5-47f8-96ed-1fbb469ce8a7/uid?resourceVersion=id%3A2254"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/29447e87-5cd5-47f8-96ed-1fbb469ce8a7/relationships/uid?resourceVersion=id%3A2254"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/29447e87-5cd5-47f8-96ed-1fbb469ce8a7/field_event_type?resourceVersion=id%3A2254"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/29447e87-5cd5-47f8-96ed-1fbb469ce8a7/relationships/field_event_type?resourceVersion=id%3A2254"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "a9cf33d4-683c-4395-97a1-7d24f1a27fcd",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/a9cf33d4-683c-4395-97a1-7d24f1a27fcd?resourceVersion=id%3A3067"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/a9cf33d4-683c-4395-97a1-7d24f1a27fcd?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44151,
+    "drupal_internal__vid": 3067,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "\"Rat Schrimpf\" Regie",
+    "created": "2011-09-15T09:20:30+00:00",
+    "changed": "2011-09-15T09:20:30+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44151",
+      "pid": 1046,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "April 1905, Bahrs Tagebuch:\r\n<blockquote>Von 5. - 13. Burckhards \"Rat Schrimpf\" inscenieren geholfen.</blockquote>Das hindert ihn nicht, als Kritiker eine Rezension zu verfassen.",
+      "format": "full_html",
+      "processed": "April 1905, Bahrs Tagebuch:\n<blockquote>Von 5. - 13. Burckhards \"Rat Schrimpf\" inscenieren geholfen.</blockquote>Das hindert ihn nicht, als Kritiker eine Rezension zu verfassen.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1905-04-05",
+      "end_value": "1905-04-13"
+    },
+    "field_sources": [
+      "Tagebücher (Csàky), IV, 418.",
+      "Hermann Bahr: Rat Schrimpf. Komödie in fünf Akten von Max Burckhard. Zum ersten Mal aufgeführt im Deutschen Volkstheater am 13. April 1905. Neues Wiener Tagblatt, 39 (1905) #104, 10. (14.4.1905) Buchausgabe:Glossen, 202-209"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a9cf33d4-683c-4395-97a1-7d24f1a27fcd/node_type?resourceVersion=id%3A3067"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a9cf33d4-683c-4395-97a1-7d24f1a27fcd/relationships/node_type?resourceVersion=id%3A3067"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a9cf33d4-683c-4395-97a1-7d24f1a27fcd/revision_uid?resourceVersion=id%3A3067"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a9cf33d4-683c-4395-97a1-7d24f1a27fcd/relationships/revision_uid?resourceVersion=id%3A3067"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a9cf33d4-683c-4395-97a1-7d24f1a27fcd/uid?resourceVersion=id%3A3067"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a9cf33d4-683c-4395-97a1-7d24f1a27fcd/relationships/uid?resourceVersion=id%3A3067"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a9cf33d4-683c-4395-97a1-7d24f1a27fcd/field_event_type?resourceVersion=id%3A3067"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a9cf33d4-683c-4395-97a1-7d24f1a27fcd/relationships/field_event_type?resourceVersion=id%3A3067"
+        }
+      }
+    }
+  }
+}

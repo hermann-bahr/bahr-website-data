@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bibliografie__theaterstuecke__der-augenblick-1917" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Der Augenblick (1917)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">49677</idno>
+        <idno type="drupal-alias">/bibliografie/49677</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bibliografie/49677">https://bahr.univie.ac.at/bibliografie/49677</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+        <bibl type="beschriebene-ausgabe">
+          <author>Hermann Bahr</author>
+          <title type="main">Der Augenblick</title>
+          <title type="sub">Lustspiel in fünf Aufzügen nach Goethe</title>
+          <pubPlace>Berlin</pubPlace>
+          <publisher>Ahn &amp; Simrock</publisher>
+          <date>1917</date>
+          <extent>58</extent>
+          <editor role="translator">Tschechische Übersetzung: Okamžik. Veselohra o 5 dějstvích. Podle Goetheho od Hermana Bahra; Přeložil Emanuel Lešehrad. Autirosovaný Překlad. Praha: František Šveijda 1923. (=Centrum knihovna našich i cizích scén, Sv. 10)</editor>
+          <note>Am 3. 6. 1917 wird der letzte Akt an Ahn geschickt. Meldung über die Aufführungen in Hamburg, Darmstadt, Königsberg, Köln und Frankfurt am Main am 24.11.1917, S. 2 im Berliner Tageblatt.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="1" key="bibliografie">Bibliografie</term>
+          <term n="2" key="theaterstuecke">Theaterstücke</term>
+          <term n="12" key="der-augenblick-1917" type="eintrag">Der Augenblick (1917)</term>
+        </keywords>
+        <classCode scheme="drupal-type">bibliographie</classCode>
+        <keywords scheme="bibliografie_type">
+          <term>Theaterstücke</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2011-11-23T13:22:48+00:00" type="created">angelegt in Drupal</change>
+      <change when="2012-10-08T12:31:42+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="bib">
+        <head>Bibliografie</head>
+        <table type="bibliografie">
+          <row>
+            <cell>Autor:</cell>
+            <cell>Hermann Bahr</cell>
+          </row>
+          <row>
+            <cell>Titel:</cell>
+            <cell>Der Augenblick</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>Lustspiel in fünf Aufzügen nach Goethe</cell>
+          </row>
+          <row>
+            <cell>Ort:</cell>
+            <cell>Berlin</cell>
+          </row>
+          <row>
+            <cell>Verlag:</cell>
+            <cell>Ahn &amp; Simrock</cell>
+          </row>
+          <row>
+            <cell>Jahr:</cell>
+            <cell>1917</cell>
+          </row>
+          <row>
+            <cell>Seiten:</cell>
+            <cell>58</cell>
+          </row>
+          <row>
+            <cell>Übers.:</cell>
+            <cell>Tschechische Übersetzung: Okamžik. Veselohra o 5 dějstvích. Podle Goetheho od Hermana Bahra; Přeložil Emanuel Lešehrad. Autirosovaný Překlad. Praha: František Šveijda 1923. (=Centrum knihovna našich i cizích scén, Sv. 10)</cell>
+          </row>
+          <row>
+            <cell>Anm.:</cell>
+            <cell>Am 3. 6. 1917 wird der letzte Akt an Ahn geschickt. Meldung über die Aufführungen in Hamburg, Darmstadt, Königsberg, Köln und Frankfurt am Main am 24.11.1917, S. 2 im Berliner Tageblatt.</cell>
+          </row>
+        </table>
+      </div>
+      <div xml:id="rezens">
+        <head>Rezensionen</head>
+        <p>K.[asimir] E.[dschmid]: Hermann Bahrs neues Lustspiel. Uraufführung des fünfaktiken Lustspiels „Der Augenblick“ im Darmstädter Hoftheater. In: Frankfurter Zeitung, 62 (1917) #326, Erstes Morgenblatt, 2. (25.11.1917) Kurt Küchler in: Berliner Tageblatt, 46 (1917) #607, Morgen-Ausgabe, 3. (28.11.1917)</p>
+      </div>
+      <div>
+        <head>Digitalisate</head>
+        <p>
+          <ref target="https://books.google.com/books?id=GOf9LwEACAAJ">Google Books</ref>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

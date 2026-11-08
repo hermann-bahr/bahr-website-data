@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "2aa8a4f4-034c-49dd-a143-b857e407ae2f",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/2aa8a4f4-034c-49dd-a143-b857e407ae2f?resourceVersion=id%3A2562"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/2aa8a4f4-034c-49dd-a143-b857e407ae2f?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38704,
+    "drupal_internal__vid": 2562,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Wiener Freie Bühne",
+    "created": "2010-12-29T15:02:15+00:00",
+    "changed": "2011-07-13T08:00:18+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38704",
+      "pid": 453,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<blockquote>Unter dem Titel \"Freie Bühne, Verein für moderne Literatur\" constituirte sich am 7. Juli in Wien ein Verein von Schriftstellern und Literatur-Freunden, welche der modernen realistischen Richtung zuneigend, die Förderung ihrer geistigen, literarischen und geselligen Interessen anstreben.</blockquote> Mitglieder sind E. M. Kafka, Engelbert Pernerstorfer, Arthur Schnitzler, Hugo von Hofmannsthal und Felix Salten. Bahr ist in der Meldung nicht angeführt, berichtet aber seinem Vater im Februar 1892, dass die \"Freie Bühne\" nunmehr auf seinen Antrag hin sich zum \"Verein für modernes Leben\" umbenannt habe und er darin die \"Treue Adele\" lesen und einen Vortrag über \"Moderne Mystik\" halten werde. Er hält auch bei der einzigen Inszenierung der \"Freien Bühne\" eine Conferènce ab. Im Heft 9 bedankt sich Henrik Ibsen für die Aufnahme als Ehrenmitglied des nunmehr von 59 auf 108 Mitglieder angewachsenen Vereines.\r\n",
+      "format": "full_html",
+      "processed": "<blockquote>Unter dem Titel \"Freie Bühne, Verein für moderne Literatur\" constituirte sich am 7. Juli in Wien ein Verein von Schriftstellern und Literatur-Freunden, welche der modernen realistischen Richtung zuneigend, die Förderung ihrer geistigen, literarischen und geselligen Interessen anstreben.</blockquote> Mitglieder sind E. M. Kafka, Engelbert Pernerstorfer, Arthur Schnitzler, Hugo von Hofmannsthal und Felix Salten. Bahr ist in der Meldung nicht angeführt, berichtet aber seinem Vater im Februar 1892, dass die \"Freie Bühne\" nunmehr auf seinen Antrag hin sich zum \"Verein für modernes Leben\" umbenannt habe und er darin die \"Treue Adele\" lesen und einen Vortrag über \"Moderne Mystik\" halten werde. Er hält auch bei der einzigen Inszenierung der \"Freien Bühne\" eine Conferènce ab. Im Heft 9 bedankt sich Henrik Ibsen für die Aufnahme als Ehrenmitglied des nunmehr von 59 auf 108 Mitglieder angewachsenen Vereines.\n",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1891-07-07",
+      "end_value": "1891-07-07"
+    },
+    "field_sources": [
+      "Moderne Rundschau, 3 (1891) #8, 315-316. (15.7.1891)",
+      "Modern Rundschau, 3 (1891) #9, 349. (1.8.1891)",
+      "Briefwechsel mit dem Vater, 317."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2aa8a4f4-034c-49dd-a143-b857e407ae2f/node_type?resourceVersion=id%3A2562"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2aa8a4f4-034c-49dd-a143-b857e407ae2f/relationships/node_type?resourceVersion=id%3A2562"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2aa8a4f4-034c-49dd-a143-b857e407ae2f/revision_uid?resourceVersion=id%3A2562"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2aa8a4f4-034c-49dd-a143-b857e407ae2f/relationships/revision_uid?resourceVersion=id%3A2562"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2aa8a4f4-034c-49dd-a143-b857e407ae2f/uid?resourceVersion=id%3A2562"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2aa8a4f4-034c-49dd-a143-b857e407ae2f/relationships/uid?resourceVersion=id%3A2562"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2aa8a4f4-034c-49dd-a143-b857e407ae2f/field_event_type?resourceVersion=id%3A2562"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2aa8a4f4-034c-49dd-a143-b857e407ae2f/relationships/field_event_type?resourceVersion=id%3A2562"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "38fc92df-ea3f-4ccb-9711-62794a636f60",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/38fc92df-ea3f-4ccb-9711-62794a636f60?resourceVersion=id%3A3737"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/38fc92df-ea3f-4ccb-9711-62794a636f60?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74409,
+    "drupal_internal__vid": 3737,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Burschenprüfung cum laude",
+    "created": "2012-10-24T12:53:53+00:00",
+    "changed": "2013-03-22T08:30:16+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/74409",
+      "pid": 1783,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahr war, seinem Vater zuliebe, nie ordentliches Mitglied der Burschenschaft \"Albia\" geworden. Das änderte sich nach seiner Relegierung:<blockquote>Unsere Burschenschaft gab sodann Bahr, der in der Zeit zwischen Kommers und Übersiedlung noch zweimal gestiegen war, die Burschenprüfung <i>cum laude</i> bestanden hatte und rezipiert worden war, bei seiner Abreise Komitat bis Liesing.</blockquote>Seinem Vater gesteht er, dass er am 9. April ordentliches Mitglied wurde.",
+      "format": "full_html",
+      "processed": "Bahr war, seinem Vater zuliebe, nie ordentliches Mitglied der Burschenschaft \"Albia\" geworden. Das änderte sich nach seiner Relegierung:<blockquote>Unsere Burschenschaft gab sodann Bahr, der in der Zeit zwischen Kommers und Übersiedlung noch zweimal gestiegen war, die Burschenprüfung <i>cum laude</i> bestanden hatte und rezipiert worden war, bei seiner Abreise Komitat bis Liesing.</blockquote>Seinem Vater gesteht er, dass er am 9. April ordentliches Mitglied wurde.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1883-04-09",
+      "end_value": "1883-04-09"
+    },
+    "field_sources": [
+      "Karl Becke: Wiener Burschenschaft \"Albia\" 1870-1930. Wien: Selbstverlag 1930, 47.",
+      "Bahr/Vater, 23-24."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/38fc92df-ea3f-4ccb-9711-62794a636f60/node_type?resourceVersion=id%3A3737"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/38fc92df-ea3f-4ccb-9711-62794a636f60/relationships/node_type?resourceVersion=id%3A3737"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/38fc92df-ea3f-4ccb-9711-62794a636f60/revision_uid?resourceVersion=id%3A3737"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/38fc92df-ea3f-4ccb-9711-62794a636f60/relationships/revision_uid?resourceVersion=id%3A3737"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/38fc92df-ea3f-4ccb-9711-62794a636f60/uid?resourceVersion=id%3A3737"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/38fc92df-ea3f-4ccb-9711-62794a636f60/relationships/uid?resourceVersion=id%3A3737"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/38fc92df-ea3f-4ccb-9711-62794a636f60/field_event_type?resourceVersion=id%3A3737"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/38fc92df-ea3f-4ccb-9711-62794a636f60/relationships/field_event_type?resourceVersion=id%3A3737"
+        }
+      }
+    }
+  }
+}

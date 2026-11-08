@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "b963c289-6290-4869-8de1-fa2ef62baa9e",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b963c289-6290-4869-8de1-fa2ef62baa9e?resourceVersion=id%3A3140"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b963c289-6290-4869-8de1-fa2ef62baa9e?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44226,
+    "drupal_internal__vid": 3140,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Stefan Zweig",
+    "created": "2011-09-29T08:35:58+00:00",
+    "changed": "2011-09-29T08:35:58+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44226",
+      "pid": 1119,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Salzburg, 13. November 1917:<blockquote>Erst gestern sprach ich lange viel von Ihnen [=Jaroslav Kvapil| mit Stefan Zweig.</blockquote>",
+      "format": "full_html",
+      "processed": "Salzburg, 13. November 1917:<blockquote>Erst gestern sprach ich lange viel von Ihnen [=Jaroslav Kvapil| mit Stefan Zweig.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1917-11-12",
+      "end_value": "1917-11-12"
+    },
+    "field_sources": [
+      "Bahr/Kvapil, 217."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b963c289-6290-4869-8de1-fa2ef62baa9e/node_type?resourceVersion=id%3A3140"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b963c289-6290-4869-8de1-fa2ef62baa9e/relationships/node_type?resourceVersion=id%3A3140"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b963c289-6290-4869-8de1-fa2ef62baa9e/revision_uid?resourceVersion=id%3A3140"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b963c289-6290-4869-8de1-fa2ef62baa9e/relationships/revision_uid?resourceVersion=id%3A3140"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b963c289-6290-4869-8de1-fa2ef62baa9e/uid?resourceVersion=id%3A3140"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b963c289-6290-4869-8de1-fa2ef62baa9e/relationships/uid?resourceVersion=id%3A3140"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b963c289-6290-4869-8de1-fa2ef62baa9e/field_event_type?resourceVersion=id%3A3140"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b963c289-6290-4869-8de1-fa2ef62baa9e/relationships/field_event_type?resourceVersion=id%3A3140"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "e43746dc-f397-456b-a482-878aee8feebe",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/e43746dc-f397-456b-a482-878aee8feebe?resourceVersion=id%3A3553"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/e43746dc-f397-456b-a482-878aee8feebe?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49782,
+    "drupal_internal__vid": 3553,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Kündigung \"Deutsche Wochenschrift\"",
+    "created": "2012-01-17T13:07:45+00:00",
+    "changed": "2012-01-17T13:08:26+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49782",
+      "pid": 1594,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Um den Monatswechsel April/Mai 1888 kündigt Bahr seine Mitarbeit bei der \"Deutschen Wochenschrift\", nunmehr unter der alleinigen Leitung von Joseph Eugen Russell. Er hatte schon 1884 für das Blatt, damals unter der Führung Heinrich Friedjungs, geschrieben. Kündigungsgrund:<blockquote>Als Kritiker hatte ich schon 1888 in der \"Deutschen Wochenschrift\" einen Krach mit dem Herausgeber, der in einer meiner Kritiken einen Satz über einen mit ihm befreundeten Schauspieler strich. Er konnte gar nicht verstehen, daß ich mir das nicht gefallen lassen wollte. […]</blockquote>Der letzte Text, um den es sich bei der Auseinandersetzung gehandelt haben dürfte, war über \"König und Bauer\", das am 29. April 1888 im Burgtheater gegeben wurde. Bahr schickt am 7. Mai eine Duellforderung an Russell, s.d.",
+      "format": "full_html",
+      "processed": "Um den Monatswechsel April/Mai 1888 kündigt Bahr seine Mitarbeit bei der \"Deutschen Wochenschrift\", nunmehr unter der alleinigen Leitung von Joseph Eugen Russell. Er hatte schon 1884 für das Blatt, damals unter der Führung Heinrich Friedjungs, geschrieben. Kündigungsgrund:<blockquote>Als Kritiker hatte ich schon 1888 in der \"Deutschen Wochenschrift\" einen Krach mit dem Herausgeber, der in einer meiner Kritiken einen Satz über einen mit ihm befreundeten Schauspieler strich. Er konnte gar nicht verstehen, daß ich mir das nicht gefallen lassen wollte. […]</blockquote>Der letzte Text, um den es sich bei der Auseinandersetzung gehandelt haben dürfte, war über \"König und Bauer\", das am 29. April 1888 im Burgtheater gegeben wurde. Bahr schickt am 7. Mai eine Duellforderung an Russell, s.d.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1888-05-01",
+      "end_value": "1888-05-01"
+    },
+    "field_sources": [
+      "Liebe der Lebenden, II, 285-286.",
+      "hr: König und Bauer. (Von Lope de Vega). Deutsche Wochenschrift, 6 (1888) #19, 5-6. "
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e43746dc-f397-456b-a482-878aee8feebe/node_type?resourceVersion=id%3A3553"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e43746dc-f397-456b-a482-878aee8feebe/relationships/node_type?resourceVersion=id%3A3553"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e43746dc-f397-456b-a482-878aee8feebe/revision_uid?resourceVersion=id%3A3553"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e43746dc-f397-456b-a482-878aee8feebe/relationships/revision_uid?resourceVersion=id%3A3553"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e43746dc-f397-456b-a482-878aee8feebe/uid?resourceVersion=id%3A3553"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e43746dc-f397-456b-a482-878aee8feebe/relationships/uid?resourceVersion=id%3A3553"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "d579e54c-64dd-4193-a9ef-da87efb3ed16",
+          "meta": {
+            "drupal_internal__target_id": 8
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e43746dc-f397-456b-a482-878aee8feebe/field_event_type?resourceVersion=id%3A3553"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e43746dc-f397-456b-a482-878aee8feebe/relationships/field_event_type?resourceVersion=id%3A3553"
+        }
+      }
+    }
+  }
+}

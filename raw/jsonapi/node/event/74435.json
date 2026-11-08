@@ -1,0 +1,114 @@
+{
+  "type": "node--event",
+  "id": "52d7965b-7392-4eb9-8128-aa89288a5f2f",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/52d7965b-7392-4eb9-8128-aa89288a5f2f?resourceVersion=id%3A3757"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/52d7965b-7392-4eb9-8128-aa89288a5f2f?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74435,
+    "drupal_internal__vid": 3757,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Sommersemester '83",
+    "created": "2012-11-13T14:41:13+00:00",
+    "changed": "2012-11-13T14:55:32+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/74435",
+      "pid": 1809,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Im Nachlass Bahrs finden sich eine Reihe Fotografien \"zur Erinnerung\" an das Sommersemester 1883. Die rückseitig vermerkten Namen: \r\nMax Hutter (Burschenschaftername: Hüon)\r\nO. Bleinform [?] (Burschenschaftername: Wurstl)\r\nFritz Bilburer, cand. jur.\r\nEduard Mazella al. Roland\r\n\r\nMit Sommersemester '85 beschriftet:\r\nLänzchen",
+      "format": "full_html",
+      "processed": "Im Nachlass Bahrs finden sich eine Reihe Fotografien \"zur Erinnerung\" an das Sommersemester 1883. Die rückseitig vermerkten Namen: \nMax Hutter (Burschenschaftername: Hüon)\nO. Bleinform [?] (Burschenschaftername: Wurstl)\nFritz Bilburer, cand. jur.\nEduard Mazella al. Roland\n\nMit Sommersemester '85 beschriftet:\nLänzchen",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1883-03-01",
+      "end_value": "1883-03-01"
+    },
+    "field_sources": []
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/52d7965b-7392-4eb9-8128-aa89288a5f2f/node_type?resourceVersion=id%3A3757"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/52d7965b-7392-4eb9-8128-aa89288a5f2f/relationships/node_type?resourceVersion=id%3A3757"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/52d7965b-7392-4eb9-8128-aa89288a5f2f/revision_uid?resourceVersion=id%3A3757"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/52d7965b-7392-4eb9-8128-aa89288a5f2f/relationships/revision_uid?resourceVersion=id%3A3757"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/52d7965b-7392-4eb9-8128-aa89288a5f2f/uid?resourceVersion=id%3A3757"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/52d7965b-7392-4eb9-8128-aa89288a5f2f/relationships/uid?resourceVersion=id%3A3757"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/52d7965b-7392-4eb9-8128-aa89288a5f2f/field_event_type?resourceVersion=id%3A3757"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/52d7965b-7392-4eb9-8128-aa89288a5f2f/relationships/field_event_type?resourceVersion=id%3A3757"
+        }
+      }
+    }
+  }
+}

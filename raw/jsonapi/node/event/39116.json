@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "ec89fb95-ac3f-46fe-a4ea-670d3d9a7848",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/ec89fb95-ac3f-46fe-a4ea-670d3d9a7848?resourceVersion=id%3A2881"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/ec89fb95-ac3f-46fe-a4ea-670d3d9a7848?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39116,
+    "drupal_internal__vid": 2881,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Liebschaft",
+    "created": "2011-05-23T11:25:29+00:00",
+    "changed": "2011-06-27T11:39:20+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39116",
+      "pid": 846,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "In seinem leicht satirischen Feuilleton \"Der Beruf der Zukunft\", das am 1. Jänner 1901 erschien, gibt Bahr auch an, vor mehr als zehn Jahren eine Beziehung mit einer Frau gehabt zu haben, die damals einen acht Jahre alten Sohn hatte, der nunmehr als Einjährig Freiwilliger dient. Positiv in Erinnerung ist ihm vor allem der Ehemann, der die beiden in Ruhe ihrer Sache nachgehen ließ, während der Sohn das Talent hatte - im ungünstigen Augenblick das Schlafgemach zu betreten. Ob hier mit literarischer Fiktion gearbeitet wird oder ob die Details wirklich über eine Beziehung vor dem Jahr 1891 Auskunft geben, ist unklar.",
+      "format": "full_html",
+      "processed": "In seinem leicht satirischen Feuilleton \"Der Beruf der Zukunft\", das am 1. Jänner 1901 erschien, gibt Bahr auch an, vor mehr als zehn Jahren eine Beziehung mit einer Frau gehabt zu haben, die damals einen acht Jahre alten Sohn hatte, der nunmehr als Einjährig Freiwilliger dient. Positiv in Erinnerung ist ihm vor allem der Ehemann, der die beiden in Ruhe ihrer Sache nachgehen ließ, während der Sohn das Talent hatte - im ungünstigen Augenblick das Schlafgemach zu betreten. Ob hier mit literarischer Fiktion gearbeitet wird oder ob die Details wirklich über eine Beziehung vor dem Jahr 1891 Auskunft geben, ist unklar.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1891-01-01",
+      "end_value": "1891-01-01"
+    },
+    "field_sources": [
+      "Hermann Bahr: Der Beruf der Zukunft. Neues Wiener Tagblatt, 35 (1901) #1, 1-3. (1.1.1901)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ec89fb95-ac3f-46fe-a4ea-670d3d9a7848/node_type?resourceVersion=id%3A2881"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ec89fb95-ac3f-46fe-a4ea-670d3d9a7848/relationships/node_type?resourceVersion=id%3A2881"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ec89fb95-ac3f-46fe-a4ea-670d3d9a7848/revision_uid?resourceVersion=id%3A2881"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ec89fb95-ac3f-46fe-a4ea-670d3d9a7848/relationships/revision_uid?resourceVersion=id%3A2881"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ec89fb95-ac3f-46fe-a4ea-670d3d9a7848/uid?resourceVersion=id%3A2881"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ec89fb95-ac3f-46fe-a4ea-670d3d9a7848/relationships/uid?resourceVersion=id%3A2881"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ec89fb95-ac3f-46fe-a4ea-670d3d9a7848/field_event_type?resourceVersion=id%3A2881"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ec89fb95-ac3f-46fe-a4ea-670d3d9a7848/relationships/field_event_type?resourceVersion=id%3A2881"
+        }
+      }
+    }
+  }
+}

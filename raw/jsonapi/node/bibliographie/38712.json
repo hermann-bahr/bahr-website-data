@@ -1,0 +1,109 @@
+{
+  "type": "node--bibliographie",
+  "id": "2cb2377d-f7b5-4db0-9c60-0cb0c1ae30d6",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/2cb2377d-f7b5-4db0-9c60-0cb0c1ae30d6?resourceVersion=id%3A3841"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/2cb2377d-f7b5-4db0-9c60-0cb0c1ae30d6?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38712,
+    "drupal_internal__vid": 3841,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:44:00+00:00",
+    "status": true,
+    "title": "Salzburg (1914)",
+    "created": "2010-12-30T14:11:24+00:00",
+    "changed": "2011-11-21T15:29:57+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/bibliografie/38712",
+      "pid": 461,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<h3 id=\"bib\">Bibliografie</h3>\r\n<table class=\"bibliografie\">\r\n<tr><td>Autor:</td><td>Hermann Bahr</td></tr>\r\n<tr><td>Titel:</td><td>Salzburg</td></tr>\r\n\r\n<tr><td>Ort:</td><td>Berlin</td></tr>\r\n<tr><td>Verlag:</td><td>J. Bard</td></tr>\r\n<tr><td>Reihe:</td><td>Bards Bücher der Kunst, 6</td></tr>\r\n<tr><td>Jahr:</td><td>1914</td></tr>\r\n<tr><td>Seiten:</td><td>XII, 48</td></tr>\r\n<tr><td>Anm.:</td><td>Nach dem Copyright \"1914\" datiert. Am 9. Juli d. J. teilte Bard Bahr brieflich mit, dass der Schluss des Manuskriptes in die Druckerei geleitet wurde. Trotzdem sind im Nachlass nur Reaktionen von 1922 nachzuweisen (die eine vom 20.6.1922 und die andere hat die Kopfzeile \"1922 Literarischer Handweiser\" (Nr. 8, S. 363)). Die Zeitschrift des Deutschen Vereins für Buchwesen und Schrifttum, 5 (1922) #7-9, 172 kündigt das Buch als Neuerscheinung an, ebenso das Deutsche Bücherverzeichnis, 1921-1925, I, 177. Auch die Österreichische Nationalbibliothek führt die Ausgabe trotz Copyright 1914 als [1922]. Was nahelegt, dass die Exemplare erst 1922 in den Handel kamen. Zur Neuausgabe im Agathon-Verlag: Der Wiener Kurier brachte am 7.8.1946 ein Auszug aus dem \"im Agathon-Verlag erscheinenden Buch\", weswegen diese auf [1946] zu datieren ist.</td></tr>\r\n</table>\r\n\r\n<h3 id=\"digit\">Digitalisate</h3>\r\n\r\n<a href=\"http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&aid=80\">ANNO</a>",
+      "format": "full_html",
+      "processed": "<h3 id=\"bib\">Bibliografie</h3>\n<table class=\"bibliografie\">\n<tr><td>Autor:</td><td>Hermann Bahr</td></tr>\n<tr><td>Titel:</td><td>Salzburg</td></tr>\n\n<tr><td>Ort:</td><td>Berlin</td></tr>\n<tr><td>Verlag:</td><td>J. Bard</td></tr>\n<tr><td>Reihe:</td><td>Bards Bücher der Kunst, 6</td></tr>\n<tr><td>Jahr:</td><td>1914</td></tr>\n<tr><td>Seiten:</td><td>XII, 48</td></tr>\n<tr><td>Anm.:</td><td>Nach dem Copyright \"1914\" datiert. Am 9. Juli d. J. teilte Bard Bahr brieflich mit, dass der Schluss des Manuskriptes in die Druckerei geleitet wurde. Trotzdem sind im Nachlass nur Reaktionen von 1922 nachzuweisen (die eine vom 20.6.1922 und die andere hat die Kopfzeile \"1922 Literarischer Handweiser\" (Nr. 8, S. 363)). Die Zeitschrift des Deutschen Vereins für Buchwesen und Schrifttum, 5 (1922) #7-9, 172 kündigt das Buch als Neuerscheinung an, ebenso das Deutsche Bücherverzeichnis, 1921-1925, I, 177. Auch die Österreichische Nationalbibliothek führt die Ausgabe trotz Copyright 1914 als [1922]. Was nahelegt, dass die Exemplare erst 1922 in den Handel kamen. Zur Neuausgabe im Agathon-Verlag: Der Wiener Kurier brachte am 7.8.1946 ein Auszug aus dem \"im Agathon-Verlag erscheinenden Buch\", weswegen diese auf [1946] zu datieren ist.</td></tr>\n</table>\n\n<h3 id=\"digit\">Digitalisate</h3>\n\n<a href=\"http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=80\">ANNO</a>",
+      "summary": null
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "c4d97a7b-20a3-4a00-9858-72c5abf35af3",
+        "meta": {
+          "drupal_internal__target_id": "bibliographie"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/2cb2377d-f7b5-4db0-9c60-0cb0c1ae30d6/node_type?resourceVersion=id%3A3841"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/2cb2377d-f7b5-4db0-9c60-0cb0c1ae30d6/relationships/node_type?resourceVersion=id%3A3841"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/2cb2377d-f7b5-4db0-9c60-0cb0c1ae30d6/revision_uid?resourceVersion=id%3A3841"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/2cb2377d-f7b5-4db0-9c60-0cb0c1ae30d6/relationships/revision_uid?resourceVersion=id%3A3841"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/2cb2377d-f7b5-4db0-9c60-0cb0c1ae30d6/uid?resourceVersion=id%3A3841"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/2cb2377d-f7b5-4db0-9c60-0cb0c1ae30d6/relationships/uid?resourceVersion=id%3A3841"
+        }
+      }
+    },
+    "field_bibliographie_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--bibliografie_type",
+          "id": "7918c4ca-8976-4b38-be44-298fcc23a3ab",
+          "meta": {
+            "drupal_internal__target_id": 10
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/2cb2377d-f7b5-4db0-9c60-0cb0c1ae30d6/field_bibliographie_type?resourceVersion=id%3A3841"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/2cb2377d-f7b5-4db0-9c60-0cb0c1ae30d6/relationships/field_bibliographie_type?resourceVersion=id%3A3841"
+        }
+      }
+    }
+  }
+}

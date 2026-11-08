@@ -1,0 +1,36 @@
+{
+  "type": "file--file",
+  "id": "323a6467-54a8-4df9-926d-e9cf5c94cf66",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/file/file/323a6467-54a8-4df9-926d-e9cf5c94cf66"
+    }
+  },
+  "attributes": {
+    "drupal_internal__fid": 228,
+    "langcode": "de",
+    "filename": "1904_gulbransson.jpg",
+    "uri": {
+      "value": "public://bahr_bilder/1904_gulbransson.jpg",
+      "url": "/sites/default/files/bahr_bilder/1904_gulbransson.jpg"
+    },
+    "filemime": "image/jpeg",
+    "filesize": 1299039,
+    "status": true,
+    "created": "2020-02-18T15:00:35+00:00",
+    "changed": "2020-02-18T15:11:43+00:00"
+  },
+  "relationships": {
+    "uid": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/file/file/323a6467-54a8-4df9-926d-e9cf5c94cf66/uid"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/file/file/323a6467-54a8-4df9-926d-e9cf5c94cf66/relationships/uid"
+        }
+      }
+    }
+  }
+}

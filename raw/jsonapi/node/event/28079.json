@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "c4c6b46f-0549-45b7-a5bb-de3502ec8e0f",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/c4c6b46f-0549-45b7-a5bb-de3502ec8e0f?resourceVersion=id%3A2406"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/c4c6b46f-0549-45b7-a5bb-de3502ec8e0f?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28079,
+    "drupal_internal__vid": 2406,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Das Tänzchen",
+    "created": "2010-08-09T09:45:24+00:00",
+    "changed": "2011-09-19T11:48:37+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28079",
+      "pid": 240,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Auch Bahrs nächstes Lustspiel, Das Tänzchen, wird mit einer simultanen Uraufführungen begangen. Sie findet am 7. Jänner 1912 statt. Diesmal sind das Lessingtheater in Berlin sowie das Stadttheater Prag beteiligt. Die Buchausgabe bringt wiederum S. Fischer im Jahr vor der Uraufführung heraus.\r\n\r\nVon Zeitgenossen als Schlüsselstück der \"Affaire Jagow/Cassirer/Durieux\" [1] verstanden, handelt es von einem Moral predigenden Rittergutsbesitzer, der eine Klavierlehrerin verführen möchte, deren Ehemann darin eine Möglichkeit erkennt, den Gutsbesitzer bloßzustellen.",
+      "format": "full_html",
+      "processed": "Auch Bahrs nächstes Lustspiel, Das Tänzchen, wird mit einer simultanen Uraufführungen begangen. Sie findet am 7. Jänner 1912 statt. Diesmal sind das Lessingtheater in Berlin sowie das Stadttheater Prag beteiligt. Die Buchausgabe bringt wiederum S. Fischer im Jahr vor der Uraufführung heraus.\n\nVon Zeitgenossen als Schlüsselstück der \"Affaire Jagow/Cassirer/Durieux\" [1] verstanden, handelt es von einem Moral predigenden Rittergutsbesitzer, der eine Klavierlehrerin verführen möchte, deren Ehemann darin eine Möglichkeit erkennt, den Gutsbesitzer bloßzustellen.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1912-01-07",
+      "end_value": "1912-01-07"
+    },
+    "field_sources": [
+      "Hermann Bahr: Das Tänzchen. Lustspiel in drei Akten.  Berlin: S. Fischer, 1911.",
+      "[1] Bahr/Kvapil, 141."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c4c6b46f-0549-45b7-a5bb-de3502ec8e0f/node_type?resourceVersion=id%3A2406"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c4c6b46f-0549-45b7-a5bb-de3502ec8e0f/relationships/node_type?resourceVersion=id%3A2406"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c4c6b46f-0549-45b7-a5bb-de3502ec8e0f/revision_uid?resourceVersion=id%3A2406"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c4c6b46f-0549-45b7-a5bb-de3502ec8e0f/relationships/revision_uid?resourceVersion=id%3A2406"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c4c6b46f-0549-45b7-a5bb-de3502ec8e0f/uid?resourceVersion=id%3A2406"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c4c6b46f-0549-45b7-a5bb-de3502ec8e0f/relationships/uid?resourceVersion=id%3A2406"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "27f3d2a4-8970-4726-9ab8-ce37707ec1bc",
+          "meta": {
+            "drupal_internal__target_id": 1
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c4c6b46f-0549-45b7-a5bb-de3502ec8e0f/field_event_type?resourceVersion=id%3A2406"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c4c6b46f-0549-45b7-a5bb-de3502ec8e0f/relationships/field_event_type?resourceVersion=id%3A2406"
+        }
+      }
+    }
+  }
+}

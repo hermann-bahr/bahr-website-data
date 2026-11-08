@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "74f7d1cb-a471-480e-9ab6-9ddbf8b10232",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/74f7d1cb-a471-480e-9ab6-9ddbf8b10232?resourceVersion=id%3A3732"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/74f7d1cb-a471-480e-9ab6-9ddbf8b10232?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74404,
+    "drupal_internal__vid": 3732,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Segelboot beim Gänsehäufel",
+    "created": "2012-10-23T13:01:20+00:00",
+    "changed": "2012-12-04T11:08:07+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/74404",
+      "pid": 1778,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 11. Juni 1902 ist Bahr mit Max Burckhard auf dessen Segelboot. In \"Erinnerung an Burckhard\" schreibt er über seinen Freund: <blockquote>da war die \"Wasservilla\" beim Fischer im Franz-Josefs-Land, einst das Heim eines Ruderklubs, in dem er sich eingemietet und sein Segelboot eingestellt hatte, dem damals noch unentdeckten einsamen Gänsehäufel gegenüber, wo wir im heißen Sand mit dem verwilderten, langbärtigen, nußbraunen Herrn Berndl Robinson und Freitag spielten</blockquote>",
+      "format": "full_html",
+      "processed": "Am 11. Juni 1902 ist Bahr mit Max Burckhard auf dessen Segelboot. In \"Erinnerung an Burckhard\" schreibt er über seinen Freund: <blockquote>da war die \"Wasservilla\" beim Fischer im Franz-Josefs-Land, einst das Heim eines Ruderklubs, in dem er sich eingemietet und sein Segelboot eingestellt hatte, dem damals noch unentdeckten einsamen Gänsehäufel gegenüber, wo wir im heißen Sand mit dem verwilderten, langbärtigen, nußbraunen Herrn Berndl Robinson und Freitag spielten</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1902-06-11",
+      "end_value": "1902-06-11"
+    },
+    "field_sources": [
+      "An HvH, 12.6.1902. Briefwechsel Bahr/Hofmannsthal. Hg. Elsbeth Dangel-Pelloquin. Göttingen: Wallstein. (In Vorbereitung)",
+      "Erinnerung an Burckhard, 33.",
+      "Hermann Bahr: Tagebuch. 14. Juli. Neues Wiener Journal, 32 (1924) #11016, 8-9. (20.7.1924) Buchausgabe: Der Zauberstab, 108-111\r\n"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/74f7d1cb-a471-480e-9ab6-9ddbf8b10232/node_type?resourceVersion=id%3A3732"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/74f7d1cb-a471-480e-9ab6-9ddbf8b10232/relationships/node_type?resourceVersion=id%3A3732"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/74f7d1cb-a471-480e-9ab6-9ddbf8b10232/revision_uid?resourceVersion=id%3A3732"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/74f7d1cb-a471-480e-9ab6-9ddbf8b10232/relationships/revision_uid?resourceVersion=id%3A3732"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/74f7d1cb-a471-480e-9ab6-9ddbf8b10232/uid?resourceVersion=id%3A3732"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/74f7d1cb-a471-480e-9ab6-9ddbf8b10232/relationships/uid?resourceVersion=id%3A3732"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/74f7d1cb-a471-480e-9ab6-9ddbf8b10232/field_event_type?resourceVersion=id%3A3732"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/74f7d1cb-a471-480e-9ab6-9ddbf8b10232/relationships/field_event_type?resourceVersion=id%3A3732"
+        }
+      }
+    }
+  }
+}

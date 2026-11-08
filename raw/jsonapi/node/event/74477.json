@@ -1,0 +1,114 @@
+{
+  "type": "node--event",
+  "id": "39bbd756-79ba-44a4-a983-1e7f3a1bae12",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/39bbd756-79ba-44a4-a983-1e7f3a1bae12?resourceVersion=id%3A3788"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/39bbd756-79ba-44a4-a983-1e7f3a1bae12?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74477,
+    "drupal_internal__vid": 3788,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Duell",
+    "created": "2013-03-12T12:59:46+00:00",
+    "changed": "2013-03-12T13:02:32+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/74477",
+      "pid": 1851,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "An seinen Vater, 1. März 1885:<blockquote>…daß ich vorigen (letzten) Montag mit einem hiesigen Studenten auf Glockenschläge bis zur unbedingten Abfuhr losgewesen und in der 10. Minute auf einen ziemlich bösen Kopfhieb abgestoßen wurde. Die Sache sah anfangs etwas bedenklich aus, weil der Hieb über den ganzen Kopf ging und drei Knochensplitter herausschlug; nachdem ich aber zwei Tage verbunden im Korbe gelegen und mich die ganze Woche über sehr stramm im Zimmer gehalten, hat er nicht einmal geeitert u. ist nach allen Regeln der Kunst primär verheilt. Das Beste daran ist, daß alle Schmisse auf dem Kopfe sitzen und man nach einigen Wochen nichts mehr davon sehen wird. Mein harmloses Milchgesicht wurde glücklicherweise nicht angerührt.</blockquote>Als Ursache führt er einen besoffenen Studenten an, der ihn angerempelt habe und dazu gemeint: \"Sie scheinen wol auch Lust haben, kontrahiert zu werden?\" In der Folge muss er ein paar Wochen täglich zum Frisör und eine Perücke tragen bis die Haare nachgewachsen sind.",
+      "format": "full_html",
+      "processed": "An seinen Vater, 1. März 1885:<blockquote>…daß ich vorigen (letzten) Montag mit einem hiesigen Studenten auf Glockenschläge bis zur unbedingten Abfuhr losgewesen und in der 10. Minute auf einen ziemlich bösen Kopfhieb abgestoßen wurde. Die Sache sah anfangs etwas bedenklich aus, weil der Hieb über den ganzen Kopf ging und drei Knochensplitter herausschlug; nachdem ich aber zwei Tage verbunden im Korbe gelegen und mich die ganze Woche über sehr stramm im Zimmer gehalten, hat er nicht einmal geeitert u. ist nach allen Regeln der Kunst primär verheilt. Das Beste daran ist, daß alle Schmisse auf dem Kopfe sitzen und man nach einigen Wochen nichts mehr davon sehen wird. Mein harmloses Milchgesicht wurde glücklicherweise nicht angerührt.</blockquote>Als Ursache führt er einen besoffenen Studenten an, der ihn angerempelt habe und dazu gemeint: \"Sie scheinen wol auch Lust haben, kontrahiert zu werden?\" In der Folge muss er ein paar Wochen täglich zum Frisör und eine Perücke tragen bis die Haare nachgewachsen sind.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1885-02-23",
+      "end_value": "1885-02-23"
+    },
+    "field_sources": []
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/39bbd756-79ba-44a4-a983-1e7f3a1bae12/node_type?resourceVersion=id%3A3788"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/39bbd756-79ba-44a4-a983-1e7f3a1bae12/relationships/node_type?resourceVersion=id%3A3788"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/39bbd756-79ba-44a4-a983-1e7f3a1bae12/revision_uid?resourceVersion=id%3A3788"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/39bbd756-79ba-44a4-a983-1e7f3a1bae12/relationships/revision_uid?resourceVersion=id%3A3788"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/39bbd756-79ba-44a4-a983-1e7f3a1bae12/uid?resourceVersion=id%3A3788"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/39bbd756-79ba-44a4-a983-1e7f3a1bae12/relationships/uid?resourceVersion=id%3A3788"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/39bbd756-79ba-44a4-a983-1e7f3a1bae12/field_event_type?resourceVersion=id%3A3788"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/39bbd756-79ba-44a4-a983-1e7f3a1bae12/relationships/field_event_type?resourceVersion=id%3A3788"
+        }
+      }
+    }
+  }
+}

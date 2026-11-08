@@ -1,0 +1,36 @@
+{
+  "type": "file--file",
+  "id": "d13c98ac-4422-4fd2-ab41-f5fd67a2d249",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/file/file/d13c98ac-4422-4fd2-ab41-f5fd67a2d249"
+    }
+  },
+  "attributes": {
+    "drupal_internal__fid": 220,
+    "langcode": "de",
+    "filename": "1922_fackel.jpg",
+    "uri": {
+      "value": "public://bahr_bilder/1922_fackel.jpg",
+      "url": "/sites/default/files/bahr_bilder/1922_fackel.jpg"
+    },
+    "filemime": "image/jpeg",
+    "filesize": 164851,
+    "status": true,
+    "created": "2020-02-18T15:00:35+00:00",
+    "changed": "2020-02-18T15:11:43+00:00"
+  },
+  "relationships": {
+    "uid": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/file/file/d13c98ac-4422-4fd2-ab41-f5fd67a2d249/uid"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/file/file/d13c98ac-4422-4fd2-ab41-f5fd67a2d249/relationships/uid"
+        }
+      }
+    }
+  }
+}

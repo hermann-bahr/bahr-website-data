@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "590b041f-d071-46ab-b740-312500a0099f",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/590b041f-d071-46ab-b740-312500a0099f?resourceVersion=id%3A3445"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/590b041f-d071-46ab-b740-312500a0099f?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49619,
+    "drupal_internal__vid": 3445,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Café Chantant und Naturalismus",
+    "created": "2011-11-17T10:53:32+00:00",
+    "changed": "2011-11-17T11:01:21+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49619",
+      "pid": 1435,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Als Lehrstube für den Studenten, der aus der Idylle des Kleinbürgertums in einer Kleinstadt in die große Stadt kommt, macht Bahr das Café Chantant in Berlin aus:<blockquote>mit bekränzten Büsten des alten Kaisers, Bismarcks und Moltkes in grellem roten und grünen Lampenlicht, mit Heil dir im Siegerkranz, Hurra und verlogenen Schmachtfetzen aus lustverseucht heiseren Kehlen, mit Lorelei, Zoten und Suff, ein patriotisch sentimentaler Bordellersatz, zur Abendandacht für Studenten, Referendare und Offiziere</blockquote>Denn:<blockquote>Man mußte den ehrenwerten Bürger nur erst einmal im Chantant gesehen haben: da zeigte die gepriesene „Sittlichkeit“ erst ihr wahres Gesicht, nichts als Lug und Trug zur Äffung der Dummen, um sie zu geduldigen Kulis des Kapitals zu züchten, war sie!</blockquote>Woraus Bahr als Folge die Begeisterung für den aufkommenden Naturalismus ableitet, als notwendiges Vomitiv.",
+      "format": "full_html",
+      "processed": "Als Lehrstube für den Studenten, der aus der Idylle des Kleinbürgertums in einer Kleinstadt in die große Stadt kommt, macht Bahr das Café Chantant in Berlin aus:<blockquote>mit bekränzten Büsten des alten Kaisers, Bismarcks und Moltkes in grellem roten und grünen Lampenlicht, mit Heil dir im Siegerkranz, Hurra und verlogenen Schmachtfetzen aus lustverseucht heiseren Kehlen, mit Lorelei, Zoten und Suff, ein patriotisch sentimentaler Bordellersatz, zur Abendandacht für Studenten, Referendare und Offiziere</blockquote>Denn:<blockquote>Man mußte den ehrenwerten Bürger nur erst einmal im Chantant gesehen haben: da zeigte die gepriesene „Sittlichkeit“ erst ihr wahres Gesicht, nichts als Lug und Trug zur Äffung der Dummen, um sie zu geduldigen Kulis des Kapitals zu züchten, war sie!</blockquote>Woraus Bahr als Folge die Begeisterung für den aufkommenden Naturalismus ableitet, als notwendiges Vomitiv.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1885-01-01",
+      "end_value": "1885-01-01"
+    },
+    "field_sources": [
+      "Selbstbildnis, 190-191",
+      "(Hier auf 1885 datiert)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/590b041f-d071-46ab-b740-312500a0099f/node_type?resourceVersion=id%3A3445"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/590b041f-d071-46ab-b740-312500a0099f/relationships/node_type?resourceVersion=id%3A3445"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/590b041f-d071-46ab-b740-312500a0099f/revision_uid?resourceVersion=id%3A3445"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/590b041f-d071-46ab-b740-312500a0099f/relationships/revision_uid?resourceVersion=id%3A3445"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/590b041f-d071-46ab-b740-312500a0099f/uid?resourceVersion=id%3A3445"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/590b041f-d071-46ab-b740-312500a0099f/relationships/uid?resourceVersion=id%3A3445"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/590b041f-d071-46ab-b740-312500a0099f/field_event_type?resourceVersion=id%3A3445"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/590b041f-d071-46ab-b740-312500a0099f/relationships/field_event_type?resourceVersion=id%3A3445"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "type": "node--event",
+  "id": "65116113-6eea-4a66-a786-726d63262f18",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/65116113-6eea-4a66-a786-726d63262f18?resourceVersion=id%3A2306"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/65116113-6eea-4a66-a786-726d63262f18?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27965,
+    "drupal_internal__vid": 2306,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Salzburg",
+    "created": "2010-07-20T09:02:52+00:00",
+    "changed": "2010-07-20T09:02:52+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/27965",
+      "pid": 140,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Während Bahr mit \"Wien\" eine Kritik geschrieben hat, die seiner Unzufriedenheit mit den Wienern Ausdruck verleiht, ist \"Salzburg\" eine Hymne auf die Stadt, was sich in ihrer touristischen Verwertung nach dem 2. Weltkrieg zeigt. Im Juli 1914 landet Bahrs Text in der Druckerei, doch die weitere Veröffentlichungsgeschichte ist ungeklärt, erst für eine Neuauflage oder einen neuen Vertrieb 1922 sind Rezensionen gesichert.",
+      "format": "full_html",
+      "processed": "Während Bahr mit \"Wien\" eine Kritik geschrieben hat, die seiner Unzufriedenheit mit den Wienern Ausdruck verleiht, ist \"Salzburg\" eine Hymne auf die Stadt, was sich in ihrer touristischen Verwertung nach dem 2. Weltkrieg zeigt. Im Juli 1914 landet Bahrs Text in der Druckerei, doch die weitere Veröffentlichungsgeschichte ist ungeklärt, erst für eine Neuauflage oder einen neuen Vertrieb 1922 sind Rezensionen gesichert.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1914-07-01",
+      "end_value": "1914-07-01"
+    },
+    "field_sources": []
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/65116113-6eea-4a66-a786-726d63262f18/node_type?resourceVersion=id%3A2306"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/65116113-6eea-4a66-a786-726d63262f18/relationships/node_type?resourceVersion=id%3A2306"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/65116113-6eea-4a66-a786-726d63262f18/revision_uid?resourceVersion=id%3A2306"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/65116113-6eea-4a66-a786-726d63262f18/relationships/revision_uid?resourceVersion=id%3A2306"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/65116113-6eea-4a66-a786-726d63262f18/uid?resourceVersion=id%3A2306"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/65116113-6eea-4a66-a786-726d63262f18/relationships/uid?resourceVersion=id%3A2306"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "da42ac4a-f48f-4397-af4d-b66e913825fb",
+          "meta": {
+            "drupal_internal__target_id": 3
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/65116113-6eea-4a66-a786-726d63262f18/field_event_type?resourceVersion=id%3A2306"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/65116113-6eea-4a66-a786-726d63262f18/relationships/field_event_type?resourceVersion=id%3A2306"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "type": "node--article",
+  "id": "58002d41-8bbc-4a01-83ef-78bdae32111f",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/article/58002d41-8bbc-4a01-83ef-78bdae32111f?resourceVersion=id%3A4003"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/article/58002d41-8bbc-4a01-83ef-78bdae32111f?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 17885,
+    "drupal_internal__vid": 4003,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:47:58+00:00",
+    "status": true,
+    "title": "Allerlei Bären",
+    "created": "2010-03-16T11:10:07+00:00",
+    "changed": "2010-04-28T12:31:32+00:00",
+    "promote": true,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/article/17885",
+      "pid": 31,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Das Interesse an den eigenen Ahnen lässt Bahr die Reihe der \"Bardo, Barding, Baring, Baer, Ber oder Bering\"; kurz allerlei \"Bären\" zurückverfolgen, zu denen nach der von dem amerikanischen Namensvetter John Bahr erstellten Stammtafel, auch noch das \"verwelscht[e]\" Haus der Orsini zu zählen sei (Selbstbildnis 9f.).\r\n<!--break-->\r\nAls Ausgangspunkt gilt ein Dienstmannen-Geschlecht im \"Fürstentum Osnabrück\", das bereits im Hochmittelalter urkundlich erwähnt sei, wie neben John Bahr auch der Rittmeister Ledebur-Brandenburg angibt. Der Artikel des Rittmeisters findet sich ebenso wie zahlreiche weitere Hinweise auf das eigene Herkommen im Nachlass Hermann Bahrs. Die Nachforschungen gehen sogar posthum weiter: Beginnend mit 1938 versucht Anna Bahr-Mildenburg die Lücken in der \"Ahnentafel\" Hermann Bahrs zu schließen; soll diese doch Eingang in die \"Ahnentafel berühmter Deutscher\"  der Zentralstelle für Deutsche Personen- und Familiengeschichte in Leipzig finden.",
+      "format": "full_html",
+      "processed": "Das Interesse an den eigenen Ahnen lässt Bahr die Reihe der \"Bardo, Barding, Baring, Baer, Ber oder Bering\"; kurz allerlei \"Bären\" zurückverfolgen, zu denen nach der von dem amerikanischen Namensvetter John Bahr erstellten Stammtafel, auch noch das \"verwelscht[e]\" Haus der Orsini zu zählen sei (Selbstbildnis 9f.).\n<!--break-->\nAls Ausgangspunkt gilt ein Dienstmannen-Geschlecht im \"Fürstentum Osnabrück\", das bereits im Hochmittelalter urkundlich erwähnt sei, wie neben John Bahr auch der Rittmeister Ledebur-Brandenburg angibt. Der Artikel des Rittmeisters findet sich ebenso wie zahlreiche weitere Hinweise auf das eigene Herkommen im Nachlass Hermann Bahrs. Die Nachforschungen gehen sogar posthum weiter: Beginnend mit 1938 versucht Anna Bahr-Mildenburg die Lücken in der \"Ahnentafel\" Hermann Bahrs zu schließen; soll diese doch Eingang in die \"Ahnentafel berühmter Deutscher\"  der Zentralstelle für Deutsche Personen- und Familiengeschichte in Leipzig finden.",
+      "summary": null
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "2591b802-2e12-43ea-999f-36ccdccd1176",
+        "meta": {
+          "drupal_internal__target_id": "article"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/58002d41-8bbc-4a01-83ef-78bdae32111f/node_type?resourceVersion=id%3A4003"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/58002d41-8bbc-4a01-83ef-78bdae32111f/relationships/node_type?resourceVersion=id%3A4003"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/58002d41-8bbc-4a01-83ef-78bdae32111f/revision_uid?resourceVersion=id%3A4003"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/58002d41-8bbc-4a01-83ef-78bdae32111f/relationships/revision_uid?resourceVersion=id%3A4003"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/58002d41-8bbc-4a01-83ef-78bdae32111f/uid?resourceVersion=id%3A4003"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/58002d41-8bbc-4a01-83ef-78bdae32111f/relationships/uid?resourceVersion=id%3A4003"
+        }
+      }
+    },
+    "field_image": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/58002d41-8bbc-4a01-83ef-78bdae32111f/field_image?resourceVersion=id%3A4003"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/58002d41-8bbc-4a01-83ef-78bdae32111f/relationships/field_image?resourceVersion=id%3A4003"
+        }
+      }
+    },
+    "field_tags": {
+      "data": [],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/58002d41-8bbc-4a01-83ef-78bdae32111f/field_tags?resourceVersion=id%3A4003"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/58002d41-8bbc-4a01-83ef-78bdae32111f/relationships/field_tags?resourceVersion=id%3A4003"
+        }
+      }
+    }
+  }
+}

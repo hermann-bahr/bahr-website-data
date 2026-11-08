@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "692588c5-e0a9-45d0-b466-c03a84e472b0",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/692588c5-e0a9-45d0-b466-c03a84e472b0?resourceVersion=id%3A2710"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/692588c5-e0a9-45d0-b466-c03a84e472b0?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38923,
+    "drupal_internal__vid": 2710,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Rechtswissenschaften",
+    "created": "2011-03-09T15:37:48+00:00",
+    "changed": "2011-11-14T13:44:32+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38923",
+      "pid": 664,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bereits zu Weihnachten 1881 wechselt Bahr vom Studium der Philologie zur Jurisprudenz.",
+      "format": "full_html",
+      "processed": "Bereits zu Weihnachten 1881 wechselt Bahr vom Studium der Philologie zur Jurisprudenz.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1881-12-23",
+      "end_value": "1881-12-23"
+    },
+    "field_sources": [
+      "Selbstbildnis, 128",
+      "Der Matrikelschein, datiert vom 23. Dezember, findet sich im Nachlass, Kiste 98: Biografisches"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/692588c5-e0a9-45d0-b466-c03a84e472b0/node_type?resourceVersion=id%3A2710"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/692588c5-e0a9-45d0-b466-c03a84e472b0/relationships/node_type?resourceVersion=id%3A2710"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/692588c5-e0a9-45d0-b466-c03a84e472b0/revision_uid?resourceVersion=id%3A2710"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/692588c5-e0a9-45d0-b466-c03a84e472b0/relationships/revision_uid?resourceVersion=id%3A2710"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/692588c5-e0a9-45d0-b466-c03a84e472b0/uid?resourceVersion=id%3A2710"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/692588c5-e0a9-45d0-b466-c03a84e472b0/relationships/uid?resourceVersion=id%3A2710"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/692588c5-e0a9-45d0-b466-c03a84e472b0/field_event_type?resourceVersion=id%3A2710"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/692588c5-e0a9-45d0-b466-c03a84e472b0/relationships/field_event_type?resourceVersion=id%3A2710"
+        }
+      }
+    }
+  }
+}

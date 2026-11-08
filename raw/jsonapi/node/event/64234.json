@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "9de16ac9-cc18-4412-9a7b-2161f2550794",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/9de16ac9-cc18-4412-9a7b-2161f2550794?resourceVersion=id%3A3624"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/9de16ac9-cc18-4412-9a7b-2161f2550794?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 64234,
+    "drupal_internal__vid": 3624,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "AS, Brahm",
+    "created": "2012-05-23T10:47:10+00:00",
+    "changed": "2012-05-23T10:47:10+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/64234",
+      "pid": 1667,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 4. Juni 1902 Essen Otto Brahm, Arthur Schnitzler und Bahr gemeinsam zu Abend.",
+      "format": "full_html",
+      "processed": "Am 4. Juni 1902 Essen Otto Brahm, Arthur Schnitzler und Bahr gemeinsam zu Abend.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1902-06-04",
+      "end_value": "1902-06-04"
+    },
+    "field_sources": [
+      "Schnitzler: Tagebücher, II, 371."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9de16ac9-cc18-4412-9a7b-2161f2550794/node_type?resourceVersion=id%3A3624"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9de16ac9-cc18-4412-9a7b-2161f2550794/relationships/node_type?resourceVersion=id%3A3624"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9de16ac9-cc18-4412-9a7b-2161f2550794/revision_uid?resourceVersion=id%3A3624"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9de16ac9-cc18-4412-9a7b-2161f2550794/relationships/revision_uid?resourceVersion=id%3A3624"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9de16ac9-cc18-4412-9a7b-2161f2550794/uid?resourceVersion=id%3A3624"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9de16ac9-cc18-4412-9a7b-2161f2550794/relationships/uid?resourceVersion=id%3A3624"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9de16ac9-cc18-4412-9a7b-2161f2550794/field_event_type?resourceVersion=id%3A3624"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9de16ac9-cc18-4412-9a7b-2161f2550794/relationships/field_event_type?resourceVersion=id%3A3624"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "f35546a7-42cd-41ef-b50f-2b5302a91124",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f35546a7-42cd-41ef-b50f-2b5302a91124?resourceVersion=id%3A2797"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f35546a7-42cd-41ef-b50f-2b5302a91124?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39018,
+    "drupal_internal__vid": 2797,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Gustav Landauer",
+    "created": "2011-03-30T14:25:17+00:00",
+    "changed": "2011-09-08T12:03:18+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39018",
+      "pid": 752,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Gustav Landauer schreibt am 22.12.1911 an Fritz Mauthner, dass er \"gestern\" Bahr im Café getroffen habe. Ob das in Landauers Wohnort Hermdorf i.d. Mark, im nahegelegenen Jena oder sonstwo geschah, ist offen.",
+      "format": "full_html",
+      "processed": "Gustav Landauer schreibt am 22.12.1911 an Fritz Mauthner, dass er \"gestern\" Bahr im Café getroffen habe. Ob das in Landauers Wohnort Hermdorf i.d. Mark, im nahegelegenen Jena oder sonstwo geschah, ist offen.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1911-12-21",
+      "end_value": "1911-12-21"
+    },
+    "field_sources": [
+      "Gustav Landauer-Fritz Mauthner: Briefwechsel 1890-1919. Hg. Hanna Delf. München: Beck 1994, 252."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f35546a7-42cd-41ef-b50f-2b5302a91124/node_type?resourceVersion=id%3A2797"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f35546a7-42cd-41ef-b50f-2b5302a91124/relationships/node_type?resourceVersion=id%3A2797"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f35546a7-42cd-41ef-b50f-2b5302a91124/revision_uid?resourceVersion=id%3A2797"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f35546a7-42cd-41ef-b50f-2b5302a91124/relationships/revision_uid?resourceVersion=id%3A2797"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f35546a7-42cd-41ef-b50f-2b5302a91124/uid?resourceVersion=id%3A2797"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f35546a7-42cd-41ef-b50f-2b5302a91124/relationships/uid?resourceVersion=id%3A2797"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f35546a7-42cd-41ef-b50f-2b5302a91124/field_event_type?resourceVersion=id%3A2797"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f35546a7-42cd-41ef-b50f-2b5302a91124/relationships/field_event_type?resourceVersion=id%3A2797"
+        }
+      }
+    }
+  }
+}

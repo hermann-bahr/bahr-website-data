@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "12fb2689-617f-4966-a49e-e61524253591",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/12fb2689-617f-4966-a49e-e61524253591?resourceVersion=id%3A2980"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/12fb2689-617f-4966-a49e-e61524253591?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44060,
+    "drupal_internal__vid": 2980,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Weimar",
+    "created": "2011-09-02T10:24:04+00:00",
+    "changed": "2011-12-21T09:26:51+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44060",
+      "pid": 958,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahr leistet Reinhardts Aufforderung, nach Weimar zu reisen, folge und hält sich dort vom 8. bis zum 11. Juni 1906 auf. Die Heimreise erfolgt über Marienbad.\r\n(Der Brief Bahrs an Reinhardt, worin er das Engagement Munchs ankündigt, dürfte mit 7.6.1906  falsch datiert sein)",
+      "format": "full_html",
+      "processed": "Bahr leistet Reinhardts Aufforderung, nach Weimar zu reisen, folge und hält sich dort vom 8. bis zum 11. Juni 1906 auf. Die Heimreise erfolgt über Marienbad.\n(Der Brief Bahrs an Reinhardt, worin er das Engagement Munchs ankündigt, dürfte mit 7.6.1906  falsch datiert sein)",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1906-06-08",
+      "end_value": "1906-06-11"
+    },
+    "field_sources": [
+      "Tagebücher (Csàky), V, 16.",
+      "Hermann Bahr: Meister und Meisterbriefe um Hermann Bahr. Aus seinen Entwürfen, Tagebüchern und seinem Briefwechsel. Ausgewählt und eingeleitet von Joseph Gregor. Wien: Hermann Bauer 1947, 187."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/12fb2689-617f-4966-a49e-e61524253591/node_type?resourceVersion=id%3A2980"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/12fb2689-617f-4966-a49e-e61524253591/relationships/node_type?resourceVersion=id%3A2980"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/12fb2689-617f-4966-a49e-e61524253591/revision_uid?resourceVersion=id%3A2980"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/12fb2689-617f-4966-a49e-e61524253591/relationships/revision_uid?resourceVersion=id%3A2980"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/12fb2689-617f-4966-a49e-e61524253591/uid?resourceVersion=id%3A2980"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/12fb2689-617f-4966-a49e-e61524253591/relationships/uid?resourceVersion=id%3A2980"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/12fb2689-617f-4966-a49e-e61524253591/field_event_type?resourceVersion=id%3A2980"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/12fb2689-617f-4966-a49e-e61524253591/relationships/field_event_type?resourceVersion=id%3A2980"
+        }
+      }
+    }
+  }
+}

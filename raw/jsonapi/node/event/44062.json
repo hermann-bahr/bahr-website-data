@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "c584319d-b6b1-475e-a161-62a3e1823283",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/c584319d-b6b1-475e-a161-62a3e1823283?resourceVersion=id%3A2982"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/c584319d-b6b1-475e-a161-62a3e1823283?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44062,
+    "drupal_internal__vid": 2982,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Venedig",
+    "created": "2011-09-02T10:28:42+00:00",
+    "changed": "2011-09-02T10:30:15+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44062",
+      "pid": 960,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Mit Zwischenhalt bei Mildenburgs Familie in Kärnten bzw. für Bahr am Faakersee, geht es am 23. Juni 1906 Richtung Lido. Sie bleiben bis 30. Juli.",
+      "format": "full_html",
+      "processed": "Mit Zwischenhalt bei Mildenburgs Familie in Kärnten bzw. für Bahr am Faakersee, geht es am 23. Juni 1906 Richtung Lido. Sie bleiben bis 30. Juli.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1906-06-23",
+      "end_value": "1906-07-30"
+    },
+    "field_sources": [
+      "Tagebücher (Csàky), V, 17-18."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c584319d-b6b1-475e-a161-62a3e1823283/node_type?resourceVersion=id%3A2982"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c584319d-b6b1-475e-a161-62a3e1823283/relationships/node_type?resourceVersion=id%3A2982"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c584319d-b6b1-475e-a161-62a3e1823283/revision_uid?resourceVersion=id%3A2982"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c584319d-b6b1-475e-a161-62a3e1823283/relationships/revision_uid?resourceVersion=id%3A2982"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c584319d-b6b1-475e-a161-62a3e1823283/uid?resourceVersion=id%3A2982"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c584319d-b6b1-475e-a161-62a3e1823283/relationships/uid?resourceVersion=id%3A2982"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c584319d-b6b1-475e-a161-62a3e1823283/field_event_type?resourceVersion=id%3A2982"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c584319d-b6b1-475e-a161-62a3e1823283/relationships/field_event_type?resourceVersion=id%3A2982"
+        }
+      }
+    }
+  }
+}

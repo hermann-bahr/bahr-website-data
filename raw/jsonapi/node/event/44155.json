@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "3fb78327-9db5-4608-b5b4-744de27b140e",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/3fb78327-9db5-4608-b5b4-744de27b140e?resourceVersion=id%3A3071"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/3fb78327-9db5-4608-b5b4-744de27b140e?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44155,
+    "drupal_internal__vid": 3071,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Bukovics †",
+    "created": "2011-09-15T09:35:39+00:00",
+    "changed": "2011-10-27T13:11:43+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44155",
+      "pid": 1050,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 4. Juli 1905 stirbt überraschend Emerich Bukovics, der an Diabetes leidende Direktor des \"Deutschen Volkstheaters\". Bahr pflegte ein gutes Verhältnis zu ihm, auch wenn er Schwierigkeiten mit den Schauspielern des Volkstheaters hatte. Bukovics war auch Bahrs Nachbar, der ihm das Grundstück für den Bau des Olbrich-Hauses abtrat. ",
+      "format": "full_html",
+      "processed": "Am 4. Juli 1905 stirbt überraschend Emerich Bukovics, der an Diabetes leidende Direktor des \"Deutschen Volkstheaters\". Bahr pflegte ein gutes Verhältnis zu ihm, auch wenn er Schwierigkeiten mit den Schauspielern des Volkstheaters hatte. Bukovics war auch Bahrs Nachbar, der ihm das Grundstück für den Bau des Olbrich-Hauses abtrat. ",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1905-07-04",
+      "end_value": "1905-07-04"
+    },
+    "field_sources": [
+      "Tagebücher (Csàky), IV, 424.",
+      "Nachruf: Neues Wiener Tagblatt, 39 (1905) #183, 9. (5.7.1905)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3fb78327-9db5-4608-b5b4-744de27b140e/node_type?resourceVersion=id%3A3071"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3fb78327-9db5-4608-b5b4-744de27b140e/relationships/node_type?resourceVersion=id%3A3071"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3fb78327-9db5-4608-b5b4-744de27b140e/revision_uid?resourceVersion=id%3A3071"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3fb78327-9db5-4608-b5b4-744de27b140e/relationships/revision_uid?resourceVersion=id%3A3071"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3fb78327-9db5-4608-b5b4-744de27b140e/uid?resourceVersion=id%3A3071"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3fb78327-9db5-4608-b5b4-744de27b140e/relationships/uid?resourceVersion=id%3A3071"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3fb78327-9db5-4608-b5b4-744de27b140e/field_event_type?resourceVersion=id%3A3071"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3fb78327-9db5-4608-b5b4-744de27b140e/relationships/field_event_type?resourceVersion=id%3A3071"
+        }
+      }
+    }
+  }
+}

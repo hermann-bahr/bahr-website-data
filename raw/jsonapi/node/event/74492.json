@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "aeaf176d-a4da-4e77-8985-1e840d03bca8",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/aeaf176d-a4da-4e77-8985-1e840d03bca8?resourceVersion=id%3A3803"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/aeaf176d-a4da-4e77-8985-1e840d03bca8?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74492,
+    "drupal_internal__vid": 3803,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Strafe für Antisemitismus",
+    "created": "2013-03-22T10:26:29+00:00",
+    "changed": "2013-03-22T10:26:29+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/74492",
+      "pid": 1866,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 9. Juni 1883 wird Bahr in Graz zu zehn Gulden Geldstrafe verurteilt<blockquote>da er sich in einem Gasthause höchst unanständig benahm, indem er anwesende Gäste - jüdischer Konfession - auf das gröblichste insultierte.[1]</blockquote>Im Selbstbildnis berichtet Bahr, wie er sich in einem (jüdischen) Kaffeehaus in Czernowitz (Café Cohn) benahm. ",
+      "format": "full_html",
+      "processed": "Am 9. Juni 1883 wird Bahr in Graz zu zehn Gulden Geldstrafe verurteilt<blockquote>da er sich in einem Gasthause höchst unanständig benahm, indem er anwesende Gäste - jüdischer Konfession - auf das gröblichste insultierte.[1]</blockquote>Im Selbstbildnis berichtet Bahr, wie er sich in einem (jüdischen) Kaffeehaus in Czernowitz (Café Cohn) benahm. ",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1883-06-09",
+      "end_value": "1883-06-09"
+    },
+    "field_sources": [
+      "[1] zit. n. Günter Cerwinka: Hermann Bahrs Grazer Semester. Mit Briefen Bahrs zur Auseinandersetzung Pernerstorfer – Schönerer. Historisches Jahrbuch der Stadt Graz, 4 (1971), 139-140.",
+      "[2] Selbstbildnis, 159-160"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/aeaf176d-a4da-4e77-8985-1e840d03bca8/node_type?resourceVersion=id%3A3803"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/aeaf176d-a4da-4e77-8985-1e840d03bca8/relationships/node_type?resourceVersion=id%3A3803"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/aeaf176d-a4da-4e77-8985-1e840d03bca8/revision_uid?resourceVersion=id%3A3803"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/aeaf176d-a4da-4e77-8985-1e840d03bca8/relationships/revision_uid?resourceVersion=id%3A3803"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/aeaf176d-a4da-4e77-8985-1e840d03bca8/uid?resourceVersion=id%3A3803"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/aeaf176d-a4da-4e77-8985-1e840d03bca8/relationships/uid?resourceVersion=id%3A3803"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/aeaf176d-a4da-4e77-8985-1e840d03bca8/field_event_type?resourceVersion=id%3A3803"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/aeaf176d-a4da-4e77-8985-1e840d03bca8/relationships/field_event_type?resourceVersion=id%3A3803"
+        }
+      }
+    }
+  }
+}

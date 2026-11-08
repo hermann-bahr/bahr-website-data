@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "58266b1f-b972-4c27-a893-632f5c4a8919",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/58266b1f-b972-4c27-a893-632f5c4a8919?resourceVersion=id%3A3460"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/58266b1f-b972-4c27-a893-632f5c4a8919?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49635,
+    "drupal_internal__vid": 3460,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "M. Harden",
+    "created": "2011-11-18T16:03:54+00:00",
+    "changed": "2011-11-18T16:03:54+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49635",
+      "pid": 1450,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Von Harden stammt nicht nur die Bezeichnung \"Der Mann von übermorgen\" für Bahr, die beiden traten auch während des Berlin-Aufenthalts 1890 in freundschaftliche Beziehungen, die Jahrzehnte überdauerte. Davor musste Bahr aber, wie er sich eingesteht, den Neid überwinden, in Harden den besseren Kritiker erkannt zu haben.",
+      "format": "full_html",
+      "processed": "Von Harden stammt nicht nur die Bezeichnung \"Der Mann von übermorgen\" für Bahr, die beiden traten auch während des Berlin-Aufenthalts 1890 in freundschaftliche Beziehungen, die Jahrzehnte überdauerte. Davor musste Bahr aber, wie er sich eingesteht, den Neid überwinden, in Harden den besseren Kritiker erkannt zu haben.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1890-06-01",
+      "end_value": "1890-06-01"
+    },
+    "field_sources": [
+      "Selbstbildnis, 267-268",
+      "(Hier auf 1. Juni 1890 datiert)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/58266b1f-b972-4c27-a893-632f5c4a8919/node_type?resourceVersion=id%3A3460"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/58266b1f-b972-4c27-a893-632f5c4a8919/relationships/node_type?resourceVersion=id%3A3460"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/58266b1f-b972-4c27-a893-632f5c4a8919/revision_uid?resourceVersion=id%3A3460"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/58266b1f-b972-4c27-a893-632f5c4a8919/relationships/revision_uid?resourceVersion=id%3A3460"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/58266b1f-b972-4c27-a893-632f5c4a8919/uid?resourceVersion=id%3A3460"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/58266b1f-b972-4c27-a893-632f5c4a8919/relationships/uid?resourceVersion=id%3A3460"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/58266b1f-b972-4c27-a893-632f5c4a8919/field_event_type?resourceVersion=id%3A3460"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/58266b1f-b972-4c27-a893-632f5c4a8919/relationships/field_event_type?resourceVersion=id%3A3460"
+        }
+      }
+    }
+  }
+}

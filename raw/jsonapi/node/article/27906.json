@@ -1,0 +1,112 @@
+{
+  "type": "node--article",
+  "id": "088d4579-f775-4692-ab51-46ee1fae20bb",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/article/088d4579-f775-4692-ab51-46ee1fae20bb?resourceVersion=id%3A4006"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/article/088d4579-f775-4692-ab51-46ee1fae20bb?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27906,
+    "drupal_internal__vid": 4006,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:47:58+00:00",
+    "status": true,
+    "title": "Statistische Bahrforschung",
+    "created": "2010-06-25T10:21:00+00:00",
+    "changed": "2011-11-03T11:26:51+00:00",
+    "promote": true,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/article/27906",
+      "pid": 85,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Eine kurze Beobachtung zur Entwicklung der Bahr-Forschung. Google betreibt derzeit so etwas wie ein Fieberthermometer, das anzeigt, wie oft Bahr in bestimmten, zeitlich zuordenbaren Webinhalten vorkommt:<br>\r\n<img src=\"http://www.univie.ac.at/bahr/sites/all/blog/googletrend.png\" width=100%>\r\nWie verlässlich das ist, sieht man an den Ergebnissen 1840, zwanzig Jahre vor Bahrs Geburt. Trotzdem veranschaulicht die Grafik, dass die Beschäftigung mit Bahr in Wellen kam und zuletzt intensiver wurde. Genauer, trotz aller berechtigten Einwände (ein Zeitungsartikel zählt gleichviel wie eine wissenschaftliche Publikation), ist folgende Auswertung der Sekundärliteratur samt logarithmischer Trendkurve – (die für die nächsten Jahre vorhergesagte Spitze sind wir?)<br>\r\n<img src=\"http://www.univie.ac.at/bahr/sites/all/blog/trend.jpg\" width=100%>\r\nGenauer lässt es sich also folgendermaßen aufschlüsseln: In den Fünfzigerjahren vorwiegend Dissertationen. Rund um den 100. Geburtstag 1963 einige Aktivitäten. Die Siebzigerjahre eine schwach köchelnde Flamme. Dann ab dem fünfzigsten Todestag 1984 eine aufsteigende Kurve, die sich mit dem Erscheinen der Tagebücher intensiviert, aber auch mit dem Ende der Tagebuchpublikation zurückzugehen scheint. ",
+      "format": "full_html",
+      "processed": "Eine kurze Beobachtung zur Entwicklung der Bahr-Forschung. Google betreibt derzeit so etwas wie ein Fieberthermometer, das anzeigt, wie oft Bahr in bestimmten, zeitlich zuordenbaren Webinhalten vorkommt:<br>\n<img src=\"http://www.univie.ac.at/bahr/sites/all/blog/googletrend.png\" width=\"100%\">\nWie verlässlich das ist, sieht man an den Ergebnissen 1840, zwanzig Jahre vor Bahrs Geburt. Trotzdem veranschaulicht die Grafik, dass die Beschäftigung mit Bahr in Wellen kam und zuletzt intensiver wurde. Genauer, trotz aller berechtigten Einwände (ein Zeitungsartikel zählt gleichviel wie eine wissenschaftliche Publikation), ist folgende Auswertung der Sekundärliteratur samt logarithmischer Trendkurve – (die für die nächsten Jahre vorhergesagte Spitze sind wir?)<br>\n<img src=\"http://www.univie.ac.at/bahr/sites/all/blog/trend.jpg\" width=\"100%\">\nGenauer lässt es sich also folgendermaßen aufschlüsseln: In den Fünfzigerjahren vorwiegend Dissertationen. Rund um den 100. Geburtstag 1963 einige Aktivitäten. Die Siebzigerjahre eine schwach köchelnde Flamme. Dann ab dem fünfzigsten Todestag 1984 eine aufsteigende Kurve, die sich mit dem Erscheinen der Tagebücher intensiviert, aber auch mit dem Ende der Tagebuchpublikation zurückzugehen scheint. ",
+      "summary": null
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "2591b802-2e12-43ea-999f-36ccdccd1176",
+        "meta": {
+          "drupal_internal__target_id": "article"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/088d4579-f775-4692-ab51-46ee1fae20bb/node_type?resourceVersion=id%3A4006"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/088d4579-f775-4692-ab51-46ee1fae20bb/relationships/node_type?resourceVersion=id%3A4006"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/088d4579-f775-4692-ab51-46ee1fae20bb/revision_uid?resourceVersion=id%3A4006"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/088d4579-f775-4692-ab51-46ee1fae20bb/relationships/revision_uid?resourceVersion=id%3A4006"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/088d4579-f775-4692-ab51-46ee1fae20bb/uid?resourceVersion=id%3A4006"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/088d4579-f775-4692-ab51-46ee1fae20bb/relationships/uid?resourceVersion=id%3A4006"
+        }
+      }
+    },
+    "field_image": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/088d4579-f775-4692-ab51-46ee1fae20bb/field_image?resourceVersion=id%3A4006"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/088d4579-f775-4692-ab51-46ee1fae20bb/relationships/field_image?resourceVersion=id%3A4006"
+        }
+      }
+    },
+    "field_tags": {
+      "data": [],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/088d4579-f775-4692-ab51-46ee1fae20bb/field_tags?resourceVersion=id%3A4006"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/088d4579-f775-4692-ab51-46ee1fae20bb/relationships/field_tags?resourceVersion=id%3A4006"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bilder" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Bilder</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">28237</idno>
+        <idno type="drupal-alias">/bilder</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bilder">https://bahr.univie.ac.at/bilder</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="7" key="bilder">Bilder</term>
+        </keywords>
+        <classCode scheme="drupal-type">page</classCode>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2010-11-09T11:54:06+00:00" type="created">angelegt in Drupal</change>
+      <change when="2020-02-27T13:27:50+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head>Bilder, kostenfreie Verwendung</head>
+        <list rend="bulleted">
+          <item>Die Bilder unserer Website</item>
+          <item>
+            <ref target="http://commons.wikimedia.org/wiki/Category:Hermann_Bahr">Wikimedia Commons</ref>
+          </item>
+        </list>
+      </div>
+      <div>
+        <head>Vorschaubilder, kostenpflichtige Verwertung</head>
+        <list rend="bulleted">
+          <item>Fotografien aus dem Nachlass Bahrs im Vertrieb von <ref target="http://www.gettyimages.com/Search/Search.aspx?contractUrl=2&amp;language=en-US&amp;family=editorial&amp;assetType=image&amp;p=%22hermann+bahr%22">Getty-Images</ref></item>
+          <item><ref target="https://www.theatermuseum.at/onlinesammlung/?rand=4&amp;id=11694&amp;L=0&amp;q%5B%5D=hermann+bahr&amp;view=0&amp;facet_date=1%3B2017&amp;sort=score%3Adesc">Bilddatenbank</ref> des Theatermuseums, Wien, mit Bildern aus dem Nachlass Bahrs</item>
+          <item><ref target="http://www.europeana.eu/portal/">Europeana</ref> mit Digitalisierungen verschiedener Provenienzen</item>
+          <item>Im <ref target="http://www.bildarchivaustria.at/">Bildarchiv</ref> der Österreichischen Nationalbibliothek u.a. die Schnellfotografie im Prater mit Beer-Hofmann, Schnitzler, Hofmannsthal.</item>
+          <item>Oberösterreichische Landesbibliothek, eine <ref target="http://digi.landesbibliothek.at/viewer/fullscreen/1104/7/">Fotografie</ref> in Konvolut</item>
+        </list>
+      </div>
+      <divGen type="eintraege"/>
+    </body>
+  </text>
+</TEI>

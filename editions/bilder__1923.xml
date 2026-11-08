@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bilder__1923" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">1923</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">38883</idno>
+        <idno type="drupal-alias">/bild/38883</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bild/38883">https://bahr.univie.ac.at/bild/38883</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="7" key="bilder">Bilder</term>
+          <term n="33" key="1923" type="eintrag">1923</term>
+        </keywords>
+        <classCode scheme="drupal-type">image</classCode>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2011-02-28T19:05:25+00:00" type="created">angelegt in Drupal</change>
+      <change when="2011-11-25T12:13:41+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <figure>
+          <graphic url="files/bahr_bilder/1923_mnn.jpg"/>
+          <figDesc>1923</figDesc>
+        </figure>
+        <p>
+          <hi rend="italic">Ost und Süd. Illustrierte Wochenschrift der Münchner Neuesten Nachrichten für das Ausland, 1 (1923) #2, 2. (11.1.1923)</hi>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

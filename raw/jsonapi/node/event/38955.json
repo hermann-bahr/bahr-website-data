@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "b4b5d156-fc66-4cf8-b27a-ed4d9547733e",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b4b5d156-fc66-4cf8-b27a-ed4d9547733e?resourceVersion=id%3A2741"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b4b5d156-fc66-4cf8-b27a-ed4d9547733e?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38955,
+    "drupal_internal__vid": 2741,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "AS",
+    "created": "2011-03-15T17:44:47+00:00",
+    "changed": "2011-11-03T10:56:59+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38955",
+      "pid": 695,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "13. August 1892:<blockquote>Abd. im Kfh. wie fast allabendlich mit Bahr geplauscht.</blockquote>\r\n14. August:<blockquote>Mit Bahr Schweizerhaus genachtm.-</blockquote>",
+      "format": "full_html",
+      "processed": "13. August 1892:<blockquote>Abd. im Kfh. wie fast allabendlich mit Bahr geplauscht.</blockquote>\n14. August:<blockquote>Mit Bahr Schweizerhaus genachtm.-</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1892-08-13",
+      "end_value": "1892-08-14"
+    },
+    "field_sources": [
+      "Schnitzler: Tagebuch, I, 382."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b4b5d156-fc66-4cf8-b27a-ed4d9547733e/node_type?resourceVersion=id%3A2741"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b4b5d156-fc66-4cf8-b27a-ed4d9547733e/relationships/node_type?resourceVersion=id%3A2741"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b4b5d156-fc66-4cf8-b27a-ed4d9547733e/revision_uid?resourceVersion=id%3A2741"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b4b5d156-fc66-4cf8-b27a-ed4d9547733e/relationships/revision_uid?resourceVersion=id%3A2741"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b4b5d156-fc66-4cf8-b27a-ed4d9547733e/uid?resourceVersion=id%3A2741"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b4b5d156-fc66-4cf8-b27a-ed4d9547733e/relationships/uid?resourceVersion=id%3A2741"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b4b5d156-fc66-4cf8-b27a-ed4d9547733e/field_event_type?resourceVersion=id%3A2741"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b4b5d156-fc66-4cf8-b27a-ed4d9547733e/relationships/field_event_type?resourceVersion=id%3A2741"
+        }
+      }
+    }
+  }
+}

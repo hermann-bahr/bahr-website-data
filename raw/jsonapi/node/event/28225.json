@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "85c2b6f0-0857-4161-af77-7059fda71f38",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/85c2b6f0-0857-4161-af77-7059fda71f38?resourceVersion=id%3A2524"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/85c2b6f0-0857-4161-af77-7059fda71f38?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28225,
+    "drupal_internal__vid": 2524,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Relegierung von der Universität",
+    "created": "2010-10-21T19:20:04+00:00",
+    "changed": "2011-07-12T16:55:03+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28225",
+      "pid": 362,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 8. April 1883 meldet das Linzer Sonntagsblatt in der Rubrik \"Verschiedenes\":\r\n<blockquote>–<strong>(Zum Wagner-Commers.)</strong> Wie wir aus authentischer Quelle erfahren, wurden die Herren stud. chem. Franz Dafert und stud. jur. Hermann Erich Bahr (ein Linzer) nach academischen Senatsbeschluß vom 5. d. M. für immer von der Wiener Universität relegirt. Bekanntlich fungirte Herr Dafert beim Wagner-Commerse als Vorsitzender, während Herr Hermann Erich Bahr eine echt deutsche Rede hielt. Diese unerwartete Maßregelung zweier Universitätshörer wird in allen gebildeten und freiheitlichen Kreisen begreiflicher Weise das größte Aufsehen machen.</blockquote> Die authentische Quelle dürfte Bahr selbst sein, der zu dieser Zeit immer wieder für das Blatt schreibt. \r\nDer \"Tagesbote aus Mähren und Schlesien\" berichtet, dass die #55 der in Prag erscheinenden \"Deutschen Hochschule\" wegen der Darstellung eines Kommerses für Bahr und Dafert verboten wurde. \r\n1923, nur wenige Wochen vor Bahrs 60. Geburtstag, erinnert Erwin W. Reinalter, dass es vierzig Jahre her sind, seit Bahr am 4. April 1883 für seine Rede am Wagner-Kommers von der Universität Wien relegiert wurde.",
+      "format": "full_html",
+      "processed": "Am 8. April 1883 meldet das Linzer Sonntagsblatt in der Rubrik \"Verschiedenes\":\n<blockquote>–<strong>(Zum Wagner-Commers.)</strong> Wie wir aus authentischer Quelle erfahren, wurden die Herren stud. chem. Franz Dafert und stud. jur. Hermann Erich Bahr (ein Linzer) nach academischen Senatsbeschluß vom 5. d. M. für immer von der Wiener Universität relegirt. Bekanntlich fungirte Herr Dafert beim Wagner-Commerse als Vorsitzender, während Herr Hermann Erich Bahr eine echt deutsche Rede hielt. Diese unerwartete Maßregelung zweier Universitätshörer wird in allen gebildeten und freiheitlichen Kreisen begreiflicher Weise das größte Aufsehen machen.</blockquote> Die authentische Quelle dürfte Bahr selbst sein, der zu dieser Zeit immer wieder für das Blatt schreibt. \nDer \"Tagesbote aus Mähren und Schlesien\" berichtet, dass die #55 der in Prag erscheinenden \"Deutschen Hochschule\" wegen der Darstellung eines Kommerses für Bahr und Dafert verboten wurde. \n1923, nur wenige Wochen vor Bahrs 60. Geburtstag, erinnert Erwin W. Reinalter, dass es vierzig Jahre her sind, seit Bahr am 4. April 1883 für seine Rede am Wagner-Kommers von der Universität Wien relegiert wurde.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1883-04-04",
+      "end_value": "1883-04-04"
+    },
+    "field_sources": [
+      "Linzer Sonntagsblatt, 4 (1883) #15, 6. (8.4.1883)",
+      "Tagesbote aus Mähren und Schlesien, 23 (1883) #93, 2. (23.4.1883)\r\n",
+      "Erwin H.: Ein kleines Jubiläum Hermann Bahrs. In: Neue Freie Presse, 1923 #21038, Morgenblatt, Chronikbeilage, 9. (6.4.1923)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/85c2b6f0-0857-4161-af77-7059fda71f38/node_type?resourceVersion=id%3A2524"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/85c2b6f0-0857-4161-af77-7059fda71f38/relationships/node_type?resourceVersion=id%3A2524"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/85c2b6f0-0857-4161-af77-7059fda71f38/revision_uid?resourceVersion=id%3A2524"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/85c2b6f0-0857-4161-af77-7059fda71f38/relationships/revision_uid?resourceVersion=id%3A2524"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/85c2b6f0-0857-4161-af77-7059fda71f38/uid?resourceVersion=id%3A2524"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/85c2b6f0-0857-4161-af77-7059fda71f38/relationships/uid?resourceVersion=id%3A2524"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/85c2b6f0-0857-4161-af77-7059fda71f38/field_event_type?resourceVersion=id%3A2524"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/85c2b6f0-0857-4161-af77-7059fda71f38/relationships/field_event_type?resourceVersion=id%3A2524"
+        }
+      }
+    }
+  }
+}

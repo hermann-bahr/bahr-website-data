@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "aec2a137-8b4b-4887-b179-9287d9168b43",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/aec2a137-8b4b-4887-b179-9287d9168b43?resourceVersion=id%3A3495"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/aec2a137-8b4b-4887-b179-9287d9168b43?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49722,
+    "drupal_internal__vid": 3495,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Richard Ulbing",
+    "created": "2011-12-16T14:23:44+00:00",
+    "changed": "2013-03-12T13:51:02+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49722",
+      "pid": 1535,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Im \"Tagebuch\" berichtet Bahr 1919, wie sein erster Wiener Freund Richard Ulbing ihn vor 34 Jahren in der Kalkscheunenstraße in Berlin besuchen kam, Grüße von Pernerstorfer und Viktor Adler ausrichtend. Aus Heimweh saß der Kärntner in der Oper, um Marie Renard zu hören, die wenigstens aus Graz war.",
+      "format": "full_html",
+      "processed": "Im \"Tagebuch\" berichtet Bahr 1919, wie sein erster Wiener Freund Richard Ulbing ihn vor 34 Jahren in der Kalkscheunenstraße in Berlin besuchen kam, Grüße von Pernerstorfer und Viktor Adler ausrichtend. Aus Heimweh saß der Kärntner in der Oper, um Marie Renard zu hören, die wenigstens aus Graz war.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1885-11-01",
+      "end_value": "1885-11-01"
+    },
+    "field_sources": [
+      "Tagebuch 1919, 304. (20. Oktober)",
+      "(Marie Renard war ab September 1885 in Berlin, also auf 1.11. datiert, als Bahr wieder in Berlin war)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/aec2a137-8b4b-4887-b179-9287d9168b43/node_type?resourceVersion=id%3A3495"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/aec2a137-8b4b-4887-b179-9287d9168b43/relationships/node_type?resourceVersion=id%3A3495"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/aec2a137-8b4b-4887-b179-9287d9168b43/revision_uid?resourceVersion=id%3A3495"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/aec2a137-8b4b-4887-b179-9287d9168b43/relationships/revision_uid?resourceVersion=id%3A3495"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/aec2a137-8b4b-4887-b179-9287d9168b43/uid?resourceVersion=id%3A3495"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/aec2a137-8b4b-4887-b179-9287d9168b43/relationships/uid?resourceVersion=id%3A3495"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/aec2a137-8b4b-4887-b179-9287d9168b43/field_event_type?resourceVersion=id%3A3495"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/aec2a137-8b4b-4887-b179-9287d9168b43/relationships/field_event_type?resourceVersion=id%3A3495"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "c682f72f-bfc9-421d-b7b8-fa53a1ad2217",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/c682f72f-bfc9-421d-b7b8-fa53a1ad2217?resourceVersion=id%3A2812"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/c682f72f-bfc9-421d-b7b8-fa53a1ad2217?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39035,
+    "drupal_internal__vid": 2812,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Lou Brion",
+    "created": "2011-04-07T13:37:46+00:00",
+    "changed": "2012-10-16T08:45:38+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39035",
+      "pid": 768,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Spätestens im Frühjahr 1897 beginnt Bahr eine sexuelle Beziehung mit der Burgtheater-Soubrette Lou Brion. Zu Beginn finden vor allem gemeinsame Radausflüge statt. Der letzte nachweisbare Hinweis, dass die Beziehung noch Bestand hat, stammt aus dem Jänner 1900, als sie ihm eine Karte schreibt, worin sie sich in seine Arme wünscht.",
+      "format": "full_html",
+      "processed": "Spätestens im Frühjahr 1897 beginnt Bahr eine sexuelle Beziehung mit der Burgtheater-Soubrette Lou Brion. Zu Beginn finden vor allem gemeinsame Radausflüge statt. Der letzte nachweisbare Hinweis, dass die Beziehung noch Bestand hat, stammt aus dem Jänner 1900, als sie ihm eine Karte schreibt, worin sie sich in seine Arme wünscht.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1897-05-01",
+      "end_value": "1897-05-01"
+    },
+    "field_sources": [
+      "Aufsatz in Vorbereitung, Martin Anton Müller."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c682f72f-bfc9-421d-b7b8-fa53a1ad2217/node_type?resourceVersion=id%3A2812"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c682f72f-bfc9-421d-b7b8-fa53a1ad2217/relationships/node_type?resourceVersion=id%3A2812"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c682f72f-bfc9-421d-b7b8-fa53a1ad2217/revision_uid?resourceVersion=id%3A2812"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c682f72f-bfc9-421d-b7b8-fa53a1ad2217/relationships/revision_uid?resourceVersion=id%3A2812"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c682f72f-bfc9-421d-b7b8-fa53a1ad2217/uid?resourceVersion=id%3A2812"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c682f72f-bfc9-421d-b7b8-fa53a1ad2217/relationships/uid?resourceVersion=id%3A2812"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c682f72f-bfc9-421d-b7b8-fa53a1ad2217/field_event_type?resourceVersion=id%3A2812"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c682f72f-bfc9-421d-b7b8-fa53a1ad2217/relationships/field_event_type?resourceVersion=id%3A2812"
+        }
+      }
+    }
+  }
+}

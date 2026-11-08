@@ -1,0 +1,119 @@
+{
+  "type": "node--event",
+  "id": "c4501796-3238-4dc6-bcdd-5688943da293",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/c4501796-3238-4dc6-bcdd-5688943da293?resourceVersion=id%3A2876"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/c4501796-3238-4dc6-bcdd-5688943da293?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39111,
+    "drupal_internal__vid": 2876,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Regisseur",
+    "created": "2011-05-20T13:10:46+00:00",
+    "changed": "2011-07-13T17:05:08+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39111",
+      "pid": 841,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Kraus behauptet, Bahr hätte die Regie von \"'s Katherl\" übernommen, das am 25. November 1897 Première hatte:<blockquote><i>Herrn Hermann Bahr, Realitätenbesitzer in Unter-St.-Veit.</i><br>Also wirklich, die Vorstellung von Burckhardts \"Katherl\" am Raimund-Theater hat den \"modernen Stil\" hervorragend zur Geltung gebracht? So behaupten Sie nämlich in Ihrem 'Tagblatt‘-Feuilleton vom 15. Mai, das dem \"Deutschen Theater\" gewidmet war. Sie Schäker! Nein, die Aufführung des \"Katherl\" am Raimund-Theater war so unbedeutend wie das \"Katherl\" selbst. Regie führte damals nämlich für den »Spezi« Herr Hermann Bahr.</blockquote>Bahr gibt das (in einer Tagebuchnotiz) zu.",
+      "format": "full_html",
+      "processed": "Kraus behauptet, Bahr hätte die Regie von \"'s Katherl\" übernommen, das am 25. November 1897 Première hatte:<blockquote><i>Herrn Hermann Bahr, Realitätenbesitzer in Unter-St.-Veit.</i><br>Also wirklich, die Vorstellung von Burckhardts \"Katherl\" am Raimund-Theater hat den \"modernen Stil\" hervorragend zur Geltung gebracht? So behaupten Sie nämlich in Ihrem 'Tagblatt‘-Feuilleton vom 15. Mai, das dem \"Deutschen Theater\" gewidmet war. Sie Schäker! Nein, die Aufführung des \"Katherl\" am Raimund-Theater war so unbedeutend wie das \"Katherl\" selbst. Regie führte damals nämlich für den »Spezi« Herr Hermann Bahr.</blockquote>Bahr gibt das (in einer Tagebuchnotiz) zu.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1897-11-25",
+      "end_value": "1897-11-25"
+    },
+    "field_sources": [
+      "Hermann Bahr: Das \"Deutsche Theater\". Neues Wiener Tagblatt, 34 (1900) #132, 1-3. (15.5.1900) Erneut: Premièren, 204-211.",
+      "Fackel, 2 (1900) #41, 32.",
+      "Bahrs Rezension der Aufführung: Hermann Bahr: 's Katherl. (Volksstück in fünf Aufzügen von Max Burckhard. Zum ersten Mal aufgeführt im Raimundtheater am 25. November 1897). Die Zeit, 13 (1897) #165, 141. (27.11.1897) Erneut: Wiener Theater, 490-495.",
+      "Tagebücher (Csàky), II, 162. (Juli 1898)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c4501796-3238-4dc6-bcdd-5688943da293/node_type?resourceVersion=id%3A2876"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c4501796-3238-4dc6-bcdd-5688943da293/relationships/node_type?resourceVersion=id%3A2876"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c4501796-3238-4dc6-bcdd-5688943da293/revision_uid?resourceVersion=id%3A2876"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c4501796-3238-4dc6-bcdd-5688943da293/relationships/revision_uid?resourceVersion=id%3A2876"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c4501796-3238-4dc6-bcdd-5688943da293/uid?resourceVersion=id%3A2876"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c4501796-3238-4dc6-bcdd-5688943da293/relationships/uid?resourceVersion=id%3A2876"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c4501796-3238-4dc6-bcdd-5688943da293/field_event_type?resourceVersion=id%3A2876"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c4501796-3238-4dc6-bcdd-5688943da293/relationships/field_event_type?resourceVersion=id%3A2876"
+        }
+      }
+    }
+  }
+}

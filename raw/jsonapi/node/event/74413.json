@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "d8e64fc5-931a-4fa0-ad33-db32ba67d844",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/d8e64fc5-931a-4fa0-ad33-db32ba67d844?resourceVersion=id%3A3741"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/d8e64fc5-931a-4fa0-ad33-db32ba67d844?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74413,
+    "drupal_internal__vid": 3741,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "HvH, Gerty, Strauss, Kessler",
+    "created": "2012-10-30T08:38:43+00:00",
+    "changed": "2013-09-14T11:54:38+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/74413",
+      "pid": 1787,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Harry Graf Kessler notiert sich zum 25. Jänner 1909, als er anlässlich der Première von \"Elektra\" in Dresden weilt:<blockquote>Er [Hofmannsthal] und seine Frau setzten sich zu mir, während ich frühstückte; nachher kamen Richard Strauss und Frau heran; auch Hermann Bahr.</blockquote>",
+      "format": "full_html",
+      "processed": "Harry Graf Kessler notiert sich zum 25. Jänner 1909, als er anlässlich der Première von \"Elektra\" in Dresden weilt:<blockquote>Er [Hofmannsthal] und seine Frau setzten sich zu mir, während ich frühstückte; nachher kamen Richard Strauss und Frau heran; auch Hermann Bahr.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1909-01-25",
+      "end_value": "1909-01-25"
+    },
+    "field_sources": [
+      "Harry Graf Kessler: Das Tagebuch. Hgg. Roland S. Kamzelak und Ulrich Ott. Stuttgart: Cotta 2005, IV, 540. "
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d8e64fc5-931a-4fa0-ad33-db32ba67d844/node_type?resourceVersion=id%3A3741"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d8e64fc5-931a-4fa0-ad33-db32ba67d844/relationships/node_type?resourceVersion=id%3A3741"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d8e64fc5-931a-4fa0-ad33-db32ba67d844/revision_uid?resourceVersion=id%3A3741"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d8e64fc5-931a-4fa0-ad33-db32ba67d844/relationships/revision_uid?resourceVersion=id%3A3741"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d8e64fc5-931a-4fa0-ad33-db32ba67d844/uid?resourceVersion=id%3A3741"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d8e64fc5-931a-4fa0-ad33-db32ba67d844/relationships/uid?resourceVersion=id%3A3741"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d8e64fc5-931a-4fa0-ad33-db32ba67d844/field_event_type?resourceVersion=id%3A3741"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d8e64fc5-931a-4fa0-ad33-db32ba67d844/relationships/field_event_type?resourceVersion=id%3A3741"
+        }
+      }
+    }
+  }
+}

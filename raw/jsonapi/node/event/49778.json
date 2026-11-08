@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "0001a744-9a7a-49d9-9e84-1e7117357f45",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/0001a744-9a7a-49d9-9e84-1e7117357f45?resourceVersion=id%3A3549"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/0001a744-9a7a-49d9-9e84-1e7117357f45?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49778,
+    "drupal_internal__vid": 3549,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Herzl",
+    "created": "2012-01-16T13:33:05+00:00",
+    "changed": "2012-01-16T13:34:51+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49778",
+      "pid": 1590,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Die erste Begegnung Bahrs mit Theodor Herzl dürfte im Jänner/Februar 1883 in Wien stattgefunden haben. Bei seinem Aufenthalt in Paris zum Jahreswechsel 1893/1894 sieht Bahr in zum zweiten Mal, diesmal auf der Journalistentribüne der französischen Kammer, ein Jahr vor dem für Herzl wichtigen Dreyfus-Skandal. Nach dessen Rückkehr nach Wien Ende 1895 dürfte die Freundschaft richtig begonnen haben.",
+      "format": "full_html",
+      "processed": "Die erste Begegnung Bahrs mit Theodor Herzl dürfte im Jänner/Februar 1883 in Wien stattgefunden haben. Bei seinem Aufenthalt in Paris zum Jahreswechsel 1893/1894 sieht Bahr in zum zweiten Mal, diesmal auf der Journalistentribüne der französischen Kammer, ein Jahr vor dem für Herzl wichtigen Dreyfus-Skandal. Nach dessen Rückkehr nach Wien Ende 1895 dürfte die Freundschaft richtig begonnen haben.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1893-12-24",
+      "end_value": "1893-12-24"
+    },
+    "field_sources": [
+      "(Hier mit dem Beginn von Bahrs Reise auf 24.12.1893 datiert)",
+      "15. November [1922] in: Liebe der Lebenden, II, 252."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0001a744-9a7a-49d9-9e84-1e7117357f45/node_type?resourceVersion=id%3A3549"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0001a744-9a7a-49d9-9e84-1e7117357f45/relationships/node_type?resourceVersion=id%3A3549"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0001a744-9a7a-49d9-9e84-1e7117357f45/revision_uid?resourceVersion=id%3A3549"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0001a744-9a7a-49d9-9e84-1e7117357f45/relationships/revision_uid?resourceVersion=id%3A3549"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0001a744-9a7a-49d9-9e84-1e7117357f45/uid?resourceVersion=id%3A3549"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0001a744-9a7a-49d9-9e84-1e7117357f45/relationships/uid?resourceVersion=id%3A3549"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0001a744-9a7a-49d9-9e84-1e7117357f45/field_event_type?resourceVersion=id%3A3549"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0001a744-9a7a-49d9-9e84-1e7117357f45/relationships/field_event_type?resourceVersion=id%3A3549"
+        }
+      }
+    }
+  }
+}

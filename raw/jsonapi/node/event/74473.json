@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "8a4f587a-8869-4a59-83c7-3fdabbf3c6b4",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/8a4f587a-8869-4a59-83c7-3fdabbf3c6b4?resourceVersion=id%3A3784"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/8a4f587a-8869-4a59-83c7-3fdabbf3c6b4?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74473,
+    "drupal_internal__vid": 3784,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Wilhelm Scherer",
+    "created": "2013-03-12T11:50:26+00:00",
+    "changed": "2013-03-12T14:29:13+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/74473",
+      "pid": 1847,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 25. Mai 1884 schreibt Bahr, dass er am vergangenen 21. bei Wilhelm Scherer auf Besuch war. Und zu dessen Tod am 6. August 1886:<blockquote>Wenngleich keiner seiner Schüler und ihm nicht näher bekannt, habe ich doch die Gelegenheit gehabt ihn persönlich kennen zu lernen und seine überwältigende Genialität zu bewundern.</blockquote>",
+      "format": "full_html",
+      "processed": "Am 25. Mai 1884 schreibt Bahr, dass er am vergangenen 21. bei Wilhelm Scherer auf Besuch war. Und zu dessen Tod am 6. August 1886:<blockquote>Wenngleich keiner seiner Schüler und ihm nicht näher bekannt, habe ich doch die Gelegenheit gehabt ihn persönlich kennen zu lernen und seine überwältigende Genialität zu bewundern.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1884-05-21",
+      "end_value": "1884-05-21"
+    },
+    "field_sources": [
+      "Brief an den Vater, 25. Mai 1884 und 22. August 1886"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8a4f587a-8869-4a59-83c7-3fdabbf3c6b4/node_type?resourceVersion=id%3A3784"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8a4f587a-8869-4a59-83c7-3fdabbf3c6b4/relationships/node_type?resourceVersion=id%3A3784"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8a4f587a-8869-4a59-83c7-3fdabbf3c6b4/revision_uid?resourceVersion=id%3A3784"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8a4f587a-8869-4a59-83c7-3fdabbf3c6b4/relationships/revision_uid?resourceVersion=id%3A3784"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8a4f587a-8869-4a59-83c7-3fdabbf3c6b4/uid?resourceVersion=id%3A3784"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8a4f587a-8869-4a59-83c7-3fdabbf3c6b4/relationships/uid?resourceVersion=id%3A3784"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8a4f587a-8869-4a59-83c7-3fdabbf3c6b4/field_event_type?resourceVersion=id%3A3784"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8a4f587a-8869-4a59-83c7-3fdabbf3c6b4/relationships/field_event_type?resourceVersion=id%3A3784"
+        }
+      }
+    }
+  }
+}

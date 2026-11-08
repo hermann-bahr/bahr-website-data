@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "fd79e503-3ffd-4aa4-be98-b209882261b6",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/fd79e503-3ffd-4aa4-be98-b209882261b6?resourceVersion=id%3A2594"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/fd79e503-3ffd-4aa4-be98-b209882261b6?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38773,
+    "drupal_internal__vid": 2594,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Parsifalschutz ohne Ausnahmegesetz",
+    "created": "2011-01-31T16:16:08+00:00",
+    "changed": "2011-10-11T08:45:05+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38773",
+      "pid": 521,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Copyrightfragen beschäftigen den eifrigen Besucher Bayreuths Bahr 1912: Wie kann es gehen, dass Bayreuth sein Monopol bei den Aufführungen der Wagner-Opern erhält. Die Texte erscheinen in Zeitungen im Juli und August 1912, die Buchausgabe im September[1].",
+      "format": "full_html",
+      "processed": "Copyrightfragen beschäftigen den eifrigen Besucher Bayreuths Bahr 1912: Wie kann es gehen, dass Bayreuth sein Monopol bei den Aufführungen der Wagner-Opern erhält. Die Texte erscheinen in Zeitungen im Juli und August 1912, die Buchausgabe im September[1].",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1912-09-17",
+      "end_value": "1912-09-17"
+    },
+    "field_sources": [
+      "[1] Bahr/Redlich, 83. (17.9.1912)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fd79e503-3ffd-4aa4-be98-b209882261b6/node_type?resourceVersion=id%3A2594"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fd79e503-3ffd-4aa4-be98-b209882261b6/relationships/node_type?resourceVersion=id%3A2594"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fd79e503-3ffd-4aa4-be98-b209882261b6/revision_uid?resourceVersion=id%3A2594"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fd79e503-3ffd-4aa4-be98-b209882261b6/relationships/revision_uid?resourceVersion=id%3A2594"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fd79e503-3ffd-4aa4-be98-b209882261b6/uid?resourceVersion=id%3A2594"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fd79e503-3ffd-4aa4-be98-b209882261b6/relationships/uid?resourceVersion=id%3A2594"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "29eb2d1e-f275-4ca0-a532-a2a05ef92e13",
+          "meta": {
+            "drupal_internal__target_id": 6
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fd79e503-3ffd-4aa4-be98-b209882261b6/field_event_type?resourceVersion=id%3A2594"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fd79e503-3ffd-4aa4-be98-b209882261b6/relationships/field_event_type?resourceVersion=id%3A2594"
+        }
+      }
+    }
+  }
+}

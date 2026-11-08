@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "02314442-4c12-4cb5-9ccd-ff1003566a51",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/02314442-4c12-4cb5-9ccd-ff1003566a51?resourceVersion=id%3A3533"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/02314442-4c12-4cb5-9ccd-ff1003566a51?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49762,
+    "drupal_internal__vid": 3533,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Otto Flake",
+    "created": "2012-01-09T13:45:32+00:00",
+    "changed": "2012-01-09T13:45:32+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49762",
+      "pid": 1574,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 30. Juni 1921 begegnet Bahr zum ersten Mal in seinem Leben Otto Flake. ",
+      "format": "full_html",
+      "processed": "Am 30. Juni 1921 begegnet Bahr zum ersten Mal in seinem Leben Otto Flake. ",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1921-06-30",
+      "end_value": "1921-06-30"
+    },
+    "field_sources": [
+      "Liebe der Lebenden, I, 209-215."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/02314442-4c12-4cb5-9ccd-ff1003566a51/node_type?resourceVersion=id%3A3533"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/02314442-4c12-4cb5-9ccd-ff1003566a51/relationships/node_type?resourceVersion=id%3A3533"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/02314442-4c12-4cb5-9ccd-ff1003566a51/revision_uid?resourceVersion=id%3A3533"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/02314442-4c12-4cb5-9ccd-ff1003566a51/relationships/revision_uid?resourceVersion=id%3A3533"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/02314442-4c12-4cb5-9ccd-ff1003566a51/uid?resourceVersion=id%3A3533"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/02314442-4c12-4cb5-9ccd-ff1003566a51/relationships/uid?resourceVersion=id%3A3533"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/02314442-4c12-4cb5-9ccd-ff1003566a51/field_event_type?resourceVersion=id%3A3533"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/02314442-4c12-4cb5-9ccd-ff1003566a51/relationships/field_event_type?resourceVersion=id%3A3533"
+        }
+      }
+    }
+  }
+}

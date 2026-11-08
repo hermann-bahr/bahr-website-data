@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "bd23b89b-466c-46c6-96b8-63a460d211af",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/bd23b89b-466c-46c6-96b8-63a460d211af?resourceVersion=id%3A3815"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/bd23b89b-466c-46c6-96b8-63a460d211af?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 81339,
+    "drupal_internal__vid": 3815,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Deutscher Klub",
+    "created": "2013-04-22T15:06:33+00:00",
+    "changed": "2013-04-22T15:06:33+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/81339",
+      "pid": 1879,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Für den 11. März 1910 ist ein Vortrag Hermann Bahrs im Deutschen Klub in London geplant, eine Lesung aus eigenen Werken.",
+      "format": "full_html",
+      "processed": "Für den 11. März 1910 ist ein Vortrag Hermann Bahrs im Deutschen Klub in London geplant, eine Lesung aus eigenen Werken.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1910-03-11",
+      "end_value": "1910-03-11"
+    },
+    "field_sources": [
+      "Briefe von C. Markus, Nachlass Bahr"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bd23b89b-466c-46c6-96b8-63a460d211af/node_type?resourceVersion=id%3A3815"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bd23b89b-466c-46c6-96b8-63a460d211af/relationships/node_type?resourceVersion=id%3A3815"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bd23b89b-466c-46c6-96b8-63a460d211af/revision_uid?resourceVersion=id%3A3815"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bd23b89b-466c-46c6-96b8-63a460d211af/relationships/revision_uid?resourceVersion=id%3A3815"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bd23b89b-466c-46c6-96b8-63a460d211af/uid?resourceVersion=id%3A3815"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bd23b89b-466c-46c6-96b8-63a460d211af/relationships/uid?resourceVersion=id%3A3815"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bd23b89b-466c-46c6-96b8-63a460d211af/field_event_type?resourceVersion=id%3A3815"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bd23b89b-466c-46c6-96b8-63a460d211af/relationships/field_event_type?resourceVersion=id%3A3815"
+        }
+      }
+    }
+  }
+}

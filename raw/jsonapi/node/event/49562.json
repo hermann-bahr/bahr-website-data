@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "988e8e07-4a39-4312-a06e-ab38016b6cc6",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/988e8e07-4a39-4312-a06e-ab38016b6cc6?resourceVersion=id%3A3395"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/988e8e07-4a39-4312-a06e-ab38016b6cc6?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49562,
+    "drupal_internal__vid": 3395,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Alma Mahler, Franz Werfel",
+    "created": "2011-11-02T16:25:15+00:00",
+    "changed": "2011-11-02T16:25:35+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49562",
+      "pid": 1379,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "\"Neulich\" hatte Bahr, vom 17. Jänner 1927 aus gesehen, Besuch von Alma Mahler und Franz Werfel.",
+      "format": "full_html",
+      "processed": "\"Neulich\" hatte Bahr, vom 17. Jänner 1927 aus gesehen, Besuch von Alma Mahler und Franz Werfel.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1927-01-17",
+      "end_value": "1927-01-17"
+    },
+    "field_sources": [
+      "Bahr/Redlich, 554."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/988e8e07-4a39-4312-a06e-ab38016b6cc6/node_type?resourceVersion=id%3A3395"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/988e8e07-4a39-4312-a06e-ab38016b6cc6/relationships/node_type?resourceVersion=id%3A3395"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/988e8e07-4a39-4312-a06e-ab38016b6cc6/revision_uid?resourceVersion=id%3A3395"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/988e8e07-4a39-4312-a06e-ab38016b6cc6/relationships/revision_uid?resourceVersion=id%3A3395"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/988e8e07-4a39-4312-a06e-ab38016b6cc6/uid?resourceVersion=id%3A3395"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/988e8e07-4a39-4312-a06e-ab38016b6cc6/relationships/uid?resourceVersion=id%3A3395"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/988e8e07-4a39-4312-a06e-ab38016b6cc6/field_event_type?resourceVersion=id%3A3395"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/988e8e07-4a39-4312-a06e-ab38016b6cc6/relationships/field_event_type?resourceVersion=id%3A3395"
+        }
+      }
+    }
+  }
+}

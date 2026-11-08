@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "538cfce3-ccf9-4d82-8c36-6b367d4c1f32",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/538cfce3-ccf9-4d82-8c36-6b367d4c1f32?resourceVersion=id%3A2914"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/538cfce3-ccf9-4d82-8c36-6b367d4c1f32?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39156,
+    "drupal_internal__vid": 2914,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Die Zeit, Vertrag II",
+    "created": "2011-07-11T11:41:38+00:00",
+    "changed": "2011-07-11T11:45:51+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39156",
+      "pid": 884,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Änderungen in der Eigentümer-Struktur der \"Zeit\" - Singer ist nunmehr Alleineigentümer - machen es nötig, dass Bahr am 17. 9. 1895 einen neuen Vertrag bekommt. Er ist weiterhin Hauptmitarbeiter des Feuilletons \"d.i. des künstlerischen, literarischen und wissenschaftlichen Theils des Blattes\" mit Ausnahme der Musik, für die er zukünftig nicht mehr zuständig ist. Er darf nicht an einer anderen periodischen, nicht rein wissenschaftlichen Zeitschrift mitarbeiten und darf seine in der \"Zeit\" erschienen Texte frühestens ein Jahr nach Abdruck wiederverwerten, wobei er auf den ersten Abdruck verweisen muss. Seine Texte dürfen nur mit seinem Namen, seiner bekannten Chiffre oder einem bekannten Pseudonym erscheinen. Als Honorar bekommt er am Monatsersten 350 fl. Kündigungen sind halbjährlich oder bei Auseinandersetzungen über Artikel möglich.",
+      "format": "full_html",
+      "processed": "Änderungen in der Eigentümer-Struktur der \"Zeit\" - Singer ist nunmehr Alleineigentümer - machen es nötig, dass Bahr am 17. 9. 1895 einen neuen Vertrag bekommt. Er ist weiterhin Hauptmitarbeiter des Feuilletons \"d.i. des künstlerischen, literarischen und wissenschaftlichen Theils des Blattes\" mit Ausnahme der Musik, für die er zukünftig nicht mehr zuständig ist. Er darf nicht an einer anderen periodischen, nicht rein wissenschaftlichen Zeitschrift mitarbeiten und darf seine in der \"Zeit\" erschienen Texte frühestens ein Jahr nach Abdruck wiederverwerten, wobei er auf den ersten Abdruck verweisen muss. Seine Texte dürfen nur mit seinem Namen, seiner bekannten Chiffre oder einem bekannten Pseudonym erscheinen. Als Honorar bekommt er am Monatsersten 350 fl. Kündigungen sind halbjährlich oder bei Auseinandersetzungen über Artikel möglich.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1895-09-17",
+      "end_value": "1895-09-17"
+    },
+    "field_sources": [
+      "Brief Singers an Bahr, 17.9.1895 in: Die Zeit und die tschechische Moderne, 329."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/538cfce3-ccf9-4d82-8c36-6b367d4c1f32/node_type?resourceVersion=id%3A2914"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/538cfce3-ccf9-4d82-8c36-6b367d4c1f32/relationships/node_type?resourceVersion=id%3A2914"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/538cfce3-ccf9-4d82-8c36-6b367d4c1f32/revision_uid?resourceVersion=id%3A2914"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/538cfce3-ccf9-4d82-8c36-6b367d4c1f32/relationships/revision_uid?resourceVersion=id%3A2914"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/538cfce3-ccf9-4d82-8c36-6b367d4c1f32/uid?resourceVersion=id%3A2914"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/538cfce3-ccf9-4d82-8c36-6b367d4c1f32/relationships/uid?resourceVersion=id%3A2914"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "d579e54c-64dd-4193-a9ef-da87efb3ed16",
+          "meta": {
+            "drupal_internal__target_id": 8
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/538cfce3-ccf9-4d82-8c36-6b367d4c1f32/field_event_type?resourceVersion=id%3A2914"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/538cfce3-ccf9-4d82-8c36-6b367d4c1f32/relationships/field_event_type?resourceVersion=id%3A2914"
+        }
+      }
+    }
+  }
+}

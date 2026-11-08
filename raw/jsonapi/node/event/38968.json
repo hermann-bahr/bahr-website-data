@@ -1,0 +1,119 @@
+{
+  "type": "node--event",
+  "id": "4eac448b-d6cc-42a3-8a6a-8db84f2965c3",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/4eac448b-d6cc-42a3-8a6a-8db84f2965c3?resourceVersion=id%3A2752"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/4eac448b-d6cc-42a3-8a6a-8db84f2965c3?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38968,
+    "drupal_internal__vid": 2752,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Frauenfragen",
+    "created": "2011-03-16T15:08:18+00:00",
+    "changed": "2012-11-13T13:30:31+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38968",
+      "pid": 706,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<blockquote>Hermann Bahr, der, einer Einladung des Budapester Feministenvereins Folge leistend, heute im Royalsaale vor einem großen gewählten Auditorium einen Vortrag über Frauenfragen hielt […] Später fand ein Bankett zu Ehren Bahrs statt.[1]</blockquote>",
+      "format": "full_html",
+      "processed": "<blockquote>Hermann Bahr, der, einer Einladung des Budapester Feministenvereins Folge leistend, heute im Royalsaale vor einem großen gewählten Auditorium einen Vortrag über Frauenfragen hielt […] Später fand ein Bankett zu Ehren Bahrs statt.[1]</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1911-11-04",
+      "end_value": "1911-11-04"
+    },
+    "field_sources": [
+      "[1] Aus einem händisch mit 4.11.1911 datierten Zeitungsbericht, Theatermuseum Wien, ZMBa29, Vorlesungen II.",
+      "Rezension: Pester Lloyd, 58 (1911) #262, 8. (4.11.1911) ",
+      "Berliner Tageblatt, 40 (1911) #564, Abend-Ausgabe, 3. (4.11.1911)",
+      "Briefe von Vilma Glücklich im Nachlass Bahrs"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4eac448b-d6cc-42a3-8a6a-8db84f2965c3/node_type?resourceVersion=id%3A2752"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4eac448b-d6cc-42a3-8a6a-8db84f2965c3/relationships/node_type?resourceVersion=id%3A2752"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4eac448b-d6cc-42a3-8a6a-8db84f2965c3/revision_uid?resourceVersion=id%3A2752"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4eac448b-d6cc-42a3-8a6a-8db84f2965c3/relationships/revision_uid?resourceVersion=id%3A2752"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4eac448b-d6cc-42a3-8a6a-8db84f2965c3/uid?resourceVersion=id%3A2752"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4eac448b-d6cc-42a3-8a6a-8db84f2965c3/relationships/uid?resourceVersion=id%3A2752"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4eac448b-d6cc-42a3-8a6a-8db84f2965c3/field_event_type?resourceVersion=id%3A2752"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4eac448b-d6cc-42a3-8a6a-8db84f2965c3/relationships/field_event_type?resourceVersion=id%3A2752"
+        }
+      }
+    }
+  }
+}

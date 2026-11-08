@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="forschung__forschungsnotizen__wo-bahr-draufsteht-ist-nicht-bahr-drin" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Wo Bahr draufsteht, ist nicht Bahr drin</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">17878</idno>
+        <idno type="drupal-alias">/article/17878</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/article/17878">https://bahr.univie.ac.at/article/17878</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="6" key="forschung">Forschung</term>
+          <term n="4" key="forschungsnotizen">Forschungsnotizen</term>
+          <term n="22" key="wo-bahr-draufsteht-ist-nicht-bahr-drin" type="eintrag">Wo Bahr draufsteht, ist nicht Bahr drin</term>
+        </keywords>
+        <classCode scheme="drupal-type">article</classCode>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2010-02-03T23:41:35+00:00" type="created">angelegt in Drupal</change>
+      <change when="2011-12-15T10:33:28+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Es musste passieren. Der erste Mal, dass wir eine Fälschung unter dem Namen Bahr haben: Das Tagebuch in der Münchner Jugend, 13 (1908) #47, 1113 ist falsch (zu finden in den Text-Downloads). Eine weitere findet sich, verfasst von Hans Heinrich Twardowski, in der Weltbühne, 14 (1918) #39, 290 vom 26. September 1918 (<ref target="http://www.archive.org/stream/DieWeltbhne14-21918#page/n301/mode/2up">Text</ref>). Diese wurde am 4. Oktober sogar nachgedruckt in Bahrs richtigem Tagebuch-Blatt, im Neuen Wiener Journal (#275, 4). Um eine Mystifikation handelt es sich auch bei der Welttournee Hermann Bahrs, auf die die Prager Faschings-Zeitung (Bohemia) ihn schickte: Er spricht in Lappland ("Warum sind die Lappländer die intelligenteste Nation der Welt?"), in Mekka ("Warum sind die Araber die intelligenteste Nation der Welt?") und in Kapstadt ("Warum sind die Buschmänner die intelligenteste Nation der Welt?").</p>
+      </div>
+    </body>
+  </text>
+</TEI>

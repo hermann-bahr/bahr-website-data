@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="forschung__forschungsnotizen__gegen-klimt" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Gegen Klimt</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">64208</idno>
+        <idno type="drupal-alias">/article/64208</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/article/64208">https://bahr.univie.ac.at/article/64208</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="6" key="forschung">Forschung</term>
+          <term n="4" key="forschungsnotizen">Forschungsnotizen</term>
+          <term n="6" key="gegen-klimt" type="eintrag">Gegen Klimt</term>
+        </keywords>
+        <classCode scheme="drupal-type">article</classCode>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2012-05-10T13:28:12+00:00" type="created">angelegt in Drupal</change>
+      <change when="2013-04-09T10:15:08+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <figure>
+          <graphic url="https://bahr.univie.ac.at/sites/all/blog/nuda.jpg"/>
+          <figDesc>Gustav Klimt - Nuda Veritas - Ausschnitt</figDesc>
+        </figure>
+        <p>Im Österreichischen Theatermuseum läuft von 10. Mai bis zum 29. Oktober 2012 die Ausstellung "Gegen Klimt. Die 'Nuda Veritas' und ihr Verteidiger Hermann Bahr." Kuratiert wurde sie von Kurt Ifkovits und Andreas Kugler. Als Höhepunkte können die Entschlüsselung der Kompilatorenzuschreibung von "Gegen Klimt" (Bahr, Burckhardt, Kolo Moser und vor allem Fritz Wärndorfer), die Zusammenführung der "Hexe" mit der Originaltür aus dem Haus Bahr, die Olbrich-Pläne dieses Hauses sowie die Ermittlung der Haar- und Beinvorlage der "Nuda" gelten.</p>
+      </div>
+      <div>
+        <head>Links</head>
+        <p><ref target="http://www.theatermuseum.at/ausstellungen/vorschau/gegen-klimt/?back=%2Fausstellungen%2Faktuell%2F&amp;open=5328&amp;cHash=cbf53c628cab418845c3fad607969138">Österreichisches Theatermuseum </ref><ref target="kritische-schriften__rede-ueber-klimt-1901.xml">Rede über Klimt</ref> <ref target="bibliografie__herausgaben__gegen-klimt.xml">Gegen Klimt</ref> <ref target="forschung__auswahlbibliografie-klimt.xml">Themenbibliografie zu Bahr und Klimt</ref></p>
+      </div>
+      <div>
+        <head>Ausstellungsbesprechungen</head>
+        <p>Die Presse, 10.5.2012 <ref target="http://diepresse.com/home/kultur/kunst/756368/Seltener-Ausgang-fuer-Klimts-Nackte-Wahrheit?from=gl.home_kultur">Link</ref> Wiener Zeitung, <ref target="http://www.wienerzeitung.at/themen_channel/wzkunstgriff/kunst/456832_Kritische-Ikone.html">Link</ref> APA-Meldung auf: Der Standard <ref target="http://derstandard.at/1336563122513/Theatermuseum-Ausstellung-Gegen-Klimt">Link</ref></p>
+      </div>
+    </body>
+  </text>
+</TEI>

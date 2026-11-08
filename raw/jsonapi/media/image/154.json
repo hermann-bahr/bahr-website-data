@@ -1,0 +1,118 @@
+{
+  "type": "media--image",
+  "id": "74c39fd7-6257-4f2c-ab13-de870d3b5672",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/media/image/74c39fd7-6257-4f2c-ab13-de870d3b5672?resourceVersion=id%3A154"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/media/image/74c39fd7-6257-4f2c-ab13-de870d3b5672?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__mid": 154,
+    "drupal_internal__vid": 154,
+    "langcode": "de",
+    "revision_created": "2020-02-18T15:16:19+00:00",
+    "status": true,
+    "name": "1923_petermaler",
+    "created": "2020-02-18T15:16:19+00:00",
+    "changed": "2020-02-18T15:16:19+00:00",
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": null,
+      "pid": null,
+      "langcode": "de"
+    }
+  },
+  "relationships": {
+    "bundle": {
+      "data": {
+        "type": "media_type--media_type",
+        "id": "b82aabb6-e7a1-420d-b98b-5b981c2d920e",
+        "meta": {
+          "drupal_internal__target_id": "image"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/74c39fd7-6257-4f2c-ab13-de870d3b5672/bundle?resourceVersion=id%3A154"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/74c39fd7-6257-4f2c-ab13-de870d3b5672/relationships/bundle?resourceVersion=id%3A154"
+        }
+      }
+    },
+    "revision_user": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/74c39fd7-6257-4f2c-ab13-de870d3b5672/revision_user?resourceVersion=id%3A154"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/74c39fd7-6257-4f2c-ab13-de870d3b5672/relationships/revision_user?resourceVersion=id%3A154"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/74c39fd7-6257-4f2c-ab13-de870d3b5672/uid?resourceVersion=id%3A154"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/74c39fd7-6257-4f2c-ab13-de870d3b5672/relationships/uid?resourceVersion=id%3A154"
+        }
+      }
+    },
+    "thumbnail": {
+      "data": {
+        "type": "file--file",
+        "id": "0f94a05f-a611-47ab-b571-6aab8b407bb8",
+        "meta": {
+          "alt": "1923 Karikatur",
+          "title": null,
+          "width": 1476,
+          "height": 2334,
+          "drupal_internal__target_id": 215
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/74c39fd7-6257-4f2c-ab13-de870d3b5672/thumbnail?resourceVersion=id%3A154"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/74c39fd7-6257-4f2c-ab13-de870d3b5672/relationships/thumbnail?resourceVersion=id%3A154"
+        }
+      }
+    },
+    "field_media_image": {
+      "data": {
+        "type": "file--file",
+        "id": "0f94a05f-a611-47ab-b571-6aab8b407bb8",
+        "meta": {
+          "alt": "1923 Karikatur",
+          "title": "1923_petermaler",
+          "width": 1476,
+          "height": 2334,
+          "drupal_internal__target_id": 215
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/74c39fd7-6257-4f2c-ab13-de870d3b5672/field_media_image?resourceVersion=id%3A154"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/74c39fd7-6257-4f2c-ab13-de870d3b5672/relationships/field_media_image?resourceVersion=id%3A154"
+        }
+      }
+    }
+  }
+}

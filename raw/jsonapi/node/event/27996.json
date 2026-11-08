@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "1d1f0d14-f383-40f2-9a30-6714d52bad1c",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/1d1f0d14-f383-40f2-9a30-6714d52bad1c?resourceVersion=id%3A2329"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/1d1f0d14-f383-40f2-9a30-6714d52bad1c?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27996,
+    "drupal_internal__vid": 2329,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Lammgasse 3",
+    "created": "2010-07-27T14:24:15+00:00",
+    "changed": "2011-07-11T11:03:28+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/27996",
+      "pid": 163,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 8. Mai 1894 übersiedelt Bahr in die Lammgasse 3 im 8. Wiener Gemeindebezirk. Im Wiener Adressverzeichnis Lehmann steht 1895:\r\n<blockquote>Bahr Hermann, Her. d. Wr. Wochenschrift \"Die Zeit\", VII, Lamm. 3 (1-2) T.</blockquote> Wobei das letztere T bedeutet, dass er über einen Telefonanschluss verfügte. Dieses hatte die Nummer 4531 und war nur für Innerortsgespräche frei geschalten, da so die Grundgebühr niederer war.\r\n",
+      "format": "full_html",
+      "processed": "Am 8. Mai 1894 übersiedelt Bahr in die Lammgasse 3 im 8. Wiener Gemeindebezirk. Im Wiener Adressverzeichnis Lehmann steht 1895:\n<blockquote>Bahr Hermann, Her. d. Wr. Wochenschrift \"Die Zeit\", VII, Lamm. 3 (1-2) T.</blockquote> Wobei das letztere T bedeutet, dass er über einen Telefonanschluss verfügte. Dieses hatte die Nummer 4531 und war nur für Innerortsgespräche frei geschalten, da so die Grundgebühr niederer war.\n",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1894-05-08",
+      "end_value": "1894-05-08"
+    },
+    "field_sources": [
+      "Adressverzeichnis Lehmann 1895, II, 30.",
+      "Brief an den Vater, 26.11.1894",
+      "Brief an den Vater, 13.5.1894"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1d1f0d14-f383-40f2-9a30-6714d52bad1c/node_type?resourceVersion=id%3A2329"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1d1f0d14-f383-40f2-9a30-6714d52bad1c/relationships/node_type?resourceVersion=id%3A2329"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1d1f0d14-f383-40f2-9a30-6714d52bad1c/revision_uid?resourceVersion=id%3A2329"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1d1f0d14-f383-40f2-9a30-6714d52bad1c/relationships/revision_uid?resourceVersion=id%3A2329"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1d1f0d14-f383-40f2-9a30-6714d52bad1c/uid?resourceVersion=id%3A2329"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1d1f0d14-f383-40f2-9a30-6714d52bad1c/relationships/uid?resourceVersion=id%3A2329"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1d1f0d14-f383-40f2-9a30-6714d52bad1c/field_event_type?resourceVersion=id%3A2329"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1d1f0d14-f383-40f2-9a30-6714d52bad1c/relationships/field_event_type?resourceVersion=id%3A2329"
+        }
+      }
+    }
+  }
+}

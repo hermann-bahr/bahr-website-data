@@ -1,0 +1,36 @@
+{
+  "type": "file--file",
+  "id": "754a9c84-94f9-470f-8a28-d6b744ccca0b",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/file/file/754a9c84-94f9-470f-8a28-d6b744ccca0b"
+    }
+  },
+  "attributes": {
+    "drupal_internal__fid": 212,
+    "langcode": "de",
+    "filename": "1900_keller-2.jpg",
+    "uri": {
+      "value": "public://bahr_bilder/1900_keller-2.jpg",
+      "url": "/sites/default/files/bahr_bilder/1900_keller-2.jpg"
+    },
+    "filemime": "image/jpeg",
+    "filesize": 430412,
+    "status": true,
+    "created": "2020-02-18T15:00:35+00:00",
+    "changed": "2020-02-18T15:11:43+00:00"
+  },
+  "relationships": {
+    "uid": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/file/file/754a9c84-94f9-470f-8a28-d6b744ccca0b/uid"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/file/file/754a9c84-94f9-470f-8a28-d6b744ccca0b/relationships/uid"
+        }
+      }
+    }
+  }
+}

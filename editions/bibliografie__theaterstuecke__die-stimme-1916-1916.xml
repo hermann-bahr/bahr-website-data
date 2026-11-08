@@ -1,0 +1,144 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bibliografie__theaterstuecke__die-stimme-1916-1916" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Die Stimme (1916 / 1916)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">49676</idno>
+        <idno type="drupal-alias">/bibliografie/49676</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bibliografie/49676">https://bahr.univie.ac.at/bibliografie/49676</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+        <bibl type="beschriebene-ausgabe">
+          <author>Hermann Bahr</author>
+          <title type="main">Die Stimme</title>
+          <title type="sub">Schauspiel in 3 Aufzügen</title>
+          <pubPlace>Berlin</pubPlace>
+          <publisher>S. Fischer</publisher>
+          <date>1916</date>
+          <extent>140</extent>
+          <edition>2. Aufl. 1917</edition>
+          <editor role="translator">Holländisch: De stem. Tooneelspel in drie bedrijven. Vertaald door Herman Van Overbeke. Kortrijk: Jos. Vermaut 1925</editor>
+          <note>"Dem Hochwürdigen Herrn Pater Heribert Holzapfel O. F. M. in herzlicher Dankbarkeit. Salzburg, Fronleichnam 1916". Holzapfel bedankt sich am 19. September 1916 brieflich für drei Exemplare, die ihm zugegangen sind (Nachlass Bahr, A18964BaM).</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="1" key="bibliografie">Bibliografie</term>
+          <term n="2" key="theaterstuecke">Theaterstücke</term>
+          <term n="29" key="die-stimme-1916-1916" type="eintrag">Die Stimme (1916 / 1916)</term>
+        </keywords>
+        <classCode scheme="drupal-type">bibliographie</classCode>
+        <keywords scheme="bibliografie_type">
+          <term>Theaterstücke</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2011-11-23T13:21:06+00:00" type="created">angelegt in Drupal</change>
+      <change when="2012-11-14T09:47:57+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="bib">
+        <head>Bibliografie</head>
+        <table type="bibliografie">
+          <row>
+            <cell>Autor:</cell>
+            <cell>Hermann Bahr</cell>
+          </row>
+          <row>
+            <cell>Titel:</cell>
+            <cell>Die Stimme</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>Schauspiel in 3 Aufzügen</cell>
+          </row>
+          <row>
+            <cell>Ort:</cell>
+            <cell>Berlin</cell>
+          </row>
+          <row>
+            <cell>Verlag:</cell>
+            <cell>S. Fischer</cell>
+          </row>
+          <row>
+            <cell>Jahr:</cell>
+            <cell>1916</cell>
+          </row>
+          <row>
+            <cell>Seiten:</cell>
+            <cell>140</cell>
+          </row>
+          <row>
+            <cell>Aufl.:</cell>
+            <cell>2. Aufl. 1917</cell>
+          </row>
+          <row>
+            <cell>Übers.:</cell>
+            <cell>Holländisch: De stem. Tooneelspel in drie bedrijven. Vertaald door Herman Van Overbeke. Kortrijk: Jos. Vermaut 1925</cell>
+          </row>
+          <row>
+            <cell>Anm.:</cell>
+            <cell>"Dem Hochwürdigen Herrn Pater Heribert Holzapfel O. F. M. in herzlicher Dankbarkeit. Salzburg, Fronleichnam 1916". Holzapfel bedankt sich am 19. September 1916 brieflich für drei Exemplare, die ihm zugegangen sind (Nachlass Bahr, A18964BaM).</cell>
+          </row>
+        </table>
+      </div>
+      <div xml:id="manuskript">
+        <head>Bühnenmanuskript</head>
+        <table type="bibliografie">
+          <row>
+            <cell>Autor:</cell>
+            <cell>Hermann Bahr</cell>
+          </row>
+          <row>
+            <cell>Titel:</cell>
+            <cell>Die Stimme</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>Schauspiel in drei Aufzügen</cell>
+          </row>
+          <row>
+            <cell>Ort:</cell>
+            <cell>Berlin</cell>
+          </row>
+          <row>
+            <cell>Verlag:</cell>
+            <cell>Ahn &amp; Simrock</cell>
+          </row>
+          <row>
+            <cell>Jahr:</cell>
+            <cell>1916</cell>
+          </row>
+          <row>
+            <cell>Seiten:</cell>
+            <cell>107</cell>
+          </row>
+        </table>
+      </div>
+      <div xml:id="auff">
+        <head>Inszenierungen</head>
+        <p>18.10.1916 Uraufführung Kölner Schauspielhaus 18.10.1916 Uraufführung Darmstadt, mit Anna Bahr-Mildenburg, eine weitere Auff. am 24. 29.11. und 2.12.1916 Frankfurt, mit Mildenburg 9.11.1918 Deutsches Volkstheater, Wien, Regie Bernhard Reich</p>
+      </div>
+      <div xml:id="rezens">
+        <head>Rezensionen</head>
+        <p>K.[asimir] E.[dschmid]: „Die Stimme“. Uraufführung der Schauspiels von Hermann Bahr im Darmstädter Hoftheater. In: Frankfurter Zeitung, 61 (1916) #290, Erstes Morgenblatt, 2. (19.10.1916) [Urauff. Darmstadt] Kölnische Volkszeitung, 19.10.1916 [Urauff. Köln] Karl Muth: Der Roman des Katholizismus. In: Hochland, 14 (1916) #Oktober, 110. [Sammelrezension, Buch gerade aus der Presse] Carl Enders in: Das literarische Echo, 19 (1916) #4, 223-224. [Urauff. Köln] M. [=Karl Muth] in: Hochland, 14 (1916) #November, 250-253. [Rez. der Urauff. Darmstadt] C. A. Piper: "Bahrs Damaskusdrama 'Die Stimme'" in: Hamburger Nachrichten, 9.5.1017. Hamburger Fremdenblatt, 9.5.1917 Wiener Zeitung, 1918 #260, 5. (10.11.1918) Anton Kuh in: Morgenzeitung, 6 (1918) #317, 2. (15.11.1918) H. in: Die Monarchie (Das neue Reich), 1 (1918) #10, 156. (5.12.1918) [Wiener Auff.]</p>
+      </div>
+      <div xml:id="www">
+        <head>Digitalisate</head>
+        <p>
+          <ref target="http://www.archive.org/search.php?query=bahr%20stimme">Link</ref>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

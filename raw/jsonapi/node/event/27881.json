@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "41709464-cf51-40a0-9ae7-238ac93fc5e1",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/41709464-cf51-40a0-9ae7-238ac93fc5e1?resourceVersion=id%3A2232"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/41709464-cf51-40a0-9ae7-238ac93fc5e1?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27881,
+    "drupal_internal__vid": 2232,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Minna Bahr ✝",
+    "created": "2010-06-21T14:21:48+00:00",
+    "changed": "2011-10-18T15:04:17+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/27881",
+      "pid": 65,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 15. Mai 1902 stirbt Wilhelmine (Minna) Bahr, geborene Weidlich. Das Neue Wiener Tagblatt schreibt:\r\n<blockquote><strong>* (Frau Minna Bahr)</strong> Unser College Hermann Bahr hat einen schweren Verlust erlitten. In Salzburg ist heute seine Mutter, die Notarswitwe Frau Minna Bahr, gestorben.</blockquote>\r\nBahr selbst in seinem Tagebuch, Camus' \"Der Fremde\" antizipierend:\r\n<blockquote>\"Mama gestorben.\"</blockquote>In seinem Selbstbildnis berichtet er, wie sie am Totenbett aussah.",
+      "format": "full_html",
+      "processed": "Am 15. Mai 1902 stirbt Wilhelmine (Minna) Bahr, geborene Weidlich. Das Neue Wiener Tagblatt schreibt:\n<blockquote><strong>* (Frau Minna Bahr)</strong> Unser College Hermann Bahr hat einen schweren Verlust erlitten. In Salzburg ist heute seine Mutter, die Notarswitwe Frau Minna Bahr, gestorben.</blockquote>\nBahr selbst in seinem Tagebuch, Camus' \"Der Fremde\" antizipierend:\n<blockquote>\"Mama gestorben.\"</blockquote>In seinem Selbstbildnis berichtet er, wie sie am Totenbett aussah.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1902-05-15",
+      "end_value": "1902-05-15"
+    },
+    "field_sources": [
+      "Neues Wiener Journal, 36 (1902) #134, 3. (16.5.1902)",
+      "Tagebücher (Csàky)",
+      "Selbstbildnis, 18."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/41709464-cf51-40a0-9ae7-238ac93fc5e1/node_type?resourceVersion=id%3A2232"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/41709464-cf51-40a0-9ae7-238ac93fc5e1/relationships/node_type?resourceVersion=id%3A2232"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/41709464-cf51-40a0-9ae7-238ac93fc5e1/revision_uid?resourceVersion=id%3A2232"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/41709464-cf51-40a0-9ae7-238ac93fc5e1/relationships/revision_uid?resourceVersion=id%3A2232"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/41709464-cf51-40a0-9ae7-238ac93fc5e1/uid?resourceVersion=id%3A2232"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/41709464-cf51-40a0-9ae7-238ac93fc5e1/relationships/uid?resourceVersion=id%3A2232"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/41709464-cf51-40a0-9ae7-238ac93fc5e1/field_event_type?resourceVersion=id%3A2232"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/41709464-cf51-40a0-9ae7-238ac93fc5e1/relationships/field_event_type?resourceVersion=id%3A2232"
+        }
+      }
+    }
+  }
+}

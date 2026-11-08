@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "132d59dd-fa25-4856-9193-1f594b4564be",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/132d59dd-fa25-4856-9193-1f594b4564be?resourceVersion=id%3A3061"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/132d59dd-fa25-4856-9193-1f594b4564be?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44145,
+    "drupal_internal__vid": 3061,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "AS, HvH, B.-H.",
+    "created": "2011-09-14T13:56:20+00:00",
+    "changed": "2011-09-14T13:56:20+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44145",
+      "pid": 1040,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<blockquote>11/11 [1894] Nach der Première der Pantomime Buckelhans (Nachm. Josefst.) Bahr, Loris, Richard bei mir.</blockquote>",
+      "format": "full_html",
+      "processed": "<blockquote>11/11 [1894] Nach der Première der Pantomime Buckelhans (Nachm. Josefst.) Bahr, Loris, Richard bei mir.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1894-11-11",
+      "end_value": "1894-11-11"
+    },
+    "field_sources": [
+      "Schnitzler: Tagebuch, II, 99."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/132d59dd-fa25-4856-9193-1f594b4564be/node_type?resourceVersion=id%3A3061"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/132d59dd-fa25-4856-9193-1f594b4564be/relationships/node_type?resourceVersion=id%3A3061"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/132d59dd-fa25-4856-9193-1f594b4564be/revision_uid?resourceVersion=id%3A3061"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/132d59dd-fa25-4856-9193-1f594b4564be/relationships/revision_uid?resourceVersion=id%3A3061"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/132d59dd-fa25-4856-9193-1f594b4564be/uid?resourceVersion=id%3A3061"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/132d59dd-fa25-4856-9193-1f594b4564be/relationships/uid?resourceVersion=id%3A3061"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/132d59dd-fa25-4856-9193-1f594b4564be/field_event_type?resourceVersion=id%3A3061"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/132d59dd-fa25-4856-9193-1f594b4564be/relationships/field_event_type?resourceVersion=id%3A3061"
+        }
+      }
+    }
+  }
+}

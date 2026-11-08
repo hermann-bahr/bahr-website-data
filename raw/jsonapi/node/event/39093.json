@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "95c7f123-318f-43df-921f-85d7a9d3758a",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/95c7f123-318f-43df-921f-85d7a9d3758a?resourceVersion=id%3A2867"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/95c7f123-318f-43df-921f-85d7a9d3758a?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39093,
+    "drupal_internal__vid": 2867,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Deutschland und Österreich",
+    "created": "2011-05-18T15:37:10+00:00",
+    "changed": "2012-07-10T10:51:49+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39093",
+      "pid": 824,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Im Neuen Theater in Frankfurt spricht Bahr am 17. Jänner 1916 über \"Deutschland und Österreich\". Den selben Vortrag wird er wenige Wochen später in München halten, gedruckt erscheint er in \"Schwarzgelb\".",
+      "format": "full_html",
+      "processed": "Im Neuen Theater in Frankfurt spricht Bahr am 17. Jänner 1916 über \"Deutschland und Österreich\". Den selben Vortrag wird er wenige Wochen später in München halten, gedruckt erscheint er in \"Schwarzgelb\".",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1916-01-17",
+      "end_value": "1916-01-17"
+    },
+    "field_sources": [
+      "Jahresbericht des Düsseldorfer Schauspielhauses, Sonstige Veranstaltungen: 17.01.1916, Hermann Bahr: Deutschland und Österreich. Masken. Zeitschrift für deutsche Theaterkultur, 11 (1916) #20, 327. ",
+      "Auszug aus der Besprechung in der Frankfurter Zeitung: Hermann Bahr über Deutschland und Österreich. Salzburger Volksblatt, 46 (1916) #13, 4. (18.1.1916)",
+      "Bahr/Redlich, 149."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/95c7f123-318f-43df-921f-85d7a9d3758a/node_type?resourceVersion=id%3A2867"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/95c7f123-318f-43df-921f-85d7a9d3758a/relationships/node_type?resourceVersion=id%3A2867"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/95c7f123-318f-43df-921f-85d7a9d3758a/revision_uid?resourceVersion=id%3A2867"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/95c7f123-318f-43df-921f-85d7a9d3758a/relationships/revision_uid?resourceVersion=id%3A2867"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/95c7f123-318f-43df-921f-85d7a9d3758a/uid?resourceVersion=id%3A2867"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/95c7f123-318f-43df-921f-85d7a9d3758a/relationships/uid?resourceVersion=id%3A2867"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/95c7f123-318f-43df-921f-85d7a9d3758a/field_event_type?resourceVersion=id%3A2867"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/95c7f123-318f-43df-921f-85d7a9d3758a/relationships/field_event_type?resourceVersion=id%3A2867"
+        }
+      }
+    }
+  }
+}

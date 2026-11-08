@@ -1,0 +1,114 @@
+{
+  "type": "node--event",
+  "id": "e6821cc2-3423-4e1f-8d7f-64cc806e7984",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/e6821cc2-3423-4e1f-8d7f-64cc806e7984?resourceVersion=id%3A2481"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/e6821cc2-3423-4e1f-8d7f-64cc806e7984?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28172,
+    "drupal_internal__vid": 2481,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Rudolf Holzer",
+    "created": "2010-09-01T14:48:06+00:00",
+    "changed": "2010-09-01T14:48:06+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28172",
+      "pid": 318,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Rudolf Holzer berichtet in seinem Feuilleton \"Winterfahrt\", 2. Teil, das am 30. März 1915 in der Wiener Abendpost (#72, 1-3 hier 2) erschien, dass er auf der Reise auch bei Bahr in Salzburg vorbeischaute, wo nunmehr die \"Nuda Veritas\" in einem holzgetäfelten Rittersaal aufgestellt ist. Bahr selbst beschreibt er als glücklich, weil er eine Frau habe, die ihm alles sei, Musik und \"die innere Freiheit eines Lebenskünstlers, der sich zum Siege durchgerungen hat.\"",
+      "format": "full_html",
+      "processed": "Rudolf Holzer berichtet in seinem Feuilleton \"Winterfahrt\", 2. Teil, das am 30. März 1915 in der Wiener Abendpost (#72, 1-3 hier 2) erschien, dass er auf der Reise auch bei Bahr in Salzburg vorbeischaute, wo nunmehr die \"Nuda Veritas\" in einem holzgetäfelten Rittersaal aufgestellt ist. Bahr selbst beschreibt er als glücklich, weil er eine Frau habe, die ihm alles sei, Musik und \"die innere Freiheit eines Lebenskünstlers, der sich zum Siege durchgerungen hat.\"",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1915-03-30",
+      "end_value": "1915-03-30"
+    },
+    "field_sources": []
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e6821cc2-3423-4e1f-8d7f-64cc806e7984/node_type?resourceVersion=id%3A2481"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e6821cc2-3423-4e1f-8d7f-64cc806e7984/relationships/node_type?resourceVersion=id%3A2481"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e6821cc2-3423-4e1f-8d7f-64cc806e7984/revision_uid?resourceVersion=id%3A2481"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e6821cc2-3423-4e1f-8d7f-64cc806e7984/relationships/revision_uid?resourceVersion=id%3A2481"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e6821cc2-3423-4e1f-8d7f-64cc806e7984/uid?resourceVersion=id%3A2481"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e6821cc2-3423-4e1f-8d7f-64cc806e7984/relationships/uid?resourceVersion=id%3A2481"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e6821cc2-3423-4e1f-8d7f-64cc806e7984/field_event_type?resourceVersion=id%3A2481"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e6821cc2-3423-4e1f-8d7f-64cc806e7984/relationships/field_event_type?resourceVersion=id%3A2481"
+        }
+      }
+    }
+  }
+}

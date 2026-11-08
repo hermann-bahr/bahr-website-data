@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "00d1e1a6-9f87-4469-9fff-560965daa22a",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/00d1e1a6-9f87-4469-9fff-560965daa22a?resourceVersion=id%3A2365"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/00d1e1a6-9f87-4469-9fff-560965daa22a?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28033,
+    "drupal_internal__vid": 2365,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Das Veilchen",
+    "created": "2010-07-28T11:04:18+00:00",
+    "changed": "2012-11-14T09:13:40+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28033",
+      "pid": 199,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Während seines Berlinaufenthalts 1890 arbeitet Bahr an einem Schwank, den er auch setzen lässt und von dem er hofft, ihn im S. Fischer-Verlag veröffentlichen zu können. Ein gedrucktes Exemplar mit handschriftlichen Änderungen ist über den Nachlass Bahrs in die Bibliothek des Österreichischen Theatermuseums gekommen, ein eigentlicher Druck für den Buchhandel dürfte hingegen nie stattgefunden haben. (Die vom Katalog der Österreichischen Nationalbibliothek vorgenommene Zuschreibung an den S. Fischer-Verlag ist insofern falsch, als Bahr den Verlag nur handschriftlich dazuschrieb, vermutlich als Entwurf für das endgültige Titelblatt.)\r\n\r\nDas Stück handelt von einer vernachlässigten Ehefrau, die die Aufmerksamkeit des Ehemanns erwirkt, indem sie mit einer Affaire mit dem Hausfreund kokettiert.",
+      "format": "full_html",
+      "processed": "Während seines Berlinaufenthalts 1890 arbeitet Bahr an einem Schwank, den er auch setzen lässt und von dem er hofft, ihn im S. Fischer-Verlag veröffentlichen zu können. Ein gedrucktes Exemplar mit handschriftlichen Änderungen ist über den Nachlass Bahrs in die Bibliothek des Österreichischen Theatermuseums gekommen, ein eigentlicher Druck für den Buchhandel dürfte hingegen nie stattgefunden haben. (Die vom Katalog der Österreichischen Nationalbibliothek vorgenommene Zuschreibung an den S. Fischer-Verlag ist insofern falsch, als Bahr den Verlag nur handschriftlich dazuschrieb, vermutlich als Entwurf für das endgültige Titelblatt.)\n\nDas Stück handelt von einer vernachlässigten Ehefrau, die die Aufmerksamkeit des Ehemanns erwirkt, indem sie mit einer Affaire mit dem Hausfreund kokettiert.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1890-07-01",
+      "end_value": "1890-07-01"
+    },
+    "field_sources": [
+      "Hermann Bahr: Das Veilchen. Schwank in drei Aufzügen. Berlin:  1890.",
+      "(Hier auf Mitte 1890 datiert)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/00d1e1a6-9f87-4469-9fff-560965daa22a/node_type?resourceVersion=id%3A2365"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/00d1e1a6-9f87-4469-9fff-560965daa22a/relationships/node_type?resourceVersion=id%3A2365"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/00d1e1a6-9f87-4469-9fff-560965daa22a/revision_uid?resourceVersion=id%3A2365"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/00d1e1a6-9f87-4469-9fff-560965daa22a/relationships/revision_uid?resourceVersion=id%3A2365"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/00d1e1a6-9f87-4469-9fff-560965daa22a/uid?resourceVersion=id%3A2365"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/00d1e1a6-9f87-4469-9fff-560965daa22a/relationships/uid?resourceVersion=id%3A2365"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "27f3d2a4-8970-4726-9ab8-ce37707ec1bc",
+          "meta": {
+            "drupal_internal__target_id": 1
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/00d1e1a6-9f87-4469-9fff-560965daa22a/field_event_type?resourceVersion=id%3A2365"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/00d1e1a6-9f87-4469-9fff-560965daa22a/relationships/field_event_type?resourceVersion=id%3A2365"
+        }
+      }
+    }
+  }
+}

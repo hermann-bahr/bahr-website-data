@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "9350886a-5218-4d3d-8747-5f469b628451",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/9350886a-5218-4d3d-8747-5f469b628451?resourceVersion=id%3A2224"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/9350886a-5218-4d3d-8747-5f469b628451?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27872,
+    "drupal_internal__vid": 2224,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Südfrankreich, Spanien und Marokko",
+    "created": "2010-06-21T09:22:58+00:00",
+    "changed": "2011-11-18T14:45:46+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/27872",
+      "pid": 57,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Im Abschluss seines Aufenthalts in Paris finanziert ihm sein Vater eine Reise in den Süden. Sie beginnt am 20. September 1889. Stationen: Blois, 21.-22.9.; Tours, 23.9., Bordeaux, 24.9., weiter über Toulouse nach Pau, 5.10, Biarritz, 6. (mehrtägiger Aufenthalt); Valladolid, 20.10; Madrid, 26.10. (nimmt sich ein Zimmer in der Calle Ciudad Rodrigo 9). Weiterreise um den 10. Dezember, über Cordoba und Toledo nach Sevilla. Den Jahreswechsel verbringt er in Cadix. Am 20. Jänner 1890 ist er in Tanger, am 12. Februar wieder auf den Weg: Gibraltar, Malaga, Oran und dann Marseille verläuft die Schifffahrt. Sie bringt ihn Ende Februar 1890 nach Paris zurück.",
+      "format": "full_html",
+      "processed": "Im Abschluss seines Aufenthalts in Paris finanziert ihm sein Vater eine Reise in den Süden. Sie beginnt am 20. September 1889. Stationen: Blois, 21.-22.9.; Tours, 23.9., Bordeaux, 24.9., weiter über Toulouse nach Pau, 5.10, Biarritz, 6. (mehrtägiger Aufenthalt); Valladolid, 20.10; Madrid, 26.10. (nimmt sich ein Zimmer in der Calle Ciudad Rodrigo 9). Weiterreise um den 10. Dezember, über Cordoba und Toledo nach Sevilla. Den Jahreswechsel verbringt er in Cadix. Am 20. Jänner 1890 ist er in Tanger, am 12. Februar wieder auf den Weg: Gibraltar, Malaga, Oran und dann Marseille verläuft die Schifffahrt. Sie bringt ihn Ende Februar 1890 nach Paris zurück.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1889-09-20",
+      "end_value": "1890-02-28"
+    },
+    "field_sources": [
+      "Termine Anhand des Briefwechsels mit dem Vater in Abschrift im Nachlass",
+      "Selbstbildnis, Kapitel 21"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9350886a-5218-4d3d-8747-5f469b628451/node_type?resourceVersion=id%3A2224"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9350886a-5218-4d3d-8747-5f469b628451/relationships/node_type?resourceVersion=id%3A2224"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9350886a-5218-4d3d-8747-5f469b628451/revision_uid?resourceVersion=id%3A2224"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9350886a-5218-4d3d-8747-5f469b628451/relationships/revision_uid?resourceVersion=id%3A2224"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9350886a-5218-4d3d-8747-5f469b628451/uid?resourceVersion=id%3A2224"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9350886a-5218-4d3d-8747-5f469b628451/relationships/uid?resourceVersion=id%3A2224"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9350886a-5218-4d3d-8747-5f469b628451/field_event_type?resourceVersion=id%3A2224"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9350886a-5218-4d3d-8747-5f469b628451/relationships/field_event_type?resourceVersion=id%3A2224"
+        }
+      }
+    }
+  }
+}

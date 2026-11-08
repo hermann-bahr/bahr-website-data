@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "1dafc323-47ca-4c52-ab7a-517f7c285b8d",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/1dafc323-47ca-4c52-ab7a-517f7c285b8d?resourceVersion=id%3A2474"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/1dafc323-47ca-4c52-ab7a-517f7c285b8d?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28162,
+    "drupal_internal__vid": 2474,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Thomas Manns Briefe",
+    "created": "2010-08-30T11:57:22+00:00",
+    "changed": "2011-11-03T10:26:10+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28162",
+      "pid": 310,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Anna Bahr-Mildenburg bittet am 25. Mai 1936 Thomas Mann um Rückgabe der Korrespondenz, die er \"auf offener Karte über seine Beraubung\" aufklärt.",
+      "format": "full_html",
+      "processed": "Anna Bahr-Mildenburg bittet am 25. Mai 1936 Thomas Mann um Rückgabe der Korrespondenz, die er \"auf offener Karte über seine Beraubung\" aufklärt.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1936-05-25",
+      "end_value": "1936-05-25"
+    },
+    "field_sources": [
+      "Tagebuch Thomas Mann, III, 306."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1dafc323-47ca-4c52-ab7a-517f7c285b8d/node_type?resourceVersion=id%3A2474"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1dafc323-47ca-4c52-ab7a-517f7c285b8d/relationships/node_type?resourceVersion=id%3A2474"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1dafc323-47ca-4c52-ab7a-517f7c285b8d/revision_uid?resourceVersion=id%3A2474"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1dafc323-47ca-4c52-ab7a-517f7c285b8d/relationships/revision_uid?resourceVersion=id%3A2474"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1dafc323-47ca-4c52-ab7a-517f7c285b8d/uid?resourceVersion=id%3A2474"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1dafc323-47ca-4c52-ab7a-517f7c285b8d/relationships/uid?resourceVersion=id%3A2474"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1dafc323-47ca-4c52-ab7a-517f7c285b8d/field_event_type?resourceVersion=id%3A2474"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1dafc323-47ca-4c52-ab7a-517f7c285b8d/relationships/field_event_type?resourceVersion=id%3A2474"
+        }
+      }
+    }
+  }
+}

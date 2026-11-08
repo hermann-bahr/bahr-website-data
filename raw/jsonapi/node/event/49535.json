@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "151b8746-3ad1-49e3-addb-ee0559edd542",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/151b8746-3ad1-49e3-addb-ee0559edd542?resourceVersion=id%3A3368"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/151b8746-3ad1-49e3-addb-ee0559edd542?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49535,
+    "drupal_internal__vid": 3368,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Katholik und Welt",
+    "created": "2011-10-28T12:59:34+00:00",
+    "changed": "2011-10-28T13:02:41+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49535",
+      "pid": 1352,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Redlich gegenüber kündigt Bahr an, dass er \"Samstags\", also am 10. November 1923 nach Salzburg fahre, die \"gewohnte\" Festrede bei der Jahresversammlung des katholischen Universitätsvereins zu halten. Am 12. hält er seinen Vortrag \"Katholik und Welt\".",
+      "format": "full_html",
+      "processed": "Redlich gegenüber kündigt Bahr an, dass er \"Samstags\", also am 10. November 1923 nach Salzburg fahre, die \"gewohnte\" Festrede bei der Jahresversammlung des katholischen Universitätsvereins zu halten. Am 12. hält er seinen Vortrag \"Katholik und Welt\".",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1923-11-12",
+      "end_value": "1923-11-12"
+    },
+    "field_sources": [
+      "Bahr/Redlich, 506.",
+      "Hermann Bahr: Katholik und Welt. Das Neue Reich, 6 (1923) #8, 152-153. (24.11.1923)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/151b8746-3ad1-49e3-addb-ee0559edd542/node_type?resourceVersion=id%3A3368"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/151b8746-3ad1-49e3-addb-ee0559edd542/relationships/node_type?resourceVersion=id%3A3368"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/151b8746-3ad1-49e3-addb-ee0559edd542/revision_uid?resourceVersion=id%3A3368"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/151b8746-3ad1-49e3-addb-ee0559edd542/relationships/revision_uid?resourceVersion=id%3A3368"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/151b8746-3ad1-49e3-addb-ee0559edd542/uid?resourceVersion=id%3A3368"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/151b8746-3ad1-49e3-addb-ee0559edd542/relationships/uid?resourceVersion=id%3A3368"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/151b8746-3ad1-49e3-addb-ee0559edd542/field_event_type?resourceVersion=id%3A3368"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/151b8746-3ad1-49e3-addb-ee0559edd542/relationships/field_event_type?resourceVersion=id%3A3368"
+        }
+      }
+    }
+  }
+}

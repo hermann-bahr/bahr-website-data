@@ -1,0 +1,119 @@
+{
+  "type": "node--event",
+  "id": "dea77dd6-f113-4aac-8419-349e23571c45",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/dea77dd6-f113-4aac-8419-349e23571c45?resourceVersion=id%3A2290"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/dea77dd6-f113-4aac-8419-349e23571c45?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27949,
+    "drupal_internal__vid": 2290,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Das österreichische Wunder / Deutschland und Österreich",
+    "created": "2010-07-19T14:53:32+00:00",
+    "changed": "2012-07-05T21:06:17+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/27949",
+      "pid": 124,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahrs rege Vortragstätigkeit während der Kriegsjahre führte ihn am 18. März 1915 zu einem Auftritt in Stuttgart, initiiert von der \"Lese\", die den Vortrag in ihrem Heft abdruckte und im Juni separat veröffentlichte. Im Heft heißt es über den anders betitelten Vortrag: Bahr sprach \"'Deutschland und Österreich' vor sehr zahlreichem Publikum, das er durch seine temperamentvollen Ausführungen in große Begeisterung zu setzen wußte.\"",
+      "format": "full_html",
+      "processed": "Bahrs rege Vortragstätigkeit während der Kriegsjahre führte ihn am 18. März 1915 zu einem Auftritt in Stuttgart, initiiert von der \"Lese\", die den Vortrag in ihrem Heft abdruckte und im Juni separat veröffentlichte. Im Heft heißt es über den anders betitelten Vortrag: Bahr sprach \"'Deutschland und Österreich' vor sehr zahlreichem Publikum, das er durch seine temperamentvollen Ausführungen in große Begeisterung zu setzen wußte.\"",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1915-03-18",
+      "end_value": "1915-03-18"
+    },
+    "field_sources": [
+      "Kriegsvorträge der Kriegs-Lese. Die Lese, 6 (1915) #14, 222-223.",
+      "Das österreichische Wunder. Einladung nach Salzburg. Stuttgart: Die Lese 1915, 3-36.\r\n",
+      "[O. N.]: Hermann Bahr in Stuttgart. In: Stuttgarter Neues Tagblatt, 72 (1915) #140, Morgen-Ausgabe, 2.",
+      "[O. N.]: Vortrag Hermann Bahrs in Stuttgart zum Thema \"Deutschland und Österreich\". In: Frankfurter Zeitung, 59 (1915) #143, MA, 3. (19.03.1915)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/dea77dd6-f113-4aac-8419-349e23571c45/node_type?resourceVersion=id%3A2290"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/dea77dd6-f113-4aac-8419-349e23571c45/relationships/node_type?resourceVersion=id%3A2290"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/dea77dd6-f113-4aac-8419-349e23571c45/revision_uid?resourceVersion=id%3A2290"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/dea77dd6-f113-4aac-8419-349e23571c45/relationships/revision_uid?resourceVersion=id%3A2290"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/dea77dd6-f113-4aac-8419-349e23571c45/uid?resourceVersion=id%3A2290"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/dea77dd6-f113-4aac-8419-349e23571c45/relationships/uid?resourceVersion=id%3A2290"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/dea77dd6-f113-4aac-8419-349e23571c45/field_event_type?resourceVersion=id%3A2290"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/dea77dd6-f113-4aac-8419-349e23571c45/relationships/field_event_type?resourceVersion=id%3A2290"
+        }
+      }
+    }
+  }
+}

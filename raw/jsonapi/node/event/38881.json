@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "992f1817-b0ea-4f72-8d6a-d99a426428cd",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/992f1817-b0ea-4f72-8d6a-d99a426428cd?resourceVersion=id%3A2691"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/992f1817-b0ea-4f72-8d6a-d99a426428cd?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38881,
+    "drupal_internal__vid": 2691,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Ibsen-Bankett",
+    "created": "2011-02-23T11:49:42+00:00",
+    "changed": "2012-10-15T08:34:24+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38881",
+      "pid": 624,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Ibsen reist zur ersten Aufführung seiner \"Kronprätendenten\" am 11. April 1891 nach Wien an. Im Anschluss veranstalten die Herausgeber der \"Modernen Dichtung\" ein Bankett zu Ehren des Dichters im \"Kaiserhof\". Ibsen erschien mit Burckhard um 11. Die Gesellschaft bestand aus 120 Leuten, vor allem aus der Belegschaft des Burgtheaters oder der \"jungen naturalistischen Schule\" angehörend, wie die Neue Freie Presse schrieb. Ibsen wurde zwischen Richard Voß und Burckhard gesetzt. Georg Reimers sprach ein für diesen Anlass verfasstes Gedicht Felix Dörmanns, Marie Pospischil und Max Devrient ehrten den Dichter in Versen, Professor Jakob Minor hielt die Festrede, auch Burkhard hielt eine Rede und Engelbert Pernerstorfer lobte in einem Toast Ibsens politische Gesinnung. Bahr:\r\n<blockquote>Damit war Jungösterreich öffentlich erschienen. Aus den Händen Ibsens übernahm ich es.</blockquote>",
+      "format": "full_html",
+      "processed": "Ibsen reist zur ersten Aufführung seiner \"Kronprätendenten\" am 11. April 1891 nach Wien an. Im Anschluss veranstalten die Herausgeber der \"Modernen Dichtung\" ein Bankett zu Ehren des Dichters im \"Kaiserhof\". Ibsen erschien mit Burckhard um 11. Die Gesellschaft bestand aus 120 Leuten, vor allem aus der Belegschaft des Burgtheaters oder der \"jungen naturalistischen Schule\" angehörend, wie die Neue Freie Presse schrieb. Ibsen wurde zwischen Richard Voß und Burckhard gesetzt. Georg Reimers sprach ein für diesen Anlass verfasstes Gedicht Felix Dörmanns, Marie Pospischil und Max Devrient ehrten den Dichter in Versen, Professor Jakob Minor hielt die Festrede, auch Burkhard hielt eine Rede und Engelbert Pernerstorfer lobte in einem Toast Ibsens politische Gesinnung. Bahr:\n<blockquote>Damit war Jungösterreich öffentlich erschienen. Aus den Händen Ibsens übernahm ich es.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1891-04-11",
+      "end_value": "1891-04-11"
+    },
+    "field_sources": [
+      "Neue Freie Presse, #9564, Morgenblatt, 5 und #9565, Abendblatt, 1. (12. und 13.4.1891)",
+      "Selbstbildnis, 278.",
+      "Felix Dörmann: Erinnerung an Henrik Ibsen. Neues Wiener Journal, 29 (1921) #9850, 3-4. (10.4.1921)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/992f1817-b0ea-4f72-8d6a-d99a426428cd/node_type?resourceVersion=id%3A2691"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/992f1817-b0ea-4f72-8d6a-d99a426428cd/relationships/node_type?resourceVersion=id%3A2691"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/992f1817-b0ea-4f72-8d6a-d99a426428cd/revision_uid?resourceVersion=id%3A2691"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/992f1817-b0ea-4f72-8d6a-d99a426428cd/relationships/revision_uid?resourceVersion=id%3A2691"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/992f1817-b0ea-4f72-8d6a-d99a426428cd/uid?resourceVersion=id%3A2691"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/992f1817-b0ea-4f72-8d6a-d99a426428cd/relationships/uid?resourceVersion=id%3A2691"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/992f1817-b0ea-4f72-8d6a-d99a426428cd/field_event_type?resourceVersion=id%3A2691"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/992f1817-b0ea-4f72-8d6a-d99a426428cd/relationships/field_event_type?resourceVersion=id%3A2691"
+        }
+      }
+    }
+  }
+}

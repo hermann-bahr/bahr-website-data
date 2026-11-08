@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "bd49f573-6dd0-4f9a-b2b2-14bdc21752b5",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/bd49f573-6dd0-4f9a-b2b2-14bdc21752b5?resourceVersion=id%3A3461"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/bd49f573-6dd0-4f9a-b2b2-14bdc21752b5?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49636,
+    "drupal_internal__vid": 3461,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Felix Hollaender",
+    "created": "2011-11-18T16:13:51+00:00",
+    "changed": "2012-10-05T12:23:01+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49636",
+      "pid": 1451,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Die Freundschaft zu Felix Hollaender rührt aus Bahrs Zeit in Berlin 1890 her. <blockquote>Ich kann mich kaum eines anderen Jünglings von solcher Beredsamkeit horchenden Schweigens entsinnen, in das gehüllt, lauschend vorgebeugt, ganz Ohr, damals Felix Hollaender unter uns saß, jeden Blick, jedes Wort, allen Geist gleichsam einsaugend, aufsaugend und selber nur antwortend durch ein Aufleuchten innerer Erregung. Er hat dann später beim Theater schon auch dreinreden gelernt, aber die Kraft der unbeschreiblichen Intensität, Geist aufzunehmen und in eigenes Leben, persönliches Erleben umzusetzen, ja sozusagen sich davon durchbluten zu lassen, ist ihm geblieben. Noch die letzte Nacht, bevor ich von Berlin schied, saß er, während ich packte, bei mir, und unvergeßlich ist mir das Fieber, das den in Gier geduckt lauschenden Jüngling zu verzehren schien.</blockquote>",
+      "format": "full_html",
+      "processed": "Die Freundschaft zu Felix Hollaender rührt aus Bahrs Zeit in Berlin 1890 her. <blockquote>Ich kann mich kaum eines anderen Jünglings von solcher Beredsamkeit horchenden Schweigens entsinnen, in das gehüllt, lauschend vorgebeugt, ganz Ohr, damals Felix Hollaender unter uns saß, jeden Blick, jedes Wort, allen Geist gleichsam einsaugend, aufsaugend und selber nur antwortend durch ein Aufleuchten innerer Erregung. Er hat dann später beim Theater schon auch dreinreden gelernt, aber die Kraft der unbeschreiblichen Intensität, Geist aufzunehmen und in eigenes Leben, persönliches Erleben umzusetzen, ja sozusagen sich davon durchbluten zu lassen, ist ihm geblieben. Noch die letzte Nacht, bevor ich von Berlin schied, saß er, während ich packte, bei mir, und unvergeßlich ist mir das Fieber, das den in Gier geduckt lauschenden Jüngling zu verzehren schien.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1890-05-01",
+      "end_value": "1890-05-01"
+    },
+    "field_sources": [
+      "Selbstbildnis, 269-270",
+      "Hermann Bahr: An Felix Holländer. Vossische Zeitung, (1917) #557, Abend-Ausgabe, 2 und 5. (31.10.1917) Buchausgabe: Als \"Holländer\" in: Bilderbuch, 103-106\r\n",
+      "(Hier auf ersten Mai 1890 datiert)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bd49f573-6dd0-4f9a-b2b2-14bdc21752b5/node_type?resourceVersion=id%3A3461"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bd49f573-6dd0-4f9a-b2b2-14bdc21752b5/relationships/node_type?resourceVersion=id%3A3461"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bd49f573-6dd0-4f9a-b2b2-14bdc21752b5/revision_uid?resourceVersion=id%3A3461"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bd49f573-6dd0-4f9a-b2b2-14bdc21752b5/relationships/revision_uid?resourceVersion=id%3A3461"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bd49f573-6dd0-4f9a-b2b2-14bdc21752b5/uid?resourceVersion=id%3A3461"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bd49f573-6dd0-4f9a-b2b2-14bdc21752b5/relationships/uid?resourceVersion=id%3A3461"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bd49f573-6dd0-4f9a-b2b2-14bdc21752b5/field_event_type?resourceVersion=id%3A3461"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bd49f573-6dd0-4f9a-b2b2-14bdc21752b5/relationships/field_event_type?resourceVersion=id%3A3461"
+        }
+      }
+    }
+  }
+}

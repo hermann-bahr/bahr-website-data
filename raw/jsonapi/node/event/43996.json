@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "7cba6125-6d8c-4202-9aad-0b8c55c113ec",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/7cba6125-6d8c-4202-9aad-0b8c55c113ec?resourceVersion=id%3A2923"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/7cba6125-6d8c-4202-9aad-0b8c55c113ec?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 43996,
+    "drupal_internal__vid": 2923,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Rosa Jokl",
+    "created": "2011-07-13T10:10:37+00:00",
+    "changed": "2012-12-07T11:49:04+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/43996",
+      "pid": 896,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Schnitzler notiert sich im Tagebuch am 13. Jänner 1895 über einen Klatsch, der von der Schauspielerin Rosa Jokl, Künstlername Rosa Joël, herumgetragen wurde: <blockquote> Joël (eine kleine Schauspielerin, jetzt Bahr's Geliebte)</blockquote> Wenige Wochen später wird daraus Bahrs erste Ehefrau. Über die Gründe, warum die Heirat so rasch und auch gegen den Widerstand von Bahrs Familie durchgeführt wird, lässt sich nur spekulieren. Eine Schwangerschaft wäre naheliegend, wenngleich es keine Beweise dafür gibt.",
+      "format": "full_html",
+      "processed": "Schnitzler notiert sich im Tagebuch am 13. Jänner 1895 über einen Klatsch, der von der Schauspielerin Rosa Jokl, Künstlername Rosa Joël, herumgetragen wurde: <blockquote> Joël (eine kleine Schauspielerin, jetzt Bahr's Geliebte)</blockquote> Wenige Wochen später wird daraus Bahrs erste Ehefrau. Über die Gründe, warum die Heirat so rasch und auch gegen den Widerstand von Bahrs Familie durchgeführt wird, lässt sich nur spekulieren. Eine Schwangerschaft wäre naheliegend, wenngleich es keine Beweise dafür gibt.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1895-01-13",
+      "end_value": "1895-01-13"
+    },
+    "field_sources": [
+      "Hier zitiert nach: Adele Sandrock und Arthur Schnitzler. Geschichte einer Liebe in Briefen, Bildern und Dokumenten. Zusammengestellt von Renate Wagner. Frankfurt/Main: Fischer Taschenbuch 1983, 189."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7cba6125-6d8c-4202-9aad-0b8c55c113ec/node_type?resourceVersion=id%3A2923"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7cba6125-6d8c-4202-9aad-0b8c55c113ec/relationships/node_type?resourceVersion=id%3A2923"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7cba6125-6d8c-4202-9aad-0b8c55c113ec/revision_uid?resourceVersion=id%3A2923"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7cba6125-6d8c-4202-9aad-0b8c55c113ec/relationships/revision_uid?resourceVersion=id%3A2923"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7cba6125-6d8c-4202-9aad-0b8c55c113ec/uid?resourceVersion=id%3A2923"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7cba6125-6d8c-4202-9aad-0b8c55c113ec/relationships/uid?resourceVersion=id%3A2923"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7cba6125-6d8c-4202-9aad-0b8c55c113ec/field_event_type?resourceVersion=id%3A2923"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7cba6125-6d8c-4202-9aad-0b8c55c113ec/relationships/field_event_type?resourceVersion=id%3A2923"
+        }
+      }
+    }
+  }
+}

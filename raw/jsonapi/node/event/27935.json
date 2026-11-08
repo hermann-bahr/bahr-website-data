@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "fc48f8ce-5fc0-429b-b4a1-0e49abe97b1f",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/fc48f8ce-5fc0-429b-b4a1-0e49abe97b1f?resourceVersion=id%3A2277"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/fc48f8ce-5fc0-429b-b4a1-0e49abe97b1f?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27935,
+    "drupal_internal__vid": 2277,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Gegen Klimt",
+    "created": "2010-07-19T11:12:06+00:00",
+    "changed": "2012-07-06T19:05:17+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/27935",
+      "pid": 111,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 9. November 1903 hält Bahr dieses Buch in der Hand, das neben einem Vorwort Bahrs auch eine Zusammenstellung mit Kritiken Klimts in verschiedenen Zeitungen erhielt. Diese ist ebenfalls von Bahr unternommen worden, wie er sich in einem späteren \"Tagebuch\" erinnert: <blockquote>Eine Zeit darauf saßen nämlich Burckhard, Kolo Moser und ich einmal beisammen und machten uns den Spaß, aus den schönsten Blüten Wiener Klimtkritik einen Kranz zu flechten. Um das Büchl ist wirklich schad, das müßten alle jungen Maler haben, es ist so trostreich.</blockquote>",
+      "format": "full_html",
+      "processed": "Am 9. November 1903 hält Bahr dieses Buch in der Hand, das neben einem Vorwort Bahrs auch eine Zusammenstellung mit Kritiken Klimts in verschiedenen Zeitungen erhielt. Diese ist ebenfalls von Bahr unternommen worden, wie er sich in einem späteren \"Tagebuch\" erinnert: <blockquote>Eine Zeit darauf saßen nämlich Burckhard, Kolo Moser und ich einmal beisammen und machten uns den Spaß, aus den schönsten Blüten Wiener Klimtkritik einen Kranz zu flechten. Um das Büchl ist wirklich schad, das müßten alle jungen Maler haben, es ist so trostreich.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1903-11-09",
+      "end_value": "1903-11-09"
+    },
+    "field_sources": [
+      "Tagebuch 1918, 7.2.1918"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fc48f8ce-5fc0-429b-b4a1-0e49abe97b1f/node_type?resourceVersion=id%3A2277"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fc48f8ce-5fc0-429b-b4a1-0e49abe97b1f/relationships/node_type?resourceVersion=id%3A2277"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fc48f8ce-5fc0-429b-b4a1-0e49abe97b1f/revision_uid?resourceVersion=id%3A2277"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fc48f8ce-5fc0-429b-b4a1-0e49abe97b1f/relationships/revision_uid?resourceVersion=id%3A2277"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fc48f8ce-5fc0-429b-b4a1-0e49abe97b1f/uid?resourceVersion=id%3A2277"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fc48f8ce-5fc0-429b-b4a1-0e49abe97b1f/relationships/uid?resourceVersion=id%3A2277"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "da42ac4a-f48f-4397-af4d-b66e913825fb",
+          "meta": {
+            "drupal_internal__target_id": 3
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fc48f8ce-5fc0-429b-b4a1-0e49abe97b1f/field_event_type?resourceVersion=id%3A2277"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fc48f8ce-5fc0-429b-b4a1-0e49abe97b1f/relationships/field_event_type?resourceVersion=id%3A2277"
+        }
+      }
+    }
+  }
+}

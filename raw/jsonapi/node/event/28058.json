@@ -1,0 +1,114 @@
+{
+  "type": "node--event",
+  "id": "3ee7840b-f0ec-4b33-be54-1f28ae662aef",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/3ee7840b-f0ec-4b33-be54-1f28ae662aef?resourceVersion=id%3A2387"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/3ee7840b-f0ec-4b33-be54-1f28ae662aef?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28058,
+    "drupal_internal__vid": 2387,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Kritik der Gegenwart",
+    "created": "2010-08-06T09:26:52+00:00",
+    "changed": "2010-08-06T09:26:52+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28058",
+      "pid": 221,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Obwohl  die \"Tagebücher\" die Tage vom 16. November 1919 bis zum 14. Dezember 1920 abdecken, erscheinen sie erst 1922 in Buchform, diesmal wiederum bei einem neuen Verleger, Haas & Grabherr in Leipzig.",
+      "format": "full_html",
+      "processed": "Obwohl  die \"Tagebücher\" die Tage vom 16. November 1919 bis zum 14. Dezember 1920 abdecken, erscheinen sie erst 1922 in Buchform, diesmal wiederum bei einem neuen Verleger, Haas &amp; Grabherr in Leipzig.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1922-01-01",
+      "end_value": "1922-01-01"
+    },
+    "field_sources": []
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3ee7840b-f0ec-4b33-be54-1f28ae662aef/node_type?resourceVersion=id%3A2387"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3ee7840b-f0ec-4b33-be54-1f28ae662aef/relationships/node_type?resourceVersion=id%3A2387"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3ee7840b-f0ec-4b33-be54-1f28ae662aef/revision_uid?resourceVersion=id%3A2387"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3ee7840b-f0ec-4b33-be54-1f28ae662aef/relationships/revision_uid?resourceVersion=id%3A2387"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3ee7840b-f0ec-4b33-be54-1f28ae662aef/uid?resourceVersion=id%3A2387"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3ee7840b-f0ec-4b33-be54-1f28ae662aef/relationships/uid?resourceVersion=id%3A2387"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "b7b074bd-6489-4a96-84e9-9c8184cda171",
+          "meta": {
+            "drupal_internal__target_id": 7
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3ee7840b-f0ec-4b33-be54-1f28ae662aef/field_event_type?resourceVersion=id%3A2387"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3ee7840b-f0ec-4b33-be54-1f28ae662aef/relationships/field_event_type?resourceVersion=id%3A2387"
+        }
+      }
+    }
+  }
+}

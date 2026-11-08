@@ -1,0 +1,90 @@
+{
+  "type": "node--page",
+  "id": "530b718a-6e29-40fe-99df-774c202556c9",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/page/530b718a-6e29-40fe-99df-774c202556c9?resourceVersion=id%3A4150"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/page/530b718a-6e29-40fe-99df-774c202556c9?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 9598,
+    "drupal_internal__vid": 4150,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-27T14:55:51+00:00",
+    "status": true,
+    "title": "Bibliografie der Schriften zum Theater",
+    "created": "2010-01-12T13:00:12+00:00",
+    "changed": "2020-02-27T14:55:51+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/bibliografie-der-schriften-zum-theater",
+      "pid": 16,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<p>Bahrs Beschäftigung mit dem Theater zieht sich über sein ganzes Leben. Die von Zeitgenossen teilweise hämisch kommentierten Interessenskonflikte zwischen Bahr dem Bühnenautor und Bahr dem Bühnenkritiker verschleiern den Blick darauf, dass Bahrs theoretische Überlegungen zum Theater bedeutender und nachhaltiger Diskurse bestimmten, als die meisten seiner Stücke. Zusätzlich zu den von Kurt Thomasberger geführten acht Einträgen ergänzen nunmehr zwei dem Umfeld des Wagnerschen Musiktheaters zuzuordnende Bücher die Kategorie.</p>\r\n",
+      "format": "full_html",
+      "processed": "<p>Bahrs Beschäftigung mit dem Theater zieht sich über sein ganzes Leben. Die von Zeitgenossen teilweise hämisch kommentierten Interessenskonflikte zwischen Bahr dem Bühnenautor und Bahr dem Bühnenkritiker verschleiern den Blick darauf, dass Bahrs theoretische Überlegungen zum Theater bedeutender und nachhaltiger Diskurse bestimmten, als die meisten seiner Stücke. Zusätzlich zu den von Kurt Thomasberger geführten acht Einträgen ergänzen nunmehr zwei dem Umfeld des Wagnerschen Musiktheaters zuzuordnende Bücher die Kategorie.</p>\n",
+      "summary": ""
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "016d417b-5c75-4303-8420-18e221e9e269",
+        "meta": {
+          "drupal_internal__target_id": "page"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/530b718a-6e29-40fe-99df-774c202556c9/node_type?resourceVersion=id%3A4150"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/530b718a-6e29-40fe-99df-774c202556c9/relationships/node_type?resourceVersion=id%3A4150"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "2ba5c1f1-fadb-4c07-a22f-4a6ddefa93fe",
+        "meta": {
+          "drupal_internal__target_id": 4
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/530b718a-6e29-40fe-99df-774c202556c9/revision_uid?resourceVersion=id%3A4150"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/530b718a-6e29-40fe-99df-774c202556c9/relationships/revision_uid?resourceVersion=id%3A4150"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/530b718a-6e29-40fe-99df-774c202556c9/uid?resourceVersion=id%3A4150"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/530b718a-6e29-40fe-99df-774c202556c9/relationships/uid?resourceVersion=id%3A4150"
+        }
+      }
+    }
+  }
+}

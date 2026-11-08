@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "bb08d8a7-dab9-47e1-9966-1365ab1ed030",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/bb08d8a7-dab9-47e1-9966-1365ab1ed030?resourceVersion=id%3A3656"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/bb08d8a7-dab9-47e1-9966-1365ab1ed030?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 64266,
+    "drupal_internal__vid": 3656,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "AS, Olga, Salten",
+    "created": "2012-06-04T14:51:09+00:00",
+    "changed": "2012-06-04T14:51:09+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/64266",
+      "pid": 1699,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 30. Juni 1905 besucht Bahr mit Arthur und Olga Schnitzler Salten in Pötzleinsdorf.",
+      "format": "full_html",
+      "processed": "Am 30. Juni 1905 besucht Bahr mit Arthur und Olga Schnitzler Salten in Pötzleinsdorf.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1905-06-06",
+      "end_value": "1905-06-06"
+    },
+    "field_sources": [
+      "Bahr: Tagebücher (Csàky), IV, 423.",
+      "Schnitzler: Tagebücher, III, 144."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bb08d8a7-dab9-47e1-9966-1365ab1ed030/node_type?resourceVersion=id%3A3656"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bb08d8a7-dab9-47e1-9966-1365ab1ed030/relationships/node_type?resourceVersion=id%3A3656"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bb08d8a7-dab9-47e1-9966-1365ab1ed030/revision_uid?resourceVersion=id%3A3656"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bb08d8a7-dab9-47e1-9966-1365ab1ed030/relationships/revision_uid?resourceVersion=id%3A3656"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bb08d8a7-dab9-47e1-9966-1365ab1ed030/uid?resourceVersion=id%3A3656"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bb08d8a7-dab9-47e1-9966-1365ab1ed030/relationships/uid?resourceVersion=id%3A3656"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bb08d8a7-dab9-47e1-9966-1365ab1ed030/field_event_type?resourceVersion=id%3A3656"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bb08d8a7-dab9-47e1-9966-1365ab1ed030/relationships/field_event_type?resourceVersion=id%3A3656"
+        }
+      }
+    }
+  }
+}

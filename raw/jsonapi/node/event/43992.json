@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "624caf16-036d-439e-b9b9-dac412cf0a9b",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/624caf16-036d-439e-b9b9-dac412cf0a9b?resourceVersion=id%3A2920"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/624caf16-036d-439e-b9b9-dac412cf0a9b?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 43992,
+    "drupal_internal__vid": 2920,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Steuererklärung",
+    "created": "2011-07-12T17:32:15+00:00",
+    "changed": "2011-07-12T17:32:15+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/43992",
+      "pid": 892,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 13.7.1902 schreibt Schnitzler an Bahr, dass er aufgefordert wurde, über Bahrs Einkommen Auskunft zu geben. Bahr schickt Schnitzler ein Formular mit Angaben, das Schnitzler weitergibt. Daviau vermutet, dass diese zweite Steuerüberprüfung nach einer ähnlichen Anfrage bei Freunden im Vorjahr eine Folge des Prozesses Kraus/Bukovics/Bahr sein könnte.",
+      "format": "full_html",
+      "processed": "Am 13.7.1902 schreibt Schnitzler an Bahr, dass er aufgefordert wurde, über Bahrs Einkommen Auskunft zu geben. Bahr schickt Schnitzler ein Formular mit Angaben, das Schnitzler weitergibt. Daviau vermutet, dass diese zweite Steuerüberprüfung nach einer ähnlichen Anfrage bei Freunden im Vorjahr eine Folge des Prozesses Kraus/Bukovics/Bahr sein könnte.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1902-07-13",
+      "end_value": "1902-07-13"
+    },
+    "field_sources": [
+      "Schnitzler/Bahr, 76. (13.7.1902) und Anm."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/624caf16-036d-439e-b9b9-dac412cf0a9b/node_type?resourceVersion=id%3A2920"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/624caf16-036d-439e-b9b9-dac412cf0a9b/relationships/node_type?resourceVersion=id%3A2920"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/624caf16-036d-439e-b9b9-dac412cf0a9b/revision_uid?resourceVersion=id%3A2920"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/624caf16-036d-439e-b9b9-dac412cf0a9b/relationships/revision_uid?resourceVersion=id%3A2920"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/624caf16-036d-439e-b9b9-dac412cf0a9b/uid?resourceVersion=id%3A2920"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/624caf16-036d-439e-b9b9-dac412cf0a9b/relationships/uid?resourceVersion=id%3A2920"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/624caf16-036d-439e-b9b9-dac412cf0a9b/field_event_type?resourceVersion=id%3A2920"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/624caf16-036d-439e-b9b9-dac412cf0a9b/relationships/field_event_type?resourceVersion=id%3A2920"
+        }
+      }
+    }
+  }
+}

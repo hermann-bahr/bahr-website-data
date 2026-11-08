@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "dc16ecf6-f650-4c94-b45c-f5e3830a70f9",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/dc16ecf6-f650-4c94-b45c-f5e3830a70f9?resourceVersion=id%3A2269"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/dc16ecf6-f650-4c94-b45c-f5e3830a70f9?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27927,
+    "drupal_internal__vid": 2269,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Russische Reise",
+    "created": "2010-07-16T16:05:22+00:00",
+    "changed": "2012-10-29T09:51:03+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/27927",
+      "pid": 103,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahrs impressionistische Reisebild von seiner Reise im Frühjahr 1891 ist unmittelbar im Anschluss an die Reise entstanden, ist in der Widmung mit \"Juni 1891\" datiert. Am 19. September erhält Hugo von Hofmannsthal sein Exemplar. Eine erste Rezensionen ist für den 18. November nachweisbar.",
+      "format": "full_html",
+      "processed": "Bahrs impressionistische Reisebild von seiner Reise im Frühjahr 1891 ist unmittelbar im Anschluss an die Reise entstanden, ist in der Widmung mit \"Juni 1891\" datiert. Am 19. September erhält Hugo von Hofmannsthal sein Exemplar. Eine erste Rezensionen ist für den 18. November nachweisbar.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1891-09-19",
+      "end_value": "1891-09-19"
+    },
+    "field_sources": [
+      "Briefwechsel Bahr/Hofmannsthal. Hg. Elsbeth Dangel-Pelloquin. Göttingen: Wallstein. (In Vorbereitung) (An Bahr, 23.9.1891)",
+      "Ola Hansson: Neue Bücher. In: Freie Bühne, 2 (1891) #46, 1125-1126. (18.11.1891)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/dc16ecf6-f650-4c94-b45c-f5e3830a70f9/node_type?resourceVersion=id%3A2269"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/dc16ecf6-f650-4c94-b45c-f5e3830a70f9/relationships/node_type?resourceVersion=id%3A2269"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/dc16ecf6-f650-4c94-b45c-f5e3830a70f9/revision_uid?resourceVersion=id%3A2269"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/dc16ecf6-f650-4c94-b45c-f5e3830a70f9/relationships/revision_uid?resourceVersion=id%3A2269"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/dc16ecf6-f650-4c94-b45c-f5e3830a70f9/uid?resourceVersion=id%3A2269"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/dc16ecf6-f650-4c94-b45c-f5e3830a70f9/relationships/uid?resourceVersion=id%3A2269"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "da42ac4a-f48f-4397-af4d-b66e913825fb",
+          "meta": {
+            "drupal_internal__target_id": 3
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/dc16ecf6-f650-4c94-b45c-f5e3830a70f9/field_event_type?resourceVersion=id%3A2269"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/dc16ecf6-f650-4c94-b45c-f5e3830a70f9/relationships/field_event_type?resourceVersion=id%3A2269"
+        }
+      }
+    }
+  }
+}

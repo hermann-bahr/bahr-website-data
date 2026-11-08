@@ -1,0 +1,118 @@
+{
+  "type": "media--image_vdg",
+  "id": "607bfe01-9f6a-4aea-8383-e6035baa0c7a",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/607bfe01-9f6a-4aea-8383-e6035baa0c7a?resourceVersion=id%3A197"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/607bfe01-9f6a-4aea-8383-e6035baa0c7a?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__mid": 196,
+    "drupal_internal__vid": 197,
+    "langcode": "de",
+    "revision_created": "2020-02-27T15:42:57+00:00",
+    "status": true,
+    "name": "13.jpg",
+    "created": "2020-02-27T15:42:41+00:00",
+    "changed": "2020-02-27T15:42:41+00:00",
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": null,
+      "pid": null,
+      "langcode": "de"
+    }
+  },
+  "relationships": {
+    "bundle": {
+      "data": {
+        "type": "media_type--media_type",
+        "id": "1e270fb0-cbb8-4385-a6d7-69db224c61f7",
+        "meta": {
+          "drupal_internal__target_id": "image_vdg"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/607bfe01-9f6a-4aea-8383-e6035baa0c7a/bundle?resourceVersion=id%3A197"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/607bfe01-9f6a-4aea-8383-e6035baa0c7a/relationships/bundle?resourceVersion=id%3A197"
+        }
+      }
+    },
+    "revision_user": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/607bfe01-9f6a-4aea-8383-e6035baa0c7a/revision_user?resourceVersion=id%3A197"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/607bfe01-9f6a-4aea-8383-e6035baa0c7a/relationships/revision_user?resourceVersion=id%3A197"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/607bfe01-9f6a-4aea-8383-e6035baa0c7a/uid?resourceVersion=id%3A197"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/607bfe01-9f6a-4aea-8383-e6035baa0c7a/relationships/uid?resourceVersion=id%3A197"
+        }
+      }
+    },
+    "thumbnail": {
+      "data": {
+        "type": "file--file",
+        "id": "26e9fdda-3055-4918-b151-599f5fb425de",
+        "meta": {
+          "alt": "Hermann Bahr, Kritische Schriften - 13 - Inventur",
+          "title": null,
+          "width": 202,
+          "height": 286,
+          "drupal_internal__target_id": 272
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/607bfe01-9f6a-4aea-8383-e6035baa0c7a/thumbnail?resourceVersion=id%3A197"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/607bfe01-9f6a-4aea-8383-e6035baa0c7a/relationships/thumbnail?resourceVersion=id%3A197"
+        }
+      }
+    },
+    "field_media_image_1": {
+      "data": {
+        "type": "file--file",
+        "id": "26e9fdda-3055-4918-b151-599f5fb425de",
+        "meta": {
+          "alt": "Hermann Bahr, Kritische Schriften - 13 - Inventur",
+          "title": "",
+          "width": 202,
+          "height": 286,
+          "drupal_internal__target_id": 272
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/607bfe01-9f6a-4aea-8383-e6035baa0c7a/field_media_image_1?resourceVersion=id%3A197"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/607bfe01-9f6a-4aea-8383-e6035baa0c7a/relationships/field_media_image_1?resourceVersion=id%3A197"
+        }
+      }
+    }
+  }
+}

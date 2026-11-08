@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "9272940d-7381-45c0-83f6-a63d5e92ff2a",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/9272940d-7381-45c0-83f6-a63d5e92ff2a?resourceVersion=id%3A2740"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/9272940d-7381-45c0-83f6-a63d5e92ff2a?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38954,
+    "drupal_internal__vid": 2740,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "AS Salten Schwarzkopf",
+    "created": "2011-03-15T17:41:21+00:00",
+    "changed": "2011-11-03T10:56:47+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38954",
+      "pid": 694,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "26. Juli 1892:<blockquote>Mit Bahr, Schwarzkopf, Salten in Nußdorf.-</blockquote>",
+      "format": "full_html",
+      "processed": "26. Juli 1892:<blockquote>Mit Bahr, Schwarzkopf, Salten in Nußdorf.-</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1892-07-26",
+      "end_value": "1892-07-26"
+    },
+    "field_sources": [
+      "Schnitzler: Tagebuch, I, 381."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9272940d-7381-45c0-83f6-a63d5e92ff2a/node_type?resourceVersion=id%3A2740"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9272940d-7381-45c0-83f6-a63d5e92ff2a/relationships/node_type?resourceVersion=id%3A2740"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9272940d-7381-45c0-83f6-a63d5e92ff2a/revision_uid?resourceVersion=id%3A2740"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9272940d-7381-45c0-83f6-a63d5e92ff2a/relationships/revision_uid?resourceVersion=id%3A2740"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9272940d-7381-45c0-83f6-a63d5e92ff2a/uid?resourceVersion=id%3A2740"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9272940d-7381-45c0-83f6-a63d5e92ff2a/relationships/uid?resourceVersion=id%3A2740"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9272940d-7381-45c0-83f6-a63d5e92ff2a/field_event_type?resourceVersion=id%3A2740"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9272940d-7381-45c0-83f6-a63d5e92ff2a/relationships/field_event_type?resourceVersion=id%3A2740"
+        }
+      }
+    }
+  }
+}

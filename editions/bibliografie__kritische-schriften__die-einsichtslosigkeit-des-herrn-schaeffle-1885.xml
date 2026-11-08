@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bibliografie__kritische-schriften__die-einsichtslosigkeit-des-herrn-schaeffle-1885" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Die Einsichtslosigkeit des Herrn Schäffle (1885)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">28272</idno>
+        <idno type="drupal-alias">/bibliografie/28272</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bibliografie/28272">https://bahr.univie.ac.at/bibliografie/28272</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+        <bibl type="beschriebene-ausgabe">
+          <author>Hermann Bahr</author>
+          <title type="main">Die Einsichtslosigkeit des Herrn Schäffle</title>
+          <title type="sub">Drei Briefe an einen Volksmann als Antwort auf "Die Aussichtslosigkeit der Sozialdemokratie"</title>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>J. Schabelitz</publisher>
+          <date>1886</date>
+          <extent>95</extent>
+          <editor role="translator">Ein Auszug auf Schwedisch als "Individualism och Socialism"</editor>
+          <note>Das Buch ist auf 1886 vordatiert. Am 26.7.1885 kündigt er seinem Vater den Erhalt "einer Broschüre von mir" für die nächsten Tage an. Die Deutsche Schriftsteller-Zeitung, 1 (1885) #16, 390 (15.8.1885) verzeichnet es als erschienen.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="1" key="bibliografie">Bibliografie</term>
+          <term n="4" key="kritische-schriften">Kritische Schriften</term>
+          <term n="5" key="die-einsichtslosigkeit-des-herrn-schaeffle-1885" type="eintrag">Die Einsichtslosigkeit des Herrn Schäffle (1885)</term>
+        </keywords>
+        <classCode scheme="drupal-type">bibliographie</classCode>
+        <keywords scheme="bibliografie_type">
+          <term>Kritische Schriften</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2010-11-24T14:15:14+00:00" type="created">angelegt in Drupal</change>
+      <change when="2011-11-21T15:20:01+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="bib">
+        <head>Bibliografie</head>
+        <table type="bibliografie">
+          <row>
+            <cell>Autor:</cell>
+            <cell>Hermann Bahr</cell>
+          </row>
+          <row>
+            <cell>Titel:</cell>
+            <cell>Die Einsichtslosigkeit des Herrn Schäffle</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>Drei Briefe an einen Volksmann als Antwort auf "Die Aussichtslosigkeit der Sozialdemokratie"</cell>
+          </row>
+          <row>
+            <cell>Ort:</cell>
+            <cell>Zürich</cell>
+          </row>
+          <row>
+            <cell>Verlag:</cell>
+            <cell>J. Schabelitz</cell>
+          </row>
+          <row>
+            <cell>Jahr:</cell>
+            <cell>1886</cell>
+          </row>
+          <row>
+            <cell>Seiten:</cell>
+            <cell>95</cell>
+          </row>
+          <row>
+            <cell>Übers.:</cell>
+            <cell>Ein Auszug auf Schwedisch als "Individualism och Socialism"</cell>
+          </row>
+          <row>
+            <cell>Anm.:</cell>
+            <cell>Das Buch ist auf 1886 vordatiert. Am 26.7.1885 kündigt er seinem Vater den Erhalt "einer Broschüre von mir" für die nächsten Tage an. Die Deutsche Schriftsteller-Zeitung, 1 (1885) #16, 390 (15.8.1885) verzeichnet es als erschienen.</cell>
+          </row>
+        </table>
+      </div>
+      <div xml:id="rezens">
+        <head>Rezensionen</head>
+        <p>Der Sozialdemokrat, Zürich, 6.8.1885, 3. Kölnische Zeitung, 16.8.1885, 1 Deutsche Worte, (1885) #10, 344-347 Linzer Volksblatt, 30.10.1885, 3.</p>
+      </div>
+      <div xml:id="digit">
+        <head>Digitalisate</head>
+        <p><ref target="http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=37">ANNO</ref> [Aus Bahrs Nachlass] <ref target="http://www.archive.org/search.php?query=bahr%20schäffle">Archive.org</ref></p>
+      </div>
+    </body>
+  </text>
+</TEI>

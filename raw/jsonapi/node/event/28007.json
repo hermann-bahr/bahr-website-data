@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "81e1c78f-633f-425d-9641-824a84f43f8a",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/81e1c78f-633f-425d-9641-824a84f43f8a?resourceVersion=id%3A2339"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/81e1c78f-633f-425d-9641-824a84f43f8a?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28007,
+    "drupal_internal__vid": 2339,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Dalmatien",
+    "created": "2010-07-27T14:59:16+00:00",
+    "changed": "2011-09-15T09:04:24+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28007",
+      "pid": 173,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 19. Oktober 1904 reist Bahr erneut nach Dalmatien, am 23. ist er zurück.\r\n",
+      "format": "full_html",
+      "processed": "Am 19. Oktober 1904 reist Bahr erneut nach Dalmatien, am 23. ist er zurück.\n",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1904-10-19",
+      "end_value": "1904-10-23"
+    },
+    "field_sources": [
+      "24.10.1904, Correspondenzkarte an Anna Bahr-Mildenburg",
+      "Tagebücher (Csàky), IV, 303 und 363-365."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/81e1c78f-633f-425d-9641-824a84f43f8a/node_type?resourceVersion=id%3A2339"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/81e1c78f-633f-425d-9641-824a84f43f8a/relationships/node_type?resourceVersion=id%3A2339"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/81e1c78f-633f-425d-9641-824a84f43f8a/revision_uid?resourceVersion=id%3A2339"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/81e1c78f-633f-425d-9641-824a84f43f8a/relationships/revision_uid?resourceVersion=id%3A2339"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/81e1c78f-633f-425d-9641-824a84f43f8a/uid?resourceVersion=id%3A2339"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/81e1c78f-633f-425d-9641-824a84f43f8a/relationships/uid?resourceVersion=id%3A2339"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/81e1c78f-633f-425d-9641-824a84f43f8a/field_event_type?resourceVersion=id%3A2339"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/81e1c78f-633f-425d-9641-824a84f43f8a/relationships/field_event_type?resourceVersion=id%3A2339"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "type": "media--image",
+  "id": "f1c70024-4174-430c-80b9-e6c7e9ae3cf0",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/media/image/f1c70024-4174-430c-80b9-e6c7e9ae3cf0?resourceVersion=id%3A179"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/media/image/f1c70024-4174-430c-80b9-e6c7e9ae3cf0?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__mid": 178,
+    "drupal_internal__vid": 179,
+    "langcode": "de",
+    "revision_created": "2020-02-18T17:44:08+00:00",
+    "status": true,
+    "name": "bahr_logo.png",
+    "created": "2020-02-18T17:40:56+00:00",
+    "changed": "2020-02-18T17:44:08+00:00",
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": null,
+      "pid": null,
+      "langcode": "de"
+    }
+  },
+  "relationships": {
+    "bundle": {
+      "data": {
+        "type": "media_type--media_type",
+        "id": "b82aabb6-e7a1-420d-b98b-5b981c2d920e",
+        "meta": {
+          "drupal_internal__target_id": "image"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/f1c70024-4174-430c-80b9-e6c7e9ae3cf0/bundle?resourceVersion=id%3A179"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/f1c70024-4174-430c-80b9-e6c7e9ae3cf0/relationships/bundle?resourceVersion=id%3A179"
+        }
+      }
+    },
+    "revision_user": {
+      "data": {
+        "type": "user--user",
+        "id": "2ba5c1f1-fadb-4c07-a22f-4a6ddefa93fe",
+        "meta": {
+          "drupal_internal__target_id": 4
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/f1c70024-4174-430c-80b9-e6c7e9ae3cf0/revision_user?resourceVersion=id%3A179"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/f1c70024-4174-430c-80b9-e6c7e9ae3cf0/relationships/revision_user?resourceVersion=id%3A179"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "2ba5c1f1-fadb-4c07-a22f-4a6ddefa93fe",
+        "meta": {
+          "drupal_internal__target_id": 4
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/f1c70024-4174-430c-80b9-e6c7e9ae3cf0/uid?resourceVersion=id%3A179"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/f1c70024-4174-430c-80b9-e6c7e9ae3cf0/relationships/uid?resourceVersion=id%3A179"
+        }
+      }
+    },
+    "thumbnail": {
+      "data": {
+        "type": "file--file",
+        "id": "678957b7-f127-4289-8ac1-582e5cd42ffe",
+        "meta": {
+          "alt": "Caricature of Herrmann Bahr",
+          "title": null,
+          "width": 240,
+          "height": 118,
+          "drupal_internal__target_id": 240
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/f1c70024-4174-430c-80b9-e6c7e9ae3cf0/thumbnail?resourceVersion=id%3A179"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/f1c70024-4174-430c-80b9-e6c7e9ae3cf0/relationships/thumbnail?resourceVersion=id%3A179"
+        }
+      }
+    },
+    "field_media_image": {
+      "data": {
+        "type": "file--file",
+        "id": "678957b7-f127-4289-8ac1-582e5cd42ffe",
+        "meta": {
+          "alt": "Caricature of Herrmann Bahr",
+          "title": "",
+          "width": 240,
+          "height": 118,
+          "drupal_internal__target_id": 240
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/f1c70024-4174-430c-80b9-e6c7e9ae3cf0/field_media_image?resourceVersion=id%3A179"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/f1c70024-4174-430c-80b9-e6c7e9ae3cf0/relationships/field_media_image?resourceVersion=id%3A179"
+        }
+      }
+    }
+  }
+}

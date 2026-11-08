@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "d6131449-5c6b-44ba-818c-6cdcb2ab8767",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/d6131449-5c6b-44ba-818c-6cdcb2ab8767?resourceVersion=id%3A2899"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/d6131449-5c6b-44ba-818c-6cdcb2ab8767?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39140,
+    "drupal_internal__vid": 2899,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Gertrud Eysoldt",
+    "created": "2011-06-28T15:04:35+00:00",
+    "changed": "2011-07-06T14:28:26+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39140",
+      "pid": 868,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am letzten Tag des Jahres 1903 stellt Bahr in seinem Tagebuch einen \"Jahresrückblick\" an [1]:\r\n<blockquote>Schönes mit M. erlebt, mit der E. begonnen, dabei erst in der letzten Zeit, in Berlin und am Semmering, sehr stark gespürt, wie untentbehrlich mir meine Frau ist, nicht nur, wie sie meint, als Mascotte</blockquote>\r\nDie Entschlüsselung von M. mit Mareia Bubna-Littitz/Dörmann ist einfach und an anderem Ort nachzulesen. Aber E.? - Elsbeth Dangel-Pelloquin entziffert ihn mit Gertrud Eysoldt, deren erste Erwähnung (von sehr, sehr vielen) in das Jahr fällt. Eine kursorische Durchsicht der erhaltenen Briefe Eysoldts im Nachlass legen eine Liebesbeziehung nahe, wenngleich die Details offen bleiben müssen. Auffällig ist, dass sie stehts danach verlangt, die beiden mögen sich alleine treffen, zum \"reden und schlendern\". Von 1903 bis 1910 sind viele Briefe erhalten, danach nur wenige.",
+      "format": "full_html",
+      "processed": "Am letzten Tag des Jahres 1903 stellt Bahr in seinem Tagebuch einen \"Jahresrückblick\" an [1]:\n<blockquote>Schönes mit M. erlebt, mit der E. begonnen, dabei erst in der letzten Zeit, in Berlin und am Semmering, sehr stark gespürt, wie untentbehrlich mir meine Frau ist, nicht nur, wie sie meint, als Mascotte</blockquote>\nDie Entschlüsselung von M. mit Mareia Bubna-Littitz/Dörmann ist einfach und an anderem Ort nachzulesen. Aber E.? - Elsbeth Dangel-Pelloquin entziffert ihn mit Gertrud Eysoldt, deren erste Erwähnung (von sehr, sehr vielen) in das Jahr fällt. Eine kursorische Durchsicht der erhaltenen Briefe Eysoldts im Nachlass legen eine Liebesbeziehung nahe, wenngleich die Details offen bleiben müssen. Auffällig ist, dass sie stehts danach verlangt, die beiden mögen sich alleine treffen, zum \"reden und schlendern\". Von 1903 bis 1910 sind viele Briefe erhalten, danach nur wenige.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1903-12-31",
+      "end_value": "1903-12-31"
+    },
+    "field_sources": [
+      "[1] Tagebücher (Csàky), III, 425."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d6131449-5c6b-44ba-818c-6cdcb2ab8767/node_type?resourceVersion=id%3A2899"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d6131449-5c6b-44ba-818c-6cdcb2ab8767/relationships/node_type?resourceVersion=id%3A2899"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d6131449-5c6b-44ba-818c-6cdcb2ab8767/revision_uid?resourceVersion=id%3A2899"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d6131449-5c6b-44ba-818c-6cdcb2ab8767/relationships/revision_uid?resourceVersion=id%3A2899"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d6131449-5c6b-44ba-818c-6cdcb2ab8767/uid?resourceVersion=id%3A2899"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d6131449-5c6b-44ba-818c-6cdcb2ab8767/relationships/uid?resourceVersion=id%3A2899"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d6131449-5c6b-44ba-818c-6cdcb2ab8767/field_event_type?resourceVersion=id%3A2899"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d6131449-5c6b-44ba-818c-6cdcb2ab8767/relationships/field_event_type?resourceVersion=id%3A2899"
+        }
+      }
+    }
+  }
+}

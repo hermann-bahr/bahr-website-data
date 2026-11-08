@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "be8e4336-00be-45f0-aad1-17c0f5cf4828",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/be8e4336-00be-45f0-aad1-17c0f5cf4828?resourceVersion=id%3A2404"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/be8e4336-00be-45f0-aad1-17c0f5cf4828?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28077,
+    "drupal_internal__vid": 2404,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Zell am Ziller",
+    "created": "2010-08-09T09:40:03+00:00",
+    "changed": "2012-01-26T15:49:29+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28077",
+      "pid": 238,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Vom 19. August bis vermutlich 4. September 1910 sind Bahr und seine Frau wieder in Zell am Ziller. Am 1. September schreibt er die Widmung an Otto Brahm für die Buchausgabe von \"Die Kinder\". ",
+      "format": "full_html",
+      "processed": "Vom 19. August bis vermutlich 4. September 1910 sind Bahr und seine Frau wieder in Zell am Ziller. Am 1. September schreibt er die Widmung an Otto Brahm für die Buchausgabe von \"Die Kinder\". ",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1910-08-20",
+      "end_value": "1910-09-04"
+    },
+    "field_sources": [
+      "Hermann Bahr: Aufzeichnungen 1909-1911. Ausgabe in Vorbereitung von Kurt Ifkovits\r\n",
+      "Bahr/Kvapil, 125."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/be8e4336-00be-45f0-aad1-17c0f5cf4828/node_type?resourceVersion=id%3A2404"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/be8e4336-00be-45f0-aad1-17c0f5cf4828/relationships/node_type?resourceVersion=id%3A2404"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/be8e4336-00be-45f0-aad1-17c0f5cf4828/revision_uid?resourceVersion=id%3A2404"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/be8e4336-00be-45f0-aad1-17c0f5cf4828/relationships/revision_uid?resourceVersion=id%3A2404"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/be8e4336-00be-45f0-aad1-17c0f5cf4828/uid?resourceVersion=id%3A2404"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/be8e4336-00be-45f0-aad1-17c0f5cf4828/relationships/uid?resourceVersion=id%3A2404"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/be8e4336-00be-45f0-aad1-17c0f5cf4828/field_event_type?resourceVersion=id%3A2404"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/be8e4336-00be-45f0-aad1-17c0f5cf4828/relationships/field_event_type?resourceVersion=id%3A2404"
+        }
+      }
+    }
+  }
+}

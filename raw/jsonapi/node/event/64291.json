@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "e9740922-1b74-4c7f-8caa-4461454ccbcf",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/e9740922-1b74-4c7f-8caa-4461454ccbcf?resourceVersion=id%3A3681"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/e9740922-1b74-4c7f-8caa-4461454ccbcf?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 64291,
+    "drupal_internal__vid": 3681,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Streichung im Neuen Wiener Journal",
+    "created": "2012-09-26T17:23:08+00:00",
+    "changed": "2012-09-26T17:23:08+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/64291",
+      "pid": 1724,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Zum Jahreswechsel 1929/30 kommt es zu einer Verstimmung zwischen Bahr und dem Neuen Wiener Journal. Dieses hat in einem Text von ihm eine Streichung vorgenommen. Am 11. Jänner 1930 schreibt Leopold Lipschütz vom Journalisten- und Schriftstellerverein Concordia an Bahr, dass er mit dem Vorgehen des Neuen Wiener Journal auch nicht einverstanden wäre, aber nichts tun könne. Bahr solle ein Schiedsgericht anrufen, wenn das NWJ sich diesem unterwerfe. Details über die gestrichene Stelle gibt es nicht, aber andererseits verrät das Ereignis, dass Bahr es sich nicht mehr leisten kann, wegen einer Streichung seine Mitarbeit an dem Blatt einzustellen.",
+      "format": "full_html",
+      "processed": "Zum Jahreswechsel 1929/30 kommt es zu einer Verstimmung zwischen Bahr und dem Neuen Wiener Journal. Dieses hat in einem Text von ihm eine Streichung vorgenommen. Am 11. Jänner 1930 schreibt Leopold Lipschütz vom Journalisten- und Schriftstellerverein Concordia an Bahr, dass er mit dem Vorgehen des Neuen Wiener Journal auch nicht einverstanden wäre, aber nichts tun könne. Bahr solle ein Schiedsgericht anrufen, wenn das NWJ sich diesem unterwerfe. Details über die gestrichene Stelle gibt es nicht, aber andererseits verrät das Ereignis, dass Bahr es sich nicht mehr leisten kann, wegen einer Streichung seine Mitarbeit an dem Blatt einzustellen.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1930-01-11",
+      "end_value": "1930-01-11"
+    },
+    "field_sources": [
+      "Brief im Nachlass unter Concordia"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e9740922-1b74-4c7f-8caa-4461454ccbcf/node_type?resourceVersion=id%3A3681"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e9740922-1b74-4c7f-8caa-4461454ccbcf/relationships/node_type?resourceVersion=id%3A3681"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e9740922-1b74-4c7f-8caa-4461454ccbcf/revision_uid?resourceVersion=id%3A3681"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e9740922-1b74-4c7f-8caa-4461454ccbcf/relationships/revision_uid?resourceVersion=id%3A3681"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e9740922-1b74-4c7f-8caa-4461454ccbcf/uid?resourceVersion=id%3A3681"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e9740922-1b74-4c7f-8caa-4461454ccbcf/relationships/uid?resourceVersion=id%3A3681"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "d579e54c-64dd-4193-a9ef-da87efb3ed16",
+          "meta": {
+            "drupal_internal__target_id": 8
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e9740922-1b74-4c7f-8caa-4461454ccbcf/field_event_type?resourceVersion=id%3A3681"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e9740922-1b74-4c7f-8caa-4461454ccbcf/relationships/field_event_type?resourceVersion=id%3A3681"
+        }
+      }
+    }
+  }
+}

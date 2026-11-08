@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "b38bdb86-fcb7-43ab-900e-294d29ef1f9c",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b38bdb86-fcb7-43ab-900e-294d29ef1f9c?resourceVersion=id%3A3783"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b38bdb86-fcb7-43ab-900e-294d29ef1f9c?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74472,
+    "drupal_internal__vid": 3783,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Wohnung, Steingasse 28",
+    "created": "2013-03-12T11:05:15+00:00",
+    "changed": "2013-03-12T11:06:57+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/74472",
+      "pid": 1846,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Ab November 1883 bezieht Bahr eine Wohnung im Parterre der Steingasse 28, Czernowitz, 12 fl. monatlich, 2 fl. für die Bedienung. Beleuchtung und Beheizung extra.",
+      "format": "full_html",
+      "processed": "Ab November 1883 bezieht Bahr eine Wohnung im Parterre der Steingasse 28, Czernowitz, 12 fl. monatlich, 2 fl. für die Bedienung. Beleuchtung und Beheizung extra.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1883-11-01",
+      "end_value": "1883-11-01"
+    },
+    "field_sources": [
+      "An den Vater, Ende Oktober 1883 und 19.11.1883"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b38bdb86-fcb7-43ab-900e-294d29ef1f9c/node_type?resourceVersion=id%3A3783"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b38bdb86-fcb7-43ab-900e-294d29ef1f9c/relationships/node_type?resourceVersion=id%3A3783"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b38bdb86-fcb7-43ab-900e-294d29ef1f9c/revision_uid?resourceVersion=id%3A3783"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b38bdb86-fcb7-43ab-900e-294d29ef1f9c/relationships/revision_uid?resourceVersion=id%3A3783"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b38bdb86-fcb7-43ab-900e-294d29ef1f9c/uid?resourceVersion=id%3A3783"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b38bdb86-fcb7-43ab-900e-294d29ef1f9c/relationships/uid?resourceVersion=id%3A3783"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b38bdb86-fcb7-43ab-900e-294d29ef1f9c/field_event_type?resourceVersion=id%3A3783"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b38bdb86-fcb7-43ab-900e-294d29ef1f9c/relationships/field_event_type?resourceVersion=id%3A3783"
+        }
+      }
+    }
+  }
+}

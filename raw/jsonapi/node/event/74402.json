@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "4b3ede1d-eb04-4c63-b143-92aa8be4c4ae",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/4b3ede1d-eb04-4c63-b143-92aa8be4c4ae?resourceVersion=id%3A3730"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/4b3ede1d-eb04-4c63-b143-92aa8be4c4ae?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74402,
+    "drupal_internal__vid": 3730,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Krank",
+    "created": "2012-10-23T11:37:30+00:00",
+    "changed": "2013-09-14T11:54:38+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/74402",
+      "pid": 1776,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "In den ersten Tagen des Mai 1901 ist Bahr tagelang krank, wie sich implizit aus einem Brief Hugo von Hofmannsthals ergibt.",
+      "format": "full_html",
+      "processed": "In den ersten Tagen des Mai 1901 ist Bahr tagelang krank, wie sich implizit aus einem Brief Hugo von Hofmannsthals ergibt.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1901-05-08",
+      "end_value": "1901-05-13"
+    },
+    "field_sources": [
+      "Briefwechsel Bahr/Hofmannsthal. Hg. Elsbeth Dangel-Pelloquin. Göttingen: Wallstein. (In Vorbereitung), an Bahr, 13.5.1901"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4b3ede1d-eb04-4c63-b143-92aa8be4c4ae/node_type?resourceVersion=id%3A3730"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4b3ede1d-eb04-4c63-b143-92aa8be4c4ae/relationships/node_type?resourceVersion=id%3A3730"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4b3ede1d-eb04-4c63-b143-92aa8be4c4ae/revision_uid?resourceVersion=id%3A3730"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4b3ede1d-eb04-4c63-b143-92aa8be4c4ae/relationships/revision_uid?resourceVersion=id%3A3730"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4b3ede1d-eb04-4c63-b143-92aa8be4c4ae/uid?resourceVersion=id%3A3730"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4b3ede1d-eb04-4c63-b143-92aa8be4c4ae/relationships/uid?resourceVersion=id%3A3730"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4b3ede1d-eb04-4c63-b143-92aa8be4c4ae/field_event_type?resourceVersion=id%3A3730"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4b3ede1d-eb04-4c63-b143-92aa8be4c4ae/relationships/field_event_type?resourceVersion=id%3A3730"
+        }
+      }
+    }
+  }
+}

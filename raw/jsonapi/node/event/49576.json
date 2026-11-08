@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "ebd9f284-d6c2-4511-83c0-afcdcc5a4fc2",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/ebd9f284-d6c2-4511-83c0-afcdcc5a4fc2?resourceVersion=id%3A3406"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/ebd9f284-d6c2-4511-83c0-afcdcc5a4fc2?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49576,
+    "drupal_internal__vid": 3406,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Der Klub der Erlöser, Zensurverbot",
+    "created": "2011-11-03T16:53:32+00:00",
+    "changed": "2011-11-03T17:00:46+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49576",
+      "pid": 1392,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 30. November 1905 meldet das Neue Wiener Tagblatt:<blockquote>Wie verlautet, ist der vom Kaiserjubiläums-Theater zur Aufführung angenommene Einakter von Hermann Bahr <i>\"Der Klub der Erlöser\"</i> bei der Zensurbehörde auf Bedenken gestoßen, so daß dessen Freigabe zweifelhaft erscheint.</blockquote>Bahr, der das Stück noch zu Monatsbeginn in München vorgelesen hat, scheint sich auch nicht sehr um eine Aufführung bemüht zu haben. Zumindest lassen sich bislang keine nachweisen. In Buchform erscheint das Stück in \"Grotesken\", 1906, auf 1907 vordatiert.",
+      "format": "full_html",
+      "processed": "Am 30. November 1905 meldet das Neue Wiener Tagblatt:<blockquote>Wie verlautet, ist der vom Kaiserjubiläums-Theater zur Aufführung angenommene Einakter von Hermann Bahr <i>\"Der Klub der Erlöser\"</i> bei der Zensurbehörde auf Bedenken gestoßen, so daß dessen Freigabe zweifelhaft erscheint.</blockquote>Bahr, der das Stück noch zu Monatsbeginn in München vorgelesen hat, scheint sich auch nicht sehr um eine Aufführung bemüht zu haben. Zumindest lassen sich bislang keine nachweisen. In Buchform erscheint das Stück in \"Grotesken\", 1906, auf 1907 vordatiert.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1905-11-30",
+      "end_value": "1905-11-30"
+    },
+    "field_sources": [
+      "Hermann Bahr: Der Klub der Erlöser. Ein Akt. Die neue Rundschau, 17 (1906) #3, 461-491.",
+      "Hermann Bahr: Grotesken. Der Klub der Erlöser (Schauspiel in einem Akt) – Der Faun – Die tiefe Natur (Ein Akt). Wien: C. Konegen, 1907.",
+      "Neues Wiener Tagblatt, 39 (1905) #331, 10. (30.11.1905)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ebd9f284-d6c2-4511-83c0-afcdcc5a4fc2/node_type?resourceVersion=id%3A3406"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ebd9f284-d6c2-4511-83c0-afcdcc5a4fc2/relationships/node_type?resourceVersion=id%3A3406"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ebd9f284-d6c2-4511-83c0-afcdcc5a4fc2/revision_uid?resourceVersion=id%3A3406"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ebd9f284-d6c2-4511-83c0-afcdcc5a4fc2/relationships/revision_uid?resourceVersion=id%3A3406"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ebd9f284-d6c2-4511-83c0-afcdcc5a4fc2/uid?resourceVersion=id%3A3406"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ebd9f284-d6c2-4511-83c0-afcdcc5a4fc2/relationships/uid?resourceVersion=id%3A3406"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "27f3d2a4-8970-4726-9ab8-ce37707ec1bc",
+          "meta": {
+            "drupal_internal__target_id": 1
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ebd9f284-d6c2-4511-83c0-afcdcc5a4fc2/field_event_type?resourceVersion=id%3A3406"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ebd9f284-d6c2-4511-83c0-afcdcc5a4fc2/relationships/field_event_type?resourceVersion=id%3A3406"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "3b98d9fd-8b82-4b30-8941-df8c6e6303ce",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/3b98d9fd-8b82-4b30-8941-df8c6e6303ce?resourceVersion=id%3A2675"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/3b98d9fd-8b82-4b30-8941-df8c6e6303ce?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38859,
+    "drupal_internal__vid": 2675,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Hitler",
+    "created": "2011-02-15T17:15:41+00:00",
+    "changed": "2011-07-13T15:25:29+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38859",
+      "pid": 603,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "In einem etwas hastig geschriebenen Nachruf auf Bahr gibt der Nationalsozialist Josef Stolzing-Czerny folgende Aussage Bahrs wieder: <blockquote>Ein halbes Jahr wohnte ich mit ihm in demselben Hause in der Elisabethstraße in München. […] Ich hielt es für ein Gebot der guten Sitte, mich ihm vorzustellen. Er antwortete mir ungefähr folgendes: \"Ich kenne Sie schon seit Jahren, und ich freu mich, Sie zu begrüßen. Glauben Sie mir, daß die Hitlerbewegung die einzige ist, die unser Volk wieder aus seinem Elend herausreißen kann. Wir Deutsche müssen uns endlich zusammenfinden in einer geschloßenen Einheit!\" So hatte der einstige Schönerianer in allem seinen Irren und Wirren den Heimweg gefunden zu Adolf Hitler, und in diesem Sinne wollen wir ihm ein ehrendes Angedenken bewahren als Dichter wie als Menschen, denn er war trotz allem ein Deutscher!\"</blockquote>Nachdem die Elisabethstr. im Münchner Adressbuch für 1933 als Wohnsitz Anna Bahr-Mildenburgs angegeben ist (aber nicht Bahrs!), dürfte es sich Anfang 1932 zugetragen haben. Bahr hätte sich demnach zur Zeit der Drucklegung im Sommer '32 bereits umgemeldet, Anna Bahr-Mildenburg eben noch nicht. Ob Bahr vom \"Völkischen Beobachter\" richtig zitiert wurde, ist offen.",
+      "format": "full_html",
+      "processed": "In einem etwas hastig geschriebenen Nachruf auf Bahr gibt der Nationalsozialist Josef Stolzing-Czerny folgende Aussage Bahrs wieder: <blockquote>Ein halbes Jahr wohnte ich mit ihm in demselben Hause in der Elisabethstraße in München. […] Ich hielt es für ein Gebot der guten Sitte, mich ihm vorzustellen. Er antwortete mir ungefähr folgendes: \"Ich kenne Sie schon seit Jahren, und ich freu mich, Sie zu begrüßen. Glauben Sie mir, daß die Hitlerbewegung die einzige ist, die unser Volk wieder aus seinem Elend herausreißen kann. Wir Deutsche müssen uns endlich zusammenfinden in einer geschloßenen Einheit!\" So hatte der einstige Schönerianer in allem seinen Irren und Wirren den Heimweg gefunden zu Adolf Hitler, und in diesem Sinne wollen wir ihm ein ehrendes Angedenken bewahren als Dichter wie als Menschen, denn er war trotz allem ein Deutscher!\"</blockquote>Nachdem die Elisabethstr. im Münchner Adressbuch für 1933 als Wohnsitz Anna Bahr-Mildenburgs angegeben ist (aber nicht Bahrs!), dürfte es sich Anfang 1932 zugetragen haben. Bahr hätte sich demnach zur Zeit der Drucklegung im Sommer '32 bereits umgemeldet, Anna Bahr-Mildenburg eben noch nicht. Ob Bahr vom \"Völkischen Beobachter\" richtig zitiert wurde, ist offen.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1932-04-01",
+      "end_value": "1932-04-01"
+    },
+    "field_sources": [
+      "Josef Stolzing-Czerny: Erinnerungen an Hermann Bahr. In: Völkischer Beobachter, #17, 17.1.1934.</i>"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3b98d9fd-8b82-4b30-8941-df8c6e6303ce/node_type?resourceVersion=id%3A2675"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3b98d9fd-8b82-4b30-8941-df8c6e6303ce/relationships/node_type?resourceVersion=id%3A2675"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3b98d9fd-8b82-4b30-8941-df8c6e6303ce/revision_uid?resourceVersion=id%3A2675"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3b98d9fd-8b82-4b30-8941-df8c6e6303ce/relationships/revision_uid?resourceVersion=id%3A2675"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3b98d9fd-8b82-4b30-8941-df8c6e6303ce/uid?resourceVersion=id%3A2675"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3b98d9fd-8b82-4b30-8941-df8c6e6303ce/relationships/uid?resourceVersion=id%3A2675"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3b98d9fd-8b82-4b30-8941-df8c6e6303ce/field_event_type?resourceVersion=id%3A2675"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3b98d9fd-8b82-4b30-8941-df8c6e6303ce/relationships/field_event_type?resourceVersion=id%3A2675"
+        }
+      }
+    }
+  }
+}

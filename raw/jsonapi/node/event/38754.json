@@ -1,0 +1,114 @@
+{
+  "type": "node--event",
+  "id": "69f4dd8f-0bd5-4747-a6de-3ea750846dbf",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/69f4dd8f-0bd5-4747-a6de-3ea750846dbf?resourceVersion=id%3A2575"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/69f4dd8f-0bd5-4747-a6de-3ea750846dbf?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38754,
+    "drupal_internal__vid": 2575,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Rosa Bahr ✝",
+    "created": "2011-01-25T12:27:18+00:00",
+    "changed": "2011-01-25T12:27:18+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38754",
+      "pid": 502,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Die erste Frau von Bahr, Rosa Bahr, stirbt am 17. Februar 1940 in Berlin und wird in Weißensee begraben.",
+      "format": "full_html",
+      "processed": "Die erste Frau von Bahr, Rosa Bahr, stirbt am 17. Februar 1940 in Berlin und wird in Weißensee begraben.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1940-02-17",
+      "end_value": "1940-02-17"
+    },
+    "field_sources": []
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/69f4dd8f-0bd5-4747-a6de-3ea750846dbf/node_type?resourceVersion=id%3A2575"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/69f4dd8f-0bd5-4747-a6de-3ea750846dbf/relationships/node_type?resourceVersion=id%3A2575"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/69f4dd8f-0bd5-4747-a6de-3ea750846dbf/revision_uid?resourceVersion=id%3A2575"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/69f4dd8f-0bd5-4747-a6de-3ea750846dbf/relationships/revision_uid?resourceVersion=id%3A2575"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/69f4dd8f-0bd5-4747-a6de-3ea750846dbf/uid?resourceVersion=id%3A2575"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/69f4dd8f-0bd5-4747-a6de-3ea750846dbf/relationships/uid?resourceVersion=id%3A2575"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/69f4dd8f-0bd5-4747-a6de-3ea750846dbf/field_event_type?resourceVersion=id%3A2575"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/69f4dd8f-0bd5-4747-a6de-3ea750846dbf/relationships/field_event_type?resourceVersion=id%3A2575"
+        }
+      }
+    }
+  }
+}

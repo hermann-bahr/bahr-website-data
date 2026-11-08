@@ -1,0 +1,114 @@
+{
+  "type": "node--event",
+  "id": "0b2aeae5-8cc2-40cb-b249-4cffc3f3dbd4",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/0b2aeae5-8cc2-40cb-b249-4cffc3f3dbd4?resourceVersion=id%3A2581"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/0b2aeae5-8cc2-40cb-b249-4cffc3f3dbd4?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38760,
+    "drupal_internal__vid": 2581,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Politik, Antisemitismus und Boulanger",
+    "created": "2011-01-25T20:34:17+00:00",
+    "changed": "2011-01-25T20:34:17+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38760",
+      "pid": 508,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Der von ihm begeistert wahrgenommene Wahlsieg Boulangers in Paris am 27. Jänner 1889 kommentiert Bahr in einem Brief am 3. Februar an seinen Vater damit, dass die Politik ansonsten nicht mehr viel Macht über ihn hätte. Obwohl Bahr später behaupten wird, in Paris die Hinwendung von der Politik zur Ästhetik vollzogen zu haben, scheint das ein schneller Wechsel, der wohl früher schon begonnen haben dürfte. In anderer Hinsicht ist er (noch) ganz der Alte: Auf die Gegner Boulangers reagiert er mit antisemitischen Tiraden.",
+      "format": "full_html",
+      "processed": "Der von ihm begeistert wahrgenommene Wahlsieg Boulangers in Paris am 27. Jänner 1889 kommentiert Bahr in einem Brief am 3. Februar an seinen Vater damit, dass die Politik ansonsten nicht mehr viel Macht über ihn hätte. Obwohl Bahr später behaupten wird, in Paris die Hinwendung von der Politik zur Ästhetik vollzogen zu haben, scheint das ein schneller Wechsel, der wohl früher schon begonnen haben dürfte. In anderer Hinsicht ist er (noch) ganz der Alte: Auf die Gegner Boulangers reagiert er mit antisemitischen Tiraden.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1889-01-27",
+      "end_value": "1889-01-27"
+    },
+    "field_sources": []
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0b2aeae5-8cc2-40cb-b249-4cffc3f3dbd4/node_type?resourceVersion=id%3A2581"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0b2aeae5-8cc2-40cb-b249-4cffc3f3dbd4/relationships/node_type?resourceVersion=id%3A2581"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0b2aeae5-8cc2-40cb-b249-4cffc3f3dbd4/revision_uid?resourceVersion=id%3A2581"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0b2aeae5-8cc2-40cb-b249-4cffc3f3dbd4/relationships/revision_uid?resourceVersion=id%3A2581"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0b2aeae5-8cc2-40cb-b249-4cffc3f3dbd4/uid?resourceVersion=id%3A2581"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0b2aeae5-8cc2-40cb-b249-4cffc3f3dbd4/relationships/uid?resourceVersion=id%3A2581"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0b2aeae5-8cc2-40cb-b249-4cffc3f3dbd4/field_event_type?resourceVersion=id%3A2581"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0b2aeae5-8cc2-40cb-b249-4cffc3f3dbd4/relationships/field_event_type?resourceVersion=id%3A2581"
+        }
+      }
+    }
+  }
+}

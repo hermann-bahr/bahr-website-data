@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "1c72a72e-5514-4fe5-b75f-554eec840da4",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/1c72a72e-5514-4fe5-b75f-554eec840da4?resourceVersion=id%3A2627"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/1c72a72e-5514-4fe5-b75f-554eec840da4?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38806,
+    "drupal_internal__vid": 2627,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Regie",
+    "created": "2011-02-02T14:14:26+00:00",
+    "changed": "2011-07-14T21:13:28+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38806",
+      "pid": 554,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Seinem Vater berichtet Bahr am 14. Januar 1897, dass er von Februar an an der Schauspielschule des Bühnenvereins Vorträge über Regie halten werde. Der erste findet am 16. Februar statt, der zweite am 22. d. M. In seinem Text \"Der Regisseur\" schreibt er am 27. Februar, dass die Vorlesungen nunmehr vorbei sind.",
+      "format": "full_html",
+      "processed": "Seinem Vater berichtet Bahr am 14. Januar 1897, dass er von Februar an an der Schauspielschule des Bühnenvereins Vorträge über Regie halten werde. Der erste findet am 16. Februar statt, der zweite am 22. d. M. In seinem Text \"Der Regisseur\" schreibt er am 27. Februar, dass die Vorlesungen nunmehr vorbei sind.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1897-02-16",
+      "end_value": "1897-02-22"
+    },
+    "field_sources": [
+      "Hermann Bahr: Der Regisseur. Die Zeit, 10 (1897) #126, 138-139. (27.2.1897)",
+      "Tagebücher (Csàky), II, 235."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1c72a72e-5514-4fe5-b75f-554eec840da4/node_type?resourceVersion=id%3A2627"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1c72a72e-5514-4fe5-b75f-554eec840da4/relationships/node_type?resourceVersion=id%3A2627"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1c72a72e-5514-4fe5-b75f-554eec840da4/revision_uid?resourceVersion=id%3A2627"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1c72a72e-5514-4fe5-b75f-554eec840da4/relationships/revision_uid?resourceVersion=id%3A2627"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1c72a72e-5514-4fe5-b75f-554eec840da4/uid?resourceVersion=id%3A2627"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1c72a72e-5514-4fe5-b75f-554eec840da4/relationships/uid?resourceVersion=id%3A2627"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1c72a72e-5514-4fe5-b75f-554eec840da4/field_event_type?resourceVersion=id%3A2627"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1c72a72e-5514-4fe5-b75f-554eec840da4/relationships/field_event_type?resourceVersion=id%3A2627"
+        }
+      }
+    }
+  }
+}

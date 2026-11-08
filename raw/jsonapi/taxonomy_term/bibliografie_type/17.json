@@ -1,0 +1,79 @@
+{
+  "type": "taxonomy_term--bibliografie_type",
+  "id": "6eca7542-196e-4c66-a02c-2112b259f95c",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/taxonomy_term/bibliografie_type/6eca7542-196e-4c66-a02c-2112b259f95c?resourceVersion=id%3A17"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/taxonomy_term/bibliografie_type/6eca7542-196e-4c66-a02c-2112b259f95c?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__tid": 17,
+    "drupal_internal__revision_id": 17,
+    "langcode": "de",
+    "revision_created": "2020-02-14T17:10:46+00:00",
+    "status": true,
+    "name": "Schriften in Einzelausgaben",
+    "description": null,
+    "weight": 0,
+    "changed": "2020-02-14T17:10:46+00:00",
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/bibliografie-type/schriften-einzelausgaben",
+      "pid": 1891,
+      "langcode": "de"
+    }
+  },
+  "relationships": {
+    "vid": {
+      "data": {
+        "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+        "id": "206aa5a7-2dc1-4ac9-a930-c6e0c936ba14",
+        "meta": {
+          "drupal_internal__target_id": "bibliografie_type"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/taxonomy_term/bibliografie_type/6eca7542-196e-4c66-a02c-2112b259f95c/vid?resourceVersion=id%3A17"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/taxonomy_term/bibliografie_type/6eca7542-196e-4c66-a02c-2112b259f95c/relationships/vid?resourceVersion=id%3A17"
+        }
+      }
+    },
+    "revision_user": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/taxonomy_term/bibliografie_type/6eca7542-196e-4c66-a02c-2112b259f95c/revision_user?resourceVersion=id%3A17"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/taxonomy_term/bibliografie_type/6eca7542-196e-4c66-a02c-2112b259f95c/relationships/revision_user?resourceVersion=id%3A17"
+        }
+      }
+    },
+    "parent": {
+      "data": [
+        {
+          "type": "taxonomy_term--bibliografie_type",
+          "id": "7918c4ca-8976-4b38-be44-298fcc23a3ab",
+          "meta": {
+            "drupal_internal__target_id": 10
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/taxonomy_term/bibliografie_type/6eca7542-196e-4c66-a02c-2112b259f95c/parent?resourceVersion=id%3A17"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/taxonomy_term/bibliografie_type/6eca7542-196e-4c66-a02c-2112b259f95c/relationships/parent?resourceVersion=id%3A17"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "d59fdd12-8ee6-4067-95f4-413dc832aece",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/d59fdd12-8ee6-4067-95f4-413dc832aece?resourceVersion=id%3A3658"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/d59fdd12-8ee6-4067-95f4-413dc832aece?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 64268,
+    "drupal_internal__vid": 3658,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "AS",
+    "created": "2012-06-04T14:58:57+00:00",
+    "changed": "2012-06-04T14:58:57+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/64268",
+      "pid": 1701,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bei der Première von Burckhards \"Rat Schrimpf\" am 13. April 1905 unterhalten sich auch Bahr und Schnitzler.",
+      "format": "full_html",
+      "processed": "Bei der Première von Burckhards \"Rat Schrimpf\" am 13. April 1905 unterhalten sich auch Bahr und Schnitzler.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1905-04-13",
+      "end_value": "1905-04-13"
+    },
+    "field_sources": [
+      "Schnitzler: Tagebücher, III, 131."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d59fdd12-8ee6-4067-95f4-413dc832aece/node_type?resourceVersion=id%3A3658"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d59fdd12-8ee6-4067-95f4-413dc832aece/relationships/node_type?resourceVersion=id%3A3658"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d59fdd12-8ee6-4067-95f4-413dc832aece/revision_uid?resourceVersion=id%3A3658"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d59fdd12-8ee6-4067-95f4-413dc832aece/relationships/revision_uid?resourceVersion=id%3A3658"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d59fdd12-8ee6-4067-95f4-413dc832aece/uid?resourceVersion=id%3A3658"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d59fdd12-8ee6-4067-95f4-413dc832aece/relationships/uid?resourceVersion=id%3A3658"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d59fdd12-8ee6-4067-95f4-413dc832aece/field_event_type?resourceVersion=id%3A3658"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d59fdd12-8ee6-4067-95f4-413dc832aece/relationships/field_event_type?resourceVersion=id%3A3658"
+        }
+      }
+    }
+  }
+}

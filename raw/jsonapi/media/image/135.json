@@ -1,0 +1,118 @@
+{
+  "type": "media--image",
+  "id": "b5832026-fa55-4206-bebd-e798661c8f9a",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/media/image/b5832026-fa55-4206-bebd-e798661c8f9a?resourceVersion=id%3A135"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/media/image/b5832026-fa55-4206-bebd-e798661c8f9a?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__mid": 135,
+    "drupal_internal__vid": 135,
+    "langcode": "de",
+    "revision_created": "2020-02-18T15:16:19+00:00",
+    "status": true,
+    "name": "1891_gesellschaft",
+    "created": "2020-02-18T15:16:19+00:00",
+    "changed": "2020-02-18T15:16:19+00:00",
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": null,
+      "pid": null,
+      "langcode": "de"
+    }
+  },
+  "relationships": {
+    "bundle": {
+      "data": {
+        "type": "media_type--media_type",
+        "id": "b82aabb6-e7a1-420d-b98b-5b981c2d920e",
+        "meta": {
+          "drupal_internal__target_id": "image"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/b5832026-fa55-4206-bebd-e798661c8f9a/bundle?resourceVersion=id%3A135"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/b5832026-fa55-4206-bebd-e798661c8f9a/relationships/bundle?resourceVersion=id%3A135"
+        }
+      }
+    },
+    "revision_user": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/b5832026-fa55-4206-bebd-e798661c8f9a/revision_user?resourceVersion=id%3A135"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/b5832026-fa55-4206-bebd-e798661c8f9a/relationships/revision_user?resourceVersion=id%3A135"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/b5832026-fa55-4206-bebd-e798661c8f9a/uid?resourceVersion=id%3A135"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/b5832026-fa55-4206-bebd-e798661c8f9a/relationships/uid?resourceVersion=id%3A135"
+        }
+      }
+    },
+    "thumbnail": {
+      "data": {
+        "type": "file--file",
+        "id": "e4cdd444-48c1-4547-a982-e60cf6734069",
+        "meta": {
+          "alt": "1891 Gesellschaft",
+          "title": null,
+          "width": 1213,
+          "height": 1852,
+          "drupal_internal__target_id": 196
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/b5832026-fa55-4206-bebd-e798661c8f9a/thumbnail?resourceVersion=id%3A135"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/b5832026-fa55-4206-bebd-e798661c8f9a/relationships/thumbnail?resourceVersion=id%3A135"
+        }
+      }
+    },
+    "field_media_image": {
+      "data": {
+        "type": "file--file",
+        "id": "e4cdd444-48c1-4547-a982-e60cf6734069",
+        "meta": {
+          "alt": "1891 Gesellschaft",
+          "title": "1891_gesellschaft",
+          "width": 1213,
+          "height": 1852,
+          "drupal_internal__target_id": 196
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/b5832026-fa55-4206-bebd-e798661c8f9a/field_media_image?resourceVersion=id%3A135"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/b5832026-fa55-4206-bebd-e798661c8f9a/relationships/field_media_image?resourceVersion=id%3A135"
+        }
+      }
+    }
+  }
+}

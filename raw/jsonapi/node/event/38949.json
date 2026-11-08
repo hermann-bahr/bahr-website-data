@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "105f3ff0-29e4-44bf-a44a-20cb856ed622",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/105f3ff0-29e4-44bf-a44a-20cb856ed622?resourceVersion=id%3A2735"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/105f3ff0-29e4-44bf-a44a-20cb856ed622?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38949,
+    "drupal_internal__vid": 2735,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Theaterausstellung",
+    "created": "2011-03-15T17:33:04+00:00",
+    "changed": "2011-11-21T10:09:10+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38949",
+      "pid": 689,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "10. Mai 1892:<blockquote>Abd. mit Salten und Bahr in der Ausstellung - Marionettentheater und Partie Clabrias.</blockquote>Diese hat am 7. Mai ihre Tore aufgesperrt.",
+      "format": "full_html",
+      "processed": "10. Mai 1892:<blockquote>Abd. mit Salten und Bahr in der Ausstellung - Marionettentheater und Partie Clabrias.</blockquote>Diese hat am 7. Mai ihre Tore aufgesperrt.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1892-05-10",
+      "end_value": "1892-05-10"
+    },
+    "field_sources": [
+      "Schnitzler: Tagebuch, I, 375."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/105f3ff0-29e4-44bf-a44a-20cb856ed622/node_type?resourceVersion=id%3A2735"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/105f3ff0-29e4-44bf-a44a-20cb856ed622/relationships/node_type?resourceVersion=id%3A2735"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/105f3ff0-29e4-44bf-a44a-20cb856ed622/revision_uid?resourceVersion=id%3A2735"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/105f3ff0-29e4-44bf-a44a-20cb856ed622/relationships/revision_uid?resourceVersion=id%3A2735"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/105f3ff0-29e4-44bf-a44a-20cb856ed622/uid?resourceVersion=id%3A2735"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/105f3ff0-29e4-44bf-a44a-20cb856ed622/relationships/uid?resourceVersion=id%3A2735"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/105f3ff0-29e4-44bf-a44a-20cb856ed622/field_event_type?resourceVersion=id%3A2735"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/105f3ff0-29e4-44bf-a44a-20cb856ed622/relationships/field_event_type?resourceVersion=id%3A2735"
+        }
+      }
+    }
+  }
+}

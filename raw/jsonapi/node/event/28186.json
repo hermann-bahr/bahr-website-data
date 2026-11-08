@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "2e1f39c2-ac28-45c7-ba39-be95faeff0ca",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/2e1f39c2-ac28-45c7-ba39-be95faeff0ca?resourceVersion=id%3A2494"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/2e1f39c2-ac28-45c7-ba39-be95faeff0ca?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28186,
+    "drupal_internal__vid": 2494,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Anna Bahr-Mildenburg in München",
+    "created": "2010-09-09T19:07:17+00:00",
+    "changed": "2011-10-19T14:44:34+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28186",
+      "pid": 331,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "19. Februar 1920: In der Presse wird berichtet, dass Anna Bahr-Mildenburg als „Lehrerin der Darstellungskunst“ an die Akademie der Tonkunst in München berufen wurde.[1] Bis zur endgültigen Übersiedlung 1922 werden beide öfter zwischen Salzburg und München pendeln. Während sie anfangs zweimal im Monat für vier Tage nach München fährt,[2] dürfte nach ihrer Übersiedlung die Vereinbarung so ausgesehen haben, dass sie nach drei Wochen für acht Tage nach Salzburg kommt.[3]",
+      "format": "full_html",
+      "processed": "19. Februar 1920: In der Presse wird berichtet, dass Anna Bahr-Mildenburg als „Lehrerin der Darstellungskunst“ an die Akademie der Tonkunst in München berufen wurde.[1] Bis zur endgültigen Übersiedlung 1922 werden beide öfter zwischen Salzburg und München pendeln. Während sie anfangs zweimal im Monat für vier Tage nach München fährt,[2] dürfte nach ihrer Übersiedlung die Vereinbarung so ausgesehen haben, dass sie nach drei Wochen für acht Tage nach Salzburg kommt.[3]",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1920-02-19",
+      "end_value": "1920-02-19"
+    },
+    "field_sources": [
+      "[1] Vossische Zeitung, 1921 #91, Morgen-Ausgabe, 3. (19.2.1920)",
+      "[2] Bahr/Redlich, 402.",
+      "[3] Bahr/Kvapil, 246."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2e1f39c2-ac28-45c7-ba39-be95faeff0ca/node_type?resourceVersion=id%3A2494"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2e1f39c2-ac28-45c7-ba39-be95faeff0ca/relationships/node_type?resourceVersion=id%3A2494"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2e1f39c2-ac28-45c7-ba39-be95faeff0ca/revision_uid?resourceVersion=id%3A2494"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2e1f39c2-ac28-45c7-ba39-be95faeff0ca/relationships/revision_uid?resourceVersion=id%3A2494"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2e1f39c2-ac28-45c7-ba39-be95faeff0ca/uid?resourceVersion=id%3A2494"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2e1f39c2-ac28-45c7-ba39-be95faeff0ca/relationships/uid?resourceVersion=id%3A2494"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2e1f39c2-ac28-45c7-ba39-be95faeff0ca/field_event_type?resourceVersion=id%3A2494"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2e1f39c2-ac28-45c7-ba39-be95faeff0ca/relationships/field_event_type?resourceVersion=id%3A2494"
+        }
+      }
+    }
+  }
+}

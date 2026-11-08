@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "0668e36f-2e9e-45fe-b4d1-10f6e7a37d8d",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/0668e36f-2e9e-45fe-b4d1-10f6e7a37d8d?resourceVersion=id%3A3702"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/0668e36f-2e9e-45fe-b4d1-10f6e7a37d8d?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74374,
+    "drupal_internal__vid": 3702,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "AS, MB u.a.",
+    "created": "2012-10-16T12:04:14+00:00",
+    "changed": "2012-10-16T12:04:14+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/74374",
+      "pid": 1748,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Für den 27. November 1908 notiert sich Schnitzler, dass er auf der Generalprobe von Max Burckhards \"Die verflixten Frauenzimmer\" viele Leute sprach, darunter Bahr.",
+      "format": "full_html",
+      "processed": "Für den 27. November 1908 notiert sich Schnitzler, dass er auf der Generalprobe von Max Burckhards \"Die verflixten Frauenzimmer\" viele Leute sprach, darunter Bahr.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1908-11-27",
+      "end_value": "1908-11-27"
+    },
+    "field_sources": [
+      "Schnitzler: Tagebücher, III, 370."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0668e36f-2e9e-45fe-b4d1-10f6e7a37d8d/node_type?resourceVersion=id%3A3702"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0668e36f-2e9e-45fe-b4d1-10f6e7a37d8d/relationships/node_type?resourceVersion=id%3A3702"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0668e36f-2e9e-45fe-b4d1-10f6e7a37d8d/revision_uid?resourceVersion=id%3A3702"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0668e36f-2e9e-45fe-b4d1-10f6e7a37d8d/relationships/revision_uid?resourceVersion=id%3A3702"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0668e36f-2e9e-45fe-b4d1-10f6e7a37d8d/uid?resourceVersion=id%3A3702"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0668e36f-2e9e-45fe-b4d1-10f6e7a37d8d/relationships/uid?resourceVersion=id%3A3702"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0668e36f-2e9e-45fe-b4d1-10f6e7a37d8d/field_event_type?resourceVersion=id%3A3702"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0668e36f-2e9e-45fe-b4d1-10f6e7a37d8d/relationships/field_event_type?resourceVersion=id%3A3702"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "type": "file--file",
+  "id": "5efbc266-b0c1-4bf1-81ea-e5a2d31ffeba",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/file/file/5efbc266-b0c1-4bf1-81ea-e5a2d31ffeba"
+    }
+  },
+  "attributes": {
+    "drupal_internal__fid": 231,
+    "langcode": "de",
+    "filename": "1934_interessante.jpg",
+    "uri": {
+      "value": "public://bahr_bilder/1934_interessante.jpg",
+      "url": "/sites/default/files/bahr_bilder/1934_interessante.jpg"
+    },
+    "filemime": "image/jpeg",
+    "filesize": 1171502,
+    "status": true,
+    "created": "2020-02-18T15:00:35+00:00",
+    "changed": "2020-02-18T15:11:43+00:00"
+  },
+  "relationships": {
+    "uid": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/file/file/5efbc266-b0c1-4bf1-81ea-e5a2d31ffeba/uid"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/file/file/5efbc266-b0c1-4bf1-81ea-e5a2d31ffeba/relationships/uid"
+        }
+      }
+    }
+  }
+}

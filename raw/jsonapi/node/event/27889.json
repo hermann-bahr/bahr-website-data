@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "e9721a29-1c64-40ce-bd73-18de350414b6",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/e9721a29-1c64-40ce-bd73-18de350414b6?resourceVersion=id%3A2238"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/e9721a29-1c64-40ce-bd73-18de350414b6?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27889,
+    "drupal_internal__vid": 2238,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Heirat mit Anna Mildenburg",
+    "created": "2010-06-22T15:20:57+00:00",
+    "changed": "2011-09-08T10:25:20+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/27889",
+      "pid": 71,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Im September 1904 lernt Bahr die Mahler-Schülerin und Wagner-Sängerin Anna Mildenburg in Bayreuth kennen. Die in Folge fast schon kindischen Briefe und Tagebücher (\"Ich hab' dich lieb, lieb, lieb\") zeigen eine anhaltende Begeisterung, die viereinhalb Jahre später zur Scheidung der zivilrechtlich geschlossenen Ehe mit Rosa Jokl führen und am 22. August 1909 in Aigen/Salzburg zur Hochzeit. Sie nimmt den Doppelnamen Anna Bahr-Mildenburg an, Bahr nunmehr offiziell, was er schon in früheren Jahren war: Ihr beruflicher Manager. Eine finanzielle Folge für die Künstlerin war, dass die Wiener Hofoper durch die Hochzeit das Recht bekam, den Vertrag mit ihr zu lösen. Das tat Direktor Weingartner auch, da er den von Bahr im August 1907 für sechs Jahre ausgehandelten als zu nachteilig für die Hofoper empfand. In der Folge bekam sie für zwei Jahre einen Gastspielvertrag in Wien.",
+      "format": "full_html",
+      "processed": "Im September 1904 lernt Bahr die Mahler-Schülerin und Wagner-Sängerin Anna Mildenburg in Bayreuth kennen. Die in Folge fast schon kindischen Briefe und Tagebücher (\"Ich hab' dich lieb, lieb, lieb\") zeigen eine anhaltende Begeisterung, die viereinhalb Jahre später zur Scheidung der zivilrechtlich geschlossenen Ehe mit Rosa Jokl führen und am 22. August 1909 in Aigen/Salzburg zur Hochzeit. Sie nimmt den Doppelnamen Anna Bahr-Mildenburg an, Bahr nunmehr offiziell, was er schon in früheren Jahren war: Ihr beruflicher Manager. Eine finanzielle Folge für die Künstlerin war, dass die Wiener Hofoper durch die Hochzeit das Recht bekam, den Vertrag mit ihr zu lösen. Das tat Direktor Weingartner auch, da er den von Bahr im August 1907 für sechs Jahre ausgehandelten als zu nachteilig für die Hofoper empfand. In der Folge bekam sie für zwei Jahre einen Gastspielvertrag in Wien.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1909-08-22",
+      "end_value": "1909-08-22"
+    },
+    "field_sources": [
+      "Zur Hochzeit: Erhard Buschbeck: Mimus Austriacus. Aus dem nachgelassenen Werk. Hg. Lotte v. Tobisch. Stuttgart, Salzburg: Bergland 1962, 258-259.",
+      "Gabriele Parizek: Anna Bahr-Mildenburg [Dissertation], 63."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e9721a29-1c64-40ce-bd73-18de350414b6/node_type?resourceVersion=id%3A2238"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e9721a29-1c64-40ce-bd73-18de350414b6/relationships/node_type?resourceVersion=id%3A2238"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e9721a29-1c64-40ce-bd73-18de350414b6/revision_uid?resourceVersion=id%3A2238"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e9721a29-1c64-40ce-bd73-18de350414b6/relationships/revision_uid?resourceVersion=id%3A2238"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e9721a29-1c64-40ce-bd73-18de350414b6/uid?resourceVersion=id%3A2238"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e9721a29-1c64-40ce-bd73-18de350414b6/relationships/uid?resourceVersion=id%3A2238"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e9721a29-1c64-40ce-bd73-18de350414b6/field_event_type?resourceVersion=id%3A2238"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e9721a29-1c64-40ce-bd73-18de350414b6/relationships/field_event_type?resourceVersion=id%3A2238"
+        }
+      }
+    }
+  }
+}

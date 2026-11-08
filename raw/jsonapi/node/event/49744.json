@@ -1,0 +1,119 @@
+{
+  "type": "node--event",
+  "id": "e720cf66-8d08-46cd-9bb3-7d42bc58d3a8",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/e720cf66-8d08-46cd-9bb3-7d42bc58d3a8?resourceVersion=id%3A3517"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/e720cf66-8d08-46cd-9bb3-7d42bc58d3a8?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49744,
+    "drupal_internal__vid": 3517,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "\"Kriegssegen\" in München",
+    "created": "2011-12-20T16:32:45+00:00",
+    "changed": "2012-08-21T07:59:44+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49744",
+      "pid": 1557,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Der Vortrag, den Hermann Bahr am 27. Oktober in den 4 Jahreszeiten in München hält, ist der erste einer Reihe von Kriegsvorträgen, die vom Schutzverband deutscher Schriftsteller veranstaltet wird. Er wird von zwei gedruckten Programmheften begleitet: \"Kriegssegen\" und \"Das deutsche Wesen ist uns erschienen\".\r\n<blockquote>Der volle Reinertrag dieses Vortrages, der vom Schutzverband deutscher Schriftsteller, Ortsgruppe München, veranstaltet wird, kommt allen durch den Krieg in Notlage geratenen Schriftstellern und Journalisten zugute. Karten bei Schmid. [1]</blockquote>Bahr spricht, wie die Zusammenfassung in den M. N. N. [2] ergibt, \"Kriegssegen\".",
+      "format": "full_html",
+      "processed": "Der Vortrag, den Hermann Bahr am 27. Oktober in den 4 Jahreszeiten in München hält, ist der erste einer Reihe von Kriegsvorträgen, die vom Schutzverband deutscher Schriftsteller veranstaltet wird. Er wird von zwei gedruckten Programmheften begleitet: \"Kriegssegen\" und \"Das deutsche Wesen ist uns erschienen\".\n<blockquote>Der volle Reinertrag dieses Vortrages, der vom Schutzverband deutscher Schriftsteller, Ortsgruppe München, veranstaltet wird, kommt allen durch den Krieg in Notlage geratenen Schriftstellern und Journalisten zugute. Karten bei Schmid. [1]</blockquote>Bahr spricht, wie die Zusammenfassung in den M. N. N. [2] ergibt, \"Kriegssegen\".",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1914-10-27",
+      "end_value": "1914-10-27"
+    },
+    "field_sources": [
+      "Hermann Bahr: Kriegssegen. Vortrag gehalten zu Gunsten der durch den Krieg in Not geratenen Schriftsteller und Journalisten. München: Schutzverband Deutscher Schriftsteller 1914. (27.10.1914)",
+      "[1] Münchner Neueste Nachrichten, 67 (1914) #552, Vorabendblatt, 4. (28.10.1914)",
+      "[2] v. H.: Vortrag von Hermann Bahr. Münchner Neueste Nachrichten, 67 (1914) #554, Vorabendblatt, 5. (29. Oktober 1914)",
+      "Hermann Bahr: Kriegssegen. Das deutsche Wesen ist uns erschienen. Vortrag gehalten zu Gunsten der durch den Krieg in Not geratenen Schriftsteller und Journalisten. München: Schutzverband Deutscher Schriftsteller 1914. (27.10.1914"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e720cf66-8d08-46cd-9bb3-7d42bc58d3a8/node_type?resourceVersion=id%3A3517"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e720cf66-8d08-46cd-9bb3-7d42bc58d3a8/relationships/node_type?resourceVersion=id%3A3517"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e720cf66-8d08-46cd-9bb3-7d42bc58d3a8/revision_uid?resourceVersion=id%3A3517"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e720cf66-8d08-46cd-9bb3-7d42bc58d3a8/relationships/revision_uid?resourceVersion=id%3A3517"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e720cf66-8d08-46cd-9bb3-7d42bc58d3a8/uid?resourceVersion=id%3A3517"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e720cf66-8d08-46cd-9bb3-7d42bc58d3a8/relationships/uid?resourceVersion=id%3A3517"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e720cf66-8d08-46cd-9bb3-7d42bc58d3a8/field_event_type?resourceVersion=id%3A3517"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e720cf66-8d08-46cd-9bb3-7d42bc58d3a8/relationships/field_event_type?resourceVersion=id%3A3517"
+        }
+      }
+    }
+  }
+}

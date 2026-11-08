@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kritische-schriften__editionsrichtlinien" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Editionsrichtlinien</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">3100</idno>
+        <idno type="drupal-alias">/editionsrichtlinien</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/editionsrichtlinien">https://bahr.univie.ac.at/editionsrichtlinien</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="2" key="kritische-schriften">Kritische Schriften</term>
+          <term n="2" key="editionsrichtlinien">Editionsrichtlinien</term>
+        </keywords>
+        <classCode scheme="drupal-type">page</classCode>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2010-01-05T11:54:01+00:00" type="created">angelegt in Drupal</change>
+      <change when="2020-02-27T14:02:13+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Die Textgrundlage für die Kritischen Schriften bilden (aus rezeptionshistorischen Überlegungen heraus) jene Sammelbände, die Bahr selbst in regelmäßigen Abständen aus seinen Aufsätzen zusammenstellte. Dabei wurde versucht, zwei Bedürfnissen gerecht zu werden: Zum einen soll es eine Leseausgabe sein, die (von Druckfehlern bereinigt, um Übersetzungen fremdsprachiger Zitate und ein Namensregister ergänzt) einen leichten Zugang zum Werk Hermann Bahrs bietet; zum anderen soll sie Literatur- und KulturwissenschaftlerInnen (durch eine buchstabengetreue Wiedergabe des Textes und die Mitführung der originalen Seitenzählung) einen alltagstauglichen Ersatz der oft schwer zugänglichen Erstausgaben bieten.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

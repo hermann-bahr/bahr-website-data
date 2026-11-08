@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "f3965830-325b-430c-b76b-759081fa445a",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f3965830-325b-430c-b76b-759081fa445a?resourceVersion=id%3A2267"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f3965830-325b-430c-b76b-759081fa445a?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27925,
+    "drupal_internal__vid": 2267,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Henrik Ibsen",
+    "created": "2010-07-16T15:59:22+00:00",
+    "changed": "2013-03-28T14:43:55+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/27925",
+      "pid": 101,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<blockquote>Und gewaltig blies ich dann in Pernerstorfers \"Deutschen Worten\" Alarm für Ibsen, ja mit so vollen Backen, daß ich ihn dabei fast schon wieder wegblies</blockquote>Bahrs Text über Henrik Ibsen erscheint zuerst im Sommerheft der \"Deutschen Worte\", im November 1887 aber als  Sonder- und Separatdruck. Bezeichnend, wie wichtig ihm der Text war: Er nimmt ihn auch in seinen ersten Sammelband, Die Kritik der Moderne auf.",
+      "format": "full_html",
+      "processed": "<blockquote>Und gewaltig blies ich dann in Pernerstorfers \"Deutschen Worten\" Alarm für Ibsen, ja mit so vollen Backen, daß ich ihn dabei fast schon wieder wegblies</blockquote>Bahrs Text über Henrik Ibsen erscheint zuerst im Sommerheft der \"Deutschen Worte\", im November 1887 aber als  Sonder- und Separatdruck. Bezeichnend, wie wichtig ihm der Text war: Er nimmt ihn auch in seinen ersten Sammelband, Die Kritik der Moderne auf.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1887-11-01",
+      "end_value": "1887-11-01"
+    },
+    "field_sources": [
+      "Kritik der Moderne, 59-79",
+      "Hermann Bahr: Henrik Ibsen. Sonderabdruck aus dem 8. und 9. (August-September-) Heft der \"Deutschen Worte\". Wien: Verlag der Deutschen Worte (Engelbert Pernerstorfer), 1887.",
+      "Hermann Bahr: Henrik Ibsen. Deutsche Worte, Wien, 7 (1887) #8-9 (August-September), 338-353. \r\n"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f3965830-325b-430c-b76b-759081fa445a/node_type?resourceVersion=id%3A2267"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f3965830-325b-430c-b76b-759081fa445a/relationships/node_type?resourceVersion=id%3A2267"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f3965830-325b-430c-b76b-759081fa445a/revision_uid?resourceVersion=id%3A2267"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f3965830-325b-430c-b76b-759081fa445a/relationships/revision_uid?resourceVersion=id%3A2267"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f3965830-325b-430c-b76b-759081fa445a/uid?resourceVersion=id%3A2267"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f3965830-325b-430c-b76b-759081fa445a/relationships/uid?resourceVersion=id%3A2267"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "da42ac4a-f48f-4397-af4d-b66e913825fb",
+          "meta": {
+            "drupal_internal__target_id": 3
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f3965830-325b-430c-b76b-759081fa445a/field_event_type?resourceVersion=id%3A2267"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f3965830-325b-430c-b76b-759081fa445a/relationships/field_event_type?resourceVersion=id%3A2267"
+        }
+      }
+    }
+  }
+}

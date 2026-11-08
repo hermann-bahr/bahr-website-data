@@ -1,0 +1,120 @@
+{
+  "type": "node--event",
+  "id": "835b5861-6d98-4dba-9c4c-dd109e982192",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/835b5861-6d98-4dba-9c4c-dd109e982192?resourceVersion=id%3A3556"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/835b5861-6d98-4dba-9c4c-dd109e982192?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49785,
+    "drupal_internal__vid": 3556,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Kündigung \"Deutsche Zeitung\"",
+    "created": "2012-01-17T13:28:13+00:00",
+    "changed": "2012-01-17T13:32:58+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49785",
+      "pid": 1597,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "In der Morgen-Ausgabed der \"Deutschen Zeitung\" vom 21. Dezember 1883 findet sich vermerkt: <blockquote>Unser geschätzter College Herr Hermann Bahr hat sich bestimmt gefunden, aus dem Verbande der Redaction der Deutschen Zeitung auszutreten.</blockquote>In seinem \"Tagebuch\" nennt er 1922 den Grund seines Ausscheidens: Wie schon in der \"Deutschen Wochenschrift\" war auch in der \"Deutschen Zeitung\" in eine seiner Kritiken inhaltlich eingegriffen worden. In diesem Fall wurde eine Kritik an Müller-Guttenbrunn und ein Lob Adele Sandrocks gekürzt.",
+      "format": "full_html",
+      "processed": "In der Morgen-Ausgabed der \"Deutschen Zeitung\" vom 21. Dezember 1883 findet sich vermerkt: <blockquote>Unser geschätzter College Herr Hermann Bahr hat sich bestimmt gefunden, aus dem Verbande der Redaction der Deutschen Zeitung auszutreten.</blockquote>In seinem \"Tagebuch\" nennt er 1922 den Grund seines Ausscheidens: Wie schon in der \"Deutschen Wochenschrift\" war auch in der \"Deutschen Zeitung\" in eine seiner Kritiken inhaltlich eingegriffen worden. In diesem Fall wurde eine Kritik an Müller-Guttenbrunn und ein Lob Adele Sandrocks gekürzt.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1893-12-21",
+      "end_value": "1893-12-21"
+    },
+    "field_sources": [
+      "Letzter Artikel: Hermann Bahr: Theater, Kunst und Literatur. (Burgtheater). Deutsche Zeitung, Wien, 23 (1893) #7894, Sonntags-Ausgabe, 8. (17.12.1893)",
+      "Streichung vermutlich in: Hermann Bahr: Theater, Kunst und Literatur. (Raimund-Theater). Deutsche Zeitung, Wien, 23 (1893) #7892, Morgen-Ausgabe, 6. (15.12.1893)",
+      "Deutsche Zeitung, #7898, 5. (21.12.1893)",
+      "Liebe der Lebenden, II, 286.",
+      "Briefwechsel mit seinem Vater, 349."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/835b5861-6d98-4dba-9c4c-dd109e982192/node_type?resourceVersion=id%3A3556"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/835b5861-6d98-4dba-9c4c-dd109e982192/relationships/node_type?resourceVersion=id%3A3556"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/835b5861-6d98-4dba-9c4c-dd109e982192/revision_uid?resourceVersion=id%3A3556"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/835b5861-6d98-4dba-9c4c-dd109e982192/relationships/revision_uid?resourceVersion=id%3A3556"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/835b5861-6d98-4dba-9c4c-dd109e982192/uid?resourceVersion=id%3A3556"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/835b5861-6d98-4dba-9c4c-dd109e982192/relationships/uid?resourceVersion=id%3A3556"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "d579e54c-64dd-4193-a9ef-da87efb3ed16",
+          "meta": {
+            "drupal_internal__target_id": 8
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/835b5861-6d98-4dba-9c4c-dd109e982192/field_event_type?resourceVersion=id%3A3556"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/835b5861-6d98-4dba-9c4c-dd109e982192/relationships/field_event_type?resourceVersion=id%3A3556"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "type": "file--file",
+  "id": "f480d9dc-7a46-4b61-8356-1d4dd0c42d68",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/file/file/f480d9dc-7a46-4b61-8356-1d4dd0c42d68"
+    }
+  },
+  "attributes": {
+    "drupal_internal__fid": 238,
+    "langcode": "de",
+    "filename": "1934_gedenkbild-4.jpg",
+    "uri": {
+      "value": "public://bahr_bilder/1934_gedenkbild-4.jpg",
+      "url": "/sites/default/files/bahr_bilder/1934_gedenkbild-4.jpg"
+    },
+    "filemime": "image/jpeg",
+    "filesize": 1019260,
+    "status": true,
+    "created": "2020-02-18T15:00:35+00:00",
+    "changed": "2020-02-18T15:11:43+00:00"
+  },
+  "relationships": {
+    "uid": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/file/file/f480d9dc-7a46-4b61-8356-1d4dd0c42d68/uid"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/file/file/f480d9dc-7a46-4b61-8356-1d4dd0c42d68/relationships/uid"
+        }
+      }
+    }
+  }
+}

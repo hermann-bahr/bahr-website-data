@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "811019ff-327b-413e-b590-55028f8170f8",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/811019ff-327b-413e-b590-55028f8170f8?resourceVersion=id%3A2694"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/811019ff-327b-413e-b590-55028f8170f8?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38905,
+    "drupal_internal__vid": 2694,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Balthasar Kaltner",
+    "created": "2011-03-08T11:24:50+00:00",
+    "changed": "2011-07-18T14:54:10+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38905",
+      "pid": 648,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Balthasar Kastner, Bischof von Salzburg, starb bei einem Autounfall in den U.S.A. am 6. Juli 1918. Die \"Katholische Kirchenzeitung\" (Salzburg) druckt eine Rede Bahrs aus Salzburg mit einem Nachruf ab.",
+      "format": "full_html",
+      "processed": "Balthasar Kastner, Bischof von Salzburg, starb bei einem Autounfall in den U.S.A. am 6. Juli 1918. Die \"Katholische Kirchenzeitung\" (Salzburg) druckt eine Rede Bahrs aus Salzburg mit einem Nachruf ab.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1918-07-15",
+      "end_value": "1918-07-15"
+    },
+    "field_sources": [
+      "Katholische Kirchenzeitung, Salzburg, 58 (1918) #31, 248-249. (1.8.1918)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/811019ff-327b-413e-b590-55028f8170f8/node_type?resourceVersion=id%3A2694"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/811019ff-327b-413e-b590-55028f8170f8/relationships/node_type?resourceVersion=id%3A2694"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/811019ff-327b-413e-b590-55028f8170f8/revision_uid?resourceVersion=id%3A2694"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/811019ff-327b-413e-b590-55028f8170f8/relationships/revision_uid?resourceVersion=id%3A2694"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/811019ff-327b-413e-b590-55028f8170f8/uid?resourceVersion=id%3A2694"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/811019ff-327b-413e-b590-55028f8170f8/relationships/uid?resourceVersion=id%3A2694"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/811019ff-327b-413e-b590-55028f8170f8/field_event_type?resourceVersion=id%3A2694"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/811019ff-327b-413e-b590-55028f8170f8/relationships/field_event_type?resourceVersion=id%3A2694"
+        }
+      }
+    }
+  }
+}

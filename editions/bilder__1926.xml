@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bilder__1926" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">1926</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">28242</idno>
+        <idno type="drupal-alias">/bild/28242</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bild/28242">https://bahr.univie.ac.at/bild/28242</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="7" key="bilder">Bilder</term>
+          <term n="37" key="1926" type="eintrag">1926</term>
+        </keywords>
+        <classCode scheme="drupal-type">image</classCode>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2010-11-09T12:10:32+00:00" type="created">angelegt in Drupal</change>
+      <change when="2010-11-09T12:11:03+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <figure>
+          <graphic url="files/bahr_bilder/1926.jpg"/>
+          <figDesc>1926</figDesc>
+        </figure>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "7eacc309-476f-4dcb-b6a8-40ab33ecd51b",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/7eacc309-476f-4dcb-b6a8-40ab33ecd51b?resourceVersion=id%3A3057"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/7eacc309-476f-4dcb-b6a8-40ab33ecd51b?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44141,
+    "drupal_internal__vid": 3057,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "AS, Golovin",
+    "created": "2011-09-14T13:44:35+00:00",
+    "changed": "2011-09-14T14:06:54+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44141",
+      "pid": 1036,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 7. Oktober 1894 treffen Bahr, Schnitzler und Olga von Golovin aufeinander. ",
+      "format": "full_html",
+      "processed": "Am 7. Oktober 1894 treffen Bahr, Schnitzler und Olga von Golovin aufeinander. ",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1894-10-07",
+      "end_value": "1894-10-07"
+    },
+    "field_sources": [
+      "Schnitzler: Tagebuch, II, 93."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7eacc309-476f-4dcb-b6a8-40ab33ecd51b/node_type?resourceVersion=id%3A3057"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7eacc309-476f-4dcb-b6a8-40ab33ecd51b/relationships/node_type?resourceVersion=id%3A3057"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7eacc309-476f-4dcb-b6a8-40ab33ecd51b/revision_uid?resourceVersion=id%3A3057"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7eacc309-476f-4dcb-b6a8-40ab33ecd51b/relationships/revision_uid?resourceVersion=id%3A3057"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7eacc309-476f-4dcb-b6a8-40ab33ecd51b/uid?resourceVersion=id%3A3057"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7eacc309-476f-4dcb-b6a8-40ab33ecd51b/relationships/uid?resourceVersion=id%3A3057"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7eacc309-476f-4dcb-b6a8-40ab33ecd51b/field_event_type?resourceVersion=id%3A3057"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7eacc309-476f-4dcb-b6a8-40ab33ecd51b/relationships/field_event_type?resourceVersion=id%3A3057"
+        }
+      }
+    }
+  }
+}

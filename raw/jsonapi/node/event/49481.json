@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "fb8b1f0a-690b-4b0d-b969-ed3d3c4649c2",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/fb8b1f0a-690b-4b0d-b969-ed3d3c4649c2?resourceVersion=id%3A3319"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/fb8b1f0a-690b-4b0d-b969-ed3d3c4649c2?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49481,
+    "drupal_internal__vid": 3319,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Hohenlohe",
+    "created": "2011-10-24T12:47:38+00:00",
+    "changed": "2011-10-24T12:48:26+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49481",
+      "pid": 1303,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "In Redlichs Tagebuch ist erwähnt, dass Bahr bei seinem Wienhaufenthalt im Februar 1917 beim ehemaligen Finanzminister und nunmehrigen ersten Oberhofmeister Konrad Prinz zu Hohenlohe-Waldenburg-Schillingsfürst von Ratibor und Corvey war.",
+      "format": "full_html",
+      "processed": "In Redlichs Tagebuch ist erwähnt, dass Bahr bei seinem Wienhaufenthalt im Februar 1917 beim ehemaligen Finanzminister und nunmehrigen ersten Oberhofmeister Konrad Prinz zu Hohenlohe-Waldenburg-Schillingsfürst von Ratibor und Corvey war.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1917-02-19",
+      "end_value": "1917-02-19"
+    },
+    "field_sources": [
+      "Fritz Fellner und Doris A. Corradini (Hgg.): Schicksalsjahre Österreichs. Die Erinnerungen und Tagebücher Josef Redlichs 1869–1936. Wien: Böhlau 2011, II, 277.",
+      "(Aufgrund des Eintrags vom 20. auf 19.2.1917 datiert)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fb8b1f0a-690b-4b0d-b969-ed3d3c4649c2/node_type?resourceVersion=id%3A3319"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fb8b1f0a-690b-4b0d-b969-ed3d3c4649c2/relationships/node_type?resourceVersion=id%3A3319"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fb8b1f0a-690b-4b0d-b969-ed3d3c4649c2/revision_uid?resourceVersion=id%3A3319"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fb8b1f0a-690b-4b0d-b969-ed3d3c4649c2/relationships/revision_uid?resourceVersion=id%3A3319"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fb8b1f0a-690b-4b0d-b969-ed3d3c4649c2/uid?resourceVersion=id%3A3319"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fb8b1f0a-690b-4b0d-b969-ed3d3c4649c2/relationships/uid?resourceVersion=id%3A3319"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fb8b1f0a-690b-4b0d-b969-ed3d3c4649c2/field_event_type?resourceVersion=id%3A3319"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fb8b1f0a-690b-4b0d-b969-ed3d3c4649c2/relationships/field_event_type?resourceVersion=id%3A3319"
+        }
+      }
+    }
+  }
+}

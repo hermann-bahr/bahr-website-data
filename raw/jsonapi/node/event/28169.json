@@ -1,0 +1,114 @@
+{
+  "type": "node--event",
+  "id": "f408f2e1-8a49-41ee-8a71-678171c5802a",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f408f2e1-8a49-41ee-8a71-678171c5802a?resourceVersion=id%3A2478"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f408f2e1-8a49-41ee-8a71-678171c5802a?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28169,
+    "drupal_internal__vid": 2478,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Urheberrechts-Sachverständiger",
+    "created": "2010-09-01T13:41:16+00:00",
+    "changed": "2010-09-01T15:38:05+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28169",
+      "pid": 315,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Laut Verlautbarung in der Wiener Zeitung (1912, #205, S.1. (7.9.1912)) wird Bahr von Minister für Kultus und Unterricht in das auf sechs Jahre bestellte Kollegium für Urheberrechtsfragen im Bereich Literatur in Wien bestellt. Am 25.1.1920 (#20, 1) vermerkt das selbe Blatt, dass Bahr wiederbestellt wurde. ",
+      "format": "full_html",
+      "processed": "Laut Verlautbarung in der Wiener Zeitung (1912, #205, S.1. (7.9.1912)) wird Bahr von Minister für Kultus und Unterricht in das auf sechs Jahre bestellte Kollegium für Urheberrechtsfragen im Bereich Literatur in Wien bestellt. Am 25.1.1920 (#20, 1) vermerkt das selbe Blatt, dass Bahr wiederbestellt wurde. ",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1912-09-07",
+      "end_value": "1912-09-07"
+    },
+    "field_sources": []
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f408f2e1-8a49-41ee-8a71-678171c5802a/node_type?resourceVersion=id%3A2478"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f408f2e1-8a49-41ee-8a71-678171c5802a/relationships/node_type?resourceVersion=id%3A2478"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f408f2e1-8a49-41ee-8a71-678171c5802a/revision_uid?resourceVersion=id%3A2478"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f408f2e1-8a49-41ee-8a71-678171c5802a/relationships/revision_uid?resourceVersion=id%3A2478"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f408f2e1-8a49-41ee-8a71-678171c5802a/uid?resourceVersion=id%3A2478"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f408f2e1-8a49-41ee-8a71-678171c5802a/relationships/uid?resourceVersion=id%3A2478"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f408f2e1-8a49-41ee-8a71-678171c5802a/field_event_type?resourceVersion=id%3A2478"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f408f2e1-8a49-41ee-8a71-678171c5802a/relationships/field_event_type?resourceVersion=id%3A2478"
+        }
+      }
+    }
+  }
+}

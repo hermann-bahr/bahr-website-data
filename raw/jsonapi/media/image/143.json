@@ -1,0 +1,118 @@
+{
+  "type": "media--image",
+  "id": "2c1e5b39-e15c-43d8-ac2d-a4eff3cf41c4",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/media/image/2c1e5b39-e15c-43d8-ac2d-a4eff3cf41c4?resourceVersion=id%3A143"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/media/image/2c1e5b39-e15c-43d8-ac2d-a4eff3cf41c4?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__mid": 143,
+    "drupal_internal__vid": 143,
+    "langcode": "de",
+    "revision_created": "2020-02-18T15:16:19+00:00",
+    "status": true,
+    "name": "1865_eltern",
+    "created": "2020-02-18T15:16:19+00:00",
+    "changed": "2020-02-18T15:16:19+00:00",
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": null,
+      "pid": null,
+      "langcode": "de"
+    }
+  },
+  "relationships": {
+    "bundle": {
+      "data": {
+        "type": "media_type--media_type",
+        "id": "b82aabb6-e7a1-420d-b98b-5b981c2d920e",
+        "meta": {
+          "drupal_internal__target_id": "image"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/2c1e5b39-e15c-43d8-ac2d-a4eff3cf41c4/bundle?resourceVersion=id%3A143"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/2c1e5b39-e15c-43d8-ac2d-a4eff3cf41c4/relationships/bundle?resourceVersion=id%3A143"
+        }
+      }
+    },
+    "revision_user": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/2c1e5b39-e15c-43d8-ac2d-a4eff3cf41c4/revision_user?resourceVersion=id%3A143"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/2c1e5b39-e15c-43d8-ac2d-a4eff3cf41c4/relationships/revision_user?resourceVersion=id%3A143"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/2c1e5b39-e15c-43d8-ac2d-a4eff3cf41c4/uid?resourceVersion=id%3A143"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/2c1e5b39-e15c-43d8-ac2d-a4eff3cf41c4/relationships/uid?resourceVersion=id%3A143"
+        }
+      }
+    },
+    "thumbnail": {
+      "data": {
+        "type": "file--file",
+        "id": "6295595b-6cb0-491c-88bc-e63dd20f0ab9",
+        "meta": {
+          "alt": "Um 1865 Mit den Eltern",
+          "title": null,
+          "width": 873,
+          "height": 1436,
+          "drupal_internal__target_id": 204
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/2c1e5b39-e15c-43d8-ac2d-a4eff3cf41c4/thumbnail?resourceVersion=id%3A143"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/2c1e5b39-e15c-43d8-ac2d-a4eff3cf41c4/relationships/thumbnail?resourceVersion=id%3A143"
+        }
+      }
+    },
+    "field_media_image": {
+      "data": {
+        "type": "file--file",
+        "id": "6295595b-6cb0-491c-88bc-e63dd20f0ab9",
+        "meta": {
+          "alt": "Um 1865 Mit den Eltern",
+          "title": "1865_eltern",
+          "width": 873,
+          "height": 1436,
+          "drupal_internal__target_id": 204
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/2c1e5b39-e15c-43d8-ac2d-a4eff3cf41c4/field_media_image?resourceVersion=id%3A143"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/2c1e5b39-e15c-43d8-ac2d-a4eff3cf41c4/relationships/field_media_image?resourceVersion=id%3A143"
+        }
+      }
+    }
+  }
+}

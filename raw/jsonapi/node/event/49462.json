@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "7104f232-505d-4e51-b125-ad5ace8a380d",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/7104f232-505d-4e51-b125-ad5ace8a380d?resourceVersion=id%3A3303"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/7104f232-505d-4e51-b125-ad5ace8a380d?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49462,
+    "drupal_internal__vid": 3303,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Übersiedlungspläne",
+    "created": "2011-10-20T15:08:06+00:00",
+    "changed": "2011-10-21T19:07:05+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49462",
+      "pid": 1284,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Der labile Gesundheitszustands Bahrs aber auch die Fixanstellung Anna Bahr-Mildenburgs lassen die beiden seit September 1920 einen gemeinsamen Wohnsitz in München andenken. In den Briefen Redlichs kommt das öfter heraus, dass er damit rechnet, Bahr ziehen zu sehen. Am 9. Dezember 1921 wird Bahr erstmals gegenüber Redlich explizit:<blockquote>bin voll Ärger, weil die Münchner Wohnungsfrage noch immer nicht gelöst ist und ich fürchte, meine Frau wird mir in der miserablen Pensionswirtschaft noch krank</blockquote>Am 3. Jänner 1922 ärgert er sich, dass die Übersiedlung sich von Monat zu Monat verschiebt, weil sie keine Wohnung hätten.",
+      "format": "full_html",
+      "processed": "Der labile Gesundheitszustands Bahrs aber auch die Fixanstellung Anna Bahr-Mildenburgs lassen die beiden seit September 1920 einen gemeinsamen Wohnsitz in München andenken. In den Briefen Redlichs kommt das öfter heraus, dass er damit rechnet, Bahr ziehen zu sehen. Am 9. Dezember 1921 wird Bahr erstmals gegenüber Redlich explizit:<blockquote>bin voll Ärger, weil die Münchner Wohnungsfrage noch immer nicht gelöst ist und ich fürchte, meine Frau wird mir in der miserablen Pensionswirtschaft noch krank</blockquote>Am 3. Jänner 1922 ärgert er sich, dass die Übersiedlung sich von Monat zu Monat verschiebt, weil sie keine Wohnung hätten.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1921-12-09",
+      "end_value": "1921-12-09"
+    },
+    "field_sources": [
+      "Bahr/Redlich, 468 und 470."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7104f232-505d-4e51-b125-ad5ace8a380d/node_type?resourceVersion=id%3A3303"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7104f232-505d-4e51-b125-ad5ace8a380d/relationships/node_type?resourceVersion=id%3A3303"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7104f232-505d-4e51-b125-ad5ace8a380d/revision_uid?resourceVersion=id%3A3303"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7104f232-505d-4e51-b125-ad5ace8a380d/relationships/revision_uid?resourceVersion=id%3A3303"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7104f232-505d-4e51-b125-ad5ace8a380d/uid?resourceVersion=id%3A3303"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7104f232-505d-4e51-b125-ad5ace8a380d/relationships/uid?resourceVersion=id%3A3303"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7104f232-505d-4e51-b125-ad5ace8a380d/field_event_type?resourceVersion=id%3A3303"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7104f232-505d-4e51-b125-ad5ace8a380d/relationships/field_event_type?resourceVersion=id%3A3303"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "e3c624a5-c238-4a16-a265-af021b3ffb58",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/e3c624a5-c238-4a16-a265-af021b3ffb58?resourceVersion=id%3A2418"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/e3c624a5-c238-4a16-a265-af021b3ffb58?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28092,
+    "drupal_internal__vid": 2418,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Letztes \"Tagebuch\" im N.W.J.",
+    "created": "2010-08-11T19:09:26+00:00",
+    "changed": "2013-03-20T16:31:26+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28092",
+      "pid": 252,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 13. Dezember 1931 veröffentlicht das \"Neue Wiener Journal\" zum letzten Mal das seit Dezember 1916 laufende \"Tagebuch\". Waren die ersten Jahrgänge stets gesammelt in Buchform erschienen, unterblieb das bei den letzten Jahrgängen.",
+      "format": "full_html",
+      "processed": "Am 13. Dezember 1931 veröffentlicht das \"Neue Wiener Journal\" zum letzten Mal das seit Dezember 1916 laufende \"Tagebuch\". Waren die ersten Jahrgänge stets gesammelt in Buchform erschienen, unterblieb das bei den letzten Jahrgängen.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1931-12-13",
+      "end_value": "1931-12-13"
+    },
+    "field_sources": [
+      "Hermann Bahr: Tagebuch. 3. Dezember. Neues Wiener Journal, 39 (1931) #13672, 16. (13.12.1931)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e3c624a5-c238-4a16-a265-af021b3ffb58/node_type?resourceVersion=id%3A2418"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e3c624a5-c238-4a16-a265-af021b3ffb58/relationships/node_type?resourceVersion=id%3A2418"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e3c624a5-c238-4a16-a265-af021b3ffb58/revision_uid?resourceVersion=id%3A2418"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e3c624a5-c238-4a16-a265-af021b3ffb58/relationships/revision_uid?resourceVersion=id%3A2418"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e3c624a5-c238-4a16-a265-af021b3ffb58/uid?resourceVersion=id%3A2418"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e3c624a5-c238-4a16-a265-af021b3ffb58/relationships/uid?resourceVersion=id%3A2418"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "b7b074bd-6489-4a96-84e9-9c8184cda171",
+          "meta": {
+            "drupal_internal__target_id": 7
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e3c624a5-c238-4a16-a265-af021b3ffb58/field_event_type?resourceVersion=id%3A2418"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e3c624a5-c238-4a16-a265-af021b3ffb58/relationships/field_event_type?resourceVersion=id%3A2418"
+        }
+      }
+    }
+  }
+}

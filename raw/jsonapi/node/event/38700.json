@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "2c7b37cf-e79a-48ef-9e74-79bac68039e2",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/2c7b37cf-e79a-48ef-9e74-79bac68039e2?resourceVersion=id%3A2561"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/2c7b37cf-e79a-48ef-9e74-79bac68039e2?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38700,
+    "drupal_internal__vid": 2561,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Noordwijk aan Zee",
+    "created": "2010-12-28T16:43:03+00:00",
+    "changed": "2011-09-02T10:33:14+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38700",
+      "pid": 449,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Aus Südholland bekommen Gerhart und Margarete Hauptmann eine Postkarte:\r\n<blockquote>Herzlichst<br>Hermann Bahr<br>18.7.05<br>Noordwijk aan Zee</blockquote>\r\nDer Baedeker von 1904 beschreibt den Ort als\r\n<blockquote>am schönsten gelegenen Badeort der holländischen Küste</blockquote>\r\n",
+      "format": "full_html",
+      "processed": "Aus Südholland bekommen Gerhart und Margarete Hauptmann eine Postkarte:\n<blockquote>Herzlichst<br>Hermann Bahr<br>18.7.05<br>Noordwijk aan Zee</blockquote>\nDer Baedeker von 1904 beschreibt den Ort als\n<blockquote>am schönsten gelegenen Badeort der holländischen Küste</blockquote>\n",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1905-07-18",
+      "end_value": "1905-07-18"
+    },
+    "field_sources": [
+      "Peter Sprengel: Hermann Bahr und Gerhart Hauptmann in Briefen und anderen Zeugnissen. In: Johann Lachinger, Hg.: Hermann Bahr – Mittler der europäischen Moderne. Hermann Bahr-Symposion. Linz 1998. Linz: Adalbert-Stifter-Institut des Landes Oberösterreich 2001, 210.",
+      "Karl Baedeker: Belgien und Holland. Leipzig 1904, 385.</i>"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2c7b37cf-e79a-48ef-9e74-79bac68039e2/node_type?resourceVersion=id%3A2561"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2c7b37cf-e79a-48ef-9e74-79bac68039e2/relationships/node_type?resourceVersion=id%3A2561"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2c7b37cf-e79a-48ef-9e74-79bac68039e2/revision_uid?resourceVersion=id%3A2561"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2c7b37cf-e79a-48ef-9e74-79bac68039e2/relationships/revision_uid?resourceVersion=id%3A2561"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2c7b37cf-e79a-48ef-9e74-79bac68039e2/uid?resourceVersion=id%3A2561"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2c7b37cf-e79a-48ef-9e74-79bac68039e2/relationships/uid?resourceVersion=id%3A2561"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2c7b37cf-e79a-48ef-9e74-79bac68039e2/field_event_type?resourceVersion=id%3A2561"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2c7b37cf-e79a-48ef-9e74-79bac68039e2/relationships/field_event_type?resourceVersion=id%3A2561"
+        }
+      }
+    }
+  }
+}

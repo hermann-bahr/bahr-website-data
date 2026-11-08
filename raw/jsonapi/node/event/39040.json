@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "ff1406d6-d510-44aa-b696-5ca5f83589be",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/ff1406d6-d510-44aa-b696-5ca5f83589be?resourceVersion=id%3A2815"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/ff1406d6-d510-44aa-b696-5ca5f83589be?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39040,
+    "drupal_internal__vid": 2815,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Paris",
+    "created": "2011-04-11T09:13:30+00:00",
+    "changed": "2012-01-26T15:25:55+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39040",
+      "pid": 772,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 28. März 1910 kommt Bahr, von Calais kommend, in Paris an, wo er Zuloaga und Rose Silberer in ihren Ateliers besucht. Am 2. April reist er nach Mannheim.",
+      "format": "full_html",
+      "processed": "Am 28. März 1910 kommt Bahr, von Calais kommend, in Paris an, wo er Zuloaga und Rose Silberer in ihren Ateliers besucht. Am 2. April reist er nach Mannheim.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1910-03-28",
+      "end_value": "1910-04-02"
+    },
+    "field_sources": [
+      "Hermann Bahr: Aufzeichnungen 1909-1911. Ausgabe in Vorbereitung von Kurt Ifkovits\r\n",
+      "Hermann Bahr: Zuloaga. Neue Freie Presse, (1910) #16465, Morgenblatt, 1-3. (25.6.1910) "
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ff1406d6-d510-44aa-b696-5ca5f83589be/node_type?resourceVersion=id%3A2815"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ff1406d6-d510-44aa-b696-5ca5f83589be/relationships/node_type?resourceVersion=id%3A2815"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ff1406d6-d510-44aa-b696-5ca5f83589be/revision_uid?resourceVersion=id%3A2815"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ff1406d6-d510-44aa-b696-5ca5f83589be/relationships/revision_uid?resourceVersion=id%3A2815"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ff1406d6-d510-44aa-b696-5ca5f83589be/uid?resourceVersion=id%3A2815"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ff1406d6-d510-44aa-b696-5ca5f83589be/relationships/uid?resourceVersion=id%3A2815"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ff1406d6-d510-44aa-b696-5ca5f83589be/field_event_type?resourceVersion=id%3A2815"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ff1406d6-d510-44aa-b696-5ca5f83589be/relationships/field_event_type?resourceVersion=id%3A2815"
+        }
+      }
+    }
+  }
+}

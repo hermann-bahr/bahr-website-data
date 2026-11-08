@@ -1,0 +1,109 @@
+{
+  "type": "node--image",
+  "id": "576b9284-7506-4a99-bf84-d3a47deacf16",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/image/576b9284-7506-4a99-bf84-d3a47deacf16?resourceVersion=id%3A3972"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/image/576b9284-7506-4a99-bf84-d3a47deacf16?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38876,
+    "drupal_internal__vid": 3972,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:44:08+00:00",
+    "status": true,
+    "title": "1906 Mit Rosa Jokl / Rosa Bahr",
+    "created": "2011-02-21T17:19:07+00:00",
+    "changed": "2011-03-02T10:51:32+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/bild/38876",
+      "pid": 619,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<i>Berliner Illustrierte Zeitung, 1906, #253</i>",
+      "format": "full_html",
+      "processed": "<i>Berliner Illustrierte Zeitung, 1906, #253</i>",
+      "summary": null
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "e2381624-d098-4c5b-bdd7-5dbfd773b84e",
+        "meta": {
+          "drupal_internal__target_id": "image"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/576b9284-7506-4a99-bf84-d3a47deacf16/node_type?resourceVersion=id%3A3972"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/576b9284-7506-4a99-bf84-d3a47deacf16/relationships/node_type?resourceVersion=id%3A3972"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/576b9284-7506-4a99-bf84-d3a47deacf16/revision_uid?resourceVersion=id%3A3972"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/576b9284-7506-4a99-bf84-d3a47deacf16/relationships/revision_uid?resourceVersion=id%3A3972"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/576b9284-7506-4a99-bf84-d3a47deacf16/uid?resourceVersion=id%3A3972"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/576b9284-7506-4a99-bf84-d3a47deacf16/relationships/uid?resourceVersion=id%3A3972"
+        }
+      }
+    },
+    "field_images": {
+      "data": [
+        {
+          "type": "media--image",
+          "id": "1297e3d6-1cf1-4df2-b3ae-365239c908ad",
+          "meta": {
+            "drupal_internal__target_id": 152
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/576b9284-7506-4a99-bf84-d3a47deacf16/field_images?resourceVersion=id%3A3972"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/576b9284-7506-4a99-bf84-d3a47deacf16/relationships/field_images?resourceVersion=id%3A3972"
+        }
+      }
+    }
+  }
+}

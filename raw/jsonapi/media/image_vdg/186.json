@@ -1,0 +1,118 @@
+{
+  "type": "media--image_vdg",
+  "id": "fb17669d-fe02-4fd8-bb86-dcb1375c2a99",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/fb17669d-fe02-4fd8-bb86-dcb1375c2a99?resourceVersion=id%3A187"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/fb17669d-fe02-4fd8-bb86-dcb1375c2a99?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__mid": 186,
+    "drupal_internal__vid": 187,
+    "langcode": "de",
+    "revision_created": "2020-02-27T15:34:37+00:00",
+    "status": true,
+    "name": "Hermann Bahr, Kritische Schriften - 3 - Der Antisemitismus",
+    "created": "2020-02-27T15:34:14+00:00",
+    "changed": "2020-02-27T15:34:37+00:00",
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": null,
+      "pid": null,
+      "langcode": "de"
+    }
+  },
+  "relationships": {
+    "bundle": {
+      "data": {
+        "type": "media_type--media_type",
+        "id": "1e270fb0-cbb8-4385-a6d7-69db224c61f7",
+        "meta": {
+          "drupal_internal__target_id": "image_vdg"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/fb17669d-fe02-4fd8-bb86-dcb1375c2a99/bundle?resourceVersion=id%3A187"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/fb17669d-fe02-4fd8-bb86-dcb1375c2a99/relationships/bundle?resourceVersion=id%3A187"
+        }
+      }
+    },
+    "revision_user": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/fb17669d-fe02-4fd8-bb86-dcb1375c2a99/revision_user?resourceVersion=id%3A187"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/fb17669d-fe02-4fd8-bb86-dcb1375c2a99/relationships/revision_user?resourceVersion=id%3A187"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/fb17669d-fe02-4fd8-bb86-dcb1375c2a99/uid?resourceVersion=id%3A187"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/fb17669d-fe02-4fd8-bb86-dcb1375c2a99/relationships/uid?resourceVersion=id%3A187"
+        }
+      }
+    },
+    "thumbnail": {
+      "data": {
+        "type": "file--file",
+        "id": "840fb313-cfbd-4570-a8a2-c0db148b5a47",
+        "meta": {
+          "alt": "Hermann Bahr, Kritische Schriften - 3 - Der Antisemitismus",
+          "title": null,
+          "width": 200,
+          "height": 286,
+          "drupal_internal__target_id": 261
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/fb17669d-fe02-4fd8-bb86-dcb1375c2a99/thumbnail?resourceVersion=id%3A187"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/fb17669d-fe02-4fd8-bb86-dcb1375c2a99/relationships/thumbnail?resourceVersion=id%3A187"
+        }
+      }
+    },
+    "field_media_image_1": {
+      "data": {
+        "type": "file--file",
+        "id": "840fb313-cfbd-4570-a8a2-c0db148b5a47",
+        "meta": {
+          "alt": "Hermann Bahr, Kritische Schriften - 3 - Der Antisemitismus",
+          "title": "",
+          "width": 200,
+          "height": 286,
+          "drupal_internal__target_id": 261
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/fb17669d-fe02-4fd8-bb86-dcb1375c2a99/field_media_image_1?resourceVersion=id%3A187"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/fb17669d-fe02-4fd8-bb86-dcb1375c2a99/relationships/field_media_image_1?resourceVersion=id%3A187"
+        }
+      }
+    }
+  }
+}

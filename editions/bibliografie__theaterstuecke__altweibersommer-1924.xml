@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bibliografie__theaterstuecke__altweibersommer-1924" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Altweibersommer (1924)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">49681</idno>
+        <idno type="drupal-alias">/bibliografie/49681</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bibliografie/49681">https://bahr.univie.ac.at/bibliografie/49681</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+        <bibl type="beschriebene-ausgabe">
+          <author>Hermann Bahr</author>
+          <title type="main">Altweibersommer</title>
+          <title type="sub">Ein Liebesschwank in drei Aufzügen</title>
+          <pubPlace>Berlin</pubPlace>
+          <publisher>Ahn &amp; Simrock</publisher>
+          <date>1924</date>
+          <extent>53</extent>
+          <note>Nur als Bühnenmanuskript sowie in der Neuen Freien Presse, 15.11., 23.11. und 30.11.1924 gedruckt.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="1" key="bibliografie">Bibliografie</term>
+          <term n="2" key="theaterstuecke">Theaterstücke</term>
+          <term n="1" key="altweibersommer-1924" type="eintrag">Altweibersommer (1924)</term>
+        </keywords>
+        <classCode scheme="drupal-type">bibliographie</classCode>
+        <keywords scheme="bibliografie_type">
+          <term>Theaterstücke</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2011-11-23T13:39:46+00:00" type="created">angelegt in Drupal</change>
+      <change when="2012-12-05T09:00:33+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="bib">
+        <head>Bühnenmanuskript</head>
+        <table type="bibliografie">
+          <row>
+            <cell>Autor:</cell>
+            <cell>Hermann Bahr</cell>
+          </row>
+          <row>
+            <cell>Titel:</cell>
+            <cell>Altweibersommer</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>Ein Liebesschwank in drei Aufzügen</cell>
+          </row>
+          <row>
+            <cell>Ort:</cell>
+            <cell>Berlin</cell>
+          </row>
+          <row>
+            <cell>Verlag:</cell>
+            <cell>Ahn &amp; Simrock</cell>
+          </row>
+          <row>
+            <cell>Jahr:</cell>
+            <cell>1924</cell>
+          </row>
+          <row>
+            <cell>Seiten:</cell>
+            <cell>53</cell>
+          </row>
+          <row>
+            <cell>Anm.:</cell>
+            <cell>Nur als Bühnenmanuskript sowie in der Neuen Freien Presse, 15.11., 23.11. und 30.11.1924 gedruckt.</cell>
+          </row>
+        </table>
+      </div>
+      <div xml:id="auff">
+        <head>Inszenierungen</head>
+        <p>21. Jänner 1925 Uraufführung Akademietheater, Wien 21. Jänner 1926 zusammen mit "Der Selige", Akademietheater, Wien</p>
+      </div>
+      <div>
+        <head>Rezensionen</head>
+        <p>-bs: Bahr-Schwänke. Akademietheater. Neues Wiener Journal, 34 (1926) #11556, 11. (23.1.1926)</p>
+      </div>
+      <div>
+        <head>Digitalisate</head>
+        <p>
+          <ref target="https://books.google.at/books?id=Kko4GwAACAAJ">Google Books</ref>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

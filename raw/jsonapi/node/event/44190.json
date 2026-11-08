@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "6337b2d0-fafa-47b8-89d0-3cdfb44a108b",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/6337b2d0-fafa-47b8-89d0-3cdfb44a108b?resourceVersion=id%3A3104"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/6337b2d0-fafa-47b8-89d0-3cdfb44a108b?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44190,
+    "drupal_internal__vid": 3104,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Ivo Vojnović",
+    "created": "2011-09-19T15:55:10+00:00",
+    "changed": "2011-10-11T10:32:59+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44190",
+      "pid": 1083,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Aufgefordert von Jaroslav Kvapil, setzt sich Bahr kurz nach Kriegsbeginn sehr intensiv für die Freilassung des kroatischen Dichters Ivo Vojnović ein, der am 26. Juli 1914 in Ragusa verhaftet worden ist. Er schreibt am 1. September den österreichischen Ministerpräsidenten Karl Stürgkh und an den ungarischen Ministerpräsidenten István Tisza und versucht erfolglos, Meldungen in Zeitungen zu platzieren. Am 16. September kann er eine Antwort Stürgkhs weitermelden, dass der Dichter zwar nicht enthaftet, aber auch nicht in unmittelbarer Gefahr stünde. Auch in Folge bleibt er dran.",
+      "format": "full_html",
+      "processed": "Aufgefordert von Jaroslav Kvapil, setzt sich Bahr kurz nach Kriegsbeginn sehr intensiv für die Freilassung des kroatischen Dichters Ivo Vojnović ein, der am 26. Juli 1914 in Ragusa verhaftet worden ist. Er schreibt am 1. September den österreichischen Ministerpräsidenten Karl Stürgkh und an den ungarischen Ministerpräsidenten István Tisza und versucht erfolglos, Meldungen in Zeitungen zu platzieren. Am 16. September kann er eine Antwort Stürgkhs weitermelden, dass der Dichter zwar nicht enthaftet, aber auch nicht in unmittelbarer Gefahr stünde. Auch in Folge bleibt er dran.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1914-09-01",
+      "end_value": "1914-09-16"
+    },
+    "field_sources": [
+      "Bahr/Kvapil, 160-168 und Anm.",
+      "Bahr/Redlich, 98-102."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6337b2d0-fafa-47b8-89d0-3cdfb44a108b/node_type?resourceVersion=id%3A3104"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6337b2d0-fafa-47b8-89d0-3cdfb44a108b/relationships/node_type?resourceVersion=id%3A3104"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6337b2d0-fafa-47b8-89d0-3cdfb44a108b/revision_uid?resourceVersion=id%3A3104"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6337b2d0-fafa-47b8-89d0-3cdfb44a108b/relationships/revision_uid?resourceVersion=id%3A3104"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6337b2d0-fafa-47b8-89d0-3cdfb44a108b/uid?resourceVersion=id%3A3104"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6337b2d0-fafa-47b8-89d0-3cdfb44a108b/relationships/uid?resourceVersion=id%3A3104"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6337b2d0-fafa-47b8-89d0-3cdfb44a108b/field_event_type?resourceVersion=id%3A3104"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6337b2d0-fafa-47b8-89d0-3cdfb44a108b/relationships/field_event_type?resourceVersion=id%3A3104"
+        }
+      }
+    }
+  }
+}

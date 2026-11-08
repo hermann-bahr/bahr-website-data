@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "b9c56af8-acb0-4cc1-ade8-e0f3f6822601",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b9c56af8-acb0-4cc1-ade8-e0f3f6822601?resourceVersion=id%3A3099"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b9c56af8-acb0-4cc1-ade8-e0f3f6822601?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44185,
+    "drupal_internal__vid": 3099,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Dalmatien",
+    "created": "2011-09-19T12:10:30+00:00",
+    "changed": "2011-09-19T12:22:54+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44185",
+      "pid": 1078,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Nach einer Vortragsreise ging Bahr auf ein paar Tage nach Dalmatien. Am 20. November 1911 ist er in Triest, dann folgen Cattaro, Gravosa und Ragusa, am 25. langt er wieder in Wien an.",
+      "format": "full_html",
+      "processed": "Nach einer Vortragsreise ging Bahr auf ein paar Tage nach Dalmatien. Am 20. November 1911 ist er in Triest, dann folgen Cattaro, Gravosa und Ragusa, am 25. langt er wieder in Wien an.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1911-11-20",
+      "end_value": "1911-11-25"
+    },
+    "field_sources": [
+      "Bahr/Kvapil, 147 und Anmerkung Kurt Ifkovits, S. 350."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b9c56af8-acb0-4cc1-ade8-e0f3f6822601/node_type?resourceVersion=id%3A3099"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b9c56af8-acb0-4cc1-ade8-e0f3f6822601/relationships/node_type?resourceVersion=id%3A3099"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b9c56af8-acb0-4cc1-ade8-e0f3f6822601/revision_uid?resourceVersion=id%3A3099"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b9c56af8-acb0-4cc1-ade8-e0f3f6822601/relationships/revision_uid?resourceVersion=id%3A3099"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b9c56af8-acb0-4cc1-ade8-e0f3f6822601/uid?resourceVersion=id%3A3099"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b9c56af8-acb0-4cc1-ade8-e0f3f6822601/relationships/uid?resourceVersion=id%3A3099"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b9c56af8-acb0-4cc1-ade8-e0f3f6822601/field_event_type?resourceVersion=id%3A3099"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b9c56af8-acb0-4cc1-ade8-e0f3f6822601/relationships/field_event_type?resourceVersion=id%3A3099"
+        }
+      }
+    }
+  }
+}

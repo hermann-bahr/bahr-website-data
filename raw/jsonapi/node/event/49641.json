@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "abcbafd1-a1bd-4edb-b24d-2d1dcaea2982",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/abcbafd1-a1bd-4edb-b24d-2d1dcaea2982?resourceVersion=id%3A3466"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/abcbafd1-a1bd-4edb-b24d-2d1dcaea2982?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49641,
+    "drupal_internal__vid": 3466,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Emil Auspitzer",
+    "created": "2011-11-21T10:12:12+00:00",
+    "changed": "2012-10-29T09:53:14+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49641",
+      "pid": 1456,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Auf der Theaterausstellung im Frühling 1892 will Bahr Emil Auspitzer kennengelernt haben:<blockquote>In dieser Ausstellung ward ich mit ihrem Direktor bekannt, Dr. Emil Auspitzer, dem Sekretär des Gewerbevereins, der Gefallen an mir fand und, als er im Herbst die Deutsche Zeitung übernahm, mir da die Theaterkritik und das Feuilleton anbot, für dreihundert Gulden monatlich, was damals nach meinen Begriffen eine „Riesengage“ war. Damit begann im Herbst 1892 meine Wiener Tätigkeit. </blockquote>Mit dem Briefwechsel Bahr/Hofmannsthal lässt sich die Bekanntschaft aber bereits auf die Vorbereitungsphase der Ausstellung, unmittelbar vor dem 2. Oktober 1891, datieren.",
+      "format": "full_html",
+      "processed": "Auf der Theaterausstellung im Frühling 1892 will Bahr Emil Auspitzer kennengelernt haben:<blockquote>In dieser Ausstellung ward ich mit ihrem Direktor bekannt, Dr. Emil Auspitzer, dem Sekretär des Gewerbevereins, der Gefallen an mir fand und, als er im Herbst die Deutsche Zeitung übernahm, mir da die Theaterkritik und das Feuilleton anbot, für dreihundert Gulden monatlich, was damals nach meinen Begriffen eine „Riesengage“ war. Damit begann im Herbst 1892 meine Wiener Tätigkeit. </blockquote>Mit dem Briefwechsel Bahr/Hofmannsthal lässt sich die Bekanntschaft aber bereits auf die Vorbereitungsphase der Ausstellung, unmittelbar vor dem 2. Oktober 1891, datieren.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1891-10-02",
+      "end_value": "1891-10-02"
+    },
+    "field_sources": [
+      "Briefwechsel Bahr/Hofmannsthal. Hg. Elsbeth Dangel-Pelloquin. Göttingen: Wallstein. (In Vorbereitung), An HvH, 2.10.1891"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/abcbafd1-a1bd-4edb-b24d-2d1dcaea2982/node_type?resourceVersion=id%3A3466"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/abcbafd1-a1bd-4edb-b24d-2d1dcaea2982/relationships/node_type?resourceVersion=id%3A3466"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/abcbafd1-a1bd-4edb-b24d-2d1dcaea2982/revision_uid?resourceVersion=id%3A3466"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/abcbafd1-a1bd-4edb-b24d-2d1dcaea2982/relationships/revision_uid?resourceVersion=id%3A3466"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/abcbafd1-a1bd-4edb-b24d-2d1dcaea2982/uid?resourceVersion=id%3A3466"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/abcbafd1-a1bd-4edb-b24d-2d1dcaea2982/relationships/uid?resourceVersion=id%3A3466"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/abcbafd1-a1bd-4edb-b24d-2d1dcaea2982/field_event_type?resourceVersion=id%3A3466"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/abcbafd1-a1bd-4edb-b24d-2d1dcaea2982/relationships/field_event_type?resourceVersion=id%3A3466"
+        }
+      }
+    }
+  }
+}

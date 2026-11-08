@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "6bb0fcd6-25a9-454b-87ea-e9d2f3a44fc5",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/6bb0fcd6-25a9-454b-87ea-e9d2f3a44fc5?resourceVersion=id%3A2673"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/6bb0fcd6-25a9-454b-87ea-e9d2f3a44fc5?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38857,
+    "drupal_internal__vid": 2673,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Barerstr. 50, 1. Stock",
+    "created": "2011-02-15T17:02:14+00:00",
+    "changed": "2012-01-16T10:42:26+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38857",
+      "pid": 601,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Das Münchner Stadtadressbuch für das Jahr 1923 (=Mitte 1922) bringt erstmals Bahrs Wohnsitz in München: <blockquote>Bahr, Hermann Schriftstell. Barerstr. 50<small>1</small><br>Bahr-Mildenburg, Anna Akademieprofessor, Kammersängerin Maximilianst. 4</blockquote>Anna Bahr-Mildenburg dürfte also ihre alte Wohnung vorläufig - oder als Büro - behalten haben.\r\n\r\n",
+      "format": "full_html",
+      "processed": "Das Münchner Stadtadressbuch für das Jahr 1923 (=Mitte 1922) bringt erstmals Bahrs Wohnsitz in München: <blockquote>Bahr, Hermann Schriftstell. Barerstr. 50<small>1</small><br>Bahr-Mildenburg, Anna Akademieprofessor, Kammersängerin Maximilianst. 4</blockquote>Anna Bahr-Mildenburg dürfte also ihre alte Wohnung vorläufig - oder als Büro - behalten haben.\n\n",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1922-07-01",
+      "end_value": "1922-07-01"
+    },
+    "field_sources": [
+      "Vgl. auch Liebe der Lebenden, II, 186. (30.7.1922)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6bb0fcd6-25a9-454b-87ea-e9d2f3a44fc5/node_type?resourceVersion=id%3A2673"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6bb0fcd6-25a9-454b-87ea-e9d2f3a44fc5/relationships/node_type?resourceVersion=id%3A2673"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6bb0fcd6-25a9-454b-87ea-e9d2f3a44fc5/revision_uid?resourceVersion=id%3A2673"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6bb0fcd6-25a9-454b-87ea-e9d2f3a44fc5/relationships/revision_uid?resourceVersion=id%3A2673"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6bb0fcd6-25a9-454b-87ea-e9d2f3a44fc5/uid?resourceVersion=id%3A2673"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6bb0fcd6-25a9-454b-87ea-e9d2f3a44fc5/relationships/uid?resourceVersion=id%3A2673"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6bb0fcd6-25a9-454b-87ea-e9d2f3a44fc5/field_event_type?resourceVersion=id%3A2673"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6bb0fcd6-25a9-454b-87ea-e9d2f3a44fc5/relationships/field_event_type?resourceVersion=id%3A2673"
+        }
+      }
+    }
+  }
+}

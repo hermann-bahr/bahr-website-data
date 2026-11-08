@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "504b1de3-4797-4a30-9a5f-f8e1ee5bf376",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/504b1de3-4797-4a30-9a5f-f8e1ee5bf376?resourceVersion=id%3A2811"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/504b1de3-4797-4a30-9a5f-f8e1ee5bf376?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39034,
+    "drupal_internal__vid": 2811,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Seipel",
+    "created": "2011-04-07T12:39:14+00:00",
+    "changed": "2011-10-28T12:14:59+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39034",
+      "pid": 767,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Zu seinem 60. Geburtstag (19.7.1923) gratuliert ihm der Bundeskanzler Ignaz Seipel mit einem in den Zeitungen abgedruckten Brief. Bahr revanchierte sich auf seine Weise: Mit einem Feuilleton über Seipel, das drei Monate später erscheint.",
+      "format": "full_html",
+      "processed": "Zu seinem 60. Geburtstag (19.7.1923) gratuliert ihm der Bundeskanzler Ignaz Seipel mit einem in den Zeitungen abgedruckten Brief. Bahr revanchierte sich auf seine Weise: Mit einem Feuilleton über Seipel, das drei Monate später erscheint.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1923-07-19",
+      "end_value": "1923-07-19"
+    },
+    "field_sources": [
+      "Hermann Bahr. Ein Glückwunschschreiben des Bundeskanzlers. In: Salzburger Chronik, 59 (1923) #163, 3-4. (21.7.1923)",
+      "[O.N.] Hermann Bahrs 60. Geburtstag. Der Glückwunsch des Bundeskanzlers Dr. Seipel. In: Neues Wiener Tagblatt, 20.7.1923, 9.",
+      "Hermann Bahr: Seipel. Salzburger Chronik, 59 (1923) #241, 3. (24.10.1923)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/504b1de3-4797-4a30-9a5f-f8e1ee5bf376/node_type?resourceVersion=id%3A2811"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/504b1de3-4797-4a30-9a5f-f8e1ee5bf376/relationships/node_type?resourceVersion=id%3A2811"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/504b1de3-4797-4a30-9a5f-f8e1ee5bf376/revision_uid?resourceVersion=id%3A2811"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/504b1de3-4797-4a30-9a5f-f8e1ee5bf376/relationships/revision_uid?resourceVersion=id%3A2811"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/504b1de3-4797-4a30-9a5f-f8e1ee5bf376/uid?resourceVersion=id%3A2811"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/504b1de3-4797-4a30-9a5f-f8e1ee5bf376/relationships/uid?resourceVersion=id%3A2811"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/504b1de3-4797-4a30-9a5f-f8e1ee5bf376/field_event_type?resourceVersion=id%3A2811"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/504b1de3-4797-4a30-9a5f-f8e1ee5bf376/relationships/field_event_type?resourceVersion=id%3A2811"
+        }
+      }
+    }
+  }
+}

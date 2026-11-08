@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "36446f03-fb09-4d81-8599-2d8a221df1c9",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/36446f03-fb09-4d81-8599-2d8a221df1c9?resourceVersion=id%3A2941"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/36446f03-fb09-4d81-8599-2d8a221df1c9?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44016,
+    "drupal_internal__vid": 2941,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Pläne für Schauspielschule",
+    "created": "2011-07-15T10:19:14+00:00",
+    "changed": "2011-09-08T14:30:51+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44016",
+      "pid": 914,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Gemeinsam mit Josef Olbrich versucht Bahr 1900 eine - nie verwirklichte - Theaterschule in Darmstadt einzurichten:<blockquote>in der junge Männer und Mädchen künstlerisch ausgebildet werden sollen. Mit der Schule ist eine Üb[ung]sbühne verbunden und die [Landnation] werden zu Künstlerfesten herangezogen.</blockquote>Bahr reflektiert die Sache 1903 in einer Besprechung des \"Kleinen Theaters\".",
+      "format": "full_html",
+      "processed": "Gemeinsam mit Josef Olbrich versucht Bahr 1900 eine - nie verwirklichte - Theaterschule in Darmstadt einzurichten:<blockquote>in der junge Männer und Mädchen künstlerisch ausgebildet werden sollen. Mit der Schule ist eine Üb[ung]sbühne verbunden und die [Landnation]&nbsp;werden zu Künstlerfesten herangezogen.</blockquote>Bahr reflektiert die Sache 1903 in einer Besprechung des \"Kleinen Theaters\".",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1900-01-01",
+      "end_value": "1900-01-01"
+    },
+    "field_sources": [
+      "Tagebücher (Csàky), II, 434-435, 441-445 u.ö.",
+      "Hermann Bahr: Kleines Theater. (Zum Gastspiele im Deutschen Volkstheater vom 1. bis 10. Mai 1903). Neues Wiener Tagblatt, 37 (1903) #119, 2-4. (1.5.1903) Buchausgabe: Glossen, 236-244."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/36446f03-fb09-4d81-8599-2d8a221df1c9/node_type?resourceVersion=id%3A2941"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/36446f03-fb09-4d81-8599-2d8a221df1c9/relationships/node_type?resourceVersion=id%3A2941"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/36446f03-fb09-4d81-8599-2d8a221df1c9/revision_uid?resourceVersion=id%3A2941"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/36446f03-fb09-4d81-8599-2d8a221df1c9/relationships/revision_uid?resourceVersion=id%3A2941"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/36446f03-fb09-4d81-8599-2d8a221df1c9/uid?resourceVersion=id%3A2941"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/36446f03-fb09-4d81-8599-2d8a221df1c9/relationships/uid?resourceVersion=id%3A2941"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/36446f03-fb09-4d81-8599-2d8a221df1c9/field_event_type?resourceVersion=id%3A2941"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/36446f03-fb09-4d81-8599-2d8a221df1c9/relationships/field_event_type?resourceVersion=id%3A2941"
+        }
+      }
+    }
+  }
+}

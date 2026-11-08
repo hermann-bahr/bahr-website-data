@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "71b3b09e-764b-429c-a5ad-0b70df868714",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/71b3b09e-764b-429c-a5ad-0b70df868714?resourceVersion=id%3A3720"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/71b3b09e-764b-429c-a5ad-0b70df868714?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74392,
+    "drupal_internal__vid": 3720,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Schwiegervater †",
+    "created": "2012-10-22T18:58:50+00:00",
+    "changed": "2012-10-29T09:55:46+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/74392",
+      "pid": 1766,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 20. Januar 1899 stirbt nach schwerer Krankheit im Alter von 53 Jahren Leopold Jokl, der Vater Rosa Bahrs. Beerdigt wird er am 22. auf dem Wiener Zentralfriedhof. Als seinen Beruf gibt das Adressbuch Lehmann an: Schriftenmaler und Annoncenvermittler. Die letzte Wohnadresse lautet: Mariahilferstr. 42, was insofern von Interesse ist, als im Nebenhaus (Nummer 44) seine Tochter eine Wohnung beziehen wird.",
+      "format": "full_html",
+      "processed": "Am 20. Januar 1899 stirbt nach schwerer Krankheit im Alter von 53 Jahren Leopold Jokl, der Vater Rosa Bahrs. Beerdigt wird er am 22. auf dem Wiener Zentralfriedhof. Als seinen Beruf gibt das Adressbuch Lehmann an: Schriftenmaler und Annoncenvermittler. Die letzte Wohnadresse lautet: Mariahilferstr. 42, was insofern von Interesse ist, als im Nebenhaus (Nummer 44) seine Tochter eine Wohnung beziehen wird.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1899-01-20",
+      "end_value": "1899-01-20"
+    },
+    "field_sources": [
+      "Bahr an Gerty Schlesinger, 21.1.1899. Briefwechsel Bahr/Hofmannsthal. Hg. Elsbeth Dangel-Pelloquin. Göttingen: Wallstein. (In Vorbereitung)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/71b3b09e-764b-429c-a5ad-0b70df868714/node_type?resourceVersion=id%3A3720"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/71b3b09e-764b-429c-a5ad-0b70df868714/relationships/node_type?resourceVersion=id%3A3720"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/71b3b09e-764b-429c-a5ad-0b70df868714/revision_uid?resourceVersion=id%3A3720"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/71b3b09e-764b-429c-a5ad-0b70df868714/relationships/revision_uid?resourceVersion=id%3A3720"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/71b3b09e-764b-429c-a5ad-0b70df868714/uid?resourceVersion=id%3A3720"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/71b3b09e-764b-429c-a5ad-0b70df868714/relationships/uid?resourceVersion=id%3A3720"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/71b3b09e-764b-429c-a5ad-0b70df868714/field_event_type?resourceVersion=id%3A3720"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/71b3b09e-764b-429c-a5ad-0b70df868714/relationships/field_event_type?resourceVersion=id%3A3720"
+        }
+      }
+    }
+  }
+}

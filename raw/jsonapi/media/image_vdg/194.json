@@ -1,0 +1,118 @@
+{
+  "type": "media--image_vdg",
+  "id": "f8b11a26-bfa7-4633-9c93-7186a37d6d62",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/f8b11a26-bfa7-4633-9c93-7186a37d6d62?resourceVersion=id%3A195"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/f8b11a26-bfa7-4633-9c93-7186a37d6d62?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__mid": 194,
+    "drupal_internal__vid": 195,
+    "langcode": "de",
+    "revision_created": "2020-02-27T15:41:52+00:00",
+    "status": true,
+    "name": "11.jpg",
+    "created": "2020-02-27T15:41:38+00:00",
+    "changed": "2020-02-27T15:41:38+00:00",
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": null,
+      "pid": null,
+      "langcode": "de"
+    }
+  },
+  "relationships": {
+    "bundle": {
+      "data": {
+        "type": "media_type--media_type",
+        "id": "1e270fb0-cbb8-4385-a6d7-69db224c61f7",
+        "meta": {
+          "drupal_internal__target_id": "image_vdg"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/f8b11a26-bfa7-4633-9c93-7186a37d6d62/bundle?resourceVersion=id%3A195"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/f8b11a26-bfa7-4633-9c93-7186a37d6d62/relationships/bundle?resourceVersion=id%3A195"
+        }
+      }
+    },
+    "revision_user": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/f8b11a26-bfa7-4633-9c93-7186a37d6d62/revision_user?resourceVersion=id%3A195"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/f8b11a26-bfa7-4633-9c93-7186a37d6d62/relationships/revision_user?resourceVersion=id%3A195"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/f8b11a26-bfa7-4633-9c93-7186a37d6d62/uid?resourceVersion=id%3A195"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/f8b11a26-bfa7-4633-9c93-7186a37d6d62/relationships/uid?resourceVersion=id%3A195"
+        }
+      }
+    },
+    "thumbnail": {
+      "data": {
+        "type": "file--file",
+        "id": "3a5267a3-927f-4b4c-8341-1e8c522c328c",
+        "meta": {
+          "alt": "Hermann Bahr, Kritische Schriften - 11 - Austriaca",
+          "title": null,
+          "width": 202,
+          "height": 286,
+          "drupal_internal__target_id": 269
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/f8b11a26-bfa7-4633-9c93-7186a37d6d62/thumbnail?resourceVersion=id%3A195"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/f8b11a26-bfa7-4633-9c93-7186a37d6d62/relationships/thumbnail?resourceVersion=id%3A195"
+        }
+      }
+    },
+    "field_media_image_1": {
+      "data": {
+        "type": "file--file",
+        "id": "3a5267a3-927f-4b4c-8341-1e8c522c328c",
+        "meta": {
+          "alt": "Hermann Bahr, Kritische Schriften - 11 - Austriaca",
+          "title": "",
+          "width": 202,
+          "height": 286,
+          "drupal_internal__target_id": 269
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/f8b11a26-bfa7-4633-9c93-7186a37d6d62/field_media_image_1?resourceVersion=id%3A195"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/f8b11a26-bfa7-4633-9c93-7186a37d6d62/relationships/field_media_image_1?resourceVersion=id%3A195"
+        }
+      }
+    }
+  }
+}

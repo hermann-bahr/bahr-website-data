@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "f9ead29a-6ae6-4f1f-8cae-c19fda34812b",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f9ead29a-6ae6-4f1f-8cae-c19fda34812b?resourceVersion=id%3A2499"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f9ead29a-6ae6-4f1f-8cae-c19fda34812b?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28192,
+    "drupal_internal__vid": 2499,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Bromberg, Hamburg",
+    "created": "2010-09-21T15:50:31+00:00",
+    "changed": "2011-09-08T10:47:42+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28192",
+      "pid": 337,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Auf der Fahrt von Bromberg nach Hamburg am 8. Februar 1911 liest Bahr H. G. Wells: The New Machiavelli. (So datiert er es im Tagebuch, das er im Pan veröffentlicht). Vermutlich handelt es sich um das heutige Bydgoszcz in Polen und nicht um das im Bezirk Wiener Neustadt gelegene Kaff.",
+      "format": "full_html",
+      "processed": "Auf der Fahrt von Bromberg nach Hamburg am 8. Februar 1911 liest Bahr H. G. Wells: The New Machiavelli. (So datiert er es im Tagebuch, das er im Pan veröffentlicht). Vermutlich handelt es sich um das heutige Bydgoszcz in Polen und nicht um das im Bezirk Wiener Neustadt gelegene Kaff.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1911-02-08",
+      "end_value": "1911-02-08"
+    },
+    "field_sources": [
+      "Hermann Bahr: Tagebuch. In: Pan, 1 (1911) #10, 328-330. (16.3.1911)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f9ead29a-6ae6-4f1f-8cae-c19fda34812b/node_type?resourceVersion=id%3A2499"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f9ead29a-6ae6-4f1f-8cae-c19fda34812b/relationships/node_type?resourceVersion=id%3A2499"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f9ead29a-6ae6-4f1f-8cae-c19fda34812b/revision_uid?resourceVersion=id%3A2499"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f9ead29a-6ae6-4f1f-8cae-c19fda34812b/relationships/revision_uid?resourceVersion=id%3A2499"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f9ead29a-6ae6-4f1f-8cae-c19fda34812b/uid?resourceVersion=id%3A2499"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f9ead29a-6ae6-4f1f-8cae-c19fda34812b/relationships/uid?resourceVersion=id%3A2499"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f9ead29a-6ae6-4f1f-8cae-c19fda34812b/field_event_type?resourceVersion=id%3A2499"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f9ead29a-6ae6-4f1f-8cae-c19fda34812b/relationships/field_event_type?resourceVersion=id%3A2499"
+        }
+      }
+    }
+  }
+}

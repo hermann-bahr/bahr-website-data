@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "b31b8fb5-a080-44d4-9b0f-e55401c0f7ef",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b31b8fb5-a080-44d4-9b0f-e55401c0f7ef?resourceVersion=id%3A2611"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b31b8fb5-a080-44d4-9b0f-e55401c0f7ef?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38790,
+    "drupal_internal__vid": 2611,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Theaterfragen",
+    "created": "2011-02-01T13:59:41+00:00",
+    "changed": "2011-07-22T16:10:49+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38790",
+      "pid": 538,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am Osterdienstag, 16. April 1895, spricht Bahr in der Grillparzergesellschaft (8 Uhr Abend, Architektenverein, Eschenbachg. 9, 2. Stock) über \"Theaterfragen\"",
+      "format": "full_html",
+      "processed": "Am Osterdienstag, 16. April 1895, spricht Bahr in der Grillparzergesellschaft (8 Uhr Abend, Architektenverein, Eschenbachg. 9, 2. Stock) über \"Theaterfragen\"",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1895-04-16",
+      "end_value": "1895-04-16"
+    },
+    "field_sources": [
+      "Die Presse, 48 (1895) #105, 5. (16.4.1895)",
+      "Hermann Bahr: Theater. (Aus einem Vortrage in der \"Grillparzer-Gesellschaft\"). Die Zeit, 3 (1895) #29, 42-44. (20.4.1895)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b31b8fb5-a080-44d4-9b0f-e55401c0f7ef/node_type?resourceVersion=id%3A2611"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b31b8fb5-a080-44d4-9b0f-e55401c0f7ef/relationships/node_type?resourceVersion=id%3A2611"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b31b8fb5-a080-44d4-9b0f-e55401c0f7ef/revision_uid?resourceVersion=id%3A2611"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b31b8fb5-a080-44d4-9b0f-e55401c0f7ef/relationships/revision_uid?resourceVersion=id%3A2611"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b31b8fb5-a080-44d4-9b0f-e55401c0f7ef/uid?resourceVersion=id%3A2611"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b31b8fb5-a080-44d4-9b0f-e55401c0f7ef/relationships/uid?resourceVersion=id%3A2611"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b31b8fb5-a080-44d4-9b0f-e55401c0f7ef/field_event_type?resourceVersion=id%3A2611"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b31b8fb5-a080-44d4-9b0f-e55401c0f7ef/relationships/field_event_type?resourceVersion=id%3A2611"
+        }
+      }
+    }
+  }
+}

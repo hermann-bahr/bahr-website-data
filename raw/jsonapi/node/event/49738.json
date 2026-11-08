@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "f47482a2-0305-4c18-ac9c-8bf052b84612",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f47482a2-0305-4c18-ac9c-8bf052b84612?resourceVersion=id%3A3511"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f47482a2-0305-4c18-ac9c-8bf052b84612?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49738,
+    "drupal_internal__vid": 3511,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Kassel",
+    "created": "2011-12-20T15:11:38+00:00",
+    "changed": "2011-12-20T15:30:18+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49738",
+      "pid": 1551,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Für den 31. Oktober 1916 plant Bahr, im Hotel König von Preußen zu sein.",
+      "format": "full_html",
+      "processed": "Für den 31. Oktober 1916 plant Bahr, im Hotel König von Preußen zu sein.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1916-10-31",
+      "end_value": "1916-10-31"
+    },
+    "field_sources": [
+      "Hermann Bahr: Meister und Meisterbriefe um Hermann Bahr. Aus seinen Entwürfen, Tagebüchern und seinem Briefwechsel. Ausgewählt und eingeleitet von Joseph Gregor. Wien: Hermann Bauer 1947, 90. (Brief an R. Strauß, 23.9.1915 [recte 1916])"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f47482a2-0305-4c18-ac9c-8bf052b84612/node_type?resourceVersion=id%3A3511"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f47482a2-0305-4c18-ac9c-8bf052b84612/relationships/node_type?resourceVersion=id%3A3511"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f47482a2-0305-4c18-ac9c-8bf052b84612/revision_uid?resourceVersion=id%3A3511"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f47482a2-0305-4c18-ac9c-8bf052b84612/relationships/revision_uid?resourceVersion=id%3A3511"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f47482a2-0305-4c18-ac9c-8bf052b84612/uid?resourceVersion=id%3A3511"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f47482a2-0305-4c18-ac9c-8bf052b84612/relationships/uid?resourceVersion=id%3A3511"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f47482a2-0305-4c18-ac9c-8bf052b84612/field_event_type?resourceVersion=id%3A3511"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f47482a2-0305-4c18-ac9c-8bf052b84612/relationships/field_event_type?resourceVersion=id%3A3511"
+        }
+      }
+    }
+  }
+}

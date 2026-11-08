@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "cbbb099e-b7dc-4349-b22c-fa5b6d4ebc41",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/cbbb099e-b7dc-4349-b22c-fa5b6d4ebc41?resourceVersion=id%3A3089"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/cbbb099e-b7dc-4349-b22c-fa5b6d4ebc41?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44175,
+    "drupal_internal__vid": 3089,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Semmering",
+    "created": "2011-09-15T16:50:16+00:00",
+    "changed": "2012-01-26T15:02:16+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44175",
+      "pid": 1068,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Um sich von der Deutschland-Tournee zu erholen, reist Bahr vom 12. bis zum 20. Dezember 1909 an den Semmering in die Villa Mautner.",
+      "format": "full_html",
+      "processed": "Um sich von der Deutschland-Tournee zu erholen, reist Bahr vom 12. bis zum 20. Dezember 1909 an den Semmering in die Villa Mautner.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1909-12-12",
+      "end_value": "1909-12-20"
+    },
+    "field_sources": [
+      "Hermann Bahr: Aufzeichnungen 1909-1911. Ausgabe in Vorbereitung von Kurt Ifkovits\r\n",
+      "Bahr/Kvapil, 115."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cbbb099e-b7dc-4349-b22c-fa5b6d4ebc41/node_type?resourceVersion=id%3A3089"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cbbb099e-b7dc-4349-b22c-fa5b6d4ebc41/relationships/node_type?resourceVersion=id%3A3089"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cbbb099e-b7dc-4349-b22c-fa5b6d4ebc41/revision_uid?resourceVersion=id%3A3089"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cbbb099e-b7dc-4349-b22c-fa5b6d4ebc41/relationships/revision_uid?resourceVersion=id%3A3089"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cbbb099e-b7dc-4349-b22c-fa5b6d4ebc41/uid?resourceVersion=id%3A3089"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cbbb099e-b7dc-4349-b22c-fa5b6d4ebc41/relationships/uid?resourceVersion=id%3A3089"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cbbb099e-b7dc-4349-b22c-fa5b6d4ebc41/field_event_type?resourceVersion=id%3A3089"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cbbb099e-b7dc-4349-b22c-fa5b6d4ebc41/relationships/field_event_type?resourceVersion=id%3A3089"
+        }
+      }
+    }
+  }
+}

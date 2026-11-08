@@ -1,0 +1,114 @@
+{
+  "type": "node--event",
+  "id": "5b0732bd-d7b0-437f-b18a-79882567dae1",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/5b0732bd-d7b0-437f-b18a-79882567dae1?resourceVersion=id%3A2500"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/5b0732bd-d7b0-437f-b18a-79882567dae1?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28193,
+    "drupal_internal__vid": 2500,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Freie Bühne, Wien",
+    "created": "2010-09-24T19:15:28+00:00",
+    "changed": "2011-04-01T09:40:15+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28193",
+      "pid": 338,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Die Deutsche Zeitung meldet am 15. Juli 1893:\r\n<blockquote>Wie wir vernehmen, soll demnächst in Wien eine neue literarische Vereinigung ins Leben treten. Es heißt, daß eine Gruppe von Schriftstellern, unter denen man uns auch den bekannten Vertheidiger Dr.  E l b o g e n </i> nennt, die Gründung einer \"Freien Bühne\" plant. Man gedenkt in den ersten Vorstellungen Werke von Gerhard [!]  <i>H a u p t m a n n <i>  und Hermann <i> B a h r </i> zur Aufführung zu bringen. Eröffnet soll die Reihe der Vorstellung werden mit Elbogen's socialem Drama \"Dämmerung\", in welchem die Hauptrollen von Fräulein  S a n d r o c k  und den Herren  K u t s c h e r a  und  R e i m e r s  gespielt werden. Zur Einführung in die Verstellungen der \"Freien Bühne\" wird, wie es heißt, Hermann <i> B a h r </i> eine Conférence halten.</blockquote>\r\nVermutlich dürfte es sich um das \"Volkstheater Rudolphsheim (Freie Bühne)\" handeln.\r\n<i>Deutsche Zeitung, 23 (1893) #7739, 6. (15.7.1893)<br>Vgl. Neue Freie Presse, #10498, Morgenblatt, 1-2. (12.11.1893)",
+      "format": "full_html",
+      "processed": "Die Deutsche Zeitung meldet am 15. Juli 1893:\n<blockquote>Wie wir vernehmen, soll demnächst in Wien eine neue literarische Vereinigung ins Leben treten. Es heißt, daß eine Gruppe von Schriftstellern, unter denen man uns auch den bekannten Vertheidiger Dr.  E l b o g e n  nennt, die Gründung einer \"Freien Bühne\" plant. Man gedenkt in den ersten Vorstellungen Werke von Gerhard [!]  <i>H a u p t m a n n <i>  und Hermann <i> B a h r </i> zur Aufführung zu bringen. Eröffnet soll die Reihe der Vorstellung werden mit Elbogen's socialem Drama \"Dämmerung\", in welchem die Hauptrollen von Fräulein  S a n d r o c k  und den Herren  K u t s c h e r a  und  R e i m e r s  gespielt werden. Zur Einführung in die Verstellungen der \"Freien Bühne\" wird, wie es heißt, Hermann <i> B a h r </i> eine Conférence halten.</i></i></blockquote>\nVermutlich dürfte es sich um das \"Volkstheater Rudolphsheim (Freie Bühne)\" handeln.\n<i>Deutsche Zeitung, 23 (1893) #7739, 6. (15.7.1893)<br>Vgl. Neue Freie Presse, #10498, Morgenblatt, 1-2. (12.11.1893)</i>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1893-07-15",
+      "end_value": "1893-07-15"
+    },
+    "field_sources": []
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5b0732bd-d7b0-437f-b18a-79882567dae1/node_type?resourceVersion=id%3A2500"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5b0732bd-d7b0-437f-b18a-79882567dae1/relationships/node_type?resourceVersion=id%3A2500"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5b0732bd-d7b0-437f-b18a-79882567dae1/revision_uid?resourceVersion=id%3A2500"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5b0732bd-d7b0-437f-b18a-79882567dae1/relationships/revision_uid?resourceVersion=id%3A2500"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5b0732bd-d7b0-437f-b18a-79882567dae1/uid?resourceVersion=id%3A2500"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5b0732bd-d7b0-437f-b18a-79882567dae1/relationships/uid?resourceVersion=id%3A2500"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5b0732bd-d7b0-437f-b18a-79882567dae1/field_event_type?resourceVersion=id%3A2500"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5b0732bd-d7b0-437f-b18a-79882567dae1/relationships/field_event_type?resourceVersion=id%3A2500"
+        }
+      }
+    }
+  }
+}

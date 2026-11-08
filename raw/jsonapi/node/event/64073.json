@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "6a2d9525-d1eb-45c3-bb1f-04b185721431",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/6a2d9525-d1eb-45c3-bb1f-04b185721431?resourceVersion=id%3A3567"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/6a2d9525-d1eb-45c3-bb1f-04b185721431?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 64073,
+    "drupal_internal__vid": 3567,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Lueg",
+    "created": "2012-01-26T14:36:21+00:00",
+    "changed": "2012-01-26T14:36:21+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/64073",
+      "pid": 1608,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Vom 2. bis zum 3. September 1909 sind Bahr und seine neue Gattin bei Burckhard in Lueg am Wolfgangssee.",
+      "format": "full_html",
+      "processed": "Vom 2. bis zum 3. September 1909 sind Bahr und seine neue Gattin bei Burckhard in Lueg am Wolfgangssee.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1909-09-02",
+      "end_value": "1909-09-03"
+    },
+    "field_sources": [
+      "Hermann Bahr: Aufzeichnungen 1909-1911. Ausgabe in Vorbereitung von Kurt Ifkovits\r\n"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6a2d9525-d1eb-45c3-bb1f-04b185721431/node_type?resourceVersion=id%3A3567"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6a2d9525-d1eb-45c3-bb1f-04b185721431/relationships/node_type?resourceVersion=id%3A3567"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6a2d9525-d1eb-45c3-bb1f-04b185721431/revision_uid?resourceVersion=id%3A3567"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6a2d9525-d1eb-45c3-bb1f-04b185721431/relationships/revision_uid?resourceVersion=id%3A3567"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6a2d9525-d1eb-45c3-bb1f-04b185721431/uid?resourceVersion=id%3A3567"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6a2d9525-d1eb-45c3-bb1f-04b185721431/relationships/uid?resourceVersion=id%3A3567"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6a2d9525-d1eb-45c3-bb1f-04b185721431/field_event_type?resourceVersion=id%3A3567"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6a2d9525-d1eb-45c3-bb1f-04b185721431/relationships/field_event_type?resourceVersion=id%3A3567"
+        }
+      }
+    }
+  }
+}

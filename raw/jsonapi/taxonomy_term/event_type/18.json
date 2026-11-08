@@ -1,0 +1,86 @@
+{
+  "type": "taxonomy_term--event_type",
+  "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/taxonomy_term/event_type/033a7bdb-f880-4e73-9190-0db3f28b1bc7?resourceVersion=id%3A22"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/taxonomy_term/event_type/033a7bdb-f880-4e73-9190-0db3f28b1bc7?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__tid": 18,
+    "drupal_internal__revision_id": 22,
+    "langcode": "de",
+    "revision_created": "2020-02-17T11:50:35+00:00",
+    "status": true,
+    "name": "Orte",
+    "description": null,
+    "weight": 0,
+    "changed": "2020-02-17T11:50:35+00:00",
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/event-type/orte",
+      "pid": 1898,
+      "langcode": "de"
+    }
+  },
+  "relationships": {
+    "vid": {
+      "data": {
+        "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+        "id": "8ca0f14a-d915-460d-a2e6-7c4132a5858d",
+        "meta": {
+          "drupal_internal__target_id": "event_type"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/taxonomy_term/event_type/033a7bdb-f880-4e73-9190-0db3f28b1bc7/vid?resourceVersion=id%3A22"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/taxonomy_term/event_type/033a7bdb-f880-4e73-9190-0db3f28b1bc7/relationships/vid?resourceVersion=id%3A22"
+        }
+      }
+    },
+    "revision_user": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/taxonomy_term/event_type/033a7bdb-f880-4e73-9190-0db3f28b1bc7/revision_user?resourceVersion=id%3A22"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/taxonomy_term/event_type/033a7bdb-f880-4e73-9190-0db3f28b1bc7/relationships/revision_user?resourceVersion=id%3A22"
+        }
+      }
+    },
+    "parent": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "virtual",
+          "meta": {
+            "links": {
+              "help": {
+                "href": "https://www.drupal.org/docs/8/modules/json-api/core-concepts#virtual",
+                "meta": {
+                  "about": "Usage and meaning of the 'virtual' resource identifier."
+                }
+              }
+            }
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/taxonomy_term/event_type/033a7bdb-f880-4e73-9190-0db3f28b1bc7/parent?resourceVersion=id%3A22"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/taxonomy_term/event_type/033a7bdb-f880-4e73-9190-0db3f28b1bc7/relationships/parent?resourceVersion=id%3A22"
+        }
+      }
+    }
+  }
+}

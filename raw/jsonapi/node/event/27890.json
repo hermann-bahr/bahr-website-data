@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "794a3d74-5bdb-4b9c-a4f2-a7f1a8342665",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/794a3d74-5bdb-4b9c-a4f2-a7f1a8342665?resourceVersion=id%3A2239"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/794a3d74-5bdb-4b9c-a4f2-a7f1a8342665?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27890,
+    "drupal_internal__vid": 2239,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Griechenland",
+    "created": "2010-06-22T15:36:20+00:00",
+    "changed": "2011-09-13T16:31:16+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/27890",
+      "pid": 72,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 15. März 1903 besteigt Bahr in Triest das Schiff und reist nach Griechenland. Er verbringt besonders viel Zeit im Nationalmuseum und im Archäologischen Museum Athens. Obzwar seine Antikenrezeption bereits in seine Jugendjahre zurückreicht, intensiviert sich diese nun, wie der in Folge entstandene \"Dialog vom Marsyas\" bezeugt. Am 4. April betritt er wehmütig wieder das Schiff, am 8. ist er in Triest.",
+      "format": "full_html",
+      "processed": "Am 15. März 1903 besteigt Bahr in Triest das Schiff und reist nach Griechenland. Er verbringt besonders viel Zeit im Nationalmuseum und im Archäologischen Museum Athens. Obzwar seine Antikenrezeption bereits in seine Jugendjahre zurückreicht, intensiviert sich diese nun, wie der in Folge entstandene \"Dialog vom Marsyas\" bezeugt. Am 4. April betritt er wehmütig wieder das Schiff, am 8. ist er in Triest.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1904-03-15",
+      "end_value": "1904-04-07"
+    },
+    "field_sources": [
+      "Tagebücher (Csàky), IV, 45-109."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/794a3d74-5bdb-4b9c-a4f2-a7f1a8342665/node_type?resourceVersion=id%3A2239"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/794a3d74-5bdb-4b9c-a4f2-a7f1a8342665/relationships/node_type?resourceVersion=id%3A2239"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/794a3d74-5bdb-4b9c-a4f2-a7f1a8342665/revision_uid?resourceVersion=id%3A2239"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/794a3d74-5bdb-4b9c-a4f2-a7f1a8342665/relationships/revision_uid?resourceVersion=id%3A2239"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/794a3d74-5bdb-4b9c-a4f2-a7f1a8342665/uid?resourceVersion=id%3A2239"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/794a3d74-5bdb-4b9c-a4f2-a7f1a8342665/relationships/uid?resourceVersion=id%3A2239"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/794a3d74-5bdb-4b9c-a4f2-a7f1a8342665/field_event_type?resourceVersion=id%3A2239"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/794a3d74-5bdb-4b9c-a4f2-a7f1a8342665/relationships/field_event_type?resourceVersion=id%3A2239"
+        }
+      }
+    }
+  }
+}

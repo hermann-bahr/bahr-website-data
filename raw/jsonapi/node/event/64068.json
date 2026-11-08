@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "c7b59401-0d76-4d03-b55a-eee7a7c8e9e0",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/c7b59401-0d76-4d03-b55a-eee7a7c8e9e0?resourceVersion=id%3A3562"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/c7b59401-0d76-4d03-b55a-eee7a7c8e9e0?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 64068,
+    "drupal_internal__vid": 3562,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Berlin",
+    "created": "2012-01-26T14:11:43+00:00",
+    "changed": "2012-01-26T14:11:43+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/64068",
+      "pid": 1603,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Von Dresden kommend, ist Bahr vom 27. bis zum 28. Jänner 1909 in Berlin, wo er möglicherweise auch eine Lesung hat.",
+      "format": "full_html",
+      "processed": "Von Dresden kommend, ist Bahr vom 27. bis zum 28. Jänner 1909 in Berlin, wo er möglicherweise auch eine Lesung hat.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1909-01-27",
+      "end_value": "1909-01-28"
+    },
+    "field_sources": [
+      "Hermann Bahr: Aufzeichnungen 1909-1911. Ausgabe in Vorbereitung von Kurt Ifkovits"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c7b59401-0d76-4d03-b55a-eee7a7c8e9e0/node_type?resourceVersion=id%3A3562"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c7b59401-0d76-4d03-b55a-eee7a7c8e9e0/relationships/node_type?resourceVersion=id%3A3562"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c7b59401-0d76-4d03-b55a-eee7a7c8e9e0/revision_uid?resourceVersion=id%3A3562"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c7b59401-0d76-4d03-b55a-eee7a7c8e9e0/relationships/revision_uid?resourceVersion=id%3A3562"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c7b59401-0d76-4d03-b55a-eee7a7c8e9e0/uid?resourceVersion=id%3A3562"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c7b59401-0d76-4d03-b55a-eee7a7c8e9e0/relationships/uid?resourceVersion=id%3A3562"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c7b59401-0d76-4d03-b55a-eee7a7c8e9e0/field_event_type?resourceVersion=id%3A3562"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c7b59401-0d76-4d03-b55a-eee7a7c8e9e0/relationships/field_event_type?resourceVersion=id%3A3562"
+        }
+      }
+    }
+  }
+}

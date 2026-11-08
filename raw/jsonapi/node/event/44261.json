@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "c475eba2-2e44-495c-b314-2d8bceb87a22",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/c475eba2-2e44-495c-b314-2d8bceb87a22?resourceVersion=id%3A3174"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/c475eba2-2e44-495c-b314-2d8bceb87a22?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44261,
+    "drupal_internal__vid": 3174,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Seine Welt zeige der Künstler",
+    "created": "2011-10-06T13:04:30+00:00",
+    "changed": "2012-04-24T12:42:46+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44261",
+      "pid": 1153,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 24. März 1900 folgt in der Darmstädter Künstlerkolonie die Grundsteinlegung für das von Joseph Olbrich geplante gemeinsame Atelierhaus, das Ernst-Ludwig-Haus. Als Zitat ziert es ein Satz von Bahr:<blockquote>SEINE WELT ZEIGE DER KÜNSTLER - DIE NIEMALS WAR NOCH JEMALS SEIN WIRD</blockquote>…wenngleich Bahr den Satz ursprünglich für die Fenster der Wiener Sezession verfasst haben dürfte.",
+      "format": "full_html",
+      "processed": "Am 24. März 1900 folgt in der Darmstädter Künstlerkolonie die Grundsteinlegung für das von Joseph Olbrich geplante gemeinsame Atelierhaus, das Ernst-Ludwig-Haus. Als Zitat ziert es ein Satz von Bahr:<blockquote>SEINE WELT ZEIGE DER KÜNSTLER - DIE NIEMALS WAR NOCH JEMALS SEIN WIRD</blockquote>…wenngleich Bahr den Satz ursprünglich für die Fenster der Wiener Sezession verfasst haben dürfte.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1900-03-24",
+      "end_value": "1900-03-24"
+    },
+    "field_sources": [
+      "Hermann Bahr: Ein Document deutscher Kunst. Neues Wiener Tagblatt, 34 (1900) #136, 1-3. (19.5.1900) bzw. Buchausgabe: Bildung. Berlin und Leipzig: Insel 1900, 45-52.",
+      "Hermann Bahr: Französische Romane. [II]. Hochland, 15 (1918) #7 (April), 88-92. Buchausgabe: Bilderbuch, 156-167, hier: 129."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c475eba2-2e44-495c-b314-2d8bceb87a22/node_type?resourceVersion=id%3A3174"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c475eba2-2e44-495c-b314-2d8bceb87a22/relationships/node_type?resourceVersion=id%3A3174"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c475eba2-2e44-495c-b314-2d8bceb87a22/revision_uid?resourceVersion=id%3A3174"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c475eba2-2e44-495c-b314-2d8bceb87a22/relationships/revision_uid?resourceVersion=id%3A3174"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c475eba2-2e44-495c-b314-2d8bceb87a22/uid?resourceVersion=id%3A3174"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c475eba2-2e44-495c-b314-2d8bceb87a22/relationships/uid?resourceVersion=id%3A3174"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c475eba2-2e44-495c-b314-2d8bceb87a22/field_event_type?resourceVersion=id%3A3174"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c475eba2-2e44-495c-b314-2d8bceb87a22/relationships/field_event_type?resourceVersion=id%3A3174"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "ee915be9-a1fe-4b1f-9d52-a4ad135dc38c",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/ee915be9-a1fe-4b1f-9d52-a4ad135dc38c?resourceVersion=id%3A2370"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/ee915be9-a1fe-4b1f-9d52-a4ad135dc38c?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28038,
+    "drupal_internal__vid": 2370,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Die Nixe",
+    "created": "2010-07-28T21:55:32+00:00",
+    "changed": "2012-10-15T17:10:27+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28038",
+      "pid": 204,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 15. März 1896 hat \"Die Nixe. Drama in vier Akten. Nach dem Russischen des Spashinskij\" am Münchner Gärtnertortheater mit Konrad Dreher und Emil Norini Première. Die Druckfassung lässt sich nicht genau datieren, vermutlich ebenfalls 1896, möglicherweise erst 1898.",
+      "format": "full_html",
+      "processed": "Am 15. März 1896 hat \"Die Nixe. Drama in vier Akten. Nach dem Russischen des Spashinskij\" am Münchner Gärtnertortheater mit Konrad Dreher und Emil Norini Première. Die Druckfassung lässt sich nicht genau datieren, vermutlich ebenfalls 1896, möglicherweise erst 1898.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1896-03-15",
+      "end_value": "1896-03-15"
+    },
+    "field_sources": [
+      "Hermann Bahr: Die Nixe. Drama in vier Akten. Nach dem Russischen des Spashinskij. München: Brakl's Rubinverlag, 1896."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ee915be9-a1fe-4b1f-9d52-a4ad135dc38c/node_type?resourceVersion=id%3A2370"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ee915be9-a1fe-4b1f-9d52-a4ad135dc38c/relationships/node_type?resourceVersion=id%3A2370"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ee915be9-a1fe-4b1f-9d52-a4ad135dc38c/revision_uid?resourceVersion=id%3A2370"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ee915be9-a1fe-4b1f-9d52-a4ad135dc38c/relationships/revision_uid?resourceVersion=id%3A2370"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ee915be9-a1fe-4b1f-9d52-a4ad135dc38c/uid?resourceVersion=id%3A2370"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ee915be9-a1fe-4b1f-9d52-a4ad135dc38c/relationships/uid?resourceVersion=id%3A2370"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "27f3d2a4-8970-4726-9ab8-ce37707ec1bc",
+          "meta": {
+            "drupal_internal__target_id": 1
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ee915be9-a1fe-4b1f-9d52-a4ad135dc38c/field_event_type?resourceVersion=id%3A2370"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ee915be9-a1fe-4b1f-9d52-a4ad135dc38c/relationships/field_event_type?resourceVersion=id%3A2370"
+        }
+      }
+    }
+  }
+}

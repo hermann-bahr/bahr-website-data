@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "a5d371af-6bb6-4076-ac07-22629f54ee1b",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/a5d371af-6bb6-4076-ac07-22629f54ee1b?resourceVersion=id%3A3535"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/a5d371af-6bb6-4076-ac07-22629f54ee1b?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49764,
+    "drupal_internal__vid": 3535,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Heinrich Sitte",
+    "created": "2012-01-09T14:06:52+00:00",
+    "changed": "2012-01-09T14:06:52+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49764",
+      "pid": 1576,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 13. Juli 1921 wandert Bahr mit Heinrich Sitte auf den Untersberg.",
+      "format": "full_html",
+      "processed": "Am 13. Juli 1921 wandert Bahr mit Heinrich Sitte auf den Untersberg.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1921-07-13",
+      "end_value": "1921-07-13"
+    },
+    "field_sources": [
+      "Liebe der Lebenden, I, 223-227, hier: 223."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a5d371af-6bb6-4076-ac07-22629f54ee1b/node_type?resourceVersion=id%3A3535"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a5d371af-6bb6-4076-ac07-22629f54ee1b/relationships/node_type?resourceVersion=id%3A3535"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a5d371af-6bb6-4076-ac07-22629f54ee1b/revision_uid?resourceVersion=id%3A3535"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a5d371af-6bb6-4076-ac07-22629f54ee1b/relationships/revision_uid?resourceVersion=id%3A3535"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a5d371af-6bb6-4076-ac07-22629f54ee1b/uid?resourceVersion=id%3A3535"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a5d371af-6bb6-4076-ac07-22629f54ee1b/relationships/uid?resourceVersion=id%3A3535"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a5d371af-6bb6-4076-ac07-22629f54ee1b/field_event_type?resourceVersion=id%3A3535"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a5d371af-6bb6-4076-ac07-22629f54ee1b/relationships/field_event_type?resourceVersion=id%3A3535"
+        }
+      }
+    }
+  }
+}

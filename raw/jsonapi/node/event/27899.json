@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "16714485-605b-4aa5-9005-4cd7868ce991",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/16714485-605b-4aa5-9005-4cd7868ce991?resourceVersion=id%3A2247"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/16714485-605b-4aa5-9005-4cd7868ce991?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27899,
+    "drupal_internal__vid": 2247,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Niederlande",
+    "created": "2010-06-24T11:14:04+00:00",
+    "changed": "2011-09-15T09:41:28+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/27899",
+      "pid": 80,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 7. Juli 1905 reist Bahr nach Leiden, Holland, wo ihn Anna Mildenburg erwartet. Am 9. weiter nach Noordwijk aan Zee, wo sie bei der \"geizigen Frau A. Heine\" in der Villa Dederica wohnen. Vom 24. bis 27. in Lüttich. Am 27. in Leiden. Am 31. in Amsterdam, tags darauf nach Köln.",
+      "format": "full_html",
+      "processed": "Am 7. Juli 1905 reist Bahr nach Leiden, Holland, wo ihn Anna Mildenburg erwartet. Am 9. weiter nach Noordwijk aan Zee, wo sie bei der \"geizigen Frau A. Heine\" in der Villa Dederica wohnen. Vom 24. bis 27. in Lüttich. Am 27. in Leiden. Am 31. in Amsterdam, tags darauf nach Köln.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1905-07-07",
+      "end_value": "1905-08-01"
+    },
+    "field_sources": [
+      "Tagebücher (Csàky), IV, 424."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/16714485-605b-4aa5-9005-4cd7868ce991/node_type?resourceVersion=id%3A2247"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/16714485-605b-4aa5-9005-4cd7868ce991/relationships/node_type?resourceVersion=id%3A2247"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/16714485-605b-4aa5-9005-4cd7868ce991/revision_uid?resourceVersion=id%3A2247"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/16714485-605b-4aa5-9005-4cd7868ce991/relationships/revision_uid?resourceVersion=id%3A2247"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/16714485-605b-4aa5-9005-4cd7868ce991/uid?resourceVersion=id%3A2247"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/16714485-605b-4aa5-9005-4cd7868ce991/relationships/uid?resourceVersion=id%3A2247"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/16714485-605b-4aa5-9005-4cd7868ce991/field_event_type?resourceVersion=id%3A2247"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/16714485-605b-4aa5-9005-4cd7868ce991/relationships/field_event_type?resourceVersion=id%3A2247"
+        }
+      }
+    }
+  }
+}

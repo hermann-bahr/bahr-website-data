@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "0ea22fa7-95fc-4ab6-abac-8c4deed7c377",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/0ea22fa7-95fc-4ab6-abac-8c4deed7c377?resourceVersion=id%3A2222"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/0ea22fa7-95fc-4ab6-abac-8c4deed7c377?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27870,
+    "drupal_internal__vid": 2222,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Militärdienst",
+    "created": "2010-06-21T09:15:30+00:00",
+    "changed": "2011-11-17T13:12:13+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/27870",
+      "pid": 55,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Vom 1. Oktober 1887 bis Oktober 1888 Militärdienst beim 84. Linzer Regiment in Wien. Bahr wird, seiner politischen Vergangenheit wegen, zwar zum Korporal, aber weder zum Feldwebel noch Offizier befördert.",
+      "format": "full_html",
+      "processed": "Vom 1. Oktober 1887 bis Oktober 1888 Militärdienst beim 84. Linzer Regiment in Wien. Bahr wird, seiner politischen Vergangenheit wegen, zwar zum Korporal, aber weder zum Feldwebel noch Offizier befördert.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1887-10-01",
+      "end_value": "1888-10-01"
+    },
+    "field_sources": [
+      "Selbstbildnis, 208-211"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0ea22fa7-95fc-4ab6-abac-8c4deed7c377/node_type?resourceVersion=id%3A2222"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0ea22fa7-95fc-4ab6-abac-8c4deed7c377/relationships/node_type?resourceVersion=id%3A2222"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0ea22fa7-95fc-4ab6-abac-8c4deed7c377/revision_uid?resourceVersion=id%3A2222"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0ea22fa7-95fc-4ab6-abac-8c4deed7c377/relationships/revision_uid?resourceVersion=id%3A2222"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0ea22fa7-95fc-4ab6-abac-8c4deed7c377/uid?resourceVersion=id%3A2222"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0ea22fa7-95fc-4ab6-abac-8c4deed7c377/relationships/uid?resourceVersion=id%3A2222"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0ea22fa7-95fc-4ab6-abac-8c4deed7c377/field_event_type?resourceVersion=id%3A2222"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0ea22fa7-95fc-4ab6-abac-8c4deed7c377/relationships/field_event_type?resourceVersion=id%3A2222"
+        }
+      }
+    }
+  }
+}

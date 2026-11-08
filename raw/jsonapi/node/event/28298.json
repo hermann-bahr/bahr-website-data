@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "ef2c6a5f-2488-48f2-80b7-a7de877c74ec",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/ef2c6a5f-2488-48f2-80b7-a7de877c74ec?resourceVersion=id%3A2547"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/ef2c6a5f-2488-48f2-80b7-a7de877c74ec?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28298,
+    "drupal_internal__vid": 2547,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Dichtung",
+    "created": "2010-12-14T10:32:47+00:00",
+    "changed": "2011-11-21T10:31:41+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28298",
+      "pid": 428,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 9. Jänner 1910 um 8 Uhr abends liest Bahr zu Gunsten des Schulbaufonds der \"Freien Schule\" im Saal des Niederösterreichischen Gewerbevereins in der Eschenbachgasse 11, Wien I. Das Programm lautet in der Ankündigung der Neuen Freien Presse vom 6. Januar (S. 13):\r\n<blockquote><ol><li>Aus den \"Siegelringen\" von Ferdinand Kürnberger</li><li>Aus \"Mehr Freude\" von Bischof Keppler</li><li>Friedensrede von Tolstoi</li><li>Lieder von Artur [!] Kahane</li><li>\"Der Sänger vor dem König\" von Felix Salten.</li></ol></blockquote>\r\nDie Textauswahl wirkt wie ein Baustein auf dem Weg zur Bekehrung Bahrs. Nicht nur der Text des Bischofs Paul Wilhelm Keppler überrascht, auch Kürnbergers Band, 1910 in vermehrter Auflage durch Otto Erich Deutsch herausgegeben, trägt den Untertitel: \"Eine Sammlung politischer und kirchlicher Feuilletons\", während Tolstois Christentum integraler Bestandteil seines Rufs war. Karl Kraus entgeht das, wenngleich er sich den Kommentar zum Vortrag nicht nehmen ließ, er witzelt in der Fackel über den \"weichen Hermann Bahr\".",
+      "format": "full_html",
+      "processed": "Am 9. Jänner 1910 um 8 Uhr abends liest Bahr zu Gunsten des Schulbaufonds der \"Freien Schule\" im Saal des Niederösterreichischen Gewerbevereins in der Eschenbachgasse 11, Wien I. Das Programm lautet in der Ankündigung der Neuen Freien Presse vom 6. Januar (S. 13):\n<blockquote><ol><li>Aus den \"Siegelringen\" von Ferdinand Kürnberger</li><li>Aus \"Mehr Freude\" von Bischof Keppler</li><li>Friedensrede von Tolstoi</li><li>Lieder von Artur [!] Kahane</li><li>\"Der Sänger vor dem König\" von Felix Salten.</li></ol></blockquote>\nDie Textauswahl wirkt wie ein Baustein auf dem Weg zur Bekehrung Bahrs. Nicht nur der Text des Bischofs Paul Wilhelm Keppler überrascht, auch Kürnbergers Band, 1910 in vermehrter Auflage durch Otto Erich Deutsch herausgegeben, trägt den Untertitel: \"Eine Sammlung politischer und kirchlicher Feuilletons\", während Tolstois Christentum integraler Bestandteil seines Rufs war. Karl Kraus entgeht das, wenngleich er sich den Kommentar zum Vortrag nicht nehmen ließ, er witzelt in der Fackel über den \"weichen Hermann Bahr\".",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1910-01-09",
+      "end_value": "1910-01-09"
+    },
+    "field_sources": [
+      "Neue Freie Presse, 1910 #16302, 6. (10.10.1910)",
+      "Karl Kraus: Der weiche Hermann Bahr. Die Fackel, 11 (1910) #294/295, 46-47. (31.1.1910)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ef2c6a5f-2488-48f2-80b7-a7de877c74ec/node_type?resourceVersion=id%3A2547"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ef2c6a5f-2488-48f2-80b7-a7de877c74ec/relationships/node_type?resourceVersion=id%3A2547"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ef2c6a5f-2488-48f2-80b7-a7de877c74ec/revision_uid?resourceVersion=id%3A2547"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ef2c6a5f-2488-48f2-80b7-a7de877c74ec/relationships/revision_uid?resourceVersion=id%3A2547"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ef2c6a5f-2488-48f2-80b7-a7de877c74ec/uid?resourceVersion=id%3A2547"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ef2c6a5f-2488-48f2-80b7-a7de877c74ec/relationships/uid?resourceVersion=id%3A2547"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ef2c6a5f-2488-48f2-80b7-a7de877c74ec/field_event_type?resourceVersion=id%3A2547"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ef2c6a5f-2488-48f2-80b7-a7de877c74ec/relationships/field_event_type?resourceVersion=id%3A2547"
+        }
+      }
+    }
+  }
+}

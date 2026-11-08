@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "623b2d1b-9791-45ba-87fa-14911d9ca053",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/623b2d1b-9791-45ba-87fa-14911d9ca053?resourceVersion=id%3A2409"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/623b2d1b-9791-45ba-87fa-14911d9ca053?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28082,
+    "drupal_internal__vid": 2409,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Der Querulant",
+    "created": "2010-08-09T09:52:01+00:00",
+    "changed": "2012-10-30T09:24:34+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28082",
+      "pid": 243,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 16. Oktober 1914 hat \"Der Querulant\" am Münchner Schauspielhaus Uraufführung. Die Komödie in vier Akten wird von S. Fischer gleichzeitig herausgebracht, Bahr widmet Gerty von Hofmannsthal an \"Allerseelen 1914\" handschriftlich ein Exemplar.",
+      "format": "full_html",
+      "processed": "Am 16. Oktober 1914 hat \"Der Querulant\" am Münchner Schauspielhaus Uraufführung. Die Komödie in vier Akten wird von S. Fischer gleichzeitig herausgebracht, Bahr widmet Gerty von Hofmannsthal an \"Allerseelen 1914\" handschriftlich ein Exemplar.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1914-10-16",
+      "end_value": "1914-10-16"
+    },
+    "field_sources": [
+      "Hermann Bahr: Der Querulant. Komödie in vier Akten. Berlin: S. Fischer, 1914.",
+      "Anm. zu: Von Gerty, 11.11.1914. Briefwechsel Bahr/Hofmannsthal. Hg. Elsbeth Dangel-Pelloquin. Göttingen: Wallstein. (In Vorbereitung)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/623b2d1b-9791-45ba-87fa-14911d9ca053/node_type?resourceVersion=id%3A2409"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/623b2d1b-9791-45ba-87fa-14911d9ca053/relationships/node_type?resourceVersion=id%3A2409"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/623b2d1b-9791-45ba-87fa-14911d9ca053/revision_uid?resourceVersion=id%3A2409"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/623b2d1b-9791-45ba-87fa-14911d9ca053/relationships/revision_uid?resourceVersion=id%3A2409"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/623b2d1b-9791-45ba-87fa-14911d9ca053/uid?resourceVersion=id%3A2409"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/623b2d1b-9791-45ba-87fa-14911d9ca053/relationships/uid?resourceVersion=id%3A2409"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "27f3d2a4-8970-4726-9ab8-ce37707ec1bc",
+          "meta": {
+            "drupal_internal__target_id": 1
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/623b2d1b-9791-45ba-87fa-14911d9ca053/field_event_type?resourceVersion=id%3A2409"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/623b2d1b-9791-45ba-87fa-14911d9ca053/relationships/field_event_type?resourceVersion=id%3A2409"
+        }
+      }
+    }
+  }
+}

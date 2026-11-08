@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "444078c3-a2eb-4379-9444-b72748d30684",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/444078c3-a2eb-4379-9444-b72748d30684?resourceVersion=id%3A3464"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/444078c3-a2eb-4379-9444-b72748d30684?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49639,
+    "drupal_internal__vid": 3464,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "\"Russische Reise\" abgeschlossen",
+    "created": "2011-11-21T09:49:22+00:00",
+    "changed": "2011-11-21T09:49:22+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49639",
+      "pid": 1454,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Im \"Selbstbildnis\" schreibt Bahr über die Zeit der Rückkunft aus St. Petersburg Ende April 1891:<blockquote>Ich kam vermeintlich nur auf ein paar Wochen nach Wien, schrieb zunächst ein in barrèskem Spiel mit Sensationen schwelgendes, eher törichtes Büchl, von dem niemand weiß, warum es eigentlich „Russische Reise“ heißt, und entwarf jenen Roman in Taubengrau, der dann „Neben der Liebe“ benannt wurde; wenig von meinen Werken ist mir bis zum heutigen Tag so wert geblieben.</blockquote>Als Abschluss der Arbeit kann die Datierung der Widmung aufgefasst werden, \"Wien, Juni 1891\". Nachdem er die zweite Junihälfte in Linz verbringt, auf Anfang Juni eingrenzbar.",
+      "format": "full_html",
+      "processed": "Im \"Selbstbildnis\" schreibt Bahr über die Zeit der Rückkunft aus St. Petersburg Ende April 1891:<blockquote>Ich kam vermeintlich nur auf ein paar Wochen nach Wien, schrieb zunächst ein in barrèskem Spiel mit Sensationen schwelgendes, eher törichtes Büchl, von dem niemand weiß, warum es eigentlich „Russische Reise“ heißt, und entwarf jenen Roman in Taubengrau, der dann „Neben der Liebe“ benannt wurde; wenig von meinen Werken ist mir bis zum heutigen Tag so wert geblieben.</blockquote>Als Abschluss der Arbeit kann die Datierung der Widmung aufgefasst werden, \"Wien, Juni 1891\". Nachdem er die zweite Junihälfte in Linz verbringt, auf Anfang Juni eingrenzbar.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1891-06-01",
+      "end_value": "1891-06-01"
+    },
+    "field_sources": [
+      "Selbstbildnis, 276",
+      "Hermann Bahr: Russische Reise. Dresden: E. Pierson, 1891."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/444078c3-a2eb-4379-9444-b72748d30684/node_type?resourceVersion=id%3A3464"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/444078c3-a2eb-4379-9444-b72748d30684/relationships/node_type?resourceVersion=id%3A3464"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/444078c3-a2eb-4379-9444-b72748d30684/revision_uid?resourceVersion=id%3A3464"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/444078c3-a2eb-4379-9444-b72748d30684/relationships/revision_uid?resourceVersion=id%3A3464"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/444078c3-a2eb-4379-9444-b72748d30684/uid?resourceVersion=id%3A3464"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/444078c3-a2eb-4379-9444-b72748d30684/relationships/uid?resourceVersion=id%3A3464"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/444078c3-a2eb-4379-9444-b72748d30684/field_event_type?resourceVersion=id%3A3464"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/444078c3-a2eb-4379-9444-b72748d30684/relationships/field_event_type?resourceVersion=id%3A3464"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bibliografie__theaterstuecke__ringelspiel" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Ringelspiel </title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">49667</idno>
+        <idno type="drupal-alias">/bibliografie/49667</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bibliografie/49667">https://bahr.univie.ac.at/bibliografie/49667</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+        <bibl type="beschriebene-ausgabe">
+          <author>Hermann Bahr</author>
+          <title type="main">Ringelspiel</title>
+          <title type="sub">In drei Akten</title>
+          <pubPlace>Berlin</pubPlace>
+          <publisher>S. Fischer</publisher>
+          <date>1907</date>
+          <extent>127</extent>
+          <note>"An Aglaja. Lido - Annenheim - Sankt Veit, Juli-September 1906." Das eigentliche Erscheinungsjahr ist 1906, das Buch ist aber auf 1907 vordatiert. Den Bühnen gegenüber als Manuskript (Ahn &amp; Simrock) 1906.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="1" key="bibliografie">Bibliografie</term>
+          <term n="2" key="theaterstuecke">Theaterstücke</term>
+          <term n="36" key="ringelspiel" type="eintrag">Ringelspiel </term>
+        </keywords>
+        <classCode scheme="drupal-type">bibliographie</classCode>
+        <keywords scheme="bibliografie_type">
+          <term>Theaterstücke</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2011-11-22T17:05:31+00:00" type="created">angelegt in Drupal</change>
+      <change when="2011-11-23T10:22:20+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="bib">
+        <head>Bibliografie</head>
+        <table type="bibliografie">
+          <row>
+            <cell>Autor:</cell>
+            <cell>Hermann Bahr</cell>
+          </row>
+          <row>
+            <cell>Titel:</cell>
+            <cell>Ringelspiel</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>In drei Akten</cell>
+          </row>
+          <row>
+            <cell>Ort:</cell>
+            <cell>Berlin</cell>
+          </row>
+          <row>
+            <cell>Verlag:</cell>
+            <cell>S. Fischer</cell>
+          </row>
+          <row>
+            <cell>Jahr:</cell>
+            <cell>1907</cell>
+          </row>
+          <row>
+            <cell>Seiten:</cell>
+            <cell>127</cell>
+          </row>
+          <row>
+            <cell>Anm.:</cell>
+            <cell>"An Aglaja. Lido - Annenheim - Sankt Veit, Juli-September 1906." Das eigentliche Erscheinungsjahr ist 1906, das Buch ist aber auf 1907 vordatiert. Den Bühnen gegenüber als Manuskript (Ahn &amp; Simrock) 1906.</cell>
+          </row>
+        </table>
+      </div>
+      <div xml:id="auff">
+        <head>Inszenierungen</head>
+        <p>18.12.1906: Uraufführung in Bahrs eigener Regie am Deutschen Theater, Berlin, 4 Aufführungen 27.9.1918 Volksbühne, Wien</p>
+      </div>
+      <div xml:id="rezens">
+        <head>Rezensionen</head>
+        <p>Leo Berg in: Das litterarische Echo, 9 (1907) #8, 624-625. Paul Lindau in: Neues Wiener Journal, 14 (1906) #4730, 1. (21.12.1906)</p>
+      </div>
+      <div xml:id="www">
+        <head>Digitalisate</head>
+        <p>
+          <ref target="http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=67&amp;zoom=1">Link</ref>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

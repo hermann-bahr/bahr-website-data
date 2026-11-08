@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "25786dbb-1133-4aee-a604-57cc0ca90b92",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/25786dbb-1133-4aee-a604-57cc0ca90b92?resourceVersion=id%3A3554"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/25786dbb-1133-4aee-a604-57cc0ca90b92?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49783,
+    "drupal_internal__vid": 3554,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "(Theater-)Kritiker \"Deutsche Wochenschrift\"",
+    "created": "2012-01-17T13:14:16+00:00",
+    "changed": "2012-01-17T13:14:16+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49783",
+      "pid": 1595,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Ende Jänner 1888 beginnt eine mehrere Wochen anhaltende, intensive Mitarbeit an der \"Deutschen Wochenschrift\". Bahr schreibt vor allem über das Burgtheater, aber auch Ausstellungsbesprechungen. Zehn Texte erscheinen, bis er Ende April wieder aus der Redaktion ausscheidet.",
+      "format": "full_html",
+      "processed": "Ende Jänner 1888 beginnt eine mehrere Wochen anhaltende, intensive Mitarbeit an der \"Deutschen Wochenschrift\". Bahr schreibt vor allem über das Burgtheater, aber auch Ausstellungsbesprechungen. Zehn Texte erscheinen, bis er Ende April wieder aus der Redaktion ausscheidet.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1888-01-31",
+      "end_value": "1888-01-31"
+    },
+    "field_sources": [
+      "hr: Galeoto. Zur Aufführung im Wiener Burgtheater. Deutsche Wochenschrift, 6 (1888) #6, 2-4. "
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/25786dbb-1133-4aee-a604-57cc0ca90b92/node_type?resourceVersion=id%3A3554"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/25786dbb-1133-4aee-a604-57cc0ca90b92/relationships/node_type?resourceVersion=id%3A3554"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/25786dbb-1133-4aee-a604-57cc0ca90b92/revision_uid?resourceVersion=id%3A3554"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/25786dbb-1133-4aee-a604-57cc0ca90b92/relationships/revision_uid?resourceVersion=id%3A3554"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/25786dbb-1133-4aee-a604-57cc0ca90b92/uid?resourceVersion=id%3A3554"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/25786dbb-1133-4aee-a604-57cc0ca90b92/relationships/uid?resourceVersion=id%3A3554"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "d579e54c-64dd-4193-a9ef-da87efb3ed16",
+          "meta": {
+            "drupal_internal__target_id": 8
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/25786dbb-1133-4aee-a604-57cc0ca90b92/field_event_type?resourceVersion=id%3A3554"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/25786dbb-1133-4aee-a604-57cc0ca90b92/relationships/field_event_type?resourceVersion=id%3A3554"
+        }
+      }
+    }
+  }
+}

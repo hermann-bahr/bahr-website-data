@@ -1,0 +1,119 @@
+{
+  "type": "node--event",
+  "id": "99602f46-492d-4718-9d1b-7cf1396b736a",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/99602f46-492d-4718-9d1b-7cf1396b736a?resourceVersion=id%3A2748"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/99602f46-492d-4718-9d1b-7cf1396b736a?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38963,
+    "drupal_internal__vid": 2748,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Protest \"Feldherrenhügel\"",
+    "created": "2011-03-16T11:55:37+00:00",
+    "changed": "2011-10-19T12:46:33+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38963",
+      "pid": 702,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahr ist Hauptredner bei der Protestveranstaltung, die von der Union dramatischer Autoren und Komponisten, der Freien Volksbühne und anderen ausgerichtet wurde, um gegen die Absetzung des \"Feldherrenhügels\" und die österreichische Zensur aufzutreten.",
+      "format": "full_html",
+      "processed": "Bahr ist Hauptredner bei der Protestveranstaltung, die von der Union dramatischer Autoren und Komponisten, der Freien Volksbühne und anderen ausgerichtet wurde, um gegen die Absetzung des \"Feldherrenhügels\" und die österreichische Zensur aufzutreten.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1910-01-25",
+      "end_value": "1910-01-25"
+    },
+    "field_sources": [
+      "Neues Wiener Journal, 25.1.1910, 5.",
+      "Arbeiter-Zeitung, 25.1.1910, 7.",
+      "Illustriertes Wiener Extrablatt, 1910 #24, 25.1.1910.",
+      "[o. V.] Theater. Grosse Protestveranstaltung gegen das Verbot des \"Feldherrnhügels“. Hermann Bahr spricht. In: Prager Tagblatt, #25, Morgen-Ausgabe, 7. (25.1.1910)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/99602f46-492d-4718-9d1b-7cf1396b736a/node_type?resourceVersion=id%3A2748"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/99602f46-492d-4718-9d1b-7cf1396b736a/relationships/node_type?resourceVersion=id%3A2748"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/99602f46-492d-4718-9d1b-7cf1396b736a/revision_uid?resourceVersion=id%3A2748"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/99602f46-492d-4718-9d1b-7cf1396b736a/relationships/revision_uid?resourceVersion=id%3A2748"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/99602f46-492d-4718-9d1b-7cf1396b736a/uid?resourceVersion=id%3A2748"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/99602f46-492d-4718-9d1b-7cf1396b736a/relationships/uid?resourceVersion=id%3A2748"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/99602f46-492d-4718-9d1b-7cf1396b736a/field_event_type?resourceVersion=id%3A2748"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/99602f46-492d-4718-9d1b-7cf1396b736a/relationships/field_event_type?resourceVersion=id%3A2748"
+        }
+      }
+    }
+  }
+}

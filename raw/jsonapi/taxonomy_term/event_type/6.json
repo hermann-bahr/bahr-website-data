@@ -1,0 +1,86 @@
+{
+  "type": "taxonomy_term--event_type",
+  "id": "29eb2d1e-f275-4ca0-a532-a2a05ef92e13",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/taxonomy_term/event_type/29eb2d1e-f275-4ca0-a532-a2a05ef92e13?resourceVersion=id%3A24"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/taxonomy_term/event_type/29eb2d1e-f275-4ca0-a532-a2a05ef92e13?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__tid": 6,
+    "drupal_internal__revision_id": 24,
+    "langcode": "de",
+    "revision_created": "2020-02-17T11:50:35+00:00",
+    "status": true,
+    "name": "Schriften fürs Theater",
+    "description": null,
+    "weight": 0,
+    "changed": "2020-02-17T11:50:35+00:00",
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/event-type/schriften-fuers-theater",
+      "pid": 1887,
+      "langcode": "de"
+    }
+  },
+  "relationships": {
+    "vid": {
+      "data": {
+        "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+        "id": "8ca0f14a-d915-460d-a2e6-7c4132a5858d",
+        "meta": {
+          "drupal_internal__target_id": "event_type"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/taxonomy_term/event_type/29eb2d1e-f275-4ca0-a532-a2a05ef92e13/vid?resourceVersion=id%3A24"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/taxonomy_term/event_type/29eb2d1e-f275-4ca0-a532-a2a05ef92e13/relationships/vid?resourceVersion=id%3A24"
+        }
+      }
+    },
+    "revision_user": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/taxonomy_term/event_type/29eb2d1e-f275-4ca0-a532-a2a05ef92e13/revision_user?resourceVersion=id%3A24"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/taxonomy_term/event_type/29eb2d1e-f275-4ca0-a532-a2a05ef92e13/relationships/revision_user?resourceVersion=id%3A24"
+        }
+      }
+    },
+    "parent": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "virtual",
+          "meta": {
+            "links": {
+              "help": {
+                "href": "https://www.drupal.org/docs/8/modules/json-api/core-concepts#virtual",
+                "meta": {
+                  "about": "Usage and meaning of the 'virtual' resource identifier."
+                }
+              }
+            }
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/taxonomy_term/event_type/29eb2d1e-f275-4ca0-a532-a2a05ef92e13/parent?resourceVersion=id%3A24"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/taxonomy_term/event_type/29eb2d1e-f275-4ca0-a532-a2a05ef92e13/relationships/parent?resourceVersion=id%3A24"
+        }
+      }
+    }
+  }
+}

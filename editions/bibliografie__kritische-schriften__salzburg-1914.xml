@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bibliografie__kritische-schriften__salzburg-1914" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Salzburg (1914)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">38712</idno>
+        <idno type="drupal-alias">/bibliografie/38712</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bibliografie/38712">https://bahr.univie.ac.at/bibliografie/38712</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+        <bibl type="beschriebene-ausgabe">
+          <author>Hermann Bahr</author>
+          <title type="main">Salzburg</title>
+          <pubPlace>Berlin</pubPlace>
+          <publisher>J. Bard</publisher>
+          <series>
+            <title level="s">Bards Bücher der Kunst, 6</title>
+          </series>
+          <date>1914</date>
+          <extent>XII, 48</extent>
+          <note>Nach dem Copyright "1914" datiert. Am 9. Juli d. J. teilte Bard Bahr brieflich mit, dass der Schluss des Manuskriptes in die Druckerei geleitet wurde. Trotzdem sind im Nachlass nur Reaktionen von 1922 nachzuweisen (die eine vom 20.6.1922 und die andere hat die Kopfzeile "1922 Literarischer Handweiser" (Nr. 8, S. 363)). Die Zeitschrift des Deutschen Vereins für Buchwesen und Schrifttum, 5 (1922) #7-9, 172 kündigt das Buch als Neuerscheinung an, ebenso das Deutsche Bücherverzeichnis, 1921-1925, I, 177. Auch die Österreichische Nationalbibliothek führt die Ausgabe trotz Copyright 1914 als [1922]. Was nahelegt, dass die Exemplare erst 1922 in den Handel kamen. Zur Neuausgabe im Agathon-Verlag: Der Wiener Kurier brachte am 7.8.1946 ein Auszug aus dem "im Agathon-Verlag erscheinenden Buch", weswegen diese auf [1946] zu datieren ist.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="1" key="bibliografie">Bibliografie</term>
+          <term n="4" key="kritische-schriften">Kritische Schriften</term>
+          <term n="15" key="salzburg-1914" type="eintrag">Salzburg (1914)</term>
+        </keywords>
+        <classCode scheme="drupal-type">bibliographie</classCode>
+        <keywords scheme="bibliografie_type">
+          <term>Kritische Schriften</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2010-12-30T14:11:24+00:00" type="created">angelegt in Drupal</change>
+      <change when="2011-11-21T15:29:57+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="bib">
+        <head>Bibliografie</head>
+        <table type="bibliografie">
+          <row>
+            <cell>Autor:</cell>
+            <cell>Hermann Bahr</cell>
+          </row>
+          <row>
+            <cell>Titel:</cell>
+            <cell>Salzburg</cell>
+          </row>
+          <row>
+            <cell>Ort:</cell>
+            <cell>Berlin</cell>
+          </row>
+          <row>
+            <cell>Verlag:</cell>
+            <cell>J. Bard</cell>
+          </row>
+          <row>
+            <cell>Reihe:</cell>
+            <cell>Bards Bücher der Kunst, 6</cell>
+          </row>
+          <row>
+            <cell>Jahr:</cell>
+            <cell>1914</cell>
+          </row>
+          <row>
+            <cell>Seiten:</cell>
+            <cell>XII, 48</cell>
+          </row>
+          <row>
+            <cell>Anm.:</cell>
+            <cell>Nach dem Copyright "1914" datiert. Am 9. Juli d. J. teilte Bard Bahr brieflich mit, dass der Schluss des Manuskriptes in die Druckerei geleitet wurde. Trotzdem sind im Nachlass nur Reaktionen von 1922 nachzuweisen (die eine vom 20.6.1922 und die andere hat die Kopfzeile "1922 Literarischer Handweiser" (Nr. 8, S. 363)). Die Zeitschrift des Deutschen Vereins für Buchwesen und Schrifttum, 5 (1922) #7-9, 172 kündigt das Buch als Neuerscheinung an, ebenso das Deutsche Bücherverzeichnis, 1921-1925, I, 177. Auch die Österreichische Nationalbibliothek führt die Ausgabe trotz Copyright 1914 als [1922]. Was nahelegt, dass die Exemplare erst 1922 in den Handel kamen. Zur Neuausgabe im Agathon-Verlag: Der Wiener Kurier brachte am 7.8.1946 ein Auszug aus dem "im Agathon-Verlag erscheinenden Buch", weswegen diese auf [1946] zu datieren ist.</cell>
+          </row>
+        </table>
+      </div>
+      <div xml:id="digit">
+        <head>Digitalisate</head>
+        <p>
+          <ref target="http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=80">ANNO</ref>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

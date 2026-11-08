@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "7839e9be-aa96-4b50-b4bb-7e677a93bf70",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/7839e9be-aa96-4b50-b4bb-7e677a93bf70?resourceVersion=id%3A3518"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/7839e9be-aa96-4b50-b4bb-7e677a93bf70?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49745,
+    "drupal_internal__vid": 3518,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "R. Strauß in Garmisch",
+    "created": "2011-12-20T16:35:04+00:00",
+    "changed": "2012-10-30T10:06:17+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49745",
+      "pid": 1558,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 3. September 1915 besucht Bahr Richard Strauß in Garmisch",
+      "format": "full_html",
+      "processed": "Am 3. September 1915 besucht Bahr Richard Strauß in Garmisch",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1915-09-03",
+      "end_value": "1915-09-03"
+    },
+    "field_sources": [
+      "An HvH, 4.9.1915. Briefwechsel Bahr/Hofmannsthal. Hg. Elsbeth Dangel-Pelloquin. Göttingen: Wallstein. (In Vorbereitung)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7839e9be-aa96-4b50-b4bb-7e677a93bf70/node_type?resourceVersion=id%3A3518"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7839e9be-aa96-4b50-b4bb-7e677a93bf70/relationships/node_type?resourceVersion=id%3A3518"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7839e9be-aa96-4b50-b4bb-7e677a93bf70/revision_uid?resourceVersion=id%3A3518"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7839e9be-aa96-4b50-b4bb-7e677a93bf70/relationships/revision_uid?resourceVersion=id%3A3518"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7839e9be-aa96-4b50-b4bb-7e677a93bf70/uid?resourceVersion=id%3A3518"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7839e9be-aa96-4b50-b4bb-7e677a93bf70/relationships/uid?resourceVersion=id%3A3518"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7839e9be-aa96-4b50-b4bb-7e677a93bf70/field_event_type?resourceVersion=id%3A3518"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7839e9be-aa96-4b50-b4bb-7e677a93bf70/relationships/field_event_type?resourceVersion=id%3A3518"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "de0d9249-15f3-4c4a-a72e-edd2e1bcd9bf",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/de0d9249-15f3-4c4a-a72e-edd2e1bcd9bf?resourceVersion=id%3A3096"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/de0d9249-15f3-4c4a-a72e-edd2e1bcd9bf?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44182,
+    "drupal_internal__vid": 3096,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Coquelin",
+    "created": "2011-09-16T14:58:56+00:00",
+    "changed": "2011-09-20T12:57:24+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44182",
+      "pid": 1075,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahr begleitet auch das Gastspiel Coquelins aîné im Carl-Theater, das vom 30. Oktober bis zum 1. November 1903 stattfindet, publizistisch.",
+      "format": "full_html",
+      "processed": "Bahr begleitet auch das Gastspiel Coquelins aîné im Carl-Theater, das vom 30. Oktober bis zum 1. November 1903 stattfindet, publizistisch.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1903-10-30",
+      "end_value": "1903-11-01"
+    },
+    "field_sources": [
+      "Hermann Bahr: Coquelin. (Als Gast im Carl-Theater vom 30. Oktober bis 1. November 1903). Neues Wiener Tagblatt, 37 (1903) #299, 11. (31.10.1903) ",
+      "H. B.: Theater, Kunst und Literatur. Carl-Theater. Neues Wiener Tagblatt, 37 (1903) #300, 10-11. (1.11.1903)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/de0d9249-15f3-4c4a-a72e-edd2e1bcd9bf/node_type?resourceVersion=id%3A3096"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/de0d9249-15f3-4c4a-a72e-edd2e1bcd9bf/relationships/node_type?resourceVersion=id%3A3096"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/de0d9249-15f3-4c4a-a72e-edd2e1bcd9bf/revision_uid?resourceVersion=id%3A3096"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/de0d9249-15f3-4c4a-a72e-edd2e1bcd9bf/relationships/revision_uid?resourceVersion=id%3A3096"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/de0d9249-15f3-4c4a-a72e-edd2e1bcd9bf/uid?resourceVersion=id%3A3096"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/de0d9249-15f3-4c4a-a72e-edd2e1bcd9bf/relationships/uid?resourceVersion=id%3A3096"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/de0d9249-15f3-4c4a-a72e-edd2e1bcd9bf/field_event_type?resourceVersion=id%3A3096"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/de0d9249-15f3-4c4a-a72e-edd2e1bcd9bf/relationships/field_event_type?resourceVersion=id%3A3096"
+        }
+      }
+    }
+  }
+}

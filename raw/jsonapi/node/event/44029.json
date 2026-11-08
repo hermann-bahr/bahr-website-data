@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "90dcd37a-e71b-4cc1-9efd-47dd837d6f29",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/90dcd37a-e71b-4cc1-9efd-47dd837d6f29?resourceVersion=id%3A2950"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/90dcd37a-e71b-4cc1-9efd-47dd837d6f29?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44029,
+    "drupal_internal__vid": 2950,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Salzburger Theater",
+    "created": "2011-08-19T15:52:37+00:00",
+    "changed": "2011-08-30T13:54:55+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44029",
+      "pid": 927,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Das Doppeltheater Wien-Berlin, das Bahr gemeinsam mit Max Reinhardt im Frühling/Sommer 1903 mit Max Reinhardt plant, wird zeitweise auch als Triple-Theater gedacht, mit Salzburg als zusätzlichem Spielort. Am 24. August 1903 schreibt Bahr an Reinhardt, in Salzburg eine Spielstätte für den kommenden Sommer zu pachten. Dazu kommt es nicht, ebensowenig wird das für 1905 angesetzte \"Salzburger Feste\" verwirklicht. Auch wenn die Pläne nie umgesetzt wurde, sei es aus Geld- sei es aus Zeitmangel, so finden sich hier erste Spuren der Salzburger Festspiele.",
+      "format": "full_html",
+      "processed": "Das Doppeltheater Wien-Berlin, das Bahr gemeinsam mit Max Reinhardt im Frühling/Sommer 1903 mit Max Reinhardt plant, wird zeitweise auch als Triple-Theater gedacht, mit Salzburg als zusätzlichem Spielort. Am 24. August 1903 schreibt Bahr an Reinhardt, in Salzburg eine Spielstätte für den kommenden Sommer zu pachten. Dazu kommt es nicht, ebensowenig wird das für 1905 angesetzte \"Salzburger Feste\" verwirklicht. Auch wenn die Pläne nie umgesetzt wurde, sei es aus Geld- sei es aus Zeitmangel, so finden sich hier erste Spuren der Salzburger Festspiele.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1903-08-24",
+      "end_value": "1903-08-24"
+    },
+    "field_sources": [
+      "Tagebücher (Csàky), III, XXII-XXV."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/90dcd37a-e71b-4cc1-9efd-47dd837d6f29/node_type?resourceVersion=id%3A2950"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/90dcd37a-e71b-4cc1-9efd-47dd837d6f29/relationships/node_type?resourceVersion=id%3A2950"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/90dcd37a-e71b-4cc1-9efd-47dd837d6f29/revision_uid?resourceVersion=id%3A2950"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/90dcd37a-e71b-4cc1-9efd-47dd837d6f29/relationships/revision_uid?resourceVersion=id%3A2950"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/90dcd37a-e71b-4cc1-9efd-47dd837d6f29/uid?resourceVersion=id%3A2950"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/90dcd37a-e71b-4cc1-9efd-47dd837d6f29/relationships/uid?resourceVersion=id%3A2950"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/90dcd37a-e71b-4cc1-9efd-47dd837d6f29/field_event_type?resourceVersion=id%3A2950"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/90dcd37a-e71b-4cc1-9efd-47dd837d6f29/relationships/field_event_type?resourceVersion=id%3A2950"
+        }
+      }
+    }
+  }
+}

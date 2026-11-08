@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "75381bde-1cae-44f0-bee9-d350976fa072",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/75381bde-1cae-44f0-bee9-d350976fa072?resourceVersion=id%3A2557"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/75381bde-1cae-44f0-bee9-d350976fa072?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38694,
+    "drupal_internal__vid": 2557,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Bibliothek Schenkung",
+    "created": "2010-12-28T10:15:42+00:00",
+    "changed": "2011-10-03T10:56:12+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38694",
+      "pid": 444,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Meldung im Prager Tagblatt vom 21. November 1931:\r\n<blockquote><strong>Bahr schenkt seine Bibliothek dem Land Salzburg.</strong> Salzburg. Hermann Bahr hat seine 20.000 Bände umfassende Bibliothek, die sich in München befindet, dem Land Salzburg unter der Bedingung geschenkt, daß die Sammlung in sich geschlossen bleibt und noch bei Lebzeiten des Dichters allgemein zugänglich gemacht wird. Um die Bibliothek Hermann Bahrs, der bekanntlich in München lebt, hatten sich auch München und Linz – die Geburtsstadt des Dichters beworben.</blockquote>\r\n",
+      "format": "full_html",
+      "processed": "Meldung im Prager Tagblatt vom 21. November 1931:\n<blockquote><strong>Bahr schenkt seine Bibliothek dem Land Salzburg.</strong> Salzburg. Hermann Bahr hat seine 20.000 Bände umfassende Bibliothek, die sich in München befindet, dem Land Salzburg unter der Bedingung geschenkt, daß die Sammlung in sich geschlossen bleibt und noch bei Lebzeiten des Dichters allgemein zugänglich gemacht wird. Um die Bibliothek Hermann Bahrs, der bekanntlich in München lebt, hatten sich auch München und Linz – die Geburtsstadt des Dichters beworben.</blockquote>\n",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1931-11-21",
+      "end_value": "1931-11-21"
+    },
+    "field_sources": [
+      "Prager Tagblatt, 56 (1931) #271, 6. (21.11.1931)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/75381bde-1cae-44f0-bee9-d350976fa072/node_type?resourceVersion=id%3A2557"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/75381bde-1cae-44f0-bee9-d350976fa072/relationships/node_type?resourceVersion=id%3A2557"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/75381bde-1cae-44f0-bee9-d350976fa072/revision_uid?resourceVersion=id%3A2557"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/75381bde-1cae-44f0-bee9-d350976fa072/relationships/revision_uid?resourceVersion=id%3A2557"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/75381bde-1cae-44f0-bee9-d350976fa072/uid?resourceVersion=id%3A2557"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/75381bde-1cae-44f0-bee9-d350976fa072/relationships/uid?resourceVersion=id%3A2557"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/75381bde-1cae-44f0-bee9-d350976fa072/field_event_type?resourceVersion=id%3A2557"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/75381bde-1cae-44f0-bee9-d350976fa072/relationships/field_event_type?resourceVersion=id%3A2557"
+        }
+      }
+    }
+  }
+}

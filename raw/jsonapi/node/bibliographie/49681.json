@@ -1,0 +1,109 @@
+{
+  "type": "node--bibliographie",
+  "id": "0174b279-a5ce-4615-8127-2736ffc3135b",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/0174b279-a5ce-4615-8127-2736ffc3135b?resourceVersion=id%3A3935"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/0174b279-a5ce-4615-8127-2736ffc3135b?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49681,
+    "drupal_internal__vid": 3935,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:44:00+00:00",
+    "status": true,
+    "title": "Altweibersommer (1924)",
+    "created": "2011-11-23T13:39:46+00:00",
+    "changed": "2012-12-05T09:00:33+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/bibliografie/49681",
+      "pid": 1496,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<h3 id=\"bib\">Bühnenmanuskript</h3>\r\n<table class=\"bibliografie\">\r\n<tr><td>Autor:</td><td>Hermann Bahr</td></tr>\r\n<tr><td>Titel:</td><td>Altweibersommer</td></tr>\r\n<tr><td> </td><td>Ein Liebesschwank in drei Aufzügen</td></tr>\r\n<tr><td>Ort:</td><td>Berlin</td></tr>\r\n<tr><td>Verlag:</td><td>Ahn & Simrock</td></tr>\r\n<tr><td>Jahr:</td><td>1924</td></tr>\r\n<tr><td>Seiten:</td><td>53</td></tr>\r\n<tr><td>Anm.:</td><td>Nur als Bühnenmanuskript sowie in der Neuen Freien Presse, 15.11., 23.11. und 30.11.1924 gedruckt.</td></tr>\r\n</table>\r\n<h3 id=\"auff\">Inszenierungen</h3>\r\n<p>21. Jänner 1925 Uraufführung Akademietheater, Wien\r\n21. Jänner 1926 zusammen mit \"Der Selige\", Akademietheater, Wien</p>\r\n\r\n<h3>Rezensionen</h3>\r\n<p>-bs: Bahr-Schwänke. Akademietheater. Neues Wiener Journal, 34 (1926) #11556, 11. (23.1.1926)</p>\r\n\r\n<h3>Digitalisate</h3>\r\n\r\n<a href=\"books.google.at/books?id=Kko4GwAACAAJ\">Google Books</a>",
+      "format": "full_html",
+      "processed": "<h3 id=\"bib\">Bühnenmanuskript</h3>\n<table class=\"bibliografie\">\n<tr><td>Autor:</td><td>Hermann Bahr</td></tr>\n<tr><td>Titel:</td><td>Altweibersommer</td></tr>\n<tr><td> </td><td>Ein Liebesschwank in drei Aufzügen</td></tr>\n<tr><td>Ort:</td><td>Berlin</td></tr>\n<tr><td>Verlag:</td><td>Ahn &amp; Simrock</td></tr>\n<tr><td>Jahr:</td><td>1924</td></tr>\n<tr><td>Seiten:</td><td>53</td></tr>\n<tr><td>Anm.:</td><td>Nur als Bühnenmanuskript sowie in der Neuen Freien Presse, 15.11., 23.11. und 30.11.1924 gedruckt.</td></tr>\n</table>\n<h3 id=\"auff\">Inszenierungen</h3>\n<p>21. Jänner 1925 Uraufführung Akademietheater, Wien\n21. Jänner 1926 zusammen mit \"Der Selige\", Akademietheater, Wien</p>\n\n<h3>Rezensionen</h3>\n<p>-bs: Bahr-Schwänke. Akademietheater. Neues Wiener Journal, 34 (1926) #11556, 11. (23.1.1926)</p>\n\n<h3>Digitalisate</h3>\n\n<a href=\"books.google.at/books?id=Kko4GwAACAAJ\">Google Books</a>",
+      "summary": null
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "c4d97a7b-20a3-4a00-9858-72c5abf35af3",
+        "meta": {
+          "drupal_internal__target_id": "bibliographie"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/0174b279-a5ce-4615-8127-2736ffc3135b/node_type?resourceVersion=id%3A3935"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/0174b279-a5ce-4615-8127-2736ffc3135b/relationships/node_type?resourceVersion=id%3A3935"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/0174b279-a5ce-4615-8127-2736ffc3135b/revision_uid?resourceVersion=id%3A3935"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/0174b279-a5ce-4615-8127-2736ffc3135b/relationships/revision_uid?resourceVersion=id%3A3935"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/0174b279-a5ce-4615-8127-2736ffc3135b/uid?resourceVersion=id%3A3935"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/0174b279-a5ce-4615-8127-2736ffc3135b/relationships/uid?resourceVersion=id%3A3935"
+        }
+      }
+    },
+    "field_bibliographie_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--bibliografie_type",
+          "id": "2729bfe4-73cf-46a1-8929-a36c1cba2af6",
+          "meta": {
+            "drupal_internal__target_id": 13
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/0174b279-a5ce-4615-8127-2736ffc3135b/field_bibliographie_type?resourceVersion=id%3A3935"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/0174b279-a5ce-4615-8127-2736ffc3135b/relationships/field_bibliographie_type?resourceVersion=id%3A3935"
+        }
+      }
+    }
+  }
+}

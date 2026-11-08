@@ -1,0 +1,119 @@
+{
+  "type": "node--event",
+  "id": "c63d3258-6a4e-4809-9cc1-a372deaecc03",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/c63d3258-6a4e-4809-9cc1-a372deaecc03?resourceVersion=id%3A2821"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/c63d3258-6a4e-4809-9cc1-a372deaecc03?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39046,
+    "drupal_internal__vid": 2821,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Verkade",
+    "created": "2011-05-02T12:17:01+00:00",
+    "changed": "2013-03-01T11:30:22+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39046",
+      "pid": 778,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Wann sich Bahr und der \"Maler-Mönch\" Verkade zum ersten Mal trafen, ist unerforscht. Erhaltene Briefe stammen aus dem Jahr 1916. \r\n\r\nErwähnt wird er in den frühen \"Tagebüchern\" des \"Neuen Wiener Journals\" von 1917 und 1918. 1920 rezensiert Bahr Verkades Bekehrungsbuch \"Die Unruhe zu Gott\" gleich zweimal. Und in \"Atlantis\" (1926) schreibt er über den vermutlich engsten Freund seiner letzten Jahre:\r\n<blockquote>Willibrord Verkade, dem ich verdanke, wahrhaft zu leben</blockquote> und drei Jahre später, in \"Die Gesellschaft Jesu\" über sein Weg zum gefestigten Glauben:<blockquote>\"Zufall\" war es auch wieder, der mich dann nach Beuron führte, wo derselbe \"Zufall\" wollte, daß mich, als Gastpater, ein frohgemuter Maler empfing[,] Pater Willibrord Verkade…</blockquote> \r\n",
+      "format": "full_html",
+      "processed": "Wann sich Bahr und der \"Maler-Mönch\" Verkade zum ersten Mal trafen, ist unerforscht. Erhaltene Briefe stammen aus dem Jahr 1916. \n\nErwähnt wird er in den frühen \"Tagebüchern\" des \"Neuen Wiener Journals\" von 1917 und 1918. 1920 rezensiert Bahr Verkades Bekehrungsbuch \"Die Unruhe zu Gott\" gleich zweimal. Und in \"Atlantis\" (1926) schreibt er über den vermutlich engsten Freund seiner letzten Jahre:\n<blockquote>Willibrord Verkade, dem ich verdanke, wahrhaft zu leben</blockquote> und drei Jahre später, in \"Die Gesellschaft Jesu\" über sein Weg zum gefestigten Glauben:<blockquote>\"Zufall\" war es auch wieder, der mich dann nach Beuron führte, wo derselbe \"Zufall\" wollte, daß mich, als Gastpater, ein frohgemuter Maler empfing[,] Pater Willibrord Verkade…</blockquote> \n",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1916-01-01",
+      "end_value": "1916-01-01"
+    },
+    "field_sources": [
+      "Hermann Bahr: Atlantis. Neue Freie Presse, (1926) #22231, Morgenblatt, 1-2. (5.8.1926) Erneut in: Labyrinth der Gegenwart, 90-94.",
+      "Hermann Bahr: Die Unruhe zu Gott. Hochland, 17 (1920) #August, 530-535. Als \"Verkade\" erneut in: Bilderbuch, 131-141.",
+      "Eine alternative Fassung: Vossische Zeitung, (1920) #303, Morgen-Ausgabe, 3-4. (18.6.1920)",
+      "Hermann Bahr: Die Gesellschaft Jesu. Münchner Telegramm-Zeitung, 8 (1929) #124, 2. (2.7.1929) Buchausgabe: Labyrinth der Gegenwart, 171."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c63d3258-6a4e-4809-9cc1-a372deaecc03/node_type?resourceVersion=id%3A2821"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c63d3258-6a4e-4809-9cc1-a372deaecc03/relationships/node_type?resourceVersion=id%3A2821"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c63d3258-6a4e-4809-9cc1-a372deaecc03/revision_uid?resourceVersion=id%3A2821"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c63d3258-6a4e-4809-9cc1-a372deaecc03/relationships/revision_uid?resourceVersion=id%3A2821"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c63d3258-6a4e-4809-9cc1-a372deaecc03/uid?resourceVersion=id%3A2821"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c63d3258-6a4e-4809-9cc1-a372deaecc03/relationships/uid?resourceVersion=id%3A2821"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c63d3258-6a4e-4809-9cc1-a372deaecc03/field_event_type?resourceVersion=id%3A2821"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c63d3258-6a4e-4809-9cc1-a372deaecc03/relationships/field_event_type?resourceVersion=id%3A2821"
+        }
+      }
+    }
+  }
+}

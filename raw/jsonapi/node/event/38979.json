@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "e2fb0a3b-e198-4653-a260-8155fc64d327",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/e2fb0a3b-e198-4653-a260-8155fc64d327?resourceVersion=id%3A2762"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/e2fb0a3b-e198-4653-a260-8155fc64d327?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38979,
+    "drupal_internal__vid": 2762,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Vizepräsident Concordia",
+    "created": "2011-03-17T10:49:23+00:00",
+    "changed": "2011-07-08T16:17:25+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38979",
+      "pid": 716,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Von 1894 bis zu seinem Tod ist Bahr Mitglied des Schriftstellerverbands \"Concordia\". Mitte März 1900 wird er  ihr Vizepräsident und bleibt es bis 1901 oder 1902. Kraus:\r\n<blockquote>Ueber den Verlauf des Wahlactes weiß ich nichts Näheres. Mit Rücksicht auf die bekannte Eigenthümlichkeit der Mitglieder nahm man die Wahl wieder in der Art vor, dass um möglichste Stille gebeten und dann ersucht wurde, durch Senken der Hände abzustimmen.</blockquote>\r\n(Die derzeit letzte nachweisbare Erwähnung als Vizepräsident stammt von der Beerdigung Karlweis Ende Oktober 1901. Im darauffolgenden März wird er in den Vorstand wiedergewählt, dürfte aber die Stellvertreterrolle abgegeben haben.)",
+      "format": "full_html",
+      "processed": "Von 1894 bis zu seinem Tod ist Bahr Mitglied des Schriftstellerverbands \"Concordia\". Mitte März 1900 wird er  ihr Vizepräsident und bleibt es bis 1901 oder 1902. Kraus:\n<blockquote>Ueber den Verlauf des Wahlactes weiß ich nichts Näheres. Mit Rücksicht auf die bekannte Eigenthümlichkeit der Mitglieder nahm man die Wahl wieder in der Art vor, dass um möglichste Stille gebeten und dann ersucht wurde, durch Senken der Hände abzustimmen.</blockquote>\n(Die derzeit letzte nachweisbare Erwähnung als Vizepräsident stammt von der Beerdigung Karlweis Ende Oktober 1901. Im darauffolgenden März wird er in den Vorstand wiedergewählt, dürfte aber die Stellvertreterrolle abgegeben haben.)",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1900-03-15",
+      "end_value": "1900-03-15"
+    },
+    "field_sources": [
+      "Ankündigung der Vizepräsidentschaft in der Fackel, 1 (1900) #34, 28. (Anfang März 1900), dass Bahr gewählt wurde: Fackel, 1 (1900) #35, 29. (Mitte März 1900)",
+      "Erwähnung als Vizepräsident: Neues Wiener Tagblatt, 35 (1901) #298, 7. (29.10.1901)",
+      "Wiederwahl in den Vorstand: Neues Wiener Tagblatt, 36 (1902) #86, 5. (28.3.1902)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e2fb0a3b-e198-4653-a260-8155fc64d327/node_type?resourceVersion=id%3A2762"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e2fb0a3b-e198-4653-a260-8155fc64d327/relationships/node_type?resourceVersion=id%3A2762"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e2fb0a3b-e198-4653-a260-8155fc64d327/revision_uid?resourceVersion=id%3A2762"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e2fb0a3b-e198-4653-a260-8155fc64d327/relationships/revision_uid?resourceVersion=id%3A2762"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e2fb0a3b-e198-4653-a260-8155fc64d327/uid?resourceVersion=id%3A2762"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e2fb0a3b-e198-4653-a260-8155fc64d327/relationships/uid?resourceVersion=id%3A2762"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e2fb0a3b-e198-4653-a260-8155fc64d327/field_event_type?resourceVersion=id%3A2762"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e2fb0a3b-e198-4653-a260-8155fc64d327/relationships/field_event_type?resourceVersion=id%3A2762"
+        }
+      }
+    }
+  }
+}

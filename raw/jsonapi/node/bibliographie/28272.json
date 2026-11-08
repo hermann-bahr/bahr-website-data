@@ -1,0 +1,109 @@
+{
+  "type": "node--bibliographie",
+  "id": "24ea8bca-fab5-4a2c-b7ca-bfac395019b0",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/24ea8bca-fab5-4a2c-b7ca-bfac395019b0?resourceVersion=id%3A3819"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/24ea8bca-fab5-4a2c-b7ca-bfac395019b0?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28272,
+    "drupal_internal__vid": 3819,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:44:00+00:00",
+    "status": true,
+    "title": "Die Einsichtslosigkeit des Herrn Schäffle (1885)",
+    "created": "2010-11-24T14:15:14+00:00",
+    "changed": "2011-11-21T15:20:01+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/bibliografie/28272",
+      "pid": 404,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<h3 id=\"bib\">Bibliografie</h3>\r\n<table class=\"bibliografie\">\r\n<tr><td>Autor:</td><td>Hermann Bahr</td></tr>\r\n<tr><td>Titel:</td><td>Die Einsichtslosigkeit des Herrn Schäffle</td></tr>\r\n<tr><td> </td><td>Drei Briefe an einen Volksmann als Antwort auf \"Die Aussichtslosigkeit der Sozialdemokratie\"</td></tr>\r\n<tr><td>Ort:</td><td>Zürich</td></tr>\r\n<tr><td>Verlag:</td><td>J. Schabelitz</td></tr>\r\n<tr><td>Jahr:</td><td>1886</td></tr>\r\n<tr><td>Seiten:</td><td>95</td></tr>\r\n<tr><td>Übers.:</td><td>Ein Auszug auf Schwedisch als \"Individualism och Socialism\"</td></tr>\r\n<tr><td>Anm.:</td><td>Das Buch ist auf 1886 vordatiert. Am 26.7.1885 kündigt er seinem Vater den Erhalt \"einer Broschüre von mir\" für die nächsten Tage an. Die Deutsche Schriftsteller-Zeitung, 1 (1885) #16, 390 (15.8.1885) verzeichnet es als erschienen. </td></tr></table>\r\n<h3 id=\"rezens\">Rezensionen</h3>\r\n<p>Der Sozialdemokrat, Zürich, 6.8.1885, 3.\r\nKölnische Zeitung, 16.8.1885, 1\r\nDeutsche Worte,  (1885) #10, 344-347 \r\nLinzer Volksblatt, 30.10.1885, 3.</p>\r\n\r\n<h3 id=\"digit\">Digitalisate</h3>\r\n\r\n<a href=\"http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&aid=37\">ANNO</a> [Aus Bahrs Nachlass]\r\n<a href=\"http://www.archive.org/search.php?query=bahr%20schäffle\">Archive.org</a>",
+      "format": "full_html",
+      "processed": "<h3 id=\"bib\">Bibliografie</h3>\n<table class=\"bibliografie\">\n<tr><td>Autor:</td><td>Hermann Bahr</td></tr>\n<tr><td>Titel:</td><td>Die Einsichtslosigkeit des Herrn Schäffle</td></tr>\n<tr><td> </td><td>Drei Briefe an einen Volksmann als Antwort auf \"Die Aussichtslosigkeit der Sozialdemokratie\"</td></tr>\n<tr><td>Ort:</td><td>Zürich</td></tr>\n<tr><td>Verlag:</td><td>J. Schabelitz</td></tr>\n<tr><td>Jahr:</td><td>1886</td></tr>\n<tr><td>Seiten:</td><td>95</td></tr>\n<tr><td>Übers.:</td><td>Ein Auszug auf Schwedisch als \"Individualism och Socialism\"</td></tr>\n<tr><td>Anm.:</td><td>Das Buch ist auf 1886 vordatiert. Am 26.7.1885 kündigt er seinem Vater den Erhalt \"einer Broschüre von mir\" für die nächsten Tage an. Die Deutsche Schriftsteller-Zeitung, 1 (1885) #16, 390 (15.8.1885) verzeichnet es als erschienen. </td></tr></table>\n<h3 id=\"rezens\">Rezensionen</h3>\n<p>Der Sozialdemokrat, Zürich, 6.8.1885, 3.\nKölnische Zeitung, 16.8.1885, 1\nDeutsche Worte,  (1885) #10, 344-347 \nLinzer Volksblatt, 30.10.1885, 3.</p>\n\n<h3 id=\"digit\">Digitalisate</h3>\n\n<a href=\"http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=37\">ANNO</a> [Aus Bahrs Nachlass]\n<a href=\"http://www.archive.org/search.php?query=bahr%20schäffle\">Archive.org</a>",
+      "summary": null
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "c4d97a7b-20a3-4a00-9858-72c5abf35af3",
+        "meta": {
+          "drupal_internal__target_id": "bibliographie"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/24ea8bca-fab5-4a2c-b7ca-bfac395019b0/node_type?resourceVersion=id%3A3819"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/24ea8bca-fab5-4a2c-b7ca-bfac395019b0/relationships/node_type?resourceVersion=id%3A3819"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/24ea8bca-fab5-4a2c-b7ca-bfac395019b0/revision_uid?resourceVersion=id%3A3819"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/24ea8bca-fab5-4a2c-b7ca-bfac395019b0/relationships/revision_uid?resourceVersion=id%3A3819"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/24ea8bca-fab5-4a2c-b7ca-bfac395019b0/uid?resourceVersion=id%3A3819"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/24ea8bca-fab5-4a2c-b7ca-bfac395019b0/relationships/uid?resourceVersion=id%3A3819"
+        }
+      }
+    },
+    "field_bibliographie_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--bibliografie_type",
+          "id": "7918c4ca-8976-4b38-be44-298fcc23a3ab",
+          "meta": {
+            "drupal_internal__target_id": 10
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/24ea8bca-fab5-4a2c-b7ca-bfac395019b0/field_bibliographie_type?resourceVersion=id%3A3819"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/24ea8bca-fab5-4a2c-b7ca-bfac395019b0/relationships/field_bibliographie_type?resourceVersion=id%3A3819"
+        }
+      }
+    }
+  }
+}

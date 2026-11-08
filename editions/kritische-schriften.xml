@@ -1,0 +1,337 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kritische-schriften" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Kritische Schriften in Einzelausgaben</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">38750</idno>
+        <idno type="drupal-alias">/kritische-schriften-einzelausgaben</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/kritische-schriften-einzelausgaben">https://bahr.univie.ac.at/kritische-schriften-einzelausgaben</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="2" key="kritische-schriften">Kritische Schriften</term>
+        </keywords>
+        <classCode scheme="drupal-type">page</classCode>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2011-01-21T12:35:12+00:00" type="created">angelegt in Drupal</change>
+      <change when="2020-02-27T15:50:58+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head>
+          <hi rend="italic">Herausgegeben von Claus Pias</hi>
+        </head>
+        <p>Alle Bücher können über den <ref target="https://asw-verlage.de/reihen/hermann-bahr-kritische-schriften/">VDG-Verlag</ref> bezogen oder über den jeweiligen Link kostenfrei als PDF geladen werden.</p>
+        <table>
+          <row>
+            <cell>[1]</cell>
+            <cell>
+              <figure>
+                <graphic url="files/bilder/vdg/1_1.jpg"/>
+                <figDesc>Hermann Bahr, Kritische Schriften - 1 - Zur Kritik der Moderne</figDesc>
+              </figure>
+            </cell>
+            <cell>
+              <ref target="kritische-schriften__zur-kritik-der-moderne-1890.xml">Zur Kritik der Moderne </ref>
+            </cell>
+            <cell>Hg. Claus Pias</cell>
+          </row>
+          <row>
+            <cell>[2]</cell>
+            <cell>
+              <figure>
+                <graphic url="files/bilder/vdg/2_0.jpg"/>
+                <figDesc>Hermann Bahr, Kritische Schriften - 2 - Die Überwindung des Naturalismus</figDesc>
+              </figure>
+            </cell>
+            <cell>
+              <ref target="kritische-schriften__die-ueberwindung-des-naturalismus-1891.xml">Die Überwindung des Naturalismus</ref>
+            </cell>
+            <cell>Hg. Claus Pias</cell>
+          </row>
+          <row>
+            <cell>[3]</cell>
+            <cell>
+              <figure>
+                <graphic url="files/bilder/vdg/3_0.jpg"/>
+                <figDesc>Hermann Bahr, Kritische Schriften - 3 - Der Antisemitismus</figDesc>
+              </figure>
+            </cell>
+            <cell>
+              <ref target="kritische-schriften__der-antisemitismus-1894.xml">Der Antisemitismus. Ein internationales Interview </ref>
+            </cell>
+            <cell>Hg. Claus Pias</cell>
+          </row>
+          <row>
+            <cell>[4]</cell>
+            <cell>
+              <figure>
+                <graphic url="files/bilder/vdg/4_0.jpg"/>
+                <figDesc>Hermann Bahr, Kritische Schriften - 4 - Studien zur Kritik der Moderne</figDesc>
+              </figure>
+            </cell>
+            <cell>
+              <ref target="kritische-schriften__studien-zur-kritik-der-moderne-1894.xml">Studien zur Kritik der Moderne</ref>
+            </cell>
+            <cell>Hg. Claus Pias</cell>
+          </row>
+          <row>
+            <cell>[5]</cell>
+            <cell>
+              <figure>
+                <graphic url="files/bilder/vdg/5.jpg"/>
+                <figDesc>Hermann Bahr, Kritische Schriften - 5 - Renaissance</figDesc>
+              </figure>
+            </cell>
+            <cell>
+              <ref target="kritische-schriften__renaissance-1897.xml">Renaissance</ref>
+            </cell>
+            <cell>Hg. Claus Pias</cell>
+          </row>
+          <row>
+            <cell>[6]</cell>
+            <cell>
+              <figure>
+                <graphic url="files/bilder/vdg/6.jpg"/>
+                <figDesc>Hermann Bahr, Kritische Schriften - 6 - Secession</figDesc>
+              </figure>
+            </cell>
+            <cell>
+              <ref target="kritische-schriften__secession-1900.xml">Secession. Essays </ref>
+            </cell>
+            <cell>Hg. Claus Pias</cell>
+          </row>
+          <row>
+            <cell>[7]</cell>
+            <cell>
+              <figure>
+                <graphic url="files/bilder/vdg/7.jpg"/>
+                <figDesc>Hermann Bahr, Kritische Schriften - 7 - Bildung</figDesc>
+              </figure>
+            </cell>
+            <cell>
+              <ref target="kritische-schriften__bildung-1900.xml">Bildung.</ref>
+            </cell>
+            <cell>Hg. Gottfried Schnödl</cell>
+          </row>
+          <row>
+            <cell>[8]</cell>
+            <cell>
+              <figure>
+                <graphic url="files/bilder/vdg/8.jpg"/>
+                <figDesc>Hermann Bahr, Kritische Schriften - 8 - Rede über Klimt / Gegen Klimt</figDesc>
+              </figure>
+            </cell>
+            <cell><ref target="kritische-schriften__rede-ueber-klimt-1901.xml">Rede über Klimt</ref><lb/> <ref target="bibliografie__herausgaben__gegen-klimt.xml">Gegen Klimt</ref></cell>
+            <cell>Hg. Claus Pias</cell>
+          </row>
+          <row>
+            <cell>[9]</cell>
+            <cell>
+              <figure>
+                <graphic url="files/bilder/vdg/9.jpg"/>
+                <figDesc>Hermann Bahr, Kritische Schriften - 9 - Dialog vom Tragischen</figDesc>
+              </figure>
+            </cell>
+            <cell><ref target="kritische-schriften__dialog-vom-tragischen-1904.xml">Dialog vom Tragischen</ref><lb/> <ref target="kritische-schriften__dialog-vom-marsyas-1906.xml">Dialog vom Marsyas</ref><lb/> <ref target="bibliografie__schriften-zum-theater__josef-kainz.xml">Josef Kainz</ref></cell>
+            <cell>Hg. Gottfried Schnödl</cell>
+          </row>
+          <row>
+            <cell>[10]</cell>
+            <cell>
+              <figure>
+                <graphic url="files/bilder/vdg/10.jpg"/>
+                <figDesc>Hermann Bahr, Kritische Schriften - 10 - Buch der Jugend</figDesc>
+              </figure>
+            </cell>
+            <cell>
+              <ref target="kritische-schriften__buch-der-jugend-1908.xml">Buch der Jugend</ref>
+            </cell>
+            <cell>Hg. Gottfried Schnödl</cell>
+          </row>
+          <row>
+            <cell>[11]</cell>
+            <cell>
+              <figure>
+                <graphic url="files/bilder/vdg/11.jpg"/>
+                <figDesc>Hermann Bahr, Kritische Schriften - 11 - Austriaca</figDesc>
+              </figure>
+            </cell>
+            <cell>
+              <ref target="kritische-schriften__austriaca-1911.xml">Austriaca</ref>
+            </cell>
+            <cell>Hg. Gottfried Schnödl</cell>
+          </row>
+          <row>
+            <cell>[12]</cell>
+            <cell>
+              <figure>
+                <graphic url="files/bilder/vdg/12.jpg"/>
+                <figDesc>Hermann Bahr, Kritische Schriften - 12 - Essays</figDesc>
+              </figure>
+            </cell>
+            <cell>
+              <ref target="kritische-schriften__essays-1912.xml">Essays</ref>
+            </cell>
+            <cell>Hg. Gottfried Schnödl</cell>
+          </row>
+          <row>
+            <cell>[13]</cell>
+            <cell>
+              <figure>
+                <graphic url="files/bilder/vdg/13.jpg"/>
+                <figDesc>Hermann Bahr, Kritische Schriften - 13 - Inventur</figDesc>
+              </figure>
+            </cell>
+            <cell>
+              <ref target="kritische-schriften__inventur-1912.xml">Inventur</ref>
+            </cell>
+            <cell>Hg. Gottfried Schnödl</cell>
+          </row>
+          <row>
+            <cell>[14]</cell>
+            <cell>
+              <figure>
+                <graphic url="files/bilder/vdg/14.jpg"/>
+                <figDesc>Hermann Bahr, Kritische Schriften - 14 - Expressionismus</figDesc>
+              </figure>
+            </cell>
+            <cell>
+              <ref target="kritische-schriften__expressionismus-1916.xml">Expressionismus</ref>
+            </cell>
+            <cell>Hg. Gottfried Schnödl</cell>
+          </row>
+          <row>
+            <cell>[15]</cell>
+            <cell>
+              <figure>
+                <graphic url="files/bilder/vdg/15.jpg"/>
+                <figDesc>Hermann Bahr, Kritische Schriften - 15 - Bilderbuch</figDesc>
+              </figure>
+            </cell>
+            <cell>
+              <ref target="kritische-schriften__bilderbuch-1921.xml">Bilderbuch</ref>
+            </cell>
+            <cell>Hg. Gottfried Schnödl</cell>
+          </row>
+          <row>
+            <cell>[16]</cell>
+            <cell>
+              <figure>
+                <graphic url="files/bilder/vdg/16.jpg"/>
+                <figDesc>Hermann Bahr, Kritische Schriften - 16 - Burgtheater</figDesc>
+              </figure>
+            </cell>
+            <cell><ref target="bibliografie__schriften-zum-theater__burgtheater-1920.xml">Burgtheater</ref><lb/> <ref target="bibliografie__schriften-zum-theater__schauspielkunst-1922.xml">Schauspielkunst</ref><lb/> <ref target="kritische-schriften__notizen-zur-neueren-spanischen-literatur-1926.xml">Notizen zur neueren spanischen Literatur</ref></cell>
+            <cell>Hg. Gottfried Schnödl</cell>
+          </row>
+          <row>
+            <cell>[17]</cell>
+            <cell>
+              <figure>
+                <graphic url="files/bilder/vdg/17.jpg"/>
+                <figDesc>Hermann Bahr, Kritische Schriften - 17 - Summula</figDesc>
+              </figure>
+            </cell>
+            <cell>
+              <ref target="kritische-schriften__summula-1921.xml">Summula</ref>
+            </cell>
+            <cell>Hg. Gottfried Schnödl</cell>
+          </row>
+          <row>
+            <cell>[18]</cell>
+            <cell>
+              <figure>
+                <graphic url="files/bilder/vdg/18.jpg"/>
+                <figDesc>Hermann Bahr, Kritische Schriften - 18 - Selbstbildnis</figDesc>
+              </figure>
+            </cell>
+            <cell>
+              <ref target="kritische-schriften__selbstbildnis-1923.xml">Selbstbildnis</ref>
+            </cell>
+            <cell>Hg. Gottfried Schnödl</cell>
+          </row>
+          <row>
+            <cell>[19]</cell>
+            <cell>
+              <figure>
+                <graphic url="files/bilder/vdg/19.jpg"/>
+                <figDesc>Hermann Bahr, Kritische Schriften - 19- Sendung des Künstlers</figDesc>
+              </figure>
+            </cell>
+            <cell>
+              <ref target="kritische-schriften__sendung-des-kuenstlers-1923.xml">Sendung des Künstlers </ref>
+            </cell>
+            <cell>Hg. Gottfried Schnödl</cell>
+          </row>
+          <row>
+            <cell>[20]</cell>
+            <cell>
+              <figure>
+                <graphic url="files/bilder/vdg/20.jpg"/>
+                <figDesc>Hermann Bahr, Kritische Schriften - 20 - Labyrinth der Gegenwart</figDesc>
+              </figure>
+            </cell>
+            <cell>
+              <ref target="kritische-schriften__labyrinth-der-gegenwart-1929.xml">Labyrinth der Gegenwart</ref>
+            </cell>
+            <cell>Hg. Gottfried Schnödl</cell>
+          </row>
+          <row>
+            <cell>[21]</cell>
+            <cell>
+              <figure>
+                <graphic url="files/bilder/vdg/21.jpg"/>
+                <figDesc>Hermann Bahr, Kritische Schriften - 21 - Russische Reise</figDesc>
+              </figure>
+            </cell>
+            <cell>
+              <ref target="kritische-schriften__russische-reise-1891.xml">Russische Reise</ref>
+            </cell>
+            <cell>Hg. Gottfried Schnödl</cell>
+          </row>
+          <row>
+            <cell>[22]</cell>
+            <cell>
+              <figure>
+                <graphic url="files/bilder/vdg/22.jpg"/>
+                <figDesc>Hermann Bahr, Kritische Schriften - 22 - Wien</figDesc>
+              </figure>
+            </cell>
+            <cell>
+              <ref target="bibliografie__kritische-schriften__wien-1907.xml">Wien</ref>
+            </cell>
+            <cell>Hg. Gottfried Schnödl</cell>
+          </row>
+          <row>
+            <cell>[23]</cell>
+            <cell>
+              <figure>
+                <graphic url="files/bilder/vdg/23.jpg"/>
+                <figDesc>Hermann Bahr, Kritische Schriften - 23 - Dalmatinische Reise</figDesc>
+              </figure>
+            </cell>
+            <cell>
+              <ref target="kritische-schriften__dalmatinische-reise-1909.xml">Dalmatinische Reise</ref>
+            </cell>
+            <cell>Hg. Gottfried Schnödl</cell>
+          </row>
+        </table>
+      </div>
+      <divGen type="eintraege"/>
+    </body>
+  </text>
+</TEI>

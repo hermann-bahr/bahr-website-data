@@ -1,0 +1,86 @@
+{
+  "type": "taxonomy_term--bibliografie_type",
+  "id": "0ad1ce98-6296-4137-8c68-cbe84fa955ae",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/taxonomy_term/bibliografie_type/0ad1ce98-6296-4137-8c68-cbe84fa955ae?resourceVersion=id%3A12"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/taxonomy_term/bibliografie_type/0ad1ce98-6296-4137-8c68-cbe84fa955ae?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__tid": 14,
+    "drupal_internal__revision_id": 12,
+    "langcode": "de",
+    "revision_created": "2020-02-14T17:10:46+00:00",
+    "status": true,
+    "name": "Tagebücher",
+    "description": null,
+    "weight": 0,
+    "changed": "2020-02-14T17:10:46+00:00",
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/bibliografie-type/tagebuecher",
+      "pid": 1895,
+      "langcode": "de"
+    }
+  },
+  "relationships": {
+    "vid": {
+      "data": {
+        "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+        "id": "206aa5a7-2dc1-4ac9-a930-c6e0c936ba14",
+        "meta": {
+          "drupal_internal__target_id": "bibliografie_type"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/taxonomy_term/bibliografie_type/0ad1ce98-6296-4137-8c68-cbe84fa955ae/vid?resourceVersion=id%3A12"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/taxonomy_term/bibliografie_type/0ad1ce98-6296-4137-8c68-cbe84fa955ae/relationships/vid?resourceVersion=id%3A12"
+        }
+      }
+    },
+    "revision_user": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/taxonomy_term/bibliografie_type/0ad1ce98-6296-4137-8c68-cbe84fa955ae/revision_user?resourceVersion=id%3A12"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/taxonomy_term/bibliografie_type/0ad1ce98-6296-4137-8c68-cbe84fa955ae/relationships/revision_user?resourceVersion=id%3A12"
+        }
+      }
+    },
+    "parent": {
+      "data": [
+        {
+          "type": "taxonomy_term--bibliografie_type",
+          "id": "virtual",
+          "meta": {
+            "links": {
+              "help": {
+                "href": "https://www.drupal.org/docs/8/modules/json-api/core-concepts#virtual",
+                "meta": {
+                  "about": "Usage and meaning of the 'virtual' resource identifier."
+                }
+              }
+            }
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/taxonomy_term/bibliografie_type/0ad1ce98-6296-4137-8c68-cbe84fa955ae/parent?resourceVersion=id%3A12"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/taxonomy_term/bibliografie_type/0ad1ce98-6296-4137-8c68-cbe84fa955ae/relationships/parent?resourceVersion=id%3A12"
+        }
+      }
+    }
+  }
+}

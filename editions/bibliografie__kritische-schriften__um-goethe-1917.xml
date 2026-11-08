@@ -1,0 +1,203 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bibliografie__kritische-schriften__um-goethe-1917" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Um Goethe (1917)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">38722</idno>
+        <idno type="drupal-alias">/bibliografie/38722</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bibliografie/38722">https://bahr.univie.ac.at/bibliografie/38722</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+        <bibl type="beschriebene-ausgabe">
+          <author>Hermann Bahr</author>
+          <title type="main">Um Goethe</title>
+          <pubPlace>Wien</pubPlace>
+          <publisher>Urania</publisher>
+          <series>
+            <title level="s">Urania Bücherei, 9</title>
+          </series>
+          <date>1917</date>
+          <extent>90</extent>
+          <edition>2. Aufl. 1918</edition>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="1" key="bibliografie">Bibliografie</term>
+          <term n="4" key="kritische-schriften">Kritische Schriften</term>
+          <term n="17" key="um-goethe-1917" type="eintrag">Um Goethe (1917)</term>
+        </keywords>
+        <classCode scheme="drupal-type">bibliographie</classCode>
+        <keywords scheme="bibliografie_type">
+          <term>Kritische Schriften</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2011-01-19T10:41:36+00:00" type="created">angelegt in Drupal</change>
+      <change when="2011-11-21T15:31:52+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="intro">
+        <head>Einleitung</head>
+        <p>Bei "Um Goethe" handelt es sich um einen Sammelband mit zur Gänze bereits in Buchform erschienen Texten zu Goethe. Die Bedeutung der Sammlung liegt in der Rolle in Bahrs Alterswerk, das sich deutlich zurücknimmt, die Launen der Neuerscheinungen für das "Tagebuch" vorhält, die großen Essays aber "den Großen" widmet: Neben Goethe noch Dostojewskij, Grillparzer, Pascal, Stifter und Whitman. Goethe als seinen Lieblingsautor zu behaupten, heißt, sich auch eine Geschichte dieser Leidenschaft schreiben – in diesem Fall eben zusammenzustellen. Die Zeitgenossen haben nicht ohne Häme festgestellt, dass Bahr (wenn er gerade nicht als Gottvater auftritt) sich selbst als das Bild eines alternden Goethe inszeniert, der mit gütigem Lächeln vom Pantheon herabblickt.</p>
+      </div>
+      <div xml:id="bib">
+        <head>Bibliografie</head>
+        <table type="bibliografie">
+          <row>
+            <cell>Autor:</cell>
+            <cell>Hermann Bahr</cell>
+          </row>
+          <row>
+            <cell>Titel:</cell>
+            <cell>Um Goethe</cell>
+          </row>
+          <row>
+            <cell>Ort:</cell>
+            <cell>Wien</cell>
+          </row>
+          <row>
+            <cell>Verlag:</cell>
+            <cell>Urania</cell>
+          </row>
+          <row>
+            <cell>Reihe:</cell>
+            <cell>Urania Bücherei, 9</cell>
+          </row>
+          <row>
+            <cell>Jahr:</cell>
+            <cell>1917</cell>
+          </row>
+          <row>
+            <cell>Seiten:</cell>
+            <cell>90</cell>
+          </row>
+          <row>
+            <cell>Aufl.:</cell>
+            <cell>2. Aufl. 1918</cell>
+          </row>
+        </table>
+      </div>
+      <div xml:id="erstdrucke">
+        <head>Erstdrucke</head>
+        <table>
+          <row>
+            <cell>1-9</cell>
+            <cell><hi rend="bold">Der böse Goethe. </hi><lb/>Neues Wiener Tagblatt, 37 (1903) #199, 1-2. (22.7.1903) Goethe-Kalender auf das Jahr 1908, 35-39<lb/>Dialog vom Tragischen, 140-151</cell>
+          </row>
+          <row>
+            <cell>10-21</cell>
+            <cell><hi rend="bold">Der veränderte Freund. </hi><lb/>Neues Wiener Tagblatt, 37 (1903) 24.1.1903, 1-3<lb/>Rezensionen, 145-156<lb/>Das Hermann-Bahr-Buch, 55-68</cell>
+          </row>
+          <row>
+            <cell>21-28</cell>
+            <cell><hi rend="bold">Tasso. </hi><lb/>Österreichische Volks-Zeitung, 52 (1906) #18, 2. (19.1.1906)<lb/>Glossen, 107-112</cell>
+          </row>
+          <row>
+            <cell>29-38</cell>
+            <cell><hi rend="bold">Die Mutter. </hi><lb/>Neue Freie Presse, (1908) #15827, Morgenblatt, 1-3. (13.9.1908)<lb/>Buch der Jugend, 12-18</cell>
+          </row>
+          <row>
+            <cell>38-43</cell>
+            <cell><hi rend="bold">Die Saat Goethes. </hi><lb/>Als "Bei Goethe" in: Die Zeit, 10 (1897) #129, 186-187. (20.3.1897)<lb/>Als "Bei Goethe" in: Bildung, 13-16</cell>
+          </row>
+          <row>
+            <cell>44-52</cell>
+            <cell><hi rend="bold">Goethisch. </hi><lb/>Neues Wiener Tagblatt, 33 (1899) #283, 1-2. (14.10.1899)<lb/>Als "Volksbildung" in: Bildung (1900)</cell>
+          </row>
+          <row>
+            <cell>53-60</cell>
+            <cell><hi rend="bold">Die Kleinen. </hi><lb/>Die Zeit, 9 (1896) #112, 127-128. (21.11.1896)<lb/>Bildung, 17-22</cell>
+          </row>
+          <row>
+            <cell>60-72</cell>
+            <cell><hi rend="bold">Der Unsterbliche. </hi><lb/>Als "Unser Goethe" in: Neue Freie Presse (1910) #16526, Morgenblatt, 1-3. (26.8.1910) Gekürzt als "Was an Goethe heute das Lebendigste ist" in: Der Bund, Bern, 61 (1910) #415, 1-2. (4.9.1910)<lb/>Als "Goethe" in: Essays, 26-33</cell>
+          </row>
+          <row>
+            <cell>72-90</cell>
+            <cell><hi rend="bold">Der ganze Goethe. </hi><lb/>Expressionismus, 133-162</cell>
+          </row>
+        </table>
+      </div>
+      <div xml:id="inhaltsvz">
+        <head>Inhaltsverzeichnis</head>
+        <table>
+          <row>
+            <cell role="label">Seiten</cell>
+            <cell role="label">Inhalt</cell>
+          </row>
+          <row>
+            <cell>1-9</cell>
+            <cell>
+              <hi rend="bold">Der böse Goethe.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>9-21</cell>
+            <cell>
+              <hi rend="bold">Der veränderte Freund.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>21-28</cell>
+            <cell>
+              <hi rend="bold">Tasso.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>29-38</cell>
+            <cell>
+              <hi rend="bold">Die Mutter.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>38-43</cell>
+            <cell>
+              <hi rend="bold">Die Saat Goethes.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>44-52</cell>
+            <cell>
+              <hi rend="bold">Goethisch.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>53-60</cell>
+            <cell>
+              <hi rend="bold">Die Kleinen.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>60-72</cell>
+            <cell>
+              <hi rend="bold">Der Unsterbliche.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>72-90</cell>
+            <cell>
+              <hi rend="bold">Der ganze Goethe.</hi>
+            </cell>
+          </row>
+        </table>
+      </div>
+      <div xml:id="digit">
+        <head>Digitalisate</head>
+        <p>
+          <ref target="http://www.archive.org/search.php?query=um%20goethe%20bahr">archive.org</ref>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

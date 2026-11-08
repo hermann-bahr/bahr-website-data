@@ -1,0 +1,210 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kritische-schriften__sendung-des-kuenstlers-1923" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Sendung des Künstlers (1923)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">38729</idno>
+        <idno type="drupal-alias">/bibliografie/38729</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bibliografie/38729">https://bahr.univie.ac.at/bibliografie/38729</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+        <bibl type="beschriebene-ausgabe">
+          <author>Hermann Bahr</author>
+          <title type="main">Sendung des Künstlers</title>
+          <pubPlace>Leipzig</pubPlace>
+          <publisher>Insel</publisher>
+          <date>1923</date>
+          <extent>202</extent>
+          <note>In einer Umfrage des Neuen Wiener Journals, die am 31. Dezember 1922 erschien, meldet Bahr es als "eben erschienen". Im Nachlass unter den Briefen der Vertrag Anton Kippenbergers mit Bahr, das Buch noch "Kunstlehre" betitelt (A19610BaM).</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="2" key="kritische-schriften">Kritische Schriften</term>
+          <term n="20" key="sendung-des-kuenstlers-1923" type="eintrag">Sendung des Künstlers (1923)</term>
+        </keywords>
+        <classCode scheme="drupal-type">bibliographie</classCode>
+        <keywords scheme="bibliografie_type">
+          <term>Schriften in Einzelausgaben</term>
+        </keywords>
+        <keywords scheme="bibliografie_type">
+          <term>Kritische Schriften</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2011-01-19T11:51:23+00:00" type="created">angelegt in Drupal</change>
+      <change when="2013-03-05T10:30:33+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="intro">
+        <head>Einleitung</head>
+        <p>Unter ständigem Rückgriff auf Texte und Biographien bekannter Schriftsteller wie Goethe, Rimbaud, Dostojewski, Shakespeare, Stifter oder Grillparzer versucht sich Hermann Bahr in seiner späten „Sendung des Künstlers“ (1923) den Geheimnissen von Kunstproduktion und -rezeption zu nähern. Dieser grundsätzliche Ansatz lenkt Bahrs Blick weg von historischen oder kulturellen Besonderheiten, die ihn in früheren Texten häufig beschäftigen. Die hier vor allem behandelte Literatur des 19. Jahrhunderts erscheint aus der eingenommenen Perspektive beinahe zeitlos.</p>
+      </div>
+      <div xml:id="bib">
+        <head>Bibliografie</head>
+        <table type="bibliografie">
+          <row>
+            <cell>Autor:</cell>
+            <cell>Hermann Bahr</cell>
+          </row>
+          <row>
+            <cell>Titel:</cell>
+            <cell>Sendung des Künstlers</cell>
+          </row>
+          <row>
+            <cell>Ort:</cell>
+            <cell>Leipzig</cell>
+          </row>
+          <row>
+            <cell>Verlag:</cell>
+            <cell>Insel</cell>
+          </row>
+          <row>
+            <cell>Jahr:</cell>
+            <cell>1923</cell>
+          </row>
+          <row>
+            <cell>Seiten:</cell>
+            <cell>202</cell>
+          </row>
+          <row>
+            <cell>Anm.:</cell>
+            <cell>In einer Umfrage des Neuen Wiener Journals, die am 31. Dezember 1922 erschien, meldet Bahr es als "eben erschienen". Im Nachlass unter den Briefen der Vertrag Anton Kippenbergers mit Bahr, das Buch noch "Kunstlehre" betitelt (A19610BaM).</cell>
+          </row>
+        </table>
+        <p>
+          <ref target="http://www.vdg-weimar.de/katalog/?id=">VDG Weimar</ref>
+        </p>
+        <div>
+          <head>Band 19</head>
+          <p>Herausgegeben von Gottfried Schnödl Erschienen 2010 ISBN 978-3-89739-661-6 <ref target="http://www.vdg-weimar.de/katalog/?id=594">VDG Weimar</ref></p>
+        </div>
+      </div>
+      <div xml:id="erstdrucke">
+        <head>Erstdrucke</head>
+        <table>
+          <row>
+            <cell role="label">Seiten</cell>
+            <cell role="label">Titel / Erstdruck</cell>
+          </row>
+          <row>
+            <cell>5-15</cell>
+            <cell><hi rend="bold">An die Pisonen. </hi><lb/>Neue Freie Presse, (1922) #20659, Morgenblatt, 1-4. (4.3.1922)</cell>
+          </row>
+          <row>
+            <cell>16-22</cell>
+            <cell><hi rend="bold">Chromatisch. </hi><lb/>Als "Die Chromatische" in: Neue Freie Presse, (1922) #20641, Morgenblatt, 1-3. (14.2.1922)<lb/>Berliner Börsen-Courier, 54 (1922) #77, Morgen-Ausgabe, 5. (15.2.1922)</cell>
+          </row>
+          <row>
+            <cell>23-61</cell>
+            <cell><hi rend="bold">Goethebild. </hi><lb/>Preußische Jahrbücher, 185 (1921), 46-72</cell>
+          </row>
+          <row>
+            <cell>62-99</cell>
+            <cell><hi rend="bold">Das Faktum in der Kunst. </hi><lb/>Preußische Jahrbücher, 186 (1921), 7-32</cell>
+          </row>
+          <row>
+            <cell>100-121</cell>
+            <cell><hi rend="bold">Feuchtersleben. </hi><lb/>Preußische Jahrbücher, 187 (1922) #1, 13-28.</cell>
+          </row>
+          <row>
+            <cell>122-128</cell>
+            <cell><hi rend="bold">Grillparzer. </hi><lb/>Neue Freie Presse, (1922) #20618, Morgenblatt, 31-32. (22.1.1922)<lb/>Berliner Börsen-Courier, (1922) #25, 1. Beilage, 5. (15.1.1922)</cell>
+          </row>
+          <row>
+            <cell>129-151</cell>
+            <cell><hi rend="bold">Stifter. </hi><lb/>Die neue Rundschau, 33 (1922) #5, 470-487</cell>
+          </row>
+          <row>
+            <cell>152-159</cell>
+            <cell><hi rend="bold">Amerika, du hast es besser. </hi><lb/>Neue Freie Presse, (1921) #20570, Morgenblatt, 1-3. (4.12.1921)</cell>
+          </row>
+          <row>
+            <cell>160-165</cell>
+            <cell><hi rend="bold">Pfauenschrei. </hi><lb/>Prager Presse, (1921) #214, 5-6. (30.10.1921)</cell>
+          </row>
+          <row>
+            <cell>166-186</cell>
+            <cell><hi rend="bold">Der russische Christ. </hi><lb/>Hochland, 18 (1921) #September, 641-653</cell>
+          </row>
+          <row>
+            <cell>187-196</cell>
+            <cell><hi rend="bold">Kategorischer Imperativ in Wissenschaft und Kunst. (Gesprochen in der Generalversammlung des Salzburger katholischen Universitätsvereins am 16. Oktober 1921)</hi><lb/>Das neue Reich, 4 (1921) #6, 97-99. (6.11.1921)<lb/>Salzburger Chronik, 57 (1921) #237, 1-2 und #238, 1-2. (19. und 20.10.1921)</cell>
+          </row>
+          <row>
+            <cell>197-202</cell>
+            <cell><hi rend="bold">Das alte Wahre. </hi><lb/>Berliner Börsen-Courier, 54 (1922) #269, Morgen-Ausgabe, 1. Beilage, 5. (11.6.1922)<lb/>Neue Freie Presse, (1922) #20779, Morgenblatt, 1-3. (6.7.1922)<lb/>Insel-Almanach auf das Jahr 1923, 127-133</cell>
+          </row>
+        </table>
+      </div>
+      <div xml:id="rezens">
+        <head>Rezensionen</head>
+        <p>Im Archiv ab dem 9. Jänner 1923 J. Middleton Murray: Alt Österreich. In: The Nation and the Athenaeum, 32 (1923) #20, 758-760. (17.2.1923)</p>
+      </div>
+      <div xml:id="inhaltsvz">
+        <head>Kommentiertes Inhaltsverzeichnis</head>
+        <p>
+          <hi rend="italic">Gottfried Schnödl</hi>
+        </p>
+        <list type="gloss">
+          <label>An die Pisonen</label>
+          <item>Bahr versucht, den Disput zwischen Horaz und den "Pisonen" - den Söhnen des römischen "Polizeipräsident" Piso - darzustellen. Im Streit zwischen der klassischen, ihrer eigenen Grenzen bewussten Literatur Horaz' und der "überspannten", "rasenden" Literatur der Jugend, gilt Bahrs Sympathie eindeutig Horaz.</item>
+          <label>Chromatisch</label>
+          <item>Die chromatische Fuge Bachs wird von Heinrich Sitte als eine in Töne übersetzte und umgestellte Formung von Bachs Namen (B A C H wird in der Folge zu A B H C) interpretiert. An diese These Sittes schließt Bahr Überlegungen zum Verhältnis von Kunstproduktion und Selbstpraktik an.</item>
+          <label>Goethebild</label>
+          <item>Bahr reflektiert die Geschichte der Goethe-Germanistik von ihrem Beginn durch die Goethegesellschaft bis zu jüngsten Publikationen. Besonders interessieren ihn hier Arbeiten zur Biographie Goethes.</item>
+          <label>Das Faktum der Kunst</label>
+          <item>Bahr sieht so etwas wie ein Geheimnis der Kunst, das in großen Kunstwerken auch unterschiedlicher Gattungen durch die Geschichte hindurch bloß variiert würde und geht davon aus, dass dessen Erkennen, für Kunstverständnis unabdingbar, sehr schwer, womöglich gar nicht vermittelbar wäre. Das "Faktum", den realen Hintergrund von Kunstwerken zu erkennen wäre zwar in gewisser Hinsicht interessant, würde jedoch gar nicht zum Bereich des Kunstverständnisses gehören.</item>
+          <label>Feuchtersleben</label>
+          <item>Der von den sich missgünstig gegenüberstehenden Dichtern Grillparzer und Hebbel gleichermaßen geschätzte Feuchtersleben wird von Bahr - unter ständigem Rückgriff auf Hebbels und Grillparzers Texte zu Feuchtersleben sowie auf dessen Schriften selbst - als Schriftsteller dargestellt, dessen menschlicher Wert seinen dichterischen übertreffe.</item>
+          <label>Grillparzer</label>
+          <item>Ähnlich wie Goethe sei die dichterische Kraft Grillparzers vor allem auf den nie endenden, produktiven Kampf mit seinem "Dämon" zurückzuführen.</item>
+          <label>Stifter</label>
+          <item>Stifter gilt Bahr als ein noch immer weitgehend unentdeckter, großer Schriftsteller, dessen Bedeutung eine beschränkte Rezeption (heute würden ihn nur "Schulkinder" lesen) nicht erfassen könne. Anhand von Stifters Witiko handelt Bahr von dem Problem der Legitimität, deren Grund jederzeit ein illegitimer Gewaltakt wäre.</item>
+          <label>Amerika, du hast es besser</label>
+          <item>Mit "Amerika, du hast es besser, hätte sich Goethe gegen die Schwere der Tradition gewandt, die oftmals freier Kunstproduktion im Wege steht. Ein Beispiel für die Wahrheit dieses Satzes wäre das von nichts Überkommenem beschwerte Werk Whitmans - doch insofern dieser im heutigen Amerika keine oder bloß epigonale Nachfolger besäße, hätte sich auch der Goethespruch überlebt.</item>
+          <label>Pfauenschrei</label>
+          <item>Rimbaud wird Bahr hier zum Beispiel einer Dichtung, die keine Dauer erlangen kann, da sie nur auf momentane Eingebung baut. Der frühe Rückzug Rimbauds aus dem Bereich der Literatur sei daher trotz scheinbar vielversprechender Anfänge konsequent.</item>
+          <label>Der russische Christ</label>
+          <item>Die ganz Russland umgreifende Bedeutung Dostojewskis führt Bahr auf sein nationalistisches Christentum zurück, das er mit einigen Stellen aus dessen Schriften zu belegen versucht.</item>
+          <label>Kategorischer Imperativ in Wissenschaft und Kunst</label>
+          <item>Selbst so scheinbar sekuläre Bereiche wie Wissenschaft und Kunst seien auf einen Grund angewiesen, den sie selbst nicht mehr erklären könnten und der von Bahr ins Christentum verlegt wird. Klar sei, "daß er [der Mensch] zur Wissenschaft und Kunst die Hilfe von oben, den Segen Gottes braucht".</item>
+          <label>Das alte Wahre</label>
+          <item>Bahr geht davon aus, dass in Wissenschaft und Kunst selbst von den progressivsten Strömungen immer wieder dieselben "Wahrheiten" zu Tage befördert würden.</item>
+          <label/>
+          <item>
+            <hi rend="h3">Digitalisate</hi>
+          </item>
+          <label/>
+          <item>
+            <hi rend="italic">Neusatz:</hi>
+          </item>
+          <label/>
+          <item>
+            <ref target="https://bahr.univie.ac.at/sites/all/ks/19-sendung.pdf" type="sites-all">
+              <hi rend="bold">Kritische Schriften in Einzelausgaben</hi>
+            </ref>
+          </item>
+          <label/>
+          <item>
+            <hi rend="italic">Faksimile der Erstausgabe:</hi>
+          </item>
+          <label/>
+          <item>
+            <ref target="http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=100">ÖNB-ANNO</ref>
+          </item>
+        </list>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "1beb1a97-f4dd-4629-96bd-51b3330adbd9",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/1beb1a97-f4dd-4629-96bd-51b3330adbd9?resourceVersion=id%3A2884"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/1beb1a97-f4dd-4629-96bd-51b3330adbd9?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39119,
+    "drupal_internal__vid": 2884,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Gustav Klimt und die \"Nuda Veritas\"",
+    "created": "2011-05-23T16:10:22+00:00",
+    "changed": "2011-06-27T11:37:12+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39119",
+      "pid": 849,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahr am 24. Februar 1901 über Klimt und seinen Erwerb von dessen \"Nuda Veritas\":\r\n<blockquote>Ich für meine Person, fährt Bahr fort, habe einen sehr merkwürdigen Geschmack, den nicht alle Leute mit mir theilen. Ich habe auf der Welt nichts so gern, als Bilder von Klimt. Durch mein Eintreten für seine Bilder bin ich mit Klimt persönlich befreundet worden, ich wurde sein Intimus. Es wäre mir nun sehr leicht gewesen, von ihm gratis eine Reihe von Bildern zu erhalten. Trotzdem ging ich, wenn ich ein Klimt'sches Bild haben wollte, zum Secretär der \"Secession\", erkundigte mich nach dem Preis verschiedener Bilder und kaufte schließlich eines. Ich habe dies deswegen gethan, weil ich mir dachte, Klimt wird mir vielleicht doch einen Ausnahmspreis machen, was ich eben absolut nicht wollte.</blockquote>",
+      "format": "full_html",
+      "processed": "Bahr am 24. Februar 1901 über Klimt und seinen Erwerb von dessen \"Nuda Veritas\":\n<blockquote>Ich für meine Person, fährt Bahr fort, habe einen sehr merkwürdigen Geschmack, den nicht alle Leute mit mir theilen. Ich habe auf der Welt nichts so gern, als Bilder von Klimt. Durch mein Eintreten für seine Bilder bin ich mit Klimt persönlich befreundet worden, ich wurde sein Intimus. Es wäre mir nun sehr leicht gewesen, von ihm gratis eine Reihe von Bildern zu erhalten. Trotzdem ging ich, wenn ich ein Klimt'sches Bild haben wollte, zum Secretär der \"Secession\", erkundigte mich nach dem Preis verschiedener Bilder und kaufte schließlich eines. Ich habe dies deswegen gethan, weil ich mir dachte, Klimt wird mir vielleicht doch einen Ausnahmspreis machen, was ich eben absolut nicht wollte.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1901-02-24",
+      "end_value": "1901-02-24"
+    },
+    "field_sources": [
+      "Neues Wiener Tagblatt, 35 (1901) #54, 7. (24.2.1901)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1beb1a97-f4dd-4629-96bd-51b3330adbd9/node_type?resourceVersion=id%3A2884"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1beb1a97-f4dd-4629-96bd-51b3330adbd9/relationships/node_type?resourceVersion=id%3A2884"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1beb1a97-f4dd-4629-96bd-51b3330adbd9/revision_uid?resourceVersion=id%3A2884"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1beb1a97-f4dd-4629-96bd-51b3330adbd9/relationships/revision_uid?resourceVersion=id%3A2884"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1beb1a97-f4dd-4629-96bd-51b3330adbd9/uid?resourceVersion=id%3A2884"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1beb1a97-f4dd-4629-96bd-51b3330adbd9/relationships/uid?resourceVersion=id%3A2884"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1beb1a97-f4dd-4629-96bd-51b3330adbd9/field_event_type?resourceVersion=id%3A2884"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1beb1a97-f4dd-4629-96bd-51b3330adbd9/relationships/field_event_type?resourceVersion=id%3A2884"
+        }
+      }
+    }
+  }
+}

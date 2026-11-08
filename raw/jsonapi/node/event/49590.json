@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "14f48857-55b5-4e93-9cea-4d95cb8becf6",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/14f48857-55b5-4e93-9cea-4d95cb8becf6?resourceVersion=id%3A3417"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/14f48857-55b5-4e93-9cea-4d95cb8becf6?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49590,
+    "drupal_internal__vid": 3417,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Rezitation einer Satire Horaz",
+    "created": "2011-11-10T11:14:26+00:00",
+    "changed": "2011-11-10T11:14:26+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49590",
+      "pid": 1406,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Ein Jahr vor seiner Maturarede spricht Bahr schon bei der Schulschlussfeier der Schule, er rezitiert Horaz. ",
+      "format": "full_html",
+      "processed": "Ein Jahr vor seiner Maturarede spricht Bahr schon bei der Schulschlussfeier der Schule, er rezitiert Horaz. ",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1880-07-01",
+      "end_value": "1880-07-01"
+    },
+    "field_sources": [
+      "Selbstbildnis, 96.",
+      "(Hier auf 1.7.1880 datiert)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/14f48857-55b5-4e93-9cea-4d95cb8becf6/node_type?resourceVersion=id%3A3417"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/14f48857-55b5-4e93-9cea-4d95cb8becf6/relationships/node_type?resourceVersion=id%3A3417"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/14f48857-55b5-4e93-9cea-4d95cb8becf6/revision_uid?resourceVersion=id%3A3417"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/14f48857-55b5-4e93-9cea-4d95cb8becf6/relationships/revision_uid?resourceVersion=id%3A3417"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/14f48857-55b5-4e93-9cea-4d95cb8becf6/uid?resourceVersion=id%3A3417"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/14f48857-55b5-4e93-9cea-4d95cb8becf6/relationships/uid?resourceVersion=id%3A3417"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/14f48857-55b5-4e93-9cea-4d95cb8becf6/field_event_type?resourceVersion=id%3A3417"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/14f48857-55b5-4e93-9cea-4d95cb8becf6/relationships/field_event_type?resourceVersion=id%3A3417"
+        }
+      }
+    }
+  }
+}

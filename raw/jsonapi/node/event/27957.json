@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "3208aaf3-5c17-412e-ac88-a9d5d74b14f3",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/3208aaf3-5c17-412e-ac88-a9d5d74b14f3?resourceVersion=id%3A2298"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/3208aaf3-5c17-412e-ac88-a9d5d74b14f3?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27957,
+    "drupal_internal__vid": 2298,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Bilderbuch",
+    "created": "2010-07-19T15:18:24+00:00",
+    "changed": "2011-10-20T14:32:51+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/27957",
+      "pid": 132,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahrs Alterswerk, das mit der passend zum fünfzigsten Geburtstag erfolgten Hinwendung zum Katholizismus beginnt, besteht neben den politischen Äußerungen der Kriegsjahre aus zwei nebeneinander bestehenden Strängen. Einerseits die wöchentlich publizierten \"Tagebücher\", die Entdeckungen und literarische Neuerscheinungen Raum bieten, andererseits den großen Essays, die \"großen\" Künstlern gewidmet sind. Als erste Zusammenstellung eines solchen Panoramas von \"Großkünstlern\" ist das \"Bilderbuch\", das in oder vor dem Sommer 1921 erschien, eine Reihung von entsprechenden Texten Bahrs der letzten zehn Jahre.\r\nRedlich dürfte es am 11. Juli 1921 in der Hand gehabt haben.",
+      "format": "full_html",
+      "processed": "Bahrs Alterswerk, das mit der passend zum fünfzigsten Geburtstag erfolgten Hinwendung zum Katholizismus beginnt, besteht neben den politischen Äußerungen der Kriegsjahre aus zwei nebeneinander bestehenden Strängen. Einerseits die wöchentlich publizierten \"Tagebücher\", die Entdeckungen und literarische Neuerscheinungen Raum bieten, andererseits den großen Essays, die \"großen\" Künstlern gewidmet sind. Als erste Zusammenstellung eines solchen Panoramas von \"Großkünstlern\" ist das \"Bilderbuch\", das in oder vor dem Sommer 1921 erschien, eine Reihung von entsprechenden Texten Bahrs der letzten zehn Jahre.\nRedlich dürfte es am 11. Juli 1921 in der Hand gehabt haben.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1921-07-11",
+      "end_value": "1921-07-11"
+    },
+    "field_sources": [
+      "Hermann Bahr: Bilderbuch. Wien, Leipzig: WILA Wiener Literarische Anstalt, 1921.",
+      "Bahr/Redlich, 455. (Falsch als Summula vom Herausgeber kommentiert)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3208aaf3-5c17-412e-ac88-a9d5d74b14f3/node_type?resourceVersion=id%3A2298"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3208aaf3-5c17-412e-ac88-a9d5d74b14f3/relationships/node_type?resourceVersion=id%3A2298"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3208aaf3-5c17-412e-ac88-a9d5d74b14f3/revision_uid?resourceVersion=id%3A2298"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3208aaf3-5c17-412e-ac88-a9d5d74b14f3/relationships/revision_uid?resourceVersion=id%3A2298"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3208aaf3-5c17-412e-ac88-a9d5d74b14f3/uid?resourceVersion=id%3A2298"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3208aaf3-5c17-412e-ac88-a9d5d74b14f3/relationships/uid?resourceVersion=id%3A2298"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "da42ac4a-f48f-4397-af4d-b66e913825fb",
+          "meta": {
+            "drupal_internal__target_id": 3
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3208aaf3-5c17-412e-ac88-a9d5d74b14f3/field_event_type?resourceVersion=id%3A2298"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3208aaf3-5c17-412e-ac88-a9d5d74b14f3/relationships/field_event_type?resourceVersion=id%3A2298"
+        }
+      }
+    }
+  }
+}

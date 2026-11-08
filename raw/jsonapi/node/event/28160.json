@@ -1,0 +1,114 @@
+{
+  "type": "node--event",
+  "id": "178c40df-b133-45e8-9055-4a9998ba84b6",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/178c40df-b133-45e8-9055-4a9998ba84b6?resourceVersion=id%3A2472"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/178c40df-b133-45e8-9055-4a9998ba84b6?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28160,
+    "drupal_internal__vid": 2472,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Preußische Akademie der Wissenschaften, Sektion für Dichtkunst",
+    "created": "2010-08-30T11:53:34+00:00",
+    "changed": "2010-08-30T11:53:34+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28160",
+      "pid": 308,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 27. Oktober 1926 werden von Thomas Mann, Ludwig Fulda und Hermann Stehr sechs in Berlin wohnende und 18 auswärtige Mitglieder in die Sektion für Dichtkunst gewählt, darunter Hermann Bahr, Arthur Schnitzler und Hugo von Hofmannsthal (der die Wahl ablehnt).",
+      "format": "full_html",
+      "processed": "Am 27. Oktober 1926 werden von Thomas Mann, Ludwig Fulda und Hermann Stehr sechs in Berlin wohnende und 18 auswärtige Mitglieder in die Sektion für Dichtkunst gewählt, darunter Hermann Bahr, Arthur Schnitzler und Hugo von Hofmannsthal (der die Wahl ablehnt).",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1926-10-27",
+      "end_value": "1926-10-27"
+    },
+    "field_sources": []
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/178c40df-b133-45e8-9055-4a9998ba84b6/node_type?resourceVersion=id%3A2472"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/178c40df-b133-45e8-9055-4a9998ba84b6/relationships/node_type?resourceVersion=id%3A2472"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/178c40df-b133-45e8-9055-4a9998ba84b6/revision_uid?resourceVersion=id%3A2472"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/178c40df-b133-45e8-9055-4a9998ba84b6/relationships/revision_uid?resourceVersion=id%3A2472"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/178c40df-b133-45e8-9055-4a9998ba84b6/uid?resourceVersion=id%3A2472"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/178c40df-b133-45e8-9055-4a9998ba84b6/relationships/uid?resourceVersion=id%3A2472"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/178c40df-b133-45e8-9055-4a9998ba84b6/field_event_type?resourceVersion=id%3A2472"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/178c40df-b133-45e8-9055-4a9998ba84b6/relationships/field_event_type?resourceVersion=id%3A2472"
+        }
+      }
+    }
+  }
+}

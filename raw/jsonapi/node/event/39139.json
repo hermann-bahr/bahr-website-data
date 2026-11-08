@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "cd1ac57c-73dc-4eda-8ad0-cf2ca1d21d4c",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/cd1ac57c-73dc-4eda-8ad0-cf2ca1d21d4c?resourceVersion=id%3A2898"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/cd1ac57c-73dc-4eda-8ad0-cf2ca1d21d4c?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39139,
+    "drupal_internal__vid": 2898,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Lea",
+    "created": "2011-06-28T10:06:50+00:00",
+    "changed": "2011-06-28T10:06:50+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39139",
+      "pid": 867,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "In seinem Tagebuch notiert Bahr am 1. Jänner 1889:\r\n<blockquote>In der Sylvesternacht die Bekanntschaft Leas gemacht […] Sie ist eine Belgierin, vaterseits deutscher, mutterseits französischer Herkunft. Vor drei Monaten hat sie sich einem Advokaten hingegeben, ohne ihn zu lieben, aus Neugierde […]</blockquote>\r\nBahr sieht in ihrer Geschichte die Grundlage für eine literarische Bearbeitung. Am 6. Jänner: <blockquote>Elle viendra! Kleine Skizze. Sie hat zugesagt, um 6 Uhr zu kommen.</blockquote> Weiters ist von dieser Liebschaft Bahrs keine Aufzeichnung erhalten.",
+      "format": "full_html",
+      "processed": "In seinem Tagebuch notiert Bahr am 1. Jänner 1889:\n<blockquote>In der Sylvesternacht die Bekanntschaft Leas gemacht […] Sie ist eine Belgierin, vaterseits deutscher, mutterseits französischer Herkunft. Vor drei Monaten hat sie sich einem Advokaten hingegeben, ohne ihn zu lieben, aus Neugierde […]</blockquote>\nBahr sieht in ihrer Geschichte die Grundlage für eine literarische Bearbeitung. Am 6. Jänner: <blockquote>Elle viendra! Kleine Skizze. Sie hat zugesagt, um 6 Uhr zu kommen.</blockquote> Weiters ist von dieser Liebschaft Bahrs keine Aufzeichnung erhalten.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1888-12-31",
+      "end_value": "1889-01-06"
+    },
+    "field_sources": [
+      "Tagebücher (Csàky), I, 93-95."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cd1ac57c-73dc-4eda-8ad0-cf2ca1d21d4c/node_type?resourceVersion=id%3A2898"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cd1ac57c-73dc-4eda-8ad0-cf2ca1d21d4c/relationships/node_type?resourceVersion=id%3A2898"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cd1ac57c-73dc-4eda-8ad0-cf2ca1d21d4c/revision_uid?resourceVersion=id%3A2898"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cd1ac57c-73dc-4eda-8ad0-cf2ca1d21d4c/relationships/revision_uid?resourceVersion=id%3A2898"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cd1ac57c-73dc-4eda-8ad0-cf2ca1d21d4c/uid?resourceVersion=id%3A2898"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cd1ac57c-73dc-4eda-8ad0-cf2ca1d21d4c/relationships/uid?resourceVersion=id%3A2898"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cd1ac57c-73dc-4eda-8ad0-cf2ca1d21d4c/field_event_type?resourceVersion=id%3A2898"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cd1ac57c-73dc-4eda-8ad0-cf2ca1d21d4c/relationships/field_event_type?resourceVersion=id%3A2898"
+        }
+      }
+    }
+  }
+}

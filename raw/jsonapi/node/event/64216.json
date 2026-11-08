@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "3a2e387c-5c9e-4e0e-bed1-051e1689d3ef",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/3a2e387c-5c9e-4e0e-bed1-051e1689d3ef?resourceVersion=id%3A3606"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/3a2e387c-5c9e-4e0e-bed1-051e1689d3ef?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 64216,
+    "drupal_internal__vid": 3606,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Karlweis, AS, MB, Chiavacci, Schwarzkopf, Bauer",
+    "created": "2012-05-22T20:28:50+00:00",
+    "changed": "2012-05-22T20:28:50+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/64216",
+      "pid": 1649,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bei Karl Karlweis trifft Schnitzler am 16. März 1897 auf Bahr, Max Burckhard, Vinzenz Chiavacci, Gustav Schwarzkopf und Julius Bauer.",
+      "format": "full_html",
+      "processed": "Bei Karl Karlweis trifft Schnitzler am 16. März 1897 auf Bahr, Max Burckhard, Vinzenz Chiavacci, Gustav Schwarzkopf und Julius Bauer.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1897-03-16",
+      "end_value": "1897-03-16"
+    },
+    "field_sources": [
+      "Schnitzler: Tagebücher, II, 241."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3a2e387c-5c9e-4e0e-bed1-051e1689d3ef/node_type?resourceVersion=id%3A3606"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3a2e387c-5c9e-4e0e-bed1-051e1689d3ef/relationships/node_type?resourceVersion=id%3A3606"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3a2e387c-5c9e-4e0e-bed1-051e1689d3ef/revision_uid?resourceVersion=id%3A3606"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3a2e387c-5c9e-4e0e-bed1-051e1689d3ef/relationships/revision_uid?resourceVersion=id%3A3606"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3a2e387c-5c9e-4e0e-bed1-051e1689d3ef/uid?resourceVersion=id%3A3606"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3a2e387c-5c9e-4e0e-bed1-051e1689d3ef/relationships/uid?resourceVersion=id%3A3606"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3a2e387c-5c9e-4e0e-bed1-051e1689d3ef/field_event_type?resourceVersion=id%3A3606"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3a2e387c-5c9e-4e0e-bed1-051e1689d3ef/relationships/field_event_type?resourceVersion=id%3A3606"
+        }
+      }
+    }
+  }
+}

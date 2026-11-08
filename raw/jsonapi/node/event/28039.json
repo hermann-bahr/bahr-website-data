@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "95dc9b2f-9cff-4db5-95cb-ec0d09b2110d",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/95dc9b2f-9cff-4db5-95cb-ec0d09b2110d?resourceVersion=id%3A2371"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/95dc9b2f-9cff-4db5-95cb-ec0d09b2110d?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28039,
+    "drupal_internal__vid": 2371,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Juana",
+    "created": "2010-07-28T21:57:17+00:00",
+    "changed": "2012-10-22T11:12:48+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28039",
+      "pid": 205,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Die Uraufführung von \"Juana\", Bahrs unter dem Namen \"Alejandro Lanza\" veröffentlichtes Stück, findet am 22. September 1896 im Berliner Neuen Theater statt. \r\nDer Dreiakter samt Epilog ähnelt der Exposition von \"The Graduate\": Juana, die Gattin eines Generals, hat eine Affaire mit einem von diesem bevorzugten Leutnant. Als der Leutnant sie verlassen will, um die Nichte des Generals zu heiraten, tut Juana alles, das zu verhindern. Letzten Endes erschießt sich der um seine Ehre gebrachte Leutnant, die Nichte geht ins Kloster und Juana wird wahnsinnig.",
+      "format": "full_html",
+      "processed": "Die Uraufführung von \"Juana\", Bahrs unter dem Namen \"Alejandro Lanza\" veröffentlichtes Stück, findet am 22. September 1896 im Berliner Neuen Theater statt. \nDer Dreiakter samt Epilog ähnelt der Exposition von \"The Graduate\": Juana, die Gattin eines Generals, hat eine Affaire mit einem von diesem bevorzugten Leutnant. Als der Leutnant sie verlassen will, um die Nichte des Generals zu heiraten, tut Juana alles, das zu verhindern. Letzten Endes erschießt sich der um seine Ehre gebrachte Leutnant, die Nichte geht ins Kloster und Juana wird wahnsinnig.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1896-09-22",
+      "end_value": "1896-09-22"
+    },
+    "field_sources": [
+      "Alejandro Lanza: Juana. Drama. München: Brakl's Rubinverlag 1896."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/95dc9b2f-9cff-4db5-95cb-ec0d09b2110d/node_type?resourceVersion=id%3A2371"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/95dc9b2f-9cff-4db5-95cb-ec0d09b2110d/relationships/node_type?resourceVersion=id%3A2371"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/95dc9b2f-9cff-4db5-95cb-ec0d09b2110d/revision_uid?resourceVersion=id%3A2371"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/95dc9b2f-9cff-4db5-95cb-ec0d09b2110d/relationships/revision_uid?resourceVersion=id%3A2371"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/95dc9b2f-9cff-4db5-95cb-ec0d09b2110d/uid?resourceVersion=id%3A2371"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/95dc9b2f-9cff-4db5-95cb-ec0d09b2110d/relationships/uid?resourceVersion=id%3A2371"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "27f3d2a4-8970-4726-9ab8-ce37707ec1bc",
+          "meta": {
+            "drupal_internal__target_id": 1
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/95dc9b2f-9cff-4db5-95cb-ec0d09b2110d/field_event_type?resourceVersion=id%3A2371"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/95dc9b2f-9cff-4db5-95cb-ec0d09b2110d/relationships/field_event_type?resourceVersion=id%3A2371"
+        }
+      }
+    }
+  }
+}

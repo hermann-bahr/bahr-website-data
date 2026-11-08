@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "44d914a2-8eaf-435e-aa78-0830b8142eb4",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/44d914a2-8eaf-435e-aa78-0830b8142eb4?resourceVersion=id%3A3230"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/44d914a2-8eaf-435e-aa78-0830b8142eb4?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49385,
+    "drupal_internal__vid": 3230,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "JR",
+    "created": "2011-10-14T16:13:08+00:00",
+    "changed": "2011-10-24T14:11:16+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49385",
+      "pid": 1209,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Von 8. bis 10. Dezember 1917 besucht Redlich Bahr.",
+      "format": "full_html",
+      "processed": "Von 8. bis 10. Dezember 1917 besucht Redlich Bahr.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1917-12-08",
+      "end_value": "1917-12-10"
+    },
+    "field_sources": [
+      "Bahr/Redlich, 288-289.",
+      "Fritz Fellner und Doris A. Corradini (Hgg.): Schicksalsjahre Österreichs. Die Erinnerungen und Tagebücher Josef Redlichs 1869–1936. Wien: Böhlau 2011, II, 363-364."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/44d914a2-8eaf-435e-aa78-0830b8142eb4/node_type?resourceVersion=id%3A3230"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/44d914a2-8eaf-435e-aa78-0830b8142eb4/relationships/node_type?resourceVersion=id%3A3230"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/44d914a2-8eaf-435e-aa78-0830b8142eb4/revision_uid?resourceVersion=id%3A3230"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/44d914a2-8eaf-435e-aa78-0830b8142eb4/relationships/revision_uid?resourceVersion=id%3A3230"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/44d914a2-8eaf-435e-aa78-0830b8142eb4/uid?resourceVersion=id%3A3230"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/44d914a2-8eaf-435e-aa78-0830b8142eb4/relationships/uid?resourceVersion=id%3A3230"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/44d914a2-8eaf-435e-aa78-0830b8142eb4/field_event_type?resourceVersion=id%3A3230"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/44d914a2-8eaf-435e-aa78-0830b8142eb4/relationships/field_event_type?resourceVersion=id%3A3230"
+        }
+      }
+    }
+  }
+}

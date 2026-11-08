@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "7eb959b9-3982-48dc-bf13-503975678afe",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/7eb959b9-3982-48dc-bf13-503975678afe?resourceVersion=id%3A3602"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/7eb959b9-3982-48dc-bf13-503975678afe?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 64212,
+    "drupal_internal__vid": 3602,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Lob für AS ",
+    "created": "2012-05-22T20:08:08+00:00",
+    "changed": "2012-05-22T20:08:08+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/64212",
+      "pid": 1645,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Schnitzler notiert sich zum 17. April 1896, dass nach dem Erfolg der \"Liebelei\" Bahr ihn nun nicht mehr als den \"Dichter mit der berühmten Schauspielerin\" (gemeint ist Adele Sandrock) bezeichne, sondern eingestehe, Schnitzler unterschätzt zu haben.",
+      "format": "full_html",
+      "processed": "Schnitzler notiert sich zum 17. April 1896, dass nach dem Erfolg der \"Liebelei\" Bahr ihn nun nicht mehr als den \"Dichter mit der berühmten Schauspielerin\" (gemeint ist Adele Sandrock) bezeichne, sondern eingestehe, Schnitzler unterschätzt zu haben.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1896-04-17",
+      "end_value": "1896-04-17"
+    },
+    "field_sources": [
+      "Schnitzler: Tagebücher, II, 185."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7eb959b9-3982-48dc-bf13-503975678afe/node_type?resourceVersion=id%3A3602"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7eb959b9-3982-48dc-bf13-503975678afe/relationships/node_type?resourceVersion=id%3A3602"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7eb959b9-3982-48dc-bf13-503975678afe/revision_uid?resourceVersion=id%3A3602"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7eb959b9-3982-48dc-bf13-503975678afe/relationships/revision_uid?resourceVersion=id%3A3602"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7eb959b9-3982-48dc-bf13-503975678afe/uid?resourceVersion=id%3A3602"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7eb959b9-3982-48dc-bf13-503975678afe/relationships/uid?resourceVersion=id%3A3602"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7eb959b9-3982-48dc-bf13-503975678afe/field_event_type?resourceVersion=id%3A3602"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7eb959b9-3982-48dc-bf13-503975678afe/relationships/field_event_type?resourceVersion=id%3A3602"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="forschung__forschungsnotizen__hermann-bahr-arno-holz-briefwechsel-1887-1923-erschienen" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Hermann Bahr – Arno Holz: Briefwechsel 1887-1923 erschienen</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">90883</idno>
+        <idno type="drupal-alias">/article/90883</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/article/90883">https://bahr.univie.ac.at/article/90883</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="6" key="forschung">Forschung</term>
+          <term n="4" key="forschungsnotizen">Forschungsnotizen</term>
+          <term n="1" key="hermann-bahr-arno-holz-briefwechsel-1887-1923-erschienen" type="eintrag">Hermann Bahr – Arno Holz: Briefwechsel 1887-1923 erschienen</term>
+        </keywords>
+        <classCode scheme="drupal-type">article</classCode>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2015-10-05T11:18:39+00:00" type="created">angelegt in Drupal</change>
+      <change when="2015-10-05T11:20:02+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <figure>
+          <graphic url="https://bahr.univie.ac.at/sites/all/bilder/bahrholz.jpg"/>
+        </figure>
+        <p>Im Wallstein-Verlag in Göttingen erschien im August 2015 der Briefwechsel zwischen Hermann Bahr und Arno Holz, herausgegeben von Gerd-Hermann Susen und Martin Anton Müller.</p>
+        <quote>Die einzige lebensumspannende und nahezu vollständig überlieferte Korrespondenz von Arno Holz - erstmalig veröffentlicht. Hermann Bahr und Arno Holz zählen zu den bekanntesten Autoren des Naturalismus in seiner Berliner Eigenart. Legendär ist ihre gemeinsame Initiative zur Entmachtung von Otto Brahm als Herausgeber der Zeitschrift »Freie Bühne für modernes Leben«. Anders als bislang angenommen ist ihre Verbindung damit aber keineswegs erschöpfend dargestellt. Die hier erstmals edierte Korrespondenz mit gut 100 Briefen birgt nicht nur neue Erkenntnisse über die kurzzeitige Zusammenarbeit für die Zeitschrift, sondern erzählt auch von den vereinten Bemühungen, zum Vorreiter der »Moderne« zu werden - und damit ihre eigene Spielart der neuen Literatur und Kunst einem großen Publikum nahezubringen. Nach einem kurzen Intermezzo zwischen den beiden mündet der Briefwechsel in eine zweite intensive, bislang unbekannt gebliebene Phase der Kooperation: der am »Deutschem Theater« engagierte Bahr müht sich mehr recht als schlecht, Holz` »Sonnenfinsternis« gegen die Widerstände des Autors wie der Schauspieler zu inszenieren. Die Kommentare erzählen ausführlich vom persönlichen und literarischen Umfeld der Protagonisten und bieten vor allem neues Material.</quote>
+        <p>
+          <ref target="http://www.wallstein-verlag.de/9783835317192-hermann-bahr-arno-holz-briefwechsel-1887-1923.html">Verlagswebsite</ref>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

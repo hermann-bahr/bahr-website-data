@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "b9201458-a175-479b-9bef-a333d0c33a76",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b9201458-a175-479b-9bef-a333d0c33a76?resourceVersion=id%3A2352"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b9201458-a175-479b-9bef-a333d0c33a76?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28020,
+    "drupal_internal__vid": 2352,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Wirkung in die Ferne",
+    "created": "2010-07-28T10:35:02+00:00",
+    "changed": "2011-07-06T11:13:48+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28020",
+      "pid": 186,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Im Oktober 1901, auf 1902 vordatiert, erschien mit \"Wirkung in die Ferne\" -der Titel lehnt sich an ein Goethe-Zitat an- die nächste literarische Textsammlung Bahrs, diesmal im Wiener Verlag. ",
+      "format": "full_html",
+      "processed": "Im Oktober 1901, auf 1902 vordatiert, erschien mit \"Wirkung in die Ferne\" -der Titel lehnt sich an ein Goethe-Zitat an- die nächste literarische Textsammlung Bahrs, diesmal im Wiener Verlag. ",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1901-10-07",
+      "end_value": "1901-10-07"
+    },
+    "field_sources": [
+      "Rezension: ***: Neue Novellen. In: Neues Wiener Abendblatt, 35 (1901) #317, 4. (18.11.1901) [Gemeinsam mit Gabriele Reuter: Frauenseelen.]",
+      "\"Neueste Erscheinungen\" in: Neuen Wiener Abendblatt, 35 (1901) #275, 4. (7.10.1901)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b9201458-a175-479b-9bef-a333d0c33a76/node_type?resourceVersion=id%3A2352"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b9201458-a175-479b-9bef-a333d0c33a76/relationships/node_type?resourceVersion=id%3A2352"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b9201458-a175-479b-9bef-a333d0c33a76/revision_uid?resourceVersion=id%3A2352"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b9201458-a175-479b-9bef-a333d0c33a76/relationships/revision_uid?resourceVersion=id%3A2352"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b9201458-a175-479b-9bef-a333d0c33a76/uid?resourceVersion=id%3A2352"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b9201458-a175-479b-9bef-a333d0c33a76/relationships/uid?resourceVersion=id%3A2352"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "2f55ff54-49af-41ba-a2d1-45a7ac71add2",
+          "meta": {
+            "drupal_internal__target_id": 2
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b9201458-a175-479b-9bef-a333d0c33a76/field_event_type?resourceVersion=id%3A2352"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b9201458-a175-479b-9bef-a333d0c33a76/relationships/field_event_type?resourceVersion=id%3A2352"
+        }
+      }
+    }
+  }
+}

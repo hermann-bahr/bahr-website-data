@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "a723496e-d32c-4a2f-8a55-780b0df017a1",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/a723496e-d32c-4a2f-8a55-780b0df017a1?resourceVersion=id%3A2774"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/a723496e-d32c-4a2f-8a55-780b0df017a1?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38991,
+    "drupal_internal__vid": 2774,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Brünn",
+    "created": "2011-03-18T14:39:06+00:00",
+    "changed": "2011-07-13T15:57:08+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38991",
+      "pid": 728,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahr schreibt an seinen Vater (14.1.1897): \r\n<blockquote>Am 2. Februar soll ich in Brünn über die 'jungen Wiener' lesen, was ich dann im März in München wiederholen soll.</blockquote> Das \"Junge Wien\" im deutschen Haus des Volksbildungsvereins, nach eigener Meinung ein großer Erfolg.",
+      "format": "full_html",
+      "processed": "Bahr schreibt an seinen Vater (14.1.1897): \n<blockquote>Am 2. Februar soll ich in Brünn über die 'jungen Wiener' lesen, was ich dann im März in München wiederholen soll.</blockquote> Das \"Junge Wien\" im deutschen Haus des Volksbildungsvereins, nach eigener Meinung ein großer Erfolg.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1897-02-02",
+      "end_value": "1897-02-02"
+    },
+    "field_sources": [
+      "Vgl. Brief an den Vater, 3.2.1897.",
+      "Tagebücher (Csàky), II, 235 und XXV.",
+      "[O. N.]: Jung-Österreich. Tagesbote für Mähren und Schlesien, #26, 2. (3.2.1897)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a723496e-d32c-4a2f-8a55-780b0df017a1/node_type?resourceVersion=id%3A2774"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a723496e-d32c-4a2f-8a55-780b0df017a1/relationships/node_type?resourceVersion=id%3A2774"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a723496e-d32c-4a2f-8a55-780b0df017a1/revision_uid?resourceVersion=id%3A2774"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a723496e-d32c-4a2f-8a55-780b0df017a1/relationships/revision_uid?resourceVersion=id%3A2774"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a723496e-d32c-4a2f-8a55-780b0df017a1/uid?resourceVersion=id%3A2774"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a723496e-d32c-4a2f-8a55-780b0df017a1/relationships/uid?resourceVersion=id%3A2774"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a723496e-d32c-4a2f-8a55-780b0df017a1/field_event_type?resourceVersion=id%3A2774"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a723496e-d32c-4a2f-8a55-780b0df017a1/relationships/field_event_type?resourceVersion=id%3A2774"
+        }
+      }
+    }
+  }
+}

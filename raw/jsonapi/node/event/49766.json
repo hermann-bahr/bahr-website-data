@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "d5e49303-b4ee-491e-9b11-f1a6914d94ac",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/d5e49303-b4ee-491e-9b11-f1a6914d94ac?resourceVersion=id%3A3537"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/d5e49303-b4ee-491e-9b11-f1a6914d94ac?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49766,
+    "drupal_internal__vid": 3537,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Feuchtersleben-Auswahlausgabe",
+    "created": "2012-01-09T16:47:22+00:00",
+    "changed": "2012-01-09T16:47:30+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49766",
+      "pid": 1578,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 5. September 1921 berichtet Bahr, dass Franz Karl Ginzkey ihn eingeladen habe, eine Auswahlausgabe Ernst von Feuchtersleben für den Rikola-Verlag  zu erstellen, am 22. September sitzt er an der Arbeit. Das Buch dürfte nie fertig geworden sein, aber zumindest der Aufsatz zu Feuchtersleben dürfte aus dieser Beschäftigung hervorgegangen sein.",
+      "format": "full_html",
+      "processed": "Am 5. September 1921 berichtet Bahr, dass Franz Karl Ginzkey ihn eingeladen habe, eine Auswahlausgabe Ernst von Feuchtersleben für den Rikola-Verlag  zu erstellen, am 22. September sitzt er an der Arbeit. Das Buch dürfte nie fertig geworden sein, aber zumindest der Aufsatz zu Feuchtersleben dürfte aus dieser Beschäftigung hervorgegangen sein.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1921-09-05",
+      "end_value": "1921-09-22"
+    },
+    "field_sources": [
+      "Tagebuch. 5. September [1921] Buchausgabe: Liebe der Lebenden, I, 281-286\r\n",
+      "Hermann Bahr: Feuchtersleben. Preußische Jahrbücher, 187 (1922) #1, 13-28. Buchausgabe: Sendung des Künstlers, 100-121\r\n"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d5e49303-b4ee-491e-9b11-f1a6914d94ac/node_type?resourceVersion=id%3A3537"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d5e49303-b4ee-491e-9b11-f1a6914d94ac/relationships/node_type?resourceVersion=id%3A3537"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d5e49303-b4ee-491e-9b11-f1a6914d94ac/revision_uid?resourceVersion=id%3A3537"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d5e49303-b4ee-491e-9b11-f1a6914d94ac/relationships/revision_uid?resourceVersion=id%3A3537"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d5e49303-b4ee-491e-9b11-f1a6914d94ac/uid?resourceVersion=id%3A3537"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d5e49303-b4ee-491e-9b11-f1a6914d94ac/relationships/uid?resourceVersion=id%3A3537"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d5e49303-b4ee-491e-9b11-f1a6914d94ac/field_event_type?resourceVersion=id%3A3537"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d5e49303-b4ee-491e-9b11-f1a6914d94ac/relationships/field_event_type?resourceVersion=id%3A3537"
+        }
+      }
+    }
+  }
+}

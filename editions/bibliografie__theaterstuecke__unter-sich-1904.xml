@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bibliografie__theaterstuecke__unter-sich-1904" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Unter sich (1904)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">49662</idno>
+        <idno type="drupal-alias">/bibliografie/49662</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bibliografie/49662">https://bahr.univie.ac.at/bibliografie/49662</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+        <bibl type="beschriebene-ausgabe">
+          <author>Hermann Bahr</author>
+          <title type="main">Unter sich</title>
+          <title type="sub">Ein Arme-Leut'-Stück</title>
+          <pubPlace>Wien</pubPlace>
+          <publisher>Wiener Verlag</publisher>
+          <date>1904</date>
+          <extent>73</extent>
+          <note>"An Th. Th. Heine". Die erste Inszenierung, am Münchner Schauspielhaus, konnte wegen eines Zensurverbots nur durch das Kabarett "Die 11 Scharfrichter" einmal vor geladenem Publikum aufgeführt werden. Das Neue Wiener Tagblatt (38 (1904) #144, 11) meldet die Buchausgabe am 25. Mai 1904 als erschienen. Im Nachlass (Stücke: Kiste 87) wird ein französisches Manuskript aufbewahrt, "Leur soucis. Dialogues entre souverains. Un acte". Es handelt sich um einen Schreibmaschinendurchschlag mit violetten Unterstreichungen, gestempelt "Dr. Stéphane Epstein". Womöglich stammt das aus dem Umfeld der Aufführung "Leurs soucis", die Aurélien Lugné-Poë (1869-1940) im Jahr 1906 inszenierte.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="1" key="bibliografie">Bibliografie</term>
+          <term n="2" key="theaterstuecke">Theaterstücke</term>
+          <term n="39" key="unter-sich-1904" type="eintrag">Unter sich (1904)</term>
+        </keywords>
+        <classCode scheme="drupal-type">bibliographie</classCode>
+        <keywords scheme="bibliografie_type">
+          <term>Theaterstücke</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2011-11-22T16:37:34+00:00" type="created">angelegt in Drupal</change>
+      <change when="2011-11-22T16:37:34+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="bib">
+        <head>Bibliografie</head>
+        <table type="bibliografie">
+          <row>
+            <cell>Autor:</cell>
+            <cell>Hermann Bahr</cell>
+          </row>
+          <row>
+            <cell>Titel:</cell>
+            <cell>Unter sich</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>Ein Arme-Leut'-Stück</cell>
+          </row>
+          <row>
+            <cell>Ort:</cell>
+            <cell>Wien</cell>
+          </row>
+          <row>
+            <cell>Verlag:</cell>
+            <cell>Wiener Verlag</cell>
+          </row>
+          <row>
+            <cell>Jahr:</cell>
+            <cell>1904</cell>
+          </row>
+          <row>
+            <cell>Seiten:</cell>
+            <cell>73</cell>
+          </row>
+          <row>
+            <cell>Anm.:</cell>
+            <cell>"An Th. Th. Heine". Die erste Inszenierung, am Münchner Schauspielhaus, konnte wegen eines Zensurverbots nur durch das Kabarett "Die 11 Scharfrichter" einmal vor geladenem Publikum aufgeführt werden. Das Neue Wiener Tagblatt (38 (1904) #144, 11) meldet die Buchausgabe am 25. Mai 1904 als erschienen. Im Nachlass (Stücke: Kiste 87) wird ein französisches Manuskript aufbewahrt, "Leur soucis. Dialogues entre souverains. Un acte". Es handelt sich um einen Schreibmaschinendurchschlag mit violetten Unterstreichungen, gestempelt "Dr. Stéphane Epstein". Womöglich stammt das aus dem Umfeld der Aufführung "Leurs soucis", die Aurélien Lugné-Poë (1869-1940) im Jahr 1906 inszenierte.</cell>
+          </row>
+        </table>
+      </div>
+      <div xml:id="auff">
+        <head>Inszenierungen</head>
+        <p>6.11.1903 Uraufführung, Kabarett "Die 11 Scharfrichter" in München 9.12.1903 Gastspiel der "11 Scharfrichter" im Ballsaal des Hotel Savoy, Wien 31.12.1903 Im Kleinen Theater, Berlin (1)</p>
+      </div>
+      <div xml:id="rezens">
+        <head>Rezensionen</head>
+        <p>–ik: Die elf Scharfrichter. Österreichische Volks-Zeitung, 49 (1903) #339, 5. (10.12.1903) [Gastspiel in Wien] Alfred Kerr: Kleines Theater. In: Der Tag, 1.1.1904, 3.</p>
+      </div>
+      <div xml:id="www">
+        <head>Digitalisate</head>
+        <p>
+          <ref target="http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=59&amp;zoom=1">Link</ref>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

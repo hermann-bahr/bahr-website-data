@@ -1,0 +1,112 @@
+{
+  "type": "node--article",
+  "id": "8f9a3812-addd-4fc1-88dc-547ea486d017",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/article/8f9a3812-addd-4fc1-88dc-547ea486d017?resourceVersion=id%3A3996"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/article/8f9a3812-addd-4fc1-88dc-547ea486d017?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 3078,
+    "drupal_internal__vid": 3996,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:47:58+00:00",
+    "status": true,
+    "title": "Ein Freund, ein echter Freund",
+    "created": "2009-12-22T17:07:27+00:00",
+    "changed": "2011-11-03T11:27:39+00:00",
+    "promote": true,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/article/3078",
+      "pid": 3,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Mr. Daviau findet, dass Hermann Bahr nie so richtige Freunde hatte. So richtig Freund' ist man mit ihm auf Facebook auch nicht, kann aber so tun. Ihm gibt das das Gefühl, erinnert zu werden. Und uns stört es nicht. Unnötig ist das in jedem Fall. <a href=\"http://www.facebook.com/hermann.bahr1\">Hermann Bahr auf Facebook</A>",
+      "format": "full_html",
+      "processed": "Mr. Daviau findet, dass Hermann Bahr nie so richtige Freunde hatte. So richtig Freund' ist man mit ihm auf Facebook auch nicht, kann aber so tun. Ihm gibt das das Gefühl, erinnert zu werden. Und uns stört es nicht. Unnötig ist das in jedem Fall. <a href=\"http://www.facebook.com/hermann.bahr1\">Hermann Bahr auf Facebook</a>",
+      "summary": null
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "2591b802-2e12-43ea-999f-36ccdccd1176",
+        "meta": {
+          "drupal_internal__target_id": "article"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/8f9a3812-addd-4fc1-88dc-547ea486d017/node_type?resourceVersion=id%3A3996"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/8f9a3812-addd-4fc1-88dc-547ea486d017/relationships/node_type?resourceVersion=id%3A3996"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/8f9a3812-addd-4fc1-88dc-547ea486d017/revision_uid?resourceVersion=id%3A3996"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/8f9a3812-addd-4fc1-88dc-547ea486d017/relationships/revision_uid?resourceVersion=id%3A3996"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/8f9a3812-addd-4fc1-88dc-547ea486d017/uid?resourceVersion=id%3A3996"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/8f9a3812-addd-4fc1-88dc-547ea486d017/relationships/uid?resourceVersion=id%3A3996"
+        }
+      }
+    },
+    "field_image": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/8f9a3812-addd-4fc1-88dc-547ea486d017/field_image?resourceVersion=id%3A3996"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/8f9a3812-addd-4fc1-88dc-547ea486d017/relationships/field_image?resourceVersion=id%3A3996"
+        }
+      }
+    },
+    "field_tags": {
+      "data": [],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/8f9a3812-addd-4fc1-88dc-547ea486d017/field_tags?resourceVersion=id%3A3996"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/8f9a3812-addd-4fc1-88dc-547ea486d017/relationships/field_tags?resourceVersion=id%3A3996"
+        }
+      }
+    }
+  }
+}

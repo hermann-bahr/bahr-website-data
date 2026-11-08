@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "201b397f-ddd2-4dd0-9f23-9e731d965d27",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/201b397f-ddd2-4dd0-9f23-9e731d965d27?resourceVersion=id%3A3751"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/201b397f-ddd2-4dd0-9f23-9e731d965d27?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74423,
+    "drupal_internal__vid": 3751,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Katzenberg",
+    "created": "2012-11-05T12:24:47+00:00",
+    "changed": "2013-09-14T11:54:38+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/74423",
+      "pid": 1797,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Für den 12. bis zum 14. August 1919 kündigt Bahr seinen Besuch bei Waldemar und Helene von Thienen-Adlerflycht auf Schloss Katzenberg an. Am 15. schreibt er aus München sein \"Tagebuch\".",
+      "format": "full_html",
+      "processed": "Für den 12. bis zum 14. August 1919 kündigt Bahr seinen Besuch bei Waldemar und Helene von Thienen-Adlerflycht auf Schloss Katzenberg an. Am 15. schreibt er aus München sein \"Tagebuch\".",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1919-08-12",
+      "end_value": "1919-08-14"
+    },
+    "field_sources": [
+      "An HvH, 4.8.1919. Briefwechsel Bahr/Hofmannsthal. Hg. Elsbeth Dangel-Pelloquin. Göttingen: Wallstein. (In Vorbereitung)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/201b397f-ddd2-4dd0-9f23-9e731d965d27/node_type?resourceVersion=id%3A3751"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/201b397f-ddd2-4dd0-9f23-9e731d965d27/relationships/node_type?resourceVersion=id%3A3751"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/201b397f-ddd2-4dd0-9f23-9e731d965d27/revision_uid?resourceVersion=id%3A3751"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/201b397f-ddd2-4dd0-9f23-9e731d965d27/relationships/revision_uid?resourceVersion=id%3A3751"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/201b397f-ddd2-4dd0-9f23-9e731d965d27/uid?resourceVersion=id%3A3751"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/201b397f-ddd2-4dd0-9f23-9e731d965d27/relationships/uid?resourceVersion=id%3A3751"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/201b397f-ddd2-4dd0-9f23-9e731d965d27/field_event_type?resourceVersion=id%3A3751"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/201b397f-ddd2-4dd0-9f23-9e731d965d27/relationships/field_event_type?resourceVersion=id%3A3751"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "5dbaf954-70fd-4d46-a54f-9eb7ddf9a5b9",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/5dbaf954-70fd-4d46-a54f-9eb7ddf9a5b9?resourceVersion=id%3A2780"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/5dbaf954-70fd-4d46-a54f-9eb7ddf9a5b9?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38998,
+    "drupal_internal__vid": 2780,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Über moderne Literatur, Linz",
+    "created": "2011-03-21T22:50:34+00:00",
+    "changed": "2011-06-27T11:43:48+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38998",
+      "pid": 734,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 3. Dezember 1899 spricht Bahr im Kaufmännischen Vereinshaussaal Linz \"Über moderne Literatur\". Es handelt sich um den ersten Auftritt in seiner Heimatstadt seit Jahren.",
+      "format": "full_html",
+      "processed": "Am 3. Dezember 1899 spricht Bahr im Kaufmännischen Vereinshaussaal Linz \"Über moderne Literatur\". Es handelt sich um den ersten Auftritt in seiner Heimatstadt seit Jahren.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1899-12-03",
+      "end_value": "1899-12-03"
+    },
+    "field_sources": [
+      "Rudolf Holzer: An Hermann Bahr. Tagespost, Linz, 35 (1899) #277, 1-2. (3.12.1899)",
+      "\"Vortrag Hermann Bahr\" in: Tagespost, Linz, 35 (1899) #278, 3. (5.12.1899)",
+      "Karl Kraus in: Fackel, 1 (1900) #29, 30-31."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5dbaf954-70fd-4d46-a54f-9eb7ddf9a5b9/node_type?resourceVersion=id%3A2780"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5dbaf954-70fd-4d46-a54f-9eb7ddf9a5b9/relationships/node_type?resourceVersion=id%3A2780"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5dbaf954-70fd-4d46-a54f-9eb7ddf9a5b9/revision_uid?resourceVersion=id%3A2780"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5dbaf954-70fd-4d46-a54f-9eb7ddf9a5b9/relationships/revision_uid?resourceVersion=id%3A2780"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5dbaf954-70fd-4d46-a54f-9eb7ddf9a5b9/uid?resourceVersion=id%3A2780"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5dbaf954-70fd-4d46-a54f-9eb7ddf9a5b9/relationships/uid?resourceVersion=id%3A2780"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5dbaf954-70fd-4d46-a54f-9eb7ddf9a5b9/field_event_type?resourceVersion=id%3A2780"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5dbaf954-70fd-4d46-a54f-9eb7ddf9a5b9/relationships/field_event_type?resourceVersion=id%3A2780"
+        }
+      }
+    }
+  }
+}

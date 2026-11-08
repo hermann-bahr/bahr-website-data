@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "2ad4fe29-aa7c-4f7a-ab73-e085422a57f2",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/2ad4fe29-aa7c-4f7a-ab73-e085422a57f2?resourceVersion=id%3A2228"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/2ad4fe29-aa7c-4f7a-ab73-e085422a57f2?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27876,
+    "drupal_internal__vid": 2228,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Scheidung",
+    "created": "2010-06-21T14:06:25+00:00",
+    "changed": "2013-01-24T14:17:06+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/27876",
+      "pid": 61,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 14. Mai 1909 werden Bahr und Rosa Jokl im Wiener Landesgericht geschieden. Bahr wird aber weiterhin mit ihr in Kontakt stehen. Möglicherweise einen Grund für die Scheidung verzeichnet das Tagebuch Josef Redlichs am 30. April 1909:<blockquote>Frau Bahr hat vor zwei Jahren ein Kind geboren, obgleich Hermann Bahr seit acht Jahren nicht mehr mit ihr lebt. Dennoch hat er zu diesem Kind sich als Vater bekannt. [1]</blockquote>In einem Brief an einen Anwalt schreibt Bahr 1926 über die Scheidung:<blockquote>Diese Ehe wurde zehn Jahre später geschieden und dabei beriet mich mein Freund Burckhard, ehemals Burgtheaterdirektor, damals schon Hofrat am Verwaltungsgerichtshof, so geschickt, dass mein Wunsch, aus dieser Ehe loszukommen, aber ohne dass irgend ein schlechtes Licht auf meine erste Frau fallen solle, glänzend in Erfüllung in ging und die Ehe geschieden, ich für den schuldigen Teil erklärt und die pecuniäre Auseinandersetzung dem Einvernehmen der geschiedenen Gatten überlassen wurde. Meine erste Frau verlangte 250 Kronen monatlich (die Summe ist selbstverständlich in der Zeit der Inflation von mir im vollen privaten Einvernehmen mit meiner ersten Frau erhöht worden). [2]</blockquote>Anna Bahr-Mildenburg hat dazu zwei händische Anmerkungen gemacht: \"Die Ehe ist laut Scheidungsakt aus beiderseitigem Verschulden getrennt\" und eine zu der Geburt der Tochter, siehe den Eintrag zu Natalie Elisabeth Bahr, 29. März 1907.",
+      "format": "full_html",
+      "processed": "Am 14. Mai 1909 werden Bahr und Rosa Jokl im Wiener Landesgericht geschieden. Bahr wird aber weiterhin mit ihr in Kontakt stehen. Möglicherweise einen Grund für die Scheidung verzeichnet das Tagebuch Josef Redlichs am 30. April 1909:<blockquote>Frau Bahr hat vor zwei Jahren ein Kind geboren, obgleich Hermann Bahr seit acht Jahren nicht mehr mit ihr lebt. Dennoch hat er zu diesem Kind sich als Vater bekannt. [1]</blockquote>In einem Brief an einen Anwalt schreibt Bahr 1926 über die Scheidung:<blockquote>Diese Ehe wurde zehn Jahre später geschieden und dabei beriet mich mein Freund Burckhard, ehemals Burgtheaterdirektor, damals schon Hofrat am Verwaltungsgerichtshof, so geschickt, dass mein Wunsch, aus dieser Ehe loszukommen, aber ohne dass irgend ein schlechtes Licht auf meine erste Frau fallen solle, glänzend in Erfüllung in ging und die Ehe geschieden, ich für den schuldigen Teil erklärt und die pecuniäre Auseinandersetzung dem Einvernehmen der geschiedenen Gatten überlassen wurde. Meine erste Frau verlangte 250 Kronen monatlich (die Summe ist selbstverständlich in der Zeit der Inflation von mir im vollen privaten Einvernehmen mit meiner ersten Frau erhöht worden). [2]</blockquote>Anna Bahr-Mildenburg hat dazu zwei händische Anmerkungen gemacht: \"Die Ehe ist laut Scheidungsakt aus beiderseitigem Verschulden getrennt\" und eine zu der Geburt der Tochter, siehe den Eintrag zu Natalie Elisabeth Bahr, 29. März 1907.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1909-05-14",
+      "end_value": "1909-05-14"
+    },
+    "field_sources": [
+      "[1] Fritz Fellner und Doris A. Corradini (Hgg.): Schicksalsjahre Österreichs. Die Erinnerungen und Tagebücher Josef Redlichs 1869–1936. Wien: Böhlau 2011, I, 230.",
+      "[2] Nachlass, Kiste 99, Biographisches, Abschrift eingel. 19.7.1926"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2ad4fe29-aa7c-4f7a-ab73-e085422a57f2/node_type?resourceVersion=id%3A2228"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2ad4fe29-aa7c-4f7a-ab73-e085422a57f2/relationships/node_type?resourceVersion=id%3A2228"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2ad4fe29-aa7c-4f7a-ab73-e085422a57f2/revision_uid?resourceVersion=id%3A2228"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2ad4fe29-aa7c-4f7a-ab73-e085422a57f2/relationships/revision_uid?resourceVersion=id%3A2228"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2ad4fe29-aa7c-4f7a-ab73-e085422a57f2/uid?resourceVersion=id%3A2228"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2ad4fe29-aa7c-4f7a-ab73-e085422a57f2/relationships/uid?resourceVersion=id%3A2228"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2ad4fe29-aa7c-4f7a-ab73-e085422a57f2/field_event_type?resourceVersion=id%3A2228"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2ad4fe29-aa7c-4f7a-ab73-e085422a57f2/relationships/field_event_type?resourceVersion=id%3A2228"
+        }
+      }
+    }
+  }
+}

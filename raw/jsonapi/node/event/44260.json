@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "6ec944b5-cfad-4d56-bb47-e973d501521d",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/6ec944b5-cfad-4d56-bb47-e973d501521d?resourceVersion=id%3A3173"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/6ec944b5-cfad-4d56-bb47-e973d501521d?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44260,
+    "drupal_internal__vid": 3173,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Romain Rolland",
+    "created": "2011-10-06T12:52:20+00:00",
+    "changed": "2012-01-27T13:12:27+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44260",
+      "pid": 1152,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Nachdem Bahr 1909 versucht haben will, Rolland in Deutschland einen Verleger zu verschaffen, möchte er ihn bei seinem nächsten Parisaufenthalt 1910 auch kennenlernen, doch selbst in Paris gilt Rolland als Unbekannter, niemand kann Bahr dessen Adresse sagen. Zu einem Zusammentreffen kommt es erst im August 1923.",
+      "format": "full_html",
+      "processed": "Nachdem Bahr 1909 versucht haben will, Rolland in Deutschland einen Verleger zu verschaffen, möchte er ihn bei seinem nächsten Parisaufenthalt 1910 auch kennenlernen, doch selbst in Paris gilt Rolland als Unbekannter, niemand kann Bahr dessen Adresse sagen. Zu einem Zusammentreffen kommt es erst im August 1923.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1910-03-28",
+      "end_value": "1910-03-28"
+    },
+    "field_sources": [
+      "Hermann Bahr: Ruhm und Wirkung. Berliner Tageblatt, 43 (1914) #135, Morgen-Ausgabe, 1. Beiblatt, 1-2. (15.3.1914) Buchausgabe: Als \"Rolland\" in: Bilderbuch, 142-147.",
+      " (Datiert auf den Parisaufenthalt, 28.3.1910)",
+      "Liebe der Lebenden, III, 187-192. (11. August [1923])"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6ec944b5-cfad-4d56-bb47-e973d501521d/node_type?resourceVersion=id%3A3173"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6ec944b5-cfad-4d56-bb47-e973d501521d/relationships/node_type?resourceVersion=id%3A3173"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6ec944b5-cfad-4d56-bb47-e973d501521d/revision_uid?resourceVersion=id%3A3173"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6ec944b5-cfad-4d56-bb47-e973d501521d/relationships/revision_uid?resourceVersion=id%3A3173"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6ec944b5-cfad-4d56-bb47-e973d501521d/uid?resourceVersion=id%3A3173"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6ec944b5-cfad-4d56-bb47-e973d501521d/relationships/uid?resourceVersion=id%3A3173"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6ec944b5-cfad-4d56-bb47-e973d501521d/field_event_type?resourceVersion=id%3A3173"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6ec944b5-cfad-4d56-bb47-e973d501521d/relationships/field_event_type?resourceVersion=id%3A3173"
+        }
+      }
+    }
+  }
+}

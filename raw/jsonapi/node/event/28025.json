@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "988096a1-6ff8-4823-9f05-f25540994580",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/988096a1-6ff8-4823-9f05-f25540994580?resourceVersion=id%3A2357"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/988096a1-6ff8-4823-9f05-f25540994580?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28025,
+    "drupal_internal__vid": 2357,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Himmelfahrt",
+    "created": "2010-07-28T10:44:46+00:00",
+    "changed": "2011-09-20T11:10:37+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28025",
+      "pid": 191,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "In Folge seiner Bekehrung zum katholischen Glauben wendet sich Bahr mit \"Himmelfahrt\" dem Genre des katholischen Romans zu, wissend, dass er sich dadurch einen schweren Stand in den Feuilletons und Literaturzeitschriften einhandelt. Die Auflagenzahlen, des nach dem April 1916 über den Ladentisch wandernden Buchs, sind dennoch hoch. \r\nKurt Ifkovits:<blockquote>Der handlungsarme Roman, der vierte innerhalb des Zyklus [österreichischer Romane, Anm.], handelt von der Glaubenssuche des Intellektuellen Franz Flayn. Diese Figur weist Parallelen zu H. B.s Biographie auf.</blockquote>\r\n",
+      "format": "full_html",
+      "processed": "In Folge seiner Bekehrung zum katholischen Glauben wendet sich Bahr mit \"Himmelfahrt\" dem Genre des katholischen Romans zu, wissend, dass er sich dadurch einen schweren Stand in den Feuilletons und Literaturzeitschriften einhandelt. Die Auflagenzahlen, des nach dem April 1916 über den Ladentisch wandernden Buchs, sind dennoch hoch. \nKurt Ifkovits:<blockquote>Der handlungsarme Roman, der vierte innerhalb des Zyklus [österreichischer Romane, Anm.], handelt von der Glaubenssuche des Intellektuellen Franz Flayn. Diese Figur weist Parallelen zu H. B.s Biographie auf.</blockquote>\n",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1916-04-01",
+      "end_value": "1916-04-01"
+    },
+    "field_sources": [
+      "Hermann Bahr: Himmelfahrt. Roman.  Berlin: S. Fischer, 1916.",
+      "Kurt Ifkovits in: Bahr/Kvapil, 381."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/988096a1-6ff8-4823-9f05-f25540994580/node_type?resourceVersion=id%3A2357"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/988096a1-6ff8-4823-9f05-f25540994580/relationships/node_type?resourceVersion=id%3A2357"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/988096a1-6ff8-4823-9f05-f25540994580/revision_uid?resourceVersion=id%3A2357"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/988096a1-6ff8-4823-9f05-f25540994580/relationships/revision_uid?resourceVersion=id%3A2357"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/988096a1-6ff8-4823-9f05-f25540994580/uid?resourceVersion=id%3A2357"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/988096a1-6ff8-4823-9f05-f25540994580/relationships/uid?resourceVersion=id%3A2357"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "2f55ff54-49af-41ba-a2d1-45a7ac71add2",
+          "meta": {
+            "drupal_internal__target_id": 2
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/988096a1-6ff8-4823-9f05-f25540994580/field_event_type?resourceVersion=id%3A2357"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/988096a1-6ff8-4823-9f05-f25540994580/relationships/field_event_type?resourceVersion=id%3A2357"
+        }
+      }
+    }
+  }
+}

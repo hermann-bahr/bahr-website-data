@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "50de7a4e-7dd8-44bb-82cb-8728f87559a5",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/50de7a4e-7dd8-44bb-82cb-8728f87559a5?resourceVersion=id%3A2916"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/50de7a4e-7dd8-44bb-82cb-8728f87559a5?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39158,
+    "drupal_internal__vid": 2916,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Österreichische Volkszeitung",
+    "created": "2011-07-11T12:14:17+00:00",
+    "changed": "2011-07-11T14:11:25+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39158",
+      "pid": 886,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 1. November 1899, einen Monat nachdem er beim Neuen Wiener Tagblatt begonnen hat, erscheinen auch erste Texte Bahrs im zweiten Blatt des \"Steyrermühl\"-Konzerns, der \"Österreichischen Volkszeitung\", ehemals \"Vorstadt-Zeitung\". Er zeichnet nunmehr für die Burgtheater-Kritiken. Ein Teil der Texte werden auch in die gekürzte kleinformatige Ausgabe des Hauptblatts aufgenommen, die \"2 Kreuzer-Ausgabe\". Zusätzlich erscheinen auch einige Ausstellungsbesprechungen. ",
+      "format": "full_html",
+      "processed": "Am 1. November 1899, einen Monat nachdem er beim Neuen Wiener Tagblatt begonnen hat, erscheinen auch erste Texte Bahrs im zweiten Blatt des \"Steyrermühl\"-Konzerns, der \"Österreichischen Volkszeitung\", ehemals \"Vorstadt-Zeitung\". Er zeichnet nunmehr für die Burgtheater-Kritiken. Ein Teil der Texte werden auch in die gekürzte kleinformatige Ausgabe des Hauptblatts aufgenommen, die \"2 Kreuzer-Ausgabe\". Zusätzlich erscheinen auch einige Ausstellungsbesprechungen. ",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1899-11-01",
+      "end_value": "1899-11-01"
+    },
+    "field_sources": [
+      "H. B.: Theater und Kunst. Burgtheater. Österreichische Volks-Zeitung, 45 (1899) #301, 9  (2 Kreuzer-Ausgabe: 11). (1.11.1899)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/50de7a4e-7dd8-44bb-82cb-8728f87559a5/node_type?resourceVersion=id%3A2916"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/50de7a4e-7dd8-44bb-82cb-8728f87559a5/relationships/node_type?resourceVersion=id%3A2916"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/50de7a4e-7dd8-44bb-82cb-8728f87559a5/revision_uid?resourceVersion=id%3A2916"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/50de7a4e-7dd8-44bb-82cb-8728f87559a5/relationships/revision_uid?resourceVersion=id%3A2916"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/50de7a4e-7dd8-44bb-82cb-8728f87559a5/uid?resourceVersion=id%3A2916"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/50de7a4e-7dd8-44bb-82cb-8728f87559a5/relationships/uid?resourceVersion=id%3A2916"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "d579e54c-64dd-4193-a9ef-da87efb3ed16",
+          "meta": {
+            "drupal_internal__target_id": 8
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/50de7a4e-7dd8-44bb-82cb-8728f87559a5/field_event_type?resourceVersion=id%3A2916"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/50de7a4e-7dd8-44bb-82cb-8728f87559a5/relationships/field_event_type?resourceVersion=id%3A2916"
+        }
+      }
+    }
+  }
+}

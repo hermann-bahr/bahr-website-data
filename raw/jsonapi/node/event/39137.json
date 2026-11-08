@@ -1,0 +1,119 @@
+{
+  "type": "node--event",
+  "id": "bc1d0c63-62df-4031-a443-548a4ff47992",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/bc1d0c63-62df-4031-a443-548a4ff47992?resourceVersion=id%3A2896"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/bc1d0c63-62df-4031-a443-548a4ff47992?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39137,
+    "drupal_internal__vid": 2896,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Kainz liest Bahr",
+    "created": "2011-06-27T16:31:35+00:00",
+    "changed": "2012-07-09T16:51:03+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39137",
+      "pid": 865,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Josef Kainz liest am 5. November 1901 im  dreieinhalb Stunden \"Wienerisches\" im großen Musikvereinssaal. Von Bahr stand das \"Käferl\" am Programm.",
+      "format": "full_html",
+      "processed": "Josef Kainz liest am 5. November 1901 im  dreieinhalb Stunden \"Wienerisches\" im großen Musikvereinssaal. Von Bahr stand das \"Käferl\" am Programm.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1901-11-05",
+      "end_value": "1901-11-05"
+    },
+    "field_sources": [
+      "Neues Wiener Tagblatt, 35 (1901) #297, 7. (29.10.1901)",
+      "Neue Freie Presse, 1901 #13363, 6. (6.11.1901)",
+      "Neues Wiener Tagblatt, 35 (1901) #305, 8. (6.11.1901)",
+      "Alfred Gold: Kainz als Vorleser Jung-Wiens. Der Tag, Berlin, (1901) #497, Morgen-Ausgabe. I. Illustrierte Zeitung,  [3]. (8.11.1901)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bc1d0c63-62df-4031-a443-548a4ff47992/node_type?resourceVersion=id%3A2896"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bc1d0c63-62df-4031-a443-548a4ff47992/relationships/node_type?resourceVersion=id%3A2896"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bc1d0c63-62df-4031-a443-548a4ff47992/revision_uid?resourceVersion=id%3A2896"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bc1d0c63-62df-4031-a443-548a4ff47992/relationships/revision_uid?resourceVersion=id%3A2896"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bc1d0c63-62df-4031-a443-548a4ff47992/uid?resourceVersion=id%3A2896"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bc1d0c63-62df-4031-a443-548a4ff47992/relationships/uid?resourceVersion=id%3A2896"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bc1d0c63-62df-4031-a443-548a4ff47992/field_event_type?resourceVersion=id%3A2896"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bc1d0c63-62df-4031-a443-548a4ff47992/relationships/field_event_type?resourceVersion=id%3A2896"
+        }
+      }
+    }
+  }
+}

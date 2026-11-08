@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "a97d2fdc-2b46-43d5-8f37-0a0a506bce54",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/a97d2fdc-2b46-43d5-8f37-0a0a506bce54?resourceVersion=id%3A3052"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/a97d2fdc-2b46-43d5-8f37-0a0a506bce54?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44136,
+    "drupal_internal__vid": 3052,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Auf Aufriss mit AS, B.-H.",
+    "created": "2011-09-14T13:33:48+00:00",
+    "changed": "2011-09-14T13:33:48+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44136",
+      "pid": 1031,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "In seinem Tagebuch notiert sich Schnitzler zum 21. Juli 1894:<blockquote>Bahr hier. Burckhard hat ihm sehr schön über Anatol gesprochen […]. – Bahr eine Cocotte suchend, er, Richard, ich, immer mit dem Bic., läutend.</blockquote>",
+      "format": "full_html",
+      "processed": "In seinem Tagebuch notiert sich Schnitzler zum 21. Juli 1894:<blockquote>Bahr hier. Burckhard hat ihm sehr schön über Anatol gesprochen […]. – Bahr eine Cocotte suchend, er, Richard, ich, immer mit dem Bic., läutend.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1894-07-21",
+      "end_value": "1894-07-21"
+    },
+    "field_sources": [
+      "Schnitzler: Tagebuch, II, 82."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a97d2fdc-2b46-43d5-8f37-0a0a506bce54/node_type?resourceVersion=id%3A3052"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a97d2fdc-2b46-43d5-8f37-0a0a506bce54/relationships/node_type?resourceVersion=id%3A3052"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a97d2fdc-2b46-43d5-8f37-0a0a506bce54/revision_uid?resourceVersion=id%3A3052"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a97d2fdc-2b46-43d5-8f37-0a0a506bce54/relationships/revision_uid?resourceVersion=id%3A3052"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a97d2fdc-2b46-43d5-8f37-0a0a506bce54/uid?resourceVersion=id%3A3052"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a97d2fdc-2b46-43d5-8f37-0a0a506bce54/relationships/uid?resourceVersion=id%3A3052"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a97d2fdc-2b46-43d5-8f37-0a0a506bce54/field_event_type?resourceVersion=id%3A3052"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a97d2fdc-2b46-43d5-8f37-0a0a506bce54/relationships/field_event_type?resourceVersion=id%3A3052"
+        }
+      }
+    }
+  }
+}

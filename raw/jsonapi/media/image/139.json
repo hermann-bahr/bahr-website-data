@@ -1,0 +1,118 @@
+{
+  "type": "media--image",
+  "id": "5f995900-e950-4cef-90b3-b3e14bac7f1c",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/media/image/5f995900-e950-4cef-90b3-b3e14bac7f1c?resourceVersion=id%3A139"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/media/image/5f995900-e950-4cef-90b3-b3e14bac7f1c?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__mid": 139,
+    "drupal_internal__vid": 139,
+    "langcode": "de",
+    "revision_created": "2020-02-18T15:16:19+00:00",
+    "status": true,
+    "name": "1910_anna",
+    "created": "2020-02-18T15:16:19+00:00",
+    "changed": "2020-02-18T15:16:19+00:00",
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": null,
+      "pid": null,
+      "langcode": "de"
+    }
+  },
+  "relationships": {
+    "bundle": {
+      "data": {
+        "type": "media_type--media_type",
+        "id": "b82aabb6-e7a1-420d-b98b-5b981c2d920e",
+        "meta": {
+          "drupal_internal__target_id": "image"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/5f995900-e950-4cef-90b3-b3e14bac7f1c/bundle?resourceVersion=id%3A139"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/5f995900-e950-4cef-90b3-b3e14bac7f1c/relationships/bundle?resourceVersion=id%3A139"
+        }
+      }
+    },
+    "revision_user": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/5f995900-e950-4cef-90b3-b3e14bac7f1c/revision_user?resourceVersion=id%3A139"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/5f995900-e950-4cef-90b3-b3e14bac7f1c/relationships/revision_user?resourceVersion=id%3A139"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/5f995900-e950-4cef-90b3-b3e14bac7f1c/uid?resourceVersion=id%3A139"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/5f995900-e950-4cef-90b3-b3e14bac7f1c/relationships/uid?resourceVersion=id%3A139"
+        }
+      }
+    },
+    "thumbnail": {
+      "data": {
+        "type": "file--file",
+        "id": "f36cf4d2-9d13-4d0c-be7b-dfec9865505c",
+        "meta": {
+          "alt": "1910 Mit Anna Bahr-Mildenburg",
+          "title": null,
+          "width": 1068,
+          "height": 1445,
+          "drupal_internal__target_id": 200
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/5f995900-e950-4cef-90b3-b3e14bac7f1c/thumbnail?resourceVersion=id%3A139"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/5f995900-e950-4cef-90b3-b3e14bac7f1c/relationships/thumbnail?resourceVersion=id%3A139"
+        }
+      }
+    },
+    "field_media_image": {
+      "data": {
+        "type": "file--file",
+        "id": "f36cf4d2-9d13-4d0c-be7b-dfec9865505c",
+        "meta": {
+          "alt": "1910 Mit Anna Bahr-Mildenburg",
+          "title": "1910_anna",
+          "width": 1068,
+          "height": 1445,
+          "drupal_internal__target_id": 200
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/5f995900-e950-4cef-90b3-b3e14bac7f1c/field_media_image?resourceVersion=id%3A139"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/5f995900-e950-4cef-90b3-b3e14bac7f1c/relationships/field_media_image?resourceVersion=id%3A139"
+        }
+      }
+    }
+  }
+}

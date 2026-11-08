@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "01f6938f-2517-4ba8-8db7-47e6b09585a4",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/01f6938f-2517-4ba8-8db7-47e6b09585a4?resourceVersion=id%3A2738"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/01f6938f-2517-4ba8-8db7-47e6b09585a4?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38952,
+    "drupal_internal__vid": 2738,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "AS, HvH",
+    "created": "2011-03-15T17:38:51+00:00",
+    "changed": "2011-11-03T10:56:22+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38952",
+      "pid": 692,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "8. Juli 1892:<blockquote>Abd. Loris und Bahr Ausstellung; sehr angenehmer Abend.</blockquote>",
+      "format": "full_html",
+      "processed": "8. Juli 1892:<blockquote>Abd. Loris und Bahr Ausstellung; sehr angenehmer Abend.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1892-07-08",
+      "end_value": "1892-07-08"
+    },
+    "field_sources": [
+      "Schnitzler: Tagebuch, I, 380."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/01f6938f-2517-4ba8-8db7-47e6b09585a4/node_type?resourceVersion=id%3A2738"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/01f6938f-2517-4ba8-8db7-47e6b09585a4/relationships/node_type?resourceVersion=id%3A2738"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/01f6938f-2517-4ba8-8db7-47e6b09585a4/revision_uid?resourceVersion=id%3A2738"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/01f6938f-2517-4ba8-8db7-47e6b09585a4/relationships/revision_uid?resourceVersion=id%3A2738"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/01f6938f-2517-4ba8-8db7-47e6b09585a4/uid?resourceVersion=id%3A2738"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/01f6938f-2517-4ba8-8db7-47e6b09585a4/relationships/uid?resourceVersion=id%3A2738"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/01f6938f-2517-4ba8-8db7-47e6b09585a4/field_event_type?resourceVersion=id%3A2738"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/01f6938f-2517-4ba8-8db7-47e6b09585a4/relationships/field_event_type?resourceVersion=id%3A2738"
+        }
+      }
+    }
+  }
+}

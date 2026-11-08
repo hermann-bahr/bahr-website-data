@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "8cd1048f-ca4b-4aed-8730-8e375094a621",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/8cd1048f-ca4b-4aed-8730-8e375094a621?resourceVersion=id%3A3388"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/8cd1048f-ca4b-4aed-8730-8e375094a621?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49555,
+    "drupal_internal__vid": 3388,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Operation",
+    "created": "2011-11-02T10:54:56+00:00",
+    "changed": "2011-11-02T10:54:56+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49555",
+      "pid": 1372,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 8. Juni 1925 findet sich Bahr unmittelbar vor einer \"ungefährlichen, aber durchaus schmerzhaften\" Operation, die ihm aber auch keine Heilung bringt.",
+      "format": "full_html",
+      "processed": "Am 8. Juni 1925 findet sich Bahr unmittelbar vor einer \"ungefährlichen, aber durchaus schmerzhaften\" Operation, die ihm aber auch keine Heilung bringt.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1925-06-09",
+      "end_value": "1925-06-09"
+    },
+    "field_sources": [
+      "Bahr/Redlich, 538."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8cd1048f-ca4b-4aed-8730-8e375094a621/node_type?resourceVersion=id%3A3388"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8cd1048f-ca4b-4aed-8730-8e375094a621/relationships/node_type?resourceVersion=id%3A3388"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8cd1048f-ca4b-4aed-8730-8e375094a621/revision_uid?resourceVersion=id%3A3388"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8cd1048f-ca4b-4aed-8730-8e375094a621/relationships/revision_uid?resourceVersion=id%3A3388"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8cd1048f-ca4b-4aed-8730-8e375094a621/uid?resourceVersion=id%3A3388"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8cd1048f-ca4b-4aed-8730-8e375094a621/relationships/uid?resourceVersion=id%3A3388"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8cd1048f-ca4b-4aed-8730-8e375094a621/field_event_type?resourceVersion=id%3A3388"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8cd1048f-ca4b-4aed-8730-8e375094a621/relationships/field_event_type?resourceVersion=id%3A3388"
+        }
+      }
+    }
+  }
+}

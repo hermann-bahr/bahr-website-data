@@ -1,0 +1,109 @@
+{
+  "type": "node--image",
+  "id": "454acbf7-7084-45ac-914f-45869afbbfd2",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/image/454acbf7-7084-45ac-914f-45869afbbfd2?resourceVersion=id%3A3978"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/image/454acbf7-7084-45ac-914f-45869afbbfd2?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49718,
+    "drupal_internal__vid": 3978,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:44:08+00:00",
+    "status": true,
+    "title": "1894 Caph",
+    "created": "2011-12-15T10:04:25+00:00",
+    "changed": "2011-12-15T10:04:25+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/bild/49718",
+      "pid": 1532,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<i>Hermann Bahr: Caph. Novellen. (Mit einer Zeichnung von Ferry Bératon). Berlin: S. Fischer, 1894.</i>",
+      "format": "full_html",
+      "processed": "<i>Hermann Bahr: Caph. Novellen. (Mit einer Zeichnung von Ferry Bératon). Berlin: S. Fischer, 1894.</i>",
+      "summary": null
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "e2381624-d098-4c5b-bdd7-5dbfd773b84e",
+        "meta": {
+          "drupal_internal__target_id": "image"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/454acbf7-7084-45ac-914f-45869afbbfd2/node_type?resourceVersion=id%3A3978"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/454acbf7-7084-45ac-914f-45869afbbfd2/relationships/node_type?resourceVersion=id%3A3978"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/454acbf7-7084-45ac-914f-45869afbbfd2/revision_uid?resourceVersion=id%3A3978"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/454acbf7-7084-45ac-914f-45869afbbfd2/relationships/revision_uid?resourceVersion=id%3A3978"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/454acbf7-7084-45ac-914f-45869afbbfd2/uid?resourceVersion=id%3A3978"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/454acbf7-7084-45ac-914f-45869afbbfd2/relationships/uid?resourceVersion=id%3A3978"
+        }
+      }
+    },
+    "field_images": {
+      "data": [
+        {
+          "type": "media--image",
+          "id": "a249c02a-1376-4abd-a696-7a575c36ce4d",
+          "meta": {
+            "drupal_internal__target_id": 158
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/454acbf7-7084-45ac-914f-45869afbbfd2/field_images?resourceVersion=id%3A3978"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/454acbf7-7084-45ac-914f-45869afbbfd2/relationships/field_images?resourceVersion=id%3A3978"
+        }
+      }
+    }
+  }
+}

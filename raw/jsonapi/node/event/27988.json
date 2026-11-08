@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "224d68de-cbed-49b6-9886-d0dd6276dea7",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/224d68de-cbed-49b6-9886-d0dd6276dea7?resourceVersion=id%3A2321"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/224d68de-cbed-49b6-9886-d0dd6276dea7?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27988,
+    "drupal_internal__vid": 2321,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Schnitzler",
+    "created": "2010-07-27T14:05:27+00:00",
+    "changed": "2011-11-21T09:50:57+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/27988",
+      "pid": 155,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 27. April 1891 lernen sich Bahr und Arthur Schnitzler kennen. Schnitzler notiert sich:<blockquote>Hermann Bahr im Kfh. kennen gelernt. Liebenswürdig freier Mensch; im Gesicht Roheit, Geist, Güte, Schwindelhaftigkeit.</blockquote>",
+      "format": "full_html",
+      "processed": "Am 27. April 1891 lernen sich Bahr und Arthur Schnitzler kennen. Schnitzler notiert sich:<blockquote>Hermann Bahr im Kfh. kennen gelernt. Liebenswürdig freier Mensch; im Gesicht Roheit, Geist, Güte, Schwindelhaftigkeit.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1891-04-27",
+      "end_value": "1891-04-27"
+    },
+    "field_sources": [
+      "Schnitzler: Tagebuch. 1879-1892, 327."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/224d68de-cbed-49b6-9886-d0dd6276dea7/node_type?resourceVersion=id%3A2321"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/224d68de-cbed-49b6-9886-d0dd6276dea7/relationships/node_type?resourceVersion=id%3A2321"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/224d68de-cbed-49b6-9886-d0dd6276dea7/revision_uid?resourceVersion=id%3A2321"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/224d68de-cbed-49b6-9886-d0dd6276dea7/relationships/revision_uid?resourceVersion=id%3A2321"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/224d68de-cbed-49b6-9886-d0dd6276dea7/uid?resourceVersion=id%3A2321"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/224d68de-cbed-49b6-9886-d0dd6276dea7/relationships/uid?resourceVersion=id%3A2321"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/224d68de-cbed-49b6-9886-d0dd6276dea7/field_event_type?resourceVersion=id%3A2321"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/224d68de-cbed-49b6-9886-d0dd6276dea7/relationships/field_event_type?resourceVersion=id%3A2321"
+        }
+      }
+    }
+  }
+}

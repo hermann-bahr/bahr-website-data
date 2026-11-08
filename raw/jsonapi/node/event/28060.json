@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "7007d3f6-f55c-4b14-8115-7b3e2cdf7333",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/7007d3f6-f55c-4b14-8115-7b3e2cdf7333?resourceVersion=id%3A2389"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/7007d3f6-f55c-4b14-8115-7b3e2cdf7333?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28060,
+    "drupal_internal__vid": 2389,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Der Zauberstab",
+    "created": "2010-08-06T09:31:58+00:00",
+    "changed": "2011-11-03T09:52:43+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28060",
+      "pid": 223,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Im Dezember 1927 verlegt Borgmeyer in Hildesheim die letzte gedruckte Zusammenstellung von Bahrs Kolumne \"Tagebücher\" im \"Neuen Wiener Journal\". Berichtet wird über die Jahre 1924-1926. Die folgenden Tagebücher bleiben in Buchform ungedruckt.",
+      "format": "full_html",
+      "processed": "Im Dezember 1927 verlegt Borgmeyer in Hildesheim die letzte gedruckte Zusammenstellung von Bahrs Kolumne \"Tagebücher\" im \"Neuen Wiener Journal\". Berichtet wird über die Jahre 1924-1926. Die folgenden Tagebücher bleiben in Buchform ungedruckt.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1927-12-01",
+      "end_value": "1927-12-01"
+    },
+    "field_sources": [
+      "Hermann Bahr: Der Zauberstab. Tagebücher 1924 bis 1926. Hildesheim: F. Borgmeyer, [1927]."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7007d3f6-f55c-4b14-8115-7b3e2cdf7333/node_type?resourceVersion=id%3A2389"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7007d3f6-f55c-4b14-8115-7b3e2cdf7333/relationships/node_type?resourceVersion=id%3A2389"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7007d3f6-f55c-4b14-8115-7b3e2cdf7333/revision_uid?resourceVersion=id%3A2389"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7007d3f6-f55c-4b14-8115-7b3e2cdf7333/relationships/revision_uid?resourceVersion=id%3A2389"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7007d3f6-f55c-4b14-8115-7b3e2cdf7333/uid?resourceVersion=id%3A2389"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7007d3f6-f55c-4b14-8115-7b3e2cdf7333/relationships/uid?resourceVersion=id%3A2389"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "b7b074bd-6489-4a96-84e9-9c8184cda171",
+          "meta": {
+            "drupal_internal__target_id": 7
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7007d3f6-f55c-4b14-8115-7b3e2cdf7333/field_event_type?resourceVersion=id%3A2389"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7007d3f6-f55c-4b14-8115-7b3e2cdf7333/relationships/field_event_type?resourceVersion=id%3A2389"
+        }
+      }
+    }
+  }
+}

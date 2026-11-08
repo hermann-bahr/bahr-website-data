@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "70000ccc-19e7-47a8-9dd9-3d137e85677d",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/70000ccc-19e7-47a8-9dd9-3d137e85677d?resourceVersion=id%3A2411"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/70000ccc-19e7-47a8-9dd9-3d137e85677d?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28084,
+    "drupal_internal__vid": 2411,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Die Stimme",
+    "created": "2010-08-09T09:56:35+00:00",
+    "changed": "2011-12-20T16:02:57+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28084",
+      "pid": 245,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "\"Die Stimme\", Schauspiel in drei Aufzügen, wirde zum ersten Mal am 18. Oktober 1916 im Kölner Schauspielhaus und, mit Anna Bahr-Mildenburg in der Hauptrolle, in Darmstadt gezeigt. Die Buchausgabe bringt S. Fischer heraus (1916).",
+      "format": "full_html",
+      "processed": "\"Die Stimme\", Schauspiel in drei Aufzügen, wirde zum ersten Mal am 18. Oktober 1916 im Kölner Schauspielhaus und, mit Anna Bahr-Mildenburg in der Hauptrolle, in Darmstadt gezeigt. Die Buchausgabe bringt S. Fischer heraus (1916).",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1916-10-18",
+      "end_value": "1916-10-18"
+    },
+    "field_sources": [
+      "Hermann Bahr: Die Stimme. Schauspiel in drei Aufzügen. Berlin: S. Fischer, 1916."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/70000ccc-19e7-47a8-9dd9-3d137e85677d/node_type?resourceVersion=id%3A2411"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/70000ccc-19e7-47a8-9dd9-3d137e85677d/relationships/node_type?resourceVersion=id%3A2411"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/70000ccc-19e7-47a8-9dd9-3d137e85677d/revision_uid?resourceVersion=id%3A2411"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/70000ccc-19e7-47a8-9dd9-3d137e85677d/relationships/revision_uid?resourceVersion=id%3A2411"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/70000ccc-19e7-47a8-9dd9-3d137e85677d/uid?resourceVersion=id%3A2411"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/70000ccc-19e7-47a8-9dd9-3d137e85677d/relationships/uid?resourceVersion=id%3A2411"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "27f3d2a4-8970-4726-9ab8-ce37707ec1bc",
+          "meta": {
+            "drupal_internal__target_id": 1
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/70000ccc-19e7-47a8-9dd9-3d137e85677d/field_event_type?resourceVersion=id%3A2411"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/70000ccc-19e7-47a8-9dd9-3d137e85677d/relationships/field_event_type?resourceVersion=id%3A2411"
+        }
+      }
+    }
+  }
+}

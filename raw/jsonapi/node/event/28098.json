@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "785242cc-d265-4e48-93f0-f9c29135de38",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/785242cc-d265-4e48-93f0-f9c29135de38?resourceVersion=id%3A2423"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/785242cc-d265-4e48-93f0-f9c29135de38?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28098,
+    "drupal_internal__vid": 2423,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Kündigung Steyrermühl",
+    "created": "2010-08-11T19:39:25+00:00",
+    "changed": "2011-09-02T10:14:26+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28098",
+      "pid": 258,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Im Frühjahr 1906 endet Bahrs Mitarbeit bei den beiden Organen der \"Steyrermühl\", dem \"Neuen Wiener Tagblatt\" und der \"Österreichischen Volkszeitung\". In seinen \"Münchner Erinnerungen\" berichtet Bahr 1927 rückblickend, er hätte, als er den Vertrag für das Münchner Hoftheater unterschrieb, gleich seine Kündigung abgeschickt. Am 30. April 1906 ist er beim Herausgeber Wilhelm Singer, Adieu-sagen.",
+      "format": "full_html",
+      "processed": "Im Frühjahr 1906 endet Bahrs Mitarbeit bei den beiden Organen der \"Steyrermühl\", dem \"Neuen Wiener Tagblatt\" und der \"Österreichischen Volkszeitung\". In seinen \"Münchner Erinnerungen\" berichtet Bahr 1927 rückblickend, er hätte, als er den Vertrag für das Münchner Hoftheater unterschrieb, gleich seine Kündigung abgeschickt. Am 30. April 1906 ist er beim Herausgeber Wilhelm Singer, Adieu-sagen.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1906-04-30",
+      "end_value": "1906-04-30"
+    },
+    "field_sources": [
+      "\"Münchner Erinnerungen\" in: Münchner Neueste Nachrichten, 80 (1927) #152, 1-2. (5.6.1927) ",
+      "Tagebücher (Csàky), V, 14."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/785242cc-d265-4e48-93f0-f9c29135de38/node_type?resourceVersion=id%3A2423"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/785242cc-d265-4e48-93f0-f9c29135de38/relationships/node_type?resourceVersion=id%3A2423"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/785242cc-d265-4e48-93f0-f9c29135de38/revision_uid?resourceVersion=id%3A2423"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/785242cc-d265-4e48-93f0-f9c29135de38/relationships/revision_uid?resourceVersion=id%3A2423"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/785242cc-d265-4e48-93f0-f9c29135de38/uid?resourceVersion=id%3A2423"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/785242cc-d265-4e48-93f0-f9c29135de38/relationships/uid?resourceVersion=id%3A2423"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "d579e54c-64dd-4193-a9ef-da87efb3ed16",
+          "meta": {
+            "drupal_internal__target_id": 8
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/785242cc-d265-4e48-93f0-f9c29135de38/field_event_type?resourceVersion=id%3A2423"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/785242cc-d265-4e48-93f0-f9c29135de38/relationships/field_event_type?resourceVersion=id%3A2423"
+        }
+      }
+    }
+  }
+}

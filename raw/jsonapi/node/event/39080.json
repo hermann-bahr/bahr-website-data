@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "0c914caa-1eec-42cb-9c15-893bcbc81bd0",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/0c914caa-1eec-42cb-9c15-893bcbc81bd0?resourceVersion=id%3A2854"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/0c914caa-1eec-42cb-9c15-893bcbc81bd0?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39080,
+    "drupal_internal__vid": 2854,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Schulden und Erfolg",
+    "created": "2011-05-05T21:29:59+00:00",
+    "changed": "2011-09-05T14:44:05+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39080",
+      "pid": 811,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 25. November 1900 zeigt sich Bahr inspiriert durch die gute Aufnahme der \"Wienerinnen\". Er ist zuversichtlich, dass er, wenn diese auch in Berlin ankommen, innerhalb eines Jahres sein Haus schuldenfrei haben würde. \r\n",
+      "format": "full_html",
+      "processed": "Am 25. November 1900 zeigt sich Bahr inspiriert durch die gute Aufnahme der \"Wienerinnen\". Er ist zuversichtlich, dass er, wenn diese auch in Berlin ankommen, innerhalb eines Jahres sein Haus schuldenfrei haben würde. \n",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1900-11-25",
+      "end_value": "1900-11-25"
+    },
+    "field_sources": [
+      "Brief an die Mutter, 25.11.1900"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0c914caa-1eec-42cb-9c15-893bcbc81bd0/node_type?resourceVersion=id%3A2854"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0c914caa-1eec-42cb-9c15-893bcbc81bd0/relationships/node_type?resourceVersion=id%3A2854"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0c914caa-1eec-42cb-9c15-893bcbc81bd0/revision_uid?resourceVersion=id%3A2854"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0c914caa-1eec-42cb-9c15-893bcbc81bd0/relationships/revision_uid?resourceVersion=id%3A2854"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0c914caa-1eec-42cb-9c15-893bcbc81bd0/uid?resourceVersion=id%3A2854"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0c914caa-1eec-42cb-9c15-893bcbc81bd0/relationships/uid?resourceVersion=id%3A2854"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0c914caa-1eec-42cb-9c15-893bcbc81bd0/field_event_type?resourceVersion=id%3A2854"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0c914caa-1eec-42cb-9c15-893bcbc81bd0/relationships/field_event_type?resourceVersion=id%3A2854"
+        }
+      }
+    }
+  }
+}

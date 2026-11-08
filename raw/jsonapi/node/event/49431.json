@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "7711da69-1f9b-4fd6-8422-553ef1ac84ea",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/7711da69-1f9b-4fd6-8422-553ef1ac84ea?resourceVersion=id%3A3274"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/7711da69-1f9b-4fd6-8422-553ef1ac84ea?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49431,
+    "drupal_internal__vid": 3274,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Skifahren in Berchtesgaden",
+    "created": "2011-10-19T13:57:25+00:00",
+    "changed": "2011-10-19T13:57:25+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49431",
+      "pid": 1255,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 24. Dezember 1919 schreibt Bahr:<blockquote>ich war neulich, um Ski zu laufen oder eigentlich mehr zu fallen, eine Woche in Berchtesgaden und will, da sich auch meine Frau dort wohl fühlt, gleich nach Neujahr wieder auf vierzehn Tage hin</blockquote>",
+      "format": "full_html",
+      "processed": "Am 24. Dezember 1919 schreibt Bahr:<blockquote>ich war neulich, um Ski zu laufen oder eigentlich mehr zu fallen, eine Woche in Berchtesgaden und will, da sich auch meine Frau dort wohl fühlt, gleich nach Neujahr wieder auf vierzehn Tage hin</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1919-12-13",
+      "end_value": "1919-12-20"
+    },
+    "field_sources": [
+      "Bahr/Redlich, 388."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7711da69-1f9b-4fd6-8422-553ef1ac84ea/node_type?resourceVersion=id%3A3274"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7711da69-1f9b-4fd6-8422-553ef1ac84ea/relationships/node_type?resourceVersion=id%3A3274"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7711da69-1f9b-4fd6-8422-553ef1ac84ea/revision_uid?resourceVersion=id%3A3274"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7711da69-1f9b-4fd6-8422-553ef1ac84ea/relationships/revision_uid?resourceVersion=id%3A3274"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7711da69-1f9b-4fd6-8422-553ef1ac84ea/uid?resourceVersion=id%3A3274"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7711da69-1f9b-4fd6-8422-553ef1ac84ea/relationships/uid?resourceVersion=id%3A3274"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7711da69-1f9b-4fd6-8422-553ef1ac84ea/field_event_type?resourceVersion=id%3A3274"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7711da69-1f9b-4fd6-8422-553ef1ac84ea/relationships/field_event_type?resourceVersion=id%3A3274"
+        }
+      }
+    }
+  }
+}

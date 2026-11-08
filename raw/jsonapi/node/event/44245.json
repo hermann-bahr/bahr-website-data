@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "93254d06-fbf5-4231-a769-a99f4c2dfec0",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/93254d06-fbf5-4231-a769-a99f4c2dfec0?resourceVersion=id%3A3159"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/93254d06-fbf5-4231-a769-a99f4c2dfec0?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44245,
+    "drupal_internal__vid": 3159,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "\"Todesurteil\"",
+    "created": "2011-10-03T13:24:23+00:00",
+    "changed": "2011-11-18T13:26:32+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44245",
+      "pid": 1138,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 8. Jänner 1904 teilt Bahr seinen Freunden (Redlich, Burckhard) mit, dass seine Herzerkrankung laut Auskunft des Arztes, tödlich verlaufen werde. Nach der Blinddarmentzündung 1903 wird diese Krankheit 1904 für Bahr zu einem Jahr der Wende, indem er seine zweite Frau kennenlernt und die ersten Schritte zum Glauben macht (wenngleich, wie er selbst sagt, nichtsahnend).",
+      "format": "full_html",
+      "processed": "Am 8. Jänner 1904 teilt Bahr seinen Freunden (Redlich, Burckhard) mit, dass seine Herzerkrankung laut Auskunft des Arztes, tödlich verlaufen werde. Nach der Blinddarmentzündung 1903 wird diese Krankheit 1904 für Bahr zu einem Jahr der Wende, indem er seine zweite Frau kennenlernt und die ersten Schritte zum Glauben macht (wenngleich, wie er selbst sagt, nichtsahnend).",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1904-01-08",
+      "end_value": "1904-01-08"
+    },
+    "field_sources": [
+      "Bahr/Redlich, 19-20.",
+      "Fritz Fellner und Doris A. Corradini (Hgg.): Schicksalsjahre Österreichs. Die Erinnerungen und Tagebücher Josef Redlichs 1869–1936. Wien: Böhlau 2011, I, 146.",
+      "Selbstbildnis, 244."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/93254d06-fbf5-4231-a769-a99f4c2dfec0/node_type?resourceVersion=id%3A3159"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/93254d06-fbf5-4231-a769-a99f4c2dfec0/relationships/node_type?resourceVersion=id%3A3159"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/93254d06-fbf5-4231-a769-a99f4c2dfec0/revision_uid?resourceVersion=id%3A3159"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/93254d06-fbf5-4231-a769-a99f4c2dfec0/relationships/revision_uid?resourceVersion=id%3A3159"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/93254d06-fbf5-4231-a769-a99f4c2dfec0/uid?resourceVersion=id%3A3159"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/93254d06-fbf5-4231-a769-a99f4c2dfec0/relationships/uid?resourceVersion=id%3A3159"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/93254d06-fbf5-4231-a769-a99f4c2dfec0/field_event_type?resourceVersion=id%3A3159"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/93254d06-fbf5-4231-a769-a99f4c2dfec0/relationships/field_event_type?resourceVersion=id%3A3159"
+        }
+      }
+    }
+  }
+}

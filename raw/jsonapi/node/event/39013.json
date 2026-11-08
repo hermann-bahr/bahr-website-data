@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "83d119fd-3c5c-4cff-87f4-81e1cbea4117",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/83d119fd-3c5c-4cff-87f4-81e1cbea4117?resourceVersion=id%3A2794"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/83d119fd-3c5c-4cff-87f4-81e1cbea4117?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39013,
+    "drupal_internal__vid": 2794,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Matura-Treffen",
+    "created": "2011-03-24T12:28:58+00:00",
+    "changed": "2013-01-28T10:46:50+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39013",
+      "pid": 749,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 19. August 1931 nimmt Bahr am fünzigjährigen Matura-Treffen in Salzburg Teil. Eine Fotografie wird aus diesem Anlass ebenfalls gemacht.\r\n",
+      "format": "full_html",
+      "processed": "Am 19. August 1931 nimmt Bahr am fünzigjährigen Matura-Treffen in Salzburg Teil. Eine Fotografie wird aus diesem Anlass ebenfalls gemacht.\n",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1931-08-19",
+      "end_value": "1931-08-19"
+    },
+    "field_sources": [
+      "Nachlass, Kiste 77"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/83d119fd-3c5c-4cff-87f4-81e1cbea4117/node_type?resourceVersion=id%3A2794"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/83d119fd-3c5c-4cff-87f4-81e1cbea4117/relationships/node_type?resourceVersion=id%3A2794"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/83d119fd-3c5c-4cff-87f4-81e1cbea4117/revision_uid?resourceVersion=id%3A2794"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/83d119fd-3c5c-4cff-87f4-81e1cbea4117/relationships/revision_uid?resourceVersion=id%3A2794"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/83d119fd-3c5c-4cff-87f4-81e1cbea4117/uid?resourceVersion=id%3A2794"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/83d119fd-3c5c-4cff-87f4-81e1cbea4117/relationships/uid?resourceVersion=id%3A2794"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/83d119fd-3c5c-4cff-87f4-81e1cbea4117/field_event_type?resourceVersion=id%3A2794"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/83d119fd-3c5c-4cff-87f4-81e1cbea4117/relationships/field_event_type?resourceVersion=id%3A2794"
+        }
+      }
+    }
+  }
+}

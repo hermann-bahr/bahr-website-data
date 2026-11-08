@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "bdee0485-e943-4066-a6a3-f1333ec661c2",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/bdee0485-e943-4066-a6a3-f1333ec661c2?resourceVersion=id%3A2291"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/bdee0485-e943-4066-a6a3-f1333ec661c2?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27950,
+    "drupal_internal__vid": 2291,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Expressionismus",
+    "created": "2010-07-19T14:55:32+00:00",
+    "changed": "2011-10-24T12:21:09+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/27950",
+      "pid": 125,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahrs Zuwendung zum Expressionismus in Form einer Sammlung von Texten, nicht zuletzt zu Goethe, wurde im November 1915 angekündigt und erscheint im Mai 1916. Am 24. erhält Redlich ein Exemplar.",
+      "format": "full_html",
+      "processed": "Bahrs Zuwendung zum Expressionismus in Form einer Sammlung von Texten, nicht zuletzt zu Goethe, wurde im November 1915 angekündigt und erscheint im Mai 1916. Am 24. erhält Redlich ein Exemplar.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1916-05-24",
+      "end_value": "1916-05-24"
+    },
+    "field_sources": [
+      "Hermann Bahr: Expressionismus. Mit 19 Tafeln in Kupferdruck. München: Delphin, 1916.",
+      "Bahr/Redlich, 173.",
+      "Fritz Fellner und Doris A. Corradini (Hgg.): Schicksalsjahre Österreichs. Die Erinnerungen und Tagebücher Josef Redlichs 1869–1936. Wien: Böhlau 2011, II, 169."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bdee0485-e943-4066-a6a3-f1333ec661c2/node_type?resourceVersion=id%3A2291"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bdee0485-e943-4066-a6a3-f1333ec661c2/relationships/node_type?resourceVersion=id%3A2291"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bdee0485-e943-4066-a6a3-f1333ec661c2/revision_uid?resourceVersion=id%3A2291"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bdee0485-e943-4066-a6a3-f1333ec661c2/relationships/revision_uid?resourceVersion=id%3A2291"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bdee0485-e943-4066-a6a3-f1333ec661c2/uid?resourceVersion=id%3A2291"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bdee0485-e943-4066-a6a3-f1333ec661c2/relationships/uid?resourceVersion=id%3A2291"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "da42ac4a-f48f-4397-af4d-b66e913825fb",
+          "meta": {
+            "drupal_internal__target_id": 3
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bdee0485-e943-4066-a6a3-f1333ec661c2/field_event_type?resourceVersion=id%3A2291"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bdee0485-e943-4066-a6a3-f1333ec661c2/relationships/field_event_type?resourceVersion=id%3A2291"
+        }
+      }
+    }
+  }
+}

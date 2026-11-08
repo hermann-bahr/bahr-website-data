@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "0c4d83d6-ff34-48a4-9c2e-21670c8a4205",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/0c4d83d6-ff34-48a4-9c2e-21670c8a4205?resourceVersion=id%3A3075"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/0c4d83d6-ff34-48a4-9c2e-21670c8a4205?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44159,
+    "drupal_internal__vid": 3075,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Absage an Reinhardt",
+    "created": "2011-09-15T09:57:22+00:00",
+    "changed": "2011-09-15T09:57:22+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44159",
+      "pid": 1054,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 7. Oktober 1905 notiert sich Bahr den Entwurf eines Briefs in seinem Tagebuch:<blockquote>An Reinhardt.\"Sehr geehrter Herr Direktor! Ich zeige Ihnen an, daß ich Ihren mir am 4. d. durch Arthur Kahane gestellten Antrag, als Regisseur an das D. Th. zu gehen, hiemit dankend ablehne. Ergebenst H. B.</blockquote>",
+      "format": "full_html",
+      "processed": "Am 7. Oktober 1905 notiert sich Bahr den Entwurf eines Briefs in seinem Tagebuch:<blockquote>An Reinhardt.\"Sehr geehrter Herr Direktor! Ich zeige Ihnen an, daß ich Ihren mir am 4. d. durch Arthur Kahane gestellten Antrag, als Regisseur an das D. Th. zu gehen, hiemit dankend ablehne. Ergebenst H. B.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1905-10-07",
+      "end_value": "1905-10-07"
+    },
+    "field_sources": [
+      "Tagebücher (Csàky), IV, 431."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0c4d83d6-ff34-48a4-9c2e-21670c8a4205/node_type?resourceVersion=id%3A3075"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0c4d83d6-ff34-48a4-9c2e-21670c8a4205/relationships/node_type?resourceVersion=id%3A3075"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0c4d83d6-ff34-48a4-9c2e-21670c8a4205/revision_uid?resourceVersion=id%3A3075"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0c4d83d6-ff34-48a4-9c2e-21670c8a4205/relationships/revision_uid?resourceVersion=id%3A3075"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0c4d83d6-ff34-48a4-9c2e-21670c8a4205/uid?resourceVersion=id%3A3075"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0c4d83d6-ff34-48a4-9c2e-21670c8a4205/relationships/uid?resourceVersion=id%3A3075"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0c4d83d6-ff34-48a4-9c2e-21670c8a4205/field_event_type?resourceVersion=id%3A3075"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0c4d83d6-ff34-48a4-9c2e-21670c8a4205/relationships/field_event_type?resourceVersion=id%3A3075"
+        }
+      }
+    }
+  }
+}

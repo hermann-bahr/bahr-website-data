@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "0fd139fb-bb31-4abf-b758-aa2a0813419f",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/0fd139fb-bb31-4abf-b758-aa2a0813419f?resourceVersion=id%3A2732"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/0fd139fb-bb31-4abf-b758-aa2a0813419f?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38946,
+    "drupal_internal__vid": 2732,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "AS HvH Salten B-H",
+    "created": "2011-03-15T17:16:21+00:00",
+    "changed": "2011-11-03T10:54:58+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38946",
+      "pid": 686,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "16.2.1892:<blockquote>Vorm. Besprechung mit Bauer, Bahr, Loris, Salten, B.-H.-</blockquote>\r\nAlso: Arthur Schnitzler, Julius Bauer, Hugo von Hofmannsthal, Felix Salten, Richard Beer-Hofmann.\r\n",
+      "format": "full_html",
+      "processed": "16.2.1892:<blockquote>Vorm. Besprechung mit Bauer, Bahr, Loris, Salten, B.-H.-</blockquote>\nAlso: Arthur Schnitzler, Julius Bauer, Hugo von Hofmannsthal, Felix Salten, Richard Beer-Hofmann.\n",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1892-02-16",
+      "end_value": "1892-02-16"
+    },
+    "field_sources": [
+      "Schnitzler: Tagebuch, I, 365."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0fd139fb-bb31-4abf-b758-aa2a0813419f/node_type?resourceVersion=id%3A2732"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0fd139fb-bb31-4abf-b758-aa2a0813419f/relationships/node_type?resourceVersion=id%3A2732"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0fd139fb-bb31-4abf-b758-aa2a0813419f/revision_uid?resourceVersion=id%3A2732"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0fd139fb-bb31-4abf-b758-aa2a0813419f/relationships/revision_uid?resourceVersion=id%3A2732"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0fd139fb-bb31-4abf-b758-aa2a0813419f/uid?resourceVersion=id%3A2732"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0fd139fb-bb31-4abf-b758-aa2a0813419f/relationships/uid?resourceVersion=id%3A2732"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0fd139fb-bb31-4abf-b758-aa2a0813419f/field_event_type?resourceVersion=id%3A2732"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0fd139fb-bb31-4abf-b758-aa2a0813419f/relationships/field_event_type?resourceVersion=id%3A2732"
+        }
+      }
+    }
+  }
+}

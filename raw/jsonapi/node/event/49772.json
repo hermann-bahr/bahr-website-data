@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "a48a8b2e-8b57-4e80-8df8-4c085fc39b27",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/a48a8b2e-8b57-4e80-8df8-4c085fc39b27?resourceVersion=id%3A3543"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/a48a8b2e-8b57-4e80-8df8-4c085fc39b27?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49772,
+    "drupal_internal__vid": 3543,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Idee für \"Himmelfahrt\"",
+    "created": "2012-01-12T14:36:14+00:00",
+    "changed": "2012-01-12T14:36:14+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49772",
+      "pid": 1584,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Wie schon die Idee für sein Lustspiel \"Konzert\", so will Bahr die Idee für seinen Roman \"Himmelfahrt\" ebenfalls in einem März - 1914 - bekommen haben.",
+      "format": "full_html",
+      "processed": "Wie schon die Idee für sein Lustspiel \"Konzert\", so will Bahr die Idee für seinen Roman \"Himmelfahrt\" ebenfalls in einem März - 1914 - bekommen haben.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1914-03-01",
+      "end_value": "1914-03-01"
+    },
+    "field_sources": [
+      "Liebe der Lebenden, II, 63. (2.3.1922)",
+      "(Hier 1.3.1914)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a48a8b2e-8b57-4e80-8df8-4c085fc39b27/node_type?resourceVersion=id%3A3543"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a48a8b2e-8b57-4e80-8df8-4c085fc39b27/relationships/node_type?resourceVersion=id%3A3543"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a48a8b2e-8b57-4e80-8df8-4c085fc39b27/revision_uid?resourceVersion=id%3A3543"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a48a8b2e-8b57-4e80-8df8-4c085fc39b27/relationships/revision_uid?resourceVersion=id%3A3543"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a48a8b2e-8b57-4e80-8df8-4c085fc39b27/uid?resourceVersion=id%3A3543"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a48a8b2e-8b57-4e80-8df8-4c085fc39b27/relationships/uid?resourceVersion=id%3A3543"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a48a8b2e-8b57-4e80-8df8-4c085fc39b27/field_event_type?resourceVersion=id%3A3543"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a48a8b2e-8b57-4e80-8df8-4c085fc39b27/relationships/field_event_type?resourceVersion=id%3A3543"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "type": "node--event",
+  "id": "f3dd21ea-4f41-448b-a5c8-321c68b75ff3",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f3dd21ea-4f41-448b-a5c8-321c68b75ff3?resourceVersion=id%3A3470"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f3dd21ea-4f41-448b-a5c8-321c68b75ff3?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49688,
+    "drupal_internal__vid": 3470,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "JR",
+    "created": "2011-11-28T11:01:21+00:00",
+    "changed": "2011-11-28T11:06:49+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49688",
+      "pid": 1503,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Begegnungen Bahrs mit Josef Redlich im September 1918:\r\nDas erste Treffen Redlichs mit Bahr nach dessen \"Dienstantritt\" am Burgtheater findet am 5. September 1918 statt. Bahr ist darüber informiert, dass Seipel und Lammasch an einer Verfassung arbeiten.[1]\r\n8. September 1918, bei Redlich. [2]\r\n15. September, mit Hans Redlich bei Schnitzler [3]\r\n21. September, beide bei Alfred von Nostitz-Wallwitz [4]\r\n22. September, bei Redlich, mit Pater Augustin Galen [5]\r\n25. September, Redlich (kurz) bei Bahr [6]\r\n29. September, Redlich bei Bahr [7]\r\n",
+      "format": "full_html",
+      "processed": "Begegnungen Bahrs mit Josef Redlich im September 1918:\nDas erste Treffen Redlichs mit Bahr nach dessen \"Dienstantritt\" am Burgtheater findet am 5. September 1918 statt. Bahr ist darüber informiert, dass Seipel und Lammasch an einer Verfassung arbeiten.[1]\n8. September 1918, bei Redlich. [2]\n15. September, mit Hans Redlich bei Schnitzler [3]\n21. September, beide bei Alfred von Nostitz-Wallwitz [4]\n22. September, bei Redlich, mit Pater Augustin Galen [5]\n25. September, Redlich (kurz) bei Bahr [6]\n29. September, Redlich bei Bahr [7]\n",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1918-09-05",
+      "end_value": "1918-09-29"
+    },
+    "field_sources": [
+      "[1] Fritz Fellner und Doris A. Corradini (Hgg.): Schicksalsjahre Österreichs. Die Erinnerungen und Tagebücher Josef Redlichs 1869–1936. Wien: Böhlau 2011, II, 430.",
+      "[6] Ebd., II, 435.",
+      "[7] Ebd, II, 436.",
+      "[5] Ebd., II, 434.",
+      "[2] Ebd., II, 431.",
+      "[3] Ebd., II, 431.",
+      "[4] Ebd., II, 433."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f3dd21ea-4f41-448b-a5c8-321c68b75ff3/node_type?resourceVersion=id%3A3470"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f3dd21ea-4f41-448b-a5c8-321c68b75ff3/relationships/node_type?resourceVersion=id%3A3470"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f3dd21ea-4f41-448b-a5c8-321c68b75ff3/revision_uid?resourceVersion=id%3A3470"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f3dd21ea-4f41-448b-a5c8-321c68b75ff3/relationships/revision_uid?resourceVersion=id%3A3470"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f3dd21ea-4f41-448b-a5c8-321c68b75ff3/uid?resourceVersion=id%3A3470"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f3dd21ea-4f41-448b-a5c8-321c68b75ff3/relationships/uid?resourceVersion=id%3A3470"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f3dd21ea-4f41-448b-a5c8-321c68b75ff3/field_event_type?resourceVersion=id%3A3470"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f3dd21ea-4f41-448b-a5c8-321c68b75ff3/relationships/field_event_type?resourceVersion=id%3A3470"
+        }
+      }
+    }
+  }
+}

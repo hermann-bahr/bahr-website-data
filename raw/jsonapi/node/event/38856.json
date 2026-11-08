@@ -1,0 +1,114 @@
+{
+  "type": "node--event",
+  "id": "16c90200-f8dc-42a1-ae5e-1917869aeffe",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/16c90200-f8dc-42a1-ae5e-1917869aeffe?resourceVersion=id%3A2672"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/16c90200-f8dc-42a1-ae5e-1917869aeffe?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38856,
+    "drupal_internal__vid": 2672,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Maximilianstr. 4",
+    "created": "2011-02-15T16:59:50+00:00",
+    "changed": "2011-02-15T16:59:50+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38856",
+      "pid": 600,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Das Münchner Stadtadressbuch führt für 1922 (=Mitte 1921) Anna Bahr-Mildenburg an der Adresse Maximilianstr. 4, also direkt neben der Staatsoper. Hier dürfte also auch Bahr abgestiegen sein, wenn er aus Salzburg zu Besuch kam.",
+      "format": "full_html",
+      "processed": "Das Münchner Stadtadressbuch führt für 1922 (=Mitte 1921) Anna Bahr-Mildenburg an der Adresse Maximilianstr. 4, also direkt neben der Staatsoper. Hier dürfte also auch Bahr abgestiegen sein, wenn er aus Salzburg zu Besuch kam.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1921-07-01",
+      "end_value": "1921-07-01"
+    },
+    "field_sources": []
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/16c90200-f8dc-42a1-ae5e-1917869aeffe/node_type?resourceVersion=id%3A2672"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/16c90200-f8dc-42a1-ae5e-1917869aeffe/relationships/node_type?resourceVersion=id%3A2672"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/16c90200-f8dc-42a1-ae5e-1917869aeffe/revision_uid?resourceVersion=id%3A2672"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/16c90200-f8dc-42a1-ae5e-1917869aeffe/relationships/revision_uid?resourceVersion=id%3A2672"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/16c90200-f8dc-42a1-ae5e-1917869aeffe/uid?resourceVersion=id%3A2672"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/16c90200-f8dc-42a1-ae5e-1917869aeffe/relationships/uid?resourceVersion=id%3A2672"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/16c90200-f8dc-42a1-ae5e-1917869aeffe/field_event_type?resourceVersion=id%3A2672"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/16c90200-f8dc-42a1-ae5e-1917869aeffe/relationships/field_event_type?resourceVersion=id%3A2672"
+        }
+      }
+    }
+  }
+}

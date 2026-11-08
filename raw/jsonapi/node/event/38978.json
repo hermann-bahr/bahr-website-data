@@ -1,0 +1,114 @@
+{
+  "type": "node--event",
+  "id": "900d501e-c4d3-43d3-823b-ce3c9e726a6e",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/900d501e-c4d3-43d3-823b-ce3c9e726a6e?resourceVersion=id%3A2761"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/900d501e-c4d3-43d3-823b-ce3c9e726a6e?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38978,
+    "drupal_internal__vid": 2761,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Karlsbad, Liebschaft",
+    "created": "2011-03-17T10:15:23+00:00",
+    "changed": "2011-03-18T13:17:26+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38978",
+      "pid": 715,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Im Nachlass (ZMBa30) findet sich ein Postkartenbuch von Römmler & Jonas mit Fotografien aus Karlsbad. Diese sind rückseitig von Bahr beschriftet:<blockquote>[2326 Etablissement Pupp] Hier zum ersten Male hatt' ich sie gesehen.<br>[Eingelegte Karte, Theater Karlsbad] Hier mit ihr zum ersten Male gesprochen<br>[2338 Giesshübel – Puchstein] Auf dieser Brücke hatte ich den schönsten Augenblick des Lebens mit dem schönsten Mädchen der Welt. Die Freundschaft mit einer schönen Frau ist noch das beste Geschenk der Zeit. Carlsbad. Sep. 1. 1891.<br>[Hinteres Vorsatzblatt] Zur Erinnerung schöner Tage</blockquote> Das Treffen dürfte also während Bahrs Waffenübung erfolgt sein.",
+      "format": "full_html",
+      "processed": "Im Nachlass (ZMBa30) findet sich ein Postkartenbuch von Römmler &amp; Jonas mit Fotografien aus Karlsbad. Diese sind rückseitig von Bahr beschriftet:<blockquote>[2326 Etablissement Pupp] Hier zum ersten Male hatt' ich sie gesehen.<br>[Eingelegte Karte, Theater Karlsbad] Hier mit ihr zum ersten Male gesprochen<br>[2338 Giesshübel – Puchstein] Auf dieser Brücke hatte ich den schönsten Augenblick des Lebens mit dem schönsten Mädchen der Welt. Die Freundschaft mit einer schönen Frau ist noch das beste Geschenk der Zeit. Carlsbad. Sep. 1. 1891.<br>[Hinteres Vorsatzblatt] Zur Erinnerung schöner Tage</blockquote> Das Treffen dürfte also während Bahrs Waffenübung erfolgt sein.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1891-09-01",
+      "end_value": "1891-09-01"
+    },
+    "field_sources": []
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/900d501e-c4d3-43d3-823b-ce3c9e726a6e/node_type?resourceVersion=id%3A2761"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/900d501e-c4d3-43d3-823b-ce3c9e726a6e/relationships/node_type?resourceVersion=id%3A2761"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/900d501e-c4d3-43d3-823b-ce3c9e726a6e/revision_uid?resourceVersion=id%3A2761"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/900d501e-c4d3-43d3-823b-ce3c9e726a6e/relationships/revision_uid?resourceVersion=id%3A2761"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/900d501e-c4d3-43d3-823b-ce3c9e726a6e/uid?resourceVersion=id%3A2761"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/900d501e-c4d3-43d3-823b-ce3c9e726a6e/relationships/uid?resourceVersion=id%3A2761"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/900d501e-c4d3-43d3-823b-ce3c9e726a6e/field_event_type?resourceVersion=id%3A2761"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/900d501e-c4d3-43d3-823b-ce3c9e726a6e/relationships/field_event_type?resourceVersion=id%3A2761"
+        }
+      }
+    }
+  }
+}

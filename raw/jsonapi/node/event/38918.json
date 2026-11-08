@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "f13d6d31-4e95-483a-a1a1-abd1580ef467",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f13d6d31-4e95-483a-a1a1-abd1580ef467?resourceVersion=id%3A2706"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f13d6d31-4e95-483a-a1a1-abd1580ef467?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38918,
+    "drupal_internal__vid": 2706,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Freiburg",
+    "created": "2011-03-09T12:32:57+00:00",
+    "changed": "2011-12-13T09:57:47+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38918",
+      "pid": 660,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 22. November 1912 spricht Bahr in Freiburg vor der \"Freiburger freien Studentenschaft\" im Kornhaussaal über Bayreuth.",
+      "format": "full_html",
+      "processed": "Am 22. November 1912 spricht Bahr in Freiburg vor der \"Freiburger freien Studentenschaft\" im Kornhaussaal über Bayreuth.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1912-11-22",
+      "end_value": "1912-11-22"
+    },
+    "field_sources": [
+      "Freiburger Zeitung, 129 (1912) #320, 1. Morgenblatt, 2. (22.11.1912)",
+      "Wienbibliothek, H.I.N. 85449, Freiburg, 22.11.1912, an Frau Alexander"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f13d6d31-4e95-483a-a1a1-abd1580ef467/node_type?resourceVersion=id%3A2706"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f13d6d31-4e95-483a-a1a1-abd1580ef467/relationships/node_type?resourceVersion=id%3A2706"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f13d6d31-4e95-483a-a1a1-abd1580ef467/revision_uid?resourceVersion=id%3A2706"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f13d6d31-4e95-483a-a1a1-abd1580ef467/relationships/revision_uid?resourceVersion=id%3A2706"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f13d6d31-4e95-483a-a1a1-abd1580ef467/uid?resourceVersion=id%3A2706"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f13d6d31-4e95-483a-a1a1-abd1580ef467/relationships/uid?resourceVersion=id%3A2706"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f13d6d31-4e95-483a-a1a1-abd1580ef467/field_event_type?resourceVersion=id%3A2706"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f13d6d31-4e95-483a-a1a1-abd1580ef467/relationships/field_event_type?resourceVersion=id%3A2706"
+        }
+      }
+    }
+  }
+}

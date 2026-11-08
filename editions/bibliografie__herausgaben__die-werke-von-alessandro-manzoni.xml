@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bibliografie__herausgaben__die-werke-von-alessandro-manzoni" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Die Werke von Alessandro Manzoni</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">44022</idno>
+        <idno type="drupal-alias">/bibliografie/44022</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bibliografie/44022">https://bahr.univie.ac.at/bibliografie/44022</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+        <bibl type="beschriebene-ausgabe">
+          <note type="hg">Hermann Bahr und Ernst Kamnitzer</note>
+          <note>München: Theatiner-Verlag 1923</note>
+          <note>Von den geplanten 10 Bänden sind nur die Bände 3 - 6 erschienen. Von diesen gibt es jeweils eine numerierte Vorzugsausgabe auf Bütten von 250 Exemplaren. Band 3: Die Verlobten. IEine mailändische Geschichte aus dem 17. Jahrhundert. Ins Deutsche übertragen von Johanna Schuchter.460 Seiten Band 4: Die Verlobten. IIEine mailändische Geschichte aus dem 17. Jahrhundert. Ins Deutsche übertragen von Johanna Schuchter.465 Seiten Band 5: Schriften zur Philosophie und ÄsthetikIns Deutsche übertragen von Franz Arens. 614 Seiten Band 6: Betrachtungen über die katholische MoralIns Deutsche übertragen von Franz Arens. 544 Seiten</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="1" key="bibliografie">Bibliografie</term>
+          <term n="7" key="herausgaben">Herausgaben</term>
+          <term n="2" key="die-werke-von-alessandro-manzoni" type="eintrag">Die Werke von Alessandro Manzoni</term>
+        </keywords>
+        <classCode scheme="drupal-type">bibliographie</classCode>
+        <keywords scheme="bibliografie_type">
+          <term>Herausgaben</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2011-07-21T10:09:20+00:00" type="created">angelegt in Drupal</change>
+      <change when="2012-11-29T16:21:19+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head>Bibliografie</head>
+        <table type="bibliografie">
+          <row>
+            <cell>Hg:</cell>
+            <cell>Hermann Bahr und Ernst Kamnitzer</cell>
+          </row>
+          <row>
+            <cell> </cell>
+            <cell>München: Theatiner-Verlag 1923</cell>
+          </row>
+          <row>
+            <cell>Anm.:</cell>
+            <cell><hi rend="italic"> Von den geplanten 10 Bänden sind nur die Bände 3 - 6 erschienen. Von diesen gibt es jeweils eine numerierte Vorzugsausgabe auf Bütten von 250 Exemplaren.</hi><lb/> <list type="gloss"><label>Band 3: Die Verlobten. I</label><item>Eine mailändische Geschichte aus dem 17. Jahrhundert. Ins Deutsche übertragen von Johanna Schuchter.<lb/>460 Seiten</item><label>Band 4: Die Verlobten. II</label><item>Eine mailändische Geschichte aus dem 17. Jahrhundert. Ins Deutsche übertragen von Johanna Schuchter.<lb/>465 Seiten</item><label>Band 5: Schriften zur Philosophie und Ästhetik</label><item>Ins Deutsche übertragen von Franz Arens. 614 Seiten</item><label>Band 6: Betrachtungen über die katholische Moral</label><item>Ins Deutsche übertragen von Franz Arens. 544 Seiten</item></list></cell>
+          </row>
+        </table>
+      </div>
+    </body>
+  </text>
+</TEI>

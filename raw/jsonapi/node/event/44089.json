@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "4d79006b-40fb-47f6-822e-825ea70231be",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/4d79006b-40fb-47f6-822e-825ea70231be?resourceVersion=id%3A3006"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/4d79006b-40fb-47f6-822e-825ea70231be?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44089,
+    "drupal_internal__vid": 3006,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Ethel Smyth, John Singer-Sargent",
+    "created": "2011-09-08T10:42:44+00:00",
+    "changed": "2012-01-26T15:18:12+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44089",
+      "pid": 984,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Auf 8. März 1910  fällt die erste Begegnung Bahrs mit Ethel Smyth, die ihm durch seine Frau vorgestellt wird. Es kommt zu einem Abendessen im Hotel, bei dem neun Gänge serviert wurden und auch der Maler John Singer-Sargent anwesend ist. Weitere Treffen in Folge.",
+      "format": "full_html",
+      "processed": "Auf 8. März 1910  fällt die erste Begegnung Bahrs mit Ethel Smyth, die ihm durch seine Frau vorgestellt wird. Es kommt zu einem Abendessen im Hotel, bei dem neun Gänge serviert wurden und auch der Maler John Singer-Sargent anwesend ist. Weitere Treffen in Folge.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1910-03-08",
+      "end_value": "1910-03-08"
+    },
+    "field_sources": [
+      "Gabriele Parizek: Anna Bahr-Mildenburg [Dissertation], 66 zitiert die Diplomarbeit: Eva Hochrathner: Ethel Smyth (1858-1944). Die Beziehungen der Komponistin zu Wien. Im Spiegel ihres Briefwechsels mit Anna Bahr-Mildenburg und Hermann Bahr. 2001, 77 und Anna Bahr-Mildenburg: Erinnerungen, 159ff.",
+      "Hermann Bahr: Aufzeichnungen 1909-1911. Ausgabe in Vorbereitung von Kurt Ifkovits\r\n"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4d79006b-40fb-47f6-822e-825ea70231be/node_type?resourceVersion=id%3A3006"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4d79006b-40fb-47f6-822e-825ea70231be/relationships/node_type?resourceVersion=id%3A3006"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4d79006b-40fb-47f6-822e-825ea70231be/revision_uid?resourceVersion=id%3A3006"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4d79006b-40fb-47f6-822e-825ea70231be/relationships/revision_uid?resourceVersion=id%3A3006"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4d79006b-40fb-47f6-822e-825ea70231be/uid?resourceVersion=id%3A3006"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4d79006b-40fb-47f6-822e-825ea70231be/relationships/uid?resourceVersion=id%3A3006"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4d79006b-40fb-47f6-822e-825ea70231be/field_event_type?resourceVersion=id%3A3006"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4d79006b-40fb-47f6-822e-825ea70231be/relationships/field_event_type?resourceVersion=id%3A3006"
+        }
+      }
+    }
+  }
+}

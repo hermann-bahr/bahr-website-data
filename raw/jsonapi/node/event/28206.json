@@ -1,0 +1,114 @@
+{
+  "type": "node--event",
+  "id": "185f59e2-a117-40f8-a4c8-c7f232ad4366",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/185f59e2-a117-40f8-a4c8-c7f232ad4366?resourceVersion=id%3A2511"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/185f59e2-a117-40f8-a4c8-c7f232ad4366?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28206,
+    "drupal_internal__vid": 2511,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Pan",
+    "created": "2010-10-09T10:43:15+00:00",
+    "changed": "2010-10-09T11:03:42+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28206",
+      "pid": 349,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "In der Nummer 10 des \"Pan\", das am 16.3.1911 erscheint, veröffentlicht Bahr ein einziges \"Tagebuch\".",
+      "format": "full_html",
+      "processed": "In der Nummer 10 des \"Pan\", das am 16.3.1911 erscheint, veröffentlicht Bahr ein einziges \"Tagebuch\".",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1911-03-16",
+      "end_value": "1911-03-16"
+    },
+    "field_sources": []
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/185f59e2-a117-40f8-a4c8-c7f232ad4366/node_type?resourceVersion=id%3A2511"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/185f59e2-a117-40f8-a4c8-c7f232ad4366/relationships/node_type?resourceVersion=id%3A2511"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/185f59e2-a117-40f8-a4c8-c7f232ad4366/revision_uid?resourceVersion=id%3A2511"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/185f59e2-a117-40f8-a4c8-c7f232ad4366/relationships/revision_uid?resourceVersion=id%3A2511"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/185f59e2-a117-40f8-a4c8-c7f232ad4366/uid?resourceVersion=id%3A2511"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/185f59e2-a117-40f8-a4c8-c7f232ad4366/relationships/uid?resourceVersion=id%3A2511"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "b7b074bd-6489-4a96-84e9-9c8184cda171",
+          "meta": {
+            "drupal_internal__target_id": 7
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/185f59e2-a117-40f8-a4c8-c7f232ad4366/field_event_type?resourceVersion=id%3A2511"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/185f59e2-a117-40f8-a4c8-c7f232ad4366/relationships/field_event_type?resourceVersion=id%3A2511"
+        }
+      }
+    }
+  }
+}

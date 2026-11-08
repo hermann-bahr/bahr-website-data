@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "3cc604f8-f2ec-40be-91c8-589e73d6c1cf",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/3cc604f8-f2ec-40be-91c8-589e73d6c1cf?resourceVersion=id%3A2416"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/3cc604f8-f2ec-40be-91c8-589e73d6c1cf?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28090,
+    "drupal_internal__vid": 2416,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Altweibersommer",
+    "created": "2010-08-09T11:15:37+00:00",
+    "changed": "2011-10-28T14:09:31+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28090",
+      "pid": 250,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Im November 1924 erscheint Bahrs vorletzte Stück, \"Altweibersommer\" in der Neuen Freien Presse als Vorabdruck. Am 21. Jänner 1925 findet die Première im Akademietheater in Wien statt. Buchausgabe gibt es keine, bloß einen Manuskriptdruck bei Ahn & Simrock.",
+      "format": "full_html",
+      "processed": "Im November 1924 erscheint Bahrs vorletzte Stück, \"Altweibersommer\" in der Neuen Freien Presse als Vorabdruck. Am 21. Jänner 1925 findet die Première im Akademietheater in Wien statt. Buchausgabe gibt es keine, bloß einen Manuskriptdruck bei Ahn &amp; Simrock.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1925-01-21",
+      "end_value": "1925-01-21"
+    },
+    "field_sources": [
+      "Hermann Bahr: Altweibersommer. Ein Liebesschwank in drei Aufzügen. Berlin: Ahn & Simrock, 1924."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3cc604f8-f2ec-40be-91c8-589e73d6c1cf/node_type?resourceVersion=id%3A2416"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3cc604f8-f2ec-40be-91c8-589e73d6c1cf/relationships/node_type?resourceVersion=id%3A2416"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3cc604f8-f2ec-40be-91c8-589e73d6c1cf/revision_uid?resourceVersion=id%3A2416"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3cc604f8-f2ec-40be-91c8-589e73d6c1cf/relationships/revision_uid?resourceVersion=id%3A2416"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3cc604f8-f2ec-40be-91c8-589e73d6c1cf/uid?resourceVersion=id%3A2416"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3cc604f8-f2ec-40be-91c8-589e73d6c1cf/relationships/uid?resourceVersion=id%3A2416"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "27f3d2a4-8970-4726-9ab8-ce37707ec1bc",
+          "meta": {
+            "drupal_internal__target_id": 1
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3cc604f8-f2ec-40be-91c8-589e73d6c1cf/field_event_type?resourceVersion=id%3A2416"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3cc604f8-f2ec-40be-91c8-589e73d6c1cf/relationships/field_event_type?resourceVersion=id%3A2416"
+        }
+      }
+    }
+  }
+}

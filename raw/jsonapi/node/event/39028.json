@@ -1,0 +1,114 @@
+{
+  "type": "node--event",
+  "id": "5d5978c3-31cb-4bdc-9145-da1b5856b59e",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/5d5978c3-31cb-4bdc-9145-da1b5856b59e?resourceVersion=id%3A2805"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/5d5978c3-31cb-4bdc-9145-da1b5856b59e?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39028,
+    "drupal_internal__vid": 2805,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Berliner Tageblatt",
+    "created": "2011-04-06T15:31:48+00:00",
+    "changed": "2011-04-06T15:31:48+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39028",
+      "pid": 761,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Als am 1. Jänner 1908 Bahrs Text zu Josef Kainz fünfzigstem Geburtstag im \"Berliner Tageblatt\" erschien, war das nicht der erste Text, der in dem deutschen Blatt erschien. Es war aber trotzdem erst der Beginn einer engeren Zusammenarbeit, die bis 1932 zu über 60 Texten führte, die er beim ersten Zeitungskonzern Deutschlands unterbrachte. ",
+      "format": "full_html",
+      "processed": "Als am 1. Jänner 1908 Bahrs Text zu Josef Kainz fünfzigstem Geburtstag im \"Berliner Tageblatt\" erschien, war das nicht der erste Text, der in dem deutschen Blatt erschien. Es war aber trotzdem erst der Beginn einer engeren Zusammenarbeit, die bis 1932 zu über 60 Texten führte, die er beim ersten Zeitungskonzern Deutschlands unterbrachte. ",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1908-01-01",
+      "end_value": "1908-01-01"
+    },
+    "field_sources": []
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5d5978c3-31cb-4bdc-9145-da1b5856b59e/node_type?resourceVersion=id%3A2805"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5d5978c3-31cb-4bdc-9145-da1b5856b59e/relationships/node_type?resourceVersion=id%3A2805"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5d5978c3-31cb-4bdc-9145-da1b5856b59e/revision_uid?resourceVersion=id%3A2805"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5d5978c3-31cb-4bdc-9145-da1b5856b59e/relationships/revision_uid?resourceVersion=id%3A2805"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5d5978c3-31cb-4bdc-9145-da1b5856b59e/uid?resourceVersion=id%3A2805"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5d5978c3-31cb-4bdc-9145-da1b5856b59e/relationships/uid?resourceVersion=id%3A2805"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "d579e54c-64dd-4193-a9ef-da87efb3ed16",
+          "meta": {
+            "drupal_internal__target_id": 8
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5d5978c3-31cb-4bdc-9145-da1b5856b59e/field_event_type?resourceVersion=id%3A2805"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5d5978c3-31cb-4bdc-9145-da1b5856b59e/relationships/field_event_type?resourceVersion=id%3A2805"
+        }
+      }
+    }
+  }
+}

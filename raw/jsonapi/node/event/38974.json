@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "aeb8877e-1766-4cac-b2c9-bce8cc2b9a70",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/aeb8877e-1766-4cac-b2c9-bce8cc2b9a70?resourceVersion=id%3A2757"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/aeb8877e-1766-4cac-b2c9-bce8cc2b9a70?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38974,
+    "drupal_internal__vid": 2757,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Salzburg",
+    "created": "2011-03-16T15:34:41+00:00",
+    "changed": "2012-08-08T12:39:28+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38974",
+      "pid": 711,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 27. März 1909 spricht Bahr in Salzburg über seine Matura-Rede, die 1880erjahre, Jung-Wien und Österreich. Dann liest er den dritten Akt seines \"Franzl\" und die Novelle \"Erinnerung\".",
+      "format": "full_html",
+      "processed": "Am 27. März 1909 spricht Bahr in Salzburg über seine Matura-Rede, die 1880erjahre, Jung-Wien und Österreich. Dann liest er den dritten Akt seines \"Franzl\" und die Novelle \"Erinnerung\".",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1909-03-27",
+      "end_value": "1909-03-27"
+    },
+    "field_sources": [
+      "Eckardt, Johannes: Hermann Bahr in Salzburg. Salzburger Chronik, 45 (1909) #70, 1-3. (29.3.1909)",
+      "Salzburger Volksblatt, #68, 29.3.1909"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/aeb8877e-1766-4cac-b2c9-bce8cc2b9a70/node_type?resourceVersion=id%3A2757"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/aeb8877e-1766-4cac-b2c9-bce8cc2b9a70/relationships/node_type?resourceVersion=id%3A2757"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/aeb8877e-1766-4cac-b2c9-bce8cc2b9a70/revision_uid?resourceVersion=id%3A2757"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/aeb8877e-1766-4cac-b2c9-bce8cc2b9a70/relationships/revision_uid?resourceVersion=id%3A2757"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/aeb8877e-1766-4cac-b2c9-bce8cc2b9a70/uid?resourceVersion=id%3A2757"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/aeb8877e-1766-4cac-b2c9-bce8cc2b9a70/relationships/uid?resourceVersion=id%3A2757"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/aeb8877e-1766-4cac-b2c9-bce8cc2b9a70/field_event_type?resourceVersion=id%3A2757"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/aeb8877e-1766-4cac-b2c9-bce8cc2b9a70/relationships/field_event_type?resourceVersion=id%3A2757"
+        }
+      }
+    }
+  }
+}

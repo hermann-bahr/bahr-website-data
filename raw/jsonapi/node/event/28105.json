@@ -1,0 +1,114 @@
+{
+  "type": "node--event",
+  "id": "cc4d9a49-8f92-4669-a683-4e69d891a024",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/cc4d9a49-8f92-4669-a683-4e69d891a024?resourceVersion=id%3A2428"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/cc4d9a49-8f92-4669-a683-4e69d891a024?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28105,
+    "drupal_internal__vid": 2428,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Mildenburg",
+    "created": "2010-08-11T19:52:22+00:00",
+    "changed": "2010-08-11T19:52:22+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28105",
+      "pid": 263,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 29. März 1907 Treffen mit Anna Mildenburg in Salzburg",
+      "format": "full_html",
+      "processed": "Am 29. März 1907 Treffen mit Anna Mildenburg in Salzburg",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1907-03-29",
+      "end_value": "1907-03-29"
+    },
+    "field_sources": []
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cc4d9a49-8f92-4669-a683-4e69d891a024/node_type?resourceVersion=id%3A2428"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cc4d9a49-8f92-4669-a683-4e69d891a024/relationships/node_type?resourceVersion=id%3A2428"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cc4d9a49-8f92-4669-a683-4e69d891a024/revision_uid?resourceVersion=id%3A2428"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cc4d9a49-8f92-4669-a683-4e69d891a024/relationships/revision_uid?resourceVersion=id%3A2428"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cc4d9a49-8f92-4669-a683-4e69d891a024/uid?resourceVersion=id%3A2428"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cc4d9a49-8f92-4669-a683-4e69d891a024/relationships/uid?resourceVersion=id%3A2428"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cc4d9a49-8f92-4669-a683-4e69d891a024/field_event_type?resourceVersion=id%3A2428"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cc4d9a49-8f92-4669-a683-4e69d891a024/relationships/field_event_type?resourceVersion=id%3A2428"
+        }
+      }
+    }
+  }
+}

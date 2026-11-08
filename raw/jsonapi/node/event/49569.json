@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "ef8cb966-800c-49e7-a385-cc72ba3d9d9b",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/ef8cb966-800c-49e7-a385-cc72ba3d9d9b?resourceVersion=id%3A3402"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/ef8cb966-800c-49e7-a385-cc72ba3d9d9b?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49569,
+    "drupal_internal__vid": 3402,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "JR",
+    "created": "2011-11-03T10:41:51+00:00",
+    "changed": "2011-11-03T10:41:51+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49569",
+      "pid": 1386,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "In einem Brief an Anna Bahr-Mildenburg nach Bahrs Tod erinnert sich Josef Redlich an den Beginn der Freundschaft. Gesehen hat er ihn zum ersten Mal 1889 im Café Griensteidl, die Bekanntschaft ist, von 1934 aus gesehen, über 40 Jahre alt und machte die beiden \"alsbald zu treuesten Freunden\".  Bahr gegenüber ging Redlich öfter auf die Wirkung ein, die im Sommer 1888 die Entdeckung von Bahrs \"Schäffle\"-Schrift in einer Buchhandlung in Gmunden auf ihn gemacht hat. ",
+      "format": "full_html",
+      "processed": "In einem Brief an Anna Bahr-Mildenburg nach Bahrs Tod erinnert sich Josef Redlich an den Beginn der Freundschaft. Gesehen hat er ihn zum ersten Mal 1889 im Café Griensteidl, die Bekanntschaft ist, von 1934 aus gesehen, über 40 Jahre alt und machte die beiden \"alsbald zu treuesten Freunden\".  Bahr gegenüber ging Redlich öfter auf die Wirkung ein, die im Sommer 1888 die Entdeckung von Bahrs \"Schäffle\"-Schrift in einer Buchhandlung in Gmunden auf ihn gemacht hat. ",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1893-01-01",
+      "end_value": "1893-01-01"
+    },
+    "field_sources": [
+      "Bahr/Redlich, 572 (An Anna BM, 27.2.1934) und 558 (An HB, 9.3.1927).",
+      "(Hier auf 1.1.1893 datiert)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ef8cb966-800c-49e7-a385-cc72ba3d9d9b/node_type?resourceVersion=id%3A3402"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ef8cb966-800c-49e7-a385-cc72ba3d9d9b/relationships/node_type?resourceVersion=id%3A3402"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ef8cb966-800c-49e7-a385-cc72ba3d9d9b/revision_uid?resourceVersion=id%3A3402"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ef8cb966-800c-49e7-a385-cc72ba3d9d9b/relationships/revision_uid?resourceVersion=id%3A3402"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ef8cb966-800c-49e7-a385-cc72ba3d9d9b/uid?resourceVersion=id%3A3402"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ef8cb966-800c-49e7-a385-cc72ba3d9d9b/relationships/uid?resourceVersion=id%3A3402"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ef8cb966-800c-49e7-a385-cc72ba3d9d9b/field_event_type?resourceVersion=id%3A3402"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ef8cb966-800c-49e7-a385-cc72ba3d9d9b/relationships/field_event_type?resourceVersion=id%3A3402"
+        }
+      }
+    }
+  }
+}

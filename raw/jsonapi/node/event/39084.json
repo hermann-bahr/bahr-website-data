@@ -1,0 +1,120 @@
+{
+  "type": "node--event",
+  "id": "3841509e-f7b4-4b3f-8542-bd0e3e5b7109",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/3841509e-f7b4-4b3f-8542-bd0e3e5b7109?resourceVersion=id%3A2858"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/3841509e-f7b4-4b3f-8542-bd0e3e5b7109?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39084,
+    "drupal_internal__vid": 2858,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Karlweis ✝",
+    "created": "2011-05-06T11:09:54+00:00",
+    "changed": "2012-07-09T16:49:37+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39084",
+      "pid": 815,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 30. Oktober 1901 schreibt er seiner Mutter über den am 27. erfolgten Tod seines Freundes Carl Karlweis:\r\n<blockquote>Ich habe eine böse Zeit hinter mir: die letzten vier Wochen vor dem Tode des armen Karlweis, den ich sehr gern gehabt habe, waren schrecklich. Er war seit einem Monate aufgegeben und ihn Tag für Tag immer elender und förmlich bei lebendigem Leibe zur Leiche werden sehen, war furchtbar. Gestern haben wir ihn begraben.</blockquote>\r\nMit Karlweis war er nicht nur privat viel zusammen, sondern hat auch gemeinsam das Volksstück \"Aus der Vorstadt\" (1893) und die Revue \"Wenn es euch gefällt\" (1899) geschrieben.",
+      "format": "full_html",
+      "processed": "Am 30. Oktober 1901 schreibt er seiner Mutter über den am 27. erfolgten Tod seines Freundes Carl Karlweis:\n<blockquote>Ich habe eine böse Zeit hinter mir: die letzten vier Wochen vor dem Tode des armen Karlweis, den ich sehr gern gehabt habe, waren schrecklich. Er war seit einem Monate aufgegeben und ihn Tag für Tag immer elender und förmlich bei lebendigem Leibe zur Leiche werden sehen, war furchtbar. Gestern haben wir ihn begraben.</blockquote>\nMit Karlweis war er nicht nur privat viel zusammen, sondern hat auch gemeinsam das Volksstück \"Aus der Vorstadt\" (1893) und die Revue \"Wenn es euch gefällt\" (1899) geschrieben.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1901-10-27",
+      "end_value": "1901-10-27"
+    },
+    "field_sources": [
+      "Hermann Bahr: Karlweis. Neues Wiener Tagblatt, 36 (1902) #295, 1-3. (26.10.1902) auch als Vorwort in: Carl Karlweis, Hg.: Wien, das bist du! Kleine Erzählungen aus dem Nachlasse. Mit Begleitworten von H. B. und Vinzenz Chiavacci.  Stuttgart: Adolf Bonz & Comp. 1903, VII-XVII.",
+      "Ed. Pötzl: Karlweis. In: Neues Wiener Tagblatt, 35 (1901) #297, 1-2. (29.10.1901)",
+      "Nachruf auf Karlweis (nicht von Bahr): Neues Wiener Tagblatt, 35 (1901) #296, 4-5. (28.10.1901) Todesanzeige ebd. S. 15.",
+      "Brief an die Mutter, 30.10.1901",
+      "Hermann Bahr: C. Karlweis. Der Tag, Berlin, (1901) #473, Morgen-Ausgabe, I. Unterhaltungsblatt, 10. (25.10.1901) "
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3841509e-f7b4-4b3f-8542-bd0e3e5b7109/node_type?resourceVersion=id%3A2858"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3841509e-f7b4-4b3f-8542-bd0e3e5b7109/relationships/node_type?resourceVersion=id%3A2858"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3841509e-f7b4-4b3f-8542-bd0e3e5b7109/revision_uid?resourceVersion=id%3A2858"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3841509e-f7b4-4b3f-8542-bd0e3e5b7109/relationships/revision_uid?resourceVersion=id%3A2858"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3841509e-f7b4-4b3f-8542-bd0e3e5b7109/uid?resourceVersion=id%3A2858"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3841509e-f7b4-4b3f-8542-bd0e3e5b7109/relationships/uid?resourceVersion=id%3A2858"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3841509e-f7b4-4b3f-8542-bd0e3e5b7109/field_event_type?resourceVersion=id%3A2858"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3841509e-f7b4-4b3f-8542-bd0e3e5b7109/relationships/field_event_type?resourceVersion=id%3A2858"
+        }
+      }
+    }
+  }
+}

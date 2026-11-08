@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "0da5c9f1-7bf4-4b0b-a5c5-d36e467c959a",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/0da5c9f1-7bf4-4b0b-a5c5-d36e467c959a?resourceVersion=id%3A2807"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/0da5c9f1-7bf4-4b0b-a5c5-d36e467c959a?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39030,
+    "drupal_internal__vid": 2807,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Berliner Börsen-Courier",
+    "created": "2011-04-06T15:40:12+00:00",
+    "changed": "2012-03-21T14:30:26+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39030",
+      "pid": 763,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Nach einigen Jahren der losen Verbundenheit, die vor allem in Nachdrucken von seinen Artikeln bestand, wurde 1922 das Verhältnis von Bahr und dem Berliner Börsen-Courier ein direktes. Er nützte das zweite Berliner Standbein neben dem Berliner Tageblatt in den folgenden Jahren für Exklusivveröffentlichungen, teilweise aber auch für Doppelverwertungen: Während die Neue Freie Presse den Text in Österreich platzierte, brachte der Börsen-Courier den Abdruck für den deutschen Markt. So erschienen bis 1926 20 Feuilletons, ein letztes im Oktober 1927.",
+      "format": "full_html",
+      "processed": "Nach einigen Jahren der losen Verbundenheit, die vor allem in Nachdrucken von seinen Artikeln bestand, wurde 1922 das Verhältnis von Bahr und dem Berliner Börsen-Courier ein direktes. Er nützte das zweite Berliner Standbein neben dem Berliner Tageblatt in den folgenden Jahren für Exklusivveröffentlichungen, teilweise aber auch für Doppelverwertungen: Während die Neue Freie Presse den Text in Österreich platzierte, brachte der Börsen-Courier den Abdruck für den deutschen Markt. So erschienen bis 1926 20 Feuilletons, ein letztes im Oktober 1927.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1922-01-15",
+      "end_value": "1922-01-15"
+    },
+    "field_sources": [
+      "Hermann Bahr: Grillparzer. Berliner Börsen-Courier, 54 (1922) #25, Morgen-Ausgabe, 1. Beilage, 5. (15.1.1922)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0da5c9f1-7bf4-4b0b-a5c5-d36e467c959a/node_type?resourceVersion=id%3A2807"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0da5c9f1-7bf4-4b0b-a5c5-d36e467c959a/relationships/node_type?resourceVersion=id%3A2807"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0da5c9f1-7bf4-4b0b-a5c5-d36e467c959a/revision_uid?resourceVersion=id%3A2807"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0da5c9f1-7bf4-4b0b-a5c5-d36e467c959a/relationships/revision_uid?resourceVersion=id%3A2807"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0da5c9f1-7bf4-4b0b-a5c5-d36e467c959a/uid?resourceVersion=id%3A2807"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0da5c9f1-7bf4-4b0b-a5c5-d36e467c959a/relationships/uid?resourceVersion=id%3A2807"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "d579e54c-64dd-4193-a9ef-da87efb3ed16",
+          "meta": {
+            "drupal_internal__target_id": 8
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0da5c9f1-7bf4-4b0b-a5c5-d36e467c959a/field_event_type?resourceVersion=id%3A2807"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0da5c9f1-7bf4-4b0b-a5c5-d36e467c959a/relationships/field_event_type?resourceVersion=id%3A2807"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="zum-personenindex" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Zum Personenindex</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">49397</idno>
+        <idno type="drupal-alias">/zum-personenindex</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/zum-personenindex">https://bahr.univie.ac.at/zum-personenindex</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="none">
+          <term>nicht im Menü</term>
+        </keywords>
+        <classCode scheme="drupal-type">page</classCode>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2011-10-18T10:32:37+00:00" type="created">angelegt in Drupal</change>
+      <change when="2011-10-18T10:32:37+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Die Aufgabe, einen Personenindex zum Werk Bahrs zu erstellen, geht über das von diesem Projekt leistbare hinaus. Trotzdem werden der Reihe nach Texte für einen solchen erfasst. Das heißt für die Benützer, dass der Index weder alle Texte enthält, noch Textvarianten berücksichtigt.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

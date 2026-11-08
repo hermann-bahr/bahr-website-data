@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "627d0241-45ab-4246-b2ff-de3c3058fbf0",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/627d0241-45ab-4246-b2ff-de3c3058fbf0?resourceVersion=id%3A3078"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/627d0241-45ab-4246-b2ff-de3c3058fbf0?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44162,
+    "drupal_internal__vid": 3078,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Einkommen",
+    "created": "2011-09-15T10:25:41+00:00",
+    "changed": "2011-09-15T10:27:25+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44162",
+      "pid": 1057,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Einem Brief an Speidel, mit dem Bahr über einen Vertrag als Oberregisseur verhandelt, fügt Bahr am 10. November 1905 eine Schilderung seines Einkommens bei.<blockquote>Mein Einkommen setzt sich zusammen aus 1) dem Erträgnisse meiner schriftstellerischen, dramatischen usw. Arbeiten und aus 2) meiner journalistischen Gage. Jenes ist variabel, beträgt in schlechten Jahren kaum über dreitausend, in guten Jahren an sechstausend Mark. Diese besteht aus meiner Gage beim Neuen Wiener Tagblatt<table>\r\n<tr><td>sammt Feuilletonhonorar</td><td>- 12 000 K</td></tr>\r\n<tr><td>meiner Gage bei der Östereich. Volkztng</td><td>- 3 600 K.</td></tr>\r\n<tr><td>meiner Gage bei der Wochenschrift Weg</td><td>- 3 600 K</td></tr>\r\n<tr><td>und macht also</td><td>- 19 200 Kronen</td></tr>\r\n</table>\r\nBemerken muss ich noch, dass mir im Neuen Wiener Tagblatt zugesichert ist, dass man mir auch im Falle von Krankheit oder Invalididät nicht kündigen wird, was also einer Pension gleichkommt.</blockquote>",
+      "format": "full_html",
+      "processed": "Einem Brief an Speidel, mit dem Bahr über einen Vertrag als Oberregisseur verhandelt, fügt Bahr am 10. November 1905 eine Schilderung seines Einkommens bei.<blockquote>Mein Einkommen setzt sich zusammen aus 1) dem Erträgnisse meiner schriftstellerischen, dramatischen usw. Arbeiten und aus 2) meiner journalistischen Gage. Jenes ist variabel, beträgt in schlechten Jahren kaum über dreitausend, in guten Jahren an sechstausend Mark. Diese besteht aus meiner Gage beim Neuen Wiener Tagblatt<table>\n<tr><td>sammt Feuilletonhonorar</td><td>- 12 000 K</td></tr>\n<tr><td>meiner Gage bei der Östereich. Volkztng</td><td>- 3 600 K.</td></tr>\n<tr><td>meiner Gage bei der Wochenschrift Weg</td><td>- 3 600 K</td></tr>\n<tr><td>und macht also</td><td>- 19 200 Kronen</td></tr>\n</table>\nBemerken muss ich noch, dass mir im Neuen Wiener Tagblatt zugesichert ist, dass man mir auch im Falle von Krankheit oder Invalididät nicht kündigen wird, was also einer Pension gleichkommt.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1905-11-10",
+      "end_value": "1905-11-10"
+    },
+    "field_sources": [
+      "Tagebücher (Csàky), IV, 436."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/627d0241-45ab-4246-b2ff-de3c3058fbf0/node_type?resourceVersion=id%3A3078"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/627d0241-45ab-4246-b2ff-de3c3058fbf0/relationships/node_type?resourceVersion=id%3A3078"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/627d0241-45ab-4246-b2ff-de3c3058fbf0/revision_uid?resourceVersion=id%3A3078"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/627d0241-45ab-4246-b2ff-de3c3058fbf0/relationships/revision_uid?resourceVersion=id%3A3078"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/627d0241-45ab-4246-b2ff-de3c3058fbf0/uid?resourceVersion=id%3A3078"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/627d0241-45ab-4246-b2ff-de3c3058fbf0/relationships/uid?resourceVersion=id%3A3078"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/627d0241-45ab-4246-b2ff-de3c3058fbf0/field_event_type?resourceVersion=id%3A3078"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/627d0241-45ab-4246-b2ff-de3c3058fbf0/relationships/field_event_type?resourceVersion=id%3A3078"
+        }
+      }
+    }
+  }
+}

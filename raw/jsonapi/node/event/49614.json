@@ -1,0 +1,119 @@
+{
+  "type": "node--event",
+  "id": "9478f138-12fd-4e31-8c8f-9a90427de744",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/9478f138-12fd-4e31-8c8f-9a90427de744?resourceVersion=id%3A3440"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/9478f138-12fd-4e31-8c8f-9a90427de744?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49614,
+    "drupal_internal__vid": 3440,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Deutsche Wochenschrift",
+    "created": "2011-11-16T15:27:28+00:00",
+    "changed": "2013-03-12T11:09:57+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49614",
+      "pid": 1430,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Von Mai bis November 1884 dauert Bahrs erste Phase der Mitarbeit an Heinrich Friedjungs \"Deutscher Wochenschrift\", die endete, als Friedjung mit Schönerer zerfiel. Die erste Einladung zur Mitarbeit dürfte er im November 1883 brieflich nach Czernowitz erhalten haben.",
+      "format": "full_html",
+      "processed": "Von Mai bis November 1884 dauert Bahrs erste Phase der Mitarbeit an Heinrich Friedjungs \"Deutscher Wochenschrift\", die endete, als Friedjung mit Schönerer zerfiel. Die erste Einladung zur Mitarbeit dürfte er im November 1883 brieflich nach Czernowitz erhalten haben.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1884-05-04",
+      "end_value": "1884-11-09"
+    },
+    "field_sources": [
+      "Hermann Bahr: Auch ein socialer Brief. Deutsche Wochenschrift, 2 (1884) #18, 10. (4.5.1884) ",
+      "Hermann Bahr: Der weibische Socialismus. Deutsche Wochenschrift, 2 (1884) #45, 5-6. (9.11.1884)",
+      "Selbstbildnis, 182",
+      "In der Abschrift falsch auf 4.V.1883 datierter Brief an den Vater, wohl 4.XI."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9478f138-12fd-4e31-8c8f-9a90427de744/node_type?resourceVersion=id%3A3440"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9478f138-12fd-4e31-8c8f-9a90427de744/relationships/node_type?resourceVersion=id%3A3440"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9478f138-12fd-4e31-8c8f-9a90427de744/revision_uid?resourceVersion=id%3A3440"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9478f138-12fd-4e31-8c8f-9a90427de744/relationships/revision_uid?resourceVersion=id%3A3440"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9478f138-12fd-4e31-8c8f-9a90427de744/uid?resourceVersion=id%3A3440"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9478f138-12fd-4e31-8c8f-9a90427de744/relationships/uid?resourceVersion=id%3A3440"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "d579e54c-64dd-4193-a9ef-da87efb3ed16",
+          "meta": {
+            "drupal_internal__target_id": 8
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9478f138-12fd-4e31-8c8f-9a90427de744/field_event_type?resourceVersion=id%3A3440"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9478f138-12fd-4e31-8c8f-9a90427de744/relationships/field_event_type?resourceVersion=id%3A3440"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bibliografie__kritische-schriften__rudigier-1917" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Rudigier (1917)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">38721</idno>
+        <idno type="drupal-alias">/bibliografie/38721</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bibliografie/38721">https://bahr.univie.ac.at/bibliografie/38721</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+        <bibl type="beschriebene-ausgabe">
+          <author>Hermann Bahr</author>
+          <title type="main">Rudigier</title>
+          <pubPlace>Kempten und München</pubPlace>
+          <publisher>Jos. Kösel</publisher>
+          <date>1917</date>
+          <extent>61</extent>
+          <note>Thomasberger datiert auf [1916], vermutlich sich an dem Abdruck im 14. Jg. (1916) im "Hochland" orientierend. Sowohl "Berliner Titeldrucke", das "Verzeichnis der von der Königlichen Bibliothek zu Berlin und den Preussischen Bibliotheken erworbenen neueren Druckschriften" (4.2.1918, A #4/5, 80 [938]) wie auch das "Deutsche Bücherverzeichnis", 1915-1920, I, 137 datieren auf [1917]. Bahr fragt Redlich am 24. Dezember 1917 brieflich, ob er das "Büchl" erhalten habe (Bahr/Redlich, 293), was den Erscheinungstermin in den Tagen vorher bestimmt.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="1" key="bibliografie">Bibliografie</term>
+          <term n="4" key="kritische-schriften">Kritische Schriften</term>
+          <term n="14" key="rudigier-1917" type="eintrag">Rudigier (1917)</term>
+        </keywords>
+        <classCode scheme="drupal-type">bibliographie</classCode>
+        <keywords scheme="bibliografie_type">
+          <term>Kritische Schriften</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2011-01-19T10:34:51+00:00" type="created">angelegt in Drupal</change>
+      <change when="2011-11-21T15:31:13+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="bib">
+        <head>Bibliografie</head>
+        <table type="bibliografie">
+          <row>
+            <cell>Autor:</cell>
+            <cell>Hermann Bahr</cell>
+          </row>
+          <row>
+            <cell>Titel:</cell>
+            <cell>Rudigier</cell>
+          </row>
+          <row>
+            <cell>Ort:</cell>
+            <cell>Kempten und München</cell>
+          </row>
+          <row>
+            <cell>Verlag:</cell>
+            <cell>Jos. Kösel</cell>
+          </row>
+          <row>
+            <cell>Jahr:</cell>
+            <cell>1917</cell>
+          </row>
+          <row>
+            <cell>Seiten:</cell>
+            <cell>61</cell>
+          </row>
+          <row>
+            <cell>Anm.:</cell>
+            <cell>Thomasberger datiert auf [1916], vermutlich sich an dem Abdruck im 14. Jg. (1916) im "Hochland" orientierend. Sowohl "Berliner Titeldrucke", das "Verzeichnis der von der Königlichen Bibliothek zu Berlin und den Preussischen Bibliotheken erworbenen neueren Druckschriften" (4.2.1918, A #4/5, 80 [938]) wie auch das "Deutsche Bücherverzeichnis", 1915-1920, I, 137 datieren auf [1917]. Bahr fragt Redlich am 24. Dezember 1917 brieflich, ob er das "Büchl" erhalten habe (Bahr/Redlich, 293), was den Erscheinungstermin in den Tagen vorher bestimmt.</cell>
+          </row>
+        </table>
+      </div>
+      <div xml:id="erstdrucke">
+        <head>Erstdrucke</head>
+        <p>Als "Der gute Kriegsmann unseres Herrn Jesu" in: Hochland, 14 (1916), 52-69 und 181-196.</p>
+      </div>
+      <div xml:id="rezens">
+        <head>Rezensionen</head>
+        <p>Im Archiv ab dem 18.1.1918 erhalten. Max Foges: Hermann Bahrs "Rudigier". In: Neues Wiener Journal, 26 (1918) #8740, 11-12. (3.3.1918)</p>
+      </div>
+      <div xml:id="digit">
+        <head>Digitalisate</head>
+        <p>
+          <ref target="https://bahr.univie.ac.at/sites/all/txt/buch/1917_rudigier.pdf" type="sites-all">[Text]</ref>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

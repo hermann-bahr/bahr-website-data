@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "f42afbba-4c00-45fb-b92d-68324ce31ff9",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f42afbba-4c00-45fb-b92d-68324ce31ff9?resourceVersion=id%3A3369"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f42afbba-4c00-45fb-b92d-68324ce31ff9?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49536,
+    "drupal_internal__vid": 3369,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Salzburg, Schloss Katzenberg",
+    "created": "2011-10-28T13:10:50+00:00",
+    "changed": "2011-10-28T13:10:50+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49536",
+      "pid": 1353,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Vom 10. bis zu seinen Vortrag am 12. November 1923 ist Bahr in Salzburg, … <blockquote>dann will mich Helene Thienen in ihrem neuen Auto nach Katzenberg entführen, auf ein paar Tage.</blockquote> Schloss Katzenberg liegt in der Gemeinde Kirchdorf am Inn, nicht weit von Bad Füssing, in Oberösterreich.",
+      "format": "full_html",
+      "processed": "Vom 10. bis zu seinen Vortrag am 12. November 1923 ist Bahr in Salzburg, … <blockquote>dann will mich Helene Thienen in ihrem neuen Auto nach Katzenberg entführen, auf ein paar Tage.</blockquote> Schloss Katzenberg liegt in der Gemeinde Kirchdorf am Inn, nicht weit von Bad Füssing, in Oberösterreich.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1923-11-10",
+      "end_value": "1923-11-15"
+    },
+    "field_sources": [
+      "Bahr/Redlich, 506."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f42afbba-4c00-45fb-b92d-68324ce31ff9/node_type?resourceVersion=id%3A3369"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f42afbba-4c00-45fb-b92d-68324ce31ff9/relationships/node_type?resourceVersion=id%3A3369"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f42afbba-4c00-45fb-b92d-68324ce31ff9/revision_uid?resourceVersion=id%3A3369"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f42afbba-4c00-45fb-b92d-68324ce31ff9/relationships/revision_uid?resourceVersion=id%3A3369"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f42afbba-4c00-45fb-b92d-68324ce31ff9/uid?resourceVersion=id%3A3369"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f42afbba-4c00-45fb-b92d-68324ce31ff9/relationships/uid?resourceVersion=id%3A3369"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f42afbba-4c00-45fb-b92d-68324ce31ff9/field_event_type?resourceVersion=id%3A3369"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f42afbba-4c00-45fb-b92d-68324ce31ff9/relationships/field_event_type?resourceVersion=id%3A3369"
+        }
+      }
+    }
+  }
+}

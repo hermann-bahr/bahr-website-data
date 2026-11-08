@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "79899edd-6363-4f96-afa0-b663d8c18226",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/79899edd-6363-4f96-afa0-b663d8c18226?resourceVersion=id%3A3242"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/79899edd-6363-4f96-afa0-b663d8c18226?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49399,
+    "drupal_internal__vid": 3242,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Leitung des Burgtheaters?",
+    "created": "2011-10-18T11:46:52+00:00",
+    "changed": "2011-10-18T11:46:52+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49399",
+      "pid": 1223,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 12. Juni 1918 meldet Redlich Bahr das Gerücht, er solle Direktor des Burgtheaters werden. Bahr reagiert darauf (am 23.) so:<blockquote>Wie das Burgtheatergeschwätz entstanden ist, weiß ich nicht. Es ist keinem Menschen eingefallen, mir einen Antrag oder auch nur eine Anfrage zu machen. Ich tät's auch nicht, hoffentlich!</blockquote>\r\n",
+      "format": "full_html",
+      "processed": "Am 12. Juni 1918 meldet Redlich Bahr das Gerücht, er solle Direktor des Burgtheaters werden. Bahr reagiert darauf (am 23.) so:<blockquote>Wie das Burgtheatergeschwätz entstanden ist, weiß ich nicht. Es ist keinem Menschen eingefallen, mir einen Antrag oder auch nur eine Anfrage zu machen. Ich tät's auch nicht, hoffentlich!</blockquote>\n",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1918-06-12",
+      "end_value": "1918-06-12"
+    },
+    "field_sources": [
+      "Bahr/Redlich, 348-349."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/79899edd-6363-4f96-afa0-b663d8c18226/node_type?resourceVersion=id%3A3242"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/79899edd-6363-4f96-afa0-b663d8c18226/relationships/node_type?resourceVersion=id%3A3242"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/79899edd-6363-4f96-afa0-b663d8c18226/revision_uid?resourceVersion=id%3A3242"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/79899edd-6363-4f96-afa0-b663d8c18226/relationships/revision_uid?resourceVersion=id%3A3242"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/79899edd-6363-4f96-afa0-b663d8c18226/uid?resourceVersion=id%3A3242"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/79899edd-6363-4f96-afa0-b663d8c18226/relationships/uid?resourceVersion=id%3A3242"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/79899edd-6363-4f96-afa0-b663d8c18226/field_event_type?resourceVersion=id%3A3242"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/79899edd-6363-4f96-afa0-b663d8c18226/relationships/field_event_type?resourceVersion=id%3A3242"
+        }
+      }
+    }
+  }
+}

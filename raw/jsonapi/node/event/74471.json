@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "85b5ee3b-693d-419a-82db-45ebcfee17b1",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/85b5ee3b-693d-419a-82db-45ebcfee17b1?resourceVersion=id%3A3782"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/85b5ee3b-693d-419a-82db-45ebcfee17b1?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74471,
+    "drupal_internal__vid": 3782,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Universitätsstr. 5",
+    "created": "2013-03-12T11:00:22+00:00",
+    "changed": "2013-03-12T11:02:21+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/74471",
+      "pid": 1845,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Die Adresse Bahrs lautet: Universitätsstr. 5, im Hofe … doch schreibt er seinem Vater:<blockquote>bitte ich mir die Briefe an die Universität zu schicken, da das rumenische Gesindel im Unterschlagen gross sein soll.-</blockquote>Und ergänzt am 22.:<blockquote>während ich in meiner gegenwärtigen Bude die wohltuende Institution eines Nachttopfes nicht kenne, geschweige einen Nachttisch oder Waschtisch.</blockquote>",
+      "format": "full_html",
+      "processed": "Die Adresse Bahrs lautet: Universitätsstr. 5, im Hofe … doch schreibt er seinem Vater:<blockquote>bitte ich mir die Briefe an die Universität zu schicken, da das rumenische Gesindel im Unterschlagen gross sein soll.-</blockquote>Und ergänzt am 22.:<blockquote>während ich in meiner gegenwärtigen Bude die wohltuende Institution eines Nachttopfes nicht kenne, geschweige einen Nachttisch oder Waschtisch.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1883-10-11",
+      "end_value": "1883-10-11"
+    },
+    "field_sources": [
+      "An den Vater, 11.10.1883, 22.10.1883"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/85b5ee3b-693d-419a-82db-45ebcfee17b1/node_type?resourceVersion=id%3A3782"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/85b5ee3b-693d-419a-82db-45ebcfee17b1/relationships/node_type?resourceVersion=id%3A3782"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/85b5ee3b-693d-419a-82db-45ebcfee17b1/revision_uid?resourceVersion=id%3A3782"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/85b5ee3b-693d-419a-82db-45ebcfee17b1/relationships/revision_uid?resourceVersion=id%3A3782"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/85b5ee3b-693d-419a-82db-45ebcfee17b1/uid?resourceVersion=id%3A3782"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/85b5ee3b-693d-419a-82db-45ebcfee17b1/relationships/uid?resourceVersion=id%3A3782"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/85b5ee3b-693d-419a-82db-45ebcfee17b1/field_event_type?resourceVersion=id%3A3782"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/85b5ee3b-693d-419a-82db-45ebcfee17b1/relationships/field_event_type?resourceVersion=id%3A3782"
+        }
+      }
+    }
+  }
+}

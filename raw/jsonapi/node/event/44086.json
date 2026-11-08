@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "aec68844-fd9f-4928-b10a-e7a83a8105f9",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/aec68844-fd9f-4928-b10a-e7a83a8105f9?resourceVersion=id%3A3003"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/aec68844-fd9f-4928-b10a-e7a83a8105f9?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44086,
+    "drupal_internal__vid": 3003,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Mit Duse bei Duncan",
+    "created": "2011-09-07T15:12:06+00:00",
+    "changed": "2011-09-08T09:43:50+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44086",
+      "pid": 981,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahr begleitet Eleonora Duse zum Chopin-Abend Isadora Duncans am 4. April 1903 im Carl-Theater.<blockquote>Eleonora Duse sah ihr zu, ganz rosig vor froher Erregung und so entzückt, daß sie es sich nicht nehmen ließ, in ihre Garderobe zu gehen und die erglühenden Wangen des Kindes mit ihren Sanften Händen zu streicheln.</blockquote>",
+      "format": "full_html",
+      "processed": "Bahr begleitet Eleonora Duse zum Chopin-Abend Isadora Duncans am 4. April 1903 im Carl-Theater.<blockquote>Eleonora Duse sah ihr zu, ganz rosig vor froher Erregung und so entzückt, daß sie es sich nicht nehmen ließ, in ihre Garderobe zu gehen und die erglühenden Wangen des Kindes mit ihren Sanften Händen zu streicheln.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1903-04-04",
+      "end_value": "1903-04-04"
+    },
+    "field_sources": [
+      "H. B.: Theater, Kunst und Literatur. Carl-Theater. Neues Wiener Tagblatt, 37 (1903) #94, 10-11. (5.4.1903) ",
+      "Tagebücher (Csàky), III, 280-281."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/aec68844-fd9f-4928-b10a-e7a83a8105f9/node_type?resourceVersion=id%3A3003"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/aec68844-fd9f-4928-b10a-e7a83a8105f9/relationships/node_type?resourceVersion=id%3A3003"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/aec68844-fd9f-4928-b10a-e7a83a8105f9/revision_uid?resourceVersion=id%3A3003"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/aec68844-fd9f-4928-b10a-e7a83a8105f9/relationships/revision_uid?resourceVersion=id%3A3003"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/aec68844-fd9f-4928-b10a-e7a83a8105f9/uid?resourceVersion=id%3A3003"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/aec68844-fd9f-4928-b10a-e7a83a8105f9/relationships/uid?resourceVersion=id%3A3003"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/aec68844-fd9f-4928-b10a-e7a83a8105f9/field_event_type?resourceVersion=id%3A3003"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/aec68844-fd9f-4928-b10a-e7a83a8105f9/relationships/field_event_type?resourceVersion=id%3A3003"
+        }
+      }
+    }
+  }
+}

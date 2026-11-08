@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "f853b2d9-7af4-4d26-9cce-614a28b02702",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f853b2d9-7af4-4d26-9cce-614a28b02702?resourceVersion=id%3A2390"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f853b2d9-7af4-4d26-9cce-614a28b02702?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28061,
+    "drupal_internal__vid": 2390,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Unterach am Attersee",
+    "created": "2010-08-06T09:56:54+00:00",
+    "changed": "2011-11-28T11:48:23+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28061",
+      "pid": 224,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<blockquote>In die Kunst des Lesens hatte mich in Unterach am Attersee, wo wir 1869 den ganzen Sommer verbrachten, der brave Schullehrer Rauch eingeweiht. Ich konnte kaum buchstabieren, da gab mir zur Übung der Onkel Anastas Goethes „Faust“. Der war das erste Buch, das ich las. </blockquote>Im \"Tagebuch\" gibt es noch die Details, etwa, dass sie beim alten Förster Wengert \"draußen\" wohnten, die Kinder im Zimmer der Mutter schliefen und dass ein Dorfbursche beim Fensterln ins Zimmer des Vaters einstieg.",
+      "format": "full_html",
+      "processed": "<blockquote>In die Kunst des Lesens hatte mich in Unterach am Attersee, wo wir 1869 den ganzen Sommer verbrachten, der brave Schullehrer Rauch eingeweiht. Ich konnte kaum buchstabieren, da gab mir zur Übung der Onkel Anastas Goethes „Faust“. Der war das erste Buch, das ich las. </blockquote>Im \"Tagebuch\" gibt es noch die Details, etwa, dass sie beim alten Förster Wengert \"draußen\" wohnten, die Kinder im Zimmer der Mutter schliefen und dass ein Dorfbursche beim Fensterln ins Zimmer des Vaters einstieg.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1869-07-01",
+      "end_value": "1869-09-01"
+    },
+    "field_sources": [
+      "Selbstbildnis, 53.",
+      "Hermann Bahr: Tagebuch. 1. Mai. In: 1919. Tagebuch, 147-152"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f853b2d9-7af4-4d26-9cce-614a28b02702/node_type?resourceVersion=id%3A2390"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f853b2d9-7af4-4d26-9cce-614a28b02702/relationships/node_type?resourceVersion=id%3A2390"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f853b2d9-7af4-4d26-9cce-614a28b02702/revision_uid?resourceVersion=id%3A2390"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f853b2d9-7af4-4d26-9cce-614a28b02702/relationships/revision_uid?resourceVersion=id%3A2390"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f853b2d9-7af4-4d26-9cce-614a28b02702/uid?resourceVersion=id%3A2390"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f853b2d9-7af4-4d26-9cce-614a28b02702/relationships/uid?resourceVersion=id%3A2390"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f853b2d9-7af4-4d26-9cce-614a28b02702/field_event_type?resourceVersion=id%3A2390"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f853b2d9-7af4-4d26-9cce-614a28b02702/relationships/field_event_type?resourceVersion=id%3A2390"
+        }
+      }
+    }
+  }
+}

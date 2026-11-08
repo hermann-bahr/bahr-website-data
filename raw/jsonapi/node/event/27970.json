@@ -1,0 +1,114 @@
+{
+  "type": "node--event",
+  "id": "2fa35e20-3dd3-4a1f-bd9e-eb78a82def5e",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/2fa35e20-3dd3-4a1f-bd9e-eb78a82def5e?resourceVersion=id%3A2309"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/2fa35e20-3dd3-4a1f-bd9e-eb78a82def5e?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27970,
+    "drupal_internal__vid": 2309,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Premièren",
+    "created": "2010-07-20T10:32:14+00:00",
+    "changed": "2010-08-06T08:27:56+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/27970",
+      "pid": 143,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Die zweite Sammlung von Theaterrezension, knapp \"Premièren\" betitelt, erscheinen 1902 bei Albert Langen in München und umfassen die Zeit vom Winter 1900 bis zum Sommer 1901.",
+      "format": "full_html",
+      "processed": "Die zweite Sammlung von Theaterrezension, knapp \"Premièren\" betitelt, erscheinen 1902 bei Albert Langen in München und umfassen die Zeit vom Winter 1900 bis zum Sommer 1901.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1902-01-01",
+      "end_value": "1902-01-01"
+    },
+    "field_sources": []
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2fa35e20-3dd3-4a1f-bd9e-eb78a82def5e/node_type?resourceVersion=id%3A2309"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2fa35e20-3dd3-4a1f-bd9e-eb78a82def5e/relationships/node_type?resourceVersion=id%3A2309"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2fa35e20-3dd3-4a1f-bd9e-eb78a82def5e/revision_uid?resourceVersion=id%3A2309"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2fa35e20-3dd3-4a1f-bd9e-eb78a82def5e/relationships/revision_uid?resourceVersion=id%3A2309"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2fa35e20-3dd3-4a1f-bd9e-eb78a82def5e/uid?resourceVersion=id%3A2309"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2fa35e20-3dd3-4a1f-bd9e-eb78a82def5e/relationships/uid?resourceVersion=id%3A2309"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "29eb2d1e-f275-4ca0-a532-a2a05ef92e13",
+          "meta": {
+            "drupal_internal__target_id": 6
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2fa35e20-3dd3-4a1f-bd9e-eb78a82def5e/field_event_type?resourceVersion=id%3A2309"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2fa35e20-3dd3-4a1f-bd9e-eb78a82def5e/relationships/field_event_type?resourceVersion=id%3A2309"
+        }
+      }
+    }
+  }
+}

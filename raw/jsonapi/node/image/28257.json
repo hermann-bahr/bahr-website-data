@@ -1,0 +1,109 @@
+{
+  "type": "node--image",
+  "id": "7d14d2c2-ab6c-4542-9bd9-1fe0a210b2ed",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/image/7d14d2c2-ab6c-4542-9bd9-1fe0a210b2ed?resourceVersion=id%3A3958"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/image/7d14d2c2-ab6c-4542-9bd9-1fe0a210b2ed?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28257,
+    "drupal_internal__vid": 3958,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:44:08+00:00",
+    "status": true,
+    "title": "1902 Schwarz auf Weiß",
+    "created": "2010-11-13T21:38:32+00:00",
+    "changed": "2010-11-13T21:38:32+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/bild/28257",
+      "pid": 390,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<i>Schwarz auf Weiss. Wiener Autoren den Wiener Kunstgewerbeschülern zu ihrem Feste am 6. Februar 1902. Mit Originalzeichnungen und Buchschmuck von Wiener Kunstgewerbeschülern Wien: Selbstverlag des Comités für das Fest der Kunstgewerbeschüler 1902.</i>",
+      "format": "full_html",
+      "processed": "<i>Schwarz auf Weiss. Wiener Autoren den Wiener Kunstgewerbeschülern zu ihrem Feste am 6. Februar 1902. Mit Originalzeichnungen und Buchschmuck von Wiener Kunstgewerbeschülern Wien: Selbstverlag des Comités für das Fest der Kunstgewerbeschüler 1902.</i>",
+      "summary": null
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "e2381624-d098-4c5b-bdd7-5dbfd773b84e",
+        "meta": {
+          "drupal_internal__target_id": "image"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/7d14d2c2-ab6c-4542-9bd9-1fe0a210b2ed/node_type?resourceVersion=id%3A3958"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/7d14d2c2-ab6c-4542-9bd9-1fe0a210b2ed/relationships/node_type?resourceVersion=id%3A3958"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/7d14d2c2-ab6c-4542-9bd9-1fe0a210b2ed/revision_uid?resourceVersion=id%3A3958"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/7d14d2c2-ab6c-4542-9bd9-1fe0a210b2ed/relationships/revision_uid?resourceVersion=id%3A3958"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/7d14d2c2-ab6c-4542-9bd9-1fe0a210b2ed/uid?resourceVersion=id%3A3958"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/7d14d2c2-ab6c-4542-9bd9-1fe0a210b2ed/relationships/uid?resourceVersion=id%3A3958"
+        }
+      }
+    },
+    "field_images": {
+      "data": [
+        {
+          "type": "media--image",
+          "id": "30007616-6b24-454b-8c2f-86214be04f4a",
+          "meta": {
+            "drupal_internal__target_id": 137
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/7d14d2c2-ab6c-4542-9bd9-1fe0a210b2ed/field_images?resourceVersion=id%3A3958"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/7d14d2c2-ab6c-4542-9bd9-1fe0a210b2ed/relationships/field_images?resourceVersion=id%3A3958"
+        }
+      }
+    }
+  }
+}

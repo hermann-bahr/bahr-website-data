@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "34ba512a-9d17-44ab-85b3-dada56ab0dca",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/34ba512a-9d17-44ab-85b3-dada56ab0dca?resourceVersion=id%3A2438"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/34ba512a-9d17-44ab-85b3-dada56ab0dca?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28118,
+    "drupal_internal__vid": 2438,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Kärnten",
+    "created": "2010-08-18T14:10:48+00:00",
+    "changed": "2011-10-03T14:37:16+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28118",
+      "pid": 273,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 23. Juni 1907, nachdem Anna Mildenburg am Vortag einen neuen Vertrag unterschrieb, reisen die beiden nach Maria-Loretto in der Nähe von Klagenfurt. Bis Wiener Neustadt werden sie von Gustav Mahler, dem ehemaligen Geliebten Mildenburgs begleitet, der selbst auf den Schneeberg unterwegs ist. Am 24. Juni 1907: In Klagenfurt, in Mildenburgs Haus, Rudolfstraße 16. Tags darauf wird gebadet und gerudert. Am 26. in Krumpendorf am Wörthersee. Am 27. Juni nimmt er sich eine Schreiberin in Loretto. Der 4. Juli bringt eine Rundfahrt über den See. Tags darauf nach Maria Rain, am 6. wieder in Loretto. Vermutlich bleiben sie bis zu seiner Reise nach Görz, denn auch der 14.7. findet sich mit der Eintragung \"Loretto\" im Tagebuch.\r\n",
+      "format": "full_html",
+      "processed": "Am 23. Juni 1907, nachdem Anna Mildenburg am Vortag einen neuen Vertrag unterschrieb, reisen die beiden nach Maria-Loretto in der Nähe von Klagenfurt. Bis Wiener Neustadt werden sie von Gustav Mahler, dem ehemaligen Geliebten Mildenburgs begleitet, der selbst auf den Schneeberg unterwegs ist. Am 24. Juni 1907: In Klagenfurt, in Mildenburgs Haus, Rudolfstraße 16. Tags darauf wird gebadet und gerudert. Am 26. in Krumpendorf am Wörthersee. Am 27. Juni nimmt er sich eine Schreiberin in Loretto. Der 4. Juli bringt eine Rundfahrt über den See. Tags darauf nach Maria Rain, am 6. wieder in Loretto. Vermutlich bleiben sie bis zu seiner Reise nach Görz, denn auch der 14.7. findet sich mit der Eintragung \"Loretto\" im Tagebuch.\n",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1907-06-23",
+      "end_value": "1907-07-14"
+    },
+    "field_sources": [
+      "Tagebücher (Csàky), V, 204-206.",
+      "Bahr/Redlich, 55-56."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/34ba512a-9d17-44ab-85b3-dada56ab0dca/node_type?resourceVersion=id%3A2438"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/34ba512a-9d17-44ab-85b3-dada56ab0dca/relationships/node_type?resourceVersion=id%3A2438"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/34ba512a-9d17-44ab-85b3-dada56ab0dca/revision_uid?resourceVersion=id%3A2438"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/34ba512a-9d17-44ab-85b3-dada56ab0dca/relationships/revision_uid?resourceVersion=id%3A2438"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/34ba512a-9d17-44ab-85b3-dada56ab0dca/uid?resourceVersion=id%3A2438"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/34ba512a-9d17-44ab-85b3-dada56ab0dca/relationships/uid?resourceVersion=id%3A2438"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/34ba512a-9d17-44ab-85b3-dada56ab0dca/field_event_type?resourceVersion=id%3A2438"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/34ba512a-9d17-44ab-85b3-dada56ab0dca/relationships/field_event_type?resourceVersion=id%3A2438"
+        }
+      }
+    }
+  }
+}

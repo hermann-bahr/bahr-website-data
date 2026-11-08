@@ -1,0 +1,124 @@
+{
+  "type": "node--event",
+  "id": "200ec22a-0fbe-43a9-b9c3-8d0bfd43edfd",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/200ec22a-0fbe-43a9-b9c3-8d0bfd43edfd?resourceVersion=id%3A2343"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/200ec22a-0fbe-43a9-b9c3-8d0bfd43edfd?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28011,
+    "drupal_internal__vid": 2343,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Hoftheater München",
+    "created": "2010-07-27T15:45:15+00:00",
+    "changed": "2012-11-29T16:00:55+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28011",
+      "pid": 177,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 27. November 1905 ist Bahr in München, um einen Vertrag zu unterschreiben, der ihn wirksam ab dem 1. August 1906 zum Oberregisseur am Hoftheater in München ernennt. Die Münchner Neuesten Nachrichten schreiben:<blockquote>Die Hoftheaterintendanz zeigt mit der Berufung eines Mannes wie <i>Bahr</i> jedenfalls, daß sie gewillt ist, wieder mehr Fühlung mit dem Drama und den Dramatikern der Gegenwart zu suchen. Das ist auch dringend notwendig und der neue Oberregisseur wird genug zu tun haben, und nicht nur damit. Freilich darf es ihm, will er Ersprießliches wirken, auch an den nötigen <i>Kompetenzen</i> nicht fehlen. Daß ihm solche eingeräumt worden seien, darf man umsomehr annehmen, als Bahr erst vor kurzem eine Berufung an die Reinhardtschen Bühnen in Berlin abgelehnt hat. Daß er nicht allzuviel experimentiere, dafür wird der Apparat der Hofbühne schon sorgen. Und schließlich: lieber ein bißchen zu viel Experimente als gar keine. [1]</blockquote>Trotzdem kommt die von Intendant Albert von Speidel betriebene Ernennung Bahrs durch eine Pressekampagne der \"Germania\"[2] und politische Intrigen letztlich nicht zustande. ",
+      "format": "full_html",
+      "processed": "Am 27. November 1905 ist Bahr in München, um einen Vertrag zu unterschreiben, der ihn wirksam ab dem 1. August 1906 zum Oberregisseur am Hoftheater in München ernennt. Die Münchner Neuesten Nachrichten schreiben:<blockquote>Die Hoftheaterintendanz zeigt mit der Berufung eines Mannes wie <i>Bahr</i> jedenfalls, daß sie gewillt ist, wieder mehr Fühlung mit dem Drama und den Dramatikern der Gegenwart zu suchen. Das ist auch dringend notwendig und der neue Oberregisseur wird genug zu tun haben, und nicht nur damit. Freilich darf es ihm, will er Ersprießliches wirken, auch an den nötigen <i>Kompetenzen</i> nicht fehlen. Daß ihm solche eingeräumt worden seien, darf man umsomehr annehmen, als Bahr erst vor kurzem eine Berufung an die Reinhardtschen Bühnen in Berlin abgelehnt hat. Daß er nicht allzuviel experimentiere, dafür wird der Apparat der Hofbühne schon sorgen. Und schließlich: lieber ein bißchen zu viel Experimente als gar keine. [1]</blockquote>Trotzdem kommt die von Intendant Albert von Speidel betriebene Ernennung Bahrs durch eine Pressekampagne der \"Germania\"[2] und politische Intrigen letztlich nicht zustande. ",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1905-11-27",
+      "end_value": "1905-11-27"
+    },
+    "field_sources": [
+      "Tagebücher (Csàky), IV und V.",
+      "[1] Zit. n. Österreichische Volks-Zeitung, 51 (1905) #334, 7. (3.12.1905)",
+      "Meldung in: Neues Wiener Tagblatt, 39 (1905) #333, 10 und #334, 13. (2. bzw. 3.12.1905)",
+      "[2] [o.V.:] Hermann Bahr und das Zentrum. In: Berliner Tageblatt, 34 (1905) #637, Morgen-Ausgabe, 3. (15.12.1905)",
+      "Hermann Bahr in Berlin. National-Zeitung, Berlin, 58 (1905) #680, 2. (13.12.1905)",
+      "Alfred v. Mensi: Der Fall Bahr. Neues Wiener Journal, 1905 #4372, 2-3. (23.12.1905)",
+      "Der Fall Hermann Bahr. Frankfurter Zeitung, (1905) #355, 2. Morgenblatt, 1-2. (23.12.1905)",
+      "[o.V.:] Hermann Bahr und die Münchner Hofbühne. In: Berliner Tageblatt, 34 (1905) #662, 2. (30.12.1905)",
+      "Brief Bahrs an Speidel, 10.11.1905, ist abgedruckt: Blätter des Burgtheaters, 8.12.1955"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/200ec22a-0fbe-43a9-b9c3-8d0bfd43edfd/node_type?resourceVersion=id%3A2343"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/200ec22a-0fbe-43a9-b9c3-8d0bfd43edfd/relationships/node_type?resourceVersion=id%3A2343"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/200ec22a-0fbe-43a9-b9c3-8d0bfd43edfd/revision_uid?resourceVersion=id%3A2343"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/200ec22a-0fbe-43a9-b9c3-8d0bfd43edfd/relationships/revision_uid?resourceVersion=id%3A2343"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/200ec22a-0fbe-43a9-b9c3-8d0bfd43edfd/uid?resourceVersion=id%3A2343"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/200ec22a-0fbe-43a9-b9c3-8d0bfd43edfd/relationships/uid?resourceVersion=id%3A2343"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/200ec22a-0fbe-43a9-b9c3-8d0bfd43edfd/field_event_type?resourceVersion=id%3A2343"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/200ec22a-0fbe-43a9-b9c3-8d0bfd43edfd/relationships/field_event_type?resourceVersion=id%3A2343"
+        }
+      }
+    }
+  }
+}

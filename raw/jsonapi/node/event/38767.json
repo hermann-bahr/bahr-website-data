@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "175ad4dd-9b9f-456e-9fe8-dba522e65cdc",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/175ad4dd-9b9f-456e-9fe8-dba522e65cdc?resourceVersion=id%3A2588"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/175ad4dd-9b9f-456e-9fe8-dba522e65cdc?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38767,
+    "drupal_internal__vid": 2588,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Linz",
+    "created": "2011-01-27T12:34:19+00:00",
+    "changed": "2011-11-18T16:14:31+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38767",
+      "pid": 515,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Nicht wie geplant am 5. Februar 1891 sondern ein paar Tage später verlässt Bahr Berlin und reist über Prag nach Linz. Am 8. schreibt er aus seiner Heimatstadt an Leo Berg. Mitte März ist er wieder in Berlin.",
+      "format": "full_html",
+      "processed": "Nicht wie geplant am 5. Februar 1891 sondern ein paar Tage später verlässt Bahr Berlin und reist über Prag nach Linz. Am 8. schreibt er aus seiner Heimatstadt an Leo Berg. Mitte März ist er wieder in Berlin.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1891-02-07",
+      "end_value": "1891-03-10"
+    },
+    "field_sources": [
+      "Briefwechsel an den Vater, 4.2.1891-14.3.1891.",
+      "Briefe an Leo Berg in: Im Netzwerk der Moderne, hier: 269-270."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/175ad4dd-9b9f-456e-9fe8-dba522e65cdc/node_type?resourceVersion=id%3A2588"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/175ad4dd-9b9f-456e-9fe8-dba522e65cdc/relationships/node_type?resourceVersion=id%3A2588"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/175ad4dd-9b9f-456e-9fe8-dba522e65cdc/revision_uid?resourceVersion=id%3A2588"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/175ad4dd-9b9f-456e-9fe8-dba522e65cdc/relationships/revision_uid?resourceVersion=id%3A2588"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/175ad4dd-9b9f-456e-9fe8-dba522e65cdc/uid?resourceVersion=id%3A2588"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/175ad4dd-9b9f-456e-9fe8-dba522e65cdc/relationships/uid?resourceVersion=id%3A2588"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/175ad4dd-9b9f-456e-9fe8-dba522e65cdc/field_event_type?resourceVersion=id%3A2588"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/175ad4dd-9b9f-456e-9fe8-dba522e65cdc/relationships/field_event_type?resourceVersion=id%3A2588"
+        }
+      }
+    }
+  }
+}

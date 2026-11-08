@@ -1,0 +1,109 @@
+{
+  "type": "node--image",
+  "id": "fa642c42-09ee-4065-b94e-f0c825ecf38c",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/image/fa642c42-09ee-4065-b94e-f0c825ecf38c?resourceVersion=id%3A3940"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/image/fa642c42-09ee-4065-b94e-f0c825ecf38c?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28236,
+    "drupal_internal__vid": 3940,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:44:08+00:00",
+    "status": true,
+    "title": "1894 Musenalmanach",
+    "created": "2010-11-09T11:51:50+00:00",
+    "changed": "2011-02-21T17:30:45+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/bild/28236",
+      "pid": 370,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<i>Otto Julius Bierbaum, Hg.: Moderner Musenalmanach auf das Jahr 1894. Ein Jahrbuch deutscher Kunst. Band 2. München: Dr. E. Albert 1894</i>",
+      "format": "full_html",
+      "processed": "<i>Otto Julius Bierbaum, Hg.: Moderner Musenalmanach auf das Jahr 1894. Ein Jahrbuch deutscher Kunst. Band 2. München: Dr. E. Albert 1894</i>",
+      "summary": null
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "e2381624-d098-4c5b-bdd7-5dbfd773b84e",
+        "meta": {
+          "drupal_internal__target_id": "image"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/fa642c42-09ee-4065-b94e-f0c825ecf38c/node_type?resourceVersion=id%3A3940"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/fa642c42-09ee-4065-b94e-f0c825ecf38c/relationships/node_type?resourceVersion=id%3A3940"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/fa642c42-09ee-4065-b94e-f0c825ecf38c/revision_uid?resourceVersion=id%3A3940"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/fa642c42-09ee-4065-b94e-f0c825ecf38c/relationships/revision_uid?resourceVersion=id%3A3940"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/fa642c42-09ee-4065-b94e-f0c825ecf38c/uid?resourceVersion=id%3A3940"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/fa642c42-09ee-4065-b94e-f0c825ecf38c/relationships/uid?resourceVersion=id%3A3940"
+        }
+      }
+    },
+    "field_images": {
+      "data": [
+        {
+          "type": "media--image",
+          "id": "a3c952cf-ca2e-4b74-9c21-721eec016f63",
+          "meta": {
+            "drupal_internal__target_id": 119
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/fa642c42-09ee-4065-b94e-f0c825ecf38c/field_images?resourceVersion=id%3A3940"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/fa642c42-09ee-4065-b94e-f0c825ecf38c/relationships/field_images?resourceVersion=id%3A3940"
+        }
+      }
+    }
+  }
+}

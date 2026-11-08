@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "f5be5693-9275-4898-bf89-44ddeee78567",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f5be5693-9275-4898-bf89-44ddeee78567?resourceVersion=id%3A3199"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f5be5693-9275-4898-bf89-44ddeee78567?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49353,
+    "drupal_internal__vid": 3199,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "JR, Lammasch",
+    "created": "2011-10-13T10:46:21+00:00",
+    "changed": "2011-10-24T14:19:28+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49353",
+      "pid": 1178,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 5.  und 6. Jänner 1916 ist Josef Redlich bei Bahr in Salzburg auf Besuch. Am 6. kommt auch Lammasch zum Essen.",
+      "format": "full_html",
+      "processed": "Am 5.  und 6. Jänner 1916 ist Josef Redlich bei Bahr in Salzburg auf Besuch. Am 6. kommt auch Lammasch zum Essen.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1916-01-05",
+      "end_value": "1916-01-06"
+    },
+    "field_sources": [
+      "Fritz Fellner und Doris A. Corradini (Hgg.): Schicksalsjahre Österreichs. Die Erinnerungen und Tagebücher Josef Redlichs 1869–1936. Wien: Böhlau 2011, II, 131.",
+      "Bahr/Redlich, 148-149."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f5be5693-9275-4898-bf89-44ddeee78567/node_type?resourceVersion=id%3A3199"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f5be5693-9275-4898-bf89-44ddeee78567/relationships/node_type?resourceVersion=id%3A3199"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f5be5693-9275-4898-bf89-44ddeee78567/revision_uid?resourceVersion=id%3A3199"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f5be5693-9275-4898-bf89-44ddeee78567/relationships/revision_uid?resourceVersion=id%3A3199"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f5be5693-9275-4898-bf89-44ddeee78567/uid?resourceVersion=id%3A3199"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f5be5693-9275-4898-bf89-44ddeee78567/relationships/uid?resourceVersion=id%3A3199"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f5be5693-9275-4898-bf89-44ddeee78567/field_event_type?resourceVersion=id%3A3199"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f5be5693-9275-4898-bf89-44ddeee78567/relationships/field_event_type?resourceVersion=id%3A3199"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "c7bde8bf-fe8b-4a65-98fa-5869e08c6baf",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/c7bde8bf-fe8b-4a65-98fa-5869e08c6baf?resourceVersion=id%3A3478"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/c7bde8bf-fe8b-4a65-98fa-5869e08c6baf?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49698,
+    "drupal_internal__vid": 3478,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Friedrich Fiedler",
+    "created": "2011-11-29T13:15:28+00:00",
+    "changed": "2013-02-23T08:55:04+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49698",
+      "pid": 1512,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Während einer Aufführung von Wildenbruchs \"Haubenlerche\" im Petersburger Alexandra-Theater macht der deutschrussische Übersetzer, Pädagoge und Gründer eines Literaturmuseums Friedrich Fiedler die Bekanntschaft Hermann Bahrs. Fiedler \"errät\" Bahr ohne ihn zuvor gesehen zu haben, an der \"eigenen Physiognomie und der eigenen Kleidung\". Das Gespräch dreht sich um Bahrs Arbeiten für die \"Freie Bühne\" und die \"Moderne Kunst\" und um die Uraufführung seiner \"Mutter\". Nach einem Schnaps geht es zurück in den Saal.\r\n<!--break-->\r\nFiedlers Datierung dieser Begegnung auf den 11. März ist offensichtlich falsch, in seiner \"Russischen Reise\" gibt Bahr an, am 24. März die \"Haubenlerche\" gesehen und überhaupt erst am 17. März den Zug nach Petersburg bestiegen zu haben. Ob sich die Falschangabe aus einer Verwechslung erklären lässt, oder die Begegnung gar nicht stattfand, ist nicht zweifelsfrei zu klären.",
+      "format": "full_html",
+      "processed": "Während einer Aufführung von Wildenbruchs \"Haubenlerche\" im Petersburger Alexandra-Theater macht der deutschrussische Übersetzer, Pädagoge und Gründer eines Literaturmuseums Friedrich Fiedler die Bekanntschaft Hermann Bahrs. Fiedler \"errät\" Bahr ohne ihn zuvor gesehen zu haben, an der \"eigenen Physiognomie und der eigenen Kleidung\". Das Gespräch dreht sich um Bahrs Arbeiten für die \"Freie Bühne\" und die \"Moderne Kunst\" und um die Uraufführung seiner \"Mutter\". Nach einem Schnaps geht es zurück in den Saal.\n<!--break-->\nFiedlers Datierung dieser Begegnung auf den 11. März ist offensichtlich falsch, in seiner \"Russischen Reise\" gibt Bahr an, am 24. März die \"Haubenlerche\" gesehen und überhaupt erst am 17. März den Zug nach Petersburg bestiegen zu haben. Ob sich die Falschangabe aus einer Verwechslung erklären lässt, oder die Begegnung gar nicht stattfand, ist nicht zweifelsfrei zu klären.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1891-03-24",
+      "end_value": "1891-03-24"
+    },
+    "field_sources": [
+      "Bahr: Russische Reise, 40.",
+      "Friedrich Fiedler: Aus der Literatenwelt. Charakterzüge und Urteile - Tagebuch. Hrsg. v. Konstantin Asadowski. Göttingen: Wallstein 1996, 94-95."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c7bde8bf-fe8b-4a65-98fa-5869e08c6baf/node_type?resourceVersion=id%3A3478"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c7bde8bf-fe8b-4a65-98fa-5869e08c6baf/relationships/node_type?resourceVersion=id%3A3478"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c7bde8bf-fe8b-4a65-98fa-5869e08c6baf/revision_uid?resourceVersion=id%3A3478"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c7bde8bf-fe8b-4a65-98fa-5869e08c6baf/relationships/revision_uid?resourceVersion=id%3A3478"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c7bde8bf-fe8b-4a65-98fa-5869e08c6baf/uid?resourceVersion=id%3A3478"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c7bde8bf-fe8b-4a65-98fa-5869e08c6baf/relationships/uid?resourceVersion=id%3A3478"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c7bde8bf-fe8b-4a65-98fa-5869e08c6baf/field_event_type?resourceVersion=id%3A3478"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c7bde8bf-fe8b-4a65-98fa-5869e08c6baf/relationships/field_event_type?resourceVersion=id%3A3478"
+        }
+      }
+    }
+  }
+}

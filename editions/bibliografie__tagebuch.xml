@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bibliografie__tagebuch" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Bibliografie der Tagebuchs</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">9597</idno>
+        <idno type="drupal-alias">/bibliografie-der-tagebuchs</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bibliografie-der-tagebuchs">https://bahr.univie.ac.at/bibliografie-der-tagebuchs</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="1" key="bibliografie">Bibliografie</term>
+          <term n="6" key="tagebuch">Tagebuch</term>
+        </keywords>
+        <classCode scheme="drupal-type">page</classCode>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2010-01-12T12:49:52+00:00" type="created">angelegt in Drupal</change>
+      <change when="2020-02-27T15:24:43+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Hermann Bahrs »Tagebuch« ist nicht sein Tagebuch. Das, was er in der zweiten Hälfte seines Schaffens in Zeitschriften und Buchausgaben veröffentlichte, gehört zur <hi rend="italic">Textsorte</hi> »Tagebuch«: Es war eigens für die Publikation geschrieben. (Bei den 1994 bis 2003 herausgegebenen »Tagebücher, Skizzenbücher, Notizhefte« hingegen, handelt es sich um private Aufzeichnungen.) Im Unterschied zu den späteren Buchausgaben, in denen die Zeitungstagebücher gesammelt wurden, enthält die erste Zusammenstellung von 1909 auch Texte, die nicht als Tagebuch erschienen sind. Kurt Thomasberger führt noch zwei Bände, die 1928 und 1929 in Hildesheim bei F. Borgmeyer erschienen sein sollen. Wie Kurt Ifkovits nachgewiesen hat, sind diese nie erschienen. (Kurt Ifkovits: Hermann Bahrs Tagebücher aus den Jahren 1928 und 1929. Eine bibliographische Recherche. In: Aus dem Antiquariat (2004) #6, 430-434.)</p>
+      </div>
+      <divGen type="eintraege"/>
+    </body>
+  </text>
+</TEI>

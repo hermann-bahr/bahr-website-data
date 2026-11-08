@@ -1,0 +1,122 @@
+{
+  "type": "node--event",
+  "id": "2eb4aa14-2213-4f23-b7d8-ad9ea8104d6c",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/2eb4aa14-2213-4f23-b7d8-ad9ea8104d6c?resourceVersion=id%3A3065"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/2eb4aa14-2213-4f23-b7d8-ad9ea8104d6c?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44149,
+    "drupal_internal__vid": 3065,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Duse",
+    "created": "2011-09-15T09:16:01+00:00",
+    "changed": "2011-10-14T13:14:56+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44149",
+      "pid": 1044,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Ein neuerliches Gastspiel der Duse von 10. zum 18. Jänner 1905 wird von Bahr in allen Vorstellungen frequentiert. In seinem Tagebuch vermerkt er über die italienische Schauspielerin:<blockquote>Fünf Uhr im Bristol bei der Duse. Wie sie, um einen hereingebrachten Brief zu lesen, eine Brille aufsetzt, die arme alte Frau! Grande amatrice. –Kurze, ganz graue Haare.</blockquote>",
+      "format": "full_html",
+      "processed": "Ein neuerliches Gastspiel der Duse von 10. zum 18. Jänner 1905 wird von Bahr in allen Vorstellungen frequentiert. In seinem Tagebuch vermerkt er über die italienische Schauspielerin:<blockquote>Fünf Uhr im Bristol bei der Duse. Wie sie, um einen hereingebrachten Brief zu lesen, eine Brille aufsetzt, die arme alte Frau! Grande amatrice. –Kurze, ganz graue Haare.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1905-01-10",
+      "end_value": "1905-01-18"
+    },
+    "field_sources": [
+      "Tagebücher (Csàky), IV, 416.",
+      "Ankunft der Künstlerin am 7. Jänner: Neues Wiener Tagblatt, 39 (1905) #8, 13. (8.1.1905)",
+      "H. B.: Theater, Kunst und Literatur. Carl-Theater. Neues Wiener Tagblatt, 39 (1905) #11, 10. (11.1.1905) Buchausgabe: Als \"Kameliendame\" in: Glossen, 352-354.",
+      "H. B.: Theater, Kunst und Literatur. Carl-Theater. Neues Wiener Tagblatt, 39 (1905) #13, 9-10. (13.1.1905) Buchausgabe: Glossen, 354-356.",
+      "H. B.: Theater, Kunst und Literatur. Carl-Theater. Neues Wiener Tagblatt, 39 (1905) #15, 9. (15.1.1905) Buchausgabe: Glossen, 356-359.\r\n",
+      "H. B.: Theater, Kunst und Literatur. Carl-Theater. Neues Wiener Tagblatt, 39 (1905) #17, 11. (17.1.1905) Buchausgabe: Glossen, 359-362.",
+      "H. B.: Theater, Kunst und Literatur. Carl-Theater. Neues Wiener Tagblatt, 39 (1905) #19, 9. (19.1.1905) Buchausgabe: Glossen, 362-364."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2eb4aa14-2213-4f23-b7d8-ad9ea8104d6c/node_type?resourceVersion=id%3A3065"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2eb4aa14-2213-4f23-b7d8-ad9ea8104d6c/relationships/node_type?resourceVersion=id%3A3065"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2eb4aa14-2213-4f23-b7d8-ad9ea8104d6c/revision_uid?resourceVersion=id%3A3065"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2eb4aa14-2213-4f23-b7d8-ad9ea8104d6c/relationships/revision_uid?resourceVersion=id%3A3065"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2eb4aa14-2213-4f23-b7d8-ad9ea8104d6c/uid?resourceVersion=id%3A3065"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2eb4aa14-2213-4f23-b7d8-ad9ea8104d6c/relationships/uid?resourceVersion=id%3A3065"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2eb4aa14-2213-4f23-b7d8-ad9ea8104d6c/field_event_type?resourceVersion=id%3A3065"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2eb4aa14-2213-4f23-b7d8-ad9ea8104d6c/relationships/field_event_type?resourceVersion=id%3A3065"
+        }
+      }
+    }
+  }
+}

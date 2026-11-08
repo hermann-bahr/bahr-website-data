@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "409479d6-3532-4687-9c58-00cd517afbca",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/409479d6-3532-4687-9c58-00cd517afbca?resourceVersion=id%3A3593"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/409479d6-3532-4687-9c58-00cd517afbca?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 64099,
+    "drupal_internal__vid": 3593,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "G. B. Shaw",
+    "created": "2012-01-26T16:01:30+00:00",
+    "changed": "2012-01-26T16:01:30+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/64099",
+      "pid": 1634,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Nachdem Bahr möglicherweise einen Vortrag Shaws besuchte (um den 7. Oktober 1910), kommt es in jedem Fall am 15. zu einem Treffen.",
+      "format": "full_html",
+      "processed": "Nachdem Bahr möglicherweise einen Vortrag Shaws besuchte (um den 7. Oktober 1910), kommt es in jedem Fall am 15. zu einem Treffen.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1910-10-15",
+      "end_value": "1910-10-15"
+    },
+    "field_sources": [
+      "Hermann Bahr: Shaw als Redner. Neue Freie Presse, (1911) #16671, Morgenblatt, 1-2. (19.1.1911)",
+      "Hermann Bahr: Aufzeichnungen 1909-1911. Ausgabe in Vorbereitung von Kurt Ifkovits\r\n"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/409479d6-3532-4687-9c58-00cd517afbca/node_type?resourceVersion=id%3A3593"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/409479d6-3532-4687-9c58-00cd517afbca/relationships/node_type?resourceVersion=id%3A3593"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/409479d6-3532-4687-9c58-00cd517afbca/revision_uid?resourceVersion=id%3A3593"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/409479d6-3532-4687-9c58-00cd517afbca/relationships/revision_uid?resourceVersion=id%3A3593"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/409479d6-3532-4687-9c58-00cd517afbca/uid?resourceVersion=id%3A3593"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/409479d6-3532-4687-9c58-00cd517afbca/relationships/uid?resourceVersion=id%3A3593"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/409479d6-3532-4687-9c58-00cd517afbca/field_event_type?resourceVersion=id%3A3593"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/409479d6-3532-4687-9c58-00cd517afbca/relationships/field_event_type?resourceVersion=id%3A3593"
+        }
+      }
+    }
+  }
+}

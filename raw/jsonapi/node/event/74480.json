@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "ba699d50-e062-4821-9db1-702c88e1179a",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/ba699d50-e062-4821-9db1-702c88e1179a?resourceVersion=id%3A3791"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/ba699d50-e062-4821-9db1-702c88e1179a?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74480,
+    "drupal_internal__vid": 3791,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Dissertation",
+    "created": "2013-03-12T13:43:21+00:00",
+    "changed": "2013-03-12T13:43:21+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/74480",
+      "pid": 1854,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Spätestens im Juli 1885 beginnt Bahr an seiner Dissertation zu arbeiten.",
+      "format": "full_html",
+      "processed": "Spätestens im Juli 1885 beginnt Bahr an seiner Dissertation zu arbeiten.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1885-07-01",
+      "end_value": "1885-07-01"
+    },
+    "field_sources": [
+      "Briefe an den Vater"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ba699d50-e062-4821-9db1-702c88e1179a/node_type?resourceVersion=id%3A3791"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ba699d50-e062-4821-9db1-702c88e1179a/relationships/node_type?resourceVersion=id%3A3791"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ba699d50-e062-4821-9db1-702c88e1179a/revision_uid?resourceVersion=id%3A3791"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ba699d50-e062-4821-9db1-702c88e1179a/relationships/revision_uid?resourceVersion=id%3A3791"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ba699d50-e062-4821-9db1-702c88e1179a/uid?resourceVersion=id%3A3791"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ba699d50-e062-4821-9db1-702c88e1179a/relationships/uid?resourceVersion=id%3A3791"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ba699d50-e062-4821-9db1-702c88e1179a/field_event_type?resourceVersion=id%3A3791"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ba699d50-e062-4821-9db1-702c88e1179a/relationships/field_event_type?resourceVersion=id%3A3791"
+        }
+      }
+    }
+  }
+}

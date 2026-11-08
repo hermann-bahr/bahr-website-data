@@ -1,0 +1,109 @@
+{
+  "type": "node--bibliographie",
+  "id": "67fa1162-4630-4385-99a6-2792f143981f",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/67fa1162-4630-4385-99a6-2792f143981f?resourceVersion=id%3A4153"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/67fa1162-4630-4385-99a6-2792f143981f?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49644,
+    "drupal_internal__vid": 4153,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-27T15:17:20+00:00",
+    "status": true,
+    "title": "Bibliografie der Theaterstücke",
+    "created": "2011-11-22T11:17:44+00:00",
+    "changed": "2020-02-27T15:17:20+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/bibliografie/49644",
+      "pid": 1459,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<p>Kurt Thomasberger listet 40 Theaterstücke Bahrs in seiner Bibliografie auf. Zusätzlich mit dem ihm unbekannten »Veilchen«&nbsp;lassen sich Bahr also 41 gedruckte Theatertexte zuschreiben. Erstmals konnte auch eine Bibliothek mit Bestand des »Lieben Augustin« ausfindig gemacht werden. Unklarheiten bestehen bei Thomasberger bezüglich der Bühnenmanuskripte. Er führt häufig nur Jahr und Verlag (Ahn &amp; Simrock) an, nennt aber keine Seitenzahlen. Deswegen werden nur jene Stücke mit eigenen Bühnenmanuskripten nachgewiesen, bei denen Thomasberger oder ich Seitenzahlen anführen können. Bühnenmanuskripte Thomasbergers ohne Seitenzahlen werden als Mutmaßung desselben in den Anmerkungen der jeweiligen Buchausgabe erwähnt. Die Angaben zu Aufführungen und Rezensionen sind Sammlungen von Hinweisen, die weder auf Vollständigkeit abzielen (können), noch eigens überprüft wurden.</p>\r\n",
+      "format": "full_html",
+      "processed": "<p>Kurt Thomasberger listet 40 Theaterstücke Bahrs in seiner Bibliografie auf. Zusätzlich mit dem ihm unbekannten »Veilchen«&nbsp;lassen sich Bahr also 41 gedruckte Theatertexte zuschreiben. Erstmals konnte auch eine Bibliothek mit Bestand des »Lieben Augustin« ausfindig gemacht werden. Unklarheiten bestehen bei Thomasberger bezüglich der Bühnenmanuskripte. Er führt häufig nur Jahr und Verlag (Ahn &amp; Simrock) an, nennt aber keine Seitenzahlen. Deswegen werden nur jene Stücke mit eigenen Bühnenmanuskripten nachgewiesen, bei denen Thomasberger oder ich Seitenzahlen anführen können. Bühnenmanuskripte Thomasbergers ohne Seitenzahlen werden als Mutmaßung desselben in den Anmerkungen der jeweiligen Buchausgabe erwähnt. Die Angaben zu Aufführungen und Rezensionen sind Sammlungen von Hinweisen, die weder auf Vollständigkeit abzielen (können), noch eigens überprüft wurden.</p>\n",
+      "summary": ""
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "c4d97a7b-20a3-4a00-9858-72c5abf35af3",
+        "meta": {
+          "drupal_internal__target_id": "bibliographie"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/67fa1162-4630-4385-99a6-2792f143981f/node_type?resourceVersion=id%3A4153"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/67fa1162-4630-4385-99a6-2792f143981f/relationships/node_type?resourceVersion=id%3A4153"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/67fa1162-4630-4385-99a6-2792f143981f/revision_uid?resourceVersion=id%3A4153"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/67fa1162-4630-4385-99a6-2792f143981f/relationships/revision_uid?resourceVersion=id%3A4153"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/67fa1162-4630-4385-99a6-2792f143981f/uid?resourceVersion=id%3A4153"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/67fa1162-4630-4385-99a6-2792f143981f/relationships/uid?resourceVersion=id%3A4153"
+        }
+      }
+    },
+    "field_bibliographie_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--bibliografie_type",
+          "id": "2729bfe4-73cf-46a1-8929-a36c1cba2af6",
+          "meta": {
+            "drupal_internal__target_id": 13
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/67fa1162-4630-4385-99a6-2792f143981f/field_bibliographie_type?resourceVersion=id%3A4153"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/67fa1162-4630-4385-99a6-2792f143981f/relationships/field_bibliographie_type?resourceVersion=id%3A4153"
+        }
+      }
+    }
+  }
+}

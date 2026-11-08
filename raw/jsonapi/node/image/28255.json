@@ -1,0 +1,109 @@
+{
+  "type": "node--image",
+  "id": "eeef962e-1309-43a5-afff-c6973154a367",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/image/eeef962e-1309-43a5-afff-c6973154a367?resourceVersion=id%3A3956"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/image/eeef962e-1309-43a5-afff-c6973154a367?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28255,
+    "drupal_internal__vid": 3956,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:44:08+00:00",
+    "status": true,
+    "title": "1891 Gesellschaft",
+    "created": "2010-11-13T21:28:40+00:00",
+    "changed": "2010-11-13T21:31:00+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/bild/28255",
+      "pid": 388,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<i>Aus: Die Gesellschaft, 7 (1891) #3 (März)</i>",
+      "format": "full_html",
+      "processed": "<i>Aus: Die Gesellschaft, 7 (1891) #3 (März)</i>",
+      "summary": null
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "e2381624-d098-4c5b-bdd7-5dbfd773b84e",
+        "meta": {
+          "drupal_internal__target_id": "image"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/eeef962e-1309-43a5-afff-c6973154a367/node_type?resourceVersion=id%3A3956"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/eeef962e-1309-43a5-afff-c6973154a367/relationships/node_type?resourceVersion=id%3A3956"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/eeef962e-1309-43a5-afff-c6973154a367/revision_uid?resourceVersion=id%3A3956"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/eeef962e-1309-43a5-afff-c6973154a367/relationships/revision_uid?resourceVersion=id%3A3956"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/eeef962e-1309-43a5-afff-c6973154a367/uid?resourceVersion=id%3A3956"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/eeef962e-1309-43a5-afff-c6973154a367/relationships/uid?resourceVersion=id%3A3956"
+        }
+      }
+    },
+    "field_images": {
+      "data": [
+        {
+          "type": "media--image",
+          "id": "b5832026-fa55-4206-bebd-e798661c8f9a",
+          "meta": {
+            "drupal_internal__target_id": 135
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/eeef962e-1309-43a5-afff-c6973154a367/field_images?resourceVersion=id%3A3956"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/eeef962e-1309-43a5-afff-c6973154a367/relationships/field_images?resourceVersion=id%3A3956"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "9290474b-20f9-473e-859b-634818eb3669",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/9290474b-20f9-473e-859b-634818eb3669?resourceVersion=id%3A2863"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/9290474b-20f9-473e-859b-634818eb3669?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39089,
+    "drupal_internal__vid": 2863,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Darmstadt",
+    "created": "2011-05-13T10:27:43+00:00",
+    "changed": "2012-10-29T09:56:51+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39089",
+      "pid": 820,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 25. Juli 1900 reist Bahr nach Darmstadt, um endlich zu einer Entscheidung zu kommen, ob er die Leitung des vom Großherzog in Aussicht gestellten Hoftheaters übernehmen will. Bahr ist mit dem Ergebnis zufrieden, als er am 28./29. nach Paris weiterreist. (Zwei Jahre später wird es endgültig abgeblasen werden).",
+      "format": "full_html",
+      "processed": "Am 25. Juli 1900 reist Bahr nach Darmstadt, um endlich zu einer Entscheidung zu kommen, ob er die Leitung des vom Großherzog in Aussicht gestellten Hoftheaters übernehmen will. Bahr ist mit dem Ergebnis zufrieden, als er am 28./29. nach Paris weiterreist. (Zwei Jahre später wird es endgültig abgeblasen werden).",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1900-07-25",
+      "end_value": "1900-07-28"
+    },
+    "field_sources": [
+      "Brief an HvH, 22.7.1900. Briefwechsel Bahr/Hofmannsthal. Hg. Elsbeth Dangel-Pelloquin. Göttingen: Wallstein. (In Vorbereitung)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9290474b-20f9-473e-859b-634818eb3669/node_type?resourceVersion=id%3A2863"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9290474b-20f9-473e-859b-634818eb3669/relationships/node_type?resourceVersion=id%3A2863"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9290474b-20f9-473e-859b-634818eb3669/revision_uid?resourceVersion=id%3A2863"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9290474b-20f9-473e-859b-634818eb3669/relationships/revision_uid?resourceVersion=id%3A2863"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9290474b-20f9-473e-859b-634818eb3669/uid?resourceVersion=id%3A2863"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9290474b-20f9-473e-859b-634818eb3669/relationships/uid?resourceVersion=id%3A2863"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9290474b-20f9-473e-859b-634818eb3669/field_event_type?resourceVersion=id%3A2863"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9290474b-20f9-473e-859b-634818eb3669/relationships/field_event_type?resourceVersion=id%3A2863"
+        }
+      }
+    }
+  }
+}

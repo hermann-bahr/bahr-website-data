@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "a1f14231-24cc-40d3-b8bc-3a33e9a642a4",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/a1f14231-24cc-40d3-b8bc-3a33e9a642a4?resourceVersion=id%3A3049"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/a1f14231-24cc-40d3-b8bc-3a33e9a642a4?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44133,
+    "drupal_internal__vid": 3049,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "AS",
+    "created": "2011-09-14T13:19:10+00:00",
+    "changed": "2011-09-14T13:19:10+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44133",
+      "pid": 1028,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Schnitzler besucht Bahr am 14. Juni 1894 zuhause auf.",
+      "format": "full_html",
+      "processed": "Schnitzler besucht Bahr am 14. Juni 1894 zuhause auf.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1894-06-14",
+      "end_value": "1894-06-14"
+    },
+    "field_sources": [
+      "Schnitzler: Tagebuch, II, 79."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a1f14231-24cc-40d3-b8bc-3a33e9a642a4/node_type?resourceVersion=id%3A3049"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a1f14231-24cc-40d3-b8bc-3a33e9a642a4/relationships/node_type?resourceVersion=id%3A3049"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a1f14231-24cc-40d3-b8bc-3a33e9a642a4/revision_uid?resourceVersion=id%3A3049"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a1f14231-24cc-40d3-b8bc-3a33e9a642a4/relationships/revision_uid?resourceVersion=id%3A3049"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a1f14231-24cc-40d3-b8bc-3a33e9a642a4/uid?resourceVersion=id%3A3049"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a1f14231-24cc-40d3-b8bc-3a33e9a642a4/relationships/uid?resourceVersion=id%3A3049"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a1f14231-24cc-40d3-b8bc-3a33e9a642a4/field_event_type?resourceVersion=id%3A3049"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a1f14231-24cc-40d3-b8bc-3a33e9a642a4/relationships/field_event_type?resourceVersion=id%3A3049"
+        }
+      }
+    }
+  }
+}

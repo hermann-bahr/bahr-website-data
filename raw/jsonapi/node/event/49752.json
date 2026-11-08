@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "11206541-db75-475a-9c2e-1b6f798475b6",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/11206541-db75-475a-9c2e-1b6f798475b6?resourceVersion=id%3A3524"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/11206541-db75-475a-9c2e-1b6f798475b6?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49752,
+    "drupal_internal__vid": 3524,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Wechselfieber",
+    "created": "2012-01-02T14:58:44+00:00",
+    "changed": "2012-01-02T14:58:44+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49752",
+      "pid": 1564,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Im Winter 1869/1870 dürfte die Vorgeschichte zum Kuraufenthalt in Bad Kreuzen zu verorten sein:<blockquote>Ich, vordem ein dicker schlimmer Bub, war im Winter durch Wechselfieber blaß und schmal geworden; Wasser und Wiesen des stillen Orts sollten mich bräunen und stärken.</blockquote>",
+      "format": "full_html",
+      "processed": "Im Winter 1869/1870 dürfte die Vorgeschichte zum Kuraufenthalt in Bad Kreuzen zu verorten sein:<blockquote>Ich, vordem ein dicker schlimmer Bub, war im Winter durch Wechselfieber blaß und schmal geworden; Wasser und Wiesen des stillen Orts sollten mich bräunen und stärken.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1870-01-01",
+      "end_value": "1870-01-01"
+    },
+    "field_sources": [
+      "Tagebuch. 12. Mai. In: Kritik der Gegenwart, 154-160, hier 155",
+      "(Hier auf 1.1.1870 datiert)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/11206541-db75-475a-9c2e-1b6f798475b6/node_type?resourceVersion=id%3A3524"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/11206541-db75-475a-9c2e-1b6f798475b6/relationships/node_type?resourceVersion=id%3A3524"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/11206541-db75-475a-9c2e-1b6f798475b6/revision_uid?resourceVersion=id%3A3524"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/11206541-db75-475a-9c2e-1b6f798475b6/relationships/revision_uid?resourceVersion=id%3A3524"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/11206541-db75-475a-9c2e-1b6f798475b6/uid?resourceVersion=id%3A3524"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/11206541-db75-475a-9c2e-1b6f798475b6/relationships/uid?resourceVersion=id%3A3524"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/11206541-db75-475a-9c2e-1b6f798475b6/field_event_type?resourceVersion=id%3A3524"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/11206541-db75-475a-9c2e-1b6f798475b6/relationships/field_event_type?resourceVersion=id%3A3524"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "c780727c-dbc8-4ea1-927d-4079cc04d27b",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/c780727c-dbc8-4ea1-927d-4079cc04d27b?resourceVersion=id%3A3358"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/c780727c-dbc8-4ea1-927d-4079cc04d27b?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49524,
+    "drupal_internal__vid": 3358,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "JR, Bahr krank",
+    "created": "2011-10-27T10:47:02+00:00",
+    "changed": "2011-11-02T10:52:38+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49524",
+      "pid": 1342,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 27. April 1925 ist Redlich in München…<blockquote>…wo mich Anna Bahr zu dem kranken Hermann führte, worauf mich dieser sehr unwirsch empfing, sodass ich ihn nach 30 Minuten verließ.</blockquote>Es ist der letzte Eintrag Redlichs zu Bahr in seinem Tagebuch. Bahr entschuldigt sich im Juni.",
+      "format": "full_html",
+      "processed": "Am 27. April 1925 ist Redlich in München…<blockquote>…wo mich Anna Bahr zu dem kranken Hermann führte, worauf mich dieser sehr unwirsch empfing, sodass ich ihn nach 30 Minuten verließ.</blockquote>Es ist der letzte Eintrag Redlichs zu Bahr in seinem Tagebuch. Bahr entschuldigt sich im Juni.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1925-04-27",
+      "end_value": "1925-04-27"
+    },
+    "field_sources": [
+      "Fritz Fellner und Doris A. Corradini (Hgg.): Schicksalsjahre Österreichs. Die Erinnerungen und Tagebücher Josef Redlichs 1869–1936. Wien: Böhlau 2011, II, 635-636.",
+      "Bahr/Redlich, 537 (Etwas unklar die Datierung, da Fellner den Brief auf den 20. datiert) und Bahrs Antwort am 8. Juni, 538."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c780727c-dbc8-4ea1-927d-4079cc04d27b/node_type?resourceVersion=id%3A3358"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c780727c-dbc8-4ea1-927d-4079cc04d27b/relationships/node_type?resourceVersion=id%3A3358"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c780727c-dbc8-4ea1-927d-4079cc04d27b/revision_uid?resourceVersion=id%3A3358"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c780727c-dbc8-4ea1-927d-4079cc04d27b/relationships/revision_uid?resourceVersion=id%3A3358"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c780727c-dbc8-4ea1-927d-4079cc04d27b/uid?resourceVersion=id%3A3358"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c780727c-dbc8-4ea1-927d-4079cc04d27b/relationships/uid?resourceVersion=id%3A3358"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c780727c-dbc8-4ea1-927d-4079cc04d27b/field_event_type?resourceVersion=id%3A3358"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c780727c-dbc8-4ea1-927d-4079cc04d27b/relationships/field_event_type?resourceVersion=id%3A3358"
+        }
+      }
+    }
+  }
+}

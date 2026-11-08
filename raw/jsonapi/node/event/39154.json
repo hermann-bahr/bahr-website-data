@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "b2e8ad77-1d52-4712-80b2-c12b1527d811",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b2e8ad77-1d52-4712-80b2-c12b1527d811?resourceVersion=id%3A2912"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b2e8ad77-1d52-4712-80b2-c12b1527d811?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39154,
+    "drupal_internal__vid": 2912,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "J. S. Machar",
+    "created": "2011-07-11T10:55:44+00:00",
+    "changed": "2011-07-11T10:56:05+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39154",
+      "pid": 882,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 22. Juli 1892 besucht Bahr Josef Svatopluk Machar um sich über die zeitgenössische tschechische Literatur zu erkundigen. In der Folge wird die Bekanntschaft wichtig für \"Die Zeit\" als Schauplatz tschechischer Politik.",
+      "format": "full_html",
+      "processed": "Am 22. Juli 1892 besucht Bahr Josef Svatopluk Machar um sich über die zeitgenössische tschechische Literatur zu erkundigen. In der Folge wird die Bekanntschaft wichtig für \"Die Zeit\" als Schauplatz tschechischer Politik.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1892-07-22",
+      "end_value": "1892-07-22"
+    },
+    "field_sources": [
+      "Brief Machars an Alois Jirásek, 23.7.1892. In: Kostrbová, Lucie; Kurt Ifkovits; Vratislav Doubek: Die Wiener Wochenschrift Die Zeit (1894–1904) als Mittler zwischen der Tschechischen und Wiener Moderne. Prag, Wien: Masarykův ústav a Archiv AV ČR, Österreichisches Theatermuseum 2011, 277-278."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b2e8ad77-1d52-4712-80b2-c12b1527d811/node_type?resourceVersion=id%3A2912"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b2e8ad77-1d52-4712-80b2-c12b1527d811/relationships/node_type?resourceVersion=id%3A2912"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b2e8ad77-1d52-4712-80b2-c12b1527d811/revision_uid?resourceVersion=id%3A2912"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b2e8ad77-1d52-4712-80b2-c12b1527d811/relationships/revision_uid?resourceVersion=id%3A2912"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b2e8ad77-1d52-4712-80b2-c12b1527d811/uid?resourceVersion=id%3A2912"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b2e8ad77-1d52-4712-80b2-c12b1527d811/relationships/uid?resourceVersion=id%3A2912"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b2e8ad77-1d52-4712-80b2-c12b1527d811/field_event_type?resourceVersion=id%3A2912"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b2e8ad77-1d52-4712-80b2-c12b1527d811/relationships/field_event_type?resourceVersion=id%3A2912"
+        }
+      }
+    }
+  }
+}

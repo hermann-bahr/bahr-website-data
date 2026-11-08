@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bilder__1923-dolbin" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">1923 Dolbin</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">74457</idno>
+        <idno type="drupal-alias">/bild/74457</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bild/74457">https://bahr.univie.ac.at/bild/74457</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="7" key="bilder">Bilder</term>
+          <term n="34" key="1923-dolbin" type="eintrag">1923 Dolbin</term>
+        </keywords>
+        <classCode scheme="drupal-type">image</classCode>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013-01-17T10:33:07+00:00" type="created">angelegt in Drupal</change>
+      <change when="2013-01-17T10:33:07+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <figure>
+          <graphic url="files/bahr_bilder/1923_dolbin.jpg"/>
+          <figDesc>1923 Dolbin</figDesc>
+        </figure>
+        <p>
+          <hi rend="italic">Aus: Der Querschnitt, 3 (1923), 183.</hi>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

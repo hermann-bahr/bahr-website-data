@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "11cdc523-aecc-4857-a6fb-a145f80fd467",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/11cdc523-aecc-4857-a6fb-a145f80fd467?resourceVersion=id%3A2966"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/11cdc523-aecc-4857-a6fb-a145f80fd467?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44046,
+    "drupal_internal__vid": 2966,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Berlin",
+    "created": "2011-08-30T14:21:22+00:00",
+    "changed": "2011-08-30T14:21:22+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44046",
+      "pid": 944,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Von Breslau kommend ist Bahr vom 24. bis zum 26. Oktober 1903 in Berlin. Unter anderem besucht er Max Reinhardt bei Proben für die \"Elektra\" im Kleinen Theater.",
+      "format": "full_html",
+      "processed": "Von Breslau kommend ist Bahr vom 24. bis zum 26. Oktober 1903 in Berlin. Unter anderem besucht er Max Reinhardt bei Proben für die \"Elektra\" im Kleinen Theater.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1903-10-24",
+      "end_value": "1903-10-26"
+    },
+    "field_sources": [
+      "Tagebücher (Csàky), III, 403."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/11cdc523-aecc-4857-a6fb-a145f80fd467/node_type?resourceVersion=id%3A2966"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/11cdc523-aecc-4857-a6fb-a145f80fd467/relationships/node_type?resourceVersion=id%3A2966"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/11cdc523-aecc-4857-a6fb-a145f80fd467/revision_uid?resourceVersion=id%3A2966"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/11cdc523-aecc-4857-a6fb-a145f80fd467/relationships/revision_uid?resourceVersion=id%3A2966"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/11cdc523-aecc-4857-a6fb-a145f80fd467/uid?resourceVersion=id%3A2966"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/11cdc523-aecc-4857-a6fb-a145f80fd467/relationships/uid?resourceVersion=id%3A2966"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/11cdc523-aecc-4857-a6fb-a145f80fd467/field_event_type?resourceVersion=id%3A2966"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/11cdc523-aecc-4857-a6fb-a145f80fd467/relationships/field_event_type?resourceVersion=id%3A2966"
+        }
+      }
+    }
+  }
+}

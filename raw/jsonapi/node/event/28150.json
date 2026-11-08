@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "f58ef51e-c2b9-48fc-bff9-b67dc9cdbc91",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f58ef51e-c2b9-48fc-bff9-b67dc9cdbc91?resourceVersion=id%3A2464"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f58ef51e-c2b9-48fc-bff9-b67dc9cdbc91?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28150,
+    "drupal_internal__vid": 2464,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Hamburg",
+    "created": "2010-08-24T12:23:10+00:00",
+    "changed": "2011-09-02T12:12:13+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28150",
+      "pid": 300,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 25. Februar 1908 liest Bahr in der Literarischen Gesellschaft in Hamburg Schnitzlers \"Die Toten schweigen\".",
+      "format": "full_html",
+      "processed": "Am 25. Februar 1908 liest Bahr in der Literarischen Gesellschaft in Hamburg Schnitzlers \"Die Toten schweigen\".",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1908-02-25",
+      "end_value": "1908-02-25"
+    },
+    "field_sources": [
+      "Hamburger Fremdenblatt, 25.2.1908"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f58ef51e-c2b9-48fc-bff9-b67dc9cdbc91/node_type?resourceVersion=id%3A2464"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f58ef51e-c2b9-48fc-bff9-b67dc9cdbc91/relationships/node_type?resourceVersion=id%3A2464"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f58ef51e-c2b9-48fc-bff9-b67dc9cdbc91/revision_uid?resourceVersion=id%3A2464"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f58ef51e-c2b9-48fc-bff9-b67dc9cdbc91/relationships/revision_uid?resourceVersion=id%3A2464"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f58ef51e-c2b9-48fc-bff9-b67dc9cdbc91/uid?resourceVersion=id%3A2464"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f58ef51e-c2b9-48fc-bff9-b67dc9cdbc91/relationships/uid?resourceVersion=id%3A2464"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f58ef51e-c2b9-48fc-bff9-b67dc9cdbc91/field_event_type?resourceVersion=id%3A2464"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f58ef51e-c2b9-48fc-bff9-b67dc9cdbc91/relationships/field_event_type?resourceVersion=id%3A2464"
+        }
+      }
+    }
+  }
+}

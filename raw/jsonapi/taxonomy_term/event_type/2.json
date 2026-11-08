@@ -1,0 +1,86 @@
+{
+  "type": "taxonomy_term--event_type",
+  "id": "2f55ff54-49af-41ba-a2d1-45a7ac71add2",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/taxonomy_term/event_type/2f55ff54-49af-41ba-a2d1-45a7ac71add2?resourceVersion=id%3A21"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/taxonomy_term/event_type/2f55ff54-49af-41ba-a2d1-45a7ac71add2?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__tid": 2,
+    "drupal_internal__revision_id": 21,
+    "langcode": "de",
+    "revision_created": "2020-02-17T11:50:35+00:00",
+    "status": true,
+    "name": "Literarische Prosa",
+    "description": null,
+    "weight": 0,
+    "changed": "2020-02-17T11:50:35+00:00",
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/event-type/literarische-prosa",
+      "pid": 1884,
+      "langcode": "de"
+    }
+  },
+  "relationships": {
+    "vid": {
+      "data": {
+        "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+        "id": "8ca0f14a-d915-460d-a2e6-7c4132a5858d",
+        "meta": {
+          "drupal_internal__target_id": "event_type"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/taxonomy_term/event_type/2f55ff54-49af-41ba-a2d1-45a7ac71add2/vid?resourceVersion=id%3A21"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/taxonomy_term/event_type/2f55ff54-49af-41ba-a2d1-45a7ac71add2/relationships/vid?resourceVersion=id%3A21"
+        }
+      }
+    },
+    "revision_user": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/taxonomy_term/event_type/2f55ff54-49af-41ba-a2d1-45a7ac71add2/revision_user?resourceVersion=id%3A21"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/taxonomy_term/event_type/2f55ff54-49af-41ba-a2d1-45a7ac71add2/relationships/revision_user?resourceVersion=id%3A21"
+        }
+      }
+    },
+    "parent": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "virtual",
+          "meta": {
+            "links": {
+              "help": {
+                "href": "https://www.drupal.org/docs/8/modules/json-api/core-concepts#virtual",
+                "meta": {
+                  "about": "Usage and meaning of the 'virtual' resource identifier."
+                }
+              }
+            }
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/taxonomy_term/event_type/2f55ff54-49af-41ba-a2d1-45a7ac71add2/parent?resourceVersion=id%3A21"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/taxonomy_term/event_type/2f55ff54-49af-41ba-a2d1-45a7ac71add2/relationships/parent?resourceVersion=id%3A21"
+        }
+      }
+    }
+  }
+}

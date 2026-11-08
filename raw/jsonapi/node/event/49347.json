@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "56346f23-d851-49c9-a4ff-33d432d89f43",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/56346f23-d851-49c9-a4ff-33d432d89f43?resourceVersion=id%3A3194"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/56346f23-d851-49c9-a4ff-33d432d89f43?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49347,
+    "drupal_internal__vid": 3194,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Sarah Bernhardt",
+    "created": "2011-10-11T12:14:44+00:00",
+    "changed": "2011-10-11T12:27:03+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49347",
+      "pid": 1173,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahr ist beim Neuen Wiener Tagblatt für das Gastspiel, das die Künstlerin mit ihrer Truppe vom 8. bis zum 11. November 1904 im Carl-Theater bestreitet, zuständig.",
+      "format": "full_html",
+      "processed": "Bahr ist beim Neuen Wiener Tagblatt für das Gastspiel, das die Künstlerin mit ihrer Truppe vom 8. bis zum 11. November 1904 im Carl-Theater bestreitet, zuständig.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1904-11-08",
+      "end_value": "1904-11-11"
+    },
+    "field_sources": [
+      "Hermann Bahr: Sarah Bernhardt. (Gastspiel im Carl-Theater vom 8. bis 11. November 1904). Neues Wiener Tagblatt, 38 (1904) #311, 11-12. (9.11.1904) Buchausgabe: Glossen, 364-372.",
+      "H. B.: Theater, Kunst und Literatur. Carl-Theater. Neues Wiener Tagblatt, 38 (1904) #312, 11. (10.11.1904)",
+      "H. B.: Theater, Kunst und Literatur. Carl-Theater. Neues Wiener Tagblatt, 38 (1904) #313, 11. (11.11.1904) Buchausgabe: Glossen, 372-373."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/56346f23-d851-49c9-a4ff-33d432d89f43/node_type?resourceVersion=id%3A3194"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/56346f23-d851-49c9-a4ff-33d432d89f43/relationships/node_type?resourceVersion=id%3A3194"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/56346f23-d851-49c9-a4ff-33d432d89f43/revision_uid?resourceVersion=id%3A3194"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/56346f23-d851-49c9-a4ff-33d432d89f43/relationships/revision_uid?resourceVersion=id%3A3194"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/56346f23-d851-49c9-a4ff-33d432d89f43/uid?resourceVersion=id%3A3194"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/56346f23-d851-49c9-a4ff-33d432d89f43/relationships/uid?resourceVersion=id%3A3194"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/56346f23-d851-49c9-a4ff-33d432d89f43/field_event_type?resourceVersion=id%3A3194"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/56346f23-d851-49c9-a4ff-33d432d89f43/relationships/field_event_type?resourceVersion=id%3A3194"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "type": "node--image",
+  "id": "b5815d58-985b-4273-b06c-1e1fa0422aa0",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/image/b5815d58-985b-4273-b06c-1e1fa0422aa0?resourceVersion=id%3A3994"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/image/b5815d58-985b-4273-b06c-1e1fa0422aa0?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74458,
+    "drupal_internal__vid": 3994,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:44:08+00:00",
+    "status": true,
+    "title": "Mit Peter Altenberg und Koloman Moser am Lido 1913",
+    "created": "2013-01-17T10:42:56+00:00",
+    "changed": "2013-01-17T10:42:56+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/bild/74458",
+      "pid": 1832,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<i>Fotografie von Lotte Bloch-Zavrel. Aus: Der Querschnitt, 5 (1925) #8 (August).<br>Datierung auf 1913 aufgrund der Fotografie Bahr mit Zavrel am Lido in der Imagno-Datenbank</i>",
+      "format": "full_html",
+      "processed": "<i>Fotografie von Lotte Bloch-Zavrel. Aus: Der Querschnitt, 5 (1925) #8 (August).<br>Datierung auf 1913 aufgrund der Fotografie Bahr mit Zavrel am Lido in der Imagno-Datenbank</i>",
+      "summary": null
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "e2381624-d098-4c5b-bdd7-5dbfd773b84e",
+        "meta": {
+          "drupal_internal__target_id": "image"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/b5815d58-985b-4273-b06c-1e1fa0422aa0/node_type?resourceVersion=id%3A3994"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/b5815d58-985b-4273-b06c-1e1fa0422aa0/relationships/node_type?resourceVersion=id%3A3994"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/b5815d58-985b-4273-b06c-1e1fa0422aa0/revision_uid?resourceVersion=id%3A3994"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/b5815d58-985b-4273-b06c-1e1fa0422aa0/relationships/revision_uid?resourceVersion=id%3A3994"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/b5815d58-985b-4273-b06c-1e1fa0422aa0/uid?resourceVersion=id%3A3994"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/b5815d58-985b-4273-b06c-1e1fa0422aa0/relationships/uid?resourceVersion=id%3A3994"
+        }
+      }
+    },
+    "field_images": {
+      "data": [
+        {
+          "type": "media--image",
+          "id": "db43782a-a4a2-4bcb-a34a-9afcc66fa23f",
+          "meta": {
+            "drupal_internal__target_id": 174
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/b5815d58-985b-4273-b06c-1e1fa0422aa0/field_images?resourceVersion=id%3A3994"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/b5815d58-985b-4273-b06c-1e1fa0422aa0/relationships/field_images?resourceVersion=id%3A3994"
+        }
+      }
+    }
+  }
+}

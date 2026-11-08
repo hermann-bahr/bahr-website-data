@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "cbb503ab-bcb4-48c1-b4d0-068048ee2ded",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/cbb503ab-bcb4-48c1-b4d0-068048ee2ded?resourceVersion=id%3A3456"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/cbb503ab-bcb4-48c1-b4d0-068048ee2ded?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49631,
+    "drupal_internal__vid": 3456,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "\"Die gute Schule\" beendet",
+    "created": "2011-11-18T13:59:34+00:00",
+    "changed": "2011-11-18T14:04:51+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49631",
+      "pid": 1446,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Im \"Selbstbildnis\" erinnert sich Bahr, seinen ersten Roman, \"Die gute Schule\", in Sevilla beendet zu haben. Also spätestens am 30. Dezember 1889.",
+      "format": "full_html",
+      "processed": "Im \"Selbstbildnis\" erinnert sich Bahr, seinen ersten Roman, \"Die gute Schule\", in Sevilla beendet zu haben. Also spätestens am 30. Dezember 1889.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1889-12-30",
+      "end_value": "1889-12-30"
+    },
+    "field_sources": [
+      "Selbstbildnis, 215"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cbb503ab-bcb4-48c1-b4d0-068048ee2ded/node_type?resourceVersion=id%3A3456"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cbb503ab-bcb4-48c1-b4d0-068048ee2ded/relationships/node_type?resourceVersion=id%3A3456"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cbb503ab-bcb4-48c1-b4d0-068048ee2ded/revision_uid?resourceVersion=id%3A3456"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cbb503ab-bcb4-48c1-b4d0-068048ee2ded/relationships/revision_uid?resourceVersion=id%3A3456"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cbb503ab-bcb4-48c1-b4d0-068048ee2ded/uid?resourceVersion=id%3A3456"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cbb503ab-bcb4-48c1-b4d0-068048ee2ded/relationships/uid?resourceVersion=id%3A3456"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cbb503ab-bcb4-48c1-b4d0-068048ee2ded/field_event_type?resourceVersion=id%3A3456"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cbb503ab-bcb4-48c1-b4d0-068048ee2ded/relationships/field_event_type?resourceVersion=id%3A3456"
+        }
+      }
+    }
+  }
+}

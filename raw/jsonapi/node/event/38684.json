@@ -1,0 +1,114 @@
+{
+  "type": "node--event",
+  "id": "f96ed61d-171d-4e43-baa5-cedd637e8e36",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f96ed61d-171d-4e43-baa5-cedd637e8e36?resourceVersion=id%3A2550"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f96ed61d-171d-4e43-baa5-cedd637e8e36?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38684,
+    "drupal_internal__vid": 2550,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Union dramat. Autoren",
+    "created": "2010-12-21T13:40:24+00:00",
+    "changed": "2010-12-21T13:43:38+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38684",
+      "pid": 436,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Der vom Österreichischen Bühnenverein herausgegebene \"Österreichischer Theater-Kalender pro 1911\" (Wien: Wallishaussersche k. u. k. Hofbuchhandlung (Adolf W. Künast), S. 34.) führt Bahr als Mitglied der <i>Union dramatischer Autoren und Komponisten in Wien</i> für das Jahr 1909/1910. Bahrs Eintrag lautet:\r\n<blockquote>Hermann Bahr, Schriftsteller, Wien, 13. Bez., Veitlissengasse 7.</blockquote>Anna Bahr-Mildenburg, Solosängerin in der Hofoper, scheint ebenfalls unter der Adresse von Bahrs Olbrich-Haus auf.",
+      "format": "full_html",
+      "processed": "Der vom Österreichischen Bühnenverein herausgegebene \"Österreichischer Theater-Kalender pro 1911\" (Wien: Wallishaussersche k. u. k. Hofbuchhandlung (Adolf W. Künast), S. 34.) führt Bahr als Mitglied der <i>Union dramatischer Autoren und Komponisten in Wien</i> für das Jahr 1909/1910. Bahrs Eintrag lautet:\n<blockquote>Hermann Bahr, Schriftsteller, Wien, 13. Bez., Veitlissengasse 7.</blockquote>Anna Bahr-Mildenburg, Solosängerin in der Hofoper, scheint ebenfalls unter der Adresse von Bahrs Olbrich-Haus auf.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1909-09-01",
+      "end_value": "1909-09-01"
+    },
+    "field_sources": []
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f96ed61d-171d-4e43-baa5-cedd637e8e36/node_type?resourceVersion=id%3A2550"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f96ed61d-171d-4e43-baa5-cedd637e8e36/relationships/node_type?resourceVersion=id%3A2550"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f96ed61d-171d-4e43-baa5-cedd637e8e36/revision_uid?resourceVersion=id%3A2550"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f96ed61d-171d-4e43-baa5-cedd637e8e36/relationships/revision_uid?resourceVersion=id%3A2550"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f96ed61d-171d-4e43-baa5-cedd637e8e36/uid?resourceVersion=id%3A2550"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f96ed61d-171d-4e43-baa5-cedd637e8e36/relationships/uid?resourceVersion=id%3A2550"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f96ed61d-171d-4e43-baa5-cedd637e8e36/field_event_type?resourceVersion=id%3A2550"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f96ed61d-171d-4e43-baa5-cedd637e8e36/relationships/field_event_type?resourceVersion=id%3A2550"
+        }
+      }
+    }
+  }
+}

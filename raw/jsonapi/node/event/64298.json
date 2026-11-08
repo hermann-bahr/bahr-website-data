@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "ff09ed4b-191d-4c37-be77-3a0df292e49f",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/ff09ed4b-191d-4c37-be77-3a0df292e49f?resourceVersion=id%3A3685"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/ff09ed4b-191d-4c37-be77-3a0df292e49f?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 64298,
+    "drupal_internal__vid": 3685,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Max Burckhard",
+    "created": "2012-10-08T13:25:21+00:00",
+    "changed": "2012-10-08T13:25:21+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/64298",
+      "pid": 1731,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "In seinen \"Erinnerungen an Burckhard\" schreibt Bahr über die Zeit, in der er in der Porzellangasse wohnte, dass er sich mit seinem engsten Freund, dem Direktor des Hofburgtheaters Max Burckhard bis zu dessen Demission täglich traf. Diese findet zu Jahresbeginn 1898 statt, 1900 zieht Bahr nach Ober St. Veit. Die Freundschaft bleibt, der enge Austausch geht aber zurück.\r\n",
+      "format": "full_html",
+      "processed": "In seinen \"Erinnerungen an Burckhard\" schreibt Bahr über die Zeit, in der er in der Porzellangasse wohnte, dass er sich mit seinem engsten Freund, dem Direktor des Hofburgtheaters Max Burckhard bis zu dessen Demission täglich traf. Diese findet zu Jahresbeginn 1898 statt, 1900 zieht Bahr nach Ober St. Veit. Die Freundschaft bleibt, der enge Austausch geht aber zurück.\n",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1897-01-01",
+      "end_value": "1897-01-01"
+    },
+    "field_sources": [
+      "Erinnerung an Burckhard, 15.",
+      "(Hier auf 1.1.1897 datiert)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ff09ed4b-191d-4c37-be77-3a0df292e49f/node_type?resourceVersion=id%3A3685"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ff09ed4b-191d-4c37-be77-3a0df292e49f/relationships/node_type?resourceVersion=id%3A3685"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ff09ed4b-191d-4c37-be77-3a0df292e49f/revision_uid?resourceVersion=id%3A3685"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ff09ed4b-191d-4c37-be77-3a0df292e49f/relationships/revision_uid?resourceVersion=id%3A3685"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ff09ed4b-191d-4c37-be77-3a0df292e49f/uid?resourceVersion=id%3A3685"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ff09ed4b-191d-4c37-be77-3a0df292e49f/relationships/uid?resourceVersion=id%3A3685"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ff09ed4b-191d-4c37-be77-3a0df292e49f/field_event_type?resourceVersion=id%3A3685"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ff09ed4b-191d-4c37-be77-3a0df292e49f/relationships/field_event_type?resourceVersion=id%3A3685"
+        }
+      }
+    }
+  }
+}

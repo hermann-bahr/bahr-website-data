@@ -1,0 +1,119 @@
+{
+  "type": "node--event",
+  "id": "0eed9051-bd96-4327-a132-62f45fa30d7b",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/0eed9051-bd96-4327-a132-62f45fa30d7b?resourceVersion=id%3A2265"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/0eed9051-bd96-4327-a132-62f45fa30d7b?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27923,
+    "drupal_internal__vid": 2265,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Anonymes für Viktor Adlers Gleichheit",
+    "created": "2010-07-16T15:47:29+00:00",
+    "changed": "2013-03-12T15:03:47+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/27923",
+      "pid": 99,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Ab der ersten Nummer (11.12.1886) und für einen Zeitraum von einem knappen Jahr ist Bahr Mitarbeiter von Viktor Adlers \"Die Gleichheit\". Er schreibt Anonym oder mit dem Kürzel \"H–R\". Mit dem Beginn des Militärjahres am 1. Oktober 1887 endet aller Wahrscheinlichkeit nach seine Mitarbeit. Bei der im \"Selbstbildnis\" gebrachten Anekdote, dass er während des Militärjahres für die \"Gleichheit\" schrieb, dürfte es sich um eine historische Verklärung handeln. Womöglich hat er noch Zeit in der Redaktion verbracht, doch zuordenbar ist nichts mehr. Er berichtet von der Zeit auch in seinem \"Tagebuch\". ",
+      "format": "full_html",
+      "processed": "Ab der ersten Nummer (11.12.1886) und für einen Zeitraum von einem knappen Jahr ist Bahr Mitarbeiter von Viktor Adlers \"Die Gleichheit\". Er schreibt Anonym oder mit dem Kürzel \"H–R\". Mit dem Beginn des Militärjahres am 1. Oktober 1887 endet aller Wahrscheinlichkeit nach seine Mitarbeit. Bei der im \"Selbstbildnis\" gebrachten Anekdote, dass er während des Militärjahres für die \"Gleichheit\" schrieb, dürfte es sich um eine historische Verklärung handeln. Womöglich hat er noch Zeit in der Redaktion verbracht, doch zuordenbar ist nichts mehr. Er berichtet von der Zeit auch in seinem \"Tagebuch\". ",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1886-12-11",
+      "end_value": "1887-10-01"
+    },
+    "field_sources": [
+      "Selbstbildnis, 211",
+      "Hermann Bahr: Tagebuch. Salzburg, 7. Januar. Neues Wiener Journal, 26 (1918) #8706, 5. (27.1.1918) Buchausgabe: Tagebücher 2, 19-27\r\n",
+      "Michler, Werner: Zwischen Minna Kautsky und Hermann Bahr. Literarische Intelligenz und österreichische Arbeiterbewegung vor Hainfeld (1889). In: Klaus Amann (Hg.): Literarisches Leben in Österreich. Wien [u.a.]: Böhlau 2000, 94-137.",
+      "Brief an den Vater, 3. Mai 1887"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0eed9051-bd96-4327-a132-62f45fa30d7b/node_type?resourceVersion=id%3A2265"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0eed9051-bd96-4327-a132-62f45fa30d7b/relationships/node_type?resourceVersion=id%3A2265"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0eed9051-bd96-4327-a132-62f45fa30d7b/revision_uid?resourceVersion=id%3A2265"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0eed9051-bd96-4327-a132-62f45fa30d7b/relationships/revision_uid?resourceVersion=id%3A2265"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0eed9051-bd96-4327-a132-62f45fa30d7b/uid?resourceVersion=id%3A2265"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0eed9051-bd96-4327-a132-62f45fa30d7b/relationships/uid?resourceVersion=id%3A2265"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "d579e54c-64dd-4193-a9ef-da87efb3ed16",
+          "meta": {
+            "drupal_internal__target_id": 8
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0eed9051-bd96-4327-a132-62f45fa30d7b/field_event_type?resourceVersion=id%3A2265"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0eed9051-bd96-4327-a132-62f45fa30d7b/relationships/field_event_type?resourceVersion=id%3A2265"
+        }
+      }
+    }
+  }
+}

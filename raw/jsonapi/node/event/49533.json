@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "fe83b62c-4eeb-4b82-bd9b-e5b33a74f4cb",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/fe83b62c-4eeb-4b82-bd9b-e5b33a74f4cb?resourceVersion=id%3A3366"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/fe83b62c-4eeb-4b82-bd9b-e5b33a74f4cb?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49533,
+    "drupal_internal__vid": 3366,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Vorträge Holland, Absage",
+    "created": "2011-10-28T12:02:44+00:00",
+    "changed": "2011-10-28T12:06:09+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49533",
+      "pid": 1350,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 18. April 1923 ist Bahr unsicher, ob ihm die Rekonvaleszenz von einer schweren Grippeerkrankung erlauben wird, die für Mitte Mai in Holland angesetzten Vorträge auch zu halten. Am 2. Mai sind sie abgesagt.",
+      "format": "full_html",
+      "processed": "Am 18. April 1923 ist Bahr unsicher, ob ihm die Rekonvaleszenz von einer schweren Grippeerkrankung erlauben wird, die für Mitte Mai in Holland angesetzten Vorträge auch zu halten. Am 2. Mai sind sie abgesagt.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1923-05-02",
+      "end_value": "1923-05-02"
+    },
+    "field_sources": [
+      "Bahr/Redlich, 487 und 490."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fe83b62c-4eeb-4b82-bd9b-e5b33a74f4cb/node_type?resourceVersion=id%3A3366"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fe83b62c-4eeb-4b82-bd9b-e5b33a74f4cb/relationships/node_type?resourceVersion=id%3A3366"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fe83b62c-4eeb-4b82-bd9b-e5b33a74f4cb/revision_uid?resourceVersion=id%3A3366"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fe83b62c-4eeb-4b82-bd9b-e5b33a74f4cb/relationships/revision_uid?resourceVersion=id%3A3366"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fe83b62c-4eeb-4b82-bd9b-e5b33a74f4cb/uid?resourceVersion=id%3A3366"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fe83b62c-4eeb-4b82-bd9b-e5b33a74f4cb/relationships/uid?resourceVersion=id%3A3366"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fe83b62c-4eeb-4b82-bd9b-e5b33a74f4cb/field_event_type?resourceVersion=id%3A3366"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fe83b62c-4eeb-4b82-bd9b-e5b33a74f4cb/relationships/field_event_type?resourceVersion=id%3A3366"
+        }
+      }
+    }
+  }
+}

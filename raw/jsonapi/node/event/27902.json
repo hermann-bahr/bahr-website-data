@@ -1,0 +1,114 @@
+{
+  "type": "node--event",
+  "id": "70117593-b1f7-48db-8583-947f15d85c96",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/70117593-b1f7-48db-8583-947f15d85c96?resourceVersion=id%3A2250"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/70117593-b1f7-48db-8583-947f15d85c96?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27902,
+    "drupal_internal__vid": 2250,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Erster Dramaturg am Burgtheater",
+    "created": "2010-06-24T11:31:04+00:00",
+    "changed": "2011-10-19T11:22:09+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/27902",
+      "pid": 83,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Auf das erfolglose Dreierkollegium folgt mit 12. November 1918 die Intendanz von Albert Heine und Bahrs erneute Ernennung zum Ersten Dramaturgen am Burgtheater, der für die Stückauswahl zuständig ist. Im März 1919 wird bekannt, dass Bahr das Burgtheater mit Ablauf der Spielzeit (31. August) verlässt.",
+      "format": "full_html",
+      "processed": "Auf das erfolglose Dreierkollegium folgt mit 12. November 1918 die Intendanz von Albert Heine und Bahrs erneute Ernennung zum Ersten Dramaturgen am Burgtheater, der für die Stückauswahl zuständig ist. Im März 1919 wird bekannt, dass Bahr das Burgtheater mit Ablauf der Spielzeit (31. August) verlässt.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1918-11-12",
+      "end_value": "1919-08-31"
+    },
+    "field_sources": []
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/70117593-b1f7-48db-8583-947f15d85c96/node_type?resourceVersion=id%3A2250"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/70117593-b1f7-48db-8583-947f15d85c96/relationships/node_type?resourceVersion=id%3A2250"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/70117593-b1f7-48db-8583-947f15d85c96/revision_uid?resourceVersion=id%3A2250"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/70117593-b1f7-48db-8583-947f15d85c96/relationships/revision_uid?resourceVersion=id%3A2250"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/70117593-b1f7-48db-8583-947f15d85c96/uid?resourceVersion=id%3A2250"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/70117593-b1f7-48db-8583-947f15d85c96/relationships/uid?resourceVersion=id%3A2250"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/70117593-b1f7-48db-8583-947f15d85c96/field_event_type?resourceVersion=id%3A2250"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/70117593-b1f7-48db-8583-947f15d85c96/relationships/field_event_type?resourceVersion=id%3A2250"
+        }
+      }
+    }
+  }
+}

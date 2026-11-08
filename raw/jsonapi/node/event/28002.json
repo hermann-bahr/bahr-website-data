@@ -1,0 +1,119 @@
+{
+  "type": "node--event",
+  "id": "7df70772-3005-4273-bb3f-ff16c5efa009",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/7df70772-3005-4273-bb3f-ff16c5efa009?resourceVersion=id%3A2334"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/7df70772-3005-4273-bb3f-ff16c5efa009?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28002,
+    "drupal_internal__vid": 2334,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Bei Novelli in Rimini",
+    "created": "2010-07-27T14:47:14+00:00",
+    "changed": "2011-11-11T13:42:03+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28002",
+      "pid": 168,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "An die Mutter, 24.7.[1901]:\r\n<blockquote>Es ist nun entschieden, dass ich am 1. direkt über Fiume nach Rimini zu Novelli gehe, dort etwa eine Woche bleibe[…]</blockquote>Er fährt über Abbazia (1. August) und kommt am 4. an und bleibt drei Tage.",
+      "format": "full_html",
+      "processed": "An die Mutter, 24.7.[1901]:\n<blockquote>Es ist nun entschieden, dass ich am 1. direkt über Fiume nach Rimini zu Novelli gehe, dort etwa eine Woche bleibe[…]</blockquote>Er fährt über Abbazia (1. August) und kommt am 4. an und bleibt drei Tage.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1901-08-01",
+      "end_value": "1901-08-07"
+    },
+    "field_sources": [
+      "Briefe an die Mutter im Nachlass",
+      "Tagebücher (Csàky), III, 39-42 und 77-81.",
+      "Hermann Bahr: Novelli. (Als Gast im Raimund-Theater vom 14. bis 17. Mai 1903). Neues Wiener Tagblatt, 37 (1903) #132, 1-3. (14.5.1903) Buchausgabe: Glossen, 303-314",
+      "1919. Tagebuch, 51-56, hier: 56."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7df70772-3005-4273-bb3f-ff16c5efa009/node_type?resourceVersion=id%3A2334"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7df70772-3005-4273-bb3f-ff16c5efa009/relationships/node_type?resourceVersion=id%3A2334"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7df70772-3005-4273-bb3f-ff16c5efa009/revision_uid?resourceVersion=id%3A2334"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7df70772-3005-4273-bb3f-ff16c5efa009/relationships/revision_uid?resourceVersion=id%3A2334"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7df70772-3005-4273-bb3f-ff16c5efa009/uid?resourceVersion=id%3A2334"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7df70772-3005-4273-bb3f-ff16c5efa009/relationships/uid?resourceVersion=id%3A2334"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7df70772-3005-4273-bb3f-ff16c5efa009/field_event_type?resourceVersion=id%3A2334"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7df70772-3005-4273-bb3f-ff16c5efa009/relationships/field_event_type?resourceVersion=id%3A2334"
+        }
+      }
+    }
+  }
+}

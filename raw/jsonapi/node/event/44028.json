@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "7cd368dd-6d5f-41ad-8a51-d7b42dcea97d",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/7cd368dd-6d5f-41ad-8a51-d7b42dcea97d?resourceVersion=id%3A2949"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/7cd368dd-6d5f-41ad-8a51-d7b42dcea97d?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44028,
+    "drupal_internal__vid": 2949,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Reinhardt, Kahane",
+    "created": "2011-08-19T15:44:02+00:00",
+    "changed": "2011-08-30T12:47:40+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44028",
+      "pid": 926,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 30. April 1903 kommt es in Wien zu einem Treffen zwischen Arthur Kahane, Max Reinhardt und Bahr. Thema: Ein Theater Reinhardts in Wien. Weitere Treffen in den nächsten Wochen.",
+      "format": "full_html",
+      "processed": "Am 30. April 1903 kommt es in Wien zu einem Treffen zwischen Arthur Kahane, Max Reinhardt und Bahr. Thema: Ein Theater Reinhardts in Wien. Weitere Treffen in den nächsten Wochen.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1903-04-30",
+      "end_value": "1903-04-30"
+    },
+    "field_sources": [
+      "Tagebücher (Csàky), III, XXII und III, 309-310."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7cd368dd-6d5f-41ad-8a51-d7b42dcea97d/node_type?resourceVersion=id%3A2949"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7cd368dd-6d5f-41ad-8a51-d7b42dcea97d/relationships/node_type?resourceVersion=id%3A2949"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7cd368dd-6d5f-41ad-8a51-d7b42dcea97d/revision_uid?resourceVersion=id%3A2949"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7cd368dd-6d5f-41ad-8a51-d7b42dcea97d/relationships/revision_uid?resourceVersion=id%3A2949"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7cd368dd-6d5f-41ad-8a51-d7b42dcea97d/uid?resourceVersion=id%3A2949"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7cd368dd-6d5f-41ad-8a51-d7b42dcea97d/relationships/uid?resourceVersion=id%3A2949"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7cd368dd-6d5f-41ad-8a51-d7b42dcea97d/field_event_type?resourceVersion=id%3A2949"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7cd368dd-6d5f-41ad-8a51-d7b42dcea97d/relationships/field_event_type?resourceVersion=id%3A2949"
+        }
+      }
+    }
+  }
+}

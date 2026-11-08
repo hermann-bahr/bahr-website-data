@@ -1,0 +1,42 @@
+{
+  "type": "file--file",
+  "id": "bf8d9fa1-7689-4733-9f7e-e8cd9fc7c13f",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/file/file/bf8d9fa1-7689-4733-9f7e-e8cd9fc7c13f"
+    }
+  },
+  "attributes": {
+    "drupal_internal__fid": 285,
+    "langcode": "de",
+    "filename": "bahrschnitzler.png",
+    "uri": {
+      "value": "public://inline-images/bahrschnitzler.png",
+      "url": "/sites/default/files/inline-images/bahrschnitzler.png"
+    },
+    "filemime": "image/png",
+    "filesize": 148100,
+    "status": true,
+    "created": "2020-02-28T11:27:36+00:00",
+    "changed": "2020-02-28T11:28:49+00:00"
+  },
+  "relationships": {
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/file/file/bf8d9fa1-7689-4733-9f7e-e8cd9fc7c13f/uid"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/file/file/bf8d9fa1-7689-4733-9f7e-e8cd9fc7c13f/relationships/uid"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "778b1bdf-c444-4352-bc41-8ec26736e00b",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/778b1bdf-c444-4352-bc41-8ec26736e00b?resourceVersion=id%3A2736"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/778b1bdf-c444-4352-bc41-8ec26736e00b?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38950,
+    "drupal_internal__vid": 2736,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "AS",
+    "created": "2011-03-15T17:35:36+00:00",
+    "changed": "2011-11-03T10:56:01+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38950",
+      "pid": 690,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 15. Mai 1892 ist Schnitzlers 30. Geburtstag:<blockquote>Im Kremser dann Salten, der ermüdet war, von 2-9 geschrieben hatte. Dann Bahr, frisch, Drap Cylinder, stimmungslos.</blockquote>",
+      "format": "full_html",
+      "processed": "Am 15. Mai 1892 ist Schnitzlers 30. Geburtstag:<blockquote>Im Kremser dann Salten, der ermüdet war, von 2-9 geschrieben hatte. Dann Bahr, frisch, Drap Cylinder, stimmungslos.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1892-05-15",
+      "end_value": "1892-05-15"
+    },
+    "field_sources": [
+      "Schnitzler: Tagebuch, I, 376."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/778b1bdf-c444-4352-bc41-8ec26736e00b/node_type?resourceVersion=id%3A2736"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/778b1bdf-c444-4352-bc41-8ec26736e00b/relationships/node_type?resourceVersion=id%3A2736"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/778b1bdf-c444-4352-bc41-8ec26736e00b/revision_uid?resourceVersion=id%3A2736"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/778b1bdf-c444-4352-bc41-8ec26736e00b/relationships/revision_uid?resourceVersion=id%3A2736"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/778b1bdf-c444-4352-bc41-8ec26736e00b/uid?resourceVersion=id%3A2736"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/778b1bdf-c444-4352-bc41-8ec26736e00b/relationships/uid?resourceVersion=id%3A2736"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/778b1bdf-c444-4352-bc41-8ec26736e00b/field_event_type?resourceVersion=id%3A2736"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/778b1bdf-c444-4352-bc41-8ec26736e00b/relationships/field_event_type?resourceVersion=id%3A2736"
+        }
+      }
+    }
+  }
+}

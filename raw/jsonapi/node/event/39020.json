@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "1ce89328-ee82-4650-9af3-c6304cca1fad",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/1ce89328-ee82-4650-9af3-c6304cca1fad?resourceVersion=id%3A2799"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/1ce89328-ee82-4650-9af3-c6304cca1fad?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39020,
+    "drupal_internal__vid": 2799,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Vortragsreise Mitteldeutschland",
+    "created": "2011-03-31T13:06:09+00:00",
+    "changed": "2012-01-26T14:42:55+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39020",
+      "pid": 754,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Im November 1909 ist Bahr am Rhein und in Mitteldeutschland auf Tournee. Einen Bericht davon gibt er in dem Text \"Winterreise\". Zum Beginn: Am 14. November fährt er nach Dresden, am 20. kehrt er zurück.",
+      "format": "full_html",
+      "processed": "Im November 1909 ist Bahr am Rhein und in Mitteldeutschland auf Tournee. Einen Bericht davon gibt er in dem Text \"Winterreise\". Zum Beginn: Am 14. November fährt er nach Dresden, am 20. kehrt er zurück.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1909-11-14",
+      "end_value": "1909-11-20"
+    },
+    "field_sources": [
+      "Hermann Bahr: Winterreise. Neues Wiener Journal, 17 (1909) #5811, 8-9. (25.12.1909)",
+      "Hermann Bahr: Aufzeichnungen 1909-1911. Ausgabe in Vorbereitung von Kurt Ifkovits\r\n"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1ce89328-ee82-4650-9af3-c6304cca1fad/node_type?resourceVersion=id%3A2799"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1ce89328-ee82-4650-9af3-c6304cca1fad/relationships/node_type?resourceVersion=id%3A2799"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1ce89328-ee82-4650-9af3-c6304cca1fad/revision_uid?resourceVersion=id%3A2799"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1ce89328-ee82-4650-9af3-c6304cca1fad/relationships/revision_uid?resourceVersion=id%3A2799"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1ce89328-ee82-4650-9af3-c6304cca1fad/uid?resourceVersion=id%3A2799"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1ce89328-ee82-4650-9af3-c6304cca1fad/relationships/uid?resourceVersion=id%3A2799"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1ce89328-ee82-4650-9af3-c6304cca1fad/field_event_type?resourceVersion=id%3A2799"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1ce89328-ee82-4650-9af3-c6304cca1fad/relationships/field_event_type?resourceVersion=id%3A2799"
+        }
+      }
+    }
+  }
+}

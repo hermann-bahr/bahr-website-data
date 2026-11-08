@@ -1,0 +1,313 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kritische-schriften__inventur-1912" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Inventur (1912)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">38709</idno>
+        <idno type="drupal-alias">/bibliografie/38709</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bibliografie/38709">https://bahr.univie.ac.at/bibliografie/38709</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+        <bibl type="beschriebene-ausgabe">
+          <author>Hermann Bahr</author>
+          <title type="main">Inventur</title>
+          <pubPlace>Berlin</pubPlace>
+          <publisher>S. Fischer</publisher>
+          <date>1912</date>
+          <extent>169</extent>
+          <edition>2.-5. Aufl. 1912</edition>
+          <note>Widmung: "Meiner Frau. Lido, Pfingsten 1912".</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="2" key="kritische-schriften">Kritische Schriften</term>
+          <term n="14" key="inventur-1912" type="eintrag">Inventur (1912)</term>
+        </keywords>
+        <classCode scheme="drupal-type">bibliographie</classCode>
+        <keywords scheme="bibliografie_type">
+          <term>Schriften in Einzelausgaben</term>
+        </keywords>
+        <keywords scheme="bibliografie_type">
+          <term>Kritische Schriften</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2010-12-30T13:39:39+00:00" type="created">angelegt in Drupal</change>
+      <change when="2013-03-05T10:27:03+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="intro">
+        <head>Einleitung</head>
+        <p>Stärker als frühere Essaysammlungen zeigt sich Bahrs "Inventur" von 1912 als eine Suche nach Sicherheiten, die in der Moderne rar geworden seien. Während der wirtschaftliche Betrieb oder auch die geistige Entwicklung des Menschen keine Sicherheiten bereitstellen könnten, ja die moderne Zerrissenheit vielmehr fördern würden, zeigen sich Bahr in Religion, Biologie (konkret: dem Phantasma eugenischer Menschenzucht) und nicht zuletzt in sich selbst Gewissheiten, die ihm Handlungen und das Leben überhaupt erst zu ermöglichen scheinen.</p>
+      </div>
+      <div xml:id="bib">
+        <head>Bibliografie</head>
+        <table type="bibliografie">
+          <row>
+            <cell>Autor:</cell>
+            <cell>Hermann Bahr</cell>
+          </row>
+          <row>
+            <cell>Titel:</cell>
+            <cell>Inventur</cell>
+          </row>
+          <row>
+            <cell>Ort:</cell>
+            <cell>Berlin</cell>
+          </row>
+          <row>
+            <cell>Verlag:</cell>
+            <cell>S. Fischer</cell>
+          </row>
+          <row>
+            <cell>Jahr:</cell>
+            <cell>1912</cell>
+          </row>
+          <row>
+            <cell>Seiten:</cell>
+            <cell>169</cell>
+          </row>
+          <row>
+            <cell>Aufl.:</cell>
+            <cell>2.-5. Aufl. 1912</cell>
+          </row>
+          <row>
+            <cell>Anm.:</cell>
+            <cell>Widmung: "Meiner Frau. Lido, Pfingsten 1912".</cell>
+          </row>
+        </table>
+      </div>
+      <div xml:id="ks">
+        <head>Kritische Schriften</head>
+        <div>
+          <head>Band 13</head>
+          <p>Herausgegeben von Gottfried Schnödl ISBN: 9783897396548 <ref target="http://www.vdg-weimar.de/katalog/?id=589">VDG Weimar</ref></p>
+        </div>
+      </div>
+      <div xml:id="erstdrucke">
+        <head>Erstdrucke</head>
+        <table>
+          <row>
+            <cell>9-21</cell>
+            <cell><hi rend="bold">Inventur der Zeit. </hi><lb/>Als "An die Jugend" in: Neue Freie Presse, (1911) #16907, Morgenblatt, 1-4. (16.9.1911)</cell>
+          </row>
+          <row>
+            <cell>22-35</cell>
+            <cell><hi rend="bold">Der Betrieb. </hi><lb/>Als "Der Betrieb der Großstadt" in: Die neue Rundschau, 23 (1912) #6, 697-705</cell>
+          </row>
+          <row>
+            <cell>36-50</cell>
+            <cell><hi rend="bold">Das unrettbare Ich. </hi><lb/>Neues Wiener Tagblatt, 37 (1903) #99, 1-4. (10.4.1903)<lb/>Dialog vom Tragischen, 79-101</cell>
+          </row>
+          <row>
+            <cell>51-60</cell>
+            <cell><hi rend="bold">Als ob. </hi><lb/>Neue Freie Presse, (1912) #17030, Morgenblatt, 31-32. (21.1.1912)</cell>
+          </row>
+          <row>
+            <cell>61-73</cell>
+            <cell><hi rend="bold">Religion. </hi><lb/>Kürzer in: Pan, 2 (1912) #11, 323-326. (1.2.1912) Kürzer und kroatisch als "Religija" in: Obzor, 53 (1912) #50, 1. (21.2.1912)</cell>
+          </row>
+          <row>
+            <cell>75-80</cell>
+            <cell><hi rend="bold">Campbell. </hi><lb/>Der Strom, 1 (1912) #11, 335-338</cell>
+          </row>
+          <row>
+            <cell>81-87</cell>
+            <cell><hi rend="bold">Johannes Müller. </hi><lb/>Neue Freie Presse, (1912) #17116, Morgenblatt, 1-3. (18.4.1912)</cell>
+          </row>
+          <row>
+            <cell>88-94</cell>
+            <cell><hi rend="bold">Erziehung. I</hi><lb/>Länger: Berliner Tageblatt, 40 (1911) #663, Morgen-Ausgabe, 2. Beiblatt, 1-2. (31.12.1911) Länger: Urania, 5 (1912) #11, 197-199. (16.3.1912)</cell>
+          </row>
+          <row>
+            <cell>94-100</cell>
+            <cell><hi rend="bold">Erziehung. II</hi><lb/>Neues Wiener Journal, 20 (1912) #6629, 10. (7.4.1912)</cell>
+          </row>
+          <row>
+            <cell>100-108</cell>
+            <cell><hi rend="bold">Erziehung. III</hi><lb/>Als "Die Kunst und das Kind" in: Berliner Tageblatt, 41 (1912) #223, Abend-Ausgabe, 1-2. (2.5.1912)</cell>
+          </row>
+          <row>
+            <cell>108-116</cell>
+            <cell>
+              <hi rend="bold">Erziehung. IV</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>116-118</cell>
+            <cell>
+              <hi rend="bold">Erziehung. V</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>119-125</cell>
+            <cell><hi rend="bold">Frauenrecht. </hi><lb/>Als "Die Frau als Kamerad" in: Neues Wiener Journal, 19 (1911) #6529, 7-8. (24.12.1911)</cell>
+          </row>
+          <row>
+            <cell>126-131</cell>
+            <cell><hi rend="bold">Friede. </hi><lb/>Als "Bertha von Suttner" in: Neue Freie Presse, (1912) #17079, Morgenblatt, 30-31. (10.3.1912)</cell>
+          </row>
+          <row>
+            <cell>132-135</cell>
+            <cell><hi rend="bold">Gelöbnis. </hi><lb/>Als "Bayreuth" in: Georg Niehrenheim, Hg.: Wegweiser für Besucher der Bayreuther Festspiele 1912. Bayreuth: Georg Niehrenheim 1912, 65-67</cell>
+          </row>
+          <row>
+            <cell>136-169</cell>
+            <cell><hi rend="bold">Selbstinventur. </hi><lb/>1. Kapitel: Almanach des S. Fischer-Verlags, 26 (1912) 48-55<lb/>2.-7. Kapitel: Die neue Rundschau, 23 (1912) #9, 1287-1303</cell>
+          </row>
+        </table>
+      </div>
+      <div xml:id="rezens">
+        <head>Rezensionen</head>
+        <p>Im Archiv ab dem 15. Juni 1912. Franz Leppmann in: Berliner Tagebuch, 41 (1912) #617, Morgen-Ausgabe, 4. Beiblatt, S. 2. (4.12.1912) Ludwig Hirschfeld in: Neue Freie Presse, 22.12.1912, 33-34.<lb/>C. M.-R.: Inventur. Von Hermann Bahr. In: Hamburgischer Correspondent. Zeitung für Literatur, Kunst und Wissenschaft, (1915) #7, 28. (28.3.1915)</p>
+      </div>
+      <div xml:id="inhaltsvz">
+        <head>Inhaltsverzeichnis</head>
+        <table>
+          <row>
+            <cell role="label">Seiten</cell>
+            <cell role="label">Inhalt</cell>
+          </row>
+          <row>
+            <cell>9-21</cell>
+            <cell>
+              <hi rend="bold">Inventur der Zeit.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>22-35</cell>
+            <cell>
+              <hi rend="bold">Der Betrieb.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>36-50</cell>
+            <cell>
+              <hi rend="bold">Das unrettbare Ich.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>51-60</cell>
+            <cell>
+              <hi rend="bold">Als ob.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>61-73</cell>
+            <cell>
+              <hi rend="bold">Religion.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>75-80</cell>
+            <cell>
+              <hi rend="bold">Campbell.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>81-87</cell>
+            <cell>
+              <hi rend="bold">Johannes Müller.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>88-94</cell>
+            <cell><hi rend="bold">Erziehung.</hi> I</cell>
+          </row>
+          <row>
+            <cell>94-100</cell>
+            <cell><hi rend="bold">Erziehung.</hi> II</cell>
+          </row>
+          <row>
+            <cell>100-108</cell>
+            <cell><hi rend="bold">Erziehung.</hi> III</cell>
+          </row>
+          <row>
+            <cell>108-116</cell>
+            <cell><hi rend="bold">Erziehung.</hi> IV</cell>
+          </row>
+          <row>
+            <cell>116-118</cell>
+            <cell><hi rend="bold">Erziehung.</hi> V</cell>
+          </row>
+          <row>
+            <cell>119-125</cell>
+            <cell>
+              <hi rend="bold">Frauenrecht.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>126-131</cell>
+            <cell>
+              <hi rend="bold">Friede.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>132-135</cell>
+            <cell>
+              <hi rend="bold">Gelöbnis.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>136-169</cell>
+            <cell>
+              <hi rend="bold">Selbstinventur.</hi>
+            </cell>
+          </row>
+        </table>
+      </div>
+      <div xml:id="kinhaltsvz">
+        <head>Kommentiertes Inhaltsverzeichnis</head>
+        <list type="gloss">
+          <label>Inventur der Zeit</label>
+          <item>Bahr spürt einem "unauflöslichen Widerspruch zwischen dem angeborenen und anerzogenen inneren und dem äußeren [...] Leben" nach und referiert einige aktuelle Versuche, wie aus diesem Widerspruch zu einer "Eintracht des inneren und des äußeren Menschen" zu kommen wäre.</item>
+          <label>Der Betrieb</label>
+          <item>Bahr führt die wachsende Bedeutung des wirtschaftlichen Betriebs auf den Aufstieg eines Händlergeistes zurück, der mittlerweile nicht nur auch den Produzenten, sondern überhaupt jeden tätigen Menschen - v. a. in der Großstadt - beherrsche.</item>
+          <label>Das unrettbare Ich</label>
+          <item>Jugenderlebnisse, die Lektüre Kants und an Nietzsche gemahnende Selbstexperimente führen Bahr direkt zu Mach und dessen Befund, dass das "Ich unrettbar" sei.</item>
+          <label>Als ob</label>
+          <item>Ausgehend von Machs Befund über das Ich befürwortet Bahr den Pragmatismus Vaihingers. Auch ohne Gewissheit über die eigene Identität könne man immer noch so handeln, "als ob" diese Sicherheit gegeben wäre.</item>
+          <label>Religion</label>
+          <item>Bahr zeigt die Religion - und v. a. neue, "modernistische" Schulen innerhalb des Katholizismus - als eine Möglichkeit, sich die Sicherheit zu verschaffen, die man für ein tätiges Leben benötige.</item>
+          <label>Campbell</label>
+          <item>Der Reverend Campbell wird Bahr zu einem Vorbild in Sachen zeitgemäßer und praktisch wirksamer Auslegung des Christentums.</item>
+          <label>Johannes Müller</label>
+          <item>Der Theologe und Philosoph Johannes Müller wird von Bahr nicht so sehr als Schriftsteller mit Bezugnahme auf seine Texte, sondern als Mensch und Charakter vorgestellt.</item>
+          <label>Erziehung I.</label>
+          <item>In "Erziehung. I" zweifelt Bahr an einer grundlegenden Wirksamkeit von traditionellen Erziehungsprogrammen: Anstelle eines starren Rahmens bedürfe die natürliche Entwicklung eines Menschen vielmehr einer äußerst behutsamen und bedächtigen Methode, die das Kind gleichsam zu sich selbst führe.</item>
+          <label>Erziehung II.</label>
+          <item>Die Gedanken aus dem ersten Teil weiterspinnend, erkennt Bahr das Grundübel jeder Erziehung in der Vorstellung, den Menschen ändern zu können.</item>
+          <label>Erziehung III.</label>
+          <item>Bahr beschreibt die Erziehung als eine Sünde wider das unverdorbene Kind, das sich auch durch ein natürliches und unbewusst "richtiges" Gewissen auszeichne; und macht von hier aus einige Vorschläge für eine sinnvollen Kunsterziehung.</item>
+          <label>Erziehung IV.</label>
+          <item>Bahr klagt über seine "schrecklichste" Zeit im Gymnasium, trennt jedoch die Institution von der Person des Lehrers: dieser könne auch in einem bedenklichen Rahmen gut wirken.</item>
+          <label>Erziehung V.</label>
+          <item>Einer der vielversprechendsten Wege zu einer neuen Form der Erziehung scheint Bahr in der Eugenik und der Möglichkeit gegeben, die eigenen Nachkommen zu züchten, anstatt zu erziehen.</item>
+          <label>Frauenrecht</label>
+          <item>Bahr argumentiert für die Einführung des Frauenwahlrechts und erhofft sich von diesem den Einzug spezifisch weiblicher Qualitäten in die Politik.</item>
+          <label>Friede</label>
+          <item>Mit einem Stück von Fritz von Unruh fragt Bahr, ob es innerhalb der aktuellen Gesellschaft (zu der eben auch die Gruppe der Soldaten gehört) möglich oder auch nur sinnvoll sei, den Frieden zu erhalten. Dies könne nur gelingen, wenn aus der bloßen Vermeidung des Krieges ein positiver Wille für Friede werde.</item>
+          <label>Gelöbnis</label>
+          <item>Bahr bekennt sich zu Richard Wagner und dessen Idee, Kunst könne die Menschheit zum Besseren verändern.</item>
+          <label>Selbstinventur</label>
+          <item>"Selbstinventur" ist einer von mehreren autobiographischen Versuchen Bahrs. Hier wird das Hauptaugenmerk v. a. auf die Beschreibung einer Sicherheit gelegt, die Bahr in jeder Lebenssituation "in sich" gefühlt und der er sich mittlerweile ganz anvertraut hätte.</item>
+        </list>
+      </div>
+      <div xml:id="digit">
+        <head>Digitalisate</head>
+        <p><hi rend="italic">Neusatz:</hi> <ref target="https://bahr.univie.ac.at/sites/all/ks/13-inventur.pdf" type="sites-all"><hi rend="bold">Kritische Schriften in Einzelausgaben</hi></ref> <hi rend="italic">Faksimile der Erstausgabe:</hi> <ref target="http://books.google.at/books?id=0dksAAAAYAAJ">Google Books</ref> [Proxy benötigt]</p>
+      </div>
+    </body>
+  </text>
+</TEI>

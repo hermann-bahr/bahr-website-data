@@ -1,0 +1,109 @@
+{
+  "type": "node--image",
+  "id": "1971e4f1-228b-41a1-b761-67e1cffebea0",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/image/1971e4f1-228b-41a1-b761-67e1cffebea0?resourceVersion=id%3A3962"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/image/1971e4f1-228b-41a1-b761-67e1cffebea0?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28267,
+    "drupal_internal__vid": 3962,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:44:08+00:00",
+    "status": true,
+    "title": "1900 Steckbrief",
+    "created": "2010-11-18T22:04:03+00:00",
+    "changed": "2010-11-18T22:05:31+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/bild/28267",
+      "pid": 399,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<i>Illustration von Bruno Paul aus Martin Möbius [=Otto Julius Bierbaum]: Steckbriefe erlassen hinter dreissig literarischen Übelthätern gemeingefährlicher Natur. Berlin und Leipzig: Verlag Schuster und Loeffler 1900.</i>",
+      "format": "full_html",
+      "processed": "<i>Illustration von Bruno Paul aus Martin Möbius [=Otto Julius Bierbaum]: Steckbriefe erlassen hinter dreissig literarischen Übelthätern gemeingefährlicher Natur. Berlin und Leipzig: Verlag Schuster und Loeffler 1900.</i>",
+      "summary": null
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "e2381624-d098-4c5b-bdd7-5dbfd773b84e",
+        "meta": {
+          "drupal_internal__target_id": "image"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/1971e4f1-228b-41a1-b761-67e1cffebea0/node_type?resourceVersion=id%3A3962"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/1971e4f1-228b-41a1-b761-67e1cffebea0/relationships/node_type?resourceVersion=id%3A3962"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/1971e4f1-228b-41a1-b761-67e1cffebea0/revision_uid?resourceVersion=id%3A3962"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/1971e4f1-228b-41a1-b761-67e1cffebea0/relationships/revision_uid?resourceVersion=id%3A3962"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/1971e4f1-228b-41a1-b761-67e1cffebea0/uid?resourceVersion=id%3A3962"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/1971e4f1-228b-41a1-b761-67e1cffebea0/relationships/uid?resourceVersion=id%3A3962"
+        }
+      }
+    },
+    "field_images": {
+      "data": [
+        {
+          "type": "media--image",
+          "id": "ec3739f8-b3b0-49fb-b93c-29fb9b0e0925",
+          "meta": {
+            "drupal_internal__target_id": 141
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/1971e4f1-228b-41a1-b761-67e1cffebea0/field_images?resourceVersion=id%3A3962"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/1971e4f1-228b-41a1-b761-67e1cffebea0/relationships/field_images?resourceVersion=id%3A3962"
+        }
+      }
+    }
+  }
+}

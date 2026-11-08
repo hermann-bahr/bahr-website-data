@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "bbb9c083-a15e-44f1-ad81-60d0cdcb6ca1",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/bbb9c083-a15e-44f1-ad81-60d0cdcb6ca1?resourceVersion=id%3A2685"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/bbb9c083-a15e-44f1-ad81-60d0cdcb6ca1?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38870,
+    "drupal_internal__vid": 2685,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "\"Jungösterreich\" in München",
+    "created": "2011-02-18T14:51:45+00:00",
+    "changed": "2012-10-22T17:51:56+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38870",
+      "pid": 613,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahr spricht am Freitag, 28. Oktober 1898 im Münchner Schriftsteller- und Journalistenverein über \"Jungösterreich\" und liest \"Die schöne Frau\". ",
+      "format": "full_html",
+      "processed": "Bahr spricht am Freitag, 28. Oktober 1898 im Münchner Schriftsteller- und Journalistenverein über \"Jungösterreich\" und liest \"Die schöne Frau\". ",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1898-10-28",
+      "end_value": "1898-10-28"
+    },
+    "field_sources": [
+      "Münchner Neueste Nachrichten, 30.10.1898",
+      "Münchner Allgemeine Zeitung, 29.10.1898",
+      "Rezension von L. Weber in: Der Kunstwart, 12 (1898) #3 (1. Novemberheft), 100-101."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bbb9c083-a15e-44f1-ad81-60d0cdcb6ca1/node_type?resourceVersion=id%3A2685"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bbb9c083-a15e-44f1-ad81-60d0cdcb6ca1/relationships/node_type?resourceVersion=id%3A2685"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bbb9c083-a15e-44f1-ad81-60d0cdcb6ca1/revision_uid?resourceVersion=id%3A2685"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bbb9c083-a15e-44f1-ad81-60d0cdcb6ca1/relationships/revision_uid?resourceVersion=id%3A2685"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bbb9c083-a15e-44f1-ad81-60d0cdcb6ca1/uid?resourceVersion=id%3A2685"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bbb9c083-a15e-44f1-ad81-60d0cdcb6ca1/relationships/uid?resourceVersion=id%3A2685"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bbb9c083-a15e-44f1-ad81-60d0cdcb6ca1/field_event_type?resourceVersion=id%3A2685"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bbb9c083-a15e-44f1-ad81-60d0cdcb6ca1/relationships/field_event_type?resourceVersion=id%3A2685"
+        }
+      }
+    }
+  }
+}

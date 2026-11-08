@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "aeda7830-e36c-4399-80d7-33e3b95d1c9e",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/aeda7830-e36c-4399-80d7-33e3b95d1c9e?resourceVersion=id%3A2965"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/aeda7830-e36c-4399-80d7-33e3b95d1c9e?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44045,
+    "drupal_internal__vid": 2965,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Breslau",
+    "created": "2011-08-30T14:18:52+00:00",
+    "changed": "2011-08-30T14:18:52+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44045",
+      "pid": 943,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 23. Oktober 1903 liest Bahr in Breslau im \"Saal der Freunde\" der Literarischen Gesellschaft. Danach reist er noch nach Berlin.",
+      "format": "full_html",
+      "processed": "Am 23. Oktober 1903 liest Bahr in Breslau im \"Saal der Freunde\" der Literarischen Gesellschaft. Danach reist er noch nach Berlin.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1903-10-23",
+      "end_value": "1903-10-23"
+    },
+    "field_sources": [
+      "Tagebücher (Csàky), III, 403."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/aeda7830-e36c-4399-80d7-33e3b95d1c9e/node_type?resourceVersion=id%3A2965"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/aeda7830-e36c-4399-80d7-33e3b95d1c9e/relationships/node_type?resourceVersion=id%3A2965"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/aeda7830-e36c-4399-80d7-33e3b95d1c9e/revision_uid?resourceVersion=id%3A2965"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/aeda7830-e36c-4399-80d7-33e3b95d1c9e/relationships/revision_uid?resourceVersion=id%3A2965"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/aeda7830-e36c-4399-80d7-33e3b95d1c9e/uid?resourceVersion=id%3A2965"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/aeda7830-e36c-4399-80d7-33e3b95d1c9e/relationships/uid?resourceVersion=id%3A2965"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/aeda7830-e36c-4399-80d7-33e3b95d1c9e/field_event_type?resourceVersion=id%3A2965"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/aeda7830-e36c-4399-80d7-33e3b95d1c9e/relationships/field_event_type?resourceVersion=id%3A2965"
+        }
+      }
+    }
+  }
+}

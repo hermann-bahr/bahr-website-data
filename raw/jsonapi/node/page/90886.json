@@ -1,0 +1,90 @@
+{
+  "type": "node--page",
+  "id": "98a5335d-13d3-45b1-9362-99a424cdd687",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/page/98a5335d-13d3-45b1-9362-99a424cdd687?resourceVersion=id%3A4273"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/page/98a5335d-13d3-45b1-9362-99a424cdd687?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 90886,
+    "drupal_internal__vid": 4273,
+    "langcode": "de",
+    "revision_timestamp": "2024-02-29T14:28:31+00:00",
+    "status": true,
+    "title": "Textverzeichnis",
+    "created": "2020-02-27T15:53:42+00:00",
+    "changed": "2024-02-29T14:28:31+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/textverzeichnis",
+      "pid": 1903,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<p>Das Textverzeichnis findet sich seit Februar 2024 hier: <a href=\"https://bahr-textverzeichnis.acdh.oeaw.ac.at/\">https://bahr-textverzeichnis.acdh.oeaw.ac.at/</a></p><p>&nbsp;</p><p>&nbsp;</p>",
+      "format": "basic_html",
+      "processed": "<p>Das Textverzeichnis findet sich seit Februar 2024 hier: <a href=\"https://bahr-textverzeichnis.acdh.oeaw.ac.at/\">https://bahr-textverzeichnis.acdh.oeaw.ac.at/</a></p><p>&nbsp;</p><p>&nbsp;</p>",
+      "summary": ""
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "016d417b-5c75-4303-8420-18e221e9e269",
+        "meta": {
+          "drupal_internal__target_id": "page"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/98a5335d-13d3-45b1-9362-99a424cdd687/node_type?resourceVersion=id%3A4273"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/98a5335d-13d3-45b1-9362-99a424cdd687/relationships/node_type?resourceVersion=id%3A4273"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/98a5335d-13d3-45b1-9362-99a424cdd687/revision_uid?resourceVersion=id%3A4273"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/98a5335d-13d3-45b1-9362-99a424cdd687/relationships/revision_uid?resourceVersion=id%3A4273"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/98a5335d-13d3-45b1-9362-99a424cdd687/uid?resourceVersion=id%3A4273"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/98a5335d-13d3-45b1-9362-99a424cdd687/relationships/uid?resourceVersion=id%3A4273"
+        }
+      }
+    }
+  }
+}

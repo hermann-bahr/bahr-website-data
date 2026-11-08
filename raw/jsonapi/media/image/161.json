@@ -1,0 +1,118 @@
+{
+  "type": "media--image",
+  "id": "56f084cd-ce1c-4651-86fd-3b566bc139b9",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/media/image/56f084cd-ce1c-4651-86fd-3b566bc139b9?resourceVersion=id%3A161"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/media/image/56f084cd-ce1c-4651-86fd-3b566bc139b9?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__mid": 161,
+    "drupal_internal__vid": 161,
+    "langcode": "de",
+    "revision_created": "2020-02-18T15:16:19+00:00",
+    "status": true,
+    "name": "1913_bahr-buch",
+    "created": "2020-02-18T15:16:19+00:00",
+    "changed": "2020-02-18T15:16:19+00:00",
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": null,
+      "pid": null,
+      "langcode": "de"
+    }
+  },
+  "relationships": {
+    "bundle": {
+      "data": {
+        "type": "media_type--media_type",
+        "id": "b82aabb6-e7a1-420d-b98b-5b981c2d920e",
+        "meta": {
+          "drupal_internal__target_id": "image"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/56f084cd-ce1c-4651-86fd-3b566bc139b9/bundle?resourceVersion=id%3A161"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/56f084cd-ce1c-4651-86fd-3b566bc139b9/relationships/bundle?resourceVersion=id%3A161"
+        }
+      }
+    },
+    "revision_user": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/56f084cd-ce1c-4651-86fd-3b566bc139b9/revision_user?resourceVersion=id%3A161"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/56f084cd-ce1c-4651-86fd-3b566bc139b9/relationships/revision_user?resourceVersion=id%3A161"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/56f084cd-ce1c-4651-86fd-3b566bc139b9/uid?resourceVersion=id%3A161"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/56f084cd-ce1c-4651-86fd-3b566bc139b9/relationships/uid?resourceVersion=id%3A161"
+        }
+      }
+    },
+    "thumbnail": {
+      "data": {
+        "type": "file--file",
+        "id": "64dda010-001d-42d9-b75d-0346a3b1369d",
+        "meta": {
+          "alt": "1913 Fotografie",
+          "title": null,
+          "width": 730,
+          "height": 1244,
+          "drupal_internal__target_id": 222
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/56f084cd-ce1c-4651-86fd-3b566bc139b9/thumbnail?resourceVersion=id%3A161"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/56f084cd-ce1c-4651-86fd-3b566bc139b9/relationships/thumbnail?resourceVersion=id%3A161"
+        }
+      }
+    },
+    "field_media_image": {
+      "data": {
+        "type": "file--file",
+        "id": "64dda010-001d-42d9-b75d-0346a3b1369d",
+        "meta": {
+          "alt": "1913 Fotografie",
+          "title": "1913_bahr-buch",
+          "width": 730,
+          "height": 1244,
+          "drupal_internal__target_id": 222
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/56f084cd-ce1c-4651-86fd-3b566bc139b9/field_media_image?resourceVersion=id%3A161"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/56f084cd-ce1c-4651-86fd-3b566bc139b9/relationships/field_media_image?resourceVersion=id%3A161"
+        }
+      }
+    }
+  }
+}

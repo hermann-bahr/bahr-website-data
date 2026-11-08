@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "776a7ac9-5cdf-4f57-b49a-c90df07876d0",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/776a7ac9-5cdf-4f57-b49a-c90df07876d0?resourceVersion=id%3A2382"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/776a7ac9-5cdf-4f57-b49a-c90df07876d0?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28053,
+    "drupal_internal__vid": 2382,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Unter sich",
+    "created": "2010-08-06T08:57:39+00:00",
+    "changed": "2011-09-28T10:39:54+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28053",
+      "pid": 216,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "\"Unter sich\", ein \"Arme-Leut'-Stück\" Bahrs, konnte am 6. November 1903 vom Kabarett \"Die 11 Scharfrichter\" in München nur einmal vor geladenem Publikum aufgeführt werden. Von diesen wurde es jedoch am 9. Dezember im Ballsaal des Hotel Savoy in Wien noch einmal inszeniert.[1] Die Buchausgabe erschien nach der Absage von Albert Langen im Mai 1904 im Wiener Verlag.[2]\r\nDie Hauptpersonen sind ungenannte hohe Mitglieder des Königshauses (wohl Thronfolger). Deren repräsentative Funktion wird als überkommene Inszenierung geschildert, die auf Polizeigewalt bauen muss, um überhaupt noch realisiert werden zu können. Durch diese Fassade scheinen verkommene Sitten oder zwanghafter Selbstbetrug.",
+      "format": "full_html",
+      "processed": "\"Unter sich\", ein \"Arme-Leut'-Stück\" Bahrs, konnte am 6. November 1903 vom Kabarett \"Die 11 Scharfrichter\" in München nur einmal vor geladenem Publikum aufgeführt werden. Von diesen wurde es jedoch am 9. Dezember im Ballsaal des Hotel Savoy in Wien noch einmal inszeniert.[1] Die Buchausgabe erschien nach der Absage von Albert Langen im Mai 1904 im Wiener Verlag.[2]\nDie Hauptpersonen sind ungenannte hohe Mitglieder des Königshauses (wohl Thronfolger). Deren repräsentative Funktion wird als überkommene Inszenierung geschildert, die auf Polizeigewalt bauen muss, um überhaupt noch realisiert werden zu können. Durch diese Fassade scheinen verkommene Sitten oder zwanghafter Selbstbetrug.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1903-11-06",
+      "end_value": "1903-11-06"
+    },
+    "field_sources": [
+      "[O. V.:] Gastspiel der Elf Scharfrichter. In: Neues Wiener Tagblatt, 37 (1903) #339, 11. (10.12.1903)",
+      "[2] Neues Wiener Tagblatt, 38 (1904) #144, 11. (25.5.1904)",
+      "[1] –ik: Die elf Scharfrichter. Österreichische Volks-Zeitung, 49 (1903) #339, 5. (10.12.1903) "
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/776a7ac9-5cdf-4f57-b49a-c90df07876d0/node_type?resourceVersion=id%3A2382"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/776a7ac9-5cdf-4f57-b49a-c90df07876d0/relationships/node_type?resourceVersion=id%3A2382"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/776a7ac9-5cdf-4f57-b49a-c90df07876d0/revision_uid?resourceVersion=id%3A2382"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/776a7ac9-5cdf-4f57-b49a-c90df07876d0/relationships/revision_uid?resourceVersion=id%3A2382"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/776a7ac9-5cdf-4f57-b49a-c90df07876d0/uid?resourceVersion=id%3A2382"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/776a7ac9-5cdf-4f57-b49a-c90df07876d0/relationships/uid?resourceVersion=id%3A2382"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "27f3d2a4-8970-4726-9ab8-ce37707ec1bc",
+          "meta": {
+            "drupal_internal__target_id": 1
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/776a7ac9-5cdf-4f57-b49a-c90df07876d0/field_event_type?resourceVersion=id%3A2382"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/776a7ac9-5cdf-4f57-b49a-c90df07876d0/relationships/field_event_type?resourceVersion=id%3A2382"
+        }
+      }
+    }
+  }
+}

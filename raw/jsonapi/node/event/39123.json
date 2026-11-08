@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "d0c3a603-62e4-49fa-a48e-a45350b15494",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/d0c3a603-62e4-49fa-a48e-a45350b15494?resourceVersion=id%3A2888"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/d0c3a603-62e4-49fa-a48e-a45350b15494?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39123,
+    "drupal_internal__vid": 2888,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Rudolf Steiner",
+    "created": "2011-05-24T13:12:54+00:00",
+    "changed": "2011-06-27T11:36:15+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39123",
+      "pid": 853,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahr und Rudolf Steiner waren bekannte aus dem Kaffeehaus Griensteidl, mochten sich aber, wie Friedrich Eckstein in einem plastischen Dialog zeigt, nicht:<blockquote>\"Rudolf Steiner ist nicht fähig, meinen Gedanken zu folgen\", erklärte einmal Bahr, \"denn er ist in seinen gänzlich überlebten, primitiven Ideen unbeweglich eingerostet.\"<br>\"Ganz im Gegenteil!\" erwiderte Steiner, \"nichts leichter für mich, als gerade Hermann Bahr zu verstehen: dazu habe ich nur nötig, mich ganz in jene Zeit zurückzuversetzen, da ich noch gar nichts gelernt hatte!\"</blockquote>\r\nSteiner rezensiert bei verschiedenen Gelegenheiten Bahr, auch bei verschiedenen Aufrufen kommt es in späteren Jahren zu Überschneidungen, aber alles ohne größeren Austausch zwischen den beiden.",
+      "format": "full_html",
+      "processed": "Bahr und Rudolf Steiner waren bekannte aus dem Kaffeehaus Griensteidl, mochten sich aber, wie Friedrich Eckstein in einem plastischen Dialog zeigt, nicht:<blockquote>\"Rudolf Steiner ist nicht fähig, meinen Gedanken zu folgen\", erklärte einmal Bahr, \"denn er ist in seinen gänzlich überlebten, primitiven Ideen unbeweglich eingerostet.\"<br>\"Ganz im Gegenteil!\" erwiderte Steiner, \"nichts leichter für mich, als gerade Hermann Bahr zu verstehen: dazu habe ich nur nötig, mich ganz in jene Zeit zurückzuversetzen, da ich noch gar nichts gelernt hatte!\"</blockquote>\nSteiner rezensiert bei verschiedenen Gelegenheiten Bahr, auch bei verschiedenen Aufrufen kommt es in späteren Jahren zu Überschneidungen, aber alles ohne größeren Austausch zwischen den beiden.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1888-01-01",
+      "end_value": "1888-01-01"
+    },
+    "field_sources": [
+      "Friedrich Eckstein: Alte, unnennbare Tage. Erinnerungen aus siebzig Lehr- und Wanderjahren. Hamburg: Severus 2010, 123. (Von Eckstein \"Um 1887 datiert\" aber als nächstes Ereignis wird eines aus dem Jahr 1891 geschildert. Demzufolge 1888 eingeordnet.) "
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d0c3a603-62e4-49fa-a48e-a45350b15494/node_type?resourceVersion=id%3A2888"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d0c3a603-62e4-49fa-a48e-a45350b15494/relationships/node_type?resourceVersion=id%3A2888"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d0c3a603-62e4-49fa-a48e-a45350b15494/revision_uid?resourceVersion=id%3A2888"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d0c3a603-62e4-49fa-a48e-a45350b15494/relationships/revision_uid?resourceVersion=id%3A2888"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d0c3a603-62e4-49fa-a48e-a45350b15494/uid?resourceVersion=id%3A2888"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d0c3a603-62e4-49fa-a48e-a45350b15494/relationships/uid?resourceVersion=id%3A2888"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d0c3a603-62e4-49fa-a48e-a45350b15494/field_event_type?resourceVersion=id%3A2888"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d0c3a603-62e4-49fa-a48e-a45350b15494/relationships/field_event_type?resourceVersion=id%3A2888"
+        }
+      }
+    }
+  }
+}

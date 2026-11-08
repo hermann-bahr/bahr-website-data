@@ -1,0 +1,85 @@
+{
+  "type": "node--page",
+  "id": "bf9b120f-b4e7-40b5-b055-03e0a0411cdd",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/page/bf9b120f-b4e7-40b5-b055-03e0a0411cdd?resourceVersion=id%3A4137"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/page/bf9b120f-b4e7-40b5-b055-03e0a0411cdd?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 90884,
+    "drupal_internal__vid": 4137,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-27T14:14:41+00:00",
+    "status": true,
+    "title": "Bibliografie",
+    "created": "2020-02-27T14:14:11+00:00",
+    "changed": "2020-02-27T14:14:41+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": null,
+    "path": {
+      "alias": "/bibliografie",
+      "pid": 1901,
+      "langcode": "de"
+    },
+    "body": null
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "016d417b-5c75-4303-8420-18e221e9e269",
+        "meta": {
+          "drupal_internal__target_id": "page"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/bf9b120f-b4e7-40b5-b055-03e0a0411cdd/node_type?resourceVersion=id%3A4137"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/bf9b120f-b4e7-40b5-b055-03e0a0411cdd/relationships/node_type?resourceVersion=id%3A4137"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/bf9b120f-b4e7-40b5-b055-03e0a0411cdd/revision_uid?resourceVersion=id%3A4137"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/bf9b120f-b4e7-40b5-b055-03e0a0411cdd/relationships/revision_uid?resourceVersion=id%3A4137"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/bf9b120f-b4e7-40b5-b055-03e0a0411cdd/uid?resourceVersion=id%3A4137"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/bf9b120f-b4e7-40b5-b055-03e0a0411cdd/relationships/uid?resourceVersion=id%3A4137"
+        }
+      }
+    }
+  }
+}

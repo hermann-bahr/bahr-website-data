@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "9c3b7a7b-9cff-457d-b1a6-3fd288104d97",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/9c3b7a7b-9cff-457d-b1a6-3fd288104d97?resourceVersion=id%3A3626"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/9c3b7a7b-9cff-457d-b1a6-3fd288104d97?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 64236,
+    "drupal_internal__vid": 3626,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "AS, Hauptmann, MB, HvH, Kainz u.a.",
+    "created": "2012-05-23T10:56:10+00:00",
+    "changed": "2012-05-23T10:56:10+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/64236",
+      "pid": 1669,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 27. November 1902 findet sich bei Max Burckhard folgende Gesellschaft ein: Gerhart Hauptmann mit Margarethe Marschalk, Hugo von Hofmannsthal mit Gerty, Bahr, Josef Kainz und Arthur Schnitzler.",
+      "format": "full_html",
+      "processed": "Am 27. November 1902 findet sich bei Max Burckhard folgende Gesellschaft ein: Gerhart Hauptmann mit Margarethe Marschalk, Hugo von Hofmannsthal mit Gerty, Bahr, Josef Kainz und Arthur Schnitzler.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1902-11-27",
+      "end_value": "1902-11-27"
+    },
+    "field_sources": [
+      "Schnitzler: Tagebücher, II, 385."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9c3b7a7b-9cff-457d-b1a6-3fd288104d97/node_type?resourceVersion=id%3A3626"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9c3b7a7b-9cff-457d-b1a6-3fd288104d97/relationships/node_type?resourceVersion=id%3A3626"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9c3b7a7b-9cff-457d-b1a6-3fd288104d97/revision_uid?resourceVersion=id%3A3626"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9c3b7a7b-9cff-457d-b1a6-3fd288104d97/relationships/revision_uid?resourceVersion=id%3A3626"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9c3b7a7b-9cff-457d-b1a6-3fd288104d97/uid?resourceVersion=id%3A3626"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9c3b7a7b-9cff-457d-b1a6-3fd288104d97/relationships/uid?resourceVersion=id%3A3626"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9c3b7a7b-9cff-457d-b1a6-3fd288104d97/field_event_type?resourceVersion=id%3A3626"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9c3b7a7b-9cff-457d-b1a6-3fd288104d97/relationships/field_event_type?resourceVersion=id%3A3626"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bibliografie__theaterstuecke__spielerei" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Spielerei </title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">49679</idno>
+        <idno type="drupal-alias">/bibliografie/49679</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bibliografie/49679">https://bahr.univie.ac.at/bibliografie/49679</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+        <bibl type="beschriebene-ausgabe">
+          <author>Hermann Bahr</author>
+          <title type="main">Spielerei</title>
+          <title type="sub">(Landpartie. Der Selige. Der Umsturz)</title>
+          <pubPlace>Berlin</pubPlace>
+          <publisher>Ahn &amp; Simrock</publisher>
+          <date>1919</date>
+          <extent>75</extent>
+          <note>Nur als Bühnenmanuskript gedruckt</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="1" key="bibliografie">Bibliografie</term>
+          <term n="2" key="theaterstuecke">Theaterstücke</term>
+          <term n="38" key="spielerei" type="eintrag">Spielerei </term>
+        </keywords>
+        <classCode scheme="drupal-type">bibliographie</classCode>
+        <keywords scheme="bibliografie_type">
+          <term>Theaterstücke</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2011-11-23T13:33:00+00:00" type="created">angelegt in Drupal</change>
+      <change when="2012-12-05T08:59:14+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="bib">
+        <head>Bühnenmanuskript</head>
+        <table type="bibliografie">
+          <row>
+            <cell>Autor:</cell>
+            <cell>Hermann Bahr</cell>
+          </row>
+          <row>
+            <cell>Titel:</cell>
+            <cell>Spielerei</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>(Landpartie. Der Selige. Der Umsturz)</cell>
+          </row>
+          <row>
+            <cell>Ort:</cell>
+            <cell>Berlin</cell>
+          </row>
+          <row>
+            <cell>Verlag:</cell>
+            <cell>Ahn &amp; Simrock</cell>
+          </row>
+          <row>
+            <cell>Jahr:</cell>
+            <cell>1919</cell>
+          </row>
+          <row>
+            <cell>Seiten:</cell>
+            <cell>75</cell>
+          </row>
+          <row>
+            <cell>Anm.:</cell>
+            <cell>Nur als Bühnenmanuskript gedruckt</cell>
+          </row>
+        </table>
+      </div>
+      <div xml:id="auff">
+        <head>Inszenierungen</head>
+        <p><hi rend="bold">Der Selige: </hi> 24.4.1920 Kleines Schauspielhaus, Berlin 17.12.1920 Kleines Theater, Berlin 21. Jänner 1926 zusammen mit "Altweibersommer", Akademietheater, Wien März 1929 Theater in der Kommandantenstraße 21.1.1926 Akademietheater, Wien zusammen mit "Altweibersommer" März 1933 Kabarett der Komiker, Berlin 18.3.1934 Wohltätigkeits-Veranstaltung deutsch-österreichischer Künstler, Kabarett der Komiker, Berlin</p>
+      </div>
+      <div xml:id="rezens">
+        <head>Rezensionen</head>
+        <p><hi rend="bold">Der Selige:</hi> Vossische Zeitung, #616, Morgen-Ausgabe, 18.12.1920, 3. [Auff. Kleines Theater] Berliner Theater. NZZ, 1920 #2123, 2. Mittagblatt. (22.12.1920) [Auff. Kleines Theater] -bs: Bahr-Schwänke. Akademietheater. Neues Wiener Journal, 34 (1926) #11556, 11. (23.1.1926)</p>
+      </div>
+      <div>
+        <head>Digitalisate</head>
+        <p>
+          <ref target="http://books.google.at/books?id=TqbWQAAACAAJ">Google Books</ref>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

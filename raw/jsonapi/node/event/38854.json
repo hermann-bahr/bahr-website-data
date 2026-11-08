@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "ae65015b-e92e-4a6a-8734-a02af9c0e8d5",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/ae65015b-e92e-4a6a-8734-a02af9c0e8d5?resourceVersion=id%3A2670"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/ae65015b-e92e-4a6a-8734-a02af9c0e8d5?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38854,
+    "drupal_internal__vid": 2670,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Wedekind",
+    "created": "2011-02-15T16:32:51+00:00",
+    "changed": "2011-11-30T13:17:30+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38854",
+      "pid": 598,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Wedekind aus Wien an Tilly Wedekind, 29.4.1908 über seinen Besuch bei Bahrs \"Freie Schule\"-Vortrag: <blockquote>Mit Hermann Bahr habe ich nur einige Worte nach seinem Vortrag gesprochen. Er hatte die Gicht und mußte gleich nach Hause fahren.</blockquote>Die beiden dürften sich aber am 3. Mai getroffen haben.",
+      "format": "full_html",
+      "processed": "Wedekind aus Wien an Tilly Wedekind, 29.4.1908 über seinen Besuch bei Bahrs \"Freie Schule\"-Vortrag: <blockquote>Mit Hermann Bahr habe ich nur einige Worte nach seinem Vortrag gesprochen. Er hatte die Gicht und mußte gleich nach Hause fahren.</blockquote>Die beiden dürften sich aber am 3. Mai getroffen haben.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1908-05-03",
+      "end_value": "1908-05-03"
+    },
+    "field_sources": [
+      "Frank Wedekind: Gesammelte Briefe. München: Georg Müller, II, 203."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ae65015b-e92e-4a6a-8734-a02af9c0e8d5/node_type?resourceVersion=id%3A2670"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ae65015b-e92e-4a6a-8734-a02af9c0e8d5/relationships/node_type?resourceVersion=id%3A2670"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ae65015b-e92e-4a6a-8734-a02af9c0e8d5/revision_uid?resourceVersion=id%3A2670"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ae65015b-e92e-4a6a-8734-a02af9c0e8d5/relationships/revision_uid?resourceVersion=id%3A2670"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ae65015b-e92e-4a6a-8734-a02af9c0e8d5/uid?resourceVersion=id%3A2670"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ae65015b-e92e-4a6a-8734-a02af9c0e8d5/relationships/uid?resourceVersion=id%3A2670"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ae65015b-e92e-4a6a-8734-a02af9c0e8d5/field_event_type?resourceVersion=id%3A2670"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ae65015b-e92e-4a6a-8734-a02af9c0e8d5/relationships/field_event_type?resourceVersion=id%3A2670"
+        }
+      }
+    }
+  }
+}

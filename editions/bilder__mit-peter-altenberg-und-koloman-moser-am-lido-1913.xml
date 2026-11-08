@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bilder__mit-peter-altenberg-und-koloman-moser-am-lido-1913" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Mit Peter Altenberg und Koloman Moser am Lido 1913</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">74458</idno>
+        <idno type="drupal-alias">/bild/74458</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bild/74458">https://bahr.univie.ac.at/bild/74458</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="7" key="bilder">Bilder</term>
+          <term n="49" key="mit-peter-altenberg-und-koloman-moser-am-lido-1913" type="eintrag">Mit Peter Altenberg und Koloman Moser am Lido 1913</term>
+        </keywords>
+        <classCode scheme="drupal-type">image</classCode>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013-01-17T10:42:56+00:00" type="created">angelegt in Drupal</change>
+      <change when="2013-01-17T10:42:56+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <figure>
+          <graphic url="files/bahr_bilder/1913_lido.jpg"/>
+          <figDesc>Mit Peter Altenberg und Koloman Moser am Lido 1913</figDesc>
+        </figure>
+        <p>
+          <hi rend="italic">Fotografie von Lotte Bloch-Zavrel. Aus: Der Querschnitt, 5 (1925) #8 (August).<lb/>Datierung auf 1913 aufgrund der Fotografie Bahr mit Zavrel am Lido in der Imagno-Datenbank</hi>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

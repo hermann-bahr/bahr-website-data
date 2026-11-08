@@ -1,0 +1,114 @@
+{
+  "type": "node--event",
+  "id": "bd8adf2a-d648-4a8e-93f8-8b933d8e87f5",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/bd8adf2a-d648-4a8e-93f8-8b933d8e87f5?resourceVersion=id%3A3759"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/bd8adf2a-d648-4a8e-93f8-8b933d8e87f5?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74437,
+    "drupal_internal__vid": 3759,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Gabriele Herwirsch",
+    "created": "2012-11-13T14:52:50+00:00",
+    "changed": "2012-11-14T09:31:16+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/74437",
+      "pid": 1811,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Die Fotografie eines Mädchens im Nachlass Bahrs ist rückseitig beschriftet mit: \"Gabriele. 23 Jahre. 19. Dezember 1888.\" Mit Buntstift hat Anna Bahr-Mildenburg später \"Herwirsch\" dazugefügt. Ein Brief Gabriele Herwirschs ist erhalten, er datiert \"Penzing, 10. November 1922.\" Über die Art der Beziehung der beiden ist nichts bekannt, doch deutet das Datum an, dass Bahr das Foto nach Paris nachgesendet bekommen hat. Lehmanns Wohnungsanzeiger führt für das Jahr 1888 eine:<blockquote>Herwirsch, Gabriele. Bmt.Wtwe., Landhausgasse 4</blockquote>",
+      "format": "full_html",
+      "processed": "Die Fotografie eines Mädchens im Nachlass Bahrs ist rückseitig beschriftet mit: \"Gabriele. 23 Jahre. 19. Dezember 1888.\" Mit Buntstift hat Anna Bahr-Mildenburg später \"Herwirsch\" dazugefügt. Ein Brief Gabriele Herwirschs ist erhalten, er datiert \"Penzing, 10. November 1922.\" Über die Art der Beziehung der beiden ist nichts bekannt, doch deutet das Datum an, dass Bahr das Foto nach Paris nachgesendet bekommen hat. Lehmanns Wohnungsanzeiger führt für das Jahr 1888 eine:<blockquote>Herwirsch, Gabriele. Bmt.Wtwe., Landhausgasse 4</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1888-12-19",
+      "end_value": "1888-12-19"
+    },
+    "field_sources": []
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bd8adf2a-d648-4a8e-93f8-8b933d8e87f5/node_type?resourceVersion=id%3A3759"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bd8adf2a-d648-4a8e-93f8-8b933d8e87f5/relationships/node_type?resourceVersion=id%3A3759"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bd8adf2a-d648-4a8e-93f8-8b933d8e87f5/revision_uid?resourceVersion=id%3A3759"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bd8adf2a-d648-4a8e-93f8-8b933d8e87f5/relationships/revision_uid?resourceVersion=id%3A3759"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bd8adf2a-d648-4a8e-93f8-8b933d8e87f5/uid?resourceVersion=id%3A3759"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bd8adf2a-d648-4a8e-93f8-8b933d8e87f5/relationships/uid?resourceVersion=id%3A3759"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bd8adf2a-d648-4a8e-93f8-8b933d8e87f5/field_event_type?resourceVersion=id%3A3759"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bd8adf2a-d648-4a8e-93f8-8b933d8e87f5/relationships/field_event_type?resourceVersion=id%3A3759"
+        }
+      }
+    }
+  }
+}

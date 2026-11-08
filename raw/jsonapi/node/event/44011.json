@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "28bf0b12-8e27-403e-a317-d96a5d322cdb",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/28bf0b12-8e27-403e-a317-d96a5d322cdb?resourceVersion=id%3A2936"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/28bf0b12-8e27-403e-a317-d96a5d322cdb?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44011,
+    "drupal_internal__vid": 2936,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Per Du mit AS",
+    "created": "2011-07-14T11:26:30+00:00",
+    "changed": "2012-10-16T11:00:56+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44011",
+      "pid": 909,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "In der Neujahrsnacht 1893/94 notiert sich Schnitzler im Tagebuch, dass er Bruderschaft getrunken habe, auch mit Bahr. Darauf bezieht sich Olga Schnitzlers Bemerkung: <blockquote>Das war wohl die Ursache, daß er in späteren Jahren jedes freundliche Angebot auf Bruderschaft immer wieder mit der Bemerkung ablehnte, er sei nur eines Menschen Duzbruder geworden, und den hätte er zu jener Zeit nicht leiden können. [2]</blockquote>Karl Kraus war auch anwesend.\r\nNoch 1907, als er mit Kainz und Speidel das Duwort tauscht, wird sich Schnitzler an das letzte Mal erinnern.",
+      "format": "full_html",
+      "processed": "In der Neujahrsnacht 1893/94 notiert sich Schnitzler im Tagebuch, dass er Bruderschaft getrunken habe, auch mit Bahr. Darauf bezieht sich Olga Schnitzlers Bemerkung: <blockquote>Das war wohl die Ursache, daß er in späteren Jahren jedes freundliche Angebot auf Bruderschaft immer wieder mit der Bemerkung ablehnte, er sei nur eines Menschen Duzbruder geworden, und den hätte er zu jener Zeit nicht leiden können. [2]</blockquote>Karl Kraus war auch anwesend.\nNoch 1907, als er mit Kainz und Speidel das Duwort tauscht, wird sich Schnitzler an das letzte Mal erinnern.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1893-12-31",
+      "end_value": "1893-12-31"
+    },
+    "field_sources": [
+      "Schnitzler: Tagebuch, II, 65.",
+      "Olga Schnitzler: Spiegelbild der Freundschaft. Salzburg: Residenz 1962, 102.",
+      "Schnitzler: Tagebücher, III, 252. (31. Jänner 1907)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/28bf0b12-8e27-403e-a317-d96a5d322cdb/node_type?resourceVersion=id%3A2936"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/28bf0b12-8e27-403e-a317-d96a5d322cdb/relationships/node_type?resourceVersion=id%3A2936"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/28bf0b12-8e27-403e-a317-d96a5d322cdb/revision_uid?resourceVersion=id%3A2936"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/28bf0b12-8e27-403e-a317-d96a5d322cdb/relationships/revision_uid?resourceVersion=id%3A2936"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/28bf0b12-8e27-403e-a317-d96a5d322cdb/uid?resourceVersion=id%3A2936"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/28bf0b12-8e27-403e-a317-d96a5d322cdb/relationships/uid?resourceVersion=id%3A2936"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/28bf0b12-8e27-403e-a317-d96a5d322cdb/field_event_type?resourceVersion=id%3A2936"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/28bf0b12-8e27-403e-a317-d96a5d322cdb/relationships/field_event_type?resourceVersion=id%3A2936"
+        }
+      }
+    }
+  }
+}

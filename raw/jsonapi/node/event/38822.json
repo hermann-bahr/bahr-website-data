@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "ca9b97df-9230-452a-871c-20f611b4e5bf",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/ca9b97df-9230-452a-871c-20f611b4e5bf?resourceVersion=id%3A2641"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/ca9b97df-9230-452a-871c-20f611b4e5bf?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38822,
+    "drupal_internal__vid": 2641,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Bösendorfer",
+    "created": "2011-02-02T18:00:56+00:00",
+    "changed": "2011-07-13T16:05:59+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38822",
+      "pid": 568,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahrs dritter Auftritt bei Bösendorfer innerhalb weniger Wochen dürfte am 23.1.1898 stattgefunden haben und als \"Wiener Autorenabend\" beworben worden sein.",
+      "format": "full_html",
+      "processed": "Bahrs dritter Auftritt bei Bösendorfer innerhalb weniger Wochen dürfte am 23.1.1898 stattgefunden haben und als \"Wiener Autorenabend\" beworben worden sein.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1898-01-23",
+      "end_value": "1898-01-23"
+    },
+    "field_sources": [
+      "Vgl. Brief an den Vater, 18.1.1898.",
+      "Vgl. Neue Freie Presse, #12003, Morgenblatt, 7. (23.1.1898)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ca9b97df-9230-452a-871c-20f611b4e5bf/node_type?resourceVersion=id%3A2641"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ca9b97df-9230-452a-871c-20f611b4e5bf/relationships/node_type?resourceVersion=id%3A2641"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ca9b97df-9230-452a-871c-20f611b4e5bf/revision_uid?resourceVersion=id%3A2641"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ca9b97df-9230-452a-871c-20f611b4e5bf/relationships/revision_uid?resourceVersion=id%3A2641"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ca9b97df-9230-452a-871c-20f611b4e5bf/uid?resourceVersion=id%3A2641"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ca9b97df-9230-452a-871c-20f611b4e5bf/relationships/uid?resourceVersion=id%3A2641"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ca9b97df-9230-452a-871c-20f611b4e5bf/field_event_type?resourceVersion=id%3A2641"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ca9b97df-9230-452a-871c-20f611b4e5bf/relationships/field_event_type?resourceVersion=id%3A2641"
+        }
+      }
+    }
+  }
+}

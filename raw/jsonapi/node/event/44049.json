@@ -1,0 +1,120 @@
+{
+  "type": "node--event",
+  "id": "034703aa-4247-4a19-86fd-485fa4ba577b",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/034703aa-4247-4a19-86fd-485fa4ba577b?resourceVersion=id%3A2969"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/034703aa-4247-4a19-86fd-485fa4ba577b?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44049,
+    "drupal_internal__vid": 2969,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Reise nach Eipeldau",
+    "created": "2011-08-31T15:08:19+00:00",
+    "changed": "2012-01-26T14:38:18+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44049",
+      "pid": 947,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 19. Oktober 1909 wird Gabor Steiner untersagt, Bahrs Revue \"Die Reise nach Eipeldau\" im Ronacher aufzuführen - wegen Anspielung auf die \"christlich-soziale Majorität im Gemeinderat und die freie Schule\"[1]. Auszüge aus dem Stück erscheinen in Zeitschriften. Um das bereits bezahlte Honorar entwickelt sich ein Gerichtsstreit, da Steiner die 7000 Kronen retourniert haben will.",
+      "format": "full_html",
+      "processed": "Am 19. Oktober 1909 wird Gabor Steiner untersagt, Bahrs Revue \"Die Reise nach Eipeldau\" im Ronacher aufzuführen - wegen Anspielung auf die \"christlich-soziale Majorität im Gemeinderat und die freie Schule\"[1]. Auszüge aus dem Stück erscheinen in Zeitschriften. Um das bereits bezahlte Honorar entwickelt sich ein Gerichtsstreit, da Steiner die 7000 Kronen retourniert haben will.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1909-10-19",
+      "end_value": "1909-10-21"
+    },
+    "field_sources": [
+      "[1] Berliner Tageblatt, 38 (1909) #546, Morgen-Ausgabe, 4. Beiblatt (=Literarische Rundschau). (27.10.1909) ",
+      "Hermann Bahr: Hermann Bahrs verbotene Revue. Eine Zuschrift des Autors. Neues Wiener Journal, 17 (1909) #5748, 9. (21.10.1909) ",
+      "Hermann Bahr: Aus einem verbotenen Stücke von Hermann Bahr. Arbeiter-Zeitung, 22 (1910) #20, 1-2. (21.1.1910) ",
+      "Hermann Bahr: \"Eipeldauer Elektra\". Der Ruf. Ein Flugblatt an junge Menschen., 1 (1912) #1 (Karneval), 5-14.",
+      "Hermann Bahr: Aufzeichnungen 1909-1911. Ausgabe in Vorbereitung von Kurt Ifkovits\r\n"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/034703aa-4247-4a19-86fd-485fa4ba577b/node_type?resourceVersion=id%3A2969"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/034703aa-4247-4a19-86fd-485fa4ba577b/relationships/node_type?resourceVersion=id%3A2969"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/034703aa-4247-4a19-86fd-485fa4ba577b/revision_uid?resourceVersion=id%3A2969"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/034703aa-4247-4a19-86fd-485fa4ba577b/relationships/revision_uid?resourceVersion=id%3A2969"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/034703aa-4247-4a19-86fd-485fa4ba577b/uid?resourceVersion=id%3A2969"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/034703aa-4247-4a19-86fd-485fa4ba577b/relationships/uid?resourceVersion=id%3A2969"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/034703aa-4247-4a19-86fd-485fa4ba577b/field_event_type?resourceVersion=id%3A2969"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/034703aa-4247-4a19-86fd-485fa4ba577b/relationships/field_event_type?resourceVersion=id%3A2969"
+        }
+      }
+    }
+  }
+}

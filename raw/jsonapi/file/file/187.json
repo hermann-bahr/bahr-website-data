@@ -1,0 +1,36 @@
+{
+  "type": "file--file",
+  "id": "9281f5e3-f1b5-4288-8f71-255e7c4115d2",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/file/file/9281f5e3-f1b5-4288-8f71-255e7c4115d2"
+    }
+  },
+  "attributes": {
+    "drupal_internal__fid": 187,
+    "langcode": "de",
+    "filename": "1922_blei.jpg",
+    "uri": {
+      "value": "public://bahr_bilder/1922_blei.jpg",
+      "url": "/sites/default/files/bahr_bilder/1922_blei.jpg"
+    },
+    "filemime": "image/jpeg",
+    "filesize": 347796,
+    "status": true,
+    "created": "2020-02-18T15:00:35+00:00",
+    "changed": "2020-02-18T15:11:43+00:00"
+  },
+  "relationships": {
+    "uid": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/file/file/9281f5e3-f1b5-4288-8f71-255e7c4115d2/uid"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/file/file/9281f5e3-f1b5-4288-8f71-255e7c4115d2/relationships/uid"
+        }
+      }
+    }
+  }
+}

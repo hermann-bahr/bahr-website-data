@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "40183e21-5cba-4d67-9692-2fbd0671d416",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/40183e21-5cba-4d67-9692-2fbd0671d416?resourceVersion=id%3A3420"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/40183e21-5cba-4d67-9692-2fbd0671d416?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49593,
+    "drupal_internal__vid": 3420,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Antisemit",
+    "created": "2011-11-11T12:36:09+00:00",
+    "changed": "2011-11-11T13:29:48+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49593",
+      "pid": 1409,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Obwohl bei seinem jüdischen Onkel Salomon Robicsek lebend, wird Bahr zu Beginn seines Studiums und parallel zu seiner Teilhabe in der Burschenschaft Albia zum Antisemiten. Er klebt auch Marken mit antisemitischen Sprüchen in der Innenstadt auf. Seine Tante Anna - die Halbschwester seines Vaters - wirft ihn auf die Straße, der Onkel diskutiert mit ihm.",
+      "format": "full_html",
+      "processed": "Obwohl bei seinem jüdischen Onkel Salomon Robicsek lebend, wird Bahr zu Beginn seines Studiums und parallel zu seiner Teilhabe in der Burschenschaft Albia zum Antisemiten. Er klebt auch Marken mit antisemitischen Sprüchen in der Innenstadt auf. Seine Tante Anna - die Halbschwester seines Vaters - wirft ihn auf die Straße, der Onkel diskutiert mit ihm.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1881-11-01",
+      "end_value": "1881-11-01"
+    },
+    "field_sources": [
+      "Selbstbildnis, 119."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/40183e21-5cba-4d67-9692-2fbd0671d416/node_type?resourceVersion=id%3A3420"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/40183e21-5cba-4d67-9692-2fbd0671d416/relationships/node_type?resourceVersion=id%3A3420"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/40183e21-5cba-4d67-9692-2fbd0671d416/revision_uid?resourceVersion=id%3A3420"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/40183e21-5cba-4d67-9692-2fbd0671d416/relationships/revision_uid?resourceVersion=id%3A3420"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/40183e21-5cba-4d67-9692-2fbd0671d416/uid?resourceVersion=id%3A3420"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/40183e21-5cba-4d67-9692-2fbd0671d416/relationships/uid?resourceVersion=id%3A3420"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/40183e21-5cba-4d67-9692-2fbd0671d416/field_event_type?resourceVersion=id%3A3420"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/40183e21-5cba-4d67-9692-2fbd0671d416/relationships/field_event_type?resourceVersion=id%3A3420"
+        }
+      }
+    }
+  }
+}

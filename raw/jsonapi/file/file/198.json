@@ -1,0 +1,36 @@
+{
+  "type": "file--file",
+  "id": "0edeb0dc-3fd7-4b27-8b59-1fe40f2e2a21",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/file/file/0edeb0dc-3fd7-4b27-8b59-1fe40f2e2a21"
+    }
+  },
+  "attributes": {
+    "drupal_internal__fid": 198,
+    "langcode": "de",
+    "filename": "1902_schwarzaufweiss.jpg",
+    "uri": {
+      "value": "public://bahr_bilder/1902_schwarzaufweiss.jpg",
+      "url": "/sites/default/files/bahr_bilder/1902_schwarzaufweiss.jpg"
+    },
+    "filemime": "image/jpeg",
+    "filesize": 217952,
+    "status": true,
+    "created": "2020-02-18T15:00:35+00:00",
+    "changed": "2020-02-18T15:11:43+00:00"
+  },
+  "relationships": {
+    "uid": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/file/file/0edeb0dc-3fd7-4b27-8b59-1fe40f2e2a21/uid"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/file/file/0edeb0dc-3fd7-4b27-8b59-1fe40f2e2a21/relationships/uid"
+        }
+      }
+    }
+  }
+}

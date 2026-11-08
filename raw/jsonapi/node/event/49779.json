@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "7bc6b87b-c057-4f5c-912e-315e07a6e8a1",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/7bc6b87b-c057-4f5c-912e-315e07a6e8a1?resourceVersion=id%3A3550"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/7bc6b87b-c057-4f5c-912e-315e07a6e8a1?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49779,
+    "drupal_internal__vid": 3550,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Herzl",
+    "created": "2012-01-16T14:04:12+00:00",
+    "changed": "2012-01-16T15:09:38+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49779",
+      "pid": 1591,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Theodor Herzl notiert sich in sein Tagebuch kurz nach Erscheinen des \"Judenstaats\" am 2. März 1896:<blockquote>Hermann Bahr war bei mir . Die Juden der höheren Bildungskreise, die im älteren Wien den literarischen Salon, das Bauernfeld-Nest, die Grillparzer-Kapelle formten, sind über mich entsetzt, wie Bahr erzählt. Das war zu erwarten.</blockquote>Bei Bahr liest sich das so:<blockquote>Bei Theodor Herzl wegen seiner Don Quichoterie: \"Der Judenstaat\". Er macht mir den Eindruck, daß aus ihm ein jüdischer Michael Kohlhaas werden könnte.</blockquote>",
+      "format": "full_html",
+      "processed": "Theodor Herzl notiert sich in sein Tagebuch kurz nach Erscheinen des \"Judenstaats\" am 2. März 1896:<blockquote>Hermann Bahr war bei mir . Die Juden der höheren Bildungskreise, die im älteren Wien den literarischen Salon, das Bauernfeld-Nest, die Grillparzer-Kapelle formten, sind über mich entsetzt, wie Bahr erzählt. Das war zu erwarten.</blockquote>Bei Bahr liest sich das so:<blockquote>Bei Theodor Herzl wegen seiner Don Quichoterie: \"Der Judenstaat\". Er macht mir den Eindruck, daß aus ihm ein jüdischer Michael Kohlhaas werden könnte.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1896-03-02",
+      "end_value": "1896-03-02"
+    },
+    "field_sources": [
+      "Theodor Herzls Tagebücher. Erster Band. Berlin: Jüdischer Verlag 1922, 354.",
+      "Bahr: Tagebücher (Csàky), II, 213."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7bc6b87b-c057-4f5c-912e-315e07a6e8a1/node_type?resourceVersion=id%3A3550"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7bc6b87b-c057-4f5c-912e-315e07a6e8a1/relationships/node_type?resourceVersion=id%3A3550"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7bc6b87b-c057-4f5c-912e-315e07a6e8a1/revision_uid?resourceVersion=id%3A3550"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7bc6b87b-c057-4f5c-912e-315e07a6e8a1/relationships/revision_uid?resourceVersion=id%3A3550"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7bc6b87b-c057-4f5c-912e-315e07a6e8a1/uid?resourceVersion=id%3A3550"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7bc6b87b-c057-4f5c-912e-315e07a6e8a1/relationships/uid?resourceVersion=id%3A3550"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7bc6b87b-c057-4f5c-912e-315e07a6e8a1/field_event_type?resourceVersion=id%3A3550"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7bc6b87b-c057-4f5c-912e-315e07a6e8a1/relationships/field_event_type?resourceVersion=id%3A3550"
+        }
+      }
+    }
+  }
+}

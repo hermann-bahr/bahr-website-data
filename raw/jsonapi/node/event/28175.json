@@ -1,0 +1,119 @@
+{
+  "type": "node--event",
+  "id": "aebaff7f-da84-422b-b550-375c83ed992c",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/aebaff7f-da84-422b-b550-375c83ed992c?resourceVersion=id%3A2484"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/aebaff7f-da84-422b-b550-375c83ed992c?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28175,
+    "drupal_internal__vid": 2484,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Lido und die Cholera in Venedig",
+    "created": "2010-09-01T15:49:19+00:00",
+    "changed": "2013-01-10T12:29:52+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28175",
+      "pid": 321,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 16. oder 17. Mai 1911 reist Bahr nach Venedig, Lido, Villa Trieste. Im Sommerheft der Fackel berichtet Kraus, dass Bahr ein Telegramm an ein Morgenblatt geschrieben habe, er glaube nicht an einen Cholerafall in Venedig, wohingegen das Abendblatt vermeldet, dass es bereits zehn Todesfälle geben solle. In der Neuen Freien Presse vom 7. Juni 1911 Morgenausgabe und Abendausgabe finden sich die betreffenden Stellen. Es entbehrt nicht der Ironie, dass Bahr seinen offiziellen \"Tagebuch\"-Eintrag im \"Strom\" am 28. Mai mit dem Satz beginnt: \"Wieder am Meer, endlich! Aufatmend, als wär ich einer großen Gefahr entronnen.\" Auch den folgenden Eintrag vom 20. Juni dürfte er noch am Lido verfasst haben, aber womöglich war der 20. auch schon der Abreisetag. Für Literaturwissenschaftler interessant dürfte sein, dass Katia und Thomas Mann vom 24. Mai bis zum 2. Juni 1911, mit einer kurzen Unterbrechung in Venedig weilten und dass das eine zentrale Inspiration für Manns \"Der Tod in Venedig\" wurde.\r\n",
+      "format": "full_html",
+      "processed": "Am 16. oder 17. Mai 1911 reist Bahr nach Venedig, Lido, Villa Trieste. Im Sommerheft der Fackel berichtet Kraus, dass Bahr ein Telegramm an ein Morgenblatt geschrieben habe, er glaube nicht an einen Cholerafall in Venedig, wohingegen das Abendblatt vermeldet, dass es bereits zehn Todesfälle geben solle. In der Neuen Freien Presse vom 7. Juni 1911 Morgenausgabe und Abendausgabe finden sich die betreffenden Stellen. Es entbehrt nicht der Ironie, dass Bahr seinen offiziellen \"Tagebuch\"-Eintrag im \"Strom\" am 28. Mai mit dem Satz beginnt: \"Wieder am Meer, endlich! Aufatmend, als wär ich einer großen Gefahr entronnen.\" Auch den folgenden Eintrag vom 20. Juni dürfte er noch am Lido verfasst haben, aber womöglich war der 20. auch schon der Abreisetag. Für Literaturwissenschaftler interessant dürfte sein, dass Katia und Thomas Mann vom 24. Mai bis zum 2. Juni 1911, mit einer kurzen Unterbrechung in Venedig weilten und dass das eine zentrale Inspiration für Manns \"Der Tod in Venedig\" wurde.\n",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1911-05-16",
+      "end_value": "1911-06-20"
+    },
+    "field_sources": [
+      "Zur An- und Abreise: Brief an Theodor Wolff, Wienbibliothek, H.I.N. 88631, 6.5.1911",
+      "Die Fackel, 13 (1911) #326-328, 75)",
+      "Neue Freie Presse, #16806, Morgenausgabe, 11 und #16806, Abendausgabe, 5.",
+      "Hermann Bahr: Tagebuch. 28. Mai, Venedig, Lido. Der Strom, 1 (1911) #6, September, 173-174."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/aebaff7f-da84-422b-b550-375c83ed992c/node_type?resourceVersion=id%3A2484"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/aebaff7f-da84-422b-b550-375c83ed992c/relationships/node_type?resourceVersion=id%3A2484"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/aebaff7f-da84-422b-b550-375c83ed992c/revision_uid?resourceVersion=id%3A2484"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/aebaff7f-da84-422b-b550-375c83ed992c/relationships/revision_uid?resourceVersion=id%3A2484"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/aebaff7f-da84-422b-b550-375c83ed992c/uid?resourceVersion=id%3A2484"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/aebaff7f-da84-422b-b550-375c83ed992c/relationships/uid?resourceVersion=id%3A2484"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/aebaff7f-da84-422b-b550-375c83ed992c/field_event_type?resourceVersion=id%3A2484"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/aebaff7f-da84-422b-b550-375c83ed992c/relationships/field_event_type?resourceVersion=id%3A2484"
+        }
+      }
+    }
+  }
+}

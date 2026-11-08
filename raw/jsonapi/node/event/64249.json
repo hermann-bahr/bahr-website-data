@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "acffe4a3-2bc4-4515-a390-847dfc38a71b",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/acffe4a3-2bc4-4515-a390-847dfc38a71b?resourceVersion=id%3A3639"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/acffe4a3-2bc4-4515-a390-847dfc38a71b?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 64249,
+    "drupal_internal__vid": 3639,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "AS, Brahm",
+    "created": "2012-05-23T20:10:59+00:00",
+    "changed": "2012-05-23T20:10:59+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/64249",
+      "pid": 1682,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 19. November 1903 Essen Schnitzler und Otto Brahm mit Bahr im Restaurant Meissl & Schaden zu Abend. Auffallend ist, dass Brahm ein Interesse des Burgtheaters an einem Stück Schnitzlers in der Abwesenheit Bahrs überbringt.",
+      "format": "full_html",
+      "processed": "Am 19. November 1903 Essen Schnitzler und Otto Brahm mit Bahr im Restaurant Meissl &amp; Schaden zu Abend. Auffallend ist, dass Brahm ein Interesse des Burgtheaters an einem Stück Schnitzlers in der Abwesenheit Bahrs überbringt.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1903-11-19",
+      "end_value": "1903-11-19"
+    },
+    "field_sources": [
+      "Schnitzler: Tagebücher, III, 49."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/acffe4a3-2bc4-4515-a390-847dfc38a71b/node_type?resourceVersion=id%3A3639"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/acffe4a3-2bc4-4515-a390-847dfc38a71b/relationships/node_type?resourceVersion=id%3A3639"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/acffe4a3-2bc4-4515-a390-847dfc38a71b/revision_uid?resourceVersion=id%3A3639"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/acffe4a3-2bc4-4515-a390-847dfc38a71b/relationships/revision_uid?resourceVersion=id%3A3639"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/acffe4a3-2bc4-4515-a390-847dfc38a71b/uid?resourceVersion=id%3A3639"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/acffe4a3-2bc4-4515-a390-847dfc38a71b/relationships/uid?resourceVersion=id%3A3639"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/acffe4a3-2bc4-4515-a390-847dfc38a71b/field_event_type?resourceVersion=id%3A3639"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/acffe4a3-2bc4-4515-a390-847dfc38a71b/relationships/field_event_type?resourceVersion=id%3A3639"
+        }
+      }
+    }
+  }
+}

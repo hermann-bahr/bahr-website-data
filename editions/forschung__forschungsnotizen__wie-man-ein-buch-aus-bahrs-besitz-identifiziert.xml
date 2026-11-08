@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="forschung__forschungsnotizen__wie-man-ein-buch-aus-bahrs-besitz-identifiziert" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Wie man ein Buch aus Bahrs Besitz identifiziert</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">74465</idno>
+        <idno type="drupal-alias">/article/74465</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/article/74465">https://bahr.univie.ac.at/article/74465</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="6" key="forschung">Forschung</term>
+          <term n="4" key="forschungsnotizen">Forschungsnotizen</term>
+          <term n="4" key="wie-man-ein-buch-aus-bahrs-besitz-identifiziert" type="eintrag">Wie man ein Buch aus Bahrs Besitz identifiziert</term>
+        </keywords>
+        <classCode scheme="drupal-type">article</classCode>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013-02-28T16:20:28+00:00" type="created">angelegt in Drupal</change>
+      <change when="2013-03-20T16:49:29+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Diese Anleitung soll ein Auffinden eines Buches aus dem Besitz Hermann Bahrs erleichtern. In seinen Büchern finden sich Lesespuren, wobei Bahr tendenziell wenig in die Bücher schrieb, aber dafür mit Unterstreichungen und seitlichen Strichen ihm relevante Stellen markierte. Auch Widmungen und Lektüredaten sind enthalten. Hermann Bahr hat 1933 seine Bücher an die Studienbibliothek Salzburg – die Universitätsbibliothek seines Wohnsitzes von 1913 bis 1922 - vermacht. Wichtig ist (Stand 28. Februar 2013), dass kaum Bücher Bahrs im elektronischen Katalog erfasst sind. Das heißt, ein Blick in den alten Katalog (<ref target="http://www.ubs.sbg.ac.at/retrokat/kat/index.html">Retrokatalog</ref>), oder, mit Magazinerlaubnis, vor Ort, ist erforderlich. Ein Teil der Bücher ist auch verloren gegangen, für sie befinden sich rote Platzhalter mit der Signatur im Regal, der Titel des Buches ist gemeinhin nicht vermerkt.</p>
+        <figure>
+          <graphic url="https://bahr.univie.ac.at/sites/all/blog/bahrbibliothek.jpg"/>
+        </figure>
+        <p>Die Bücher sind im Magazin und grundsätzlich nach vier Größen unterschieden, die am Ende der jeweiligen Signatur vermerkt sind: "-I" sind die kleinsten, "-IV" die größten Formate, wobei "-III" und "IV" nur mehr ca. einen Regalmeter ausmachen. Die meisten Bücher finden sich in der Abteilung "-I" mit dem Signaturenumfang 30.000-I bis 39.105-I. Innerhalb ist er wieder in verschiedene Abschnitte gegliedert, zuerst kommt die Deutsche Literatur, dann die Englische, dann die Französische, weitere Abschnitte zu Antiken Schriftstellern, Religion, Geschichte, Politik, Schriften Bahrs, etc. Innerhalb der jeweiligen Abschnitte sind die Bücher großteils alphabetisch, wenngleich ich Bücher sah, die um ein, zwei Autoren verschoben einsigniert waren. Am Ende sind Nachlieferungen, möglicherweise nach Bahrs Tod aufgenommen, diese sind nicht mehr alphabetisch geordnet. Theoretisch möglich (die Bibliothekare verzeihen mir dieses Gedankenspiel) wäre, wenn man etwa Hermann Ungar suchte, zu bitten, ob nicht jemand im Magazin am Anfang der Signaturengruppe -I bei den deutschen SchriftstellerInnen unter "U" schauen könnte, was da ist. Der Bibliothekar fände dann den "Hauptmann Hanicka". Das würde zwar die an anderen Stellen einsignierten Bücher außer Acht lassen (etwa Sekundärschriften), aber im Fall Ungars, wo keine größeren Formate und andere Textsorten in Frage kommen, wäre die Aussage (relativ) verlässlich. In der Gruppe "-II" sind (formatbedingt) auch viele Zeitschriftenabonnements Bahrs aufbewahrt, die Wochenschrift "Die Zeit", die "Österreichische Rundschau", "Die neue Rundschau", der erste Band des "Kunstwarts", Bände von "Moderne Dichtung" und "Moderne Rundschau", "The Studio", "The London Mercury" u.a. Hier ist eine Tendenz zu Kunstliteratur festzustellen, aber keine durchgehaltene Ordnung bewahrt. Hier ist der Signaturumfang 30.000-II bis ca. 39.120-II. Die Formate "-III" und "-IV" sind ebenfalls aus dem Signaturumfang 30.000 bis ca. 39.175. Wenn ein Buch in Salzburg nicht nachgewiesen werden kann, heißt das nicht, dass es Bahr nicht besessen hat. Ein kleiner Teil seiner Bücher ist der Bibliothek des Theatermuseums (Katalogrecherche über die österreichische Nationalbibliothek, Signaturengruppe beginnt mit "The-") gelandet, im Einzelfall muss stets ausgehoben werden, um Hinweise auf eine Provenienz Bahr festzustellen.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

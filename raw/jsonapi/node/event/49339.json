@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "f7ad1492-26a6-4f50-b70a-e7c94c251cec",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f7ad1492-26a6-4f50-b70a-e7c94c251cec?resourceVersion=id%3A3186"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f7ad1492-26a6-4f50-b70a-e7c94c251cec?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49339,
+    "drupal_internal__vid": 3186,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "\"Burckhard\" fertig",
+    "created": "2011-10-11T09:30:44+00:00",
+    "changed": "2011-10-11T09:30:44+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49339",
+      "pid": 1165,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 28. Juni 1913 kann Bahr Samuel Fischer mitteilen, dass das Manuskript zu den \"Erinnerungen an Burckhard\" so gut wie fertig sei.",
+      "format": "full_html",
+      "processed": "Am 28. Juni 1913 kann Bahr Samuel Fischer mitteilen, dass das Manuskript zu den \"Erinnerungen an Burckhard\" so gut wie fertig sei.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1913-06-28",
+      "end_value": "1913-06-28"
+    },
+    "field_sources": [
+      "Samuel Fischer und Hedwig Fischer: Briefwechsel mit den Autoren. Mit einer Einführung von Bernhard Zeller.Hgg. Dierk Rodewald und Corinna Fiedler. Berlin: S. Fischer 1989, 28.6.1913."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f7ad1492-26a6-4f50-b70a-e7c94c251cec/node_type?resourceVersion=id%3A3186"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f7ad1492-26a6-4f50-b70a-e7c94c251cec/relationships/node_type?resourceVersion=id%3A3186"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f7ad1492-26a6-4f50-b70a-e7c94c251cec/revision_uid?resourceVersion=id%3A3186"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f7ad1492-26a6-4f50-b70a-e7c94c251cec/relationships/revision_uid?resourceVersion=id%3A3186"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f7ad1492-26a6-4f50-b70a-e7c94c251cec/uid?resourceVersion=id%3A3186"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f7ad1492-26a6-4f50-b70a-e7c94c251cec/relationships/uid?resourceVersion=id%3A3186"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f7ad1492-26a6-4f50-b70a-e7c94c251cec/field_event_type?resourceVersion=id%3A3186"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f7ad1492-26a6-4f50-b70a-e7c94c251cec/relationships/field_event_type?resourceVersion=id%3A3186"
+        }
+      }
+    }
+  }
+}

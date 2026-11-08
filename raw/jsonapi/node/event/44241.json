@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "5bd998c2-79ee-4cef-b213-22c50a3a3a09",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/5bd998c2-79ee-4cef-b213-22c50a3a3a09?resourceVersion=id%3A3155"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/5bd998c2-79ee-4cef-b213-22c50a3a3a09?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44241,
+    "drupal_internal__vid": 3155,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Krank",
+    "created": "2011-10-03T10:45:13+00:00",
+    "changed": "2011-12-20T11:21:29+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44241",
+      "pid": 1134,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 11. Jänner 1926 fasst Bahr das letzte Jahr zusammen: <blockquote>ich bin ja fast ein Jahr schon krank, wurde operiert und kann noch immer nicht völlig zu Kräften kommen und gar das Schreiben, zu dem mich mein verhaßtes Metier zwingt, fällt meinen zerrütteten Nerven unendlich schwer. [1]</blockquote>Am 25. Mai 1925 sind es vier Monate, die er krank war, also dürfte der Beginn auf Anfang Februar gefallen sein.[2] Die Operation findet im Juni 1925 statt.",
+      "format": "full_html",
+      "processed": "Am 11. Jänner 1926 fasst Bahr das letzte Jahr zusammen: <blockquote>ich bin ja fast ein Jahr schon krank, wurde operiert und kann noch immer nicht völlig zu Kräften kommen und gar das Schreiben, zu dem mich mein verhaßtes Metier zwingt, fällt meinen zerrütteten Nerven unendlich schwer. [1]</blockquote>Am 25. Mai 1925 sind es vier Monate, die er krank war, also dürfte der Beginn auf Anfang Februar gefallen sein.[2] Die Operation findet im Juni 1925 statt.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1925-02-01",
+      "end_value": "1926-01-11"
+    },
+    "field_sources": [
+      "[1] Bahr/Kvapil, 264 und Anm. 449.",
+      "[2] Bahr/Nadler, 47."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5bd998c2-79ee-4cef-b213-22c50a3a3a09/node_type?resourceVersion=id%3A3155"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5bd998c2-79ee-4cef-b213-22c50a3a3a09/relationships/node_type?resourceVersion=id%3A3155"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5bd998c2-79ee-4cef-b213-22c50a3a3a09/revision_uid?resourceVersion=id%3A3155"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5bd998c2-79ee-4cef-b213-22c50a3a3a09/relationships/revision_uid?resourceVersion=id%3A3155"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5bd998c2-79ee-4cef-b213-22c50a3a3a09/uid?resourceVersion=id%3A3155"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5bd998c2-79ee-4cef-b213-22c50a3a3a09/relationships/uid?resourceVersion=id%3A3155"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5bd998c2-79ee-4cef-b213-22c50a3a3a09/field_event_type?resourceVersion=id%3A3155"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5bd998c2-79ee-4cef-b213-22c50a3a3a09/relationships/field_event_type?resourceVersion=id%3A3155"
+        }
+      }
+    }
+  }
+}

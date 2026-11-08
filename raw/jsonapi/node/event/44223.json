@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "622dfe6a-5b32-4f6a-ab59-49b4d1317014",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/622dfe6a-5b32-4f6a-ab59-49b4d1317014?resourceVersion=id%3A3137"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/622dfe6a-5b32-4f6a-ab59-49b4d1317014?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44223,
+    "drupal_internal__vid": 3137,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Stefan Zweig über Bahr",
+    "created": "2011-09-28T13:46:04+00:00",
+    "changed": "2012-12-07T09:34:50+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44223",
+      "pid": 1116,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 26. Mai 1913 begeht der \"Akademische Verband für Literatur und Musik\" in Wien eine Feier zu Bahrs am 19. Juli bevorstehenden 50. Geburtstag. Stefan Zweig hält einen Vortrag mit dem Titel \"Hermann Bahr und seine Bedeutung für die Gegenwart\". Es folgte eine Lesung Leopold Kramers aus Bahrs \"Rahl\". ",
+      "format": "full_html",
+      "processed": "Am 26. Mai 1913 begeht der \"Akademische Verband für Literatur und Musik\" in Wien eine Feier zu Bahrs am 19. Juli bevorstehenden 50. Geburtstag. Stefan Zweig hält einen Vortrag mit dem Titel \"Hermann Bahr und seine Bedeutung für die Gegenwart\". Es folgte eine Lesung Leopold Kramers aus Bahrs \"Rahl\". ",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1913-05-26",
+      "end_value": "1913-05-26"
+    },
+    "field_sources": [
+      "Österreichische Volkszeitung, 59 (1913) #145, 10. (29.5.1913)",
+      "Einladungskarte im Nachlass Bahrs, Kiste 104: Varia"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/622dfe6a-5b32-4f6a-ab59-49b4d1317014/node_type?resourceVersion=id%3A3137"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/622dfe6a-5b32-4f6a-ab59-49b4d1317014/relationships/node_type?resourceVersion=id%3A3137"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/622dfe6a-5b32-4f6a-ab59-49b4d1317014/revision_uid?resourceVersion=id%3A3137"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/622dfe6a-5b32-4f6a-ab59-49b4d1317014/relationships/revision_uid?resourceVersion=id%3A3137"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/622dfe6a-5b32-4f6a-ab59-49b4d1317014/uid?resourceVersion=id%3A3137"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/622dfe6a-5b32-4f6a-ab59-49b4d1317014/relationships/uid?resourceVersion=id%3A3137"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/622dfe6a-5b32-4f6a-ab59-49b4d1317014/field_event_type?resourceVersion=id%3A3137"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/622dfe6a-5b32-4f6a-ab59-49b4d1317014/relationships/field_event_type?resourceVersion=id%3A3137"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "74668aa4-8ffe-432f-a4d9-0875cc0c86a3",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/74668aa4-8ffe-432f-a4d9-0875cc0c86a3?resourceVersion=id%3A3145"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/74668aa4-8ffe-432f-a4d9-0875cc0c86a3?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44231,
+    "drupal_internal__vid": 3145,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Oscar Teuber †",
+    "created": "2011-09-29T15:15:14+00:00",
+    "changed": "2012-10-23T11:35:52+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44231",
+      "pid": 1124,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahr hält, in seiner Rolle als Vizepräsident der Concordia, eine Grabrede für Oscar Teuber. Karl Kraus fasst zusammen:<blockquote>\"Er hat nie getrachtet, aufzufallen, interessant zu thun und zu glänzen. Ueber solche Eitelkeiten ist er mit seinem stillen Lächeln unverwirrt hinweggeschritten.\"\r\nWorte, die neulich Herr Bahr als Leichenbitter der \"Concordia\" einem Schriftsteller nachrief.</blockquote>",
+      "format": "full_html",
+      "processed": "Bahr hält, in seiner Rolle als Vizepräsident der Concordia, eine Grabrede für Oscar Teuber. Karl Kraus fasst zusammen:<blockquote>\"Er hat nie getrachtet, aufzufallen, interessant zu thun und zu glänzen. Ueber solche Eitelkeiten ist er mit seinem stillen Lächeln unverwirrt hinweggeschritten.\"\nWorte, die neulich Herr Bahr als Leichenbitter der \"Concordia\" einem Schriftsteller nachrief.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1901-06-18",
+      "end_value": "1901-06-18"
+    },
+    "field_sources": [
+      "Hermann Bahr: Oskar Teuber †. Wiener Zeitung, (1901) #139, 2-3. (19.6.1901)",
+      "Die Fackel, 3 (1901) #80, 27."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/74668aa4-8ffe-432f-a4d9-0875cc0c86a3/node_type?resourceVersion=id%3A3145"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/74668aa4-8ffe-432f-a4d9-0875cc0c86a3/relationships/node_type?resourceVersion=id%3A3145"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/74668aa4-8ffe-432f-a4d9-0875cc0c86a3/revision_uid?resourceVersion=id%3A3145"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/74668aa4-8ffe-432f-a4d9-0875cc0c86a3/relationships/revision_uid?resourceVersion=id%3A3145"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/74668aa4-8ffe-432f-a4d9-0875cc0c86a3/uid?resourceVersion=id%3A3145"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/74668aa4-8ffe-432f-a4d9-0875cc0c86a3/relationships/uid?resourceVersion=id%3A3145"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/74668aa4-8ffe-432f-a4d9-0875cc0c86a3/field_event_type?resourceVersion=id%3A3145"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/74668aa4-8ffe-432f-a4d9-0875cc0c86a3/relationships/field_event_type?resourceVersion=id%3A3145"
+        }
+      }
+    }
+  }
+}

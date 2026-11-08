@@ -1,0 +1,119 @@
+{
+  "type": "node--event",
+  "id": "a792f1d4-07a1-4b99-8ed9-1f85319171ce",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/a792f1d4-07a1-4b99-8ed9-1f85319171ce?resourceVersion=id%3A2535"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/a792f1d4-07a1-4b99-8ed9-1f85319171ce?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28260,
+    "drupal_internal__vid": 2535,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Abflauen der \"Ideen von 1914\"",
+    "created": "2010-11-15T19:18:41+00:00",
+    "changed": "2012-11-13T11:02:21+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28260",
+      "pid": 393,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 19. März 1917 ist Bahr in Berlin, wo er auch auf Theodor Wolff vom \"Berliner Tageblatt\" trifft.\r\n<blockquote>Hermann Bahr, der in Berlin ist, um einen Vortrag zu halten, und nicht mehr kriegsbegeistert ist, sagt mir, in Österreich wolle kein Mensch mehr vom Krieg reden hören.</blockquote>Beim Vortrag handelt es sich um \"Ideen von 1914\", den er in der Calderon-Gesellschaft vortrug.",
+      "format": "full_html",
+      "processed": "Am 19. März 1917 ist Bahr in Berlin, wo er auch auf Theodor Wolff vom \"Berliner Tageblatt\" trifft.\n<blockquote>Hermann Bahr, der in Berlin ist, um einen Vortrag zu halten, und nicht mehr kriegsbegeistert ist, sagt mir, in Österreich wolle kein Mensch mehr vom Krieg reden hören.</blockquote>Beim Vortrag handelt es sich um \"Ideen von 1914\", den er in der Calderon-Gesellschaft vortrug.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1917-03-19",
+      "end_value": "1917-03-19"
+    },
+    "field_sources": [
+      "Eine auführliche Wiedergabe des Vortrags erschien in der \"Germania\", nachgedruckt in: Salzburger Chronik, 53 (1917) #74, 3-4. (31.3.1917)</i>",
+      "Theodor Wolff: Tagebücher 1914-1919. Boppard/Rhein: Harald Boldt 1984, 392-493. (#536) (19.3.1916)\r\n",
+      "Zum Vortrag über die „Ideen von 1914“ siehe: Berliner Tageblatt, #143, 19.3.1917, Abendausgabe. \r\n",
+      "Zum Vortrag auch Brief von Paul Fleischer an Bahr, 28.3.1917. Nachlass Bahr, A17564BaM"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a792f1d4-07a1-4b99-8ed9-1f85319171ce/node_type?resourceVersion=id%3A2535"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a792f1d4-07a1-4b99-8ed9-1f85319171ce/relationships/node_type?resourceVersion=id%3A2535"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a792f1d4-07a1-4b99-8ed9-1f85319171ce/revision_uid?resourceVersion=id%3A2535"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a792f1d4-07a1-4b99-8ed9-1f85319171ce/relationships/revision_uid?resourceVersion=id%3A2535"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a792f1d4-07a1-4b99-8ed9-1f85319171ce/uid?resourceVersion=id%3A2535"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a792f1d4-07a1-4b99-8ed9-1f85319171ce/relationships/uid?resourceVersion=id%3A2535"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a792f1d4-07a1-4b99-8ed9-1f85319171ce/field_event_type?resourceVersion=id%3A2535"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a792f1d4-07a1-4b99-8ed9-1f85319171ce/relationships/field_event_type?resourceVersion=id%3A2535"
+        }
+      }
+    }
+  }
+}

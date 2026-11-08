@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "afcc1df5-b7c8-4523-b209-a13ef7e60cf5",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/afcc1df5-b7c8-4523-b209-a13ef7e60cf5?resourceVersion=id%3A2573"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/afcc1df5-b7c8-4523-b209-a13ef7e60cf5?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38752,
+    "drupal_internal__vid": 2573,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Paris und London",
+    "created": "2011-01-24T13:06:44+00:00",
+    "changed": "2011-10-17T16:06:17+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38752",
+      "pid": 500,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Schon im März 1893 hat sich Bahr bei der Deutschen Zeitung ausbedungen, im Mai nach Paris gehen zu dürfen. Mit dem Erfolg der Interview-Reihe \"Der Antisemitismus\" dürfte das einfacher geworden sein, und er vermutlich am 13. Mai neben acht Tagen Paris auch noch nach London reisen, wo er sich (so sein Plan am 30. Mai) noch bis Sonntag oder Montag (4./5. Juni) aufhält und über Brüssel (ein Tag Aufenthalt) heimreist.",
+      "format": "full_html",
+      "processed": "Schon im März 1893 hat sich Bahr bei der Deutschen Zeitung ausbedungen, im Mai nach Paris gehen zu dürfen. Mit dem Erfolg der Interview-Reihe \"Der Antisemitismus\" dürfte das einfacher geworden sein, und er vermutlich am 13. Mai neben acht Tagen Paris auch noch nach London reisen, wo er sich (so sein Plan am 30. Mai) noch bis Sonntag oder Montag (4./5. Juni) aufhält und über Brüssel (ein Tag Aufenthalt) heimreist.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1893-05-13",
+      "end_value": "1893-06-06"
+    },
+    "field_sources": [
+      "Briefwechsel mit dem Vater, 343-344."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/afcc1df5-b7c8-4523-b209-a13ef7e60cf5/node_type?resourceVersion=id%3A2573"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/afcc1df5-b7c8-4523-b209-a13ef7e60cf5/relationships/node_type?resourceVersion=id%3A2573"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/afcc1df5-b7c8-4523-b209-a13ef7e60cf5/revision_uid?resourceVersion=id%3A2573"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/afcc1df5-b7c8-4523-b209-a13ef7e60cf5/relationships/revision_uid?resourceVersion=id%3A2573"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/afcc1df5-b7c8-4523-b209-a13ef7e60cf5/uid?resourceVersion=id%3A2573"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/afcc1df5-b7c8-4523-b209-a13ef7e60cf5/relationships/uid?resourceVersion=id%3A2573"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/afcc1df5-b7c8-4523-b209-a13ef7e60cf5/field_event_type?resourceVersion=id%3A2573"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/afcc1df5-b7c8-4523-b209-a13ef7e60cf5/relationships/field_event_type?resourceVersion=id%3A2573"
+        }
+      }
+    }
+  }
+}

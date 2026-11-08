@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "eec66fb7-aaa5-4ec5-bcfd-40b24c6091d3",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/eec66fb7-aaa5-4ec5-bcfd-40b24c6091d3?resourceVersion=id%3A3026"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/eec66fb7-aaa5-4ec5-bcfd-40b24c6091d3?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44110,
+    "drupal_internal__vid": 3026,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Olbrich-Haus Renovierung",
+    "created": "2011-09-13T17:32:21+00:00",
+    "changed": "2011-09-13T17:32:22+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44110",
+      "pid": 1005,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Schon im vierten Jahr seines Bestandes muss Bahrs von Joseph Olbrich erbautes Haus innen renoviert werden. Das geschieht rund um seinen 40. Geburtstag, vom 17. bis 19. Juli 1904.",
+      "format": "full_html",
+      "processed": "Schon im vierten Jahr seines Bestandes muss Bahrs von Joseph Olbrich erbautes Haus innen renoviert werden. Das geschieht rund um seinen 40. Geburtstag, vom 17. bis 19. Juli 1904.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1904-07-17",
+      "end_value": "1904-07-19"
+    },
+    "field_sources": [
+      "Tagebücher (Csàky), IV, 216-218."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/eec66fb7-aaa5-4ec5-bcfd-40b24c6091d3/node_type?resourceVersion=id%3A3026"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/eec66fb7-aaa5-4ec5-bcfd-40b24c6091d3/relationships/node_type?resourceVersion=id%3A3026"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/eec66fb7-aaa5-4ec5-bcfd-40b24c6091d3/revision_uid?resourceVersion=id%3A3026"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/eec66fb7-aaa5-4ec5-bcfd-40b24c6091d3/relationships/revision_uid?resourceVersion=id%3A3026"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/eec66fb7-aaa5-4ec5-bcfd-40b24c6091d3/uid?resourceVersion=id%3A3026"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/eec66fb7-aaa5-4ec5-bcfd-40b24c6091d3/relationships/uid?resourceVersion=id%3A3026"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/eec66fb7-aaa5-4ec5-bcfd-40b24c6091d3/field_event_type?resourceVersion=id%3A3026"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/eec66fb7-aaa5-4ec5-bcfd-40b24c6091d3/relationships/field_event_type?resourceVersion=id%3A3026"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "e1f9ef00-7013-4cdf-afcc-9b1cc71277ed",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/e1f9ef00-7013-4cdf-afcc-9b1cc71277ed?resourceVersion=id%3A3454"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/e1f9ef00-7013-4cdf-afcc-9b1cc71277ed?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49629,
+    "drupal_internal__vid": 3454,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Alejandro Sawa",
+    "created": "2011-11-18T13:49:01+00:00",
+    "changed": "2011-11-18T13:50:22+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49629",
+      "pid": 1444,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Vier Jahre nachdem er Bahrs wichtigste Bezugsperson in Madrid gewesen ist, treffen Alejandro Sawa und Bahr in Paris wieder aufeinander, wo ihn Bahr für den \"Antisemtismus\" interviewt.<blockquote>Ich habe seither nie mehr von ihm gehört, nichts mehr von ihm, nichts über ihn gelesen.</blockquote>",
+      "format": "full_html",
+      "processed": "Vier Jahre nachdem er Bahrs wichtigste Bezugsperson in Madrid gewesen ist, treffen Alejandro Sawa und Bahr in Paris wieder aufeinander, wo ihn Bahr für den \"Antisemtismus\" interviewt.<blockquote>Ich habe seither nie mehr von ihm gehört, nichts mehr von ihm, nichts über ihn gelesen.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1893-05-13",
+      "end_value": "1893-05-13"
+    },
+    "field_sources": [
+      "Hermann Bahr: Der Antisemitismus. Ein internationales Interview. 28. Alejandro Sawa. 29. Manuel Ruy Zorilla. Deutsche Zeitung, Wien, 23 (1893) #7766, Morgen-Ausgabe, 2-3. (11.8.1893) Buchausgabe: Der Antisemitismus, 168-174.",
+      "Selbstbildnis, 250",
+      "(Hier auf 13. Mai 1893 datiert)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e1f9ef00-7013-4cdf-afcc-9b1cc71277ed/node_type?resourceVersion=id%3A3454"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e1f9ef00-7013-4cdf-afcc-9b1cc71277ed/relationships/node_type?resourceVersion=id%3A3454"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e1f9ef00-7013-4cdf-afcc-9b1cc71277ed/revision_uid?resourceVersion=id%3A3454"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e1f9ef00-7013-4cdf-afcc-9b1cc71277ed/relationships/revision_uid?resourceVersion=id%3A3454"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e1f9ef00-7013-4cdf-afcc-9b1cc71277ed/uid?resourceVersion=id%3A3454"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e1f9ef00-7013-4cdf-afcc-9b1cc71277ed/relationships/uid?resourceVersion=id%3A3454"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e1f9ef00-7013-4cdf-afcc-9b1cc71277ed/field_event_type?resourceVersion=id%3A3454"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e1f9ef00-7013-4cdf-afcc-9b1cc71277ed/relationships/field_event_type?resourceVersion=id%3A3454"
+        }
+      }
+    }
+  }
+}

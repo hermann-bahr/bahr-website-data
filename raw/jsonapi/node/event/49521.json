@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "adc97fcc-ca34-462f-b67a-2d54406f6ea3",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/adc97fcc-ca34-462f-b67a-2d54406f6ea3?resourceVersion=id%3A3355"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/adc97fcc-ca34-462f-b67a-2d54406f6ea3?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49521,
+    "drupal_internal__vid": 3355,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "JR, Zuckerkandl",
+    "created": "2011-10-27T10:29:57+00:00",
+    "changed": "2011-10-27T10:29:57+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49521",
+      "pid": 1339,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 26. September 1923 speist Bahr - eben in Wien angekommen - bei Josef Redlich. Am 27. essen beide bei Berta Zuckerkandl.",
+      "format": "full_html",
+      "processed": "Am 26. September 1923 speist Bahr - eben in Wien angekommen - bei Josef Redlich. Am 27. essen beide bei Berta Zuckerkandl.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1923-09-26",
+      "end_value": "1923-09-29"
+    },
+    "field_sources": [
+      "Fritz Fellner und Doris A. Corradini (Hgg.): Schicksalsjahre Österreichs. Die Erinnerungen und Tagebücher Josef Redlichs 1869–1936. Wien: Böhlau 2011, II, 622."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/adc97fcc-ca34-462f-b67a-2d54406f6ea3/node_type?resourceVersion=id%3A3355"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/adc97fcc-ca34-462f-b67a-2d54406f6ea3/relationships/node_type?resourceVersion=id%3A3355"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/adc97fcc-ca34-462f-b67a-2d54406f6ea3/revision_uid?resourceVersion=id%3A3355"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/adc97fcc-ca34-462f-b67a-2d54406f6ea3/relationships/revision_uid?resourceVersion=id%3A3355"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/adc97fcc-ca34-462f-b67a-2d54406f6ea3/uid?resourceVersion=id%3A3355"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/adc97fcc-ca34-462f-b67a-2d54406f6ea3/relationships/uid?resourceVersion=id%3A3355"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/adc97fcc-ca34-462f-b67a-2d54406f6ea3/field_event_type?resourceVersion=id%3A3355"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/adc97fcc-ca34-462f-b67a-2d54406f6ea3/relationships/field_event_type?resourceVersion=id%3A3355"
+        }
+      }
+    }
+  }
+}

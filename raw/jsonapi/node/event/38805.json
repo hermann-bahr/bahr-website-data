@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "f3f1f3ee-bbfc-42c0-9859-1378d4e3feea",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f3f1f3ee-bbfc-42c0-9859-1378d4e3feea?resourceVersion=id%3A2626"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f3f1f3ee-bbfc-42c0-9859-1378d4e3feea?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38805,
+    "drupal_internal__vid": 2626,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Gäste",
+    "created": "2011-02-01T16:27:37+00:00",
+    "changed": "2012-05-22T20:25:18+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38805",
+      "pid": 553,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 1. Dezember 1896 gibt Bahr seinem Vater ein \"Update\", wer häufig bei ihm zuhause anzutreffen ist: Max Burckhard, Adele Sandrock, Alexander Girardi, Helene Odilon, Alfred von Berger, der Bildhauer Rudolf Weyr, Franz Roth (Architekt des Raimundtheaters), Julius Bauer, Arthur Schnitzler, Albert Rothschild, Baron Springer und wenn in der Stadt: Sudermann, Halbe und Wolzogen. Überprüfen lässt sich das schwer, aber in Schnitzlers \"Tagebuch\" ist für das bisherige Jahr 1896 beispielsweise nur ein einziger Besuch bei Bahr vermerkt - nachdem dieser, vom Duell verletzt, zuhause bleiben muss.\r\n",
+      "format": "full_html",
+      "processed": "Am 1. Dezember 1896 gibt Bahr seinem Vater ein \"Update\", wer häufig bei ihm zuhause anzutreffen ist: Max Burckhard, Adele Sandrock, Alexander Girardi, Helene Odilon, Alfred von Berger, der Bildhauer Rudolf Weyr, Franz Roth (Architekt des Raimundtheaters), Julius Bauer, Arthur Schnitzler, Albert Rothschild, Baron Springer und wenn in der Stadt: Sudermann, Halbe und Wolzogen. Überprüfen lässt sich das schwer, aber in Schnitzlers \"Tagebuch\" ist für das bisherige Jahr 1896 beispielsweise nur ein einziger Besuch bei Bahr vermerkt - nachdem dieser, vom Duell verletzt, zuhause bleiben muss.\n",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1896-12-01",
+      "end_value": "1896-12-01"
+    },
+    "field_sources": [
+      "Brief an den Vater, 1.12.1896"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f3f1f3ee-bbfc-42c0-9859-1378d4e3feea/node_type?resourceVersion=id%3A2626"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f3f1f3ee-bbfc-42c0-9859-1378d4e3feea/relationships/node_type?resourceVersion=id%3A2626"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f3f1f3ee-bbfc-42c0-9859-1378d4e3feea/revision_uid?resourceVersion=id%3A2626"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f3f1f3ee-bbfc-42c0-9859-1378d4e3feea/relationships/revision_uid?resourceVersion=id%3A2626"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f3f1f3ee-bbfc-42c0-9859-1378d4e3feea/uid?resourceVersion=id%3A2626"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f3f1f3ee-bbfc-42c0-9859-1378d4e3feea/relationships/uid?resourceVersion=id%3A2626"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f3f1f3ee-bbfc-42c0-9859-1378d4e3feea/field_event_type?resourceVersion=id%3A2626"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f3f1f3ee-bbfc-42c0-9859-1378d4e3feea/relationships/field_event_type?resourceVersion=id%3A2626"
+        }
+      }
+    }
+  }
+}

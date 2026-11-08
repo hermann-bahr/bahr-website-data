@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "3f2b8602-94a7-4421-a12e-86b45ca2c87d",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/3f2b8602-94a7-4421-a12e-86b45ca2c87d?resourceVersion=id%3A2943"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/3f2b8602-94a7-4421-a12e-86b45ca2c87d?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44018,
+    "drupal_internal__vid": 2943,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "\"Meister\" fertig",
+    "created": "2011-07-19T08:07:15+00:00",
+    "changed": "2011-09-16T14:51:06+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44018",
+      "pid": 916,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 24. September beendet Bahr, nach 32 Tagen, die Arbeit an seinem Stück \"Der Meister\". Eine Woche später steht es in der Zeitung:\r\n<blockquote>Hermann <i>Bahr</i> vollendete kürzlich eine dreiaktige Komödie \"Der Meister\", deren Uraufführung in <i>Berlin</i> stattfinden wird.</blockquote>",
+      "format": "full_html",
+      "processed": "Am 24. September beendet Bahr, nach 32 Tagen, die Arbeit an seinem Stück \"Der Meister\". Eine Woche später steht es in der Zeitung:\n<blockquote>Hermann <i>Bahr</i> vollendete kürzlich eine dreiaktige Komödie \"Der Meister\", deren Uraufführung in <i>Berlin</i> stattfinden wird.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1903-09-24",
+      "end_value": "1903-09-24"
+    },
+    "field_sources": [
+      "Tagebücher (Csàky), III, 390.",
+      "Österreichische Volkszeitung, 49 (1903) #270, 7. (2.10.1903)",
+      "Neues Wiener Tagblatt, 37 (1903) #295, 9. (27.10.1903)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3f2b8602-94a7-4421-a12e-86b45ca2c87d/node_type?resourceVersion=id%3A2943"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3f2b8602-94a7-4421-a12e-86b45ca2c87d/relationships/node_type?resourceVersion=id%3A2943"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3f2b8602-94a7-4421-a12e-86b45ca2c87d/revision_uid?resourceVersion=id%3A2943"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3f2b8602-94a7-4421-a12e-86b45ca2c87d/relationships/revision_uid?resourceVersion=id%3A2943"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3f2b8602-94a7-4421-a12e-86b45ca2c87d/uid?resourceVersion=id%3A2943"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3f2b8602-94a7-4421-a12e-86b45ca2c87d/relationships/uid?resourceVersion=id%3A2943"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3f2b8602-94a7-4421-a12e-86b45ca2c87d/field_event_type?resourceVersion=id%3A2943"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3f2b8602-94a7-4421-a12e-86b45ca2c87d/relationships/field_event_type?resourceVersion=id%3A2943"
+        }
+      }
+    }
+  }
+}

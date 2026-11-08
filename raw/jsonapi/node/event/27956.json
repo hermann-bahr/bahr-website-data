@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "9155057d-8808-46de-97c4-ce2c10a0bb32",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/9155057d-8808-46de-97c4-ce2c10a0bb32?resourceVersion=id%3A2297"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/9155057d-8808-46de-97c4-ce2c10a0bb32?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27956,
+    "drupal_internal__vid": 2297,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Summula",
+    "created": "2010-07-19T15:12:32+00:00",
+    "changed": "2011-10-27T10:10:41+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/27956",
+      "pid": 131,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "1921 beginnt in Bahrs Sammelwerken der Krieg und die Kriegsfolgen in den Hintergrund zu treten, während es eine neue Hinwendung zu kulturellen Überlegungen kommt. Als politisches Werk möchte sich Summula als die Summe der Kriegsüberlegungen zu Österreich und dem Katholizismus verstehen, als politisches Werk versteht er es selbst als das beste der letzten Jahre. Erschienen vermutlich Anfang August, als Redlich in einem Brief den Erhalt bestätigt.",
+      "format": "full_html",
+      "processed": "1921 beginnt in Bahrs Sammelwerken der Krieg und die Kriegsfolgen in den Hintergrund zu treten, während es eine neue Hinwendung zu kulturellen Überlegungen kommt. Als politisches Werk möchte sich Summula als die Summe der Kriegsüberlegungen zu Österreich und dem Katholizismus verstehen, als politisches Werk versteht er es selbst als das beste der letzten Jahre. Erschienen vermutlich Anfang August, als Redlich in einem Brief den Erhalt bestätigt.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1921-08-01",
+      "end_value": "1921-08-01"
+    },
+    "field_sources": [
+      "Hermann Bahr: Summula. Leipzig: Insel, 1921.",
+      "Bahr/Redlich, 457.",
+      "Fritz Fellner und Doris A. Corradini (Hgg.): Schicksalsjahre Österreichs. Die Erinnerungen und Tagebücher Josef Redlichs 1869–1936. Wien: Böhlau 2011, II, 571."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9155057d-8808-46de-97c4-ce2c10a0bb32/node_type?resourceVersion=id%3A2297"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9155057d-8808-46de-97c4-ce2c10a0bb32/relationships/node_type?resourceVersion=id%3A2297"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9155057d-8808-46de-97c4-ce2c10a0bb32/revision_uid?resourceVersion=id%3A2297"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9155057d-8808-46de-97c4-ce2c10a0bb32/relationships/revision_uid?resourceVersion=id%3A2297"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9155057d-8808-46de-97c4-ce2c10a0bb32/uid?resourceVersion=id%3A2297"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9155057d-8808-46de-97c4-ce2c10a0bb32/relationships/uid?resourceVersion=id%3A2297"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "da42ac4a-f48f-4397-af4d-b66e913825fb",
+          "meta": {
+            "drupal_internal__target_id": 3
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9155057d-8808-46de-97c4-ce2c10a0bb32/field_event_type?resourceVersion=id%3A2297"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9155057d-8808-46de-97c4-ce2c10a0bb32/relationships/field_event_type?resourceVersion=id%3A2297"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bilder__1914-bahr-beim-lieben-gott" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">1914 Bahr beim lieben Gott</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">28240</idno>
+        <idno type="drupal-alias">/bild/28240</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bild/28240">https://bahr.univie.ac.at/bild/28240</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="7" key="bilder">Bilder</term>
+          <term n="28" key="1914-bahr-beim-lieben-gott" type="eintrag">1914 Bahr beim lieben Gott</term>
+        </keywords>
+        <classCode scheme="drupal-type">image</classCode>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2010-11-09T12:04:21+00:00" type="created">angelegt in Drupal</change>
+      <change when="2011-07-12T14:05:20+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <figure>
+          <graphic url="files/bahr_bilder/1914_simplicissimus.jpg"/>
+          <figDesc>1914 Bahr beim lieben Gott</figDesc>
+        </figure>
+        <quote>Wir könnten uns eigentlich wieder miteinander vertragen. Ich habe nämlich Aussicht, Burgtheaterdirektor zu werden.</quote>
+        <p>(Von O. Gulbransson)<lb/><hi rend="italic">Aus: Simplicissimus, 18 (1914) #51, 850. <ref target="http://www.simplicissimus.info/uploads/tx_lombkswjournaldb/pdf/1/18/18_51.pdf">[Quelle]</ref></hi></p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,119 @@
+{
+  "type": "node--event",
+  "id": "547e52c1-c554-407f-b65a-24b31b763abf",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/547e52c1-c554-407f-b65a-24b31b763abf?resourceVersion=id%3A2458"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/547e52c1-c554-407f-b65a-24b31b763abf?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28141,
+    "drupal_internal__vid": 2458,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Freie Schule",
+    "created": "2010-08-24T11:54:48+00:00",
+    "changed": "2011-12-23T14:09:51+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28141",
+      "pid": 294,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 26. März 1911 hält Bahr einen Vortrag \"Freie Erziehung\" anlässlich der Jahres-Versammlung des Vereines Freie Schule im Wiener Kolosseum. ",
+      "format": "full_html",
+      "processed": "Am 26. März 1911 hält Bahr einen Vortrag \"Freie Erziehung\" anlässlich der Jahres-Versammlung des Vereines Freie Schule im Wiener Kolosseum. ",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1911-03-26",
+      "end_value": "1911-03-26"
+    },
+    "field_sources": [
+      "Hermann Bahr: Freie Erziehung. Vortrag, gehalten anlässlich der Jahres-Versammlung des Vereines Freie Schule am 26. März 1911 im Wiener Kolosseum. Wien: Verlag des Vereines Freie Schule, 1911.",
+      "Vortragsmitschrift: Arbeiter-Zeitung, 23 (1911) #87, Morgenblatt, 7-8. (29.3.1911)",
+      "Vortragsmitschrift: Hermann Bahr über freie Erziehung. [I]. Salzburger Wacht, 12 (1911) #75, 10-11 bzw. #92, 9-10. (1. bzw.  22.4.1911)",
+      "Vortragsmitschrift: Neues Wiener Journal, 19 (1911) #6260, 2. (27.3.1911)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/547e52c1-c554-407f-b65a-24b31b763abf/node_type?resourceVersion=id%3A2458"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/547e52c1-c554-407f-b65a-24b31b763abf/relationships/node_type?resourceVersion=id%3A2458"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/547e52c1-c554-407f-b65a-24b31b763abf/revision_uid?resourceVersion=id%3A2458"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/547e52c1-c554-407f-b65a-24b31b763abf/relationships/revision_uid?resourceVersion=id%3A2458"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/547e52c1-c554-407f-b65a-24b31b763abf/uid?resourceVersion=id%3A2458"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/547e52c1-c554-407f-b65a-24b31b763abf/relationships/uid?resourceVersion=id%3A2458"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/547e52c1-c554-407f-b65a-24b31b763abf/field_event_type?resourceVersion=id%3A2458"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/547e52c1-c554-407f-b65a-24b31b763abf/relationships/field_event_type?resourceVersion=id%3A2458"
+        }
+      }
+    }
+  }
+}

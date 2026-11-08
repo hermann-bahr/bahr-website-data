@@ -1,0 +1,109 @@
+{
+  "type": "node--bibliographie",
+  "id": "f6ea02d1-0c3a-40d4-bb83-6ed42e3e0f3a",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/f6ea02d1-0c3a-40d4-bb83-6ed42e3e0f3a?resourceVersion=id%3A3891"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/f6ea02d1-0c3a-40d4-bb83-6ed42e3e0f3a?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39100,
+    "drupal_internal__vid": 3891,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:44:00+00:00",
+    "status": true,
+    "title": "Erinnerung an Burckhard (1913)",
+    "created": "2011-05-18T18:50:12+00:00",
+    "changed": "2012-10-22T10:24:44+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/bibliografie/39100",
+      "pid": 831,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<h3 id=\"bib\">Bibliografie</h3>\r\n<table class=\"bibliografie\">\r\n<tr><td>Autor:</td><td>Hermann Bahr</td></tr>\r\n<tr><td>Titel:</td><td>Erinnerung an Burckhard</td></tr>\r\n\r\n<tr><td>Ort:</td><td>Berlin</td></tr>\r\n<tr><td>Verlag:</td><td>S. Fischer</td></tr>\r\n<tr><td>Jahr:</td><td>1913</td></tr>\r\n<tr><td>Seiten:</td><td>136</td></tr>\r\n\r\n\r\n<tr><td>Anm.:</td><td>Mit drei Porträts von Burckhard. Am 28.6.1913 teilt Bahr Fischer mit, dass das Manuskript fast fertig ist. Im 1. Juli-Heft des \"Merkers\" ist das 2. Kapitel vorabgedruckt, das Buch wird für Herbst angekündigt. Am 18. August ist es ausgedruckt und soll Mitte September fertig sein (Bahr/Redlich, 88). Die Widmung in Gerhart Hauptmanns Exemplar datiert vom 7. Oktober 1913. Schnitzler nennt es am 7.12.1925 in einem Brief an Anton Bettelheim \"Das beste, was über Max Burckhard bisher geschrieben wurde\" (Schnitzler: Briefe 1913-1931, 420).</td></tr></table>\r\n\r\n<h3 id=\"rezens\">Rezensionen</h3>\r\n<p>Paul Zifferer in: Neue Freie Presse, #17643, 31-32. (5.10.1913)\r\n[O. N.:] Hermann Bahr: Erinnerungen an Burckhard (S. Fischer, Berlin). In: Breslauer Morgen-Zeitung, 1913 #316, Literarische Beilage, 2. (17.11.1913)\r\nBerliner Tageblatt, zwischen 6. und 9.12.1913\r\nPeter Alexander Kleimann: Hermann Bahr: Erinnerungen an Burkhard. In: Hamburgischer Correspondent. Zeitung für Literatur, Kunst und Wissenschaft, 1913 #26, 206. (21.12.1913)\r\nAlbert Zippert: Hermann Bahr: Erinnerungen an Burckhard. In: Die Persönlichkeit, 1 (1914) #2 (Februar), 141-142.</p>\r\n\r\n<h3 id=\"digit\">Digitalisate</h3>\r\n<ul>\r\n<li><a href=\"http://www.archive.org/search.php?query=hermann%20bahr%20burckhard\">archive.org</a>\r\n</ul>",
+      "format": "full_html",
+      "processed": "<h3 id=\"bib\">Bibliografie</h3>\n<table class=\"bibliografie\">\n<tr><td>Autor:</td><td>Hermann Bahr</td></tr>\n<tr><td>Titel:</td><td>Erinnerung an Burckhard</td></tr>\n\n<tr><td>Ort:</td><td>Berlin</td></tr>\n<tr><td>Verlag:</td><td>S. Fischer</td></tr>\n<tr><td>Jahr:</td><td>1913</td></tr>\n<tr><td>Seiten:</td><td>136</td></tr>\n\n\n<tr><td>Anm.:</td><td>Mit drei Porträts von Burckhard. Am 28.6.1913 teilt Bahr Fischer mit, dass das Manuskript fast fertig ist. Im 1. Juli-Heft des \"Merkers\" ist das 2. Kapitel vorabgedruckt, das Buch wird für Herbst angekündigt. Am 18. August ist es ausgedruckt und soll Mitte September fertig sein (Bahr/Redlich, 88). Die Widmung in Gerhart Hauptmanns Exemplar datiert vom 7. Oktober 1913. Schnitzler nennt es am 7.12.1925 in einem Brief an Anton Bettelheim \"Das beste, was über Max Burckhard bisher geschrieben wurde\" (Schnitzler: Briefe 1913-1931, 420).</td></tr></table>\n\n<h3 id=\"rezens\">Rezensionen</h3>\n<p>Paul Zifferer in: Neue Freie Presse, #17643, 31-32. (5.10.1913)\n[O. N.:] Hermann Bahr: Erinnerungen an Burckhard (S. Fischer, Berlin). In: Breslauer Morgen-Zeitung, 1913 #316, Literarische Beilage, 2. (17.11.1913)\nBerliner Tageblatt, zwischen 6. und 9.12.1913\nPeter Alexander Kleimann: Hermann Bahr: Erinnerungen an Burkhard. In: Hamburgischer Correspondent. Zeitung für Literatur, Kunst und Wissenschaft, 1913 #26, 206. (21.12.1913)\nAlbert Zippert: Hermann Bahr: Erinnerungen an Burckhard. In: Die Persönlichkeit, 1 (1914) #2 (Februar), 141-142.</p>\n\n<h3 id=\"digit\">Digitalisate</h3>\n<ul>\n<li><a href=\"http://www.archive.org/search.php?query=hermann%20bahr%20burckhard\">archive.org</a>\n</li></ul>",
+      "summary": null
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "c4d97a7b-20a3-4a00-9858-72c5abf35af3",
+        "meta": {
+          "drupal_internal__target_id": "bibliographie"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/f6ea02d1-0c3a-40d4-bb83-6ed42e3e0f3a/node_type?resourceVersion=id%3A3891"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/f6ea02d1-0c3a-40d4-bb83-6ed42e3e0f3a/relationships/node_type?resourceVersion=id%3A3891"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/f6ea02d1-0c3a-40d4-bb83-6ed42e3e0f3a/revision_uid?resourceVersion=id%3A3891"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/f6ea02d1-0c3a-40d4-bb83-6ed42e3e0f3a/relationships/revision_uid?resourceVersion=id%3A3891"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/f6ea02d1-0c3a-40d4-bb83-6ed42e3e0f3a/uid?resourceVersion=id%3A3891"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/f6ea02d1-0c3a-40d4-bb83-6ed42e3e0f3a/relationships/uid?resourceVersion=id%3A3891"
+        }
+      }
+    },
+    "field_bibliographie_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--bibliografie_type",
+          "id": "f5402746-c49e-41be-b7ec-f14b0dba2cc7",
+          "meta": {
+            "drupal_internal__target_id": 11
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/f6ea02d1-0c3a-40d4-bb83-6ed42e3e0f3a/field_bibliographie_type?resourceVersion=id%3A3891"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/f6ea02d1-0c3a-40d4-bb83-6ed42e3e0f3a/relationships/field_bibliographie_type?resourceVersion=id%3A3891"
+        }
+      }
+    }
+  }
+}

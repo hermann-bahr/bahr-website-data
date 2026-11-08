@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "8a7ec3e8-f3c3-4ff5-8fcb-3b03feb2d02e",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/8a7ec3e8-f3c3-4ff5-8fcb-3b03feb2d02e?resourceVersion=id%3A2560"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/8a7ec3e8-f3c3-4ff5-8fcb-3b03feb2d02e?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38699,
+    "drupal_internal__vid": 2560,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Maria Schutz",
+    "created": "2010-12-28T16:38:35+00:00",
+    "changed": "2011-08-30T14:43:48+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38699",
+      "pid": 448,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Weihnachten 1903 (24.-28.12.1903) verbringen Hermann und Rosa Bahr am Semmering. Eine Ansichtskarte mit der Aufschrift \"Gruss aus Maria Schutz\" und einem Bild des Dorfes senden sie an Gerhart Hauptmann: \r\n<blockquote>24/12 03<br>Herzlichst grüßt<br>Rose Bahr. Hermann Bahr</blockquote>",
+      "format": "full_html",
+      "processed": "Weihnachten 1903 (24.-28.12.1903) verbringen Hermann und Rosa Bahr am Semmering. Eine Ansichtskarte mit der Aufschrift \"Gruss aus Maria Schutz\" und einem Bild des Dorfes senden sie an Gerhart Hauptmann: \n<blockquote>24/12 03<br>Herzlichst grüßt<br>Rose Bahr. Hermann Bahr</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1903-12-24",
+      "end_value": "1903-12-28"
+    },
+    "field_sources": [
+      "Peter Sprengel: Hermann Bahr und Gerhart Hauptmann in Briefen und anderen Zeugnissen. In: Johann Lachinger, Hg.: Hermann Bahr – Mittler der europäischen Moderne. Hermann Bahr-Symposion. Linz 1998. Linz: Adalbert-Stifter-Institut des Landes Oberösterreich 2001, 208.",
+      "Tagebücher (Csàky), III, 420. "
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8a7ec3e8-f3c3-4ff5-8fcb-3b03feb2d02e/node_type?resourceVersion=id%3A2560"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8a7ec3e8-f3c3-4ff5-8fcb-3b03feb2d02e/relationships/node_type?resourceVersion=id%3A2560"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8a7ec3e8-f3c3-4ff5-8fcb-3b03feb2d02e/revision_uid?resourceVersion=id%3A2560"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8a7ec3e8-f3c3-4ff5-8fcb-3b03feb2d02e/relationships/revision_uid?resourceVersion=id%3A2560"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8a7ec3e8-f3c3-4ff5-8fcb-3b03feb2d02e/uid?resourceVersion=id%3A2560"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8a7ec3e8-f3c3-4ff5-8fcb-3b03feb2d02e/relationships/uid?resourceVersion=id%3A2560"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8a7ec3e8-f3c3-4ff5-8fcb-3b03feb2d02e/field_event_type?resourceVersion=id%3A2560"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8a7ec3e8-f3c3-4ff5-8fcb-3b03feb2d02e/relationships/field_event_type?resourceVersion=id%3A2560"
+        }
+      }
+    }
+  }
+}

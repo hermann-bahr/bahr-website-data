@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "8d47dcd7-0764-43d3-a281-521b7a7aadf0",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/8d47dcd7-0764-43d3-a281-521b7a7aadf0?resourceVersion=id%3A2783"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/8d47dcd7-0764-43d3-a281-521b7a7aadf0?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39001,
+    "drupal_internal__vid": 2783,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Anastasius Weidlich",
+    "created": "2011-03-22T10:56:09+00:00",
+    "changed": "2011-11-03T11:04:45+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39001",
+      "pid": 737,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<blockquote>Die Zinsen des mütterlichen Vermögens betrugen im Jahre 1867, nach dem Tode der Großmutter, 710 Gulden 49 Kreuzer. Das war schmal, und erst als der Onkel Anastas, Hofrat Anastasius Ritter von Weidlich, bisher in Temesvar, über den neuen ungarischen Kurs ergrimmt, seinen Abschied nahm und 1867 zu uns zog, 100 Gulden monatlich für seine Verpflegung bezahlend, atmeten sie von der ärgsten Bedrängnis auf.</blockquote>\r\n",
+      "format": "full_html",
+      "processed": "<blockquote>Die Zinsen des mütterlichen Vermögens betrugen im Jahre 1867, nach dem Tode der Großmutter, 710 Gulden 49 Kreuzer. Das war schmal, und erst als der Onkel Anastas, Hofrat Anastasius Ritter von Weidlich, bisher in Temesvar, über den neuen ungarischen Kurs ergrimmt, seinen Abschied nahm und 1867 zu uns zog, 100 Gulden monatlich für seine Verpflegung bezahlend, atmeten sie von der ärgsten Bedrängnis auf.</blockquote>\n",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1867-01-01",
+      "end_value": "1867-01-01"
+    },
+    "field_sources": [
+      "Selbstbildnis, 33."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8d47dcd7-0764-43d3-a281-521b7a7aadf0/node_type?resourceVersion=id%3A2783"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8d47dcd7-0764-43d3-a281-521b7a7aadf0/relationships/node_type?resourceVersion=id%3A2783"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8d47dcd7-0764-43d3-a281-521b7a7aadf0/revision_uid?resourceVersion=id%3A2783"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8d47dcd7-0764-43d3-a281-521b7a7aadf0/relationships/revision_uid?resourceVersion=id%3A2783"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8d47dcd7-0764-43d3-a281-521b7a7aadf0/uid?resourceVersion=id%3A2783"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8d47dcd7-0764-43d3-a281-521b7a7aadf0/relationships/uid?resourceVersion=id%3A2783"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8d47dcd7-0764-43d3-a281-521b7a7aadf0/field_event_type?resourceVersion=id%3A2783"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8d47dcd7-0764-43d3-a281-521b7a7aadf0/relationships/field_event_type?resourceVersion=id%3A2783"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bibliografie__literarische-prosa__die-schoene-frau-1899" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Die schöne Frau (1899)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">38897</idno>
+        <idno type="drupal-alias">/bibliografie/38897</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bibliografie/38897">https://bahr.univie.ac.at/bibliografie/38897</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+        <bibl type="beschriebene-ausgabe">
+          <author>Hermann Bahr</author>
+          <title type="main">Die schöne Frau</title>
+          <title type="sub">Leander</title>
+          <pubPlace>Berlin</pubPlace>
+          <publisher>S. Fischer</publisher>
+          <date>1899</date>
+          <extent>143</extent>
+          <edition>1.-2. Tsd. 2. Aufl.</edition>
+          <note>Einbandentwurf Otto Eckmann, Umschlagentwurf Koloman Moser. Gedruckte Widmung: "Der schönen Frau. Wien, 5. Mai 1899."</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="1" key="bibliografie">Bibliografie</term>
+          <term n="3" key="literarische-prosa">Literarische Prosa</term>
+          <term n="6" key="die-schoene-frau-1899" type="eintrag">Die schöne Frau (1899)</term>
+        </keywords>
+        <classCode scheme="drupal-type">bibliographie</classCode>
+        <keywords scheme="bibliografie_type">
+          <term>Literarische Prosa</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2011-03-04T11:14:56+00:00" type="created">angelegt in Drupal</change>
+      <change when="2021-09-30T11:16:37+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="bib">
+        <head>Bibliografie</head>
+        <table type="bibliografie">
+          <row>
+            <cell>Autor:</cell>
+            <cell>Hermann Bahr</cell>
+          </row>
+          <row>
+            <cell>Titel:</cell>
+            <cell>Die schöne Frau</cell>
+          </row>
+          <row>
+            <cell> </cell>
+            <cell>Leander</cell>
+          </row>
+          <row>
+            <cell>Ort:</cell>
+            <cell>Berlin</cell>
+          </row>
+          <row>
+            <cell>Verlag:</cell>
+            <cell>S. Fischer</cell>
+          </row>
+          <row>
+            <cell>Jahr:</cell>
+            <cell>1899</cell>
+          </row>
+          <row>
+            <cell>Seiten:</cell>
+            <cell>143</cell>
+          </row>
+          <row>
+            <cell>Aufl.:</cell>
+            <cell>1.-2. Tsd. 2. Aufl.</cell>
+          </row>
+          <row>
+            <cell>Anm.:</cell>
+            <cell>Einbandentwurf Otto Eckmann, Umschlagentwurf Koloman Moser. Gedruckte Widmung: "Der schönen Frau. Wien, 5. Mai 1899."</cell>
+          </row>
+        </table>
+      </div>
+      <div xml:id="erstdrucke">
+        <head>Erstdrucke</head>
+        <p>In seiner Jugend gestaltete sich für Bahr die Berufswahl schwierig. Sich zu Großem bestimmt fühlend, wusste er nicht, ob er nun Schauspieler (seine früheste Wahl), Politiker, Jurist, Ökonom, Kritiker, Regisseur, Theaterautor, Schriftsteller oder Journalist werden sollte. Die sich dahinter verbergende Unsicherheit zeigt sich darin, dass auch nach seinem Tod nicht die Frage nach seiner Bedeutung gestellt wurde (streitbar aber unbestritten), sondern nach dem Feld, in dem seine Bedeutung liegt. Dieses Oszillieren, aber auch eine gewisse Nonchalance der Selbstvermarktung, letztlich das sich abzeichnende Ende seiner Tätigkeit bei der Zeit bestimmen die Drucklegung dieser beiden Geschichten, die am 30. Juli 1899 bei S. Fischer in Berlin erschienen. Bahr, der Schriftführer des Kulturteils der »Zeit«, brachte nach Texten der anderen Mitglieder Jung-Wiens sich selbst als Fortsetzungsautor. Während zuvor die Überschneidungen von Bahr als Theaterautor mit der Theaterberichterstattung der Zeit tunlichst vermieden wurde, erweist sich dieser Schritt als Zeichen, dass auf solche »moralischen« Standards nicht mehr Rücksicht genommen wird, weil sein Ausscheiden aus dem Redaktionsteam bevorsteht.</p>
+        <table>
+          <row>
+            <cell>9-29</cell>
+            <cell><hi rend="bold">Die schöne Frau</hi><lb/> Die Zeit, 11 (1897) #131, 15-16</cell>
+          </row>
+          <row>
+            <cell>31-143</cell>
+            <cell><hi rend="bold">Leander</hi><lb/> Die Zeit, 19 (1899) #235, 15-16; #236, 31-33; #238, 65-66; #240, 96-98.</cell>
+          </row>
+        </table>
+        <p>
+          <hi rend="small">Alle Texte nachgewiesen, Mai 2010</hi>
+        </p>
+      </div>
+      <div xml:id="rezens">
+        <head>Rezensionen</head>
+        <p>Im Archiv ab dem 30.7.1899. Westermanns Illustrierte Deutsche Monatshefte, 87 (1899), 432. Das Literarische Echo, 1 (1899) #23, 1496-1497.</p>
+      </div>
+      <div xml:id="inhaltsvz">
+        <head>Inhaltsverzeichnis</head>
+        <table>
+          <row>
+            <cell role="label">Seiten</cell>
+            <cell role="label">Titel</cell>
+          </row>
+          <row>
+            <cell>9-29</cell>
+            <cell>
+              <hi rend="bold">Die schöne Frau.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>31-143</cell>
+            <cell>
+              <hi rend="bold">Leander.</hi>
+            </cell>
+          </row>
+        </table>
+      </div>
+      <div xml:id="digit">
+        <head>Digitalisate</head>
+        <list rend="bulleted">
+          <item>
+            <ref target="http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=52">ÖNB Anno</ref>
+          </item>
+        </list>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "027765c4-2fff-4554-b2cd-d3737d8a2725",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/027765c4-2fff-4554-b2cd-d3737d8a2725?resourceVersion=id%3A3150"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/027765c4-2fff-4554-b2cd-d3737d8a2725?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44236,
+    "drupal_internal__vid": 3150,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Willy Handl †",
+    "created": "2011-10-03T09:52:35+00:00",
+    "changed": "2011-10-19T15:47:09+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44236",
+      "pid": 1129,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 26. Mai 1920 stirbt Willi Handl in Berlin an einem Herzleiden. Geboren 1872, war er der erste, der eine Monographie über Bahr verfasst hatte. Bahr sah in ihm stets, seinen zukünftigen Biographen. ",
+      "format": "full_html",
+      "processed": "Am 26. Mai 1920 stirbt Willi Handl in Berlin an einem Herzleiden. Geboren 1872, war er der erste, der eine Monographie über Bahr verfasst hatte. Bahr sah in ihm stets, seinen zukünftigen Biographen. ",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1920-05-26",
+      "end_value": "1920-05-26"
+    },
+    "field_sources": [
+      "Bahrs Nachruf im Tagebuch vom 29. Mai (Neues Wiener Journal, 20.6.1920). Buchausgabe: Kritik der Gegenwart, 142-144."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/027765c4-2fff-4554-b2cd-d3737d8a2725/node_type?resourceVersion=id%3A3150"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/027765c4-2fff-4554-b2cd-d3737d8a2725/relationships/node_type?resourceVersion=id%3A3150"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/027765c4-2fff-4554-b2cd-d3737d8a2725/revision_uid?resourceVersion=id%3A3150"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/027765c4-2fff-4554-b2cd-d3737d8a2725/relationships/revision_uid?resourceVersion=id%3A3150"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/027765c4-2fff-4554-b2cd-d3737d8a2725/uid?resourceVersion=id%3A3150"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/027765c4-2fff-4554-b2cd-d3737d8a2725/relationships/uid?resourceVersion=id%3A3150"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/027765c4-2fff-4554-b2cd-d3737d8a2725/field_event_type?resourceVersion=id%3A3150"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/027765c4-2fff-4554-b2cd-d3737d8a2725/relationships/field_event_type?resourceVersion=id%3A3150"
+        }
+      }
+    }
+  }
+}

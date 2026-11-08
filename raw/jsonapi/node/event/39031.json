@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "96949ec3-e032-4d5d-8faf-c50e51c60150",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/96949ec3-e032-4d5d-8faf-c50e51c60150?resourceVersion=id%3A2808"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/96949ec3-e032-4d5d-8faf-c50e51c60150?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39031,
+    "drupal_internal__vid": 2808,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Vossische Zeitung",
+    "created": "2011-04-06T15:44:42+00:00",
+    "changed": "2011-09-29T08:42:43+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39031",
+      "pid": 764,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Ab dem 26. September 1917 ist das Berliner Tageblatt nicht mehr die einzige Berliner Zeitung, die regelmäßig Texte von Bahr bringt. Er schreibt für zehn Jahre auch für die \"Vossische\" und ab 1922 kommt dann noch der \"Berliner Börsen-Courier\" dazu. Insgesamt platziert er in der Zeit 22 Texte.",
+      "format": "full_html",
+      "processed": "Ab dem 26. September 1917 ist das Berliner Tageblatt nicht mehr die einzige Berliner Zeitung, die regelmäßig Texte von Bahr bringt. Er schreibt für zehn Jahre auch für die \"Vossische\" und ab 1922 kommt dann noch der \"Berliner Börsen-Courier\" dazu. Insgesamt platziert er in der Zeit 22 Texte.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1917-09-26",
+      "end_value": "1917-09-26"
+    },
+    "field_sources": [
+      "Hermann Bahr: Der Ackermann aus Böhmen. Vossische Zeitung, (1917) #492, Abend-Ausgabe, 2 und 5. (26.9.1917)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/96949ec3-e032-4d5d-8faf-c50e51c60150/node_type?resourceVersion=id%3A2808"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/96949ec3-e032-4d5d-8faf-c50e51c60150/relationships/node_type?resourceVersion=id%3A2808"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/96949ec3-e032-4d5d-8faf-c50e51c60150/revision_uid?resourceVersion=id%3A2808"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/96949ec3-e032-4d5d-8faf-c50e51c60150/relationships/revision_uid?resourceVersion=id%3A2808"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/96949ec3-e032-4d5d-8faf-c50e51c60150/uid?resourceVersion=id%3A2808"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/96949ec3-e032-4d5d-8faf-c50e51c60150/relationships/uid?resourceVersion=id%3A2808"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "d579e54c-64dd-4193-a9ef-da87efb3ed16",
+          "meta": {
+            "drupal_internal__target_id": 8
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/96949ec3-e032-4d5d-8faf-c50e51c60150/field_event_type?resourceVersion=id%3A2808"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/96949ec3-e032-4d5d-8faf-c50e51c60150/relationships/field_event_type?resourceVersion=id%3A2808"
+        }
+      }
+    }
+  }
+}

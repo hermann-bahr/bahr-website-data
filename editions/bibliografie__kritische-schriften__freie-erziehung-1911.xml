@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bibliografie__kritische-schriften__freie-erziehung-1911" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Freie Erziehung (1911)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">38706</idno>
+        <idno type="drupal-alias">/bibliografie/38706</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bibliografie/38706">https://bahr.univie.ac.at/bibliografie/38706</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+        <bibl type="beschriebene-ausgabe">
+          <author>Hermann Bahr</author>
+          <title type="main">Freie Erziehung</title>
+          <title type="sub">Vortrag, gehalten anlässlich der Jahres-Versammlung des Vereines Freie Schule am 26. März 1911 im Wiener Kolosseum</title>
+          <pubPlace>Wien</pubPlace>
+          <publisher>Verlag des Vereines Freie Schule</publisher>
+          <date>1911</date>
+          <extent>16</extent>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="1" key="bibliografie">Bibliografie</term>
+          <term n="4" key="kritische-schriften">Kritische Schriften</term>
+          <term n="7" key="freie-erziehung-1911" type="eintrag">Freie Erziehung (1911)</term>
+        </keywords>
+        <classCode scheme="drupal-type">bibliographie</classCode>
+        <keywords scheme="bibliografie_type">
+          <term>Kritische Schriften</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2010-12-30T13:26:42+00:00" type="created">angelegt in Drupal</change>
+      <change when="2013-07-30T08:12:12+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="bib">
+        <head>Bibliografie</head>
+        <table type="bibliografie">
+          <row>
+            <cell>Autor:</cell>
+            <cell>Hermann Bahr</cell>
+          </row>
+          <row>
+            <cell>Titel:</cell>
+            <cell>Freie Erziehung</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>Vortrag, gehalten anlässlich der Jahres-Versammlung des Vereines Freie Schule am 26. März 1911 im Wiener Kolosseum</cell>
+          </row>
+          <row>
+            <cell>Ort:</cell>
+            <cell>Wien</cell>
+          </row>
+          <row>
+            <cell>Verlag:</cell>
+            <cell>Verlag des Vereines Freie Schule</cell>
+          </row>
+          <row>
+            <cell>Jahr:</cell>
+            <cell>1911</cell>
+          </row>
+          <row>
+            <cell>Seiten:</cell>
+            <cell>16</cell>
+          </row>
+        </table>
+      </div>
+      <div>
+        <head>Rezensionen</head>
+        <p>Scheicher: Die "Freie Schule". Korrespondenzblatt für den katholischen Klerus Österreichs, 31 (1912) #5, 1-2. (10.3.1912)</p>
+      </div>
+      <div>
+        <head>Digitalisate</head>
+        <p>
+          <ref target="https://bahr.univie.ac.at/sites/all/txt/sonderdrucke/1911_freie-schule.pdf" type="sites-all">PDF</ref>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

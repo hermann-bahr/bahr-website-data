@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "26a3846c-2a50-417c-85b0-0e0017c06b2c",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/26a3846c-2a50-417c-85b0-0e0017c06b2c?resourceVersion=id%3A3363"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/26a3846c-2a50-417c-85b0-0e0017c06b2c?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49530,
+    "drupal_internal__vid": 3363,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Salzburg-Kritik",
+    "created": "2011-10-28T11:42:15+00:00",
+    "changed": "2011-10-28T11:42:15+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49530",
+      "pid": 1347,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Passend zum Abschied fasst Bahr in einem Brief an Redlich am 8. April 1922 noch seine Gefühle Salzburg gegenüber zusammen:<blockquote>Die Salzburger Zeit war wunderschön, dennoch wird mir der Abschied leicht: ich hoffte, Salzburg würde mir sterben zusehen, aber daß ich zusehen soll, wie Salzburg stirbt, darauf war ich nicht gefaßt. Und von meinem Salzburg ist wirklich nichts übrig: es ist dran, ein noch wüsteres Graz zu werden. Die Kreuzung Großdeutschsozialistischschieberisch ist zu arg.</blockquote>",
+      "format": "full_html",
+      "processed": "Passend zum Abschied fasst Bahr in einem Brief an Redlich am 8. April 1922 noch seine Gefühle Salzburg gegenüber zusammen:<blockquote>Die Salzburger Zeit war wunderschön, dennoch wird mir der Abschied leicht: ich hoffte, Salzburg würde mir sterben zusehen, aber daß ich zusehen soll, wie Salzburg stirbt, darauf war ich nicht gefaßt. Und von meinem Salzburg ist wirklich nichts übrig: es ist dran, ein noch wüsteres Graz zu werden. Die Kreuzung Großdeutschsozialistischschieberisch ist zu arg.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1922-04-08",
+      "end_value": "1922-04-08"
+    },
+    "field_sources": [
+      "Bahr/Redlich, 473."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/26a3846c-2a50-417c-85b0-0e0017c06b2c/node_type?resourceVersion=id%3A3363"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/26a3846c-2a50-417c-85b0-0e0017c06b2c/relationships/node_type?resourceVersion=id%3A3363"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/26a3846c-2a50-417c-85b0-0e0017c06b2c/revision_uid?resourceVersion=id%3A3363"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/26a3846c-2a50-417c-85b0-0e0017c06b2c/relationships/revision_uid?resourceVersion=id%3A3363"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/26a3846c-2a50-417c-85b0-0e0017c06b2c/uid?resourceVersion=id%3A3363"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/26a3846c-2a50-417c-85b0-0e0017c06b2c/relationships/uid?resourceVersion=id%3A3363"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/26a3846c-2a50-417c-85b0-0e0017c06b2c/field_event_type?resourceVersion=id%3A3363"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/26a3846c-2a50-417c-85b0-0e0017c06b2c/relationships/field_event_type?resourceVersion=id%3A3363"
+        }
+      }
+    }
+  }
+}

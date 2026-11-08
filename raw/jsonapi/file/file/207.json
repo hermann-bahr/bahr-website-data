@@ -1,0 +1,36 @@
+{
+  "type": "file--file",
+  "id": "d2c737e0-03bf-4e2a-b3fe-6c7e64a89319",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/file/file/d2c737e0-03bf-4e2a-b3fe-6c7e64a89319"
+    }
+  },
+  "attributes": {
+    "drupal_internal__fid": 207,
+    "langcode": "de",
+    "filename": "1919_harta.jpg",
+    "uri": {
+      "value": "public://bahr_bilder/1919_harta.jpg",
+      "url": "/sites/default/files/bahr_bilder/1919_harta.jpg"
+    },
+    "filemime": "image/jpeg",
+    "filesize": 110201,
+    "status": true,
+    "created": "2020-02-18T15:00:35+00:00",
+    "changed": "2020-02-18T15:11:43+00:00"
+  },
+  "relationships": {
+    "uid": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/file/file/d2c737e0-03bf-4e2a-b3fe-6c7e64a89319/uid"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/file/file/d2c737e0-03bf-4e2a-b3fe-6c7e64a89319/relationships/uid"
+        }
+      }
+    }
+  }
+}

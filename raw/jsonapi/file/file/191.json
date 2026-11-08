@@ -1,0 +1,36 @@
+{
+  "type": "file--file",
+  "id": "44f7e5e3-4694-41fc-8d54-ac8d08d7686a",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/file/file/44f7e5e3-4694-41fc-8d54-ac8d08d7686a"
+    }
+  },
+  "attributes": {
+    "drupal_internal__fid": 191,
+    "langcode": "de",
+    "filename": "1933_siebzig.jpg",
+    "uri": {
+      "value": "public://bahr_bilder/1933_siebzig.jpg",
+      "url": "/sites/default/files/bahr_bilder/1933_siebzig.jpg"
+    },
+    "filemime": "image/jpeg",
+    "filesize": 79834,
+    "status": true,
+    "created": "2020-02-18T15:00:35+00:00",
+    "changed": "2020-02-18T15:11:43+00:00"
+  },
+  "relationships": {
+    "uid": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/file/file/44f7e5e3-4694-41fc-8d54-ac8d08d7686a/uid"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/file/file/44f7e5e3-4694-41fc-8d54-ac8d08d7686a/relationships/uid"
+        }
+      }
+    }
+  }
+}

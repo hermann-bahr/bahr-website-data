@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "c6200408-1729-49c0-885f-15fa87cc4eb5",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/c6200408-1729-49c0-885f-15fa87cc4eb5?resourceVersion=id%3A3168"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/c6200408-1729-49c0-885f-15fa87cc4eb5?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44254,
+    "drupal_internal__vid": 3168,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Wien",
+    "created": "2011-10-04T07:52:09+00:00",
+    "changed": "2011-10-28T12:17:22+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44254",
+      "pid": 1147,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Vom 26. November 1923 weg ist Bahr für drei Tage in Wien. Wie aus einer Tagebuchnotiz Redlichs hervorgeht, hofft er eine Anstellung seiner Frau zu erreichen.<blockquote>29./30. September. Hermann Bahr hier – jämmerliche Enthüllung der von Frau B[erta] Z[uckerkandl] arrangierten Berufung Anna Bahrs an die \"Hochschule für Musik\" – als echt wienerische Schwindelei. Die \"Hochschule\" existiert noch gar nicht! Seipel erscheint Bahr, mit dem er hauptsächlich große Burgtheaterpläne bespricht, als \"von seinen Beamten belogen und betrogen\"! […] Seipel hat Bahr im Übrigen gesagt, er glaube an einen Wahlsieg der Sozialdemokraten! Das wird nett werden am 21. Oktober.</blockquote> \r\n\r\nBahrs Terminplan ist eng, seinen Anwalt Harpner kann er nicht besuchen. Wohnhaft ist er bei Berta Zuckerkandl, Oppolzergasse 6.",
+      "format": "full_html",
+      "processed": "Vom 26. November 1923 weg ist Bahr für drei Tage in Wien. Wie aus einer Tagebuchnotiz Redlichs hervorgeht, hofft er eine Anstellung seiner Frau zu erreichen.<blockquote>29./30. September. Hermann Bahr hier – jämmerliche Enthüllung der von Frau B[erta] Z[uckerkandl] arrangierten Berufung Anna Bahrs an die \"Hochschule für Musik\" – als echt wienerische Schwindelei. Die \"Hochschule\" existiert noch gar nicht! Seipel erscheint Bahr, mit dem er hauptsächlich große Burgtheaterpläne bespricht, als \"von seinen Beamten belogen und betrogen\"! […] Seipel hat Bahr im Übrigen gesagt, er glaube an einen Wahlsieg der Sozialdemokraten! Das wird nett werden am 21. Oktober.</blockquote> \n\nBahrs Terminplan ist eng, seinen Anwalt Harpner kann er nicht besuchen. Wohnhaft ist er bei Berta Zuckerkandl, Oppolzergasse 6.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1923-09-26",
+      "end_value": "1923-09-29"
+    },
+    "field_sources": [
+      "Fritz Fellner und Doris A. Corradini (Hgg.): Schicksalsjahre Österreichs. Die Erinnerungen und Tagebücher Josef Redlichs 1869–1936. Wien: Böhlau 2011, II, 622 und 624.",
+      "Brief Harpners an Bahr, 15.10.1923, Nachlass Bahr, A18412 BaM",
+      "Bahr/Redlich, 496."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c6200408-1729-49c0-885f-15fa87cc4eb5/node_type?resourceVersion=id%3A3168"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c6200408-1729-49c0-885f-15fa87cc4eb5/relationships/node_type?resourceVersion=id%3A3168"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c6200408-1729-49c0-885f-15fa87cc4eb5/revision_uid?resourceVersion=id%3A3168"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c6200408-1729-49c0-885f-15fa87cc4eb5/relationships/revision_uid?resourceVersion=id%3A3168"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c6200408-1729-49c0-885f-15fa87cc4eb5/uid?resourceVersion=id%3A3168"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c6200408-1729-49c0-885f-15fa87cc4eb5/relationships/uid?resourceVersion=id%3A3168"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c6200408-1729-49c0-885f-15fa87cc4eb5/field_event_type?resourceVersion=id%3A3168"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c6200408-1729-49c0-885f-15fa87cc4eb5/relationships/field_event_type?resourceVersion=id%3A3168"
+        }
+      }
+    }
+  }
+}

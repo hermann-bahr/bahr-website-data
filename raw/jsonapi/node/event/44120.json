@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "e0621bcf-283d-48a4-80f9-10cf3d849a60",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/e0621bcf-283d-48a4-80f9-10cf3d849a60?resourceVersion=id%3A3036"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/e0621bcf-283d-48a4-80f9-10cf3d849a60?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44120,
+    "drupal_internal__vid": 3036,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Lido",
+    "created": "2011-09-14T10:47:12+00:00",
+    "changed": "2011-10-11T09:25:43+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44120",
+      "pid": 1015,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 22. August 1913 ist er am Lido, wo er drei Wochen verbringen will.",
+      "format": "full_html",
+      "processed": "Am 22. August 1913 ist er am Lido, wo er drei Wochen verbringen will.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1913-08-22",
+      "end_value": "1913-09-12"
+    },
+    "field_sources": [
+      "Tagebücher (Csàky), IV, 360.",
+      "Bahr/Redlich, 86-88."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e0621bcf-283d-48a4-80f9-10cf3d849a60/node_type?resourceVersion=id%3A3036"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e0621bcf-283d-48a4-80f9-10cf3d849a60/relationships/node_type?resourceVersion=id%3A3036"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e0621bcf-283d-48a4-80f9-10cf3d849a60/revision_uid?resourceVersion=id%3A3036"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e0621bcf-283d-48a4-80f9-10cf3d849a60/relationships/revision_uid?resourceVersion=id%3A3036"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e0621bcf-283d-48a4-80f9-10cf3d849a60/uid?resourceVersion=id%3A3036"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e0621bcf-283d-48a4-80f9-10cf3d849a60/relationships/uid?resourceVersion=id%3A3036"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e0621bcf-283d-48a4-80f9-10cf3d849a60/field_event_type?resourceVersion=id%3A3036"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e0621bcf-283d-48a4-80f9-10cf3d849a60/relationships/field_event_type?resourceVersion=id%3A3036"
+        }
+      }
+    }
+  }
+}

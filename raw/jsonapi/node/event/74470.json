@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "7efba931-9738-4d64-9bf3-27746ef38738",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/7efba931-9738-4d64-9bf3-27746ef38738?resourceVersion=id%3A3781"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/7efba931-9738-4d64-9bf3-27746ef38738?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74470,
+    "drupal_internal__vid": 3781,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Duell",
+    "created": "2013-03-12T10:24:54+00:00",
+    "changed": "2013-04-05T12:49:30+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/74470",
+      "pid": 1844,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "21. April 1883 schreibt Bahr seinem Vater:<blockquote>Ich wurde nach dem Wagner-Commers von einem renommierten Schläger contrahiert u. bin mit diesem am 7. April gestiegen und durch einen Blutigen auf die Stirn u. Wange abgeführt worden. Da ich in kürzester Zeit von Wien fort wollte, war vorsichtigste Pflege dringend geboten und diese erhielt ich in der Wohnung eines Couleurbruders (er heißt Lang, wohnt Graben Trattnerhof)</blockquote>Es ist dies die Wohnung, wo mit Bahr zeitweise auch Hugo Wolf unterkommt.",
+      "format": "full_html",
+      "processed": "21. April 1883 schreibt Bahr seinem Vater:<blockquote>Ich wurde nach dem Wagner-Commers von einem renommierten Schläger contrahiert u. bin mit diesem am 7. April gestiegen und durch einen Blutigen auf die Stirn u. Wange abgeführt worden. Da ich in kürzester Zeit von Wien fort wollte, war vorsichtigste Pflege dringend geboten und diese erhielt ich in der Wohnung eines Couleurbruders (er heißt Lang, wohnt Graben Trattnerhof)</blockquote>Es ist dies die Wohnung, wo mit Bahr zeitweise auch Hugo Wolf unterkommt.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1883-04-07",
+      "end_value": "1883-04-07"
+    },
+    "field_sources": [
+      "Brief an den Vater, 21. April 1883"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7efba931-9738-4d64-9bf3-27746ef38738/node_type?resourceVersion=id%3A3781"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7efba931-9738-4d64-9bf3-27746ef38738/relationships/node_type?resourceVersion=id%3A3781"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7efba931-9738-4d64-9bf3-27746ef38738/revision_uid?resourceVersion=id%3A3781"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7efba931-9738-4d64-9bf3-27746ef38738/relationships/revision_uid?resourceVersion=id%3A3781"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7efba931-9738-4d64-9bf3-27746ef38738/uid?resourceVersion=id%3A3781"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7efba931-9738-4d64-9bf3-27746ef38738/relationships/uid?resourceVersion=id%3A3781"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7efba931-9738-4d64-9bf3-27746ef38738/field_event_type?resourceVersion=id%3A3781"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7efba931-9738-4d64-9bf3-27746ef38738/relationships/field_event_type?resourceVersion=id%3A3781"
+        }
+      }
+    }
+  }
+}

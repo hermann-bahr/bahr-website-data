@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "91b9c266-657f-48ce-b9fd-232c54984107",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/91b9c266-657f-48ce-b9fd-232c54984107?resourceVersion=id%3A3307"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/91b9c266-657f-48ce-b9fd-232c54984107?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49469,
+    "drupal_internal__vid": 3307,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "JR, Burckhard",
+    "created": "2011-10-24T10:31:44+00:00",
+    "changed": "2011-10-24T14:14:43+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49469",
+      "pid": 1291,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 1. November 1903 spricht Bahr bei Redlich vor, um für die Reigen-Vorlesung einen Termin bei Koerber zu erwirken. Redlich findet Bahrs Kampf aussichtslos und wenig zielführend, da zu Nahe an Pornografie. Der anwesende Burckhard scheint für Redlich seine Ansicht geteilt zu haben. Trotzdem spricht Redlich für Bahr am nächsten Tag bei Hofrat Sieghart vor.",
+      "format": "full_html",
+      "processed": "Am 1. November 1903 spricht Bahr bei Redlich vor, um für die Reigen-Vorlesung einen Termin bei Koerber zu erwirken. Redlich findet Bahrs Kampf aussichtslos und wenig zielführend, da zu Nahe an Pornografie. Der anwesende Burckhard scheint für Redlich seine Ansicht geteilt zu haben. Trotzdem spricht Redlich für Bahr am nächsten Tag bei Hofrat Sieghart vor.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1903-11-01",
+      "end_value": "1903-11-01"
+    },
+    "field_sources": [
+      "Fritz Fellner und Doris A. Corradini (Hgg.): Schicksalsjahre Österreichs. Die Erinnerungen und Tagebücher Josef Redlichs 1869–1936. Wien: Böhlau 2011, I, 143."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/91b9c266-657f-48ce-b9fd-232c54984107/node_type?resourceVersion=id%3A3307"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/91b9c266-657f-48ce-b9fd-232c54984107/relationships/node_type?resourceVersion=id%3A3307"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/91b9c266-657f-48ce-b9fd-232c54984107/revision_uid?resourceVersion=id%3A3307"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/91b9c266-657f-48ce-b9fd-232c54984107/relationships/revision_uid?resourceVersion=id%3A3307"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/91b9c266-657f-48ce-b9fd-232c54984107/uid?resourceVersion=id%3A3307"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/91b9c266-657f-48ce-b9fd-232c54984107/relationships/uid?resourceVersion=id%3A3307"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/91b9c266-657f-48ce-b9fd-232c54984107/field_event_type?resourceVersion=id%3A3307"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/91b9c266-657f-48ce-b9fd-232c54984107/relationships/field_event_type?resourceVersion=id%3A3307"
+        }
+      }
+    }
+  }
+}

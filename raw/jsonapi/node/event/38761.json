@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "1424225b-c669-464f-a60d-dba6286407d7",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/1424225b-c669-464f-a60d-dba6286407d7?resourceVersion=id%3A2582"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/1424225b-c669-464f-a60d-dba6286407d7?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38761,
+    "drupal_internal__vid": 2582,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Catulle Mendès",
+    "created": "2011-01-25T21:05:48+00:00",
+    "changed": "2011-11-03T11:40:19+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38761",
+      "pid": 509,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Ende Februar/Anfang März 1889 besucht Bahr Catulle Mendès, wovon er in seinem Feuilleton \"Les Parnassiens\" berichtet.",
+      "format": "full_html",
+      "processed": "Ende Februar/Anfang März 1889 besucht Bahr Catulle Mendès, wovon er in seinem Feuilleton \"Les Parnassiens\" berichtet.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1889-03-01",
+      "end_value": "1889-03-01"
+    },
+    "field_sources": [
+      "Brief an den Vater, 3.3.1889"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1424225b-c669-464f-a60d-dba6286407d7/node_type?resourceVersion=id%3A2582"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1424225b-c669-464f-a60d-dba6286407d7/relationships/node_type?resourceVersion=id%3A2582"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1424225b-c669-464f-a60d-dba6286407d7/revision_uid?resourceVersion=id%3A2582"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1424225b-c669-464f-a60d-dba6286407d7/relationships/revision_uid?resourceVersion=id%3A2582"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1424225b-c669-464f-a60d-dba6286407d7/uid?resourceVersion=id%3A2582"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1424225b-c669-464f-a60d-dba6286407d7/relationships/uid?resourceVersion=id%3A2582"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1424225b-c669-464f-a60d-dba6286407d7/field_event_type?resourceVersion=id%3A2582"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1424225b-c669-464f-a60d-dba6286407d7/relationships/field_event_type?resourceVersion=id%3A2582"
+        }
+      }
+    }
+  }
+}

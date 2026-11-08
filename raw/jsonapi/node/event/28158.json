@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "2fdcf37b-c8ad-48ee-88df-b94de4abfda1",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/2fdcf37b-c8ad-48ee-88df-b94de4abfda1?resourceVersion=id%3A2470"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/2fdcf37b-c8ad-48ee-88df-b94de4abfda1?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28158,
+    "drupal_internal__vid": 2470,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Thomas Mann, Siegfried Trebitsch",
+    "created": "2010-08-30T11:47:04+00:00",
+    "changed": "2011-12-30T13:15:59+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28158",
+      "pid": 306,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahr besucht am 9. März 1920 zusammen mit Thomas Mann und Siegfried Trebitsch in München eine Aufführung von Gogols \"Die Heirat\".[1] In seinem \"Tagebuch\" berichtet Bahr, wie sie davor über die \"Betrachtungen eines Unpolitischen\" sprachen.",
+      "format": "full_html",
+      "processed": "Bahr besucht am 9. März 1920 zusammen mit Thomas Mann und Siegfried Trebitsch in München eine Aufführung von Gogols \"Die Heirat\".[1] In seinem \"Tagebuch\" berichtet Bahr, wie sie davor über die \"Betrachtungen eines Unpolitischen\" sprachen.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1920-03-09",
+      "end_value": "1920-03-09"
+    },
+    "field_sources": [
+      "[1] Tagebuch Thomas Mann, I, 394.",
+      "[2] Tagebuch. 9. März. In: Kritik der Gegenwart, 80-85"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2fdcf37b-c8ad-48ee-88df-b94de4abfda1/node_type?resourceVersion=id%3A2470"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2fdcf37b-c8ad-48ee-88df-b94de4abfda1/relationships/node_type?resourceVersion=id%3A2470"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2fdcf37b-c8ad-48ee-88df-b94de4abfda1/revision_uid?resourceVersion=id%3A2470"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2fdcf37b-c8ad-48ee-88df-b94de4abfda1/relationships/revision_uid?resourceVersion=id%3A2470"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2fdcf37b-c8ad-48ee-88df-b94de4abfda1/uid?resourceVersion=id%3A2470"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2fdcf37b-c8ad-48ee-88df-b94de4abfda1/relationships/uid?resourceVersion=id%3A2470"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2fdcf37b-c8ad-48ee-88df-b94de4abfda1/field_event_type?resourceVersion=id%3A2470"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2fdcf37b-c8ad-48ee-88df-b94de4abfda1/relationships/field_event_type?resourceVersion=id%3A2470"
+        }
+      }
+    }
+  }
+}

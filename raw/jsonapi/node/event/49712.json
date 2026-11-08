@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "85da5fac-a4cc-4c2f-93a0-9097dd394116",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/85da5fac-a4cc-4c2f-93a0-9097dd394116?resourceVersion=id%3A3487"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/85da5fac-a4cc-4c2f-93a0-9097dd394116?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49712,
+    "drupal_internal__vid": 3487,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Ans Berliner Theater",
+    "created": "2011-12-14T10:16:08+00:00",
+    "changed": "2011-12-14T10:16:08+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49712",
+      "pid": 1526,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 17. März 1906 meldet das Berliner Tageblatt, Bahr würde, nach der Lösung seiner Beziehung mit München, nun eine ähnliche Stelle in Berlin antreten. Wenige Tage später unterschreibt Bahr bei Max Reinhardt.",
+      "format": "full_html",
+      "processed": "Am 17. März 1906 meldet das Berliner Tageblatt, Bahr würde, nach der Lösung seiner Beziehung mit München, nun eine ähnliche Stelle in Berlin antreten. Wenige Tage später unterschreibt Bahr bei Max Reinhardt.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1906-03-17",
+      "end_value": "1906-03-17"
+    },
+    "field_sources": [
+      "Berliner Tageblatt, 35 (1906) #614, 2. (17.3.1906)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/85da5fac-a4cc-4c2f-93a0-9097dd394116/node_type?resourceVersion=id%3A3487"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/85da5fac-a4cc-4c2f-93a0-9097dd394116/relationships/node_type?resourceVersion=id%3A3487"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/85da5fac-a4cc-4c2f-93a0-9097dd394116/revision_uid?resourceVersion=id%3A3487"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/85da5fac-a4cc-4c2f-93a0-9097dd394116/relationships/revision_uid?resourceVersion=id%3A3487"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/85da5fac-a4cc-4c2f-93a0-9097dd394116/uid?resourceVersion=id%3A3487"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/85da5fac-a4cc-4c2f-93a0-9097dd394116/relationships/uid?resourceVersion=id%3A3487"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/85da5fac-a4cc-4c2f-93a0-9097dd394116/field_event_type?resourceVersion=id%3A3487"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/85da5fac-a4cc-4c2f-93a0-9097dd394116/relationships/field_event_type?resourceVersion=id%3A3487"
+        }
+      }
+    }
+  }
+}

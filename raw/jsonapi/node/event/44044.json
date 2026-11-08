@@ -1,0 +1,119 @@
+{
+  "type": "node--event",
+  "id": "2ac6e8d1-5123-4310-8a5f-43d99cb8ff2c",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/2ac6e8d1-5123-4310-8a5f-43d99cb8ff2c?resourceVersion=id%3A2964"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/2ac6e8d1-5123-4310-8a5f-43d99cb8ff2c?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44044,
+    "drupal_internal__vid": 2964,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Streit Weisse",
+    "created": "2011-08-30T14:05:23+00:00",
+    "changed": "2012-05-23T20:14:39+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44044",
+      "pid": 942,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 3. Oktober 1903 besucht Bahr die Vorführung von Richard Skowronneks \"Der Tugendhof\" im Deutschen Volkstheater. In seiner Rezension schreibt er:<blockquote>Ich habe mich gestern geschämt, daß ich einst im Volkstheater aufgeführt worden bin. Ein so grimmig, abgrundschlechtes und infernalisch langweiliges Stück ist dieser \"Tugendhof\". Mit Leo Leipziger fing es an, nun sind wir heuer hier angekommen, wie weit noch?… Und sonderbar, wie Herr Weisse ist: Vor \"Literatur\" hat er eine Todesangst, weil solche Stücke, wie er es nennt, nicht \"sicher\" sind, sondern auch durchfallen können. Nun fällt ihm aber ein schlechtes Stück um das andere durch, jede Woche, und er schließt daraus nur, daß es offenbar immer noch nicht schlecht genug war. So schätzt er sein Publikum. Es wird ihm schon antworten.</blockquote> Das führt zu einer beleidigten Reaktion von Adolf Weisse, die durch eine kompromisslose Haltung Bahrs in den nächsten Tagen aufrecht bleibt. Nach dem Angebot der Demission an Wilhelm Singer erklärt sich Bahr bereit, eine Rüge Singers zu akzeptieren, die dann W. mitgeteilt wird. Das beendet am 9. die Auseinandersetzung. Am 11. schiebt Bahr noch einen Leserbrief im Neuen Wiener Journal nach, dass er sich nicht mit Weisse auf einen Ausgleich geeinigt habe.",
+      "format": "full_html",
+      "processed": "Am 3. Oktober 1903 besucht Bahr die Vorführung von Richard Skowronneks \"Der Tugendhof\" im Deutschen Volkstheater. In seiner Rezension schreibt er:<blockquote>Ich habe mich gestern geschämt, daß ich einst im Volkstheater aufgeführt worden bin. Ein so grimmig, abgrundschlechtes und infernalisch langweiliges Stück ist dieser \"Tugendhof\". Mit Leo Leipziger fing es an, nun sind wir heuer hier angekommen, wie weit noch?… Und sonderbar, wie Herr Weisse ist: Vor \"Literatur\" hat er eine Todesangst, weil solche Stücke, wie er es nennt, nicht \"sicher\" sind, sondern auch durchfallen können. Nun fällt ihm aber ein schlechtes Stück um das andere durch, jede Woche, und er schließt daraus nur, daß es offenbar immer noch nicht schlecht genug war. So schätzt er sein Publikum. Es wird ihm schon antworten.</blockquote> Das führt zu einer beleidigten Reaktion von Adolf Weisse, die durch eine kompromisslose Haltung Bahrs in den nächsten Tagen aufrecht bleibt. Nach dem Angebot der Demission an Wilhelm Singer erklärt sich Bahr bereit, eine Rüge Singers zu akzeptieren, die dann W. mitgeteilt wird. Das beendet am 9. die Auseinandersetzung. Am 11. schiebt Bahr noch einen Leserbrief im Neuen Wiener Journal nach, dass er sich nicht mit Weisse auf einen Ausgleich geeinigt habe.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1903-10-03",
+      "end_value": "1903-10-11"
+    },
+    "field_sources": [
+      "Tagebücher (Csàky), III, 395-397.",
+      "H. B.: Theater, Kunst und Literatur. Deutsches Volkstheater. Neues Wiener Tagblatt, 37 (1903) #272, 10. (4.10.1903) ",
+      "Neues Wiener Journal, (1903) #3575, 11. (11.10.1903) ",
+      "Kraus Kommentar findet sich in der Fackel, 5 (1903) #144, 26."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2ac6e8d1-5123-4310-8a5f-43d99cb8ff2c/node_type?resourceVersion=id%3A2964"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2ac6e8d1-5123-4310-8a5f-43d99cb8ff2c/relationships/node_type?resourceVersion=id%3A2964"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2ac6e8d1-5123-4310-8a5f-43d99cb8ff2c/revision_uid?resourceVersion=id%3A2964"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2ac6e8d1-5123-4310-8a5f-43d99cb8ff2c/relationships/revision_uid?resourceVersion=id%3A2964"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2ac6e8d1-5123-4310-8a5f-43d99cb8ff2c/uid?resourceVersion=id%3A2964"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2ac6e8d1-5123-4310-8a5f-43d99cb8ff2c/relationships/uid?resourceVersion=id%3A2964"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2ac6e8d1-5123-4310-8a5f-43d99cb8ff2c/field_event_type?resourceVersion=id%3A2964"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2ac6e8d1-5123-4310-8a5f-43d99cb8ff2c/relationships/field_event_type?resourceVersion=id%3A2964"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bibliografie__herausgaben__theater-und-kultur" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Theater und Kultur</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">44021</idno>
+        <idno type="drupal-alias">/bibliografie/44021</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bibliografie/44021">https://bahr.univie.ac.at/bibliografie/44021</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+        <bibl type="beschriebene-ausgabe">
+          <series>
+            <title level="s">Theater und Kultur</title>
+          </series>
+          <series>
+            <title level="s">Hg. unter Mitwirkung von Hermann Bahr und Hugo Hofmannsthal von Richard Smekal (später Max Pirker)</title>
+          </series>
+          <publisher>Wien: Wiener Literarische Anstalt</publisher>
+          <publisher>Zürich, Wien, Leipzig: Amalthea</publisher>
+          <title type="main">Bahr, Hermann: Burgtheater. 1920 Hofmannsthal, Hugo: Ferdinand Raimunds Lebensdokumente. 1920 Pirker, Max: Rund um die Zauberflöte. 1920 Rieger, Erwin: Offenbach und seine Wiener Schule 1920 Rieger, Erwin: Phantasie über Don Juan. 1922 (teilw. Titelauflage Amalthea-Verlag) Wellesz, Egon: Der Beginn des musikalischen Barock und die Anfänge der Oper in Wien. 1922 Trojan, Felix: Das Theater an der Wien. 1923 Kobald, Karl: Wiens theatralische Sendung. 1922 Alker, Ernst: Philipp Hafner. Ein altwiener Komödiendichter. 1923 Ilg, Johannes: Theatergeschichte. 1937 Frey, Dagobert; Kobald, Karl; Herterich, Franz: Das Schönbrunner Schlosstheater. 1924</title>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="1" key="bibliografie">Bibliografie</term>
+          <term n="7" key="herausgaben">Herausgaben</term>
+          <term n="4" key="theater-und-kultur" type="eintrag">Theater und Kultur</term>
+        </keywords>
+        <classCode scheme="drupal-type">bibliographie</classCode>
+        <keywords scheme="bibliografie_type">
+          <term>Herausgaben</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2011-07-21T10:00:49+00:00" type="created">angelegt in Drupal</change>
+      <change when="2012-10-08T13:17:00+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="bib">
+        <head>Bibliografie</head>
+        <table type="bibliografie">
+          <row>
+            <cell>Reihe:</cell>
+            <cell>Theater und Kultur</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>Hg. unter Mitwirkung von Hermann Bahr und Hugo Hofmannsthal von Richard Smekal (später Max Pirker)</cell>
+          </row>
+          <row>
+            <cell>Verlag 1:</cell>
+            <cell>Wien: Wiener Literarische Anstalt</cell>
+          </row>
+          <row>
+            <cell>Verlag 2 (ab 1922):</cell>
+            <cell>Zürich, Wien, Leipzig: Amalthea</cell>
+          </row>
+          <row>
+            <cell>Titel:</cell>
+            <cell>
+              <list rend="numbered">
+                <item>Bahr, Hermann: Burgtheater. 1920</item>
+                <item>Hofmannsthal, Hugo: Ferdinand Raimunds Lebensdokumente. 1920</item>
+                <item>Pirker, Max: Rund um die Zauberflöte. 1920</item>
+                <item>Rieger, Erwin: Offenbach und seine Wiener Schule 1920</item>
+                <item>Rieger, Erwin: Phantasie über Don Juan. 1922 (teilw. Titelauflage Amalthea-Verlag)</item>
+                <item>Wellesz, Egon: Der Beginn des musikalischen Barock und die Anfänge der Oper in Wien. 1922</item>
+                <item>Trojan, Felix: Das Theater an der Wien. 1923</item>
+                <item>Kobald, Karl: Wiens theatralische Sendung. 1922</item>
+                <item>Alker, Ernst: Philipp Hafner. Ein altwiener Komödiendichter. 1923</item>
+                <item>Ilg, Johannes: Theatergeschichte. 1937</item>
+                <item>Frey, Dagobert; Kobald, Karl; Herterich, Franz: Das Schönbrunner Schlosstheater. 1924</item>
+              </list>
+            </cell>
+          </row>
+        </table>
+      </div>
+      <div xml:id="rezens">
+        <head>Rezensionen</head>
+        <p>-</p>
+      </div>
+      <div xml:id="digit">
+        <head>Digitalisate</head>
+        <p>
+          <ref target="bibliografie__schriften-zum-theater__burgtheater-1920.xml">Burgtheater</ref>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

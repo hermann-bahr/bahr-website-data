@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "bddbe1ee-0305-4cd0-b235-32765e54c37b",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/bddbe1ee-0305-4cd0-b235-32765e54c37b?resourceVersion=id%3A3734"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/bddbe1ee-0305-4cd0-b235-32765e54c37b?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74406,
+    "drupal_internal__vid": 3734,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Tini Senders, Affaire",
+    "created": "2012-10-24T09:05:01+00:00",
+    "changed": "2013-09-14T11:54:38+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/74406",
+      "pid": 1780,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Zum 2. August 1904 schreibt sich Bahr über seine Beschäftigung in Salzburg ins Tagebuch:<blockquote>Der Barberinische Faun ist im Lasterdialog zu verwenden: indem hier der von innerer Lust unbegreiflich überwältigte Leib sich gegen sie, die ihm fast unterträglich ist, trotzig zu wehren scheint. – Abends mit der Tini Senders.</blockquote>An Gerty von Hofmannsthal schreibt er:<blockquote>mache mit der Tini Senders, die hier herumstrolcht, Dummheiten, die mir im selben Moment schon ekelhaft sind, und komm mir so verworren und verloren vor.</blockquote>Ob Bahr noch öfter mit der Burgschauspielerin Ernestine Senders intimen Umgang hatte, ist nicht überprüft.\r\n",
+      "format": "full_html",
+      "processed": "Zum 2. August 1904 schreibt sich Bahr über seine Beschäftigung in Salzburg ins Tagebuch:<blockquote>Der Barberinische Faun ist im Lasterdialog zu verwenden: indem hier der von innerer Lust unbegreiflich überwältigte Leib sich gegen sie, die ihm fast unterträglich ist, trotzig zu wehren scheint. – Abends mit der Tini Senders.</blockquote>An Gerty von Hofmannsthal schreibt er:<blockquote>mache mit der Tini Senders, die hier herumstrolcht, Dummheiten, die mir im selben Moment schon ekelhaft sind, und komm mir so verworren und verloren vor.</blockquote>Ob Bahr noch öfter mit der Burgschauspielerin Ernestine Senders intimen Umgang hatte, ist nicht überprüft.\n",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1904-08-02",
+      "end_value": "1904-08-02"
+    },
+    "field_sources": [
+      "An Gerty, 3.8.1904. Briefwechsel Bahr/Hofmannsthal. Hg. Elsbeth Dangel-Pelloquin. Göttingen: Wallstein. (In Vorbereitung)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bddbe1ee-0305-4cd0-b235-32765e54c37b/node_type?resourceVersion=id%3A3734"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bddbe1ee-0305-4cd0-b235-32765e54c37b/relationships/node_type?resourceVersion=id%3A3734"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bddbe1ee-0305-4cd0-b235-32765e54c37b/revision_uid?resourceVersion=id%3A3734"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bddbe1ee-0305-4cd0-b235-32765e54c37b/relationships/revision_uid?resourceVersion=id%3A3734"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bddbe1ee-0305-4cd0-b235-32765e54c37b/uid?resourceVersion=id%3A3734"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bddbe1ee-0305-4cd0-b235-32765e54c37b/relationships/uid?resourceVersion=id%3A3734"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bddbe1ee-0305-4cd0-b235-32765e54c37b/field_event_type?resourceVersion=id%3A3734"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bddbe1ee-0305-4cd0-b235-32765e54c37b/relationships/field_event_type?resourceVersion=id%3A3734"
+        }
+      }
+    }
+  }
+}

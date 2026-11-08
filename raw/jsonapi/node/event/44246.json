@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "fe182677-64ac-4ecf-b94b-a69410e058df",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/fe182677-64ac-4ecf-b94b-a69410e058df?resourceVersion=id%3A3160"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/fe182677-64ac-4ecf-b94b-a69410e058df?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44246,
+    "drupal_internal__vid": 3160,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Ende Tagesjournalismus?",
+    "created": "2011-10-03T13:31:54+00:00",
+    "changed": "2011-10-03T13:35:49+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44246",
+      "pid": 1139,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 23. Jänner 1904 schreibt Bahr an Redlich aus der Kur in Marbach, daß er, wenn er noch etwas schaffen wolle… <blockquote>aus diesem abscheulichen Wiener Café- und Jausenjournalismus</blockquote>herauskommen müsse. Er bittet Redlich, doch bei Moritz Benedikt von der Neuen Freien Presse anzufragen, ob er nicht für vierhundert Kronen im Monat zwei Feuilletons von irgendeinem Ort, wo er sich gerade aufhalte, schreiben könne. Doch wenngleich sein Engagement als Theaterkritiker abnimmt, wirklich beenden kann er es erst im Frühjahr 1906.",
+      "format": "full_html",
+      "processed": "Am 23. Jänner 1904 schreibt Bahr an Redlich aus der Kur in Marbach, daß er, wenn er noch etwas schaffen wolle… <blockquote>aus diesem abscheulichen Wiener Café- und Jausenjournalismus</blockquote>herauskommen müsse. Er bittet Redlich, doch bei Moritz Benedikt von der Neuen Freien Presse anzufragen, ob er nicht für vierhundert Kronen im Monat zwei Feuilletons von irgendeinem Ort, wo er sich gerade aufhalte, schreiben könne. Doch wenngleich sein Engagement als Theaterkritiker abnimmt, wirklich beenden kann er es erst im Frühjahr 1906.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1904-01-23",
+      "end_value": "1904-01-23"
+    },
+    "field_sources": [
+      "Bahr/Redlich, 21."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fe182677-64ac-4ecf-b94b-a69410e058df/node_type?resourceVersion=id%3A3160"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fe182677-64ac-4ecf-b94b-a69410e058df/relationships/node_type?resourceVersion=id%3A3160"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fe182677-64ac-4ecf-b94b-a69410e058df/revision_uid?resourceVersion=id%3A3160"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fe182677-64ac-4ecf-b94b-a69410e058df/relationships/revision_uid?resourceVersion=id%3A3160"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fe182677-64ac-4ecf-b94b-a69410e058df/uid?resourceVersion=id%3A3160"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fe182677-64ac-4ecf-b94b-a69410e058df/relationships/uid?resourceVersion=id%3A3160"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "d579e54c-64dd-4193-a9ef-da87efb3ed16",
+          "meta": {
+            "drupal_internal__target_id": 8
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fe182677-64ac-4ecf-b94b-a69410e058df/field_event_type?resourceVersion=id%3A3160"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fe182677-64ac-4ecf-b94b-a69410e058df/relationships/field_event_type?resourceVersion=id%3A3160"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "ad69d45c-7fb1-4051-843d-66bdbb52aeee",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/ad69d45c-7fb1-4051-843d-66bdbb52aeee?resourceVersion=id%3A3404"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/ad69d45c-7fb1-4051-843d-66bdbb52aeee?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49574,
+    "drupal_internal__vid": 3404,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Lesung",
+    "created": "2011-11-03T15:28:42+00:00",
+    "changed": "2011-11-03T15:28:42+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49574",
+      "pid": 1390,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<blockquote>Aus München, 2. d., wird uns telegraphiert: Die <i>Dramatische Gesellschaft</i> eröffnete ihre diesjährige Saison mit einer Vorlesung von Hermann <i<Bahr</i> im großen Saale des Hotels \"zu den vier Jahreszeiten\". Ein elegantes Publikum, darunter namhafte Literaten wie Halbe, Kayserling u. s. w., hatte sich eingefunden. Bahr las seinen eigen Einakter \"Der Klub der Erlöser\" und Arthur Schnitzlers \"Exzentrik\". Bahrs Werk ist eine feingeschliffene Satire voll eleganter und faszinierender Wendungen mit liebenswürdigen,  behaglichen Bosheiten gegen bekannte Persönlichkeiten. Der Einakter, von Bahr trefflich und wirkungsvoll vorgetragen, brachte ihm lebhaften Beifall. Schnitzlers Humoreske von heiterster Färbung und köstlicher Ironie wurde vielfach belacht.</blockquote>",
+      "format": "full_html",
+      "processed": "<blockquote>Aus München, 2. d., wird uns telegraphiert: Die <i>Dramatische Gesellschaft</i> eröffnete ihre diesjährige Saison mit einer Vorlesung von Hermann <i><bahr></bahr></i> im großen Saale des Hotels \"zu den vier Jahreszeiten\". Ein elegantes Publikum, darunter namhafte Literaten wie Halbe, Kayserling u. s. w., hatte sich eingefunden. Bahr las seinen eigen Einakter \"Der Klub der Erlöser\" und Arthur Schnitzlers \"Exzentrik\". Bahrs Werk ist eine feingeschliffene Satire voll eleganter und faszinierender Wendungen mit liebenswürdigen,  behaglichen Bosheiten gegen bekannte Persönlichkeiten. Der Einakter, von Bahr trefflich und wirkungsvoll vorgetragen, brachte ihm lebhaften Beifall. Schnitzlers Humoreske von heiterster Färbung und köstlicher Ironie wurde vielfach belacht.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1905-11-01",
+      "end_value": "1905-11-01"
+    },
+    "field_sources": [
+      "Neues Wiener Tagblatt, 39 (1905) #304, 11. (3.11.1905)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ad69d45c-7fb1-4051-843d-66bdbb52aeee/node_type?resourceVersion=id%3A3404"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ad69d45c-7fb1-4051-843d-66bdbb52aeee/relationships/node_type?resourceVersion=id%3A3404"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ad69d45c-7fb1-4051-843d-66bdbb52aeee/revision_uid?resourceVersion=id%3A3404"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ad69d45c-7fb1-4051-843d-66bdbb52aeee/relationships/revision_uid?resourceVersion=id%3A3404"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ad69d45c-7fb1-4051-843d-66bdbb52aeee/uid?resourceVersion=id%3A3404"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ad69d45c-7fb1-4051-843d-66bdbb52aeee/relationships/uid?resourceVersion=id%3A3404"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ad69d45c-7fb1-4051-843d-66bdbb52aeee/field_event_type?resourceVersion=id%3A3404"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ad69d45c-7fb1-4051-843d-66bdbb52aeee/relationships/field_event_type?resourceVersion=id%3A3404"
+        }
+      }
+    }
+  }
+}

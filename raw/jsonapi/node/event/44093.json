@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "47562ac6-d553-41d1-9983-26b4ebdd9242",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/47562ac6-d553-41d1-9983-26b4ebdd9242?resourceVersion=id%3A3010"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/47562ac6-d553-41d1-9983-26b4ebdd9242?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44093,
+    "drupal_internal__vid": 3010,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Mildenburg vs. Rosa Bahr",
+    "created": "2011-09-08T11:34:07+00:00",
+    "changed": "2011-10-11T11:48:10+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44093",
+      "pid": 988,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Nach Bahrs Tod streiten sich die Witwe Bahr-Mildenburg und die geschiedene erste Frau Rosa, weil Rosa für ihr von Bahr anerkanntes Kind, Unterhalt verlangt. Der Prozess ist für Anna Bahr sehr nervenaufreibend und endet im April 1937: Sie wird verpflichtet, Rosa 7000 Mark zu bezahlen.",
+      "format": "full_html",
+      "processed": "Nach Bahrs Tod streiten sich die Witwe Bahr-Mildenburg und die geschiedene erste Frau Rosa, weil Rosa für ihr von Bahr anerkanntes Kind, Unterhalt verlangt. Der Prozess ist für Anna Bahr sehr nervenaufreibend und endet im April 1937: Sie wird verpflichtet, Rosa 7000 Mark zu bezahlen.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1937-04-23",
+      "end_value": "1937-04-23"
+    },
+    "field_sources": [
+      "Ein parteiischer Blick gibt: Gabriele Parizek: Anna Bahr-Mildenburg [Dissertation], 114-115 sowie zur Vorgeschichte: 188-192."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/47562ac6-d553-41d1-9983-26b4ebdd9242/node_type?resourceVersion=id%3A3010"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/47562ac6-d553-41d1-9983-26b4ebdd9242/relationships/node_type?resourceVersion=id%3A3010"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/47562ac6-d553-41d1-9983-26b4ebdd9242/revision_uid?resourceVersion=id%3A3010"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/47562ac6-d553-41d1-9983-26b4ebdd9242/relationships/revision_uid?resourceVersion=id%3A3010"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/47562ac6-d553-41d1-9983-26b4ebdd9242/uid?resourceVersion=id%3A3010"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/47562ac6-d553-41d1-9983-26b4ebdd9242/relationships/uid?resourceVersion=id%3A3010"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/47562ac6-d553-41d1-9983-26b4ebdd9242/field_event_type?resourceVersion=id%3A3010"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/47562ac6-d553-41d1-9983-26b4ebdd9242/relationships/field_event_type?resourceVersion=id%3A3010"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "4704015e-6a66-4b3c-9b2c-961f171e60a4",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/4704015e-6a66-4b3c-9b2c-961f171e60a4?resourceVersion=id%3A3082"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/4704015e-6a66-4b3c-9b2c-961f171e60a4?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44166,
+    "drupal_internal__vid": 3082,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Berlin",
+    "created": "2011-09-15T11:50:40+00:00",
+    "changed": "2011-12-15T09:34:41+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44166",
+      "pid": 1061,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 12. und am 13. Dezember 1905 ist Bahr zum zweiten Mal in diesem Monat in Berlin.",
+      "format": "full_html",
+      "processed": "Am 12. und am 13. Dezember 1905 ist Bahr zum zweiten Mal in diesem Monat in Berlin.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1905-12-12",
+      "end_value": "1905-12-13"
+    },
+    "field_sources": [
+      "Tagebücher (Csàky), IV, 437.",
+      "Hermann Bahr in Berlin. National-Zeitung, Berlin, 58 (1905) #680, 2. (13.12.1905)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4704015e-6a66-4b3c-9b2c-961f171e60a4/node_type?resourceVersion=id%3A3082"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4704015e-6a66-4b3c-9b2c-961f171e60a4/relationships/node_type?resourceVersion=id%3A3082"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4704015e-6a66-4b3c-9b2c-961f171e60a4/revision_uid?resourceVersion=id%3A3082"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4704015e-6a66-4b3c-9b2c-961f171e60a4/relationships/revision_uid?resourceVersion=id%3A3082"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4704015e-6a66-4b3c-9b2c-961f171e60a4/uid?resourceVersion=id%3A3082"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4704015e-6a66-4b3c-9b2c-961f171e60a4/relationships/uid?resourceVersion=id%3A3082"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4704015e-6a66-4b3c-9b2c-961f171e60a4/field_event_type?resourceVersion=id%3A3082"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4704015e-6a66-4b3c-9b2c-961f171e60a4/relationships/field_event_type?resourceVersion=id%3A3082"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "type": "file--file",
+  "id": "d1cc1585-6aa6-4a77-83fa-c9a6c1df785e",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/file/file/d1cc1585-6aa6-4a77-83fa-c9a6c1df785e"
+    }
+  },
+  "attributes": {
+    "drupal_internal__fid": 190,
+    "langcode": "de",
+    "filename": "1900_interieur.jpg",
+    "uri": {
+      "value": "public://bahr_bilder/1900_interieur.jpg",
+      "url": "/sites/default/files/bahr_bilder/1900_interieur.jpg"
+    },
+    "filemime": "image/jpeg",
+    "filesize": 928210,
+    "status": true,
+    "created": "2020-02-18T15:00:35+00:00",
+    "changed": "2020-02-18T15:11:43+00:00"
+  },
+  "relationships": {
+    "uid": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/file/file/d1cc1585-6aa6-4a77-83fa-c9a6c1df785e/uid"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/file/file/d1cc1585-6aa6-4a77-83fa-c9a6c1df785e/relationships/uid"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "type": "node--page",
+  "id": "098916a0-f82b-46fe-af40-1c2563cc73f4",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/page/098916a0-f82b-46fe-af40-1c2563cc73f4?resourceVersion=id%3A4053"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/page/098916a0-f82b-46fe-af40-1c2563cc73f4?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27835,
+    "drupal_internal__vid": 4053,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T17:01:03+00:00",
+    "status": true,
+    "title": "Bahr im Feuilleton der \"Frankfurter Zeitung\" 1918-1933",
+    "created": "2010-05-17T15:59:04+00:00",
+    "changed": "2013-08-27T10:43:16+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/bahr-im-feuilleton-der-frankfurter-zeitung-1918-1933",
+      "pid": 40,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<h4><i>Almut Todorow</i></h4>\r\n\r\nFrau Prof. Dr. Todorow von der <a href=\"http://www.uni-konstanz.de/FuF/Philo/LitWiss/Germanistik/sites/personalia/todorow/todorow.htm\">Universität Konstanz</a> hat das FZ-Feuilleton der Weimarer Republik digital erschlossen und uns eine Auswertung zur Verfügung gestellt. Die Texte Bahrs wurden in der Artikeldatenbank übernommen. Der vollständige Auszug zu Bahr umfasst mehr und wird <a href=\"/bahr/sites/all/frankfurterzeitung.pdf\">hier</a> zugänglich gemacht. \r\n\r\nGebrauchsanleitung: Der Auszug steht einerseits in einer lesbaren Satzform, andererseits enthält er zahlreiche Abkürzungen und Codierungen, die die Erhebungsgrammatik abbilden. Überwiegend sind sie selbstevident auflösbar. Eine genauere Bestimmung ist mit Hilfe des Buchs\r\n\r\n<i>Almut Todorow: Das Feuilleton der 'Frankfurter Zeitung' in der Weimarer Republik. Tübingen: Niemeyer Verlag, 1996</i>\r\n\r\nmöglich, wo sich Seite 195ff. bzw. 241f. Legenden zu den Daten finden. \r\n",
+      "format": "full_html",
+      "processed": "<h4><i>Almut Todorow</i></h4>\n\nFrau Prof. Dr. Todorow von der <a href=\"http://www.uni-konstanz.de/FuF/Philo/LitWiss/Germanistik/sites/personalia/todorow/todorow.htm\">Universität Konstanz</a> hat das FZ-Feuilleton der Weimarer Republik digital erschlossen und uns eine Auswertung zur Verfügung gestellt. Die Texte Bahrs wurden in der Artikeldatenbank übernommen. Der vollständige Auszug zu Bahr umfasst mehr und wird <a href=\"/bahr/sites/all/frankfurterzeitung.pdf\">hier</a> zugänglich gemacht. \n\nGebrauchsanleitung: Der Auszug steht einerseits in einer lesbaren Satzform, andererseits enthält er zahlreiche Abkürzungen und Codierungen, die die Erhebungsgrammatik abbilden. Überwiegend sind sie selbstevident auflösbar. Eine genauere Bestimmung ist mit Hilfe des Buchs\n\n<i>Almut Todorow: Das Feuilleton der 'Frankfurter Zeitung' in der Weimarer Republik. Tübingen: Niemeyer Verlag, 1996</i>\n\nmöglich, wo sich Seite 195ff. bzw. 241f. Legenden zu den Daten finden. \n",
+      "summary": null
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "016d417b-5c75-4303-8420-18e221e9e269",
+        "meta": {
+          "drupal_internal__target_id": "page"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/098916a0-f82b-46fe-af40-1c2563cc73f4/node_type?resourceVersion=id%3A4053"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/098916a0-f82b-46fe-af40-1c2563cc73f4/relationships/node_type?resourceVersion=id%3A4053"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/098916a0-f82b-46fe-af40-1c2563cc73f4/revision_uid?resourceVersion=id%3A4053"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/098916a0-f82b-46fe-af40-1c2563cc73f4/relationships/revision_uid?resourceVersion=id%3A4053"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/098916a0-f82b-46fe-af40-1c2563cc73f4/uid?resourceVersion=id%3A4053"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/098916a0-f82b-46fe-af40-1c2563cc73f4/relationships/uid?resourceVersion=id%3A4053"
+        }
+      }
+    }
+  }
+}

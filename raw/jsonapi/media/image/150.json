@@ -1,0 +1,118 @@
+{
+  "type": "media--image",
+  "id": "1c85566b-f520-4e19-bdc2-8320680e7624",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/media/image/1c85566b-f520-4e19-bdc2-8320680e7624?resourceVersion=id%3A150"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/media/image/1c85566b-f520-4e19-bdc2-8320680e7624?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__mid": 150,
+    "drupal_internal__vid": 150,
+    "langcode": "de",
+    "revision_created": "2020-02-18T15:16:19+00:00",
+    "status": true,
+    "name": "1900_keller-1",
+    "created": "2020-02-18T15:16:19+00:00",
+    "changed": "2020-02-18T15:16:19+00:00",
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": null,
+      "pid": null,
+      "langcode": "de"
+    }
+  },
+  "relationships": {
+    "bundle": {
+      "data": {
+        "type": "media_type--media_type",
+        "id": "b82aabb6-e7a1-420d-b98b-5b981c2d920e",
+        "meta": {
+          "drupal_internal__target_id": "image"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/1c85566b-f520-4e19-bdc2-8320680e7624/bundle?resourceVersion=id%3A150"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/1c85566b-f520-4e19-bdc2-8320680e7624/relationships/bundle?resourceVersion=id%3A150"
+        }
+      }
+    },
+    "revision_user": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/1c85566b-f520-4e19-bdc2-8320680e7624/revision_user?resourceVersion=id%3A150"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/1c85566b-f520-4e19-bdc2-8320680e7624/relationships/revision_user?resourceVersion=id%3A150"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/1c85566b-f520-4e19-bdc2-8320680e7624/uid?resourceVersion=id%3A150"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/1c85566b-f520-4e19-bdc2-8320680e7624/relationships/uid?resourceVersion=id%3A150"
+        }
+      }
+    },
+    "thumbnail": {
+      "data": {
+        "type": "file--file",
+        "id": "f4a09fa1-ff0f-4093-b5c4-e5ae83db62f3",
+        "meta": {
+          "alt": "1900 Rosa Bahr von Albert von Keller",
+          "title": null,
+          "width": 1146,
+          "height": 2490,
+          "drupal_internal__target_id": 211
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/1c85566b-f520-4e19-bdc2-8320680e7624/thumbnail?resourceVersion=id%3A150"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/1c85566b-f520-4e19-bdc2-8320680e7624/relationships/thumbnail?resourceVersion=id%3A150"
+        }
+      }
+    },
+    "field_media_image": {
+      "data": {
+        "type": "file--file",
+        "id": "f4a09fa1-ff0f-4093-b5c4-e5ae83db62f3",
+        "meta": {
+          "alt": "1900 Rosa Bahr von Albert von Keller",
+          "title": "1900_keller-1",
+          "width": 1146,
+          "height": 2490,
+          "drupal_internal__target_id": 211
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/1c85566b-f520-4e19-bdc2-8320680e7624/field_media_image?resourceVersion=id%3A150"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/1c85566b-f520-4e19-bdc2-8320680e7624/relationships/field_media_image?resourceVersion=id%3A150"
+        }
+      }
+    }
+  }
+}

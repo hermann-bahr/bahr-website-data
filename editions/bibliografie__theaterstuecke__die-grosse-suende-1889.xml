@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bibliografie__theaterstuecke__die-grosse-suende-1889" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Die große Sünde (1889)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">49647</idno>
+        <idno type="drupal-alias">/bibliografie/49647</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bibliografie/49647">https://bahr.univie.ac.at/bibliografie/49647</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+        <bibl type="beschriebene-ausgabe">
+          <author>Hermann Bahr</author>
+          <title type="main">Die große Sünde</title>
+          <title type="sub">Ein bürgerliches Trauerspiel</title>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>J. Schabelitz</publisher>
+          <date>1889</date>
+          <extent>120</extent>
+          <note>"Dem Grossmeister des modernen Dramas Henrik Ibsen in ehrfürchtiger Liebe. Paris, im Frühling 1889". Bahr erwartet (Brief an seinen Vater, 9.2.1889), dass Schabelitz am 11.2. mit dem Druck beginnen werde. Am 31.3. berichtet er ihm, dass der letzte Bogen fertig wurde, zwei Wochen später verteilt er Exemplare. In den "Deutschen Worten" (9 (1889) #5, 208) ist es im Mai als Neuerscheinung verzeichnet. Die Schweizer Nationalbiografie nimmt das Stück hingegen erst im Juni auf. 1899 behauptet Bahr, dass es weder gedruckt noch aufgeführt wurde. (Hermann Bahr: "Aus der Werkstätte des Dramatikers" in: Neues Wiener Journal, 7 (1899) #1955, 3-5, hier: 3. (2.4.1899)</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="1" key="bibliografie">Bibliografie</term>
+          <term n="2" key="theaterstuecke">Theaterstücke</term>
+          <term n="23" key="die-grosse-suende-1889" type="eintrag">Die große Sünde (1889)</term>
+        </keywords>
+        <classCode scheme="drupal-type">bibliographie</classCode>
+        <keywords scheme="bibliografie_type">
+          <term>Theaterstücke</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2011-11-22T15:31:35+00:00" type="created">angelegt in Drupal</change>
+      <change when="2013-10-09T20:07:35+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="bib">
+        <head>Bibliografie</head>
+        <table type="bibliografie">
+          <row>
+            <cell>Autor:</cell>
+            <cell>Hermann Bahr</cell>
+          </row>
+          <row>
+            <cell>Titel:</cell>
+            <cell>Die große Sünde</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>Ein bürgerliches Trauerspiel</cell>
+          </row>
+          <row>
+            <cell>Ort:</cell>
+            <cell>Zürich</cell>
+          </row>
+          <row>
+            <cell>Verlag:</cell>
+            <cell>J. Schabelitz</cell>
+          </row>
+          <row>
+            <cell>Jahr:</cell>
+            <cell>1889</cell>
+          </row>
+          <row>
+            <cell>Seiten:</cell>
+            <cell>120</cell>
+          </row>
+          <row>
+            <cell>Anm.:</cell>
+            <cell>"Dem Grossmeister des modernen Dramas Henrik Ibsen in ehrfürchtiger Liebe. Paris, im Frühling 1889". Bahr erwartet (Brief an seinen Vater, 9.2.1889), dass Schabelitz am 11.2. mit dem Druck beginnen werde. Am 31.3. berichtet er ihm, dass der letzte Bogen fertig wurde, zwei Wochen später verteilt er Exemplare. In den "Deutschen Worten" (9 (1889) #5, 208) ist es im Mai als Neuerscheinung verzeichnet. Die Schweizer Nationalbiografie nimmt das Stück hingegen erst im Juni auf. 1899 behauptet Bahr, dass es weder gedruckt noch aufgeführt wurde. (Hermann Bahr: "Aus der Werkstätte des Dramatikers" in: Neues Wiener Journal, 7 (1899) #1955, 3-5, hier: 3. (2.4.1899)</cell>
+          </row>
+        </table>
+      </div>
+      <div xml:id="rezens">
+        <head>Rezensionen</head>
+        <p>Bettelheim, Anton: Ein österreichischer Ibsen-Jünger. In: Die Nation, 6 (1889) #46, 689-691. (17.8.1889) M. G. Conrad: Die große Sünde. In: Die Gesellschaft, 5 (1889) #8 (August), 1198. Karl Henckel in: Kritisches Jahrbuch, 1 (1889) #, 101-103. Max Kretzer im Magazin für Litteratur, 58 (1889) #36, 573-574. Franz Jäger in: Deutsche Blätter, Eger, 3 (1889) #5 (Mai), 157-159. Richard Ulbing in: Deutsche Worte, 10 (1890) #3, 113-122. Michel Feith in: Moderne Dichtung, 1 (1890) #1, 58-60. Otto Julius Bierbaum: Die neue Literatur. In: Moderne Dichtung, 1 (1890) #2, 78-86, hier 83.</p>
+      </div>
+      <div xml:id="www">
+        <head>Digitalisate</head>
+        <p>Mit Proxy / Web-Anonymizer über Google Books</p>
+      </div>
+    </body>
+  </text>
+</TEI>

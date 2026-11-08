@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "e1b2597d-244c-481e-9c59-858d2c86f8fa",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/e1b2597d-244c-481e-9c59-858d2c86f8fa?resourceVersion=id%3A3779"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/e1b2597d-244c-481e-9c59-858d2c86f8fa?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74468,
+    "drupal_internal__vid": 3779,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Freie Bühne: Friedensfest",
+    "created": "2013-03-04T12:50:22+00:00",
+    "changed": "2013-03-06T10:13:09+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/74468",
+      "pid": 1842,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 1. Juni 1890 erlebt Gerhart Hauptmanns zweites Drama, \"Das Friedensfest\", seine Uraufführung durch die Freie Bühne Berlin. Bahr ist dabei und feiert kräftig mit.<blockquote>Dann „Das Friedensfest“ – eine tadellose, formal einwandfreie und getreue Schülerarbeit aus dem Holz’schen Seminar, nach allen Recepten des radicalen Naturalismus</blockquote>",
+      "format": "full_html",
+      "processed": "Am 1. Juni 1890 erlebt Gerhart Hauptmanns zweites Drama, \"Das Friedensfest\", seine Uraufführung durch die Freie Bühne Berlin. Bahr ist dabei und feiert kräftig mit.<blockquote>Dann „Das Friedensfest“ – eine tadellose, formal einwandfreie und getreue Schülerarbeit aus dem Holz’schen Seminar, nach allen Recepten des radicalen Naturalismus</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1890-06-01",
+      "end_value": "1890-06-01"
+    },
+    "field_sources": [
+      "Hermann Bahr: Erinnerung an Hartleben. (Geboren 3. Juni 1864, gestorben 11. Februar 1905). Neue Freie Presse, (1924) #21455, Morgenblatt, 1-2. (3.6.1924) Periodika: Berliner Börsen-Courier, 56 (1924) #259, Morgenausgabe, 1. Beilage. (4.6.1924)\r\n",
+      "Studien zur Kritik der Moderne, 66."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e1b2597d-244c-481e-9c59-858d2c86f8fa/node_type?resourceVersion=id%3A3779"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e1b2597d-244c-481e-9c59-858d2c86f8fa/relationships/node_type?resourceVersion=id%3A3779"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e1b2597d-244c-481e-9c59-858d2c86f8fa/revision_uid?resourceVersion=id%3A3779"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e1b2597d-244c-481e-9c59-858d2c86f8fa/relationships/revision_uid?resourceVersion=id%3A3779"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e1b2597d-244c-481e-9c59-858d2c86f8fa/uid?resourceVersion=id%3A3779"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e1b2597d-244c-481e-9c59-858d2c86f8fa/relationships/uid?resourceVersion=id%3A3779"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e1b2597d-244c-481e-9c59-858d2c86f8fa/field_event_type?resourceVersion=id%3A3779"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e1b2597d-244c-481e-9c59-858d2c86f8fa/relationships/field_event_type?resourceVersion=id%3A3779"
+        }
+      }
+    }
+  }
+}

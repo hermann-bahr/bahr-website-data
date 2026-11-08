@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "d52f5be5-99b2-4e84-9d6c-d411269c7bbc",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/d52f5be5-99b2-4e84-9d6c-d411269c7bbc?resourceVersion=id%3A2832"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/d52f5be5-99b2-4e84-9d6c-d411269c7bbc?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39057,
+    "drupal_internal__vid": 2832,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Reinhardt in Prag",
+    "created": "2011-05-03T12:15:58+00:00",
+    "changed": "2011-09-20T10:38:35+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39057",
+      "pid": 789,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Über einige Ecken vermittelt wird folgendes: Ein im \"Tagesbote aus Mähren und Schlesien\" nachgedruckter Leserbrief der \"Münchner Neuesten Nachrichten\" mockiert sich über Bahrs Aussagen zu Prag, die dieser, vermittelt von Hermann Menkes, im Neuen Wiener Journal getätigt habe. Aus dem Leserbrief geht hervor, dass Bahr im Mai 1905 mit Max Reinhardt in Prag zusammentraf, wo dieser mit seiner Truppe ein zweitägiges Gastspiel absolvierte, um über den Intendantenposten in Berlin zu sprechen. Es wäre Bahrs erster Aufenthalt in Prag seit längerem gewesen. Mit den Tagebüchern ist das Jahr zu korrigieren auf 17.-19. Mai 1906. Es kommt in der Zeit auch zum ersten nachweisbaren Treffen Jaroslav Kvapils und Bahrs.",
+      "format": "full_html",
+      "processed": "Über einige Ecken vermittelt wird folgendes: Ein im \"Tagesbote aus Mähren und Schlesien\" nachgedruckter Leserbrief der \"Münchner Neuesten Nachrichten\" mockiert sich über Bahrs Aussagen zu Prag, die dieser, vermittelt von Hermann Menkes, im Neuen Wiener Journal getätigt habe. Aus dem Leserbrief geht hervor, dass Bahr im Mai 1905 mit Max Reinhardt in Prag zusammentraf, wo dieser mit seiner Truppe ein zweitägiges Gastspiel absolvierte, um über den Intendantenposten in Berlin zu sprechen. Es wäre Bahrs erster Aufenthalt in Prag seit längerem gewesen. Mit den Tagebüchern ist das Jahr zu korrigieren auf 17.-19. Mai 1906. Es kommt in der Zeit auch zum ersten nachweisbaren Treffen Jaroslav Kvapils und Bahrs.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1906-05-17",
+      "end_value": "1906-05-19"
+    },
+    "field_sources": [
+      "Tagesbote aus Mähren und Schlesien, 15.4.1908, 3.",
+      "Tagebücher (Csàky), V, 15.",
+      "Bahr/Kvapil, 669."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d52f5be5-99b2-4e84-9d6c-d411269c7bbc/node_type?resourceVersion=id%3A2832"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d52f5be5-99b2-4e84-9d6c-d411269c7bbc/relationships/node_type?resourceVersion=id%3A2832"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d52f5be5-99b2-4e84-9d6c-d411269c7bbc/revision_uid?resourceVersion=id%3A2832"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d52f5be5-99b2-4e84-9d6c-d411269c7bbc/relationships/revision_uid?resourceVersion=id%3A2832"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d52f5be5-99b2-4e84-9d6c-d411269c7bbc/uid?resourceVersion=id%3A2832"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d52f5be5-99b2-4e84-9d6c-d411269c7bbc/relationships/uid?resourceVersion=id%3A2832"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d52f5be5-99b2-4e84-9d6c-d411269c7bbc/field_event_type?resourceVersion=id%3A2832"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d52f5be5-99b2-4e84-9d6c-d411269c7bbc/relationships/field_event_type?resourceVersion=id%3A2832"
+        }
+      }
+    }
+  }
+}

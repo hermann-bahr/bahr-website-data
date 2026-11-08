@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "b57a7551-9470-439f-bfa8-ff068b337c4c",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b57a7551-9470-439f-bfa8-ff068b337c4c?resourceVersion=id%3A2758"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b57a7551-9470-439f-bfa8-ff068b337c4c?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38975,
+    "drupal_internal__vid": 2758,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Jung-Wien, Prag",
+    "created": "2011-03-16T15:38:20+00:00",
+    "changed": "2012-10-22T18:06:35+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38975",
+      "pid": 712,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 20. November 1898 spricht Bahr in der Galerie moderner Poeten in Prag über \"Jung-Wien\".",
+      "format": "full_html",
+      "processed": "Am 20. November 1898 spricht Bahr in der Galerie moderner Poeten in Prag über \"Jung-Wien\".",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1898-11-20",
+      "end_value": "1898-11-20"
+    },
+    "field_sources": [
+      "Bohemia, 22.11.1898.",
+      "Prager Tagblatt, #322, 3. (22.11.1898)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b57a7551-9470-439f-bfa8-ff068b337c4c/node_type?resourceVersion=id%3A2758"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b57a7551-9470-439f-bfa8-ff068b337c4c/relationships/node_type?resourceVersion=id%3A2758"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b57a7551-9470-439f-bfa8-ff068b337c4c/revision_uid?resourceVersion=id%3A2758"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b57a7551-9470-439f-bfa8-ff068b337c4c/relationships/revision_uid?resourceVersion=id%3A2758"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b57a7551-9470-439f-bfa8-ff068b337c4c/uid?resourceVersion=id%3A2758"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b57a7551-9470-439f-bfa8-ff068b337c4c/relationships/uid?resourceVersion=id%3A2758"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b57a7551-9470-439f-bfa8-ff068b337c4c/field_event_type?resourceVersion=id%3A2758"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b57a7551-9470-439f-bfa8-ff068b337c4c/relationships/field_event_type?resourceVersion=id%3A2758"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "type": "node--image",
+  "id": "f4d151a0-81eb-4256-9c8d-da3f58c4beee",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/image/f4d151a0-81eb-4256-9c8d-da3f58c4beee?resourceVersion=id%3A3941"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/image/f4d151a0-81eb-4256-9c8d-da3f58c4beee?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28238,
+    "drupal_internal__vid": 3941,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:44:08+00:00",
+    "status": true,
+    "title": "1907",
+    "created": "2010-11-09T11:56:28+00:00",
+    "changed": "2010-11-09T11:57:11+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/bild/28238",
+      "pid": 372,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<i>Richard Fellner, Hans Homma und Heinrich Kadelburg, Hgg.: Aus dem Reich der Schminke und der Tinte. Aphorismen und Karikaturen. Herausgegen zum Besten der Pensions-Anstalt des Deutschen Volkstheaters und für den Österreichischen Bühnenverein. Wien: Selbstverlag des Deutschen Volkstheaters 1907.</i>",
+      "format": "full_html",
+      "processed": "<i>Richard Fellner, Hans Homma und Heinrich Kadelburg, Hgg.: Aus dem Reich der Schminke und der Tinte. Aphorismen und Karikaturen. Herausgegen zum Besten der Pensions-Anstalt des Deutschen Volkstheaters und für den Österreichischen Bühnenverein. Wien: Selbstverlag des Deutschen Volkstheaters 1907.</i>",
+      "summary": null
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "e2381624-d098-4c5b-bdd7-5dbfd773b84e",
+        "meta": {
+          "drupal_internal__target_id": "image"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/f4d151a0-81eb-4256-9c8d-da3f58c4beee/node_type?resourceVersion=id%3A3941"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/f4d151a0-81eb-4256-9c8d-da3f58c4beee/relationships/node_type?resourceVersion=id%3A3941"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/f4d151a0-81eb-4256-9c8d-da3f58c4beee/revision_uid?resourceVersion=id%3A3941"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/f4d151a0-81eb-4256-9c8d-da3f58c4beee/relationships/revision_uid?resourceVersion=id%3A3941"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/f4d151a0-81eb-4256-9c8d-da3f58c4beee/uid?resourceVersion=id%3A3941"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/f4d151a0-81eb-4256-9c8d-da3f58c4beee/relationships/uid?resourceVersion=id%3A3941"
+        }
+      }
+    },
+    "field_images": {
+      "data": [
+        {
+          "type": "media--image",
+          "id": "9a24e04e-c392-4741-ae8b-d64c8a1f6568",
+          "meta": {
+            "drupal_internal__target_id": 120
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/f4d151a0-81eb-4256-9c8d-da3f58c4beee/field_images?resourceVersion=id%3A3941"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/f4d151a0-81eb-4256-9c8d-da3f58c4beee/relationships/field_images?resourceVersion=id%3A3941"
+        }
+      }
+    }
+  }
+}

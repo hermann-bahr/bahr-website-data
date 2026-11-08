@@ -1,0 +1,90 @@
+{
+  "type": "node--page",
+  "id": "058c47db-18ab-4f0b-bcfe-a80aaca5e6a4",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/page/058c47db-18ab-4f0b-bcfe-a80aaca5e6a4?resourceVersion=id%3A4159"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/page/058c47db-18ab-4f0b-bcfe-a80aaca5e6a4?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 22102,
+    "drupal_internal__vid": 4159,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-27T15:25:23+00:00",
+    "status": true,
+    "title": "Bibliografie der Herausgaben",
+    "created": "2010-04-20T09:34:17+00:00",
+    "changed": "2020-02-27T15:25:23+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/bibliografie-der-herausgaben",
+      "pid": 34,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<p>Bahr wird als Herausgeber einiger Bücher genannt – oder, in einem Fall- stillschweigend und zu Recht angenommen. Bislang nicht untersucht ist, welche Aufgaben er dabei erledigte oder ob die Herausgeberschaft eine nominelle Schirmherrschaft bedeutete. Ebenfalls zu untersuchen wäre, wie sich die Herausgaben in Bahrs publizistische Programm einfügen.</p>\r\n",
+      "format": "full_html",
+      "processed": "<p>Bahr wird als Herausgeber einiger Bücher genannt – oder, in einem Fall- stillschweigend und zu Recht angenommen. Bislang nicht untersucht ist, welche Aufgaben er dabei erledigte oder ob die Herausgeberschaft eine nominelle Schirmherrschaft bedeutete. Ebenfalls zu untersuchen wäre, wie sich die Herausgaben in Bahrs publizistische Programm einfügen.</p>\n",
+      "summary": ""
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "016d417b-5c75-4303-8420-18e221e9e269",
+        "meta": {
+          "drupal_internal__target_id": "page"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/058c47db-18ab-4f0b-bcfe-a80aaca5e6a4/node_type?resourceVersion=id%3A4159"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/058c47db-18ab-4f0b-bcfe-a80aaca5e6a4/relationships/node_type?resourceVersion=id%3A4159"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/058c47db-18ab-4f0b-bcfe-a80aaca5e6a4/revision_uid?resourceVersion=id%3A4159"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/058c47db-18ab-4f0b-bcfe-a80aaca5e6a4/relationships/revision_uid?resourceVersion=id%3A4159"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/058c47db-18ab-4f0b-bcfe-a80aaca5e6a4/uid?resourceVersion=id%3A4159"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/058c47db-18ab-4f0b-bcfe-a80aaca5e6a4/relationships/uid?resourceVersion=id%3A4159"
+        }
+      }
+    }
+  }
+}

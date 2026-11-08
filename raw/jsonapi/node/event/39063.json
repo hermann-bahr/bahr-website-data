@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "d58515a1-aba5-4b08-a9f7-42cd6be22276",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/d58515a1-aba5-4b08-a9f7-42cd6be22276?resourceVersion=id%3A2838"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/d58515a1-aba5-4b08-a9f7-42cd6be22276?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39063,
+    "drupal_internal__vid": 2838,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Fotografieren",
+    "created": "2011-05-05T20:03:57+00:00",
+    "changed": "2011-07-11T15:53:44+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39063",
+      "pid": 795,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Im Sommer 1908 fotografiert Bahr selber. Die Fotoserie vor allem von Architektur und Landschaftsansichten Italiens ist im Nachlass erhalten. Bei der Einreise in Dalmatien wird ihm Februar 1909 wird ihm \"der Kodak\" abgenommen, aber ob er, wie versprochen, nachgeschickt wurde, oder ob Bahr sich je einen neuen Apparat kaufte, ist ungewiss. In den \"Büchern zur Natur\" schreibt er 1909:<blockquote>Der Gedanke Darwins trat ins Gefühl der Menschen erst ein, als sie aus der Stadt traten. Nicht von der Wissenschaft her, sondern durch Erfindungen. Durch das Rad, elektrische Bahnen, das Automobil. Und nun ist es wieder eine Erfindung, die uns noch ganz anders zu den Brüdern und Schwestern bringt: die Momentphotographie.</blockquote>",
+      "format": "full_html",
+      "processed": "Im Sommer 1908 fotografiert Bahr selber. Die Fotoserie vor allem von Architektur und Landschaftsansichten Italiens ist im Nachlass erhalten. Bei der Einreise in Dalmatien wird ihm Februar 1909 wird ihm \"der Kodak\" abgenommen, aber ob er, wie versprochen, nachgeschickt wurde, oder ob Bahr sich je einen neuen Apparat kaufte, ist ungewiss. In den \"Büchern zur Natur\" schreibt er 1909:<blockquote>Der Gedanke Darwins trat ins Gefühl der Menschen erst ein, als sie aus der Stadt traten. Nicht von der Wissenschaft her, sondern durch Erfindungen. Durch das Rad, elektrische Bahnen, das Automobil. Und nun ist es wieder eine Erfindung, die uns noch ganz anders zu den Brüdern und Schwestern bringt: die Momentphotographie.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1908-07-01",
+      "end_value": "1908-07-01"
+    },
+    "field_sources": [
+      "Hermann Bahr: Dalmatinisches Abenteuer. Neue Freie Presse, (1909) #15995, Morgenblatt, 1-2. (2.3.1909)",
+      "Hermann Bahr: Bücher der Natur. Die neue Rundschau, 20 (1909) #2, 276-283. Als \"Natur\" in: Essays, 127-136."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d58515a1-aba5-4b08-a9f7-42cd6be22276/node_type?resourceVersion=id%3A2838"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d58515a1-aba5-4b08-a9f7-42cd6be22276/relationships/node_type?resourceVersion=id%3A2838"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d58515a1-aba5-4b08-a9f7-42cd6be22276/revision_uid?resourceVersion=id%3A2838"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d58515a1-aba5-4b08-a9f7-42cd6be22276/relationships/revision_uid?resourceVersion=id%3A2838"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d58515a1-aba5-4b08-a9f7-42cd6be22276/uid?resourceVersion=id%3A2838"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d58515a1-aba5-4b08-a9f7-42cd6be22276/relationships/uid?resourceVersion=id%3A2838"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d58515a1-aba5-4b08-a9f7-42cd6be22276/field_event_type?resourceVersion=id%3A2838"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d58515a1-aba5-4b08-a9f7-42cd6be22276/relationships/field_event_type?resourceVersion=id%3A2838"
+        }
+      }
+    }
+  }
+}

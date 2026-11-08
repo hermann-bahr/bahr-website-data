@@ -1,0 +1,90 @@
+{
+  "type": "node--page",
+  "id": "4e34c867-b635-4535-b0e8-04b136b1b792",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/page/4e34c867-b635-4535-b0e8-04b136b1b792?resourceVersion=id%3A4075"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/page/4e34c867-b635-4535-b0e8-04b136b1b792?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49397,
+    "drupal_internal__vid": 4075,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T17:01:03+00:00",
+    "status": true,
+    "title": "Zum Personenindex",
+    "created": "2011-10-18T10:32:37+00:00",
+    "changed": "2011-10-18T10:32:37+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/zum-personenindex",
+      "pid": 1221,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Die Aufgabe, einen Personenindex zum Werk Bahrs zu erstellen, geht über das von diesem Projekt leistbare hinaus. Trotzdem werden der Reihe nach Texte für einen solchen erfasst. Das heißt für die Benützer, dass der Index weder alle Texte enthält, noch Textvarianten berücksichtigt. ",
+      "format": "full_html",
+      "processed": "Die Aufgabe, einen Personenindex zum Werk Bahrs zu erstellen, geht über das von diesem Projekt leistbare hinaus. Trotzdem werden der Reihe nach Texte für einen solchen erfasst. Das heißt für die Benützer, dass der Index weder alle Texte enthält, noch Textvarianten berücksichtigt. ",
+      "summary": null
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "016d417b-5c75-4303-8420-18e221e9e269",
+        "meta": {
+          "drupal_internal__target_id": "page"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/4e34c867-b635-4535-b0e8-04b136b1b792/node_type?resourceVersion=id%3A4075"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/4e34c867-b635-4535-b0e8-04b136b1b792/relationships/node_type?resourceVersion=id%3A4075"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/4e34c867-b635-4535-b0e8-04b136b1b792/revision_uid?resourceVersion=id%3A4075"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/4e34c867-b635-4535-b0e8-04b136b1b792/relationships/revision_uid?resourceVersion=id%3A4075"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/4e34c867-b635-4535-b0e8-04b136b1b792/uid?resourceVersion=id%3A4075"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/4e34c867-b635-4535-b0e8-04b136b1b792/relationships/uid?resourceVersion=id%3A4075"
+        }
+      }
+    }
+  }
+}

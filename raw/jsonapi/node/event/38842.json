@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "bf7f9e28-1b16-42e5-8fe4-e42d151a41c1",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/bf7f9e28-1b16-42e5-8fe4-e42d151a41c1?resourceVersion=id%3A2659"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/bf7f9e28-1b16-42e5-8fe4-e42d151a41c1?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38842,
+    "drupal_internal__vid": 2659,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Hitler",
+    "created": "2011-02-10T17:57:18+00:00",
+    "changed": "2011-11-03T09:48:42+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38842",
+      "pid": 587,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Gegen Ende seines Lebens (und nicht mehr im Vollbesitz seiner geistigen Jugend), begann Bahr missverständliche Sätze zu  fabrizieren, wie in \"Katholische Partei\" (erschienen 1929):<blockquote>Ich müsste hier in München, zu wählen gezwungen, nach meinem Gefühl eigentlich für den von Hitler ernannten Bewerber stimmen, weil in Hitlers Reihen doch zur Zeit die beste Kraft reinster Jugend Deutschlands steht.</blockquote> Über die Vermittlung Karl Lahms für die Vossische Zeitung (22.1.) wird daraus im Jüdischen Echo, #5, 1.2.1929: \"Hermann Bahr schwärmt für Hitler.\" Bahrs Zitat geht aber weiter (auch bei Lahm) und klärt, warum er den Ambivalenzen nicht nachfolgen kann – und wird:<blockquote>Gerade sie darf ich als Katholik nicht wählen, weil sie sich doch, vielleicht aus einem Mißverständnis, gegen die katholische Kirche stellen.</blockquote> Das \"Jüdische Echo\" wird zweieinhalb Jahre später positiv auf Bahrs Fürsprache zur \"Jüdischen Lebenskraft\" eingehen.",
+      "format": "full_html",
+      "processed": "Gegen Ende seines Lebens (und nicht mehr im Vollbesitz seiner geistigen Jugend), begann Bahr missverständliche Sätze zu  fabrizieren, wie in \"Katholische Partei\" (erschienen 1929):<blockquote>Ich müsste hier in München, zu wählen gezwungen, nach meinem Gefühl eigentlich für den von Hitler ernannten Bewerber stimmen, weil in Hitlers Reihen doch zur Zeit die beste Kraft reinster Jugend Deutschlands steht.</blockquote> Über die Vermittlung Karl Lahms für die Vossische Zeitung (22.1.) wird daraus im Jüdischen Echo, #5, 1.2.1929: \"Hermann Bahr schwärmt für Hitler.\" Bahrs Zitat geht aber weiter (auch bei Lahm) und klärt, warum er den Ambivalenzen nicht nachfolgen kann – und wird:<blockquote>Gerade sie darf ich als Katholik nicht wählen, weil sie sich doch, vielleicht aus einem Mißverständnis, gegen die katholische Kirche stellen.</blockquote> Das \"Jüdische Echo\" wird zweieinhalb Jahre später positiv auf Bahrs Fürsprache zur \"Jüdischen Lebenskraft\" eingehen.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1929-01-20",
+      "end_value": "1929-01-20"
+    },
+    "field_sources": [
+      "Hermann Bahr: Katholische Partei. Schönere Zukunft, 4 (1929) #16, 327-328. (20.1.1929)",
+      "m. w.: Jüdische Lebenskraft. In: Das jüdische Echo, 18 (1931) #43, 1-2, hier: 1. (23.10.1931)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bf7f9e28-1b16-42e5-8fe4-e42d151a41c1/node_type?resourceVersion=id%3A2659"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bf7f9e28-1b16-42e5-8fe4-e42d151a41c1/relationships/node_type?resourceVersion=id%3A2659"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bf7f9e28-1b16-42e5-8fe4-e42d151a41c1/revision_uid?resourceVersion=id%3A2659"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bf7f9e28-1b16-42e5-8fe4-e42d151a41c1/relationships/revision_uid?resourceVersion=id%3A2659"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bf7f9e28-1b16-42e5-8fe4-e42d151a41c1/uid?resourceVersion=id%3A2659"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bf7f9e28-1b16-42e5-8fe4-e42d151a41c1/relationships/uid?resourceVersion=id%3A2659"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bf7f9e28-1b16-42e5-8fe4-e42d151a41c1/field_event_type?resourceVersion=id%3A2659"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bf7f9e28-1b16-42e5-8fe4-e42d151a41c1/relationships/field_event_type?resourceVersion=id%3A2659"
+        }
+      }
+    }
+  }
+}

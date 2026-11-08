@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "fb5fd149-eab8-421a-b1e6-54275edeb28e",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/fb5fd149-eab8-421a-b1e6-54275edeb28e?resourceVersion=id%3A3310"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/fb5fd149-eab8-421a-b1e6-54275edeb28e?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49472,
+    "drupal_internal__vid": 3310,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "HvH, JR",
+    "created": "2011-10-24T10:42:25+00:00",
+    "changed": "2011-10-24T14:13:58+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49472",
+      "pid": 1294,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 9. Jänner 1903 eilt Redlich zu Hugo von Hofmannsthal nach Rodaun, der ihm einen Brief geschrieben hat, in dem er sich über Bahrs Gesundheitszustand besorgt. Bei seiner Heimkehr kommt kurz darauf Bahr vorbei und bleibt zwei Stunden.",
+      "format": "full_html",
+      "processed": "Am 9. Jänner 1903 eilt Redlich zu Hugo von Hofmannsthal nach Rodaun, der ihm einen Brief geschrieben hat, in dem er sich über Bahrs Gesundheitszustand besorgt. Bei seiner Heimkehr kommt kurz darauf Bahr vorbei und bleibt zwei Stunden.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1904-01-09",
+      "end_value": "1904-01-09"
+    },
+    "field_sources": [
+      "Fritz Fellner und Doris A. Corradini (Hgg.): Schicksalsjahre Österreichs. Die Erinnerungen und Tagebücher Josef Redlichs 1869–1936. Wien: Böhlau 2011, I, 147."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fb5fd149-eab8-421a-b1e6-54275edeb28e/node_type?resourceVersion=id%3A3310"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fb5fd149-eab8-421a-b1e6-54275edeb28e/relationships/node_type?resourceVersion=id%3A3310"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fb5fd149-eab8-421a-b1e6-54275edeb28e/revision_uid?resourceVersion=id%3A3310"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fb5fd149-eab8-421a-b1e6-54275edeb28e/relationships/revision_uid?resourceVersion=id%3A3310"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fb5fd149-eab8-421a-b1e6-54275edeb28e/uid?resourceVersion=id%3A3310"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fb5fd149-eab8-421a-b1e6-54275edeb28e/relationships/uid?resourceVersion=id%3A3310"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fb5fd149-eab8-421a-b1e6-54275edeb28e/field_event_type?resourceVersion=id%3A3310"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fb5fd149-eab8-421a-b1e6-54275edeb28e/relationships/field_event_type?resourceVersion=id%3A3310"
+        }
+      }
+    }
+  }
+}

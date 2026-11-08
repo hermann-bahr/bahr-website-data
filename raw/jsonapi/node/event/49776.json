@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "83974c69-6fc3-412b-b99b-ac40991c3027",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/83974c69-6fc3-412b-b99b-ac40991c3027?resourceVersion=id%3A3547"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/83974c69-6fc3-412b-b99b-ac40991c3027?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49776,
+    "drupal_internal__vid": 3547,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "P. J. Jouve",
+    "created": "2012-01-16T12:19:07+00:00",
+    "changed": "2012-01-16T12:21:06+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49776",
+      "pid": 1588,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 12. September 1922 empfängt Bahr bei sich zu Hause Pierre Jean Jouve, wobei es sich um die erste Begegnung der beiden handelt.",
+      "format": "full_html",
+      "processed": "Am 12. September 1922 empfängt Bahr bei sich zu Hause Pierre Jean Jouve, wobei es sich um die erste Begegnung der beiden handelt.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1922-09-12",
+      "end_value": "1922-09-12"
+    },
+    "field_sources": [
+      "Liebe der Lebenden, II, 221-223."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/83974c69-6fc3-412b-b99b-ac40991c3027/node_type?resourceVersion=id%3A3547"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/83974c69-6fc3-412b-b99b-ac40991c3027/relationships/node_type?resourceVersion=id%3A3547"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/83974c69-6fc3-412b-b99b-ac40991c3027/revision_uid?resourceVersion=id%3A3547"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/83974c69-6fc3-412b-b99b-ac40991c3027/relationships/revision_uid?resourceVersion=id%3A3547"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/83974c69-6fc3-412b-b99b-ac40991c3027/uid?resourceVersion=id%3A3547"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/83974c69-6fc3-412b-b99b-ac40991c3027/relationships/uid?resourceVersion=id%3A3547"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/83974c69-6fc3-412b-b99b-ac40991c3027/field_event_type?resourceVersion=id%3A3547"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/83974c69-6fc3-412b-b99b-ac40991c3027/relationships/field_event_type?resourceVersion=id%3A3547"
+        }
+      }
+    }
+  }
+}

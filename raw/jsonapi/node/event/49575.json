@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "7be68d85-d71d-4c97-b4fe-d8f900c521b8",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/7be68d85-d71d-4c97-b4fe-d8f900c521b8?resourceVersion=id%3A3405"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/7be68d85-d71d-4c97-b4fe-d8f900c521b8?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49575,
+    "drupal_internal__vid": 3405,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Réjane",
+    "created": "2011-11-03T15:59:03+00:00",
+    "changed": "2011-11-03T16:08:08+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49575",
+      "pid": 1391,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Das Gastspiel der Réjane und ihrer Truppe beginnt am Montag, den 13. November 1905 und dauert bis zum 17. Der Spielplan:\r\nMontag: Zaza\r\nDienstag: L'Age d'aimer\r\nDonnerstag: Heureuse\r\nFreitag: La passerelle.\r\nBahr bespricht nur die Aufführungen von Dienstag und Donnerstag.",
+      "format": "full_html",
+      "processed": "Das Gastspiel der Réjane und ihrer Truppe beginnt am Montag, den 13. November 1905 und dauert bis zum 17. Der Spielplan:\nMontag: Zaza\nDienstag: L'Age d'aimer\nDonnerstag: Heureuse\nFreitag: La passerelle.\nBahr bespricht nur die Aufführungen von Dienstag und Donnerstag.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1905-11-13",
+      "end_value": "1905-11-17"
+    },
+    "field_sources": [
+      "Das Programm und die Ankündigung ihrer Ankunft am gleichen Tag: Neues Wiener Tagblatt, 39 (1905) #312, 12. (11.11.1905)",
+      "Hermann Bahr: L'âge d'aimer. Komödie in vier Akten von Pierre Wolff. Zum ersten Mal aufgeführt durch die Truppe der Réjane im Theater an der Wien am 14. November 1905. Neues Wiener Tagblatt, 39 (1905) #316, 10. (15.11.1905) Buchausgabe: Glossen, 373-378",
+      "H. B.: Theater, Kunst und Literatur. Theater an der Wien. Neues Wiener Tagblatt, 39 (1905) #318, 11. (17.11.1905) Buchausgabe: Glossen, 378-380"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7be68d85-d71d-4c97-b4fe-d8f900c521b8/node_type?resourceVersion=id%3A3405"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7be68d85-d71d-4c97-b4fe-d8f900c521b8/relationships/node_type?resourceVersion=id%3A3405"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7be68d85-d71d-4c97-b4fe-d8f900c521b8/revision_uid?resourceVersion=id%3A3405"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7be68d85-d71d-4c97-b4fe-d8f900c521b8/relationships/revision_uid?resourceVersion=id%3A3405"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7be68d85-d71d-4c97-b4fe-d8f900c521b8/uid?resourceVersion=id%3A3405"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7be68d85-d71d-4c97-b4fe-d8f900c521b8/relationships/uid?resourceVersion=id%3A3405"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7be68d85-d71d-4c97-b4fe-d8f900c521b8/field_event_type?resourceVersion=id%3A3405"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7be68d85-d71d-4c97-b4fe-d8f900c521b8/relationships/field_event_type?resourceVersion=id%3A3405"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "b439b496-1291-40e4-af20-b402a8d5a74c",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b439b496-1291-40e4-af20-b402a8d5a74c?resourceVersion=id%3A3530"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b439b496-1291-40e4-af20-b402a8d5a74c?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49759,
+    "drupal_internal__vid": 3530,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "München",
+    "created": "2012-01-05T14:46:27+00:00",
+    "changed": "2012-01-05T14:46:27+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49759",
+      "pid": 1571,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Vom 7. bis 10. März 1921 sind die \"Tagebücher\" mit \"München\" gekennzeichnet, hält sich Bahr also bei seiner Frau auf.",
+      "format": "full_html",
+      "processed": "Vom 7. bis 10. März 1921 sind die \"Tagebücher\" mit \"München\" gekennzeichnet, hält sich Bahr also bei seiner Frau auf.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1921-03-07",
+      "end_value": "1921-03-07"
+    },
+    "field_sources": [
+      "Liebe der Lebenden, I, 90-100."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b439b496-1291-40e4-af20-b402a8d5a74c/node_type?resourceVersion=id%3A3530"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b439b496-1291-40e4-af20-b402a8d5a74c/relationships/node_type?resourceVersion=id%3A3530"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b439b496-1291-40e4-af20-b402a8d5a74c/revision_uid?resourceVersion=id%3A3530"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b439b496-1291-40e4-af20-b402a8d5a74c/relationships/revision_uid?resourceVersion=id%3A3530"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b439b496-1291-40e4-af20-b402a8d5a74c/uid?resourceVersion=id%3A3530"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b439b496-1291-40e4-af20-b402a8d5a74c/relationships/uid?resourceVersion=id%3A3530"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b439b496-1291-40e4-af20-b402a8d5a74c/field_event_type?resourceVersion=id%3A3530"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b439b496-1291-40e4-af20-b402a8d5a74c/relationships/field_event_type?resourceVersion=id%3A3530"
+        }
+      }
+    }
+  }
+}

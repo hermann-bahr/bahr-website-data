@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "eba30b69-f9ac-4d71-8d8d-e5b7fff572dc",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/eba30b69-f9ac-4d71-8d8d-e5b7fff572dc?resourceVersion=id%3A3486"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/eba30b69-f9ac-4d71-8d8d-e5b7fff572dc?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49710,
+    "drupal_internal__vid": 3486,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "E. R. Curtius, J. Müller, A. Bonus",
+    "created": "2011-12-06T16:05:41+00:00",
+    "changed": "2011-12-06T16:05:41+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49710",
+      "pid": 1524,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<blockquote>o der unvergeßlichen Stunden, die wir, Johannes Müller, Artur Bonus und ich, 1912 mit ihm [=Ernst Robert Curtius] in Bayreuth verbrachten, o der durchseelten Wanderung im Sonnenglanz der Jean-Paul-Landschaft zur Eremitage!</blockquote>",
+      "format": "full_html",
+      "processed": "<blockquote>o der unvergeßlichen Stunden, die wir, Johannes Müller, Artur Bonus und ich, 1912 mit ihm [=Ernst Robert Curtius] in Bayreuth verbrachten, o der durchseelten Wanderung im Sonnenglanz der Jean-Paul-Landschaft zur Eremitage!</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1912-07-01",
+      "end_value": "1912-07-01"
+    },
+    "field_sources": [
+      "1919. Tagebuch, 222",
+      "(Hier auf 1. Juli 1912 datiert)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/eba30b69-f9ac-4d71-8d8d-e5b7fff572dc/node_type?resourceVersion=id%3A3486"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/eba30b69-f9ac-4d71-8d8d-e5b7fff572dc/relationships/node_type?resourceVersion=id%3A3486"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/eba30b69-f9ac-4d71-8d8d-e5b7fff572dc/revision_uid?resourceVersion=id%3A3486"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/eba30b69-f9ac-4d71-8d8d-e5b7fff572dc/relationships/revision_uid?resourceVersion=id%3A3486"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/eba30b69-f9ac-4d71-8d8d-e5b7fff572dc/uid?resourceVersion=id%3A3486"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/eba30b69-f9ac-4d71-8d8d-e5b7fff572dc/relationships/uid?resourceVersion=id%3A3486"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/eba30b69-f9ac-4d71-8d8d-e5b7fff572dc/field_event_type?resourceVersion=id%3A3486"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/eba30b69-f9ac-4d71-8d8d-e5b7fff572dc/relationships/field_event_type?resourceVersion=id%3A3486"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "3cd1a708-9f0a-4bcf-9b17-d33e78da2a07",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/3cd1a708-9f0a-4bcf-9b17-d33e78da2a07?resourceVersion=id%3A2331"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/3cd1a708-9f0a-4bcf-9b17-d33e78da2a07?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27998,
+    "drupal_internal__vid": 2331,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Porzellangasse 37",
+    "created": "2010-07-27T14:29:44+00:00",
+    "changed": "2012-10-08T13:20:50+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/27998",
+      "pid": 165,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 4./5. November 1896 übersiedelt Bahr in die Porzellangasse 37 im neunten Wiener Gemeindebezirk. Erst das Adressbuch Lehmann für das Jahr 1899 (gedruckt im August 1898) bringt seine neue Adresse (II, 32):<blockquote>Bahr, Hermann, Schriftsteller, IX/1 Porzellang. 37 (1-2). T</blockquote> Im Vorjahr war nur die Hausnummer ausgewechselt worden. Seinem Vater berichtet er am 10. November von einer Neuerung:<blockquote>Drei Zimmer, den Salon meiner Frau, meinen und das Schlafzimmer habe ich mir zur Probe auch electrisch einrichten lassen. Das ist riesig angenehm. Nun will ich sehen, ob es wirklich nicht theurer ist als das Gas; dann lass' ichs auch in den zwei anderen Zimmern machen.</blockquote>",
+      "format": "full_html",
+      "processed": "Am 4./5. November 1896 übersiedelt Bahr in die Porzellangasse 37 im neunten Wiener Gemeindebezirk. Erst das Adressbuch Lehmann für das Jahr 1899 (gedruckt im August 1898) bringt seine neue Adresse (II, 32):<blockquote>Bahr, Hermann, Schriftsteller, IX/1 Porzellang. 37 (1-2). T</blockquote> Im Vorjahr war nur die Hausnummer ausgewechselt worden. Seinem Vater berichtet er am 10. November von einer Neuerung:<blockquote>Drei Zimmer, den Salon meiner Frau, meinen und das Schlafzimmer habe ich mir zur Probe auch electrisch einrichten lassen. Das ist riesig angenehm. Nun will ich sehen, ob es wirklich nicht theurer ist als das Gas; dann lass' ichs auch in den zwei anderen Zimmern machen.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1896-11-04",
+      "end_value": "1896-11-04"
+    },
+    "field_sources": [
+      "Tagebücher (Csàky), II, 230."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3cd1a708-9f0a-4bcf-9b17-d33e78da2a07/node_type?resourceVersion=id%3A2331"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3cd1a708-9f0a-4bcf-9b17-d33e78da2a07/relationships/node_type?resourceVersion=id%3A2331"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3cd1a708-9f0a-4bcf-9b17-d33e78da2a07/revision_uid?resourceVersion=id%3A2331"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3cd1a708-9f0a-4bcf-9b17-d33e78da2a07/relationships/revision_uid?resourceVersion=id%3A2331"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3cd1a708-9f0a-4bcf-9b17-d33e78da2a07/uid?resourceVersion=id%3A2331"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3cd1a708-9f0a-4bcf-9b17-d33e78da2a07/relationships/uid?resourceVersion=id%3A2331"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3cd1a708-9f0a-4bcf-9b17-d33e78da2a07/field_event_type?resourceVersion=id%3A2331"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3cd1a708-9f0a-4bcf-9b17-d33e78da2a07/relationships/field_event_type?resourceVersion=id%3A2331"
+        }
+      }
+    }
+  }
+}

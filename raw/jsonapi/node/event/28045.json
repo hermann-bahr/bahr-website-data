@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "70ec4396-eee8-465c-9510-507c0a865c20",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/70ec4396-eee8-465c-9510-507c0a865c20?resourceVersion=id%3A2376"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/70ec4396-eee8-465c-9510-507c0a865c20?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28045,
+    "drupal_internal__vid": 2376,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "München",
+    "created": "2010-08-04T12:36:10+00:00",
+    "changed": "2011-09-15T10:13:06+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28045",
+      "pid": 210,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 30. Oktober 1905 vermerkt Bahr in seinem im Weg publizierten \"Tagebuch\": <blockquote>Nach München, zu den Proben der 'Anderen'.</blockquote> Am 4. Première im Münchner Schauspielhaus. Am 5. November Rückreise nach Wien. In den Tagen führt er auch erste Gespräche mit Speidel über eine Tätigkeit als Oberregisseur am Münchner Hoftheater.",
+      "format": "full_html",
+      "processed": "Am 30. Oktober 1905 vermerkt Bahr in seinem im Weg publizierten \"Tagebuch\": <blockquote>Nach München, zu den Proben der 'Anderen'.</blockquote> Am 4. Première im Münchner Schauspielhaus. Am 5. November Rückreise nach Wien. In den Tagen führt er auch erste Gespräche mit Speidel über eine Tätigkeit als Oberregisseur am Münchner Hoftheater.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1905-10-30",
+      "end_value": "1905-11-05"
+    },
+    "field_sources": [
+      "Tagebücher (Csàky), IV, XV und 433-434."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/70ec4396-eee8-465c-9510-507c0a865c20/node_type?resourceVersion=id%3A2376"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/70ec4396-eee8-465c-9510-507c0a865c20/relationships/node_type?resourceVersion=id%3A2376"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/70ec4396-eee8-465c-9510-507c0a865c20/revision_uid?resourceVersion=id%3A2376"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/70ec4396-eee8-465c-9510-507c0a865c20/relationships/revision_uid?resourceVersion=id%3A2376"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/70ec4396-eee8-465c-9510-507c0a865c20/uid?resourceVersion=id%3A2376"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/70ec4396-eee8-465c-9510-507c0a865c20/relationships/uid?resourceVersion=id%3A2376"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/70ec4396-eee8-465c-9510-507c0a865c20/field_event_type?resourceVersion=id%3A2376"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/70ec4396-eee8-465c-9510-507c0a865c20/relationships/field_event_type?resourceVersion=id%3A2376"
+        }
+      }
+    }
+  }
+}

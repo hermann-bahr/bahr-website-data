@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "882c70bf-0da4-4320-b25e-398065690967",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/882c70bf-0da4-4320-b25e-398065690967?resourceVersion=id%3A3792"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/882c70bf-0da4-4320-b25e-398065690967?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74481,
+    "drupal_internal__vid": 3792,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Heinrich Braun",
+    "created": "2013-03-12T13:53:16+00:00",
+    "changed": "2013-03-12T13:53:16+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/74481",
+      "pid": 1855,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Der Schwager Viktor Adlers, Heinrich Braun, sucht Bahr im November 1885 auf und lädt ihn auch zum Essen im Kreis der Familie. Noch kennen sich Bahr und Adler nicht persönlich, aber spätestens seit Juli 1885 wollen sich die beiden kennenlernen.",
+      "format": "full_html",
+      "processed": "Der Schwager Viktor Adlers, Heinrich Braun, sucht Bahr im November 1885 auf und lädt ihn auch zum Essen im Kreis der Familie. Noch kennen sich Bahr und Adler nicht persönlich, aber spätestens seit Juli 1885 wollen sich die beiden kennenlernen.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1885-11-22",
+      "end_value": "1885-11-22"
+    },
+    "field_sources": [
+      "Brief an den Vater, 22.11.1885"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/882c70bf-0da4-4320-b25e-398065690967/node_type?resourceVersion=id%3A3792"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/882c70bf-0da4-4320-b25e-398065690967/relationships/node_type?resourceVersion=id%3A3792"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/882c70bf-0da4-4320-b25e-398065690967/revision_uid?resourceVersion=id%3A3792"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/882c70bf-0da4-4320-b25e-398065690967/relationships/revision_uid?resourceVersion=id%3A3792"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/882c70bf-0da4-4320-b25e-398065690967/uid?resourceVersion=id%3A3792"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/882c70bf-0da4-4320-b25e-398065690967/relationships/uid?resourceVersion=id%3A3792"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/882c70bf-0da4-4320-b25e-398065690967/field_event_type?resourceVersion=id%3A3792"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/882c70bf-0da4-4320-b25e-398065690967/relationships/field_event_type?resourceVersion=id%3A3792"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "da2c9fba-6317-4e72-8d04-47c010af1270",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/da2c9fba-6317-4e72-8d04-47c010af1270?resourceVersion=id%3A2778"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/da2c9fba-6317-4e72-8d04-47c010af1270?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38996,
+    "drupal_internal__vid": 2778,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Maeterlinck",
+    "created": "2011-03-21T22:16:15+00:00",
+    "changed": "2011-11-21T10:16:37+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38996",
+      "pid": 732,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Eine erste Vorstellung von Maeterlincks \"L'intruse\" samt Einleitung (Conférence) Bahrs musste aus formalen Gründen abgesagt werden. Die Presse, 14. April 1892:\r\n<blockquote>Dann wurder der Theatersaal geöffnet und auf der Bühne erschien Herr Hermann Bahr, um Nachstehendes zu verkünden: \"Ich habe Ihnen die für mich als Vortragenden erfreuliche für Wien charakteristische Mittheilung zu machen, daß die heutige Vorstellung polizeilich verboten ist. Die Vorstellung wird im Laufe der nächsten Woche abgehalten werden.</blockquote> Der Ausrichter, der \"Verein für modernes Leben\" dürfte das Stück nicht bei der Zensur eingereicht haben. Die Aufführung fand schließlich Anfang Mai statt.",
+      "format": "full_html",
+      "processed": "Eine erste Vorstellung von Maeterlincks \"L'intruse\" samt Einleitung (Conférence) Bahrs musste aus formalen Gründen abgesagt werden. Die Presse, 14. April 1892:\n<blockquote>Dann wurder der Theatersaal geöffnet und auf der Bühne erschien Herr Hermann Bahr, um Nachstehendes zu verkünden: \"Ich habe Ihnen die für mich als Vortragenden erfreuliche für Wien charakteristische Mittheilung zu machen, daß die heutige Vorstellung polizeilich verboten ist. Die Vorstellung wird im Laufe der nächsten Woche abgehalten werden.</blockquote> Der Ausrichter, der \"Verein für modernes Leben\" dürfte das Stück nicht bei der Zensur eingereicht haben. Die Aufführung fand schließlich Anfang Mai statt.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1892-04-13",
+      "end_value": "1892-04-13"
+    },
+    "field_sources": [
+      "Theater- und Kunstnachrichten. Die Presse, 45 (1892) #105, 11. (14.4.1892)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/da2c9fba-6317-4e72-8d04-47c010af1270/node_type?resourceVersion=id%3A2778"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/da2c9fba-6317-4e72-8d04-47c010af1270/relationships/node_type?resourceVersion=id%3A2778"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/da2c9fba-6317-4e72-8d04-47c010af1270/revision_uid?resourceVersion=id%3A2778"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/da2c9fba-6317-4e72-8d04-47c010af1270/relationships/revision_uid?resourceVersion=id%3A2778"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/da2c9fba-6317-4e72-8d04-47c010af1270/uid?resourceVersion=id%3A2778"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/da2c9fba-6317-4e72-8d04-47c010af1270/relationships/uid?resourceVersion=id%3A2778"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/da2c9fba-6317-4e72-8d04-47c010af1270/field_event_type?resourceVersion=id%3A2778"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/da2c9fba-6317-4e72-8d04-47c010af1270/relationships/field_event_type?resourceVersion=id%3A2778"
+        }
+      }
+    }
+  }
+}

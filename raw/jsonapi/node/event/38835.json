@@ -1,0 +1,121 @@
+{
+  "type": "node--event",
+  "id": "d3543317-d7db-4f16-a697-a84cec871291",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/d3543317-d7db-4f16-a697-a84cec871291?resourceVersion=id%3A2653"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/d3543317-d7db-4f16-a697-a84cec871291?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38835,
+    "drupal_internal__vid": 2653,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Maturareise in die Schweiz",
+    "created": "2011-02-04T14:31:28+00:00",
+    "changed": "2011-11-17T16:31:48+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38835",
+      "pid": 580,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Im \"Selbstbildnis\" beschreibt Bahr, was nach seiner Maturarede passierte:<blockquote>Zunächst aber packte mich damals mein guter Vater ein, es ging in die Schweiz, quer durch, über den Gotthard, bis nach Chamounix.</blockquote>Im Nachlass Bahrs finden sich auch die Tagebücher seines Vaters, darin eines ohne Jahresdatierung, doch durch die Einordnung des Wochentags mit Sicherheit 1881 zuzuordnen. Diesem zufolge geschieht die Abreise am 21. Juli nach München, am 23. landen sie in Zürich und weiter durch die Schweiz, am 13. August verbringen sie zwei Tage in Lindau und Bregenz, dann wieder nach München und am 16. am Abend von dort retour.\r\n\r\nDie Reise führt zu Bahrs erster Publikationsreihe. Er verfasst eine Serie mit \"Reisebriefen\", die als seine erste publizistische Arbeit gelten dürfen. Aus nicht näher zu bestimmenden Gründen sind die \"Briefe\" nach hinten datiert, so dass sie nicht mit dem Zeitraum der eigentlichen Reise zusammenfallen. Anfang November erscheint der letzte Brief, auf Oktober datiert. ",
+      "format": "full_html",
+      "processed": "Im \"Selbstbildnis\" beschreibt Bahr, was nach seiner Maturarede passierte:<blockquote>Zunächst aber packte mich damals mein guter Vater ein, es ging in die Schweiz, quer durch, über den Gotthard, bis nach Chamounix.</blockquote>Im Nachlass Bahrs finden sich auch die Tagebücher seines Vaters, darin eines ohne Jahresdatierung, doch durch die Einordnung des Wochentags mit Sicherheit 1881 zuzuordnen. Diesem zufolge geschieht die Abreise am 21. Juli nach München, am 23. landen sie in Zürich und weiter durch die Schweiz, am 13. August verbringen sie zwei Tage in Lindau und Bregenz, dann wieder nach München und am 16. am Abend von dort retour.\n\nDie Reise führt zu Bahrs erster Publikationsreihe. Er verfasst eine Serie mit \"Reisebriefen\", die als seine erste publizistische Arbeit gelten dürfen. Aus nicht näher zu bestimmenden Gründen sind die \"Briefe\" nach hinten datiert, so dass sie nicht mit dem Zeitraum der eigentlichen Reise zusammenfallen. Anfang November erscheint der letzte Brief, auf Oktober datiert. ",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1881-07-21",
+      "end_value": "1881-08-16"
+    },
+    "field_sources": [
+      "Selbstbildnis, 102-103",
+      "Das Tagebuch des Vaters in: Nachlass, Kiste AM Ba 130",
+      "Hermann von Kürenberg: Reisebriefe eines lachenden Philosophen.",
+      "III. Zürich im September 1881. Salzburger Nachrichten, 1 (1881) #112, 3-4. (18.9.1881)",
+      "IV. Rigi, im September 1881. Salzburger Nachrichten, 1 (1881) #115, 1-3. (24.9.1881)",
+      "V. Interlacken im Oktober 1881. Salzburger Nachrichten, 1 (1881) #133, 3. (6.11.1881) "
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d3543317-d7db-4f16-a697-a84cec871291/node_type?resourceVersion=id%3A2653"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d3543317-d7db-4f16-a697-a84cec871291/relationships/node_type?resourceVersion=id%3A2653"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d3543317-d7db-4f16-a697-a84cec871291/revision_uid?resourceVersion=id%3A2653"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d3543317-d7db-4f16-a697-a84cec871291/relationships/revision_uid?resourceVersion=id%3A2653"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d3543317-d7db-4f16-a697-a84cec871291/uid?resourceVersion=id%3A2653"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d3543317-d7db-4f16-a697-a84cec871291/relationships/uid?resourceVersion=id%3A2653"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d3543317-d7db-4f16-a697-a84cec871291/field_event_type?resourceVersion=id%3A2653"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d3543317-d7db-4f16-a697-a84cec871291/relationships/field_event_type?resourceVersion=id%3A2653"
+        }
+      }
+    }
+  }
+}

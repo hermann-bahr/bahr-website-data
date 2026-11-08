@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "b74f82c7-7045-47ba-8af9-95ef560f83c3",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b74f82c7-7045-47ba-8af9-95ef560f83c3?resourceVersion=id%3A2651"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b74f82c7-7045-47ba-8af9-95ef560f83c3?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38833,
+    "drupal_internal__vid": 2651,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Für Liliencron",
+    "created": "2011-02-03T15:26:40+00:00",
+    "changed": "2011-11-03T11:35:28+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38833",
+      "pid": 578,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 22. März 1898 spricht Bahr im Festsaal des Niederösterreichischen Gewerbevereins \"Für Liliencron\".",
+      "format": "full_html",
+      "processed": "Am 22. März 1898 spricht Bahr im Festsaal des Niederösterreichischen Gewerbevereins \"Für Liliencron\".",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1898-03-22",
+      "end_value": "1898-03-22"
+    },
+    "field_sources": [
+      "Hermann Bahr: Für Liliencron. (Gesprochen im Festsaal des Niederösterreichischen Gewerbevereines am 22. März 1898). Die Zeit, 14 (1898) #182, 200-201."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b74f82c7-7045-47ba-8af9-95ef560f83c3/node_type?resourceVersion=id%3A2651"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b74f82c7-7045-47ba-8af9-95ef560f83c3/relationships/node_type?resourceVersion=id%3A2651"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b74f82c7-7045-47ba-8af9-95ef560f83c3/revision_uid?resourceVersion=id%3A2651"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b74f82c7-7045-47ba-8af9-95ef560f83c3/relationships/revision_uid?resourceVersion=id%3A2651"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b74f82c7-7045-47ba-8af9-95ef560f83c3/uid?resourceVersion=id%3A2651"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b74f82c7-7045-47ba-8af9-95ef560f83c3/relationships/uid?resourceVersion=id%3A2651"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b74f82c7-7045-47ba-8af9-95ef560f83c3/field_event_type?resourceVersion=id%3A2651"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b74f82c7-7045-47ba-8af9-95ef560f83c3/relationships/field_event_type?resourceVersion=id%3A2651"
+        }
+      }
+    }
+  }
+}

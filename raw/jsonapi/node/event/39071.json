@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "6e7c618a-0645-4cf7-b63c-003e34716412",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/6e7c618a-0645-4cf7-b63c-003e34716412?resourceVersion=id%3A2845"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/6e7c618a-0645-4cf7-b63c-003e34716412?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39071,
+    "drupal_internal__vid": 2845,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Semmering",
+    "created": "2011-05-05T20:31:20+00:00",
+    "changed": "2012-10-29T09:55:39+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39071",
+      "pid": 802,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 31. Dezember 1898 geht er für ein Bahr Tage an den Semmering, wo er mit seiner Frau, Burckhard und Karlweis, Schlitten fährt. Am 8. Jänner ist er noch immer dort, am 12. vermutlich schon längst zurück.\r\n",
+      "format": "full_html",
+      "processed": "Am 31. Dezember 1898 geht er für ein Bahr Tage an den Semmering, wo er mit seiner Frau, Burckhard und Karlweis, Schlitten fährt. Am 8. Jänner ist er noch immer dort, am 12. vermutlich schon längst zurück.\n",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1898-12-31",
+      "end_value": "1899-01-08"
+    },
+    "field_sources": [
+      "An Gerty Schlesinger, 28.12.1898 und 8.1.1899. Briefwechsel Bahr/Hofmannsthal. Hg. Elsbeth Dangel-Pelloquin. Göttingen: Wallstein. (In Vorbereitung)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6e7c618a-0645-4cf7-b63c-003e34716412/node_type?resourceVersion=id%3A2845"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6e7c618a-0645-4cf7-b63c-003e34716412/relationships/node_type?resourceVersion=id%3A2845"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6e7c618a-0645-4cf7-b63c-003e34716412/revision_uid?resourceVersion=id%3A2845"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6e7c618a-0645-4cf7-b63c-003e34716412/relationships/revision_uid?resourceVersion=id%3A2845"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6e7c618a-0645-4cf7-b63c-003e34716412/uid?resourceVersion=id%3A2845"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6e7c618a-0645-4cf7-b63c-003e34716412/relationships/uid?resourceVersion=id%3A2845"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6e7c618a-0645-4cf7-b63c-003e34716412/field_event_type?resourceVersion=id%3A2845"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6e7c618a-0645-4cf7-b63c-003e34716412/relationships/field_event_type?resourceVersion=id%3A2845"
+        }
+      }
+    }
+  }
+}

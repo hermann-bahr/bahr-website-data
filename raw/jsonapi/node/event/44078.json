@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "e1361df3-93a8-430e-8bb1-021a2b659662",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/e1361df3-93a8-430e-8bb1-021a2b659662?resourceVersion=id%3A2995"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/e1361df3-93a8-430e-8bb1-021a2b659662?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44078,
+    "drupal_internal__vid": 2995,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Einkommen",
+    "created": "2011-09-05T09:33:36+00:00",
+    "changed": "2011-09-05T09:33:48+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44078",
+      "pid": 973,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahr fasst im Januar 1908 seine Einkommen zusammen:<blockquote>Für Einkommenssteuer das Einkommen als Schriftsteller und Regisseur 16.000 Kr.<br>Dagegen Erwerbsteuer die Bruttoeinnahmen für die Zeit 1/7 06 bis 30/6 07: 2700 Kr. \"aus schriftstellerischer Tätigkeit\".</blockquote> Was als Einkommen als ca. 13.000 Kronen ergibt. 1910 notiert er sich dazu, dass er nunmehr nach Steuer 15.000 Kr. eingenommen habe.",
+      "format": "full_html",
+      "processed": "Bahr fasst im Januar 1908 seine Einkommen zusammen:<blockquote>Für Einkommenssteuer das Einkommen als Schriftsteller und Regisseur 16.000 Kr.<br>Dagegen Erwerbsteuer die Bruttoeinnahmen für die Zeit 1/7 06 bis 30/6 07: 2700 Kr. \"aus schriftstellerischer Tätigkeit\".</blockquote> Was als Einkommen als ca. 13.000 Kronen ergibt. 1910 notiert er sich dazu, dass er nunmehr nach Steuer 15.000 Kr. eingenommen habe.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1908-01-01",
+      "end_value": "1908-01-01"
+    },
+    "field_sources": [
+      "Tagebücher (Csàky), 395-396."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e1361df3-93a8-430e-8bb1-021a2b659662/node_type?resourceVersion=id%3A2995"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e1361df3-93a8-430e-8bb1-021a2b659662/relationships/node_type?resourceVersion=id%3A2995"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e1361df3-93a8-430e-8bb1-021a2b659662/revision_uid?resourceVersion=id%3A2995"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e1361df3-93a8-430e-8bb1-021a2b659662/relationships/revision_uid?resourceVersion=id%3A2995"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e1361df3-93a8-430e-8bb1-021a2b659662/uid?resourceVersion=id%3A2995"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e1361df3-93a8-430e-8bb1-021a2b659662/relationships/uid?resourceVersion=id%3A2995"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e1361df3-93a8-430e-8bb1-021a2b659662/field_event_type?resourceVersion=id%3A2995"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e1361df3-93a8-430e-8bb1-021a2b659662/relationships/field_event_type?resourceVersion=id%3A2995"
+        }
+      }
+    }
+  }
+}

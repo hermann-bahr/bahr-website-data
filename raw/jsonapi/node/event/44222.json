@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "1587cc7f-8132-4196-86e8-85f2e4de9aed",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/1587cc7f-8132-4196-86e8-85f2e4de9aed?resourceVersion=id%3A3136"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/1587cc7f-8132-4196-86e8-85f2e4de9aed?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44222,
+    "drupal_internal__vid": 3136,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Tournee am Rhein",
+    "created": "2011-09-28T08:27:28+00:00",
+    "changed": "2011-12-20T15:44:54+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44222",
+      "pid": 1115,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Von 14. Oktober bis zum 8. November 1916 tourt Bahr wieder durch Deutschland: München, Darmstadt, Karlsruhe, Trier, Koblenz, Frankfurt, Kassel, Münster, München. Über erhaltene Hotelrechnungen gibt es noch weitere Aufenthaltsorte: Saarbrücken, Essen, Beuron, Trier, Duisburg.\r\nAm 18. Oktober besucht er die Uraufführung seines neuen Stücks \"Die Stimme\" in Darmstadt, worin auch seine Frau auftritt. ",
+      "format": "full_html",
+      "processed": "Von 14. Oktober bis zum 8. November 1916 tourt Bahr wieder durch Deutschland: München, Darmstadt, Karlsruhe, Trier, Koblenz, Frankfurt, Kassel, Münster, München. Über erhaltene Hotelrechnungen gibt es noch weitere Aufenthaltsorte: Saarbrücken, Essen, Beuron, Trier, Duisburg.\nAm 18. Oktober besucht er die Uraufführung seines neuen Stücks \"Die Stimme\" in Darmstadt, worin auch seine Frau auftritt. ",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1916-10-14",
+      "end_value": "1916-11-21"
+    },
+    "field_sources": [
+      "Bahr/Kvapil, 410.",
+      "Vgl. Hotelrechnungen im Nachlass, Kiste 80"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1587cc7f-8132-4196-86e8-85f2e4de9aed/node_type?resourceVersion=id%3A3136"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1587cc7f-8132-4196-86e8-85f2e4de9aed/relationships/node_type?resourceVersion=id%3A3136"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1587cc7f-8132-4196-86e8-85f2e4de9aed/revision_uid?resourceVersion=id%3A3136"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1587cc7f-8132-4196-86e8-85f2e4de9aed/relationships/revision_uid?resourceVersion=id%3A3136"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1587cc7f-8132-4196-86e8-85f2e4de9aed/uid?resourceVersion=id%3A3136"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1587cc7f-8132-4196-86e8-85f2e4de9aed/relationships/uid?resourceVersion=id%3A3136"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1587cc7f-8132-4196-86e8-85f2e4de9aed/field_event_type?resourceVersion=id%3A3136"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1587cc7f-8132-4196-86e8-85f2e4de9aed/relationships/field_event_type?resourceVersion=id%3A3136"
+        }
+      }
+    }
+  }
+}

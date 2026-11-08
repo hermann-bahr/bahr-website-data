@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "301ae207-dfef-4c14-9501-085ac92621cb",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/301ae207-dfef-4c14-9501-085ac92621cb?resourceVersion=id%3A3510"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/301ae207-dfef-4c14-9501-085ac92621cb?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49737,
+    "drupal_internal__vid": 3510,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Beuron",
+    "created": "2011-12-20T15:10:30+00:00",
+    "changed": "2011-12-20T15:34:29+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49737",
+      "pid": 1550,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Der Brief, der mit 23. September 1915 an Richard Strauß datiert ist, dürfte eher vom 23. Oktober 1916 stammen. Einerseits passen die angekündigten Aufenthalte nur in Bahrs Tournee 1916, nicht aber in die von 1915, andererseits lässt sich für 21. Oktober 1916 ein Aufenthalt in Beuron nachweisen.",
+      "format": "full_html",
+      "processed": "Der Brief, der mit 23. September 1915 an Richard Strauß datiert ist, dürfte eher vom 23. Oktober 1916 stammen. Einerseits passen die angekündigten Aufenthalte nur in Bahrs Tournee 1916, nicht aber in die von 1915, andererseits lässt sich für 21. Oktober 1916 ein Aufenthalt in Beuron nachweisen.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1916-10-21",
+      "end_value": "1916-10-23"
+    },
+    "field_sources": [
+      "Hermann Bahr: Meister und Meisterbriefe um Hermann Bahr. Aus seinen Entwürfen, Tagebüchern und seinem Briefwechsel. Ausgewählt und eingeleitet von Joseph Gregor. Wien: Hermann Bauer 1947, 90. (Brief an R. Strauß, 23. September 1915 [recte Oktober 1916])",
+      "Bahr/Redlich, 194."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/301ae207-dfef-4c14-9501-085ac92621cb/node_type?resourceVersion=id%3A3510"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/301ae207-dfef-4c14-9501-085ac92621cb/relationships/node_type?resourceVersion=id%3A3510"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/301ae207-dfef-4c14-9501-085ac92621cb/revision_uid?resourceVersion=id%3A3510"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/301ae207-dfef-4c14-9501-085ac92621cb/relationships/revision_uid?resourceVersion=id%3A3510"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/301ae207-dfef-4c14-9501-085ac92621cb/uid?resourceVersion=id%3A3510"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/301ae207-dfef-4c14-9501-085ac92621cb/relationships/uid?resourceVersion=id%3A3510"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/301ae207-dfef-4c14-9501-085ac92621cb/field_event_type?resourceVersion=id%3A3510"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/301ae207-dfef-4c14-9501-085ac92621cb/relationships/field_event_type?resourceVersion=id%3A3510"
+        }
+      }
+    }
+  }
+}

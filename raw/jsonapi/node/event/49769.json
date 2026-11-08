@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "91554d7b-caf5-4472-9c3a-9ecce787af5a",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/91554d7b-caf5-4472-9c3a-9ecce787af5a?resourceVersion=id%3A3540"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/91554d7b-caf5-4472-9c3a-9ecce787af5a?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49769,
+    "drupal_internal__vid": 3540,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Johannes Müller",
+    "created": "2012-01-10T12:46:59+00:00",
+    "changed": "2012-01-10T12:50:25+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49769",
+      "pid": 1581,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahr kannte Johannes Müller schon aus Schliersee, wo er in der zweiten Hälfte der 1890er Jahre mit ihm gesoffen hat. Bei seinem Aufenthalt in Bayreuth 1911 findet er im Schaufenster einer Buchhandlung einen gedruckten Aufsatz von Friedrich Megerlin: Was hat uns Johannes Müller zu sagen? (München: C. H. Beck 1911), das er aufgrund des Titels erwirbt. In Folge liest er auch die Bücher Müllers und begegnet ihm auch bald persönlich wieder. In Folge will er ihn aber - \"an ihm hoch, über ihn hinaus\", also \"überwunden\" haben.",
+      "format": "full_html",
+      "processed": "Bahr kannte Johannes Müller schon aus Schliersee, wo er in der zweiten Hälfte der 1890er Jahre mit ihm gesoffen hat. Bei seinem Aufenthalt in Bayreuth 1911 findet er im Schaufenster einer Buchhandlung einen gedruckten Aufsatz von Friedrich Megerlin: Was hat uns Johannes Müller zu sagen? (München: C. H. Beck 1911), das er aufgrund des Titels erwirbt. In Folge liest er auch die Bücher Müllers und begegnet ihm auch bald persönlich wieder. In Folge will er ihn aber - \"an ihm hoch, über ihn hinaus\", also \"überwunden\" haben.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1911-08-01",
+      "end_value": "1911-08-01"
+    },
+    "field_sources": [
+      "Hermann Bahr: Johannes Müller. Neue Freie Presse, (1912) #17116, Morgenblatt, 1-3. (18.4.1912) Buchausgabe: Inventur, 81-87",
+      "Liebe der Lebenden, I, 382.",
+      "(Hier auf 1. August 1911 datiert)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/91554d7b-caf5-4472-9c3a-9ecce787af5a/node_type?resourceVersion=id%3A3540"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/91554d7b-caf5-4472-9c3a-9ecce787af5a/relationships/node_type?resourceVersion=id%3A3540"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/91554d7b-caf5-4472-9c3a-9ecce787af5a/revision_uid?resourceVersion=id%3A3540"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/91554d7b-caf5-4472-9c3a-9ecce787af5a/relationships/revision_uid?resourceVersion=id%3A3540"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/91554d7b-caf5-4472-9c3a-9ecce787af5a/uid?resourceVersion=id%3A3540"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/91554d7b-caf5-4472-9c3a-9ecce787af5a/relationships/uid?resourceVersion=id%3A3540"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/91554d7b-caf5-4472-9c3a-9ecce787af5a/field_event_type?resourceVersion=id%3A3540"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/91554d7b-caf5-4472-9c3a-9ecce787af5a/relationships/field_event_type?resourceVersion=id%3A3540"
+        }
+      }
+    }
+  }
+}

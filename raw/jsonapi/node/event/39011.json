@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "78dadbac-bb97-47c6-a043-afedb5a0de83",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/78dadbac-bb97-47c6-a043-afedb5a0de83?resourceVersion=id%3A2792"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/78dadbac-bb97-47c6-a043-afedb5a0de83?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39011,
+    "drupal_internal__vid": 2792,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Rektorat",
+    "created": "2011-03-24T12:06:02+00:00",
+    "changed": "2011-11-03T11:02:56+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39011",
+      "pid": 747,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<blockquote>Sie werden hiermit ersucht, sich morgen den 15. März auf 4 Uhr Nachmittags in der Rectorats-Kanzlei einzufinden. Wien, am 14. März 1883\r\nDer Rector der k.k. Universität\r\n[Unterschrift]\r\n\r\nAn Herrn Hermann Bahr\r\nstud. phil.\r\nin Wien\r\nI. Bez. Blutgasse 3</blockquote>\r\n",
+      "format": "full_html",
+      "processed": "<blockquote>Sie werden hiermit ersucht, sich morgen den 15. März auf 4 Uhr Nachmittags in der Rectorats-Kanzlei einzufinden. Wien, am 14. März 1883\nDer Rector der k.k. Universität\n[Unterschrift]\n\nAn Herrn Hermann Bahr\nstud. phil.\nin Wien\nI. Bez. Blutgasse 3</blockquote>\n",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1883-03-14",
+      "end_value": "1883-03-14"
+    },
+    "field_sources": [
+      "Nachlass, Kiste 77"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/78dadbac-bb97-47c6-a043-afedb5a0de83/node_type?resourceVersion=id%3A2792"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/78dadbac-bb97-47c6-a043-afedb5a0de83/relationships/node_type?resourceVersion=id%3A2792"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/78dadbac-bb97-47c6-a043-afedb5a0de83/revision_uid?resourceVersion=id%3A2792"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/78dadbac-bb97-47c6-a043-afedb5a0de83/relationships/revision_uid?resourceVersion=id%3A2792"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/78dadbac-bb97-47c6-a043-afedb5a0de83/uid?resourceVersion=id%3A2792"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/78dadbac-bb97-47c6-a043-afedb5a0de83/relationships/uid?resourceVersion=id%3A2792"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/78dadbac-bb97-47c6-a043-afedb5a0de83/field_event_type?resourceVersion=id%3A2792"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/78dadbac-bb97-47c6-a043-afedb5a0de83/relationships/field_event_type?resourceVersion=id%3A2792"
+        }
+      }
+    }
+  }
+}

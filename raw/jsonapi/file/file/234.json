@@ -1,0 +1,36 @@
+{
+  "type": "file--file",
+  "id": "3b5bc194-c0a4-4b6f-9739-8e407392994f",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/file/file/3b5bc194-c0a4-4b6f-9739-8e407392994f"
+    }
+  },
+  "attributes": {
+    "drupal_internal__fid": 234,
+    "langcode": "de",
+    "filename": "1923_dolbin.jpg",
+    "uri": {
+      "value": "public://bahr_bilder/1923_dolbin.jpg",
+      "url": "/sites/default/files/bahr_bilder/1923_dolbin.jpg"
+    },
+    "filemime": "image/jpeg",
+    "filesize": 634218,
+    "status": true,
+    "created": "2020-02-18T15:00:35+00:00",
+    "changed": "2020-02-18T15:11:43+00:00"
+  },
+  "relationships": {
+    "uid": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/file/file/3b5bc194-c0a4-4b6f-9739-8e407392994f/uid"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/file/file/3b5bc194-c0a4-4b6f-9739-8e407392994f/relationships/uid"
+        }
+      }
+    }
+  }
+}

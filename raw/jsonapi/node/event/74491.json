@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "715c410d-3bb3-4b2a-bb83-1be781234dec",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/715c410d-3bb3-4b2a-bb83-1be781234dec?resourceVersion=id%3A3802"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/715c410d-3bb3-4b2a-bb83-1be781234dec?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74491,
+    "drupal_internal__vid": 3802,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Allemannia",
+    "created": "2013-03-22T10:08:46+00:00",
+    "changed": "2013-03-22T10:09:02+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/74491",
+      "pid": 1865,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "In Graz schließt sich Bahr der aus dem Kärntner Studentenverein hervorgegangenen Burschenschaft \"Allemannia\" an.",
+      "format": "full_html",
+      "processed": "In Graz schließt sich Bahr der aus dem Kärntner Studentenverein hervorgegangenen Burschenschaft \"Allemannia\" an.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1883-04-20",
+      "end_value": "1883-04-20"
+    },
+    "field_sources": [
+      "Günter Cerwinka: Hermann Bahrs Grazer Semester. Mit Briefen Bahrs zur Auseinandersetzung Pernerstorfer – Schönerer. Historisches Jahrbuch der Stadt Graz, 4 (1971), 137-147, hier: 139.",
+      "(Hier auf 20. April 1883 datiert)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/715c410d-3bb3-4b2a-bb83-1be781234dec/node_type?resourceVersion=id%3A3802"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/715c410d-3bb3-4b2a-bb83-1be781234dec/relationships/node_type?resourceVersion=id%3A3802"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/715c410d-3bb3-4b2a-bb83-1be781234dec/revision_uid?resourceVersion=id%3A3802"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/715c410d-3bb3-4b2a-bb83-1be781234dec/relationships/revision_uid?resourceVersion=id%3A3802"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/715c410d-3bb3-4b2a-bb83-1be781234dec/uid?resourceVersion=id%3A3802"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/715c410d-3bb3-4b2a-bb83-1be781234dec/relationships/uid?resourceVersion=id%3A3802"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/715c410d-3bb3-4b2a-bb83-1be781234dec/field_event_type?resourceVersion=id%3A3802"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/715c410d-3bb3-4b2a-bb83-1be781234dec/relationships/field_event_type?resourceVersion=id%3A3802"
+        }
+      }
+    }
+  }
+}

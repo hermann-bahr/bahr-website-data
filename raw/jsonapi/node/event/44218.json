@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "2ce169ec-b073-45e5-898a-98c4a53bbbb7",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/2ce169ec-b073-45e5-898a-98c4a53bbbb7?resourceVersion=id%3A3132"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/2ce169ec-b073-45e5-898a-98c4a53bbbb7?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44218,
+    "drupal_internal__vid": 3132,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "München, Ablösesumme",
+    "created": "2011-09-22T11:59:08+00:00",
+    "changed": "2011-12-14T10:16:42+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44218",
+      "pid": 1111,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Das Ende von Bahrs \"Münchner Affäre\" erfolgt am 14. März 1906:\r\n<blockquote>Wie ein offizielles Telegramm aus München berichtet, meldet die dortige \"Allgemeine Zeitung\", daß zwischen der Hoftheaterintendanz und dem als Oberregisseur des Schauspiels berufenen Hermann Bahr ein Übereinkommen perfekt geworden sein soll, wonach Bahr zurücktritt und eine in Raten auszuzahlende Entschädigung von 24.000 Mark erhält, die eine Minderung erfährt, sobald Bahr innerhalb zweier Jahre eine ähnliche Stelle an einem anderen Theater annimmt.</blockquote>",
+      "format": "full_html",
+      "processed": "Das Ende von Bahrs \"Münchner Affäre\" erfolgt am 14. März 1906:\n<blockquote>Wie ein offizielles Telegramm aus München berichtet, meldet die dortige \"Allgemeine Zeitung\", daß zwischen der Hoftheaterintendanz und dem als Oberregisseur des Schauspiels berufenen Hermann Bahr ein Übereinkommen perfekt geworden sein soll, wonach Bahr zurücktritt und eine in Raten auszuzahlende Entschädigung von 24.000 Mark erhält, die eine Minderung erfährt, sobald Bahr innerhalb zweier Jahre eine ähnliche Stelle an einem anderen Theater annimmt.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1906-03-14",
+      "end_value": "1906-03-14"
+    },
+    "field_sources": [
+      "Österreichische Volkszeitung, 52 (1906) #73, 6. (15.3.1906)",
+      "Tagebücher (Csàky), IV und V."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2ce169ec-b073-45e5-898a-98c4a53bbbb7/node_type?resourceVersion=id%3A3132"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2ce169ec-b073-45e5-898a-98c4a53bbbb7/relationships/node_type?resourceVersion=id%3A3132"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2ce169ec-b073-45e5-898a-98c4a53bbbb7/revision_uid?resourceVersion=id%3A3132"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2ce169ec-b073-45e5-898a-98c4a53bbbb7/relationships/revision_uid?resourceVersion=id%3A3132"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2ce169ec-b073-45e5-898a-98c4a53bbbb7/uid?resourceVersion=id%3A3132"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2ce169ec-b073-45e5-898a-98c4a53bbbb7/relationships/uid?resourceVersion=id%3A3132"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2ce169ec-b073-45e5-898a-98c4a53bbbb7/field_event_type?resourceVersion=id%3A3132"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2ce169ec-b073-45e5-898a-98c4a53bbbb7/relationships/field_event_type?resourceVersion=id%3A3132"
+        }
+      }
+    }
+  }
+}

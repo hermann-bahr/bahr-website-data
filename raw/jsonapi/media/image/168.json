@@ -1,0 +1,118 @@
+{
+  "type": "media--image",
+  "id": "42dfe8e2-6ad3-4dea-8450-b4cfeab6972b",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/media/image/42dfe8e2-6ad3-4dea-8450-b4cfeab6972b?resourceVersion=id%3A168"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/media/image/42dfe8e2-6ad3-4dea-8450-b4cfeab6972b?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__mid": 168,
+    "drupal_internal__vid": 168,
+    "langcode": "de",
+    "revision_created": "2020-02-18T15:16:19+00:00",
+    "status": true,
+    "name": "1890_postkarte",
+    "created": "2020-02-18T15:16:19+00:00",
+    "changed": "2020-02-18T15:16:19+00:00",
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": null,
+      "pid": null,
+      "langcode": "de"
+    }
+  },
+  "relationships": {
+    "bundle": {
+      "data": {
+        "type": "media_type--media_type",
+        "id": "b82aabb6-e7a1-420d-b98b-5b981c2d920e",
+        "meta": {
+          "drupal_internal__target_id": "image"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/42dfe8e2-6ad3-4dea-8450-b4cfeab6972b/bundle?resourceVersion=id%3A168"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/42dfe8e2-6ad3-4dea-8450-b4cfeab6972b/relationships/bundle?resourceVersion=id%3A168"
+        }
+      }
+    },
+    "revision_user": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/42dfe8e2-6ad3-4dea-8450-b4cfeab6972b/revision_user?resourceVersion=id%3A168"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/42dfe8e2-6ad3-4dea-8450-b4cfeab6972b/relationships/revision_user?resourceVersion=id%3A168"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/42dfe8e2-6ad3-4dea-8450-b4cfeab6972b/uid?resourceVersion=id%3A168"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/42dfe8e2-6ad3-4dea-8450-b4cfeab6972b/relationships/uid?resourceVersion=id%3A168"
+        }
+      }
+    },
+    "thumbnail": {
+      "data": {
+        "type": "file--file",
+        "id": "fc7f3402-0809-4f03-a5e4-ef537eab7fdb",
+        "meta": {
+          "alt": "Um 1895 Postkarte",
+          "title": null,
+          "width": 4171,
+          "height": 6448,
+          "drupal_internal__target_id": 229
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/42dfe8e2-6ad3-4dea-8450-b4cfeab6972b/thumbnail?resourceVersion=id%3A168"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/42dfe8e2-6ad3-4dea-8450-b4cfeab6972b/relationships/thumbnail?resourceVersion=id%3A168"
+        }
+      }
+    },
+    "field_media_image": {
+      "data": {
+        "type": "file--file",
+        "id": "fc7f3402-0809-4f03-a5e4-ef537eab7fdb",
+        "meta": {
+          "alt": "Um 1895 Postkarte",
+          "title": "1890_postkarte",
+          "width": 4171,
+          "height": 6448,
+          "drupal_internal__target_id": 229
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/42dfe8e2-6ad3-4dea-8450-b4cfeab6972b/field_media_image?resourceVersion=id%3A168"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/42dfe8e2-6ad3-4dea-8450-b4cfeab6972b/relationships/field_media_image?resourceVersion=id%3A168"
+        }
+      }
+    }
+  }
+}

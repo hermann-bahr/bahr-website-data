@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "9ac8e8d9-180f-4307-b79c-90db075b920a",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/9ac8e8d9-180f-4307-b79c-90db075b920a?resourceVersion=id%3A3073"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/9ac8e8d9-180f-4307-b79c-90db075b920a?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44157,
+    "drupal_internal__vid": 3073,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Deutschland",
+    "created": "2011-09-15T09:44:25+00:00",
+    "changed": "2011-09-15T09:44:25+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44157",
+      "pid": 1052,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "An den Urlaub in Holland werden noch ein paar Tage in Deutschland angehängt: Am 1. August 1905 landen er und Mildenburg, von Amsterdam kommend, in Köln. Einen Tag später geht es mit dem Schiff nach Mainz. Am 3.: Würzburg. Vom 4. bis zum 6. München. Von dort an den Starnberger See.",
+      "format": "full_html",
+      "processed": "An den Urlaub in Holland werden noch ein paar Tage in Deutschland angehängt: Am 1. August 1905 landen er und Mildenburg, von Amsterdam kommend, in Köln. Einen Tag später geht es mit dem Schiff nach Mainz. Am 3.: Würzburg. Vom 4. bis zum 6. München. Von dort an den Starnberger See.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1905-08-01",
+      "end_value": "1905-08-06"
+    },
+    "field_sources": [
+      "Tagebücher (Csàky), IV, 424."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9ac8e8d9-180f-4307-b79c-90db075b920a/node_type?resourceVersion=id%3A3073"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9ac8e8d9-180f-4307-b79c-90db075b920a/relationships/node_type?resourceVersion=id%3A3073"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9ac8e8d9-180f-4307-b79c-90db075b920a/revision_uid?resourceVersion=id%3A3073"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9ac8e8d9-180f-4307-b79c-90db075b920a/relationships/revision_uid?resourceVersion=id%3A3073"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9ac8e8d9-180f-4307-b79c-90db075b920a/uid?resourceVersion=id%3A3073"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9ac8e8d9-180f-4307-b79c-90db075b920a/relationships/uid?resourceVersion=id%3A3073"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9ac8e8d9-180f-4307-b79c-90db075b920a/field_event_type?resourceVersion=id%3A3073"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9ac8e8d9-180f-4307-b79c-90db075b920a/relationships/field_event_type?resourceVersion=id%3A3073"
+        }
+      }
+    }
+  }
+}

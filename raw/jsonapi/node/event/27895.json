@@ -1,0 +1,114 @@
+{
+  "type": "node--event",
+  "id": "8c37a3cb-45ad-4da0-bc2f-69e0a9d5d148",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/8c37a3cb-45ad-4da0-bc2f-69e0a9d5d148?resourceVersion=id%3A2243"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/8c37a3cb-45ad-4da0-bc2f-69e0a9d5d148?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27895,
+    "drupal_internal__vid": 2243,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Ringelspiel",
+    "created": "2010-06-22T16:58:45+00:00",
+    "changed": "2011-09-02T09:47:31+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/27895",
+      "pid": 76,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Die Première von Bahrs eigenem Stück \"Ringelspiel\" unter der eigenen Regie findet am 20. Dezember 1906 am Deutschen Theater in Berlin statt. Nach sechs Aufführungen abgesetzt.",
+      "format": "full_html",
+      "processed": "Die Première von Bahrs eigenem Stück \"Ringelspiel\" unter der eigenen Regie findet am 20. Dezember 1906 am Deutschen Theater in Berlin statt. Nach sechs Aufführungen abgesetzt.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1906-12-20",
+      "end_value": "1906-12-20"
+    },
+    "field_sources": []
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8c37a3cb-45ad-4da0-bc2f-69e0a9d5d148/node_type?resourceVersion=id%3A2243"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8c37a3cb-45ad-4da0-bc2f-69e0a9d5d148/relationships/node_type?resourceVersion=id%3A2243"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8c37a3cb-45ad-4da0-bc2f-69e0a9d5d148/revision_uid?resourceVersion=id%3A2243"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8c37a3cb-45ad-4da0-bc2f-69e0a9d5d148/relationships/revision_uid?resourceVersion=id%3A2243"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8c37a3cb-45ad-4da0-bc2f-69e0a9d5d148/uid?resourceVersion=id%3A2243"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8c37a3cb-45ad-4da0-bc2f-69e0a9d5d148/relationships/uid?resourceVersion=id%3A2243"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "27f3d2a4-8970-4726-9ab8-ce37707ec1bc",
+          "meta": {
+            "drupal_internal__target_id": 1
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8c37a3cb-45ad-4da0-bc2f-69e0a9d5d148/field_event_type?resourceVersion=id%3A2243"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8c37a3cb-45ad-4da0-bc2f-69e0a9d5d148/relationships/field_event_type?resourceVersion=id%3A2243"
+        }
+      }
+    }
+  }
+}

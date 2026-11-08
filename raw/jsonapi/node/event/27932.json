@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "59045eba-dba9-4055-aef6-bb4cc6fdb24e",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/59045eba-dba9-4055-aef6-bb4cc6fdb24e?resourceVersion=id%3A2274"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/59045eba-dba9-4055-aef6-bb4cc6fdb24e?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27932,
+    "drupal_internal__vid": 2274,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Secession",
+    "created": "2010-07-19T11:01:25+00:00",
+    "changed": "2012-10-29T07:39:21+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/27932",
+      "pid": 108,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Ende Mai 1900 erscheint die Textsammlung zur \"Secession\", die aus den letzten in der \"Zeit\" veröffentlichten, als auch ersten aus Bahrs neuem zentralen Organ, dem Neuen Wiener Tagblatt, gefüllt ist. Hugo von Hofmannsthal erhält sein Exemplar mit Widmung am 28. Mai.",
+      "format": "full_html",
+      "processed": "Ende Mai 1900 erscheint die Textsammlung zur \"Secession\", die aus den letzten in der \"Zeit\" veröffentlichten, als auch ersten aus Bahrs neuem zentralen Organ, dem Neuen Wiener Tagblatt, gefüllt ist. Hugo von Hofmannsthal erhält sein Exemplar mit Widmung am 28. Mai.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1900-05-28",
+      "end_value": "1900-05-28"
+    },
+    "field_sources": [
+      "Zit. in der Anm. zu Brief Gerty Schlesinger an Bahr, 27.3.1898, Briefwechsel Bahr/Hofmannsthal. Hg. Elsbeth Dangel-Pelloquin. Göttingen: Wallstein. (In Vorbereitung)",
+      "Erste nachweisbare Rezension: F. St.: Kunstliteratur. In: Neues Wiener Abendblatt, 34 (1900) #158, 4. (11.6.1900)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/59045eba-dba9-4055-aef6-bb4cc6fdb24e/node_type?resourceVersion=id%3A2274"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/59045eba-dba9-4055-aef6-bb4cc6fdb24e/relationships/node_type?resourceVersion=id%3A2274"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/59045eba-dba9-4055-aef6-bb4cc6fdb24e/revision_uid?resourceVersion=id%3A2274"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/59045eba-dba9-4055-aef6-bb4cc6fdb24e/relationships/revision_uid?resourceVersion=id%3A2274"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/59045eba-dba9-4055-aef6-bb4cc6fdb24e/uid?resourceVersion=id%3A2274"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/59045eba-dba9-4055-aef6-bb4cc6fdb24e/relationships/uid?resourceVersion=id%3A2274"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "da42ac4a-f48f-4397-af4d-b66e913825fb",
+          "meta": {
+            "drupal_internal__target_id": 3
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/59045eba-dba9-4055-aef6-bb4cc6fdb24e/field_event_type?resourceVersion=id%3A2274"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/59045eba-dba9-4055-aef6-bb4cc6fdb24e/relationships/field_event_type?resourceVersion=id%3A2274"
+        }
+      }
+    }
+  }
+}

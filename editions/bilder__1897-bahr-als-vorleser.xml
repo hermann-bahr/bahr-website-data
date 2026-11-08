@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bilder__1897-bahr-als-vorleser" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">1897 Bahr als Vorleser</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">28299</idno>
+        <idno type="drupal-alias">/bild/28299</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bild/28299">https://bahr.univie.ac.at/bild/28299</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="7" key="bilder">Bilder</term>
+          <term n="6" key="1897-bahr-als-vorleser" type="eintrag">1897 Bahr als Vorleser</term>
+        </keywords>
+        <classCode scheme="drupal-type">image</classCode>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2010-12-14T11:42:54+00:00" type="created">angelegt in Drupal</change>
+      <change when="2011-03-16T15:48:39+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <figure>
+          <graphic url="files/bahr_bilder/1897_vorleser.jpg"/>
+          <figDesc>1897 Bahr als Vorleser</figDesc>
+        </figure>
+        <p>
+          <hi rend="italic">Unbekannte Herkunft. Der Artikel "Hermann Bahr als Vorleser" abgedruckt in Wiener Bilder, #47, Jahr unklar, vermutlich Kommentar zur Conferènce Bahrs am 7. November 1897 ("vorletzten Sonntag"). Bahr las Saar ("Pincelliade") und Ebner-Eschenbach, die selbst im Saal anwesend war. Es folgt die Kolumne "Modeglossen".</hi>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

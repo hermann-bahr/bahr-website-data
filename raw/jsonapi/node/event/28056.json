@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "b94b2648-2182-4416-84e8-4b9a1ebb2cee",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b94b2648-2182-4416-84e8-4b9a1ebb2cee?resourceVersion=id%3A2385"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b94b2648-2182-4416-84e8-4b9a1ebb2cee?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28056,
+    "drupal_internal__vid": 2385,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "1918",
+    "created": "2010-08-06T09:21:47+00:00",
+    "changed": "2011-10-19T09:32:07+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28056",
+      "pid": 219,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Der zweite bei Tyrolia verlegte Band mit den gesammelten \"Tagebüchern\" Bahrs erscheint Mitte Juni 1919 und umfasst die Zeit von Ende Dezember 1917 bis zum Ende von 1918.",
+      "format": "full_html",
+      "processed": "Der zweite bei Tyrolia verlegte Band mit den gesammelten \"Tagebüchern\" Bahrs erscheint Mitte Juni 1919 und umfasst die Zeit von Ende Dezember 1917 bis zum Ende von 1918.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1919-06-15",
+      "end_value": "1919-06-15"
+    },
+    "field_sources": [
+      "Hermann Bahr: Tagebücher. 2. Innsbruck: Tyrolia 1919.",
+      "Bahr/Redlich, 367 und 370."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b94b2648-2182-4416-84e8-4b9a1ebb2cee/node_type?resourceVersion=id%3A2385"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b94b2648-2182-4416-84e8-4b9a1ebb2cee/relationships/node_type?resourceVersion=id%3A2385"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b94b2648-2182-4416-84e8-4b9a1ebb2cee/revision_uid?resourceVersion=id%3A2385"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b94b2648-2182-4416-84e8-4b9a1ebb2cee/relationships/revision_uid?resourceVersion=id%3A2385"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b94b2648-2182-4416-84e8-4b9a1ebb2cee/uid?resourceVersion=id%3A2385"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b94b2648-2182-4416-84e8-4b9a1ebb2cee/relationships/uid?resourceVersion=id%3A2385"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "b7b074bd-6489-4a96-84e9-9c8184cda171",
+          "meta": {
+            "drupal_internal__target_id": 7
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b94b2648-2182-4416-84e8-4b9a1ebb2cee/field_event_type?resourceVersion=id%3A2385"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b94b2648-2182-4416-84e8-4b9a1ebb2cee/relationships/field_event_type?resourceVersion=id%3A2385"
+        }
+      }
+    }
+  }
+}

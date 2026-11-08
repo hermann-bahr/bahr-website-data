@@ -1,0 +1,114 @@
+{
+  "type": "node--event",
+  "id": "a61b7b50-28c4-45d7-826c-d7cbef9e8e13",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/a61b7b50-28c4-45d7-826c-d7cbef9e8e13?resourceVersion=id%3A2248"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/a61b7b50-28c4-45d7-826c-d7cbef9e8e13?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27900,
+    "drupal_internal__vid": 2248,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Abgesagter Vortrag",
+    "created": "2010-06-24T11:20:56+00:00",
+    "changed": "2010-10-09T10:37:49+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/27900",
+      "pid": 81,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 16. Februar 1917 sollte Bahr in der Wiener Urania seinen Vortrag zu \"Ideen von 1914\" halten. Er reist am 12. gemeinsam mit seiner Frau an, die ebenfalls einen Auftritt zu absolvieren hat. Bahrs erster Auftritt in Wien seit 1911 fällt aber wegen \"Kohlennot\" für's erste aus und wird am 26. April nachgeholt.",
+      "format": "full_html",
+      "processed": "Am 16. Februar 1917 sollte Bahr in der Wiener Urania seinen Vortrag zu \"Ideen von 1914\" halten. Er reist am 12. gemeinsam mit seiner Frau an, die ebenfalls einen Auftritt zu absolvieren hat. Bahrs erster Auftritt in Wien seit 1911 fällt aber wegen \"Kohlennot\" für's erste aus und wird am 26. April nachgeholt.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1917-02-16",
+      "end_value": "1917-02-16"
+    },
+    "field_sources": []
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a61b7b50-28c4-45d7-826c-d7cbef9e8e13/node_type?resourceVersion=id%3A2248"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a61b7b50-28c4-45d7-826c-d7cbef9e8e13/relationships/node_type?resourceVersion=id%3A2248"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a61b7b50-28c4-45d7-826c-d7cbef9e8e13/revision_uid?resourceVersion=id%3A2248"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a61b7b50-28c4-45d7-826c-d7cbef9e8e13/relationships/revision_uid?resourceVersion=id%3A2248"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a61b7b50-28c4-45d7-826c-d7cbef9e8e13/uid?resourceVersion=id%3A2248"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a61b7b50-28c4-45d7-826c-d7cbef9e8e13/relationships/uid?resourceVersion=id%3A2248"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a61b7b50-28c4-45d7-826c-d7cbef9e8e13/field_event_type?resourceVersion=id%3A2248"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a61b7b50-28c4-45d7-826c-d7cbef9e8e13/relationships/field_event_type?resourceVersion=id%3A2248"
+        }
+      }
+    }
+  }
+}

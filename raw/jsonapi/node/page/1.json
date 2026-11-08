@@ -1,0 +1,90 @@
+{
+  "type": "node--page",
+  "id": "e0f6e5ed-3db7-4e1c-9dec-5a9bb0fbf206",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/page/e0f6e5ed-3db7-4e1c-9dec-5a9bb0fbf206?resourceVersion=id%3A4274"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/page/e0f6e5ed-3db7-4e1c-9dec-5a9bb0fbf206?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 1,
+    "drupal_internal__vid": 4274,
+    "langcode": "de",
+    "revision_timestamp": "2024-02-29T14:29:53+00:00",
+    "status": true,
+    "title": "Zum Projekt",
+    "created": "2009-12-21T16:24:28+00:00",
+    "changed": "2024-02-29T14:29:53+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/zum-projekt",
+      "pid": 1,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<p>Eine restriktive Nachlasspolitik verhinderte lange Zeit die adäquate Würdigung des »Mittlers der Moderne«, Hermann Bahr (1863–1934). Nach Ablauf des Copyrights unternahmen wir – Claus Pias als Projektleiter, Martin Anton Müller und Gottfried Schnödl –&nbsp;zwischen 2009 und 2013&nbsp;eine Vermessung seines Schaffens.</p><p>Das Projekt teilte sich in zwei Arbeitsfelder:</p><p>Wir&nbsp;edierten die wichtigsten <a href=\"/bahr/node/38750\" data-entity-substitution=\"canonical\" data-entity-type=\"node\" data-entity-uuid=\"ccdaa6a5-2109-4372-a231-cc5245fa0e3a\"><strong>kritischen Schriften</strong></a> in 23 Bänden neu. Als PDF lassen sich diese kostenlos laden.</p><p>Als zweites Arbeitsfeld&nbsp;erstellten wir ein umfassendes <a href=\"https://bahr-textverzeichnis.acdh.oeaw.ac.at/\"><strong>Textverzeichnis</strong></a> der über 4000 Artikel und Aufsätze, die Bahr zu Lebzeiten publizierte. Dieses erschien 2014&nbsp;<a href=\"https://asw-verlage.de/katalog/hermann_bahr_____textverzeichnis-801.html\">gedruckt</a> im Verlag VDG Weimar. Die Neuausgabe ist nun auf einer separaten Seite zu finden.&nbsp;</p><p>Nach zehn&nbsp;Jahren, in der&nbsp;die Website funktionierte, machte&nbsp;sie ein Server-Update unbenützbar. Im Frühling 2020 rettete und überarbeitete <a href=\"https://www.oeaw.ac.at/acdh/team/current-team/klaus-illmayer/\">Klaus Illmayer</a> die ursprünglichen Daten. Nun sollte sie für weitere 10 Jahre zugänglich sein.&nbsp;</p><p>&nbsp;</p>",
+      "format": "full_html",
+      "processed": "<p>Eine restriktive Nachlasspolitik verhinderte lange Zeit die adäquate Würdigung des »Mittlers der Moderne«, Hermann Bahr (1863–1934). Nach Ablauf des Copyrights unternahmen wir – Claus Pias als Projektleiter, Martin Anton Müller und Gottfried Schnödl –&nbsp;zwischen 2009 und 2013&nbsp;eine Vermessung seines Schaffens.</p><p>Das Projekt teilte sich in zwei Arbeitsfelder:</p><p>Wir&nbsp;edierten die wichtigsten <a href=\"/kritische-schriften-einzelausgaben\" data-entity-substitution=\"canonical\" data-entity-type=\"node\" data-entity-uuid=\"ccdaa6a5-2109-4372-a231-cc5245fa0e3a\" title=\"Kritische Schriften in Einzelausgaben\"><strong>kritischen Schriften</strong></a> in 23 Bänden neu. Als PDF lassen sich diese kostenlos laden.</p><p>Als zweites Arbeitsfeld&nbsp;erstellten wir ein umfassendes <a href=\"https://bahr-textverzeichnis.acdh.oeaw.ac.at/\"><strong>Textverzeichnis</strong></a> der über 4000 Artikel und Aufsätze, die Bahr zu Lebzeiten publizierte. Dieses erschien 2014&nbsp;<a href=\"https://asw-verlage.de/katalog/hermann_bahr_____textverzeichnis-801.html\">gedruckt</a> im Verlag VDG Weimar. Die Neuausgabe ist nun auf einer separaten Seite zu finden.&nbsp;</p><p>Nach zehn&nbsp;Jahren, in der&nbsp;die Website funktionierte, machte&nbsp;sie ein Server-Update unbenützbar. Im Frühling 2020 rettete und überarbeitete <a href=\"https://www.oeaw.ac.at/acdh/team/current-team/klaus-illmayer/\">Klaus Illmayer</a> die ursprünglichen Daten. Nun sollte sie für weitere 10 Jahre zugänglich sein.&nbsp;</p><p>&nbsp;</p>",
+      "summary": ""
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "016d417b-5c75-4303-8420-18e221e9e269",
+        "meta": {
+          "drupal_internal__target_id": "page"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/e0f6e5ed-3db7-4e1c-9dec-5a9bb0fbf206/node_type?resourceVersion=id%3A4274"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/e0f6e5ed-3db7-4e1c-9dec-5a9bb0fbf206/relationships/node_type?resourceVersion=id%3A4274"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/e0f6e5ed-3db7-4e1c-9dec-5a9bb0fbf206/revision_uid?resourceVersion=id%3A4274"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/e0f6e5ed-3db7-4e1c-9dec-5a9bb0fbf206/relationships/revision_uid?resourceVersion=id%3A4274"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/e0f6e5ed-3db7-4e1c-9dec-5a9bb0fbf206/uid?resourceVersion=id%3A4274"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/e0f6e5ed-3db7-4e1c-9dec-5a9bb0fbf206/relationships/uid?resourceVersion=id%3A4274"
+        }
+      }
+    }
+  }
+}

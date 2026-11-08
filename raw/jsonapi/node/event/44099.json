@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "15b85c47-f417-424c-b00c-ccc10f48eb51",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/15b85c47-f417-424c-b00c-ccc10f48eb51?resourceVersion=id%3A3016"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/15b85c47-f417-424c-b00c-ccc10f48eb51?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44099,
+    "drupal_internal__vid": 3016,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Peter Altenberg",
+    "created": "2011-09-12T14:19:07+00:00",
+    "changed": "2011-09-13T12:56:17+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44099",
+      "pid": 994,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Der erste Kontakt Bahrs mit Peter Altenberg ist schwer zu bestimmen. 1905 beantwortet Peter Altenberg auf eine Rundfrage zu ersten Erfolgen, indem er drei Briefe abdrucken lässt, der erste davon von Bahr:<blockquote>Lieber Herr Altenberg, ich gebe am 1. Oktober eine Zeitschrift, Wochenschrift \"Die Zeit\" heraus. Bitte, senden Sie mir doch eine Ihrer zarten merkwürdigen Sagen, die Herr Hugo v. Hoffmannsthal [!] mir eines Abends aus den Manuskripten vorgelesen hat.\r\nErgebenst\r\nHermann Bahr</blockquote>Der Originalbrief ist nicht erhalten. Eine Diskussion, warum er auf Juni / Anfang Juli 1894 zu datieren ist, findet sich hier: <a href=\"/bahr/node/44100\">Bahr an Altenberg, der erste Brief</a>.",
+      "format": "full_html",
+      "processed": "Der erste Kontakt Bahrs mit Peter Altenberg ist schwer zu bestimmen. 1905 beantwortet Peter Altenberg auf eine Rundfrage zu ersten Erfolgen, indem er drei Briefe abdrucken lässt, der erste davon von Bahr:<blockquote>Lieber Herr Altenberg, ich gebe am 1. Oktober eine Zeitschrift, Wochenschrift \"Die Zeit\" heraus. Bitte, senden Sie mir doch eine Ihrer zarten merkwürdigen Sagen, die Herr Hugo v. Hoffmannsthal [!] mir eines Abends aus den Manuskripten vorgelesen hat.\nErgebenst\nHermann Bahr</blockquote>Der Originalbrief ist nicht erhalten. Eine Diskussion, warum er auf Juni / Anfang Juli 1894 zu datieren ist, findet sich hier: <a href=\"/bahr/node/44100\">Bahr an Altenberg, der erste Brief</a>.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1894-07-01",
+      "end_value": "1894-07-01"
+    },
+    "field_sources": [
+      "Peter Altenberg: Der erste Erfolg. Eine Rundfrage der \"Österreichischen Volks-Zeitung\". Österreichische Volks-Zeitung, 51 (1905) #160, 13-15, hier 13. (11.6.1905) "
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/15b85c47-f417-424c-b00c-ccc10f48eb51/node_type?resourceVersion=id%3A3016"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/15b85c47-f417-424c-b00c-ccc10f48eb51/relationships/node_type?resourceVersion=id%3A3016"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/15b85c47-f417-424c-b00c-ccc10f48eb51/revision_uid?resourceVersion=id%3A3016"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/15b85c47-f417-424c-b00c-ccc10f48eb51/relationships/revision_uid?resourceVersion=id%3A3016"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/15b85c47-f417-424c-b00c-ccc10f48eb51/uid?resourceVersion=id%3A3016"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/15b85c47-f417-424c-b00c-ccc10f48eb51/relationships/uid?resourceVersion=id%3A3016"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/15b85c47-f417-424c-b00c-ccc10f48eb51/field_event_type?resourceVersion=id%3A3016"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/15b85c47-f417-424c-b00c-ccc10f48eb51/relationships/field_event_type?resourceVersion=id%3A3016"
+        }
+      }
+    }
+  }
+}

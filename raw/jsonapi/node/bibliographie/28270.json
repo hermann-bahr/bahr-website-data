@@ -1,0 +1,109 @@
+{
+  "type": "node--bibliographie",
+  "id": "ae34c774-03ef-4c0d-9b27-fcec7ceb8331",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/ae34c774-03ef-4c0d-9b27-fcec7ceb8331?resourceVersion=id%3A3817"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/ae34c774-03ef-4c0d-9b27-fcec7ceb8331?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28270,
+    "drupal_internal__vid": 3817,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:44:00+00:00",
+    "status": true,
+    "title": "Über Rodbertus (1884)",
+    "created": "2010-11-24T14:02:08+00:00",
+    "changed": "2012-01-25T16:10:56+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/bibliografie/28270",
+      "pid": 402,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<h3 id=\"bib\">Bibliografie</h3>\r\n\r\n<table class=\"bibliografie\"><tr><td>Autor:</td><td>Hermann Bahr</td></tr>\r\n<tr><td>Titel:</td><td>Über Rodbertus</td></tr>\r\n<tr><td> </td><td>Vortrag. Mit einem Vorworte des Verfassers</td></tr>\r\n<tr><td>Ort:</td><td>Wien</td></tr>\r\n<tr><td>Verlag:</td><td>Verl. der \"Unverfälschten Deutschen Worte\" (Georg Ritter von Schönerer)</td></tr>\r\n<tr><td>Jahr:</td><td>1884</td></tr>\r\n<tr><td>Seiten:</td><td>27</td></tr>\r\n<tr><td>Anm.</td><td>\"Sonder-Abdruck aus Nr. 20 der 'Unverfälschten Deutschen Worte' vom 16. Oktober 1884\".</td>\r\n</table>\r\n\r\n<h3 id=\"erstdrucke\">Erstdruck</h3>\r\n\r\n<p>Hermann Bahr: Über Rodbertus. Ein Vortrag. Unverfälschte deutsche Worte, 2 (1884) #20, 4-8. (16.10.1884)</p>\r\n\r\n<h3 id=\"digit\">Digitalisate</h3>\r\n\r\n<a href=\"http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&aid=35&teil=0101&seite=00000001\">Sonder-Druck auf ANNO</a>\r\n<a href=\"http://www.univie.ac.at/bahr/sites/all/txt/unverfaelschte-deutsche-worte/1884_rodbertus.pdf\">Erstdruck</a>",
+      "format": "full_html",
+      "processed": "<h3 id=\"bib\">Bibliografie</h3>\n\n<table class=\"bibliografie\"><tr><td>Autor:</td><td>Hermann Bahr</td></tr>\n<tr><td>Titel:</td><td>Über Rodbertus</td></tr>\n<tr><td> </td><td>Vortrag. Mit einem Vorworte des Verfassers</td></tr>\n<tr><td>Ort:</td><td>Wien</td></tr>\n<tr><td>Verlag:</td><td>Verl. der \"Unverfälschten Deutschen Worte\" (Georg Ritter von Schönerer)</td></tr>\n<tr><td>Jahr:</td><td>1884</td></tr>\n<tr><td>Seiten:</td><td>27</td></tr>\n<tr><td>Anm.</td><td>\"Sonder-Abdruck aus Nr. 20 der 'Unverfälschten Deutschen Worte' vom 16. Oktober 1884\".</td>\n</tr></table>\n\n<h3 id=\"erstdrucke\">Erstdruck</h3>\n\n<p>Hermann Bahr: Über Rodbertus. Ein Vortrag. Unverfälschte deutsche Worte, 2 (1884) #20, 4-8. (16.10.1884)</p>\n\n<h3 id=\"digit\">Digitalisate</h3>\n\n<a href=\"http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=35&amp;teil=0101&amp;seite=00000001\">Sonder-Druck auf ANNO</a>\n<a href=\"http://www.univie.ac.at/bahr/sites/all/txt/unverfaelschte-deutsche-worte/1884_rodbertus.pdf\">Erstdruck</a>",
+      "summary": null
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "c4d97a7b-20a3-4a00-9858-72c5abf35af3",
+        "meta": {
+          "drupal_internal__target_id": "bibliographie"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/ae34c774-03ef-4c0d-9b27-fcec7ceb8331/node_type?resourceVersion=id%3A3817"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/ae34c774-03ef-4c0d-9b27-fcec7ceb8331/relationships/node_type?resourceVersion=id%3A3817"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/ae34c774-03ef-4c0d-9b27-fcec7ceb8331/revision_uid?resourceVersion=id%3A3817"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/ae34c774-03ef-4c0d-9b27-fcec7ceb8331/relationships/revision_uid?resourceVersion=id%3A3817"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/ae34c774-03ef-4c0d-9b27-fcec7ceb8331/uid?resourceVersion=id%3A3817"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/ae34c774-03ef-4c0d-9b27-fcec7ceb8331/relationships/uid?resourceVersion=id%3A3817"
+        }
+      }
+    },
+    "field_bibliographie_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--bibliografie_type",
+          "id": "7918c4ca-8976-4b38-be44-298fcc23a3ab",
+          "meta": {
+            "drupal_internal__target_id": 10
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/ae34c774-03ef-4c0d-9b27-fcec7ceb8331/field_bibliographie_type?resourceVersion=id%3A3817"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/ae34c774-03ef-4c0d-9b27-fcec7ceb8331/relationships/field_bibliographie_type?resourceVersion=id%3A3817"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "000d871a-a5e1-4e1d-b8f1-987e2160ba63",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/000d871a-a5e1-4e1d-b8f1-987e2160ba63?resourceVersion=id%3A3711"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/000d871a-a5e1-4e1d-b8f1-987e2160ba63?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74383,
+    "drupal_internal__vid": 3711,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Willi Handl Monographie",
+    "created": "2012-10-16T14:37:33+00:00",
+    "changed": "2012-10-16T14:37:45+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/74383",
+      "pid": 1757,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Rechtzeitig zu Bahrs 50. Geburtstag am 19. Juli 1913 erscheint auch eine erste Monographie zu Bahr, verfasst von Willi Handl. Bahr hat in Folge Handl als seinen Biographen ausersehen, überlebt diesen aber um ein Jahrzehnt. (Schnitzler hält das Buch am 29. Juni 1913 in Händen.)",
+      "format": "full_html",
+      "processed": "Rechtzeitig zu Bahrs 50. Geburtstag am 19. Juli 1913 erscheint auch eine erste Monographie zu Bahr, verfasst von Willi Handl. Bahr hat in Folge Handl als seinen Biographen ausersehen, überlebt diesen aber um ein Jahrzehnt. (Schnitzler hält das Buch am 29. Juni 1913 in Händen.)",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1913-06-29",
+      "end_value": "1913-06-29"
+    },
+    "field_sources": [
+      "Willi Handl: Hermann Bahr. Berlin: S. Fischer 1913\r\n",
+      "Schnitzler: Tagebücher, V, 47."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/000d871a-a5e1-4e1d-b8f1-987e2160ba63/node_type?resourceVersion=id%3A3711"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/000d871a-a5e1-4e1d-b8f1-987e2160ba63/relationships/node_type?resourceVersion=id%3A3711"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/000d871a-a5e1-4e1d-b8f1-987e2160ba63/revision_uid?resourceVersion=id%3A3711"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/000d871a-a5e1-4e1d-b8f1-987e2160ba63/relationships/revision_uid?resourceVersion=id%3A3711"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/000d871a-a5e1-4e1d-b8f1-987e2160ba63/uid?resourceVersion=id%3A3711"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/000d871a-a5e1-4e1d-b8f1-987e2160ba63/relationships/uid?resourceVersion=id%3A3711"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/000d871a-a5e1-4e1d-b8f1-987e2160ba63/field_event_type?resourceVersion=id%3A3711"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/000d871a-a5e1-4e1d-b8f1-987e2160ba63/relationships/field_event_type?resourceVersion=id%3A3711"
+        }
+      }
+    }
+  }
+}

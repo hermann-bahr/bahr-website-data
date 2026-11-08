@@ -1,0 +1,114 @@
+{
+  "type": "node--event",
+  "id": "7e9d3042-6dbb-4769-a9e9-87221832338b",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/7e9d3042-6dbb-4769-a9e9-87221832338b?resourceVersion=id%3A2645"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/7e9d3042-6dbb-4769-a9e9-87221832338b?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38826,
+    "drupal_internal__vid": 2645,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Eigene Wochenschrift: Die Zeit",
+    "created": "2011-02-02T18:44:53+00:00",
+    "changed": "2011-11-16T16:05:07+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38826",
+      "pid": 572,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 6. Oktober 1894 ist es soweit: Hermann Bahr hat zum ersten - und einzigen Mal - eine eigene Zeitschrift. Die Zeit erscheint von nun an wöchentlich. Er ist gemeinsamer Herausgeber mit Isidor Singer und Heinrich Kanner. Nunmehr schreibt er nahezu exklusiv für dieses Blatt bis zu seinem Ausscheiden im September 1899.",
+      "format": "full_html",
+      "processed": "Am 6. Oktober 1894 ist es soweit: Hermann Bahr hat zum ersten - und einzigen Mal - eine eigene Zeitschrift. Die Zeit erscheint von nun an wöchentlich. Er ist gemeinsamer Herausgeber mit Isidor Singer und Heinrich Kanner. Nunmehr schreibt er nahezu exklusiv für dieses Blatt bis zu seinem Ausscheiden im September 1899.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1894-10-06",
+      "end_value": "1894-10-06"
+    },
+    "field_sources": []
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7e9d3042-6dbb-4769-a9e9-87221832338b/node_type?resourceVersion=id%3A2645"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7e9d3042-6dbb-4769-a9e9-87221832338b/relationships/node_type?resourceVersion=id%3A2645"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7e9d3042-6dbb-4769-a9e9-87221832338b/revision_uid?resourceVersion=id%3A2645"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7e9d3042-6dbb-4769-a9e9-87221832338b/relationships/revision_uid?resourceVersion=id%3A2645"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7e9d3042-6dbb-4769-a9e9-87221832338b/uid?resourceVersion=id%3A2645"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7e9d3042-6dbb-4769-a9e9-87221832338b/relationships/uid?resourceVersion=id%3A2645"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "d579e54c-64dd-4193-a9ef-da87efb3ed16",
+          "meta": {
+            "drupal_internal__target_id": 8
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7e9d3042-6dbb-4769-a9e9-87221832338b/field_event_type?resourceVersion=id%3A2645"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7e9d3042-6dbb-4769-a9e9-87221832338b/relationships/field_event_type?resourceVersion=id%3A2645"
+        }
+      }
+    }
+  }
+}

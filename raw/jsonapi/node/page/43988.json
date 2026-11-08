@@ -1,0 +1,90 @@
+{
+  "type": "node--page",
+  "id": "5a37d9fb-ff5c-417e-9c30-cdf42d76ff1b",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/page/5a37d9fb-ff5c-417e-9c30-cdf42d76ff1b?resourceVersion=id%3A4073"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/page/5a37d9fb-ff5c-417e-9c30-cdf42d76ff1b?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 43988,
+    "drupal_internal__vid": 4073,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T17:01:03+00:00",
+    "status": true,
+    "title": "Bahr in der \"Jugend\"",
+    "created": "2011-07-12T14:38:57+00:00",
+    "changed": "2011-07-12T14:38:57+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/bahr-der-jugend",
+      "pid": 888,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Erwähnungen Bahrs dokumentiert die Online-Ausgabe der Anna-Amalia-Bibliothek der Satire-Zeitschrift <a href=\"http://www.simplicissimus.info/index.php?id=23&tx_lombkswjournaldb_pi2[personid]=3112&tx_lombkswjournaldb_pi2[element]=all&tx_lombkswjournaldb_pi2[type]=date&tx_lombkswjournaldb_pi2[action]=nameFilter&tx_lombkswjournaldb_pi2[controller]=PersonRegister&cHash=47ab9593aca51a9af8b4df97907d2adc#\">Die Jugend</a>",
+      "format": "full_html",
+      "processed": "Erwähnungen Bahrs dokumentiert die Online-Ausgabe der Anna-Amalia-Bibliothek der Satire-Zeitschrift <a href=\"http://www.simplicissimus.info/index.php?id=23&amp;tx_lombkswjournaldb_pi2[personid]=3112&amp;tx_lombkswjournaldb_pi2[element]=all&amp;tx_lombkswjournaldb_pi2[type]=date&amp;tx_lombkswjournaldb_pi2[action]=nameFilter&amp;tx_lombkswjournaldb_pi2[controller]=PersonRegister&amp;cHash=47ab9593aca51a9af8b4df97907d2adc#\">Die Jugend</a>",
+      "summary": null
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "016d417b-5c75-4303-8420-18e221e9e269",
+        "meta": {
+          "drupal_internal__target_id": "page"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/5a37d9fb-ff5c-417e-9c30-cdf42d76ff1b/node_type?resourceVersion=id%3A4073"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/5a37d9fb-ff5c-417e-9c30-cdf42d76ff1b/relationships/node_type?resourceVersion=id%3A4073"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/5a37d9fb-ff5c-417e-9c30-cdf42d76ff1b/revision_uid?resourceVersion=id%3A4073"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/5a37d9fb-ff5c-417e-9c30-cdf42d76ff1b/relationships/revision_uid?resourceVersion=id%3A4073"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/5a37d9fb-ff5c-417e-9c30-cdf42d76ff1b/uid?resourceVersion=id%3A4073"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/5a37d9fb-ff5c-417e-9c30-cdf42d76ff1b/relationships/uid?resourceVersion=id%3A4073"
+        }
+      }
+    }
+  }
+}

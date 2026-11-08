@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "79c20ffc-a67f-4af2-8c1e-64ce78416578",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/79c20ffc-a67f-4af2-8c1e-64ce78416578?resourceVersion=id%3A2392"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/79c20ffc-a67f-4af2-8c1e-64ce78416578?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28065,
+    "drupal_internal__vid": 2392,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Die Tante",
+    "created": "2010-08-06T12:19:10+00:00",
+    "changed": "2011-11-03T09:50:14+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28065",
+      "pid": 226,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahrs letztes Lustspiel, \"Die Tante\", nimmt der Bühnenverlag Ahn & Simrock 1928 in den Vertrieb auf.",
+      "format": "full_html",
+      "processed": "Bahrs letztes Lustspiel, \"Die Tante\", nimmt der Bühnenverlag Ahn &amp; Simrock 1928 in den Vertrieb auf.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1928-01-01",
+      "end_value": "1928-01-01"
+    },
+    "field_sources": [
+      "Hermann Bahr: Die Tante. Ein Lustspiel in drei Aufzügen. Berlin: Ahn & Simrock, 1928."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/79c20ffc-a67f-4af2-8c1e-64ce78416578/node_type?resourceVersion=id%3A2392"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/79c20ffc-a67f-4af2-8c1e-64ce78416578/relationships/node_type?resourceVersion=id%3A2392"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/79c20ffc-a67f-4af2-8c1e-64ce78416578/revision_uid?resourceVersion=id%3A2392"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/79c20ffc-a67f-4af2-8c1e-64ce78416578/relationships/revision_uid?resourceVersion=id%3A2392"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/79c20ffc-a67f-4af2-8c1e-64ce78416578/uid?resourceVersion=id%3A2392"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/79c20ffc-a67f-4af2-8c1e-64ce78416578/relationships/uid?resourceVersion=id%3A2392"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "27f3d2a4-8970-4726-9ab8-ce37707ec1bc",
+          "meta": {
+            "drupal_internal__target_id": 1
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/79c20ffc-a67f-4af2-8c1e-64ce78416578/field_event_type?resourceVersion=id%3A2392"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/79c20ffc-a67f-4af2-8c1e-64ce78416578/relationships/field_event_type?resourceVersion=id%3A2392"
+        }
+      }
+    }
+  }
+}

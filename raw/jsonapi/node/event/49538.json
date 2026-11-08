@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "8503ea4d-0e46-43c2-9766-4af9e47075f2",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/8503ea4d-0e46-43c2-9766-4af9e47075f2?resourceVersion=id%3A3371"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/8503ea4d-0e46-43c2-9766-4af9e47075f2?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49538,
+    "drupal_internal__vid": 3371,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Salzburg",
+    "created": "2011-10-28T13:19:51+00:00",
+    "changed": "2011-10-28T13:21:15+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49538",
+      "pid": 1355,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 27. Dezember 1923 will Bahr mit seiner Frau… <blockquote>auf zehn Tage nach Salzburg in den Österreichischen Hof, Menschenluft atmen.</blockquote>Sie bleiben bis Dreikönig.",
+      "format": "full_html",
+      "processed": "Am 27. Dezember 1923 will Bahr mit seiner Frau… <blockquote>auf zehn Tage nach Salzburg in den Österreichischen Hof, Menschenluft atmen.</blockquote>Sie bleiben bis Dreikönig.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1923-12-27",
+      "end_value": "1924-01-05"
+    },
+    "field_sources": [
+      "Bahr/Redlich, 511-514."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8503ea4d-0e46-43c2-9766-4af9e47075f2/node_type?resourceVersion=id%3A3371"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8503ea4d-0e46-43c2-9766-4af9e47075f2/relationships/node_type?resourceVersion=id%3A3371"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8503ea4d-0e46-43c2-9766-4af9e47075f2/revision_uid?resourceVersion=id%3A3371"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8503ea4d-0e46-43c2-9766-4af9e47075f2/relationships/revision_uid?resourceVersion=id%3A3371"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8503ea4d-0e46-43c2-9766-4af9e47075f2/uid?resourceVersion=id%3A3371"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8503ea4d-0e46-43c2-9766-4af9e47075f2/relationships/uid?resourceVersion=id%3A3371"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8503ea4d-0e46-43c2-9766-4af9e47075f2/field_event_type?resourceVersion=id%3A3371"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8503ea4d-0e46-43c2-9766-4af9e47075f2/relationships/field_event_type?resourceVersion=id%3A3371"
+        }
+      }
+    }
+  }
+}

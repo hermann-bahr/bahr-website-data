@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "66fc2a4f-5304-4bc3-99b4-4455873eed0b",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/66fc2a4f-5304-4bc3-99b4-4455873eed0b?resourceVersion=id%3A2775"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/66fc2a4f-5304-4bc3-99b4-4455873eed0b?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38992,
+    "drupal_internal__vid": 2775,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Loge \"Freundschaft\" / \"Heimath\"",
+    "created": "2011-03-18T14:50:41+00:00",
+    "changed": "2013-06-18T12:11:49+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38992",
+      "pid": 729,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 24. April 1897 wird Bahr in die \"Loge Freundschaft\" in Pressburg/Bratislava aufgenommen, tags darauf ist er zum ersten Mal in der Loge. Zeitgenossen konnten über Bahrs Logenbrüderschaft bei Karl Kraus 1899 lernen:\r\n<blockquote>Mit welcher seiner Weltanschauungen sollte Herr Bahr es unvereinbar finden, Logenbruder zu werden? Jetzt kann er wenigstens nicht mehr wie ehedem ganz durchfallen … Vor einer Woche circulierte in Wien ein Schreiben, das eine Freimaurerloge an ihre Angehörigen gesendet hatte. In diesem Schreiben hieß es: \"Samstag den 7. October findet die Première von Hermann Bahrs 'Athlet' statt.\r\nUnser Bruder Bahr wünscht einen großen Erfolg. Die Karten für Sie und Ihre Familie sind reserviert\".</blockquote>Ein weiteres Mal nimmt Kraus Bahrs Logenbrüderschaft in der Fackel #34 auf und behauptet da, es handle sich um die Loge \"Heimath\" (29). Heißt das, Bahr war in zwei Logen?",
+      "format": "full_html",
+      "processed": "Am 24. April 1897 wird Bahr in die \"Loge Freundschaft\" in Pressburg/Bratislava aufgenommen, tags darauf ist er zum ersten Mal in der Loge. Zeitgenossen konnten über Bahrs Logenbrüderschaft bei Karl Kraus 1899 lernen:\n<blockquote>Mit welcher seiner Weltanschauungen sollte Herr Bahr es unvereinbar finden, Logenbruder zu werden? Jetzt kann er wenigstens nicht mehr wie ehedem ganz durchfallen … Vor einer Woche circulierte in Wien ein Schreiben, das eine Freimaurerloge an ihre Angehörigen gesendet hatte. In diesem Schreiben hieß es: \"Samstag den 7. October findet die Première von Hermann Bahrs 'Athlet' statt.\nUnser Bruder Bahr wünscht einen großen Erfolg. Die Karten für Sie und Ihre Familie sind reserviert\".</blockquote>Ein weiteres Mal nimmt Kraus Bahrs Logenbrüderschaft in der Fackel #34 auf und behauptet da, es handle sich um die Loge \"Heimath\" (29). Heißt das, Bahr war in zwei Logen?",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1897-04-24",
+      "end_value": "1897-04-24"
+    },
+    "field_sources": [
+      "Tagebücher (Csàky), II, 238.",
+      "Die Fackel, 1 (1899) #19, 30.",
+      "Vgl. auch Brief von Adalbert Reiss, AM 22369 Ba"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/66fc2a4f-5304-4bc3-99b4-4455873eed0b/node_type?resourceVersion=id%3A2775"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/66fc2a4f-5304-4bc3-99b4-4455873eed0b/relationships/node_type?resourceVersion=id%3A2775"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/66fc2a4f-5304-4bc3-99b4-4455873eed0b/revision_uid?resourceVersion=id%3A2775"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/66fc2a4f-5304-4bc3-99b4-4455873eed0b/relationships/revision_uid?resourceVersion=id%3A2775"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/66fc2a4f-5304-4bc3-99b4-4455873eed0b/uid?resourceVersion=id%3A2775"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/66fc2a4f-5304-4bc3-99b4-4455873eed0b/relationships/uid?resourceVersion=id%3A2775"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/66fc2a4f-5304-4bc3-99b4-4455873eed0b/field_event_type?resourceVersion=id%3A2775"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/66fc2a4f-5304-4bc3-99b4-4455873eed0b/relationships/field_event_type?resourceVersion=id%3A2775"
+        }
+      }
+    }
+  }
+}

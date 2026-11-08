@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "1ef86e52-8053-4780-b90c-b0ab5219c4ff",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/1ef86e52-8053-4780-b90c-b0ab5219c4ff?resourceVersion=id%3A2434"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/1ef86e52-8053-4780-b90c-b0ab5219c4ff?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28113,
+    "drupal_internal__vid": 2434,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "\"Rahl\" beendet",
+    "created": "2010-08-17T08:52:50+00:00",
+    "changed": "2011-12-14T10:34:28+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28113",
+      "pid": 269,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Neues Wiener Journal, 19.6.1908:\r\n<blockquote>Hermann Bahr hat einen neuen Roman vollendet, der \"Die Rahl\" heißt, allerhand Figuren durcheinander treibt, an denen sich die Wiener Neuigierde tüchtig üben können wird, und in ihre Mitte eine sehr seltsame Frauengestalt stellt. Der Roman ist der erste einer ganzen Reihe, in welcher der Dichter ein Bild des gesamten <i>heutigen Österreichs</i> \"rund herum\" zu geben versucht. Er erscheint bei S. Fischer in Berlin, wo demnächst auch eine neue Novellensammlung von Hermann Bahr \"Stimmen des Bluts\" zur Ausgabe gelangt.</blockquote>",
+      "format": "full_html",
+      "processed": "Neues Wiener Journal, 19.6.1908:\n<blockquote>Hermann Bahr hat einen neuen Roman vollendet, der \"Die Rahl\" heißt, allerhand Figuren durcheinander treibt, an denen sich die Wiener Neuigierde tüchtig üben können wird, und in ihre Mitte eine sehr seltsame Frauengestalt stellt. Der Roman ist der erste einer ganzen Reihe, in welcher der Dichter ein Bild des gesamten <i>heutigen Österreichs</i> \"rund herum\" zu geben versucht. Er erscheint bei S. Fischer in Berlin, wo demnächst auch eine neue Novellensammlung von Hermann Bahr \"Stimmen des Bluts\" zur Ausgabe gelangt.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1908-06-19",
+      "end_value": "1908-06-19"
+    },
+    "field_sources": [
+      "Neues Wiener Journal, 16 (1908) #526, 8. (19.6.1908)",
+      "S. a. Pester Lloyd, 3.7.1908, 9.",
+      "Berliner Tageblatt, 37 (1908) #309, Morgen-Ausgabe, 3. (20.6.1908)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1ef86e52-8053-4780-b90c-b0ab5219c4ff/node_type?resourceVersion=id%3A2434"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1ef86e52-8053-4780-b90c-b0ab5219c4ff/relationships/node_type?resourceVersion=id%3A2434"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1ef86e52-8053-4780-b90c-b0ab5219c4ff/revision_uid?resourceVersion=id%3A2434"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1ef86e52-8053-4780-b90c-b0ab5219c4ff/relationships/revision_uid?resourceVersion=id%3A2434"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1ef86e52-8053-4780-b90c-b0ab5219c4ff/uid?resourceVersion=id%3A2434"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1ef86e52-8053-4780-b90c-b0ab5219c4ff/relationships/uid?resourceVersion=id%3A2434"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1ef86e52-8053-4780-b90c-b0ab5219c4ff/field_event_type?resourceVersion=id%3A2434"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1ef86e52-8053-4780-b90c-b0ab5219c4ff/relationships/field_event_type?resourceVersion=id%3A2434"
+        }
+      }
+    }
+  }
+}

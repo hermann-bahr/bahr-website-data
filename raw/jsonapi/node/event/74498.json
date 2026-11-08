@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "544b3ed5-3cfd-4101-a1b1-b58718069151",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/544b3ed5-3cfd-4101-a1b1-b58718069151?resourceVersion=id%3A3808"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/544b3ed5-3cfd-4101-a1b1-b58718069151?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74498,
+    "drupal_internal__vid": 3808,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Austritt aus der Burschenschaft",
+    "created": "2013-04-05T08:40:38+00:00",
+    "changed": "2013-09-14T11:54:38+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/74498",
+      "pid": 1871,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "In Folge der Zeitungsinterviews zum Antisemitismus kommt es im Frühjahr 1893 zu internen Streitigkeiten in der Burschenschaft Albia, der Bahr als Inaktiver angehört. Die Interviews wurden von den einen als Absage Bahrs an seine antisemitische Einstellung gewertet, die anderen sahen darin nur Antisemiten und Judenfreunde gegeneinander ausgespielt. Es kommt zu zwei Konventen, an dessen zweiterem Bahr teilnimmt um sich zu rechtfertigen. Nachdem kein Beschluss gefasst wurde, aber im Wintersemester 1893/94 die Burschenschaft erneut deswegen angegriffen wurde (nicht zuletzt von Schönerer und den Unverfälschten Deutschen Worten), bot Bahr seinen Rücktritt an, um der Burschenschaft nicht zu schaden. Die Darstellung des Burschenschaftchronisten Karl Beckes beweist, dass Albia bis 1930 eine ambivalente, aber grundsätzlich positive Einstellung gegenüber Bahr bewahrt hat. ",
+      "format": "full_html",
+      "processed": "In Folge der Zeitungsinterviews zum Antisemitismus kommt es im Frühjahr 1893 zu internen Streitigkeiten in der Burschenschaft Albia, der Bahr als Inaktiver angehört. Die Interviews wurden von den einen als Absage Bahrs an seine antisemitische Einstellung gewertet, die anderen sahen darin nur Antisemiten und Judenfreunde gegeneinander ausgespielt. Es kommt zu zwei Konventen, an dessen zweiterem Bahr teilnimmt um sich zu rechtfertigen. Nachdem kein Beschluss gefasst wurde, aber im Wintersemester 1893/94 die Burschenschaft erneut deswegen angegriffen wurde (nicht zuletzt von Schönerer und den Unverfälschten Deutschen Worten), bot Bahr seinen Rücktritt an, um der Burschenschaft nicht zu schaden. Die Darstellung des Burschenschaftchronisten Karl Beckes beweist, dass Albia bis 1930 eine ambivalente, aber grundsätzlich positive Einstellung gegenüber Bahr bewahrt hat. ",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1893-11-01",
+      "end_value": "1893-11-01"
+    },
+    "field_sources": [
+      "Karl Becke: Wiener Burschenschaft \"Albia\" 1870-1930. Wien: Selbstverlag 1930, 91-95.",
+      "Fränkel, Josef: Theodor Herzl in der akademischen Burschenschaft ”Albia“. In: Die neue Welt, 6 (1932) #236, 3-4, hier: 4. (25. März 1932)",
+      "(Hier auf 1. November 1893 datiert)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/544b3ed5-3cfd-4101-a1b1-b58718069151/node_type?resourceVersion=id%3A3808"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/544b3ed5-3cfd-4101-a1b1-b58718069151/relationships/node_type?resourceVersion=id%3A3808"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/544b3ed5-3cfd-4101-a1b1-b58718069151/revision_uid?resourceVersion=id%3A3808"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/544b3ed5-3cfd-4101-a1b1-b58718069151/relationships/revision_uid?resourceVersion=id%3A3808"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/544b3ed5-3cfd-4101-a1b1-b58718069151/uid?resourceVersion=id%3A3808"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/544b3ed5-3cfd-4101-a1b1-b58718069151/relationships/uid?resourceVersion=id%3A3808"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/544b3ed5-3cfd-4101-a1b1-b58718069151/field_event_type?resourceVersion=id%3A3808"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/544b3ed5-3cfd-4101-a1b1-b58718069151/relationships/field_event_type?resourceVersion=id%3A3808"
+        }
+      }
+    }
+  }
+}

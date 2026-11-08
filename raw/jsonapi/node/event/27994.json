@@ -1,0 +1,114 @@
+{
+  "type": "node--event",
+  "id": "00158ca0-58c8-4a74-b6f4-5e52c4f7dd16",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/00158ca0-58c8-4a74-b6f4-5e52c4f7dd16?resourceVersion=id%3A2327"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/00158ca0-58c8-4a74-b6f4-5e52c4f7dd16?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27994,
+    "drupal_internal__vid": 2327,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Nachfolger Ludwig Ganghofers",
+    "created": "2010-07-27T14:18:58+00:00",
+    "changed": "2010-11-17T17:49:03+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/27994",
+      "pid": 161,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 1. Jänner 1893 übernimmt Bahr von Ludwig Ganghofer die Berichterstattung über das Burgtheater und Volkstheater bei der Deutschen Zeitung.",
+      "format": "full_html",
+      "processed": "Am 1. Jänner 1893 übernimmt Bahr von Ludwig Ganghofer die Berichterstattung über das Burgtheater und Volkstheater bei der Deutschen Zeitung.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1893-01-01",
+      "end_value": "1893-01-01"
+    },
+    "field_sources": []
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/00158ca0-58c8-4a74-b6f4-5e52c4f7dd16/node_type?resourceVersion=id%3A2327"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/00158ca0-58c8-4a74-b6f4-5e52c4f7dd16/relationships/node_type?resourceVersion=id%3A2327"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/00158ca0-58c8-4a74-b6f4-5e52c4f7dd16/revision_uid?resourceVersion=id%3A2327"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/00158ca0-58c8-4a74-b6f4-5e52c4f7dd16/relationships/revision_uid?resourceVersion=id%3A2327"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/00158ca0-58c8-4a74-b6f4-5e52c4f7dd16/uid?resourceVersion=id%3A2327"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/00158ca0-58c8-4a74-b6f4-5e52c4f7dd16/relationships/uid?resourceVersion=id%3A2327"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "d579e54c-64dd-4193-a9ef-da87efb3ed16",
+          "meta": {
+            "drupal_internal__target_id": 8
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/00158ca0-58c8-4a74-b6f4-5e52c4f7dd16/field_event_type?resourceVersion=id%3A2327"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/00158ca0-58c8-4a74-b6f4-5e52c4f7dd16/relationships/field_event_type?resourceVersion=id%3A2327"
+        }
+      }
+    }
+  }
+}

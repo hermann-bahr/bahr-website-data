@@ -1,0 +1,36 @@
+{
+  "type": "file--file",
+  "id": "eea50851-07ff-4af6-b4d3-c2bca6fdeba3",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/file/file/eea50851-07ff-4af6-b4d3-c2bca6fdeba3"
+    }
+  },
+  "attributes": {
+    "drupal_internal__fid": 184,
+    "langcode": "de",
+    "filename": "1926.jpg",
+    "uri": {
+      "value": "public://bahr_bilder/1926.jpg",
+      "url": "/sites/default/files/bahr_bilder/1926.jpg"
+    },
+    "filemime": "image/jpeg",
+    "filesize": 86309,
+    "status": true,
+    "created": "2020-02-18T15:00:35+00:00",
+    "changed": "2020-02-18T15:11:43+00:00"
+  },
+  "relationships": {
+    "uid": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/file/file/eea50851-07ff-4af6-b4d3-c2bca6fdeba3/uid"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/file/file/eea50851-07ff-4af6-b4d3-c2bca6fdeba3/relationships/uid"
+        }
+      }
+    }
+  }
+}

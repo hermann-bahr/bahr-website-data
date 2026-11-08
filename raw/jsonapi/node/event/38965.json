@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "1553532f-5026-4a35-90c5-703f06c60d59",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/1553532f-5026-4a35-90c5-703f06c60d59?resourceVersion=id%3A2750"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/1553532f-5026-4a35-90c5-703f06c60d59?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38965,
+    "drupal_internal__vid": 2750,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Czernowitz",
+    "created": "2011-03-16T14:37:01+00:00",
+    "changed": "2012-09-26T08:47:53+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38965",
+      "pid": 704,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 28. Dezember 1911 um 2 Uhr 10 kommt Bahr zum ersten Mal seit 28 Jahren in Czernowitz an, wo ihn eine Abordnung des Bukowiner Journalistenklubs sowie der Ausschuß des akademischen sozialwissenschaftlichen Vereines empfängt.  Er steigt im Hotel Bristol (Zimmer 34) ab und hält tags darauf einen Vortrag. Am 30. Dezember 1911 fährt er ab. In der Zwischenzeit gibt er auch zwei Interviews.",
+      "format": "full_html",
+      "processed": "Am 28. Dezember 1911 um 2 Uhr 10 kommt Bahr zum ersten Mal seit 28 Jahren in Czernowitz an, wo ihn eine Abordnung des Bukowiner Journalistenklubs sowie der Ausschuß des akademischen sozialwissenschaftlichen Vereines empfängt.  Er steigt im Hotel Bristol (Zimmer 34) ab und hält tags darauf einen Vortrag. Am 30. Dezember 1911 fährt er ab. In der Zwischenzeit gibt er auch zwei Interviews.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1911-12-28",
+      "end_value": "1911-12-30"
+    },
+    "field_sources": [
+      "Arnold Schwarz: Bei Hermann Bahr. Czernowitzer Tagblatt, (1911), 2-3. (31.12.1911)",
+      "Czernowitzer Allgemeine Zeitung, (1911) #2381, 4. (29.12.1911",
+      "Ein Gespräch mit Hermann Bahr. Czernowitzer Allgemeine Zeitung, (1911) #2383, 3-4. (31.12.1911)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1553532f-5026-4a35-90c5-703f06c60d59/node_type?resourceVersion=id%3A2750"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1553532f-5026-4a35-90c5-703f06c60d59/relationships/node_type?resourceVersion=id%3A2750"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1553532f-5026-4a35-90c5-703f06c60d59/revision_uid?resourceVersion=id%3A2750"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1553532f-5026-4a35-90c5-703f06c60d59/relationships/revision_uid?resourceVersion=id%3A2750"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1553532f-5026-4a35-90c5-703f06c60d59/uid?resourceVersion=id%3A2750"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1553532f-5026-4a35-90c5-703f06c60d59/relationships/uid?resourceVersion=id%3A2750"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1553532f-5026-4a35-90c5-703f06c60d59/field_event_type?resourceVersion=id%3A2750"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1553532f-5026-4a35-90c5-703f06c60d59/relationships/field_event_type?resourceVersion=id%3A2750"
+        }
+      }
+    }
+  }
+}

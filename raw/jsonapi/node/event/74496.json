@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "71c05400-7b21-4d33-9fb4-9642cd5eeacb",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/71c05400-7b21-4d33-9fb4-9642cd5eeacb?resourceVersion=id%3A3807"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/71c05400-7b21-4d33-9fb4-9642cd5eeacb?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74496,
+    "drupal_internal__vid": 3807,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Verein deutscher Studenten Wiens",
+    "created": "2013-04-02T08:32:55+00:00",
+    "changed": "2013-04-02T08:35:45+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/74496",
+      "pid": 1870,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Im Oktober 1882 wurde laut Dietrich Herzog der \"Verein der deutschen Studenten Wiens\" gegründet. <blockquote>…umfaßte etwa 850 Mitglieder […] war in den wenigen Monaten seines Bestehens die aktivste Organisation nationalen akademischen Lebens.</blockquote>Karl Becke erwähnt, dass er stark antisemitisch sei, Bahr im Vorstand hatte und nach seiner Gründung<blockquote>einen beachtlichen Mittelpunkt nationalen akademischen Lebens</blockquote>bildete. Der Verein wurde nach dem Wagner-Kommers aufgelöst. \r\n\r\nDas Verhältnis zum Wiener-Studenten-Club (ident? Vorläufer?), siehe 13. März 1882, ist unklar.",
+      "format": "full_html",
+      "processed": "Im Oktober 1882 wurde laut Dietrich Herzog der \"Verein der deutschen Studenten Wiens\" gegründet. <blockquote>…umfaßte etwa 850 Mitglieder […] war in den wenigen Monaten seines Bestehens die aktivste Organisation nationalen akademischen Lebens.</blockquote>Karl Becke erwähnt, dass er stark antisemitisch sei, Bahr im Vorstand hatte und nach seiner Gründung<blockquote>einen beachtlichen Mittelpunkt nationalen akademischen Lebens</blockquote>bildete. Der Verein wurde nach dem Wagner-Kommers aufgelöst. \n\nDas Verhältnis zum Wiener-Studenten-Club (ident? Vorläufer?), siehe 13. März 1882, ist unklar.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1882-10-01",
+      "end_value": "1882-10-01"
+    },
+    "field_sources": [
+      "Herzog, Dietrich: Theodor Herzl als Burschenschafter -- und die Folgen. Beiträge zur österreichischen Studentengeschichte, Band 2. Die Vorträge der ersten österreichischen Studentenhistorikertragung Wien 1974. Wien: Österreichischer Verein für Studentengeschichte 1975, 73-88, hier: 79.",
+      "Karl Becke: Wiener Burschenschaft \"Albia\" 1870-1930. Wien: Selbstverlag 1930, 45-46."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/71c05400-7b21-4d33-9fb4-9642cd5eeacb/node_type?resourceVersion=id%3A3807"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/71c05400-7b21-4d33-9fb4-9642cd5eeacb/relationships/node_type?resourceVersion=id%3A3807"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/71c05400-7b21-4d33-9fb4-9642cd5eeacb/revision_uid?resourceVersion=id%3A3807"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/71c05400-7b21-4d33-9fb4-9642cd5eeacb/relationships/revision_uid?resourceVersion=id%3A3807"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/71c05400-7b21-4d33-9fb4-9642cd5eeacb/uid?resourceVersion=id%3A3807"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/71c05400-7b21-4d33-9fb4-9642cd5eeacb/relationships/uid?resourceVersion=id%3A3807"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/71c05400-7b21-4d33-9fb4-9642cd5eeacb/field_event_type?resourceVersion=id%3A3807"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/71c05400-7b21-4d33-9fb4-9642cd5eeacb/relationships/field_event_type?resourceVersion=id%3A3807"
+        }
+      }
+    }
+  }
+}

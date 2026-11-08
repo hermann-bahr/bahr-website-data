@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "6b4321ee-5433-49a7-a88d-9cde1cf7f866",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/6b4321ee-5433-49a7-a88d-9cde1cf7f866?resourceVersion=id%3A2856"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/6b4321ee-5433-49a7-a88d-9cde1cf7f866?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39082,
+    "drupal_internal__vid": 2856,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "H. Holzapfel",
+    "created": "2011-05-06T09:44:15+00:00",
+    "changed": "2012-10-16T11:45:38+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39082",
+      "pid": 813,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "1929 schreibt Bahr über eine wichtige Figur seines Weges zu Gott:\r\n<blockquote>Gottesfurcht aber schien mir von gestern. Man male sich nun mein Erstaunen, als mir der Wiener Korrespondent der „Times“, als ich ihm von einer Vortragsreise sprach, die zunächst von Danzig und Königsberg und von dort in großem Bogen über Bonn und zuletzt nach München führen sollte, riet, ja den Pater Heribert Holzapfel aufzusuchen. Der Name war mir fremd. Der Korrespondent lachte: „Ja, das ist echt deutsch, daß die paar Deutschen, die zu kennen sich lohnt, voneinander nichts wissen!“ Ich notierte mir den Namen und ging dann wirklich, mir den Mann anzusehen, der die Prüfung des gestrengen Briten bestanden. Wir gerieten rasch in ein anregendes, übrigens durchaus weltliches Gespräch, das mich aber eine hohe Form wittern ließ. Wie kam ein liebenswürdiger, lebensseliger Troubadour auf den Weg zur Heiligkeit. […] Ein „Zufall“ war meine Begegnung mit Heribert Holzapfel … </blockquote>\r\nHolzapfel ordinierte in München, und war, wenn man die Texte Bahrs aus den Jahren vorher anschaut, sicher nicht der, der Bahr zum Glauben geführt hat -- auf diesem Weg befand er sich schon von selbst -- aber eine wichtige Figur, die ihm half, sein Bedürfnis nach Halt auszuformulieren.\r\n",
+      "format": "full_html",
+      "processed": "1929 schreibt Bahr über eine wichtige Figur seines Weges zu Gott:\n<blockquote>Gottesfurcht aber schien mir von gestern. Man male sich nun mein Erstaunen, als mir der Wiener Korrespondent der „Times“, als ich ihm von einer Vortragsreise sprach, die zunächst von Danzig und Königsberg und von dort in großem Bogen über Bonn und zuletzt nach München führen sollte, riet, ja den Pater Heribert Holzapfel aufzusuchen. Der Name war mir fremd. Der Korrespondent lachte: „Ja, das ist echt deutsch, daß die paar Deutschen, die zu kennen sich lohnt, voneinander nichts wissen!“ Ich notierte mir den Namen und ging dann wirklich, mir den Mann anzusehen, der die Prüfung des gestrengen Briten bestanden. Wir gerieten rasch in ein anregendes, übrigens durchaus weltliches Gespräch, das mich aber eine hohe Form wittern ließ. Wie kam ein liebenswürdiger, lebensseliger Troubadour auf den Weg zur Heiligkeit. […] Ein „Zufall“ war meine Begegnung mit Heribert Holzapfel … </blockquote>\nHolzapfel ordinierte in München, und war, wenn man die Texte Bahrs aus den Jahren vorher anschaut, sicher nicht der, der Bahr zum Glauben geführt hat -- auf diesem Weg befand er sich schon von selbst -- aber eine wichtige Figur, die ihm half, sein Bedürfnis nach Halt auszuformulieren.\n",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1908-11-08",
+      "end_value": "1908-11-08"
+    },
+    "field_sources": [
+      "Hermann Bahr: Die Gesellschaft Jesu. Münchner Telegramm-Zeitung, 8 (1929) #124, 2. (2.7.1929) Buchausgabe: Labyrinth der Gegenwart, 170-171.\r\n",
+      "Zur Datierung: Die Vortragsreise, die von den bislang zusammengetragenen Stationen am ehesten in Frage kommt, ist jene im November 1908, deswegen auf 8.11.1908 datiert."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6b4321ee-5433-49a7-a88d-9cde1cf7f866/node_type?resourceVersion=id%3A2856"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6b4321ee-5433-49a7-a88d-9cde1cf7f866/relationships/node_type?resourceVersion=id%3A2856"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6b4321ee-5433-49a7-a88d-9cde1cf7f866/revision_uid?resourceVersion=id%3A2856"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6b4321ee-5433-49a7-a88d-9cde1cf7f866/relationships/revision_uid?resourceVersion=id%3A2856"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6b4321ee-5433-49a7-a88d-9cde1cf7f866/uid?resourceVersion=id%3A2856"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6b4321ee-5433-49a7-a88d-9cde1cf7f866/relationships/uid?resourceVersion=id%3A2856"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6b4321ee-5433-49a7-a88d-9cde1cf7f866/field_event_type?resourceVersion=id%3A2856"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6b4321ee-5433-49a7-a88d-9cde1cf7f866/relationships/field_event_type?resourceVersion=id%3A2856"
+        }
+      }
+    }
+  }
+}

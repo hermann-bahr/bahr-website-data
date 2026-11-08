@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "95188077-8ffc-4157-8335-0fafefdc90aa",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/95188077-8ffc-4157-8335-0fafefdc90aa?resourceVersion=id%3A2413"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/95188077-8ffc-4157-8335-0fafefdc90aa?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28087,
+    "drupal_internal__vid": 2413,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Der Unmensch",
+    "created": "2010-08-09T11:05:39+00:00",
+    "changed": "2011-10-19T09:50:27+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28087",
+      "pid": 247,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Auch 1919 bringt der Jahresschluss ein Stück von Bahr auf die Bühne. Das Lustspiel \"Der Unmensch\" wird am 4. Dezember 1919 am Münchner Residenztheater und am Deuschen Schauspielhaus Hamburg erstmals gegeben. \r\n\r\nAls Auseinandersetzung mit der Gegenwart der unmittelbaren Nachkriegszeit zeigt es das Scheitern eines aus dem Krieg heimkehrenden Generals, Anton Graf Rosian, mit einer Bürgerlichen eine Affaire einzugehen, während seine Schwester sich um die Gunst des Ehemanns bemüht.\r\n\r\nAls Verleger der Buchausgabe kommt E. Reiss in Berlin zum Zug, diese erschien ebenfalls 1919.",
+      "format": "full_html",
+      "processed": "Auch 1919 bringt der Jahresschluss ein Stück von Bahr auf die Bühne. Das Lustspiel \"Der Unmensch\" wird am 4. Dezember 1919 am Münchner Residenztheater und am Deuschen Schauspielhaus Hamburg erstmals gegeben. \n\nAls Auseinandersetzung mit der Gegenwart der unmittelbaren Nachkriegszeit zeigt es das Scheitern eines aus dem Krieg heimkehrenden Generals, Anton Graf Rosian, mit einer Bürgerlichen eine Affaire einzugehen, während seine Schwester sich um die Gunst des Ehemanns bemüht.\n\nAls Verleger der Buchausgabe kommt E. Reiss in Berlin zum Zug, diese erschien ebenfalls 1919.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1919-12-04",
+      "end_value": "1919-12-04"
+    },
+    "field_sources": [
+      "Hermann Bahr: Der Unmensch. Lustspiel in drei Aufzügen. Berlin: E. Reiss, 1919."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/95188077-8ffc-4157-8335-0fafefdc90aa/node_type?resourceVersion=id%3A2413"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/95188077-8ffc-4157-8335-0fafefdc90aa/relationships/node_type?resourceVersion=id%3A2413"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/95188077-8ffc-4157-8335-0fafefdc90aa/revision_uid?resourceVersion=id%3A2413"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/95188077-8ffc-4157-8335-0fafefdc90aa/relationships/revision_uid?resourceVersion=id%3A2413"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/95188077-8ffc-4157-8335-0fafefdc90aa/uid?resourceVersion=id%3A2413"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/95188077-8ffc-4157-8335-0fafefdc90aa/relationships/uid?resourceVersion=id%3A2413"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "27f3d2a4-8970-4726-9ab8-ce37707ec1bc",
+          "meta": {
+            "drupal_internal__target_id": 1
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/95188077-8ffc-4157-8335-0fafefdc90aa/field_event_type?resourceVersion=id%3A2413"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/95188077-8ffc-4157-8335-0fafefdc90aa/relationships/field_event_type?resourceVersion=id%3A2413"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "ec535420-82ef-4e8f-91e7-6722fab188b8",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/ec535420-82ef-4e8f-91e7-6722fab188b8?resourceVersion=id%3A3514"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/ec535420-82ef-4e8f-91e7-6722fab188b8?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49741,
+    "drupal_internal__vid": 3514,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Hauptmann, Strauß",
+    "created": "2011-12-20T15:53:51+00:00",
+    "changed": "2011-12-20T17:02:17+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49741",
+      "pid": 1554,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Für 26. Jänner 1916 laden Pauline und Richard Strauß Bahr zu sich zum Abendessen, woran womöglich auch Gerhart und Margarethe Hauptmann teilnehmen.",
+      "format": "full_html",
+      "processed": "Für 26. Jänner 1916 laden Pauline und Richard Strauß Bahr zu sich zum Abendessen, woran womöglich auch Gerhart und Margarethe Hauptmann teilnehmen.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1916-01-26",
+      "end_value": "1916-01-26"
+    },
+    "field_sources": [
+      "Hermann Bahr: Meister und Meisterbriefe um Hermann Bahr. Aus seinen Entwürfen, Tagebüchern und seinem Briefwechsel. Ausgewählt und eingeleitet von Joseph Gregor. Wien: Hermann Bauer 1947, 93. (Pauline Strauß an H. B., 23.1.1916)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ec535420-82ef-4e8f-91e7-6722fab188b8/node_type?resourceVersion=id%3A3514"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ec535420-82ef-4e8f-91e7-6722fab188b8/relationships/node_type?resourceVersion=id%3A3514"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ec535420-82ef-4e8f-91e7-6722fab188b8/revision_uid?resourceVersion=id%3A3514"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ec535420-82ef-4e8f-91e7-6722fab188b8/relationships/revision_uid?resourceVersion=id%3A3514"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ec535420-82ef-4e8f-91e7-6722fab188b8/uid?resourceVersion=id%3A3514"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ec535420-82ef-4e8f-91e7-6722fab188b8/relationships/uid?resourceVersion=id%3A3514"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ec535420-82ef-4e8f-91e7-6722fab188b8/field_event_type?resourceVersion=id%3A3514"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ec535420-82ef-4e8f-91e7-6722fab188b8/relationships/field_event_type?resourceVersion=id%3A3514"
+        }
+      }
+    }
+  }
+}

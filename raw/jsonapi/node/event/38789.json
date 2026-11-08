@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "61adb931-f2d6-4405-8f8f-3ff3b16bb07d",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/61adb931-f2d6-4405-8f8f-3ff3b16bb07d?resourceVersion=id%3A4240"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/61adb931-f2d6-4405-8f8f-3ff3b16bb07d?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38789,
+    "drupal_internal__vid": 4240,
+    "langcode": "de",
+    "revision_timestamp": "2022-09-07T08:26:36+00:00",
+    "status": true,
+    "title": "Das junge Österreich",
+    "created": "2011-02-01T13:47:11+00:00",
+    "changed": "2022-09-07T08:26:36+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38789",
+      "pid": 537,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<p>Am 13. März 1895 hält Bahr im \"Verein der Literaturfreunde\" einen Lese-Abend. Er spricht über das fehlende Kunstverständnis in Österreich vor fünfzehn Jahren und über sich und die anderen \"Modernen\", die das nun ändern. In der Besprechung in der Presse fallen die Namen Torresani, Andrian (aus dessen gleichzeitig erscheinendem \"Garten der Erkenntnis\" gelesen wird), Hofmannsthal und Speidel. Der Abend endete mit Hansi Niese, die Dialektdichtungen vortrug. Am nächsten Tag ärgert sich Schnitzler darüber mit Beer-Hofmann und Salten im Kaffeehaus:</p>\r\n\r\n<blockquote>Wir, d. h. Bahr, Torresani, Richard ich sind abgethan (\"demüthige, gothische Figuren\"). Richard, der vielleicht noch in die nächste Periode hineinragen wird, ich der aus sehr kleinen Anfängen zu sehr schönem vorgeschritten und dessen \"Sterben\" wohl zwanzig Jahre dauern wird – da sind nur Hugo, der aber jetzt nicht schreibt – und Andrian mit dessen \"Garten der Erkenntnis\" Europa sich in den nächsten Wochen beschäftigen wird. – Welch ein ordinärer Schwindler.–</blockquote>\r\n",
+      "format": "full_html",
+      "processed": "<p>Am 13. März 1895 hält Bahr im \"Verein der Literaturfreunde\" einen Lese-Abend. Er spricht über das fehlende Kunstverständnis in Österreich vor fünfzehn Jahren und über sich und die anderen \"Modernen\", die das nun ändern. In der Besprechung in der Presse fallen die Namen Torresani, Andrian (aus dessen gleichzeitig erscheinendem \"Garten der Erkenntnis\" gelesen wird), Hofmannsthal und Speidel. Der Abend endete mit Hansi Niese, die Dialektdichtungen vortrug. Am nächsten Tag ärgert sich Schnitzler darüber mit Beer-Hofmann und Salten im Kaffeehaus:</p>\n\n<blockquote>Wir, d. h. Bahr, Torresani, Richard ich sind abgethan (\"demüthige, gothische Figuren\"). Richard, der vielleicht noch in die nächste Periode hineinragen wird, ich der aus sehr kleinen Anfängen zu sehr schönem vorgeschritten und dessen \"Sterben\" wohl zwanzig Jahre dauern wird – da sind nur Hugo, der aber jetzt nicht schreibt – und Andrian mit dessen \"Garten der Erkenntnis\" Europa sich in den nächsten Wochen beschäftigen wird. – Welch ein ordinärer Schwindler.–</blockquote>\n",
+      "summary": ""
+    },
+    "field_event_date": {
+      "value": "1895-03-13",
+      "end_value": "1895-03-13"
+    },
+    "field_sources": [
+      "Neue Freie Presse, #10975, Morgenausgabe, 5. (14.3.1895)",
+      "Vermutlich sind das die Notizen dazu: Tagebücher (Csàky), II, 175-178.",
+      "Schnitzler: Tagebuch, II, 130."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/61adb931-f2d6-4405-8f8f-3ff3b16bb07d/node_type?resourceVersion=id%3A4240"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/61adb931-f2d6-4405-8f8f-3ff3b16bb07d/relationships/node_type?resourceVersion=id%3A4240"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/61adb931-f2d6-4405-8f8f-3ff3b16bb07d/revision_uid?resourceVersion=id%3A4240"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/61adb931-f2d6-4405-8f8f-3ff3b16bb07d/relationships/revision_uid?resourceVersion=id%3A4240"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/61adb931-f2d6-4405-8f8f-3ff3b16bb07d/uid?resourceVersion=id%3A4240"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/61adb931-f2d6-4405-8f8f-3ff3b16bb07d/relationships/uid?resourceVersion=id%3A4240"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/61adb931-f2d6-4405-8f8f-3ff3b16bb07d/field_event_type?resourceVersion=id%3A4240"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/61adb931-f2d6-4405-8f8f-3ff3b16bb07d/relationships/field_event_type?resourceVersion=id%3A4240"
+        }
+      }
+    }
+  }
+}

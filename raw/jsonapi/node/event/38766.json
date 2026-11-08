@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "357c0f02-049f-4c07-a702-c83bd375e031",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/357c0f02-049f-4c07-a702-c83bd375e031?resourceVersion=id%3A2587"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/357c0f02-049f-4c07-a702-c83bd375e031?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38766,
+    "drupal_internal__vid": 2587,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Treue Adele",
+    "created": "2011-01-27T12:11:55+00:00",
+    "changed": "2012-01-16T14:22:51+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38766",
+      "pid": 514,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 15. Dezember 1890 berichtet Bahr seinem Vater, dass er vorige Woche in Berlin die \"Treue Adele\" aus \"Fin de siècle\" vorgelesen habe. Er dürfte sich dabei auf die 2. Veranstaltung der \"Freien litterarischen Gesellschaft\" beziehen, wo er zum 2. Rezitationsabend eine selbstverfasste Novelle las. Literarisch vernachlässigbar, findet Bölsche doch, dass Autorenlesungen etwas sind, was durchaus institutionalisiert werden sollte. \r\n",
+      "format": "full_html",
+      "processed": "Am 15. Dezember 1890 berichtet Bahr seinem Vater, dass er vorige Woche in Berlin die \"Treue Adele\" aus \"Fin de siècle\" vorgelesen habe. Er dürfte sich dabei auf die 2. Veranstaltung der \"Freien litterarischen Gesellschaft\" beziehen, wo er zum 2. Rezitationsabend eine selbstverfasste Novelle las. Literarisch vernachlässigbar, findet Bölsche doch, dass Autorenlesungen etwas sind, was durchaus institutionalisiert werden sollte. \n",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1890-12-15",
+      "end_value": "1890-12-15"
+    },
+    "field_sources": [
+      "Bericht Wilhelm Bölsches in: Freie Bühne, 1 (1890), 1207."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/357c0f02-049f-4c07-a702-c83bd375e031/node_type?resourceVersion=id%3A2587"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/357c0f02-049f-4c07-a702-c83bd375e031/relationships/node_type?resourceVersion=id%3A2587"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/357c0f02-049f-4c07-a702-c83bd375e031/revision_uid?resourceVersion=id%3A2587"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/357c0f02-049f-4c07-a702-c83bd375e031/relationships/revision_uid?resourceVersion=id%3A2587"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/357c0f02-049f-4c07-a702-c83bd375e031/uid?resourceVersion=id%3A2587"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/357c0f02-049f-4c07-a702-c83bd375e031/relationships/uid?resourceVersion=id%3A2587"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/357c0f02-049f-4c07-a702-c83bd375e031/field_event_type?resourceVersion=id%3A2587"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/357c0f02-049f-4c07-a702-c83bd375e031/relationships/field_event_type?resourceVersion=id%3A2587"
+        }
+      }
+    }
+  }
+}

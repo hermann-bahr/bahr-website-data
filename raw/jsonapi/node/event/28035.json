@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "654e1881-0035-45ea-98fa-f88177b33d89",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/654e1881-0035-45ea-98fa-f88177b33d89?resourceVersion=id%3A2367"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/654e1881-0035-45ea-98fa-f88177b33d89?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28035,
+    "drupal_internal__vid": 2367,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Häusliche Frau",
+    "created": "2010-07-28T21:45:34+00:00",
+    "changed": "2011-11-18T16:17:23+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28035",
+      "pid": 201,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Vom 3. Februar bis zum 10. März 1891 verfasst Bahr sein Stück \"Die häusliche Frau\" in Linz, wie es in der Buchausgabe heißt. Er kommt aber erst nach dem 5. Februar nach Linz.",
+      "format": "full_html",
+      "processed": "Vom 3. Februar bis zum 10. März 1891 verfasst Bahr sein Stück \"Die häusliche Frau\" in Linz, wie es in der Buchausgabe heißt. Er kommt aber erst nach dem 5. Februar nach Linz.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1891-02-03",
+      "end_value": "1891-03-10"
+    },
+    "field_sources": [
+      "Hermann Bahr: Die häusliche Frau. Ein Lustspiel. Berlin: S. Fischer, 1893."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/654e1881-0035-45ea-98fa-f88177b33d89/node_type?resourceVersion=id%3A2367"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/654e1881-0035-45ea-98fa-f88177b33d89/relationships/node_type?resourceVersion=id%3A2367"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/654e1881-0035-45ea-98fa-f88177b33d89/revision_uid?resourceVersion=id%3A2367"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/654e1881-0035-45ea-98fa-f88177b33d89/relationships/revision_uid?resourceVersion=id%3A2367"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/654e1881-0035-45ea-98fa-f88177b33d89/uid?resourceVersion=id%3A2367"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/654e1881-0035-45ea-98fa-f88177b33d89/relationships/uid?resourceVersion=id%3A2367"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/654e1881-0035-45ea-98fa-f88177b33d89/field_event_type?resourceVersion=id%3A2367"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/654e1881-0035-45ea-98fa-f88177b33d89/relationships/field_event_type?resourceVersion=id%3A2367"
+        }
+      }
+    }
+  }
+}

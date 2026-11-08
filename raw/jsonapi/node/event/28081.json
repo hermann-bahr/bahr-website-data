@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "24d550f6-0c02-47ad-881b-0d907986814c",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/24d550f6-0c02-47ad-881b-0d907986814c?resourceVersion=id%3A2408"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/24d550f6-0c02-47ad-881b-0d907986814c?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28081,
+    "drupal_internal__vid": 2408,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Das Phantom",
+    "created": "2010-08-09T09:50:33+00:00",
+    "changed": "2012-11-12T14:22:01+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28081",
+      "pid": 242,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 4. Dezember 1913 findet die Erstaufführung von \"Das Phantom\" am Darmstädter Hoftheater und am Stuttgarter Schauspielhaus statt. Für die Buchausgabe bei S. Fischer im selben Jahr erstellte Koloman Moser Dekorationsskizzen.\r\n\r\nDie Anwesenheit Bahrs bei der Première in Darmstadt wird vom Berliner Tageblatt[1] angekündigt, laut Kurt Ifkovits kehrt Bahr gerade an jenem Tag nach Salzburg zurück.[2]\r\n\r\nInhalt: Der Brauer Schmorr versucht seine Frau zu kurieren, die sich in einen Theosophen verliebt hat. Dazu bittet er das Objekt ihrer Begierde, dieser seine Liebe zu erklären.",
+      "format": "full_html",
+      "processed": "Am 4. Dezember 1913 findet die Erstaufführung von \"Das Phantom\" am Darmstädter Hoftheater und am Stuttgarter Schauspielhaus statt. Für die Buchausgabe bei S. Fischer im selben Jahr erstellte Koloman Moser Dekorationsskizzen.\n\nDie Anwesenheit Bahrs bei der Première in Darmstadt wird vom Berliner Tageblatt[1] angekündigt, laut Kurt Ifkovits kehrt Bahr gerade an jenem Tag nach Salzburg zurück.[2]\n\nInhalt: Der Brauer Schmorr versucht seine Frau zu kurieren, die sich in einen Theosophen verliebt hat. Dazu bittet er das Objekt ihrer Begierde, dieser seine Liebe zu erklären.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1913-12-04",
+      "end_value": "1913-12-04"
+    },
+    "field_sources": [
+      "Hermann Bahr: Das Phantom. Komödie in drei Akten. Mit Dekorationsskizzen von Koloman Moser. Berlin: S. Fischer, 1913.",
+      "[1] Berliner Tageblatt, 42 (1913) #596, Morgen-Ausgabe für Berlin und Umgebung, 2. (24.11.1913)",
+      "[2] Bahr/Kvapil, Anm. zu Brief #95, S. 356."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/24d550f6-0c02-47ad-881b-0d907986814c/node_type?resourceVersion=id%3A2408"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/24d550f6-0c02-47ad-881b-0d907986814c/relationships/node_type?resourceVersion=id%3A2408"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/24d550f6-0c02-47ad-881b-0d907986814c/revision_uid?resourceVersion=id%3A2408"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/24d550f6-0c02-47ad-881b-0d907986814c/relationships/revision_uid?resourceVersion=id%3A2408"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/24d550f6-0c02-47ad-881b-0d907986814c/uid?resourceVersion=id%3A2408"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/24d550f6-0c02-47ad-881b-0d907986814c/relationships/uid?resourceVersion=id%3A2408"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "27f3d2a4-8970-4726-9ab8-ce37707ec1bc",
+          "meta": {
+            "drupal_internal__target_id": 1
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/24d550f6-0c02-47ad-881b-0d907986814c/field_event_type?resourceVersion=id%3A2408"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/24d550f6-0c02-47ad-881b-0d907986814c/relationships/field_event_type?resourceVersion=id%3A2408"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "type": "node--event",
+  "id": "960267fc-44b2-41bd-9c6f-12799ef5877d",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/960267fc-44b2-41bd-9c6f-12799ef5877d?resourceVersion=id%3A3012"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/960267fc-44b2-41bd-9c6f-12799ef5877d?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44095,
+    "drupal_internal__vid": 3012,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Arno Holz",
+    "created": "2011-09-08T13:37:13+00:00",
+    "changed": "2013-01-31T21:30:01+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44095",
+      "pid": 990,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahr schildert 1903, wie er 1886 mit Wolfgang Heine im Café Bauer in Berlin auf Arno Holz traf und sie Nächte miteinander vrebrachten. Holz war zwar im selben Jahr wie Bahr geboren, hatte aber bereits sein erstes Buch publiziert und wurde mit der Sicherheit, die er ausstrahlte, zu einem Orientierungspunkt für Bahr. Rückblickend sieht Bahr Holz' Leistung darin, der Unsicherheit seiner Generation eine Richtung gegeben zu haben. Denn während sich Bahr noch in der Gewissheit wähnte, dass die Welt der Väter nicht die ihre war, machte er an Holz die Zuversicht gelten, dass die neue Generation eine neue Welt errichten würde.\r\nBesonders erinnert er sich auch an eine Winterwanderung mit Heine zum Häuschen, das Holz mit Schlaf über bewohnte.\r\nEin wichtiger Schritt der Zusammenarbeit mit Bahr ist dann noch in der \"Freien Bühne\" zu sehen, zu der Holz Bahr eingeladen hat.",
+      "format": "full_html",
+      "processed": "Bahr schildert 1903, wie er 1886 mit Wolfgang Heine im Café Bauer in Berlin auf Arno Holz traf und sie Nächte miteinander vrebrachten. Holz war zwar im selben Jahr wie Bahr geboren, hatte aber bereits sein erstes Buch publiziert und wurde mit der Sicherheit, die er ausstrahlte, zu einem Orientierungspunkt für Bahr. Rückblickend sieht Bahr Holz' Leistung darin, der Unsicherheit seiner Generation eine Richtung gegeben zu haben. Denn während sich Bahr noch in der Gewissheit wähnte, dass die Welt der Väter nicht die ihre war, machte er an Holz die Zuversicht gelten, dass die neue Generation eine neue Welt errichten würde.\nBesonders erinnert er sich auch an eine Winterwanderung mit Heine zum Häuschen, das Holz mit Schlaf über bewohnte.\nEin wichtiger Schritt der Zusammenarbeit mit Bahr ist dann noch in der \"Freien Bühne\" zu sehen, zu der Holz Bahr eingeladen hat.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1886-01-01",
+      "end_value": "1886-01-01"
+    },
+    "field_sources": [
+      "Hermann Bahr: Vor Sonnenaufgang. (Soziales Drama von Gerhart Hauptmann. Zur heutigen Aufführung durch den Akademischen Verein für Kunst und Literatur im Deutschen Volkstheater). Neues Wiener Tagblatt, 37 (1903) #113, 1-3. (25.4.1903) Buchausgabe: Glossen, 140-149. [Die Datierung mit 1885 ist durch die Ausgabe von Holz' Buch der Zeit zu verwerfen]",
+      "Hermann Bahr: Arno Holz. (Zum fünfzigsten Geburtstage). Neue Freie Presse, (1913) #17483, Morgenblatt, 1-3. (26.4.1913) Buchausgabe: Bilderbuch, 78-87",
+      "Hermann Bahr: [o. T.]. In: Ferdinand Avenarius, Max Liebermann und Max von Schillings, Hgg.: Arno Holz und sein Werk. Deutsche Stimmen zu seinem 60. Geburtstage. Berlin: Werk-Verlag 1923, 49-50.",
+      "Selbstbildnis, 194-197. [Auch hier Holz' Buch auf 1885 datiert]",
+      "Liebe der Lebenden, I, 221-223."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/960267fc-44b2-41bd-9c6f-12799ef5877d/node_type?resourceVersion=id%3A3012"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/960267fc-44b2-41bd-9c6f-12799ef5877d/relationships/node_type?resourceVersion=id%3A3012"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/960267fc-44b2-41bd-9c6f-12799ef5877d/revision_uid?resourceVersion=id%3A3012"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/960267fc-44b2-41bd-9c6f-12799ef5877d/relationships/revision_uid?resourceVersion=id%3A3012"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/960267fc-44b2-41bd-9c6f-12799ef5877d/uid?resourceVersion=id%3A3012"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/960267fc-44b2-41bd-9c6f-12799ef5877d/relationships/uid?resourceVersion=id%3A3012"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/960267fc-44b2-41bd-9c6f-12799ef5877d/field_event_type?resourceVersion=id%3A3012"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/960267fc-44b2-41bd-9c6f-12799ef5877d/relationships/field_event_type?resourceVersion=id%3A3012"
+        }
+      }
+    }
+  }
+}

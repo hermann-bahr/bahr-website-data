@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "657128bb-a484-49a5-bbab-1215177036b9",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/657128bb-a484-49a5-bbab-1215177036b9?resourceVersion=id%3A2765"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/657128bb-a484-49a5-bbab-1215177036b9?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38982,
+    "drupal_internal__vid": 2765,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Schweiz",
+    "created": "2011-03-17T11:09:24+00:00",
+    "changed": "2011-09-05T10:10:17+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38982",
+      "pid": 719,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "20. Juli - 11. August 1902: Zuerst ist Bahr in Bern und Interlaken auf dem Journalistencongress. Dann, am 26., beginnt er mit seinem Urlaub: Er radelt von Thusis nach Pontresina.",
+      "format": "full_html",
+      "processed": "20. Juli - 11. August 1902: Zuerst ist Bahr in Bern und Interlaken auf dem Journalistencongress. Dann, am 26., beginnt er mit seinem Urlaub: Er radelt von Thusis nach Pontresina.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1902-07-20",
+      "end_value": "1902-08-11"
+    },
+    "field_sources": [
+      "Tagebücher (Csàky), III, 171 und  214-216.",
+      "Hermann Bahr: Im Engadin. (Vom achten Congreß der Presse). [I]. Neues Wiener Tagblatt, 36 (1902) #214, 1-2. (5.8.1902) ",
+      "Hermann Bahr: Im Engadin. II. Neues Wiener Tagblatt, 36 (1902) #221, 1-3. (12.8.1902) "
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/657128bb-a484-49a5-bbab-1215177036b9/node_type?resourceVersion=id%3A2765"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/657128bb-a484-49a5-bbab-1215177036b9/relationships/node_type?resourceVersion=id%3A2765"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/657128bb-a484-49a5-bbab-1215177036b9/revision_uid?resourceVersion=id%3A2765"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/657128bb-a484-49a5-bbab-1215177036b9/relationships/revision_uid?resourceVersion=id%3A2765"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/657128bb-a484-49a5-bbab-1215177036b9/uid?resourceVersion=id%3A2765"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/657128bb-a484-49a5-bbab-1215177036b9/relationships/uid?resourceVersion=id%3A2765"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/657128bb-a484-49a5-bbab-1215177036b9/field_event_type?resourceVersion=id%3A2765"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/657128bb-a484-49a5-bbab-1215177036b9/relationships/field_event_type?resourceVersion=id%3A2765"
+        }
+      }
+    }
+  }
+}

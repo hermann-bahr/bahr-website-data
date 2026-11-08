@@ -1,0 +1,118 @@
+{
+  "type": "media--image",
+  "id": "1297e3d6-1cf1-4df2-b3ae-365239c908ad",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/media/image/1297e3d6-1cf1-4df2-b3ae-365239c908ad?resourceVersion=id%3A152"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/media/image/1297e3d6-1cf1-4df2-b3ae-365239c908ad?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__mid": 152,
+    "drupal_internal__vid": 152,
+    "langcode": "de",
+    "revision_created": "2020-02-18T15:16:19+00:00",
+    "status": true,
+    "name": "1906_rosa-jokl",
+    "created": "2020-02-18T15:16:19+00:00",
+    "changed": "2020-02-18T15:16:19+00:00",
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": null,
+      "pid": null,
+      "langcode": "de"
+    }
+  },
+  "relationships": {
+    "bundle": {
+      "data": {
+        "type": "media_type--media_type",
+        "id": "b82aabb6-e7a1-420d-b98b-5b981c2d920e",
+        "meta": {
+          "drupal_internal__target_id": "image"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/1297e3d6-1cf1-4df2-b3ae-365239c908ad/bundle?resourceVersion=id%3A152"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/1297e3d6-1cf1-4df2-b3ae-365239c908ad/relationships/bundle?resourceVersion=id%3A152"
+        }
+      }
+    },
+    "revision_user": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/1297e3d6-1cf1-4df2-b3ae-365239c908ad/revision_user?resourceVersion=id%3A152"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/1297e3d6-1cf1-4df2-b3ae-365239c908ad/relationships/revision_user?resourceVersion=id%3A152"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/1297e3d6-1cf1-4df2-b3ae-365239c908ad/uid?resourceVersion=id%3A152"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/1297e3d6-1cf1-4df2-b3ae-365239c908ad/relationships/uid?resourceVersion=id%3A152"
+        }
+      }
+    },
+    "thumbnail": {
+      "data": {
+        "type": "file--file",
+        "id": "1c74b34e-d60e-4dee-b584-3a8d366490e4",
+        "meta": {
+          "alt": "1906 Mit Rosa Jokl / Rosa Bahr",
+          "title": null,
+          "width": 443,
+          "height": 571,
+          "drupal_internal__target_id": 213
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/1297e3d6-1cf1-4df2-b3ae-365239c908ad/thumbnail?resourceVersion=id%3A152"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/1297e3d6-1cf1-4df2-b3ae-365239c908ad/relationships/thumbnail?resourceVersion=id%3A152"
+        }
+      }
+    },
+    "field_media_image": {
+      "data": {
+        "type": "file--file",
+        "id": "1c74b34e-d60e-4dee-b584-3a8d366490e4",
+        "meta": {
+          "alt": "1906 Mit Rosa Jokl / Rosa Bahr",
+          "title": "1906_rosa-jokl",
+          "width": 443,
+          "height": 571,
+          "drupal_internal__target_id": 213
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/1297e3d6-1cf1-4df2-b3ae-365239c908ad/field_media_image?resourceVersion=id%3A152"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/1297e3d6-1cf1-4df2-b3ae-365239c908ad/relationships/field_media_image?resourceVersion=id%3A152"
+        }
+      }
+    }
+  }
+}

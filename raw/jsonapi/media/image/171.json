@@ -1,0 +1,118 @@
+{
+  "type": "media--image",
+  "id": "516607b2-906b-47eb-94bd-ce730e69b007",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/media/image/516607b2-906b-47eb-94bd-ce730e69b007?resourceVersion=id%3A171"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/media/image/516607b2-906b-47eb-94bd-ce730e69b007?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__mid": 171,
+    "drupal_internal__vid": 171,
+    "langcode": "de",
+    "revision_created": "2020-02-18T15:16:19+00:00",
+    "status": true,
+    "name": "1906_refom",
+    "created": "2020-02-18T15:16:19+00:00",
+    "changed": "2020-02-18T15:16:19+00:00",
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": null,
+      "pid": null,
+      "langcode": "de"
+    }
+  },
+  "relationships": {
+    "bundle": {
+      "data": {
+        "type": "media_type--media_type",
+        "id": "b82aabb6-e7a1-420d-b98b-5b981c2d920e",
+        "meta": {
+          "drupal_internal__target_id": "image"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/516607b2-906b-47eb-94bd-ce730e69b007/bundle?resourceVersion=id%3A171"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/516607b2-906b-47eb-94bd-ce730e69b007/relationships/bundle?resourceVersion=id%3A171"
+        }
+      }
+    },
+    "revision_user": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/516607b2-906b-47eb-94bd-ce730e69b007/revision_user?resourceVersion=id%3A171"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/516607b2-906b-47eb-94bd-ce730e69b007/relationships/revision_user?resourceVersion=id%3A171"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/516607b2-906b-47eb-94bd-ce730e69b007/uid?resourceVersion=id%3A171"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/516607b2-906b-47eb-94bd-ce730e69b007/relationships/uid?resourceVersion=id%3A171"
+        }
+      }
+    },
+    "thumbnail": {
+      "data": {
+        "type": "file--file",
+        "id": "a02214ff-d276-4f67-9d97-5fc2b81f1f31",
+        "meta": {
+          "alt": "1906 Reformkleid",
+          "title": null,
+          "width": 1887,
+          "height": 3062,
+          "drupal_internal__target_id": 232
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/516607b2-906b-47eb-94bd-ce730e69b007/thumbnail?resourceVersion=id%3A171"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/516607b2-906b-47eb-94bd-ce730e69b007/relationships/thumbnail?resourceVersion=id%3A171"
+        }
+      }
+    },
+    "field_media_image": {
+      "data": {
+        "type": "file--file",
+        "id": "a02214ff-d276-4f67-9d97-5fc2b81f1f31",
+        "meta": {
+          "alt": "1906 Reformkleid",
+          "title": "1906_refom",
+          "width": 1887,
+          "height": 3062,
+          "drupal_internal__target_id": 232
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/516607b2-906b-47eb-94bd-ce730e69b007/field_media_image?resourceVersion=id%3A171"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/516607b2-906b-47eb-94bd-ce730e69b007/relationships/field_media_image?resourceVersion=id%3A171"
+        }
+      }
+    }
+  }
+}

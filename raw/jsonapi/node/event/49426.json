@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "bcebdb4d-1717-4409-8574-36945ca8ecf3",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/bcebdb4d-1717-4409-8574-36945ca8ecf3?resourceVersion=id%3A3269"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/bcebdb4d-1717-4409-8574-36945ca8ecf3?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49426,
+    "drupal_internal__vid": 3269,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Andrian",
+    "created": "2011-10-19T11:56:09+00:00",
+    "changed": "2011-10-19T11:56:09+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49426",
+      "pid": 1250,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 16. Dezember 1930 bedankt sich Leopold von Andrian bei Bahr für die Erwähnung seines neuen Buches im \"Tagebuch\"- es ist der Beginn einer Annäherung der beiden, deren Kontakt nach dem Burgtheater-Intermezzo abgebrochen war. In der Folge schreibt Bahr zwei Briefe, aber ob es noch einmal zu einer Begegnung kam, muss offen bleiben. ",
+      "format": "full_html",
+      "processed": "Am 16. Dezember 1930 bedankt sich Leopold von Andrian bei Bahr für die Erwähnung seines neuen Buches im \"Tagebuch\"- es ist der Beginn einer Annäherung der beiden, deren Kontakt nach dem Burgtheater-Intermezzo abgebrochen war. In der Folge schreibt Bahr zwei Briefe, aber ob es noch einmal zu einer Begegnung kam, muss offen bleiben. ",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1930-12-16",
+      "end_value": "1930-12-16"
+    },
+    "field_sources": [
+      "Hermann Bahr: Tagebuch. Neues Wiener Journal, 14.12.1930, 16.",
+      "Ursula Prutsch, Klaus Zeyringer (Hg.): Leopold von Andrian (1875-1951). Korrespondenzen, Notizen, Essays, Berichte. Wien, Köln, Weimar: Böhlau 2003, 568-"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bcebdb4d-1717-4409-8574-36945ca8ecf3/node_type?resourceVersion=id%3A3269"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bcebdb4d-1717-4409-8574-36945ca8ecf3/relationships/node_type?resourceVersion=id%3A3269"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bcebdb4d-1717-4409-8574-36945ca8ecf3/revision_uid?resourceVersion=id%3A3269"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bcebdb4d-1717-4409-8574-36945ca8ecf3/relationships/revision_uid?resourceVersion=id%3A3269"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bcebdb4d-1717-4409-8574-36945ca8ecf3/uid?resourceVersion=id%3A3269"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bcebdb4d-1717-4409-8574-36945ca8ecf3/relationships/uid?resourceVersion=id%3A3269"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bcebdb4d-1717-4409-8574-36945ca8ecf3/field_event_type?resourceVersion=id%3A3269"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bcebdb4d-1717-4409-8574-36945ca8ecf3/relationships/field_event_type?resourceVersion=id%3A3269"
+        }
+      }
+    }
+  }
+}

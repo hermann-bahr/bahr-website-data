@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "d5b7ccca-d18f-4c6e-a7d9-a1dc9df9d1f0",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/d5b7ccca-d18f-4c6e-a7d9-a1dc9df9d1f0?resourceVersion=id%3A3620"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/d5b7ccca-d18f-4c6e-a7d9-a1dc9df9d1f0?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 64230,
+    "drupal_internal__vid": 3620,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "AS",
+    "created": "2012-05-23T10:35:45+00:00",
+    "changed": "2012-05-23T10:35:45+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/64230",
+      "pid": 1663,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 4. November 1901 ist Bahr nachmittags bei Schnitzler, der notiert sich in sein Tagebuch:<blockquote>warme Sympathie</blockquote>",
+      "format": "full_html",
+      "processed": "Am 4. November 1901 ist Bahr nachmittags bei Schnitzler, der notiert sich in sein Tagebuch:<blockquote>warme Sympathie</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1901-11-04",
+      "end_value": "1901-11-04"
+    },
+    "field_sources": [
+      "Schnitzler: Tagebücher, II, 359."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d5b7ccca-d18f-4c6e-a7d9-a1dc9df9d1f0/node_type?resourceVersion=id%3A3620"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d5b7ccca-d18f-4c6e-a7d9-a1dc9df9d1f0/relationships/node_type?resourceVersion=id%3A3620"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d5b7ccca-d18f-4c6e-a7d9-a1dc9df9d1f0/revision_uid?resourceVersion=id%3A3620"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d5b7ccca-d18f-4c6e-a7d9-a1dc9df9d1f0/relationships/revision_uid?resourceVersion=id%3A3620"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d5b7ccca-d18f-4c6e-a7d9-a1dc9df9d1f0/uid?resourceVersion=id%3A3620"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d5b7ccca-d18f-4c6e-a7d9-a1dc9df9d1f0/relationships/uid?resourceVersion=id%3A3620"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d5b7ccca-d18f-4c6e-a7d9-a1dc9df9d1f0/field_event_type?resourceVersion=id%3A3620"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d5b7ccca-d18f-4c6e-a7d9-a1dc9df9d1f0/relationships/field_event_type?resourceVersion=id%3A3620"
+        }
+      }
+    }
+  }
+}

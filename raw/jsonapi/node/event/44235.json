@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "25af7e3b-62cb-456a-9614-3160ca2e6a46",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/25af7e3b-62cb-456a-9614-3160ca2e6a46?resourceVersion=id%3A3149"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/25af7e3b-62cb-456a-9614-3160ca2e6a46?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44235,
+    "drupal_internal__vid": 3149,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Skifahren in Berchtesgaden",
+    "created": "2011-10-03T09:45:36+00:00",
+    "changed": "2011-12-28T14:45:10+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44235",
+      "pid": 1128,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 12. Jänner 1920 schreibt Bahr aus dem Hotel Vier Jahreszeiten in Berchtesgaden:<blockquote>Ich suche meine durch Überarbeit recht rebellisch gewordenen Nerven hier im Schnee durch Skisport etwas wieder in Ordnung zu bringen. Der Anblick Europas, die Ungewißheit aller Zukunft, die Zerreißung der Menschen quälen mich.</blockquote>Der Aufenthalt, für zwei Wochen geplant, begann unmittelbar zum Jahresbeginn und dauerte bis zum 20.",
+      "format": "full_html",
+      "processed": "Am 12. Jänner 1920 schreibt Bahr aus dem Hotel Vier Jahreszeiten in Berchtesgaden:<blockquote>Ich suche meine durch Überarbeit recht rebellisch gewordenen Nerven hier im Schnee durch Skisport etwas wieder in Ordnung zu bringen. Der Anblick Europas, die Ungewißheit aller Zukunft, die Zerreißung der Menschen quälen mich.</blockquote>Der Aufenthalt, für zwei Wochen geplant, begann unmittelbar zum Jahresbeginn und dauerte bis zum 20.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1920-01-01",
+      "end_value": "1920-01-20"
+    },
+    "field_sources": [
+      "Bahr/Kvapil, 237.",
+      "Bahr/Redlich, 388-392.",
+      "\"Tagebuch\", 20. Januar. In: Kritik der Gegenwart, 41-45"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/25af7e3b-62cb-456a-9614-3160ca2e6a46/node_type?resourceVersion=id%3A3149"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/25af7e3b-62cb-456a-9614-3160ca2e6a46/relationships/node_type?resourceVersion=id%3A3149"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/25af7e3b-62cb-456a-9614-3160ca2e6a46/revision_uid?resourceVersion=id%3A3149"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/25af7e3b-62cb-456a-9614-3160ca2e6a46/relationships/revision_uid?resourceVersion=id%3A3149"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/25af7e3b-62cb-456a-9614-3160ca2e6a46/uid?resourceVersion=id%3A3149"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/25af7e3b-62cb-456a-9614-3160ca2e6a46/relationships/uid?resourceVersion=id%3A3149"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/25af7e3b-62cb-456a-9614-3160ca2e6a46/field_event_type?resourceVersion=id%3A3149"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/25af7e3b-62cb-456a-9614-3160ca2e6a46/relationships/field_event_type?resourceVersion=id%3A3149"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "type": "node--event",
+  "id": "ab053f9a-74e5-486e-8a2b-e8ebd09d5cc7",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/ab053f9a-74e5-486e-8a2b-e8ebd09d5cc7?resourceVersion=id%3A2824"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/ab053f9a-74e5-486e-8a2b-e8ebd09d5cc7?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39049,
+    "drupal_internal__vid": 2824,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Maurice Barrès",
+    "created": "2011-05-03T08:41:43+00:00",
+    "changed": "2012-01-30T14:24:30+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39049",
+      "pid": 781,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "1889, in Paris, lernt Bahr Maurice Barrès kennen und durch ihn \"Frankreich mit französischen Augen sehen\" (Geschichte der Gegenwart). Bahr kommt oft auf Barrès zu sprechen und widmet ihm seine \"Studien zur Kritik der Moderne\".",
+      "format": "full_html",
+      "processed": "1889, in Paris, lernt Bahr Maurice Barrès kennen und durch ihn \"Frankreich mit französischen Augen sehen\" (Geschichte der Gegenwart). Bahr kommt oft auf Barrès zu sprechen und widmet ihm seine \"Studien zur Kritik der Moderne\".",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1889-01-01",
+      "end_value": "1889-01-01"
+    },
+    "field_sources": [
+      "Hermann Bahr: Neue französische Romane. Das Magazin für die Litteratur des In- und Auslandes, 60 (1891) #30, 474-475. (24.7.1891)",
+      "Hermann Bahr: Maurice Barrés. Deutsche Zeitung, Wien, 22 (1892) #7512, Morgen-Ausgabe, 1-2. (26.11.1892) Buchausgabe: Studien zur Kritik der Moderne, 162-167.",
+      "Hermann Bahr: Panama. 2. Bei Maurice Barrés. Deutsche Zeitung, Wien, 23 (1893) #7552, Morgen-Ausgabe, 1-2. (6.1.1893) Buchausgabe: Studien zur Kritik der Moderne, 167-173.",
+      "Hermann Bahr: Maurice Barrès. III. (Februar 1894). In: Studien zur Kritik der Moderne, 173-177.",
+      "Hermann Bahr: Geschichte der Gegenwart. Neue Freie Presse, (1928) #22590, Morgenblatt, 25. (7.8.1927, Morgenblatt) Buchausgabe: Labyrinth der Gegenwart, 129-131.",
+      "Lukas Mayerhofer, Kurt Ifkovits [Hgg.]: Ausgewählte Briefe an Hermann Bahr. In: Hermann Bahr: Mittler der europäischen Moderne. Publikation zur Ausstellung in der „Galerie im Stifter-Haus“, 25. August bis 25. September. Linz: Landesverlag 1998, 107-140.",
+      " Liebe der Lebenden, III, 312-314. (7. Dezember [1923])",
+      "(Hier 1.1.1889 datiert)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ab053f9a-74e5-486e-8a2b-e8ebd09d5cc7/node_type?resourceVersion=id%3A2824"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ab053f9a-74e5-486e-8a2b-e8ebd09d5cc7/relationships/node_type?resourceVersion=id%3A2824"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ab053f9a-74e5-486e-8a2b-e8ebd09d5cc7/revision_uid?resourceVersion=id%3A2824"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ab053f9a-74e5-486e-8a2b-e8ebd09d5cc7/relationships/revision_uid?resourceVersion=id%3A2824"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ab053f9a-74e5-486e-8a2b-e8ebd09d5cc7/uid?resourceVersion=id%3A2824"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ab053f9a-74e5-486e-8a2b-e8ebd09d5cc7/relationships/uid?resourceVersion=id%3A2824"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ab053f9a-74e5-486e-8a2b-e8ebd09d5cc7/field_event_type?resourceVersion=id%3A2824"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ab053f9a-74e5-486e-8a2b-e8ebd09d5cc7/relationships/field_event_type?resourceVersion=id%3A2824"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "type": "node--event",
+  "id": "7e3b2e00-c2ee-43bf-acea-169cb76b23da",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/7e3b2e00-c2ee-43bf-acea-169cb76b23da?resourceVersion=id%3A2717"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/7e3b2e00-c2ee-43bf-acea-169cb76b23da?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38931,
+    "drupal_internal__vid": 2717,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "1. Theaterbesuch",
+    "created": "2011-03-15T13:45:08+00:00",
+    "changed": "2012-01-02T14:56:07+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38931",
+      "pid": 671,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "In einer Umfrage erinnert sich Bahr 1899 an seinen ersten Theaterbesuch:<blockquote>Ich war kaum sechs Jahre alt, als ich zum erstenmale ein Theater sah. Wir – Mama und ich – weilten damals zum Curgebrauche in der Kaltwasserheilanstalt zu Kreutzen in Oberösterreich. Dreimal die Woche pflegte aus dem benachbarten Grein eine kleine Truppe zu kommen, die Einacter, Singspiele e[t]c. recht und schlecht gab.</blockquote>Im Selbstbildnis erzählt er ausführlicher von dem Aufenthalt, aber ohne eine genauere Einordnung zu ermöglichen. Im \"Tagebuch\" vom 12. Juni [1920] ist es \"gerade 50 Jahre her\".[1]",
+      "format": "full_html",
+      "processed": "In einer Umfrage erinnert sich Bahr 1899 an seinen ersten Theaterbesuch:<blockquote>Ich war kaum sechs Jahre alt, als ich zum erstenmale ein Theater sah. Wir – Mama und ich – weilten damals zum Curgebrauche in der Kaltwasserheilanstalt zu Kreutzen in Oberösterreich. Dreimal die Woche pflegte aus dem benachbarten Grein eine kleine Truppe zu kommen, die Einacter, Singspiele e[t]c. recht und schlecht gab.</blockquote>Im Selbstbildnis erzählt er ausführlicher von dem Aufenthalt, aber ohne eine genauere Einordnung zu ermöglichen. Im \"Tagebuch\" vom 12. Juni [1920] ist es \"gerade 50 Jahre her\".[1]",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1869-06-01",
+      "end_value": "1869-06-01"
+    },
+    "field_sources": [
+      "Hermann Bahr: Aus der Werkstätte des Dramatikers. Bekenntnisse und Selbstbetrachtungen. Neues Wiener Journal, 7 (1899) #1955, 3-5, hier: 3-4. (2.4.1899)",
+      "Tagebuch. 12. Juni. In: Kritik der Gegenwart, 154-160",
+      "Selbstbildnis, 6. Kapitel",
+      "(Hier nach dem \"Tagebuch\" auf 1.6.1870 datiert)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7e3b2e00-c2ee-43bf-acea-169cb76b23da/node_type?resourceVersion=id%3A2717"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7e3b2e00-c2ee-43bf-acea-169cb76b23da/relationships/node_type?resourceVersion=id%3A2717"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7e3b2e00-c2ee-43bf-acea-169cb76b23da/revision_uid?resourceVersion=id%3A2717"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7e3b2e00-c2ee-43bf-acea-169cb76b23da/relationships/revision_uid?resourceVersion=id%3A2717"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7e3b2e00-c2ee-43bf-acea-169cb76b23da/uid?resourceVersion=id%3A2717"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7e3b2e00-c2ee-43bf-acea-169cb76b23da/relationships/uid?resourceVersion=id%3A2717"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7e3b2e00-c2ee-43bf-acea-169cb76b23da/field_event_type?resourceVersion=id%3A2717"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7e3b2e00-c2ee-43bf-acea-169cb76b23da/relationships/field_event_type?resourceVersion=id%3A2717"
+        }
+      }
+    }
+  }
+}

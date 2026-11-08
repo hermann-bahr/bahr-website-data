@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "81f46716-6535-45ae-afe9-deceb599f546",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/81f46716-6535-45ae-afe9-deceb599f546?resourceVersion=id%3A3193"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/81f46716-6535-45ae-afe9-deceb599f546?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49346,
+    "drupal_internal__vid": 3193,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "JR",
+    "created": "2011-10-11T10:41:04+00:00",
+    "changed": "2011-10-24T14:19:57+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49346",
+      "pid": 1172,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 7. und 8. April 1915 besucht Josef Redlich Bahr in Salzburg:<blockquote> den ich wohlauf fand in veränderter Barttracht, fast ganz weiß im Haupthaar</blockquote>",
+      "format": "full_html",
+      "processed": "Am 7. und 8. April 1915 besucht Josef Redlich Bahr in Salzburg:<blockquote> den ich wohlauf fand in veränderter Barttracht, fast ganz weiß im Haupthaar</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1915-04-06",
+      "end_value": "1915-04-06"
+    },
+    "field_sources": [
+      "Fritz Fellner und Doris A. Corradini (Hgg.): Schicksalsjahre Österreichs. Die Erinnerungen und Tagebücher Josef Redlichs 1869–1936. Wien: Böhlau 2011, II, 35.",
+      "Bahr/Redlich, 109."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/81f46716-6535-45ae-afe9-deceb599f546/node_type?resourceVersion=id%3A3193"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/81f46716-6535-45ae-afe9-deceb599f546/relationships/node_type?resourceVersion=id%3A3193"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/81f46716-6535-45ae-afe9-deceb599f546/revision_uid?resourceVersion=id%3A3193"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/81f46716-6535-45ae-afe9-deceb599f546/relationships/revision_uid?resourceVersion=id%3A3193"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/81f46716-6535-45ae-afe9-deceb599f546/uid?resourceVersion=id%3A3193"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/81f46716-6535-45ae-afe9-deceb599f546/relationships/uid?resourceVersion=id%3A3193"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/81f46716-6535-45ae-afe9-deceb599f546/field_event_type?resourceVersion=id%3A3193"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/81f46716-6535-45ae-afe9-deceb599f546/relationships/field_event_type?resourceVersion=id%3A3193"
+        }
+      }
+    }
+  }
+}

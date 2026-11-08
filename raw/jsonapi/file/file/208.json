@@ -1,0 +1,36 @@
+{
+  "type": "file--file",
+  "id": "eb129a70-5cb1-4798-bf7a-73cc9fe8a490",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/file/file/eb129a70-5cb1-4798-bf7a-73cc9fe8a490"
+    }
+  },
+  "attributes": {
+    "drupal_internal__fid": 208,
+    "langcode": "de",
+    "filename": "1923_garten.jpg",
+    "uri": {
+      "value": "public://bahr_bilder/1923_garten.jpg",
+      "url": "/sites/default/files/bahr_bilder/1923_garten.jpg"
+    },
+    "filemime": "image/jpeg",
+    "filesize": 22296,
+    "status": true,
+    "created": "2020-02-18T15:00:35+00:00",
+    "changed": "2020-02-18T15:11:43+00:00"
+  },
+  "relationships": {
+    "uid": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/file/file/eb129a70-5cb1-4798-bf7a-73cc9fe8a490/uid"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/file/file/eb129a70-5cb1-4798-bf7a-73cc9fe8a490/relationships/uid"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "b0055964-553b-4e1a-a0ab-7c0565e1d972",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b0055964-553b-4e1a-a0ab-7c0565e1d972?resourceVersion=id%3A3747"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b0055964-553b-4e1a-a0ab-7c0565e1d972?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74419,
+    "drupal_internal__vid": 3747,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Hamburg",
+    "created": "2012-10-30T14:36:14+00:00",
+    "changed": "2012-10-30T14:36:14+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/74419",
+      "pid": 1793,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Nach Münster und unmittelbar vor dem Aufenthalt in Berlin, also im Zeitraum von 19. und 21. Jänner 1916 spricht Bahr in Hamburg.",
+      "format": "full_html",
+      "processed": "Nach Münster und unmittelbar vor dem Aufenthalt in Berlin, also im Zeitraum von 19. und 21. Jänner 1916 spricht Bahr in Hamburg.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1916-01-21",
+      "end_value": "1916-01-21"
+    },
+    "field_sources": [
+      "An Gerty, 19.12.1915. Briefwechsel Bahr/Hofmannsthal. Hg. Elsbeth Dangel-Pelloquin. Göttingen: Wallstein. (In Vorbereitung)",
+      "(Hier auf 21.1.1916 datiert)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b0055964-553b-4e1a-a0ab-7c0565e1d972/node_type?resourceVersion=id%3A3747"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b0055964-553b-4e1a-a0ab-7c0565e1d972/relationships/node_type?resourceVersion=id%3A3747"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b0055964-553b-4e1a-a0ab-7c0565e1d972/revision_uid?resourceVersion=id%3A3747"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b0055964-553b-4e1a-a0ab-7c0565e1d972/relationships/revision_uid?resourceVersion=id%3A3747"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b0055964-553b-4e1a-a0ab-7c0565e1d972/uid?resourceVersion=id%3A3747"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b0055964-553b-4e1a-a0ab-7c0565e1d972/relationships/uid?resourceVersion=id%3A3747"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b0055964-553b-4e1a-a0ab-7c0565e1d972/field_event_type?resourceVersion=id%3A3747"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b0055964-553b-4e1a-a0ab-7c0565e1d972/relationships/field_event_type?resourceVersion=id%3A3747"
+        }
+      }
+    }
+  }
+}

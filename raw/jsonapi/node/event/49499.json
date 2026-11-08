@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "ea60f896-8bfa-43e8-9ac1-788f36c98c99",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/ea60f896-8bfa-43e8-9ac1-788f36c98c99?resourceVersion=id%3A3333"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/ea60f896-8bfa-43e8-9ac1-788f36c98c99?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49499,
+    "drupal_internal__vid": 3333,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Fädenziehen für Lammasch",
+    "created": "2011-10-24T14:44:38+00:00",
+    "changed": "2011-10-24T14:44:38+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49499",
+      "pid": 1317,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Um eine Berufung Lammaschs als Bundeskanzler zu ermöglichen, wird auch Bahr im Oktober 1918 eingespannt. Über Leopold Andrian wird Bahr kontaktiert, damit Lammasch Hunyady besuche, der dann mit dem Kaiser sprechen werde. Bahr hatte vor dem 11. Oktober auch eine lange Unterredung mit Erzherzogin Maria Theresia und mit Kardinal Piffl. ",
+      "format": "full_html",
+      "processed": "Um eine Berufung Lammaschs als Bundeskanzler zu ermöglichen, wird auch Bahr im Oktober 1918 eingespannt. Über Leopold Andrian wird Bahr kontaktiert, damit Lammasch Hunyady besuche, der dann mit dem Kaiser sprechen werde. Bahr hatte vor dem 11. Oktober auch eine lange Unterredung mit Erzherzogin Maria Theresia und mit Kardinal Piffl. ",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1918-10-10",
+      "end_value": "1918-10-10"
+    },
+    "field_sources": [
+      "Fritz Fellner und Doris A. Corradini (Hgg.): Schicksalsjahre Österreichs. Die Erinnerungen und Tagebücher Josef Redlichs 1869–1936. Wien: Böhlau 2011, II, 442-443."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ea60f896-8bfa-43e8-9ac1-788f36c98c99/node_type?resourceVersion=id%3A3333"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ea60f896-8bfa-43e8-9ac1-788f36c98c99/relationships/node_type?resourceVersion=id%3A3333"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ea60f896-8bfa-43e8-9ac1-788f36c98c99/revision_uid?resourceVersion=id%3A3333"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ea60f896-8bfa-43e8-9ac1-788f36c98c99/relationships/revision_uid?resourceVersion=id%3A3333"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ea60f896-8bfa-43e8-9ac1-788f36c98c99/uid?resourceVersion=id%3A3333"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ea60f896-8bfa-43e8-9ac1-788f36c98c99/relationships/uid?resourceVersion=id%3A3333"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ea60f896-8bfa-43e8-9ac1-788f36c98c99/field_event_type?resourceVersion=id%3A3333"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ea60f896-8bfa-43e8-9ac1-788f36c98c99/relationships/field_event_type?resourceVersion=id%3A3333"
+        }
+      }
+    }
+  }
+}

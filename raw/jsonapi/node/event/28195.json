@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "82d74a3f-4e3f-4860-a4bc-6156ad6bd8f5",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/82d74a3f-4e3f-4860-a4bc-6156ad6bd8f5?resourceVersion=id%3A2502"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/82d74a3f-4e3f-4860-a4bc-6156ad6bd8f5?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28195,
+    "drupal_internal__vid": 2502,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Universitätsfest, Salzburg",
+    "created": "2010-09-28T19:06:41+00:00",
+    "changed": "2011-11-03T09:48:09+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28195",
+      "pid": 340,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 25. November 1928 findet in Salzburg eine prominent besuchte Universitätsfeier statt, zu der Bahr eine Rede hält, die Tags darauf in den Münchner Neuesten Nachrichten, Jahrs darauf in Labyrinth der Gegenwart gedruckt erschien.",
+      "format": "full_html",
+      "processed": "Am 25. November 1928 findet in Salzburg eine prominent besuchte Universitätsfeier statt, zu der Bahr eine Rede hält, die Tags darauf in den Münchner Neuesten Nachrichten, Jahrs darauf in Labyrinth der Gegenwart gedruckt erschien.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1928-11-25",
+      "end_value": "1928-11-25"
+    },
+    "field_sources": [
+      "Hermann Bahr: Die Salzburger Universität. Münchner Neueste Nachrichten, 81 (1928) #323, 1. (26.11.1928) "
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/82d74a3f-4e3f-4860-a4bc-6156ad6bd8f5/node_type?resourceVersion=id%3A2502"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/82d74a3f-4e3f-4860-a4bc-6156ad6bd8f5/relationships/node_type?resourceVersion=id%3A2502"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/82d74a3f-4e3f-4860-a4bc-6156ad6bd8f5/revision_uid?resourceVersion=id%3A2502"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/82d74a3f-4e3f-4860-a4bc-6156ad6bd8f5/relationships/revision_uid?resourceVersion=id%3A2502"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/82d74a3f-4e3f-4860-a4bc-6156ad6bd8f5/uid?resourceVersion=id%3A2502"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/82d74a3f-4e3f-4860-a4bc-6156ad6bd8f5/relationships/uid?resourceVersion=id%3A2502"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/82d74a3f-4e3f-4860-a4bc-6156ad6bd8f5/field_event_type?resourceVersion=id%3A2502"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/82d74a3f-4e3f-4860-a4bc-6156ad6bd8f5/relationships/field_event_type?resourceVersion=id%3A2502"
+        }
+      }
+    }
+  }
+}

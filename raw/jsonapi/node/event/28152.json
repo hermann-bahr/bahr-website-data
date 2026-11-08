@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "d5e76e90-5089-4e9f-83d1-aa2220874e80",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/d5e76e90-5089-4e9f-83d1-aa2220874e80?resourceVersion=id%3A2466"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/d5e76e90-5089-4e9f-83d1-aa2220874e80?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28152,
+    "drupal_internal__vid": 2466,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Stifterreise",
+    "created": "2010-08-24T15:27:03+00:00",
+    "changed": "2011-10-24T13:42:26+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28152",
+      "pid": 302,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am Ostersonntag 1918 (31.3.) ist Bahr im Zuge einer Stifter-Reise zum ersten Mal seit 17 Jahren wieder in Linz. Am Ostermontag reist er nach dem Hochamt mit Josef Redlich nach Hohenfurt. Am 2. April ist er in Friedberg, am 3. in Oberplan  in Stifters Geburtshaus. Am 4. schreibt er sein Tagebuch in Kefermarkt, am Abend einen Brief in Salzburg. Die Reise dient der Recherche für die Schlusskapitel der \"Rotte Korah\" und für den Stifter-Aufsatz.",
+      "format": "full_html",
+      "processed": "Am Ostersonntag 1918 (31.3.) ist Bahr im Zuge einer Stifter-Reise zum ersten Mal seit 17 Jahren wieder in Linz. Am Ostermontag reist er nach dem Hochamt mit Josef Redlich nach Hohenfurt. Am 2. April ist er in Friedberg, am 3. in Oberplan  in Stifters Geburtshaus. Am 4. schreibt er sein Tagebuch in Kefermarkt, am Abend einen Brief in Salzburg. Die Reise dient der Recherche für die Schlusskapitel der \"Rotte Korah\" und für den Stifter-Aufsatz.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1918-03-31",
+      "end_value": "1918-04-04"
+    },
+    "field_sources": [
+      "\"Tagebuch\", Neues Wiener Journal",
+      "Bahr/Redlich, 313-324.",
+      "Fritz Fellner und Doris A. Corradini (Hgg.): Schicksalsjahre Österreichs. Die Erinnerungen und Tagebücher Josef Redlichs 1869–1936. Wien: Böhlau 2011, II, 387-388."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d5e76e90-5089-4e9f-83d1-aa2220874e80/node_type?resourceVersion=id%3A2466"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d5e76e90-5089-4e9f-83d1-aa2220874e80/relationships/node_type?resourceVersion=id%3A2466"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d5e76e90-5089-4e9f-83d1-aa2220874e80/revision_uid?resourceVersion=id%3A2466"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d5e76e90-5089-4e9f-83d1-aa2220874e80/relationships/revision_uid?resourceVersion=id%3A2466"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d5e76e90-5089-4e9f-83d1-aa2220874e80/uid?resourceVersion=id%3A2466"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d5e76e90-5089-4e9f-83d1-aa2220874e80/relationships/uid?resourceVersion=id%3A2466"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d5e76e90-5089-4e9f-83d1-aa2220874e80/field_event_type?resourceVersion=id%3A2466"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d5e76e90-5089-4e9f-83d1-aa2220874e80/relationships/field_event_type?resourceVersion=id%3A2466"
+        }
+      }
+    }
+  }
+}

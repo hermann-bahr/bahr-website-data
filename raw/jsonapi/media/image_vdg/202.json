@@ -1,0 +1,118 @@
+{
+  "type": "media--image_vdg",
+  "id": "fc3fbda6-21fe-4f55-af46-f442e4b9973d",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/fc3fbda6-21fe-4f55-af46-f442e4b9973d?resourceVersion=id%3A203"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/fc3fbda6-21fe-4f55-af46-f442e4b9973d?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__mid": 202,
+    "drupal_internal__vid": 203,
+    "langcode": "de",
+    "revision_created": "2020-02-27T15:46:49+00:00",
+    "status": true,
+    "name": "19.jpg",
+    "created": "2020-02-27T15:46:27+00:00",
+    "changed": "2020-02-27T15:46:27+00:00",
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": null,
+      "pid": null,
+      "langcode": "de"
+    }
+  },
+  "relationships": {
+    "bundle": {
+      "data": {
+        "type": "media_type--media_type",
+        "id": "1e270fb0-cbb8-4385-a6d7-69db224c61f7",
+        "meta": {
+          "drupal_internal__target_id": "image_vdg"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/fc3fbda6-21fe-4f55-af46-f442e4b9973d/bundle?resourceVersion=id%3A203"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/fc3fbda6-21fe-4f55-af46-f442e4b9973d/relationships/bundle?resourceVersion=id%3A203"
+        }
+      }
+    },
+    "revision_user": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/fc3fbda6-21fe-4f55-af46-f442e4b9973d/revision_user?resourceVersion=id%3A203"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/fc3fbda6-21fe-4f55-af46-f442e4b9973d/relationships/revision_user?resourceVersion=id%3A203"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/fc3fbda6-21fe-4f55-af46-f442e4b9973d/uid?resourceVersion=id%3A203"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/fc3fbda6-21fe-4f55-af46-f442e4b9973d/relationships/uid?resourceVersion=id%3A203"
+        }
+      }
+    },
+    "thumbnail": {
+      "data": {
+        "type": "file--file",
+        "id": "1d2788c6-50e6-4ff5-9476-64370c2d2d7c",
+        "meta": {
+          "alt": "Hermann Bahr, Kritische Schriften - 19- Sendung des Künstlers",
+          "title": null,
+          "width": 202,
+          "height": 286,
+          "drupal_internal__target_id": 280
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/fc3fbda6-21fe-4f55-af46-f442e4b9973d/thumbnail?resourceVersion=id%3A203"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/fc3fbda6-21fe-4f55-af46-f442e4b9973d/relationships/thumbnail?resourceVersion=id%3A203"
+        }
+      }
+    },
+    "field_media_image_1": {
+      "data": {
+        "type": "file--file",
+        "id": "1d2788c6-50e6-4ff5-9476-64370c2d2d7c",
+        "meta": {
+          "alt": "Hermann Bahr, Kritische Schriften - 19- Sendung des Künstlers",
+          "title": "",
+          "width": 202,
+          "height": 286,
+          "drupal_internal__target_id": 280
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/fc3fbda6-21fe-4f55-af46-f442e4b9973d/field_media_image_1?resourceVersion=id%3A203"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/fc3fbda6-21fe-4f55-af46-f442e4b9973d/relationships/field_media_image_1?resourceVersion=id%3A203"
+        }
+      }
+    }
+  }
+}

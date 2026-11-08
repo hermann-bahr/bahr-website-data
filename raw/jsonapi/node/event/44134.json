@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "0b15328b-b743-482e-a019-e109895670f6",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/0b15328b-b743-482e-a019-e109895670f6?resourceVersion=id%3A3050"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/0b15328b-b743-482e-a019-e109895670f6?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44134,
+    "drupal_internal__vid": 3050,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "AS",
+    "created": "2011-09-14T13:28:44+00:00",
+    "changed": "2011-09-14T13:28:44+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44134",
+      "pid": 1029,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Schnitzler in seinem Tagebuch zum 19. Juni 1894:<blockquote>Nachher Bahr (mit dem ich jetzt sehr gut bin)</blockquote>",
+      "format": "full_html",
+      "processed": "Schnitzler in seinem Tagebuch zum 19. Juni 1894:<blockquote>Nachher Bahr (mit dem ich jetzt sehr gut bin)</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1894-06-19",
+      "end_value": "1894-06-19"
+    },
+    "field_sources": [
+      "Schnitzler: Tagebuch, II, 79"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0b15328b-b743-482e-a019-e109895670f6/node_type?resourceVersion=id%3A3050"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0b15328b-b743-482e-a019-e109895670f6/relationships/node_type?resourceVersion=id%3A3050"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0b15328b-b743-482e-a019-e109895670f6/revision_uid?resourceVersion=id%3A3050"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0b15328b-b743-482e-a019-e109895670f6/relationships/revision_uid?resourceVersion=id%3A3050"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0b15328b-b743-482e-a019-e109895670f6/uid?resourceVersion=id%3A3050"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0b15328b-b743-482e-a019-e109895670f6/relationships/uid?resourceVersion=id%3A3050"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0b15328b-b743-482e-a019-e109895670f6/field_event_type?resourceVersion=id%3A3050"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0b15328b-b743-482e-a019-e109895670f6/relationships/field_event_type?resourceVersion=id%3A3050"
+        }
+      }
+    }
+  }
+}

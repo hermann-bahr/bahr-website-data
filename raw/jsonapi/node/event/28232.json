@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "8dba141b-ac57-4877-af31-c2619fa17b26",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/8dba141b-ac57-4877-af31-c2619fa17b26?resourceVersion=id%3A2530"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/8dba141b-ac57-4877-af31-c2619fa17b26?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28232,
+    "drupal_internal__vid": 2530,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Moderne Dichtung",
+    "created": "2010-11-03T10:04:59+00:00",
+    "changed": "2011-07-18T14:52:12+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28232",
+      "pid": 368,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Die erste Zeitschrift, die sich bemüht, die moderne Literatur nach Österreich-Ungarn zu bringen – Die Moderne Dichtung. Monatsschrift für Literatur und Kunst – entsteht in Brünn. Herausgegeben vom 26 Jahre alten Eduard Michael Kafka, erwählt sie von Anfang an Bahr als programmatischen Säulenheiligen, sei es durch Rezeption seines Werkes, sei es durch promintente Veröffentlichungen seiner Texte. 1891 in \"Moderne Rundschau\" umbenannt und nach Wien übersiedelt, wird sie Ende 1891 eingestellt. Bahrs Verhältnis kühlt schon Ende 1890 ab, da beginnt er [1] \"den Wolljuden Kafka […] den verlumpten Mistjuden\" als Geschäftemacher zu beschimpfen, wenngleich er das in Folge als Überreaktion erklärt.",
+      "format": "full_html",
+      "processed": "Die erste Zeitschrift, die sich bemüht, die moderne Literatur nach Österreich-Ungarn zu bringen – Die Moderne Dichtung. Monatsschrift für Literatur und Kunst – entsteht in Brünn. Herausgegeben vom 26 Jahre alten Eduard Michael Kafka, erwählt sie von Anfang an Bahr als programmatischen Säulenheiligen, sei es durch Rezeption seines Werkes, sei es durch promintente Veröffentlichungen seiner Texte. 1891 in \"Moderne Rundschau\" umbenannt und nach Wien übersiedelt, wird sie Ende 1891 eingestellt. Bahrs Verhältnis kühlt schon Ende 1890 ab, da beginnt er [1] \"den Wolljuden Kafka […] den verlumpten Mistjuden\" als Geschäftemacher zu beschimpfen, wenngleich er das in Folge als Überreaktion erklärt.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1890-01-01",
+      "end_value": "1890-01-01"
+    },
+    "field_sources": [
+      "[1] Brief an den Vater, 2.11.1890"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8dba141b-ac57-4877-af31-c2619fa17b26/node_type?resourceVersion=id%3A2530"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8dba141b-ac57-4877-af31-c2619fa17b26/relationships/node_type?resourceVersion=id%3A2530"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8dba141b-ac57-4877-af31-c2619fa17b26/revision_uid?resourceVersion=id%3A2530"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8dba141b-ac57-4877-af31-c2619fa17b26/relationships/revision_uid?resourceVersion=id%3A2530"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8dba141b-ac57-4877-af31-c2619fa17b26/uid?resourceVersion=id%3A2530"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8dba141b-ac57-4877-af31-c2619fa17b26/relationships/uid?resourceVersion=id%3A2530"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "d579e54c-64dd-4193-a9ef-da87efb3ed16",
+          "meta": {
+            "drupal_internal__target_id": 8
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8dba141b-ac57-4877-af31-c2619fa17b26/field_event_type?resourceVersion=id%3A2530"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8dba141b-ac57-4877-af31-c2619fa17b26/relationships/field_event_type?resourceVersion=id%3A2530"
+        }
+      }
+    }
+  }
+}

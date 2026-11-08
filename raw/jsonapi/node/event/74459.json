@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "d91572b7-496a-4be6-9cdd-f6431cd456d5",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/d91572b7-496a-4be6-9cdd-f6431cd456d5?resourceVersion=id%3A3773"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/d91572b7-496a-4be6-9cdd-f6431cd456d5?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74459,
+    "drupal_internal__vid": 3773,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Hartleben, Friedell, Löwe",
+    "created": "2013-01-20T11:29:43+00:00",
+    "changed": "2013-01-20T11:29:43+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/74459",
+      "pid": 1833,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Nach dem Flop von \"Im grünen Baum zur Nachtigall\", das am 28. Oktober 1904 Première im Burgtheater hat, sitzen Bahr, Erich Otto Hartleben, Otto Löwe und Egon Friedell zusammen. Das ist das letzte Treffen Bahrs mit Hartleben, der wenige Monate danach stirbt.",
+      "format": "full_html",
+      "processed": "Nach dem Flop von \"Im grünen Baum zur Nachtigall\", das am 28. Oktober 1904 Première im Burgtheater hat, sitzen Bahr, Erich Otto Hartleben, Otto Löwe und Egon Friedell zusammen. Das ist das letzte Treffen Bahrs mit Hartleben, der wenige Monate danach stirbt.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1904-10-28",
+      "end_value": "1904-10-28"
+    },
+    "field_sources": [
+      "Hermann Bahr: Im grünen Baum zur Nachtigall. (Ein Studentenstück in drei Akten von Otto Erich Hartleben. Zum erstenmal aufgeführt im Burgtheater am 27. Oktober 1904). Österreichische Volks-Zeitung, 50 (1904) #299, 1 (2 Kreuzer-Ausgabe: 1-3). (28.10.1904) (Buchausgabe: Glossen, 53-57)",
+      "Hermann Bahr: Moppchen. Neue Freie Presse, (1908) #15757, Morgenblatt, 1-5. (4.7.1908) "
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d91572b7-496a-4be6-9cdd-f6431cd456d5/node_type?resourceVersion=id%3A3773"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d91572b7-496a-4be6-9cdd-f6431cd456d5/relationships/node_type?resourceVersion=id%3A3773"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d91572b7-496a-4be6-9cdd-f6431cd456d5/revision_uid?resourceVersion=id%3A3773"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d91572b7-496a-4be6-9cdd-f6431cd456d5/relationships/revision_uid?resourceVersion=id%3A3773"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d91572b7-496a-4be6-9cdd-f6431cd456d5/uid?resourceVersion=id%3A3773"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d91572b7-496a-4be6-9cdd-f6431cd456d5/relationships/uid?resourceVersion=id%3A3773"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d91572b7-496a-4be6-9cdd-f6431cd456d5/field_event_type?resourceVersion=id%3A3773"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d91572b7-496a-4be6-9cdd-f6431cd456d5/relationships/field_event_type?resourceVersion=id%3A3773"
+        }
+      }
+    }
+  }
+}

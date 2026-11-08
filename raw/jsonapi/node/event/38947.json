@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "98fa2e95-a46a-419a-a2f8-618e34b98d01",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/98fa2e95-a46a-419a-a2f8-618e34b98d01?resourceVersion=id%3A2733"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/98fa2e95-a46a-419a-a2f8-618e34b98d01?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38947,
+    "drupal_internal__vid": 2733,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "AS, Reicher",
+    "created": "2011-03-15T17:23:27+00:00",
+    "changed": "2011-11-03T10:55:20+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38947",
+      "pid": 687,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "13. März 1892:<blockquote>Abd. Reicher, Frau und Bahr bei Sacher.– Bahr sprach viel und hübsch wie immer und stilisierte seine Erlebnisse und Ideen aufs beste.</blockquote>",
+      "format": "full_html",
+      "processed": "13. März 1892:<blockquote>Abd. Reicher, Frau und Bahr bei Sacher.– Bahr sprach viel und hübsch wie immer und stilisierte seine Erlebnisse und Ideen aufs beste.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1892-03-13",
+      "end_value": "1892-03-13"
+    },
+    "field_sources": [
+      "Schnitzler: Tagebuch, I, 370."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/98fa2e95-a46a-419a-a2f8-618e34b98d01/node_type?resourceVersion=id%3A2733"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/98fa2e95-a46a-419a-a2f8-618e34b98d01/relationships/node_type?resourceVersion=id%3A2733"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/98fa2e95-a46a-419a-a2f8-618e34b98d01/revision_uid?resourceVersion=id%3A2733"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/98fa2e95-a46a-419a-a2f8-618e34b98d01/relationships/revision_uid?resourceVersion=id%3A2733"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/98fa2e95-a46a-419a-a2f8-618e34b98d01/uid?resourceVersion=id%3A2733"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/98fa2e95-a46a-419a-a2f8-618e34b98d01/relationships/uid?resourceVersion=id%3A2733"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/98fa2e95-a46a-419a-a2f8-618e34b98d01/field_event_type?resourceVersion=id%3A2733"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/98fa2e95-a46a-419a-a2f8-618e34b98d01/relationships/field_event_type?resourceVersion=id%3A2733"
+        }
+      }
+    }
+  }
+}

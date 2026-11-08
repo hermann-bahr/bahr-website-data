@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "d330422e-9912-4150-8394-b4e6ac085135",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/d330422e-9912-4150-8394-b4e6ac085135?resourceVersion=id%3A2324"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/d330422e-9912-4150-8394-b4e6ac085135?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27991,
+    "drupal_internal__vid": 2324,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Waffenübung",
+    "created": "2010-07-27T14:13:31+00:00",
+    "changed": "2011-11-21T09:50:37+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/27991",
+      "pid": 158,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Ab dem 20. August 1891 befindet sich Bahr zur Waffenübung als Corporal in Rainbach im Mühlkreis, wo er auf das baldige Ende der Aktion wartet, das am 9. September kommt.",
+      "format": "full_html",
+      "processed": "Ab dem 20. August 1891 befindet sich Bahr zur Waffenübung als Corporal in Rainbach im Mühlkreis, wo er auf das baldige Ende der Aktion wartet, das am 9. September kommt.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1891-08-20",
+      "end_value": "1891-09-09"
+    },
+    "field_sources": [
+      "Brief an den Vater, 25.8.1891"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d330422e-9912-4150-8394-b4e6ac085135/node_type?resourceVersion=id%3A2324"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d330422e-9912-4150-8394-b4e6ac085135/relationships/node_type?resourceVersion=id%3A2324"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d330422e-9912-4150-8394-b4e6ac085135/revision_uid?resourceVersion=id%3A2324"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d330422e-9912-4150-8394-b4e6ac085135/relationships/revision_uid?resourceVersion=id%3A2324"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d330422e-9912-4150-8394-b4e6ac085135/uid?resourceVersion=id%3A2324"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d330422e-9912-4150-8394-b4e6ac085135/relationships/uid?resourceVersion=id%3A2324"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d330422e-9912-4150-8394-b4e6ac085135/field_event_type?resourceVersion=id%3A2324"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d330422e-9912-4150-8394-b4e6ac085135/relationships/field_event_type?resourceVersion=id%3A2324"
+        }
+      }
+    }
+  }
+}

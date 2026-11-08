@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "debbb8aa-0779-4570-bffb-8239079fb1b4",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/debbb8aa-0779-4570-bffb-8239079fb1b4?resourceVersion=id%3A3504"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/debbb8aa-0779-4570-bffb-8239079fb1b4?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49731,
+    "drupal_internal__vid": 3504,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Geisteskrank?",
+    "created": "2011-12-20T11:28:22+00:00",
+    "changed": "2011-12-20T11:28:22+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49731",
+      "pid": 1544,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Hugo von Hofmannsthal schreibt am 27. November 1927 an Leopold von Andrian:<blockquote>Über Bahr habe ich seit kurzer Zeit eine ganz bestimmte Meinung, daß er geistig nicht normal ist.</blockquote>",
+      "format": "full_html",
+      "processed": "Hugo von Hofmannsthal schreibt am 27. November 1927 an Leopold von Andrian:<blockquote>Über Bahr habe ich seit kurzer Zeit eine ganz bestimmte Meinung, daß er geistig nicht normal ist.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1927-11-27",
+      "end_value": "1927-11-27"
+    },
+    "field_sources": [
+      "Leopold von Andrian: Briefwechsel mit Hugo von Hofmannsthal. Hg. Walter Perl. Frankfurt/Main: Fischer 1968, 399."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/debbb8aa-0779-4570-bffb-8239079fb1b4/node_type?resourceVersion=id%3A3504"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/debbb8aa-0779-4570-bffb-8239079fb1b4/relationships/node_type?resourceVersion=id%3A3504"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/debbb8aa-0779-4570-bffb-8239079fb1b4/revision_uid?resourceVersion=id%3A3504"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/debbb8aa-0779-4570-bffb-8239079fb1b4/relationships/revision_uid?resourceVersion=id%3A3504"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/debbb8aa-0779-4570-bffb-8239079fb1b4/uid?resourceVersion=id%3A3504"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/debbb8aa-0779-4570-bffb-8239079fb1b4/relationships/uid?resourceVersion=id%3A3504"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/debbb8aa-0779-4570-bffb-8239079fb1b4/field_event_type?resourceVersion=id%3A3504"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/debbb8aa-0779-4570-bffb-8239079fb1b4/relationships/field_event_type?resourceVersion=id%3A3504"
+        }
+      }
+    }
+  }
+}

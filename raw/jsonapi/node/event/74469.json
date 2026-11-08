@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "73f47a0e-177d-46e3-823c-05c780db62b4",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/73f47a0e-177d-46e3-823c-05c780db62b4?resourceVersion=id%3A3780"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/73f47a0e-177d-46e3-823c-05c780db62b4?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74469,
+    "drupal_internal__vid": 3780,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "HvH",
+    "created": "2013-03-08T12:37:38+00:00",
+    "changed": "2013-03-08T12:37:38+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/74469",
+      "pid": 1843,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Hugo und Gerty von Hofmannsthal halten sich ab Mitte Februar 1908 bis über das Ende von Bahrs Aufenthalt am Deutschen Theater in Berlin auf, um die Aufführung von \"Der Tor und der Tod\" vorzubereiten. Auffällig ist, dass in der brieflichen Korrespondenz beide den Namen des anderen nicht fallen lassen, als wären sie füreinander Luft.",
+      "format": "full_html",
+      "processed": "Hugo und Gerty von Hofmannsthal halten sich ab Mitte Februar 1908 bis über das Ende von Bahrs Aufenthalt am Deutschen Theater in Berlin auf, um die Aufführung von \"Der Tor und der Tod\" vorzubereiten. Auffällig ist, dass in der brieflichen Korrespondenz beide den Namen des anderen nicht fallen lassen, als wären sie füreinander Luft.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1908-02-15",
+      "end_value": "1908-03-19"
+    },
+    "field_sources": [
+      "Hugo von Hofmannsthal: Briefe 1900-1909. Berlin: Bermann-Fischer 1937.",
+      "Bahr: Tagebücher (Csàky), V"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/73f47a0e-177d-46e3-823c-05c780db62b4/node_type?resourceVersion=id%3A3780"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/73f47a0e-177d-46e3-823c-05c780db62b4/relationships/node_type?resourceVersion=id%3A3780"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/73f47a0e-177d-46e3-823c-05c780db62b4/revision_uid?resourceVersion=id%3A3780"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/73f47a0e-177d-46e3-823c-05c780db62b4/relationships/revision_uid?resourceVersion=id%3A3780"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/73f47a0e-177d-46e3-823c-05c780db62b4/uid?resourceVersion=id%3A3780"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/73f47a0e-177d-46e3-823c-05c780db62b4/relationships/uid?resourceVersion=id%3A3780"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/73f47a0e-177d-46e3-823c-05c780db62b4/field_event_type?resourceVersion=id%3A3780"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/73f47a0e-177d-46e3-823c-05c780db62b4/relationships/field_event_type?resourceVersion=id%3A3780"
+        }
+      }
+    }
+  }
+}

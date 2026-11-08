@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "ac4933e0-060f-43e7-bb96-a2f734b46bc9",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/ac4933e0-060f-43e7-bb96-a2f734b46bc9?resourceVersion=id%3A3529"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/ac4933e0-060f-43e7-bb96-a2f734b46bc9?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49758,
+    "drupal_internal__vid": 3529,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Gesamtgastspiel München",
+    "created": "2012-01-05T14:27:30+00:00",
+    "changed": "2012-01-05T14:30:01+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49758",
+      "pid": 1570,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Von 1. bis zum 21. Juli 1880 findet in München das \"Gesamtgastspiel\" der deutschen Bühnen statt. Karl von Perfall und Ernst Possart veranstalten Aufführungen mit den besten Schauspielern der ersten Bühnen des deutschsprachigen Raums. Bahr ist anwesend:<blockquote>Possart hatte den Gymnasiasten nach München gelockt, Wiener Burgtheater und Berliner Schauspielhaus und was sonst noch an Theaterkraft in Deutschland damals aufzubringen war, um die Meisterschaft wettspielen zu sehen.</blockquote>",
+      "format": "full_html",
+      "processed": "Von 1. bis zum 21. Juli 1880 findet in München das \"Gesamtgastspiel\" der deutschen Bühnen statt. Karl von Perfall und Ernst Possart veranstalten Aufführungen mit den besten Schauspielern der ersten Bühnen des deutschsprachigen Raums. Bahr ist anwesend:<blockquote>Possart hatte den Gymnasiasten nach München gelockt, Wiener Burgtheater und Berliner Schauspielhaus und was sonst noch an Theaterkraft in Deutschland damals aufzubringen war, um die Meisterschaft wettspielen zu sehen.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1880-07-01",
+      "end_value": "1880-07-21"
+    },
+    "field_sources": [
+      "Liebe der Lebenden, I, 90."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ac4933e0-060f-43e7-bb96-a2f734b46bc9/node_type?resourceVersion=id%3A3529"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ac4933e0-060f-43e7-bb96-a2f734b46bc9/relationships/node_type?resourceVersion=id%3A3529"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ac4933e0-060f-43e7-bb96-a2f734b46bc9/revision_uid?resourceVersion=id%3A3529"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ac4933e0-060f-43e7-bb96-a2f734b46bc9/relationships/revision_uid?resourceVersion=id%3A3529"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ac4933e0-060f-43e7-bb96-a2f734b46bc9/uid?resourceVersion=id%3A3529"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ac4933e0-060f-43e7-bb96-a2f734b46bc9/relationships/uid?resourceVersion=id%3A3529"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ac4933e0-060f-43e7-bb96-a2f734b46bc9/field_event_type?resourceVersion=id%3A3529"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ac4933e0-060f-43e7-bb96-a2f734b46bc9/relationships/field_event_type?resourceVersion=id%3A3529"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "type": "node--event",
+  "id": "bfb8a29d-e9f2-4fbb-9579-2589586fe07d",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/bfb8a29d-e9f2-4fbb-9579-2589586fe07d?resourceVersion=id%3A2636"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/bfb8a29d-e9f2-4fbb-9579-2589586fe07d?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38816,
+    "drupal_internal__vid": 2636,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Saar, Ebner-Eschenbach",
+    "created": "2011-02-02T17:22:40+00:00",
+    "changed": "2011-08-19T12:51:07+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38816",
+      "pid": 563,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 7. November 1897 kam es im Bösendorfer-Saal zu einer Conférence Bahrs, worin er über den wachsenden Neid Berlins auf das in Wien erwachende literarische Leben berichtete, ungeachtet dessen, dass auch Marie von Ebner-Eschenbach im Saal saß. Die ältere Generation wurde dann aber von ihm mit einer Lesung bedacht, von Ebner-Eschenbach \"Verschollen\" und von Saar die \"Pincelliade\".\r\nEbner-Eschenbach in ihrem Tagebuch:<blockquote>7. So. Heute werde ich in Wien von Herrn Herrm. Bahr hingerichtet. […]<br>9. Di. […] Die Vorlesung Bahrs gut ausgefallen.</blockquote>",
+      "format": "full_html",
+      "processed": "Am 7. November 1897 kam es im Bösendorfer-Saal zu einer Conférence Bahrs, worin er über den wachsenden Neid Berlins auf das in Wien erwachende literarische Leben berichtete, ungeachtet dessen, dass auch Marie von Ebner-Eschenbach im Saal saß. Die ältere Generation wurde dann aber von ihm mit einer Lesung bedacht, von Ebner-Eschenbach \"Verschollen\" und von Saar die \"Pincelliade\".\nEbner-Eschenbach in ihrem Tagebuch:<blockquote>7. So. Heute werde ich in Wien von Herrn Herrm. Bahr hingerichtet. […]<br>9. Di. […] Die Vorlesung Bahrs gut ausgefallen.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1897-11-07",
+      "end_value": "1897-11-07"
+    },
+    "field_sources": [
+      "Neue Freie Presse, #11930, Abendblatt, 1-2. (8.11.1897)",
+      "Hermann Bahr: Eine Conférence. (Gehalten am 7. November im Bösendorfersaal). Die Zeit, 13 (1897) #163, 106-107. (13.11.1897) Buchausgabe: Bildung, 127-132",
+      "Vgl. Hermann Bahr: Die Pincelliade. Ferdinand von Saar. Die Zeit, 10 (1897) #122, 76-77. (30.1.1897)",
+      "Karl Kraus: Wiener Brief. In: Breslauer Zeitung, 78 (1897) #817, Morgen-Ausgabe, 1-2, 5. (21.11.1897)",
+      "Tagebücher (Csàky), II, 251-252.",
+      "Marie von Ebner-Eschenbach: Tagebücher, IV, 436-437."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bfb8a29d-e9f2-4fbb-9579-2589586fe07d/node_type?resourceVersion=id%3A2636"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bfb8a29d-e9f2-4fbb-9579-2589586fe07d/relationships/node_type?resourceVersion=id%3A2636"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bfb8a29d-e9f2-4fbb-9579-2589586fe07d/revision_uid?resourceVersion=id%3A2636"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bfb8a29d-e9f2-4fbb-9579-2589586fe07d/relationships/revision_uid?resourceVersion=id%3A2636"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bfb8a29d-e9f2-4fbb-9579-2589586fe07d/uid?resourceVersion=id%3A2636"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bfb8a29d-e9f2-4fbb-9579-2589586fe07d/relationships/uid?resourceVersion=id%3A2636"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bfb8a29d-e9f2-4fbb-9579-2589586fe07d/field_event_type?resourceVersion=id%3A2636"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bfb8a29d-e9f2-4fbb-9579-2589586fe07d/relationships/field_event_type?resourceVersion=id%3A2636"
+        }
+      }
+    }
+  }
+}

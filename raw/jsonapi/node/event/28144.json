@@ -1,0 +1,114 @@
+{
+  "type": "node--event",
+  "id": "aa485944-d370-451e-8bef-604a5169b2ac",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/aa485944-d370-451e-8bef-604a5169b2ac?resourceVersion=id%3A2460"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/aa485944-d370-451e-8bef-604a5169b2ac?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28144,
+    "drupal_internal__vid": 2460,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Deutschland-Tournee",
+    "created": "2010-08-24T12:02:19+00:00",
+    "changed": "2011-10-11T08:39:01+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28144",
+      "pid": 296,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Nach dem Süden führt Bahrs Tournee ihn vom 13. bis zum 30. Jänner 1913 nach Mittel- und Norddeutschland. Wieder ist die Auswahl der Themen:  \r\nA) \"O Mensch\", \"Die schöne Frau\"; \r\nB) Über Schauspielkunst; \r\nC) Die letzten dreißig Jahre deutscher Literatur; \r\nD) Die Großstadt („Rette deine Seele“); \r\nE) Walt Whitman (verbunden mit Vorlesung aus dessen Werken; \r\nF) Über Erziehung \r\nG) Die religiöse Bewegung unserer Zeit; \r\nH) Bayreuth (Richard Wagner)",
+      "format": "full_html",
+      "processed": "Nach dem Süden führt Bahrs Tournee ihn vom 13. bis zum 30. Jänner 1913 nach Mittel- und Norddeutschland. Wieder ist die Auswahl der Themen:  \nA) \"O Mensch\", \"Die schöne Frau\"; \nB) Über Schauspielkunst; \nC) Die letzten dreißig Jahre deutscher Literatur; \nD) Die Großstadt („Rette deine Seele“); \nE) Walt Whitman (verbunden mit Vorlesung aus dessen Werken; \nF) Über Erziehung \nG) Die religiöse Bewegung unserer Zeit; \nH) Bayreuth (Richard Wagner)",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1913-01-13",
+      "end_value": "1913-01-30"
+    },
+    "field_sources": []
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/aa485944-d370-451e-8bef-604a5169b2ac/node_type?resourceVersion=id%3A2460"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/aa485944-d370-451e-8bef-604a5169b2ac/relationships/node_type?resourceVersion=id%3A2460"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/aa485944-d370-451e-8bef-604a5169b2ac/revision_uid?resourceVersion=id%3A2460"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/aa485944-d370-451e-8bef-604a5169b2ac/relationships/revision_uid?resourceVersion=id%3A2460"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/aa485944-d370-451e-8bef-604a5169b2ac/uid?resourceVersion=id%3A2460"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/aa485944-d370-451e-8bef-604a5169b2ac/relationships/uid?resourceVersion=id%3A2460"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/aa485944-d370-451e-8bef-604a5169b2ac/field_event_type?resourceVersion=id%3A2460"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/aa485944-d370-451e-8bef-604a5169b2ac/relationships/field_event_type?resourceVersion=id%3A2460"
+        }
+      }
+    }
+  }
+}

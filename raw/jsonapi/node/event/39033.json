@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "32c4d533-b03f-474d-bbc5-75a65dd7a8ea",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/32c4d533-b03f-474d-bbc5-75a65dd7a8ea?resourceVersion=id%3A2810"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/32c4d533-b03f-474d-bbc5-75a65dd7a8ea?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39033,
+    "drupal_internal__vid": 2810,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Letzter Artikel Börsen-Courier",
+    "created": "2011-04-06T15:49:26+00:00",
+    "changed": "2011-11-02T15:53:58+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39033",
+      "pid": 766,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 11. August 1926 erscheint mit \"Atlantis\" der vorletzte Artikel Bahrs für den Berliner Börsen-Courier. Ein letzter Ausreißer sollte noch im Oktober 1927 kommen, doch die regelmäßige Zusammenarbeit, die davor bestanden hat, bricht in eben diesem August ab.",
+      "format": "full_html",
+      "processed": "Am 11. August 1926 erscheint mit \"Atlantis\" der vorletzte Artikel Bahrs für den Berliner Börsen-Courier. Ein letzter Ausreißer sollte noch im Oktober 1927 kommen, doch die regelmäßige Zusammenarbeit, die davor bestanden hat, bricht in eben diesem August ab.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1926-08-11",
+      "end_value": "1926-08-11"
+    },
+    "field_sources": [
+      "Hermann Bahr: Atlantis. Berliner Börsen-Courier, 59 (1926) #369, Morgen-Ausgabe, 1. Beilage, 5. (11.8.1926)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/32c4d533-b03f-474d-bbc5-75a65dd7a8ea/node_type?resourceVersion=id%3A2810"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/32c4d533-b03f-474d-bbc5-75a65dd7a8ea/relationships/node_type?resourceVersion=id%3A2810"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/32c4d533-b03f-474d-bbc5-75a65dd7a8ea/revision_uid?resourceVersion=id%3A2810"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/32c4d533-b03f-474d-bbc5-75a65dd7a8ea/relationships/revision_uid?resourceVersion=id%3A2810"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/32c4d533-b03f-474d-bbc5-75a65dd7a8ea/uid?resourceVersion=id%3A2810"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/32c4d533-b03f-474d-bbc5-75a65dd7a8ea/relationships/uid?resourceVersion=id%3A2810"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "d579e54c-64dd-4193-a9ef-da87efb3ed16",
+          "meta": {
+            "drupal_internal__target_id": 8
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/32c4d533-b03f-474d-bbc5-75a65dd7a8ea/field_event_type?resourceVersion=id%3A2810"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/32c4d533-b03f-474d-bbc5-75a65dd7a8ea/relationships/field_event_type?resourceVersion=id%3A2810"
+        }
+      }
+    }
+  }
+}

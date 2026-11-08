@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "f32df5f5-09a2-4177-be60-859ec6970b3e",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f32df5f5-09a2-4177-be60-859ec6970b3e?resourceVersion=id%3A3465"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f32df5f5-09a2-4177-be60-859ec6970b3e?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49640,
+    "drupal_internal__vid": 3465,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "\"Neben der Liebe\" fertig",
+    "created": "2011-11-21T09:58:20+00:00",
+    "changed": "2011-11-21T09:59:09+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49640",
+      "pid": 1455,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Anhand der Datierung auf der ersten Seite mit \"Purkersdorf, 1. Mai 1892\" lässt sich der Abschluss der Arbeit an \"Neben der Liebe\", Bahrs zweitem Roman, bestimmen, die ein Jahr früher, nach der Heimkehr aus Russland begonnen hatten.",
+      "format": "full_html",
+      "processed": "Anhand der Datierung auf der ersten Seite mit \"Purkersdorf, 1. Mai 1892\" lässt sich der Abschluss der Arbeit an \"Neben der Liebe\", Bahrs zweitem Roman, bestimmen, die ein Jahr früher, nach der Heimkehr aus Russland begonnen hatten.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1892-05-01",
+      "end_value": "1892-05-01"
+    },
+    "field_sources": [
+      "Hermann Bahr: Neben der Liebe. Wiener Roman. Berlin: S. Fischer, 1893.",
+      "Selbstbildnis, 276"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f32df5f5-09a2-4177-be60-859ec6970b3e/node_type?resourceVersion=id%3A3465"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f32df5f5-09a2-4177-be60-859ec6970b3e/relationships/node_type?resourceVersion=id%3A3465"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f32df5f5-09a2-4177-be60-859ec6970b3e/revision_uid?resourceVersion=id%3A3465"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f32df5f5-09a2-4177-be60-859ec6970b3e/relationships/revision_uid?resourceVersion=id%3A3465"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f32df5f5-09a2-4177-be60-859ec6970b3e/uid?resourceVersion=id%3A3465"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f32df5f5-09a2-4177-be60-859ec6970b3e/relationships/uid?resourceVersion=id%3A3465"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f32df5f5-09a2-4177-be60-859ec6970b3e/field_event_type?resourceVersion=id%3A3465"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f32df5f5-09a2-4177-be60-859ec6970b3e/relationships/field_event_type?resourceVersion=id%3A3465"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bibliografie__theaterstuecke__wenn-es-euch-gefaellt-1899" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Wenn es euch gefällt (1899)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">49685</idno>
+        <idno type="drupal-alias">/bibliografie/49685</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bibliografie/49685">https://bahr.univie.ac.at/bibliografie/49685</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+        <bibl type="beschriebene-ausgabe">
+          <author>Hermann Bahr and Carl Karlweis</author>
+          <title type="main">Wenn es euch gefällt</title>
+          <title type="sub">Wiener Revue in drei Bildern und einem Vorspiel</title>
+          <pubPlace>Wien</pubPlace>
+          <publisher>C. Konegen</publisher>
+          <date>1899</date>
+          <extent>135</extent>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="1" key="bibliografie">Bibliografie</term>
+          <term n="2" key="theaterstuecke">Theaterstücke</term>
+          <term n="40" key="wenn-es-euch-gefaellt-1899" type="eintrag">Wenn es euch gefällt (1899)</term>
+        </keywords>
+        <classCode scheme="drupal-type">bibliographie</classCode>
+        <keywords scheme="bibliografie_type">
+          <term>Theaterstücke</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2011-11-23T13:58:24+00:00" type="created">angelegt in Drupal</change>
+      <change when="2011-11-23T13:58:24+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="bib">
+        <head>Bibliografie</head>
+        <table type="bibliografie">
+          <row>
+            <cell>Autor:</cell>
+            <cell>Hermann Bahr and Carl Karlweis</cell>
+          </row>
+          <row>
+            <cell>Titel:</cell>
+            <cell>Wenn es euch gefällt</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>Wiener Revue in drei Bildern und einem Vorspiel</cell>
+          </row>
+          <row>
+            <cell>Ort:</cell>
+            <cell>Wien</cell>
+          </row>
+          <row>
+            <cell>Verlag:</cell>
+            <cell>C. Konegen</cell>
+          </row>
+          <row>
+            <cell>Jahr:</cell>
+            <cell>1899</cell>
+          </row>
+          <row>
+            <cell>Seiten:</cell>
+            <cell>135</cell>
+          </row>
+        </table>
+      </div>
+      <div xml:id="auff">
+        <head>Inszenierungen</head>
+        <p>März 1899 im Deutschen Volkstheater? Darsteller: Girardi und Glöckner.</p>
+      </div>
+      <div xml:id="rezens">
+        <head>Rezensionen</head>
+        <p>F–: Politik-Secession-Theater. In: Sport und Salon, 2 (1899) #13, 7. (30.3.1899)</p>
+      </div>
+      <div xml:id="www">
+        <head>Digitalisate</head>
+        <p>
+          <ref target="http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=106">Link</ref>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

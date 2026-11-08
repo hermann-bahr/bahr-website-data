@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bibliografie__literarische-prosa__dora-1893" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Dora (1893)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">38888</idno>
+        <idno type="drupal-alias">/bibliografie/38888</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bibliografie/38888">https://bahr.univie.ac.at/bibliografie/38888</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+        <bibl type="beschriebene-ausgabe">
+          <author>Hermann Bahr</author>
+          <title type="main">Dora</title>
+          <pubPlace>Berlin</pubPlace>
+          <publisher>S. Fischer</publisher>
+          <date>1893</date>
+          <extent>146</extent>
+          <edition>2. Aufl.</edition>
+          <note>In einem undatierten, aber durch seinen Inhalt auf Anfang Oktober 1892 datierbaren Brief (Briefwechsel mit dem Vater, 329) schreibt Bahr, dass er das Buch abgeschlossen hat. In einem weiteren Brief (Ebd.) schreibt er am 16. Oktober, dass es sich um bislang ungedruckte Texte handelt. Das Buch ist auf 1893 vordatiert: Die "Freie Bühne", 3 (1892) #11, bringt gegenüber der Seite 1121 eine Anzeige mit "Soeben erschienen". An seinen Vater schreibt Bahr am 18. Dezember, dass die zweite Auflage nichts anderes ist, als neu gebundene Exemplare der zweiten Hälfte des ersten Tausends.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="1" key="bibliografie">Bibliografie</term>
+          <term n="3" key="literarische-prosa">Literarische Prosa</term>
+          <term n="8" key="dora-1893" type="eintrag">Dora (1893)</term>
+        </keywords>
+        <classCode scheme="drupal-type">bibliographie</classCode>
+        <keywords scheme="bibliografie_type">
+          <term>Literarische Prosa</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2011-03-04T09:42:15+00:00" type="created">angelegt in Drupal</change>
+      <change when="2011-11-21T15:39:26+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="bib">
+        <head>Bibliografie</head>
+        <table type="bibliografie">
+          <row>
+            <cell>Autor:</cell>
+            <cell>Hermann Bahr</cell>
+          </row>
+          <row>
+            <cell>Titel:</cell>
+            <cell>Dora</cell>
+          </row>
+          <row>
+            <cell>Ort:</cell>
+            <cell>Berlin</cell>
+          </row>
+          <row>
+            <cell>Verlag:</cell>
+            <cell>S. Fischer</cell>
+          </row>
+          <row>
+            <cell>Jahr:</cell>
+            <cell>1893</cell>
+          </row>
+          <row>
+            <cell>Seiten:</cell>
+            <cell>146</cell>
+          </row>
+          <row>
+            <cell>Aufl.:</cell>
+            <cell>2. Aufl.</cell>
+          </row>
+          <row>
+            <cell>Anm.:</cell>
+            <cell>In einem undatierten, aber durch seinen Inhalt auf Anfang Oktober 1892 datierbaren Brief (Briefwechsel mit dem Vater, 329) schreibt Bahr, dass er das Buch abgeschlossen hat. In einem weiteren Brief (Ebd.) schreibt er am 16. Oktober, dass es sich um bislang ungedruckte Texte handelt. Das Buch ist auf 1893 vordatiert: Die "Freie Bühne", 3 (1892) #11, bringt gegenüber der Seite 1121 eine Anzeige mit "Soeben erschienen". An seinen Vater schreibt Bahr am 18. Dezember, dass die zweite Auflage nichts anderes ist, als neu gebundene Exemplare der zweiten Hälfte des ersten Tausends.</cell>
+          </row>
+        </table>
+      </div>
+      <div xml:id="rezens">
+        <head>Rezensionen</head>
+        <p>[O.N.] Literarisches. Die Presse, 45 (1892) #320, Beilage, 1-2. (18.11.1892) otb in: Deutsche Zeitung, Wien, 9.12.1892, 4. A. N. in: Wiener Literatur-Zeitung, 3 (1892) #12, 19. Marco Brociner: Wiener Autoren. In: Wiener Tagblatt, 42 (1892) #341, 1-2. (9.12.1892)</p>
+      </div>
+      <div xml:id="inhaltsvz">
+        <head>Inhaltsverzeichnis</head>
+        <table>
+          <row>
+            <cell role="label">Seiten</cell>
+            <cell role="label">Titel</cell>
+          </row>
+          <row>
+            <cell>7-90</cell>
+            <cell>
+              <hi rend="bold">Dora.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>91-119</cell>
+            <cell>
+              <hi rend="bold">Die Schneiderin.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>121-146</cell>
+            <cell>
+              <hi rend="bold">Jeanette.</hi>
+            </cell>
+          </row>
+        </table>
+      </div>
+      <div xml:id="digit">
+        <head>Digitalisate</head>
+        <list rend="bulleted">
+          <item>
+            <ref target="http://www.archive.org/search.php?query=hermann%20bahr%20dora">archive.org</ref>
+          </item>
+          <item>
+            <ref target="http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=46">ÖNB Anno</ref>
+          </item>
+        </list>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "3e609705-82f8-4131-8050-98fdf2f56766",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/3e609705-82f8-4131-8050-98fdf2f56766?resourceVersion=id%3A3716"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/3e609705-82f8-4131-8050-98fdf2f56766?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74388,
+    "drupal_internal__vid": 3716,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Bart abrasiert",
+    "created": "2012-10-22T13:20:06+00:00",
+    "changed": "2013-09-14T11:54:40+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/74388",
+      "pid": 1762,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "An Gerty Schlesinger, 23. Juli 1898:<blockquote>ich habe mir wirklich den Bart rasieren lassen und sehe sehr komisch aus, ein bissel wir der Direktor Burckhard, ein bissel wie der Andrian und hauptsächlich wie der gute Mond, wenn er voll ist.</blockquote>",
+      "format": "full_html",
+      "processed": "An Gerty Schlesinger, 23. Juli 1898:<blockquote>ich habe mir wirklich den Bart rasieren lassen und sehe sehr komisch aus, ein bissel wir der Direktor Burckhard, ein bissel wie der Andrian und hauptsächlich wie der gute Mond, wenn er voll ist.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1898-07-23",
+      "end_value": "1898-07-23"
+    },
+    "field_sources": [
+      "Briefwechsel Bahr/Hofmannsthal. Hg. Elsbeth Dangel-Pelloquin. Göttingen: Wallstein. (In Vorbereitung)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3e609705-82f8-4131-8050-98fdf2f56766/node_type?resourceVersion=id%3A3716"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3e609705-82f8-4131-8050-98fdf2f56766/relationships/node_type?resourceVersion=id%3A3716"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3e609705-82f8-4131-8050-98fdf2f56766/revision_uid?resourceVersion=id%3A3716"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3e609705-82f8-4131-8050-98fdf2f56766/relationships/revision_uid?resourceVersion=id%3A3716"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3e609705-82f8-4131-8050-98fdf2f56766/uid?resourceVersion=id%3A3716"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3e609705-82f8-4131-8050-98fdf2f56766/relationships/uid?resourceVersion=id%3A3716"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3e609705-82f8-4131-8050-98fdf2f56766/field_event_type?resourceVersion=id%3A3716"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3e609705-82f8-4131-8050-98fdf2f56766/relationships/field_event_type?resourceVersion=id%3A3716"
+        }
+      }
+    }
+  }
+}

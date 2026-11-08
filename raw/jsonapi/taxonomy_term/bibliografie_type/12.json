@@ -1,0 +1,86 @@
+{
+  "type": "taxonomy_term--bibliografie_type",
+  "id": "658fcc4a-c5e5-437c-8354-4db6f74be99f",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/taxonomy_term/bibliografie_type/658fcc4a-c5e5-437c-8354-4db6f74be99f?resourceVersion=id%3A16"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/taxonomy_term/bibliografie_type/658fcc4a-c5e5-437c-8354-4db6f74be99f?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__tid": 12,
+    "drupal_internal__revision_id": 16,
+    "langcode": "de",
+    "revision_created": "2020-02-14T17:10:46+00:00",
+    "status": true,
+    "name": "Literarische Prosa",
+    "description": null,
+    "weight": 0,
+    "changed": "2020-02-14T17:10:46+00:00",
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/bibliografie-type/literarische-prosa",
+      "pid": 1893,
+      "langcode": "de"
+    }
+  },
+  "relationships": {
+    "vid": {
+      "data": {
+        "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+        "id": "206aa5a7-2dc1-4ac9-a930-c6e0c936ba14",
+        "meta": {
+          "drupal_internal__target_id": "bibliografie_type"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/taxonomy_term/bibliografie_type/658fcc4a-c5e5-437c-8354-4db6f74be99f/vid?resourceVersion=id%3A16"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/taxonomy_term/bibliografie_type/658fcc4a-c5e5-437c-8354-4db6f74be99f/relationships/vid?resourceVersion=id%3A16"
+        }
+      }
+    },
+    "revision_user": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/taxonomy_term/bibliografie_type/658fcc4a-c5e5-437c-8354-4db6f74be99f/revision_user?resourceVersion=id%3A16"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/taxonomy_term/bibliografie_type/658fcc4a-c5e5-437c-8354-4db6f74be99f/relationships/revision_user?resourceVersion=id%3A16"
+        }
+      }
+    },
+    "parent": {
+      "data": [
+        {
+          "type": "taxonomy_term--bibliografie_type",
+          "id": "virtual",
+          "meta": {
+            "links": {
+              "help": {
+                "href": "https://www.drupal.org/docs/8/modules/json-api/core-concepts#virtual",
+                "meta": {
+                  "about": "Usage and meaning of the 'virtual' resource identifier."
+                }
+              }
+            }
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/taxonomy_term/bibliografie_type/658fcc4a-c5e5-437c-8354-4db6f74be99f/parent?resourceVersion=id%3A16"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/taxonomy_term/bibliografie_type/658fcc4a-c5e5-437c-8354-4db6f74be99f/relationships/parent?resourceVersion=id%3A16"
+        }
+      }
+    }
+  }
+}

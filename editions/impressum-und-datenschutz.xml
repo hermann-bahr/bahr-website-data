@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="impressum-und-datenschutz" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Impressum und Datenschutz</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">90885</idno>
+        <idno type="drupal-alias">/impressum-und-datenschutz</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/impressum-und-datenschutz">https://bahr.univie.ac.at/impressum-und-datenschutz</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="footer">
+          <term n="2" key="impressum-und-datenschutz">Impressum und Datenschutz</term>
+        </keywords>
+        <classCode scheme="drupal-type">page</classCode>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2020-02-27T14:18:49+00:00" type="created">angelegt in Drupal</change>
+      <change when="2020-02-27T14:28:07+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p><hi rend="bold">Projektleitung </hi><lb/> <ref target="http://www.medientheorie.com/index.html">Univ. Prof. Dr. Claus Pias</ref> (cp)<lb/> <ref target="http://www.leuphana.de/institute/icam.html">Leuphana Universität, Lüneburg</ref></p>
+        <p><hi rend="bold">Nationaler Kooperationspartner</hi><lb/> <ref target="http://homepage.univie.ac.at/alfred.pfabigan/">a.o. Univ. Prof. Dr. Alfred Pfabigan</ref><lb/> Institut für Philosophie, Universität Wien</p>
+        <p><hi rend="bold">Textverzeichnis und Website</hi><lb/> Dr. Martin Anton Müller (mam)<lb/> <hi rend="italic">mail:</hi> martin.anton.mueller at oeaw.ac.at</p>
+        <p><hi rend="bold">Kritische Schriften</hi><lb/> Mag. Gottfried Schnödl (gs)<lb/> <hi rend="italic">mail:</hi> schnoedl at leuphana.de</p>
+        <p><hi rend="bold">Technik</hi><lb/> <ref target="technische-umsetzung.xml">hier</ref></p>
+        <p><hi rend="bold">Erneuerung der Website 2020</hi><lb/> <hi rend="italic">mail:</hi> klaus.illmayer at oeaw.ac.at</p>
+        <p><hi rend="bold">Anschrift:</hi><lb/> Universität Wien<lb/> Institut für Philosophie<lb/> Universitätsstraße 7<lb/> A-1010 Wien</p>
+        <p>Gefördert vom 1. September 2009 bis zum 31. August 2012 durch Mittel von<lb/> <ref target="http://www.fwf.ac.at/">FWF – Der Wissenschaftsfonds</ref></p>
+        <p>
+          <hi rend="bold">
+            <ref target="https://backend.univie.ac.at/fileadmin/user_upload/p_dsba/datenschutzerklaerung_websites_V03_08102019.pdf">Datenschutzerklärung</ref>
+          </hi>
+        </p>
+        <p>
+          <hi rend="italic"><hi rend="bold">Disclaimer:</hi> Alle Inhalte von "www.univie.ac.at/bahr" wurden sorgfältig erstellt und kontrolliert. Die Universität Wien - bzw. das Institut für Philosophie - übernimmt keine Haftung für Richtigkeit, Vollständigkeit und Aktualität der Angaben auf dieser Seite. Somit übernehmen die Universität Wien bzw. das Institut für Philosophie keine Verantwortung oder Haftung für Schäden, die durch die Benutzung dieser Homepage entstanden sind. Links zu anderen Homepages wurden sorgfältig ausgesucht. Da sich diese aber außerhalb der Universität Wien befinden, übernehmen wir keine Haftung oder Verantwortung für diese Seiten.</hi>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

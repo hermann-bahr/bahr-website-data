@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "63d75fa0-106f-4e70-ab21-813533173bde",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/63d75fa0-106f-4e70-ab21-813533173bde?resourceVersion=id%3A2703"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/63d75fa0-106f-4e70-ab21-813533173bde?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38914,
+    "drupal_internal__vid": 2703,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "4 Vorlesungen",
+    "created": "2011-03-09T11:16:30+00:00",
+    "changed": "2011-07-14T09:38:18+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38914",
+      "pid": 657,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 7. April 1897, nach dem Erfolg seiner Vorlesung bei Bösendorfer plant Bahr für Oktober, November, Dezember und Jänner vier Vorlesungen. Das Programm: <blockquote>Novelle von Ebner-Eschenbach und Pincelliade, humoristisches Epos von Ferdinand von Saar; die zweite: Humoristisches von Otto Erich Hartleben, Otto Julius Bierbaum, Arthur Schnitzler und mir; die  dritte: moderne französische Humoristen (Maurice Donnay, Henri Lavedan, Courteline und Mouni [!]); die vierte: das junge Skandinavien.</blockquote> Bahr sucht nun jemand, der die Organisation übernimmt und ihm 500 Gulden garantiert, wobei das ganze sicher 1000 Gulden bringen würde.",
+      "format": "full_html",
+      "processed": "Am 7. April 1897, nach dem Erfolg seiner Vorlesung bei Bösendorfer plant Bahr für Oktober, November, Dezember und Jänner vier Vorlesungen. Das Programm: <blockquote>Novelle von Ebner-Eschenbach und Pincelliade, humoristisches Epos von Ferdinand von Saar; die zweite: Humoristisches von Otto Erich Hartleben, Otto Julius Bierbaum, Arthur Schnitzler und mir; die  dritte: moderne französische Humoristen (Maurice Donnay, Henri Lavedan, Courteline und Mouni [!]); die vierte: das junge Skandinavien.</blockquote> Bahr sucht nun jemand, der die Organisation übernimmt und ihm 500 Gulden garantiert, wobei das ganze sicher 1000 Gulden bringen würde.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1897-04-07",
+      "end_value": "1897-04-07"
+    },
+    "field_sources": [
+      "Wienbibliothek, Brief an Unbekannt, H.I.N. 213548, 7.4.1897"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/63d75fa0-106f-4e70-ab21-813533173bde/node_type?resourceVersion=id%3A2703"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/63d75fa0-106f-4e70-ab21-813533173bde/relationships/node_type?resourceVersion=id%3A2703"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/63d75fa0-106f-4e70-ab21-813533173bde/revision_uid?resourceVersion=id%3A2703"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/63d75fa0-106f-4e70-ab21-813533173bde/relationships/revision_uid?resourceVersion=id%3A2703"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/63d75fa0-106f-4e70-ab21-813533173bde/uid?resourceVersion=id%3A2703"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/63d75fa0-106f-4e70-ab21-813533173bde/relationships/uid?resourceVersion=id%3A2703"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/63d75fa0-106f-4e70-ab21-813533173bde/field_event_type?resourceVersion=id%3A2703"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/63d75fa0-106f-4e70-ab21-813533173bde/relationships/field_event_type?resourceVersion=id%3A2703"
+        }
+      }
+    }
+  }
+}

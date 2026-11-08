@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "c5c2eeb6-6e3a-4284-bbe1-0d4e45161c55",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/c5c2eeb6-6e3a-4284-bbe1-0d4e45161c55?resourceVersion=id%3A2698"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/c5c2eeb6-6e3a-4284-bbe1-0d4e45161c55?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38909,
+    "drupal_internal__vid": 2698,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Venedig",
+    "created": "2011-03-08T12:40:52+00:00",
+    "changed": "2011-09-19T15:36:54+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38909",
+      "pid": 652,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Aufenthalt in Venedig vom 8. Juni bis zum 25. Juni 1914.",
+      "format": "full_html",
+      "processed": "Aufenthalt in Venedig vom 8. Juni bis zum 25. Juni 1914.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1914-06-08",
+      "end_value": "1914-06-25"
+    },
+    "field_sources": [
+      "Sowie Bahr/Kvapil, 156. (22.6.1914) und Anm. S. 358.",
+      "Eigenhändige Postkarte an Prof. Dr. [    ] Witte, Blankenburg. Deutschland, dat. Venedig, 24.6.1914, Wienbibliothek, H.I.N. 85226"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c5c2eeb6-6e3a-4284-bbe1-0d4e45161c55/node_type?resourceVersion=id%3A2698"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c5c2eeb6-6e3a-4284-bbe1-0d4e45161c55/relationships/node_type?resourceVersion=id%3A2698"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c5c2eeb6-6e3a-4284-bbe1-0d4e45161c55/revision_uid?resourceVersion=id%3A2698"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c5c2eeb6-6e3a-4284-bbe1-0d4e45161c55/relationships/revision_uid?resourceVersion=id%3A2698"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c5c2eeb6-6e3a-4284-bbe1-0d4e45161c55/uid?resourceVersion=id%3A2698"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c5c2eeb6-6e3a-4284-bbe1-0d4e45161c55/relationships/uid?resourceVersion=id%3A2698"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c5c2eeb6-6e3a-4284-bbe1-0d4e45161c55/field_event_type?resourceVersion=id%3A2698"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c5c2eeb6-6e3a-4284-bbe1-0d4e45161c55/relationships/field_event_type?resourceVersion=id%3A2698"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "efee4f6b-03c3-4509-aad6-c0a2caf2bae1",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/efee4f6b-03c3-4509-aad6-c0a2caf2bae1?resourceVersion=id%3A3210"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/efee4f6b-03c3-4509-aad6-c0a2caf2bae1?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49364,
+    "drupal_internal__vid": 3210,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Eheprobleme",
+    "created": "2011-10-13T11:50:59+00:00",
+    "changed": "2011-11-14T09:27:42+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49364",
+      "pid": 1189,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Redlich notiert sich am 23. August 1916 in sein Tagebuch über die Begegnung am 17.:<blockquote>aus Bemerkungen des Hoteliers Jung und der Helene Thienen entnehme ich mit Besorgnis, daß die Ehe nicht richtig \"geht\" und auch in manchen Zügen des Bildes, das mir Bahrs Wesen bot, fand ich einen Hinweis darauf.</blockquote>Das dürfte eine temporäre Verstimmung gewesen sein, vielleicht in Folge des katholischen Wandels und der sexuellen Enthaltsamkeit, die für Anna Bahr-Mildenburg in den ersten Jahren ein Problem darstellte.",
+      "format": "full_html",
+      "processed": "Redlich notiert sich am 23. August 1916 in sein Tagebuch über die Begegnung am 17.:<blockquote>aus Bemerkungen des Hoteliers Jung und der Helene Thienen entnehme ich mit Besorgnis, daß die Ehe nicht richtig \"geht\" und auch in manchen Zügen des Bildes, das mir Bahrs Wesen bot, fand ich einen Hinweis darauf.</blockquote>Das dürfte eine temporäre Verstimmung gewesen sein, vielleicht in Folge des katholischen Wandels und der sexuellen Enthaltsamkeit, die für Anna Bahr-Mildenburg in den ersten Jahren ein Problem darstellte.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1916-08-23",
+      "end_value": "1916-08-23"
+    },
+    "field_sources": [
+      "Fritz Fellner und Doris A. Corradini (Hgg.): Schicksalsjahre Österreichs. Die Erinnerungen und Tagebücher Josef Redlichs 1869–1936. Wien: Böhlau 2011, II, 196.",
+      "Bahr/Redlich, 186."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/efee4f6b-03c3-4509-aad6-c0a2caf2bae1/node_type?resourceVersion=id%3A3210"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/efee4f6b-03c3-4509-aad6-c0a2caf2bae1/relationships/node_type?resourceVersion=id%3A3210"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/efee4f6b-03c3-4509-aad6-c0a2caf2bae1/revision_uid?resourceVersion=id%3A3210"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/efee4f6b-03c3-4509-aad6-c0a2caf2bae1/relationships/revision_uid?resourceVersion=id%3A3210"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/efee4f6b-03c3-4509-aad6-c0a2caf2bae1/uid?resourceVersion=id%3A3210"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/efee4f6b-03c3-4509-aad6-c0a2caf2bae1/relationships/uid?resourceVersion=id%3A3210"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/efee4f6b-03c3-4509-aad6-c0a2caf2bae1/field_event_type?resourceVersion=id%3A3210"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/efee4f6b-03c3-4509-aad6-c0a2caf2bae1/relationships/field_event_type?resourceVersion=id%3A3210"
+        }
+      }
+    }
+  }
+}

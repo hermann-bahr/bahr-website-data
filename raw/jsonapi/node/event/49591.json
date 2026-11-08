@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "14d2759b-31ae-4c5c-a1c4-61d8054c4633",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/14d2759b-31ae-4c5c-a1c4-61d8054c4633?resourceVersion=id%3A3418"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/14d2759b-31ae-4c5c-a1c4-61d8054c4633?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49591,
+    "drupal_internal__vid": 3418,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Wachner",
+    "created": "2011-11-10T14:04:01+00:00",
+    "changed": "2011-11-23T14:54:47+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49591",
+      "pid": 1407,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "\"Vor drei Monaten\" besuchte die Schauspielerin Sophie Wachner überraschend Bahr, wie er in seinem \"Tagebuch\" am 20. Dezember 1918 im Nachruf auf sie berichtet. Er wollte ihr zurück ans Burgtheater helfen.",
+      "format": "full_html",
+      "processed": "\"Vor drei Monaten\" besuchte die Schauspielerin Sophie Wachner überraschend Bahr, wie er in seinem \"Tagebuch\" am 20. Dezember 1918 im Nachruf auf sie berichtet. Er wollte ihr zurück ans Burgtheater helfen.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1918-09-20",
+      "end_value": "1918-09-20"
+    },
+    "field_sources": [
+      "Hermann Bahr: Tagebuch. 20. Dezember. Neues Wiener Journal, 26 (1918) #9036, 5. (29.12.1918) Buchausgabe: Tagebuch 1919, 17-18"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/14d2759b-31ae-4c5c-a1c4-61d8054c4633/node_type?resourceVersion=id%3A3418"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/14d2759b-31ae-4c5c-a1c4-61d8054c4633/relationships/node_type?resourceVersion=id%3A3418"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/14d2759b-31ae-4c5c-a1c4-61d8054c4633/revision_uid?resourceVersion=id%3A3418"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/14d2759b-31ae-4c5c-a1c4-61d8054c4633/relationships/revision_uid?resourceVersion=id%3A3418"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/14d2759b-31ae-4c5c-a1c4-61d8054c4633/uid?resourceVersion=id%3A3418"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/14d2759b-31ae-4c5c-a1c4-61d8054c4633/relationships/uid?resourceVersion=id%3A3418"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/14d2759b-31ae-4c5c-a1c4-61d8054c4633/field_event_type?resourceVersion=id%3A3418"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/14d2759b-31ae-4c5c-a1c4-61d8054c4633/relationships/field_event_type?resourceVersion=id%3A3418"
+        }
+      }
+    }
+  }
+}

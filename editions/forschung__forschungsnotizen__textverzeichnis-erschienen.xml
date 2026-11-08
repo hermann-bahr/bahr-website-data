@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="forschung__forschungsnotizen__textverzeichnis-erschienen" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Textverzeichnis erschienen</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">81342</idno>
+        <idno type="drupal-alias">/article/81342</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/article/81342">https://bahr.univie.ac.at/article/81342</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="6" key="forschung">Forschung</term>
+          <term n="4" key="forschungsnotizen">Forschungsnotizen</term>
+          <term n="2" key="textverzeichnis-erschienen" type="eintrag">Textverzeichnis erschienen</term>
+        </keywords>
+        <classCode scheme="drupal-type">article</classCode>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2014-12-27T10:27:42+00:00" type="created">angelegt in Drupal</change>
+      <change when="2014-12-27T10:34:38+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <figure>
+          <graphic url="https://bahr.univie.ac.at/sites/all/bilder/textverzeichnis.jpg"/>
+        </figure>
+        <p>Im Juli 2013 erschien beim VDG-Verlag Weimar eine gedruckte Fassung des Textverzeichnisses. Dabei handelt es sich um eine für den Druck aufbereitete Fassung der auf dieser Website einsehbaren Nachweise. Die Vorzüge der Buchausgabe bestehen darin, dass sie unmittelbarer einen Überblick über das Schaffen in bestimmten Jahren ermöglicht und sie mit einiger Sicherheit die Lebenszeit dieser Website übderdauern wird. Nachträge hingegen wird es nur auf dieser Website geben. Zur <ref target="http://www.vdg-weimar.de/katalog/hermann-bahr-textverzeichnis-801.html">Verlagspräsentation</ref></p>
+      </div>
+    </body>
+  </text>
+</TEI>

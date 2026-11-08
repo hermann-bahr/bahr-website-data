@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="forschung__derivate__bahr-im-simplicissimus" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Bahr im "Simplicissimus"</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">28282</idno>
+        <idno type="drupal-alias">/bahr-im-simplicissimus</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bahr-im-simplicissimus">https://bahr.univie.ac.at/bahr-im-simplicissimus</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="6" key="forschung">Forschung</term>
+          <term n="10" key="derivate">Derivate</term>
+          <term n="5" key="bahr-im-simplicissimus" type="eintrag">Bahr im "Simplicissimus"</term>
+        </keywords>
+        <classCode scheme="drupal-type">page</classCode>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2010-11-26T20:29:40+00:00" type="created">angelegt in Drupal</change>
+      <change when="2011-07-12T14:32:59+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Die Online-Ausgabe der Satire-Zeitschrift <ref target="http://simplicissimus.info">Simplicissimus</ref> (Herzogin Anna Amalia Bibliothek Weimar) hat auch ein Personenregister, das <ref target="http://simplicissimus.info/">hier</ref> einsehbar ist. Die folgenden Erwähnungen Bahrs finden sich, die Hefte sind ebenfalls über den Link einsehbar: Jg. 2, H. 13, S. 102, im Text »Aufruf« von [ohne Signatur] Jg. 9, H. 8, S. 72, im Text »Ein komischer Tod« von Kurt Aram Jg. 10, H. 31, S. 371, Zeichnung »Stein unter Steinen« von Olaf Gulbransson Jg. 10, H. 48, S. 570, im Text »Hermann Bahrs Engagement, wie es hätte verlaufen müssen« von Franz Blei Jg. 15, H. 42, S. 722, Zeichnung »Bescherung« von Olaf Gulbransson Jg. 18, H. 50, S. 834, im Text »Triumph des Katholizismus« von Emanuel Jg. 18, H. 51, S. 850, Zeichnung »Bahr beim lieben Gott« von Ragnvald Blix Jg. 24, H. 13, S. 176, im Text »Die Erlesenen« von Peter Scher Jg. 27, H. 30, S. 429, im Text »Was es alles gibt -« von Emanuel Jg. 29, H. 18, S. 255, im Text »Unser Preisausschreiben. Erster Preis: Die Vision« von Heinrich Zillich Jg. 29, H. 32, S. 427, Zeichnung »Die Jungfrau von Orleans« von Erich Schilling Jg. 30, H. 11, S. 172, Zeichnung »Wie verbringen Sie ihre Sommerferien?« von Erich Schilling Jg. 32, H. 32, S. 426, im Text »In statu nascendi« von Ratatöskr Jg. 33, H. 15, S. 203, Zeichnung »Und was geht in der Literatur vor?« von Erich Schilling Jg. 34, H. 4, S. 38, im Text »Vom Tage« von [ohne Signatur] Jg. 34, H. 46, S. 562, im Text »Redoute Welt« von Hans Seiffert Jg. 35, H. 17, S. 201, im Text »Warum nicht endlich deutscher Sport?« von Peter Scher Jg. 35, H. 28, S. 330, im Text »Lieber Simpplicissimus!« von [ohne Signatur] Jg. 36, H. 36, S. 423, Zeichnung »St. Nikolaus hat's heutzutage schwer!« von Thomas Theodor Heine</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,114 @@
+{
+  "type": "node--event",
+  "id": "c0a20510-97bf-40cc-aaf8-b83a1c9dd872",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/c0a20510-97bf-40cc-aaf8-b83a1c9dd872?resourceVersion=id%3A2431"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/c0a20510-97bf-40cc-aaf8-b83a1c9dd872?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28108,
+    "drupal_internal__vid": 2431,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Götterdämmerung",
+    "created": "2010-08-11T20:00:27+00:00",
+    "changed": "2010-08-11T20:00:27+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28108",
+      "pid": 266,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahr besucht am 21. Juni \"Die Götterdämmerung\" in der Wiener Hofoper, in der Anna Mildenburg die Brünnhilde singt.",
+      "format": "full_html",
+      "processed": "Bahr besucht am 21. Juni \"Die Götterdämmerung\" in der Wiener Hofoper, in der Anna Mildenburg die Brünnhilde singt.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1907-06-21",
+      "end_value": "1907-06-21"
+    },
+    "field_sources": []
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c0a20510-97bf-40cc-aaf8-b83a1c9dd872/node_type?resourceVersion=id%3A2431"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c0a20510-97bf-40cc-aaf8-b83a1c9dd872/relationships/node_type?resourceVersion=id%3A2431"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c0a20510-97bf-40cc-aaf8-b83a1c9dd872/revision_uid?resourceVersion=id%3A2431"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c0a20510-97bf-40cc-aaf8-b83a1c9dd872/relationships/revision_uid?resourceVersion=id%3A2431"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c0a20510-97bf-40cc-aaf8-b83a1c9dd872/uid?resourceVersion=id%3A2431"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c0a20510-97bf-40cc-aaf8-b83a1c9dd872/relationships/uid?resourceVersion=id%3A2431"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c0a20510-97bf-40cc-aaf8-b83a1c9dd872/field_event_type?resourceVersion=id%3A2431"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c0a20510-97bf-40cc-aaf8-b83a1c9dd872/relationships/field_event_type?resourceVersion=id%3A2431"
+        }
+      }
+    }
+  }
+}

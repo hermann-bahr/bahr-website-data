@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "9c6db181-9f06-4c2d-9434-58afeaa4fdd9",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/9c6db181-9f06-4c2d-9434-58afeaa4fdd9?resourceVersion=id%3A2926"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/9c6db181-9f06-4c2d-9434-58afeaa4fdd9?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 43999,
+    "drupal_internal__vid": 2926,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Neujahrsnacht",
+    "created": "2011-07-13T11:01:11+00:00",
+    "changed": "2011-09-14T14:05:33+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/43999",
+      "pid": 899,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Um 1/2 1 kommt Schnitzler zu Adele Sandrock (und notiert sich im Tagebuch:)\r\n<blockquote>Bahr macht mir, etwas betrunken auf. Hinein, zu Dilly, die im Bett liegt. Auch etwas betrunken und heiser. Zwei Champagnerflaschen stehen auf dem Nachtkastel. – Sie ist zärtlich mit Bahr um mich zu ärgern – es war mir angenehmer als wenn sie mit mir zärtlich gewesen wäre – Bahr ging. Ich blieb. - Wie ich sie hasste!</blockquote>",
+      "format": "full_html",
+      "processed": "Um 1/2 1 kommt Schnitzler zu Adele Sandrock (und notiert sich im Tagebuch:)\n<blockquote>Bahr macht mir, etwas betrunken auf. Hinein, zu Dilly, die im Bett liegt. Auch etwas betrunken und heiser. Zwei Champagnerflaschen stehen auf dem Nachtkastel. – Sie ist zärtlich mit Bahr um mich zu ärgern – es war mir angenehmer als wenn sie mit mir zärtlich gewesen wäre – Bahr ging. Ich blieb. - Wie ich sie hasste!</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1894-12-31",
+      "end_value": "1894-12-31"
+    },
+    "field_sources": [
+      "Schnitzler: Tagebuch, II, 108-109.",
+      "Adele Sandrock und Arthur Schnitzler: Dilly. Geschichte einer Liebe in Briefen, Bildern und Dokumenten. Hg. Renate Wagner. Frankfurt/Main: Fischer 1983, 188."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9c6db181-9f06-4c2d-9434-58afeaa4fdd9/node_type?resourceVersion=id%3A2926"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9c6db181-9f06-4c2d-9434-58afeaa4fdd9/relationships/node_type?resourceVersion=id%3A2926"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9c6db181-9f06-4c2d-9434-58afeaa4fdd9/revision_uid?resourceVersion=id%3A2926"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9c6db181-9f06-4c2d-9434-58afeaa4fdd9/relationships/revision_uid?resourceVersion=id%3A2926"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9c6db181-9f06-4c2d-9434-58afeaa4fdd9/uid?resourceVersion=id%3A2926"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9c6db181-9f06-4c2d-9434-58afeaa4fdd9/relationships/uid?resourceVersion=id%3A2926"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9c6db181-9f06-4c2d-9434-58afeaa4fdd9/field_event_type?resourceVersion=id%3A2926"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9c6db181-9f06-4c2d-9434-58afeaa4fdd9/relationships/field_event_type?resourceVersion=id%3A2926"
+        }
+      }
+    }
+  }
+}

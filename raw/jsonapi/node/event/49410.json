@@ -1,0 +1,120 @@
+{
+  "type": "node--event",
+  "id": "389f43e2-6883-4f62-8376-b51b9f83fd2f",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/389f43e2-6883-4f62-8376-b51b9f83fd2f?resourceVersion=id%3A3253"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/389f43e2-6883-4f62-8376-b51b9f83fd2f?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49410,
+    "drupal_internal__vid": 3253,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Anton Bruckner",
+    "created": "2011-10-18T15:01:32+00:00",
+    "changed": "2012-01-27T11:01:29+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49410",
+      "pid": 1234,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Die erste in der Folge berühmte Person, die in Bahrs Leben auftaucht: Anton Bruckner als Klavierlehrer.<blockquote>Der andere Mensch im damaligen Linz aber, der junge Domorganist und Chormeister der Liedertafel, der eine Zeit als Klavierlehrer eines losen Tantchens, dem er, verliebt, unablässig die kleinen ungeschickten Händchen abzuküssen nicht müde ward, ins Haus kam, Anton Bruckner, war mit seinen Kratzfüßen, vor Verlegenheit schwitzend, in seinen ungelenken Huldigungen ein bäurischer Tolpatsch von solcher Possenkomik, daß meine Mutter vor Lachen nicht dazu kam, sich ihn einmal näher anzusehen.</blockquote>So schreibt Bahr im \"Selbstbildnis\", im \"Tagebuch\" aus der Zeit ist er vier Jahre alt. In einem anderen Text, \"Der Widersacher\", äußert er sich ausführlicher und datiert es 1929 als beinahe 60 Jahre zurück liegend. 1932 kommen weitere Details dazu: Die jüngste Schwester des Vaters (Rosa Waniczek) flüchtet nach der Niederlage von Königgrätz aus Wien nach Linz, wo ihre musikalische Ausbildung nicht zum Stillstand kommen soll, weswegen Bruckner engagiert wird. Nachdem die junge Kokette sich - um nicht spielen zu müssen - vom Klavierlehrer die Finger küssen lässt, wird dieser sofort entlassen.",
+      "format": "full_html",
+      "processed": "Die erste in der Folge berühmte Person, die in Bahrs Leben auftaucht: Anton Bruckner als Klavierlehrer.<blockquote>Der andere Mensch im damaligen Linz aber, der junge Domorganist und Chormeister der Liedertafel, der eine Zeit als Klavierlehrer eines losen Tantchens, dem er, verliebt, unablässig die kleinen ungeschickten Händchen abzuküssen nicht müde ward, ins Haus kam, Anton Bruckner, war mit seinen Kratzfüßen, vor Verlegenheit schwitzend, in seinen ungelenken Huldigungen ein bäurischer Tolpatsch von solcher Possenkomik, daß meine Mutter vor Lachen nicht dazu kam, sich ihn einmal näher anzusehen.</blockquote>So schreibt Bahr im \"Selbstbildnis\", im \"Tagebuch\" aus der Zeit ist er vier Jahre alt. In einem anderen Text, \"Der Widersacher\", äußert er sich ausführlicher und datiert es 1929 als beinahe 60 Jahre zurück liegend. 1932 kommen weitere Details dazu: Die jüngste Schwester des Vaters (Rosa Waniczek) flüchtet nach der Niederlage von Königgrätz aus Wien nach Linz, wo ihre musikalische Ausbildung nicht zum Stillstand kommen soll, weswegen Bruckner engagiert wird. Nachdem die junge Kokette sich - um nicht spielen zu müssen - vom Klavierlehrer die Finger küssen lässt, wird dieser sofort entlassen.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1866-07-03",
+      "end_value": "1866-07-03"
+    },
+    "field_sources": [
+      "Selbstbildnis, 23",
+      "Hermann Bahr: Der Widersacher. Neue Freie Presse, (1929) #23244, Morgenblatt, 1-3. (1.6.1929)",
+      "Hermann Bahr: Erste Begegnung mit Eleonora Duse und mit Anton Bruckner. Aus meinen Erinnerungen. Neues Wiener Journal, 40 (1932) #13689, 12. (1.1.1932)",
+      "Liebe der Lebenden, III, 160.",
+      "(Hier auf die Schlacht bei Königgrätz, 3. Juli 1866 datiert)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/389f43e2-6883-4f62-8376-b51b9f83fd2f/node_type?resourceVersion=id%3A3253"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/389f43e2-6883-4f62-8376-b51b9f83fd2f/relationships/node_type?resourceVersion=id%3A3253"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/389f43e2-6883-4f62-8376-b51b9f83fd2f/revision_uid?resourceVersion=id%3A3253"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/389f43e2-6883-4f62-8376-b51b9f83fd2f/relationships/revision_uid?resourceVersion=id%3A3253"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/389f43e2-6883-4f62-8376-b51b9f83fd2f/uid?resourceVersion=id%3A3253"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/389f43e2-6883-4f62-8376-b51b9f83fd2f/relationships/uid?resourceVersion=id%3A3253"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/389f43e2-6883-4f62-8376-b51b9f83fd2f/field_event_type?resourceVersion=id%3A3253"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/389f43e2-6883-4f62-8376-b51b9f83fd2f/relationships/field_event_type?resourceVersion=id%3A3253"
+        }
+      }
+    }
+  }
+}

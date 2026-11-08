@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "442831e4-b380-47d4-83a5-8e6ccb2b3500",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/442831e4-b380-47d4-83a5-8e6ccb2b3500?resourceVersion=id%3A2407"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/442831e4-b380-47d4-83a5-8e6ccb2b3500?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28080,
+    "drupal_internal__vid": 2407,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Das Prinzip",
+    "created": "2010-08-09T09:47:55+00:00",
+    "changed": "2012-10-16T13:33:53+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28080",
+      "pid": 241,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Die Uraufführung von Bahrs Stück \"Das Prinzip\" findet am 19. Oktober 1912 wieder an einigen Bühnen gleichzeitig statt: An den Schauspielhäusern in Köln, Hamburg, Bremen, Köln und Breslau sowie am Hoftheater Darmstadt.\r\n\r\nDas Stück handelt von einem radikal die freie Entfaltung der Menschen predigenden ehemaligen Pfarrer namens Friedrich Esch. Problematisch wird es für ihn, als sich sein Sohn mit der alten Köchin verlobt und die Tochter mit dem Gärtner durchbrennt. \r\n\r\nDas Buch mit Dekorationsskizzen von Koloman Moser erscheint 1912 bei S. Fischer.",
+      "format": "full_html",
+      "processed": "Die Uraufführung von Bahrs Stück \"Das Prinzip\" findet am 19. Oktober 1912 wieder an einigen Bühnen gleichzeitig statt: An den Schauspielhäusern in Köln, Hamburg, Bremen, Köln und Breslau sowie am Hoftheater Darmstadt.\n\nDas Stück handelt von einem radikal die freie Entfaltung der Menschen predigenden ehemaligen Pfarrer namens Friedrich Esch. Problematisch wird es für ihn, als sich sein Sohn mit der alten Köchin verlobt und die Tochter mit dem Gärtner durchbrennt. \n\nDas Buch mit Dekorationsskizzen von Koloman Moser erscheint 1912 bei S. Fischer.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1912-10-19",
+      "end_value": "1912-10-19"
+    },
+    "field_sources": [
+      "Hermann Bahr: Das Prinzip. Lustspiel. Mit zwei Dekorationsskizzen und zwei Bühnenplänen von Koloman Moser,. Berlin: S. Fischer, 1912."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/442831e4-b380-47d4-83a5-8e6ccb2b3500/node_type?resourceVersion=id%3A2407"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/442831e4-b380-47d4-83a5-8e6ccb2b3500/relationships/node_type?resourceVersion=id%3A2407"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/442831e4-b380-47d4-83a5-8e6ccb2b3500/revision_uid?resourceVersion=id%3A2407"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/442831e4-b380-47d4-83a5-8e6ccb2b3500/relationships/revision_uid?resourceVersion=id%3A2407"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/442831e4-b380-47d4-83a5-8e6ccb2b3500/uid?resourceVersion=id%3A2407"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/442831e4-b380-47d4-83a5-8e6ccb2b3500/relationships/uid?resourceVersion=id%3A2407"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "27f3d2a4-8970-4726-9ab8-ce37707ec1bc",
+          "meta": {
+            "drupal_internal__target_id": 1
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/442831e4-b380-47d4-83a5-8e6ccb2b3500/field_event_type?resourceVersion=id%3A2407"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/442831e4-b380-47d4-83a5-8e6ccb2b3500/relationships/field_event_type?resourceVersion=id%3A2407"
+        }
+      }
+    }
+  }
+}

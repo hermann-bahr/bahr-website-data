@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "1a96e2e2-1044-41a8-83bf-f23c4d20f39f",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/1a96e2e2-1044-41a8-83bf-f23c4d20f39f?resourceVersion=id%3A2978"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/1a96e2e2-1044-41a8-83bf-f23c4d20f39f?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44058,
+    "drupal_internal__vid": 2978,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Salzburg, Lueg",
+    "created": "2011-09-02T10:19:09+00:00",
+    "changed": "2011-09-02T10:19:09+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44058",
+      "pid": 956,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Vom 26. bis zum 28. Mai 1908 Aufenthalt in Salzburg und Lueg bei Burckhard.",
+      "format": "full_html",
+      "processed": "Vom 26. bis zum 28. Mai 1908 Aufenthalt in Salzburg und Lueg bei Burckhard.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1906-05-26",
+      "end_value": "1906-05-28"
+    },
+    "field_sources": [
+      "Tagebücher (Csàky), V, 15."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1a96e2e2-1044-41a8-83bf-f23c4d20f39f/node_type?resourceVersion=id%3A2978"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1a96e2e2-1044-41a8-83bf-f23c4d20f39f/relationships/node_type?resourceVersion=id%3A2978"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1a96e2e2-1044-41a8-83bf-f23c4d20f39f/revision_uid?resourceVersion=id%3A2978"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1a96e2e2-1044-41a8-83bf-f23c4d20f39f/relationships/revision_uid?resourceVersion=id%3A2978"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1a96e2e2-1044-41a8-83bf-f23c4d20f39f/uid?resourceVersion=id%3A2978"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1a96e2e2-1044-41a8-83bf-f23c4d20f39f/relationships/uid?resourceVersion=id%3A2978"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1a96e2e2-1044-41a8-83bf-f23c4d20f39f/field_event_type?resourceVersion=id%3A2978"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1a96e2e2-1044-41a8-83bf-f23c4d20f39f/relationships/field_event_type?resourceVersion=id%3A2978"
+        }
+      }
+    }
+  }
+}

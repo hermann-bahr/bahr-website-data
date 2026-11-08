@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "2b13dc59-b418-4961-85d4-181898848719",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/2b13dc59-b418-4961-85d4-181898848719?resourceVersion=id%3A2612"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/2b13dc59-b418-4961-85d4-181898848719?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38791,
+    "drupal_internal__vid": 2612,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Sommerurlaub",
+    "created": "2011-02-01T14:24:12+00:00",
+    "changed": "2011-07-11T11:30:59+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38791",
+      "pid": 539,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 19. Juni 1895 tritt Bahr zusammen mit seiner Frau die Sommerferien an, die bis zum 12. Juli dauern. Zuerst geht's nach München (drei Tage), dann nach Schliersee (Konrad Dreher, Laura Marholm und Ole Hansson!) und an den Starnberger See, am 1. Juli Treffen mit Margarethe Langkammer und Gatten in Innsbruck um in der Gegend von Kufstein eine Woche zu verbringen, zuletzt an den Grundlsee und Ischl (Johann Strauss!), wo Rose Bahr den Juli über bleibt und wohin Bahr jeden Sonntag kommen will.",
+      "format": "full_html",
+      "processed": "Am 19. Juni 1895 tritt Bahr zusammen mit seiner Frau die Sommerferien an, die bis zum 12. Juli dauern. Zuerst geht's nach München (drei Tage), dann nach Schliersee (Konrad Dreher, Laura Marholm und Ole Hansson!) und an den Starnberger See, am 1. Juli Treffen mit Margarethe Langkammer und Gatten in Innsbruck um in der Gegend von Kufstein eine Woche zu verbringen, zuletzt an den Grundlsee und Ischl (Johann Strauss!), wo Rose Bahr den Juli über bleibt und wohin Bahr jeden Sonntag kommen will.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1895-06-19",
+      "end_value": "1895-07-12"
+    },
+    "field_sources": [
+      "Briefe an den Vater, 17.6.1895 und 12.7.1895 sowie ein undatierter aus München [21.6.1895]",
+      "Brief an J. S. Machar, 11.6.1895. In: Die Zeit und die tschechische Moderne, 327."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2b13dc59-b418-4961-85d4-181898848719/node_type?resourceVersion=id%3A2612"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2b13dc59-b418-4961-85d4-181898848719/relationships/node_type?resourceVersion=id%3A2612"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2b13dc59-b418-4961-85d4-181898848719/revision_uid?resourceVersion=id%3A2612"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2b13dc59-b418-4961-85d4-181898848719/relationships/revision_uid?resourceVersion=id%3A2612"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2b13dc59-b418-4961-85d4-181898848719/uid?resourceVersion=id%3A2612"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2b13dc59-b418-4961-85d4-181898848719/relationships/uid?resourceVersion=id%3A2612"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2b13dc59-b418-4961-85d4-181898848719/field_event_type?resourceVersion=id%3A2612"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2b13dc59-b418-4961-85d4-181898848719/relationships/field_event_type?resourceVersion=id%3A2612"
+        }
+      }
+    }
+  }
+}

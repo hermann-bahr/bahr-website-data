@@ -1,0 +1,114 @@
+{
+  "type": "node--event",
+  "id": "5d05f567-8caf-4e87-8367-0422010f476f",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/5d05f567-8caf-4e87-8367-0422010f476f?resourceVersion=id%3A3793"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/5d05f567-8caf-4e87-8367-0422010f476f?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74482,
+    "drupal_internal__vid": 3793,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Dissertation nicht eingereicht",
+    "created": "2013-03-12T14:09:21+00:00",
+    "changed": "2013-03-12T14:09:21+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/74482",
+      "pid": 1856,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 9. April 1886 berichtet Bahr seinem Vater, dass ihm Adolf Wagner geraten hat, seine Dissertation nicht einzureichen, da keine Aussicht auf Annahme durch das Kollegium bestünde, also das Geld umsonst ausgegeben wäre. Bahr beginnt eine neue, die er nie fertig stellt.",
+      "format": "full_html",
+      "processed": "Am 9. April 1886 berichtet Bahr seinem Vater, dass ihm Adolf Wagner geraten hat, seine Dissertation nicht einzureichen, da keine Aussicht auf Annahme durch das Kollegium bestünde, also das Geld umsonst ausgegeben wäre. Bahr beginnt eine neue, die er nie fertig stellt.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1886-04-09",
+      "end_value": "1886-04-09"
+    },
+    "field_sources": []
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5d05f567-8caf-4e87-8367-0422010f476f/node_type?resourceVersion=id%3A3793"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5d05f567-8caf-4e87-8367-0422010f476f/relationships/node_type?resourceVersion=id%3A3793"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5d05f567-8caf-4e87-8367-0422010f476f/revision_uid?resourceVersion=id%3A3793"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5d05f567-8caf-4e87-8367-0422010f476f/relationships/revision_uid?resourceVersion=id%3A3793"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5d05f567-8caf-4e87-8367-0422010f476f/uid?resourceVersion=id%3A3793"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5d05f567-8caf-4e87-8367-0422010f476f/relationships/uid?resourceVersion=id%3A3793"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5d05f567-8caf-4e87-8367-0422010f476f/field_event_type?resourceVersion=id%3A3793"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5d05f567-8caf-4e87-8367-0422010f476f/relationships/field_event_type?resourceVersion=id%3A3793"
+        }
+      }
+    }
+  }
+}

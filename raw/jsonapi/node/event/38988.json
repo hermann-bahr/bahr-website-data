@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "3d29ad32-7b6f-4792-9c2f-2c45d81334c9",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/3d29ad32-7b6f-4792-9c2f-2c45d81334c9?resourceVersion=id%3A2771"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/3d29ad32-7b6f-4792-9c2f-2c45d81334c9?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38988,
+    "drupal_internal__vid": 2771,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Salzburger Festspiele",
+    "created": "2011-03-17T11:42:38+00:00",
+    "changed": "2012-10-30T11:50:02+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38988",
+      "pid": 725,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahr hatte spätestens seit 1904, als er mit Max Reinhardt ein Doppel-Theater für Wien und Berlin betreiben wollte, Pläne, auch Salzburg in den größeren Theaterzirkus zu integrieren. Auch ein weiteres Projekt, die \"Salzburger Feste\" wurde nicht verwirklicht. Ende 1906 unternimmt er wieder einen Anlauf für Salzburger Festspiele vor dem Dom: Am 12. Dezember notiert sich Harry Graf Kessler ins Tagebuch, bei Tschudi gewesen zu sein, damit dieser mit Robert Mendelssohn wegen Bahrs Henry van de Velde-Theater in Salzburg spreche. Am 4. und am 11. April 1907 schreibt Bahr Max Reinhardt, dass er vom 15. Juli bis zum 18. August 1908 die Leitung derselben übernehmen sollte. Die Pläne waren weit fortgeschritten, Max Reinhardt sollte gastieren, Anna Mildenburg Opern inszenieren. Es dürfte aber daran gescheitert sein, dass Harry Graf Kessler die Finanzierung nicht aufbringen konnte.",
+      "format": "full_html",
+      "processed": "Bahr hatte spätestens seit 1904, als er mit Max Reinhardt ein Doppel-Theater für Wien und Berlin betreiben wollte, Pläne, auch Salzburg in den größeren Theaterzirkus zu integrieren. Auch ein weiteres Projekt, die \"Salzburger Feste\" wurde nicht verwirklicht. Ende 1906 unternimmt er wieder einen Anlauf für Salzburger Festspiele vor dem Dom: Am 12. Dezember notiert sich Harry Graf Kessler ins Tagebuch, bei Tschudi gewesen zu sein, damit dieser mit Robert Mendelssohn wegen Bahrs Henry van de Velde-Theater in Salzburg spreche. Am 4. und am 11. April 1907 schreibt Bahr Max Reinhardt, dass er vom 15. Juli bis zum 18. August 1908 die Leitung derselben übernehmen sollte. Die Pläne waren weit fortgeschritten, Max Reinhardt sollte gastieren, Anna Mildenburg Opern inszenieren. Es dürfte aber daran gescheitert sein, dass Harry Graf Kessler die Finanzierung nicht aufbringen konnte.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1906-12-11",
+      "end_value": "1906-12-11"
+    },
+    "field_sources": [
+      "Tagebücher (Csàky), Band V, XVIII.",
+      "Harry Graf Kessler: Das Tagebuch. Hgg. Roland S. Kamzelak und Ulrich Ott. Stuttgart: Cotta 2005, IV, 217.",
+      "Hermann Bahr: Meister und Meisterbriefe um Hermann Bahr. Aus seinen Entwürfen, Tagebüchern und seinem Briefwechsel. Ausgewählt und eingeleitet von Joseph Gregor. Wien: Hermann Bauer 1947, 188. (An Max R., 4.4.1907 und 11.4.1907)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3d29ad32-7b6f-4792-9c2f-2c45d81334c9/node_type?resourceVersion=id%3A2771"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3d29ad32-7b6f-4792-9c2f-2c45d81334c9/relationships/node_type?resourceVersion=id%3A2771"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3d29ad32-7b6f-4792-9c2f-2c45d81334c9/revision_uid?resourceVersion=id%3A2771"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3d29ad32-7b6f-4792-9c2f-2c45d81334c9/relationships/revision_uid?resourceVersion=id%3A2771"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3d29ad32-7b6f-4792-9c2f-2c45d81334c9/uid?resourceVersion=id%3A2771"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3d29ad32-7b6f-4792-9c2f-2c45d81334c9/relationships/uid?resourceVersion=id%3A2771"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3d29ad32-7b6f-4792-9c2f-2c45d81334c9/field_event_type?resourceVersion=id%3A2771"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3d29ad32-7b6f-4792-9c2f-2c45d81334c9/relationships/field_event_type?resourceVersion=id%3A2771"
+        }
+      }
+    }
+  }
+}

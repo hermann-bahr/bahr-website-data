@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bibliografie__kritische-schriften__mensch-werde-wesentlich-1933" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Mensch, werde wesentlich (1933)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">38734</idno>
+        <idno type="drupal-alias">/bibliografie/38734</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bibliografie/38734">https://bahr.univie.ac.at/bibliografie/38734</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+        <bibl type="beschriebene-ausgabe">
+          <author>Hermann Bahr</author>
+          <title type="main">Mensch, werde wesentlich</title>
+          <title type="sub">Gedanken aus seinen Werken. Auswahl von Anna Bahr-Mildenburg. Anordnung von Paul Graf Thun-Hohenstein. Mit einem Vorwort von Dr. Josef Nadler</title>
+          <pubPlace>Graz</pubPlace>
+          <publisher>Styria</publisher>
+          <date>1934</date>
+          <extent>208</extent>
+          <edition>1.-2. Tsd.</edition>
+          <note>Die im Archiv aufbewahrten Rezensionen datieren das Buch auf Weihnachten 1933. Es war bereits zu Bahrs Lebzeiten fertiggestellt, wie auch ein Exemplar mit seiner Unterschrift beweist.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="1" key="bibliografie">Bibliografie</term>
+          <term n="4" key="kritische-schriften">Kritische Schriften</term>
+          <term n="12" key="mensch-werde-wesentlich-1933" type="eintrag">Mensch, werde wesentlich (1933)</term>
+        </keywords>
+        <classCode scheme="drupal-type">bibliographie</classCode>
+        <keywords scheme="bibliografie_type">
+          <term>Kritische Schriften</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2011-01-19T12:33:31+00:00" type="created">angelegt in Drupal</change>
+      <change when="2011-11-21T15:38:26+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="bib">
+        <head>Bibliografie</head>
+        <table type="bibliografie">
+          <row>
+            <cell>Autor:</cell>
+            <cell>Hermann Bahr</cell>
+          </row>
+          <row>
+            <cell>Titel:</cell>
+            <cell>Mensch, werde wesentlich</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>Gedanken aus seinen Werken. Auswahl von Anna Bahr-Mildenburg. Anordnung von Paul Graf Thun-Hohenstein. Mit einem Vorwort von Dr. Josef Nadler</cell>
+          </row>
+          <row>
+            <cell>Ort:</cell>
+            <cell>Graz</cell>
+          </row>
+          <row>
+            <cell>Verlag:</cell>
+            <cell>Styria</cell>
+          </row>
+          <row>
+            <cell>Jahr:</cell>
+            <cell>1934</cell>
+          </row>
+          <row>
+            <cell>Seiten:</cell>
+            <cell>208</cell>
+          </row>
+          <row>
+            <cell>Aufl.:</cell>
+            <cell>1.-2. Tsd.</cell>
+          </row>
+          <row>
+            <cell>Anm.:</cell>
+            <cell>Die im Archiv aufbewahrten Rezensionen datieren das Buch auf Weihnachten 1933. Es war bereits zu Bahrs Lebzeiten fertiggestellt, wie auch ein Exemplar mit seiner Unterschrift beweist.</cell>
+          </row>
+        </table>
+      </div>
+    </body>
+  </text>
+</TEI>

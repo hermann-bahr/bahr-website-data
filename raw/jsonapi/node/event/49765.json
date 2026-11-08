@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "f2eea8de-3aea-40fa-90cf-3b12db43b4d3",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f2eea8de-3aea-40fa-90cf-3b12db43b4d3?resourceVersion=id%3A3536"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f2eea8de-3aea-40fa-90cf-3b12db43b4d3?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49765,
+    "drupal_internal__vid": 3536,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Heinrich Sitte",
+    "created": "2012-01-09T14:11:08+00:00",
+    "changed": "2012-01-09T14:11:08+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49765",
+      "pid": 1577,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Mitte März 1904, ab Brindisi mit Bahr am Schiff nach Griechenland, ist Heinrich Sitte, der Sohn Camillo Sittes.",
+      "format": "full_html",
+      "processed": "Mitte März 1904, ab Brindisi mit Bahr am Schiff nach Griechenland, ist Heinrich Sitte, der Sohn Camillo Sittes.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1904-03-15",
+      "end_value": "1904-03-15"
+    },
+    "field_sources": [
+      "Liebe der Lebenden, I, 93 und 223-227",
+      "Hermann Bahr: Die Chromatische\" in: Neue Freie Presse, (1922) #20641, Morgenblatt, 1-3. (14.2.1922) Buchausgabe als \"Chromatisch\". In: Sendung des Künstlers, 16-22."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f2eea8de-3aea-40fa-90cf-3b12db43b4d3/node_type?resourceVersion=id%3A3536"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f2eea8de-3aea-40fa-90cf-3b12db43b4d3/relationships/node_type?resourceVersion=id%3A3536"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f2eea8de-3aea-40fa-90cf-3b12db43b4d3/revision_uid?resourceVersion=id%3A3536"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f2eea8de-3aea-40fa-90cf-3b12db43b4d3/relationships/revision_uid?resourceVersion=id%3A3536"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f2eea8de-3aea-40fa-90cf-3b12db43b4d3/uid?resourceVersion=id%3A3536"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f2eea8de-3aea-40fa-90cf-3b12db43b4d3/relationships/uid?resourceVersion=id%3A3536"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f2eea8de-3aea-40fa-90cf-3b12db43b4d3/field_event_type?resourceVersion=id%3A3536"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f2eea8de-3aea-40fa-90cf-3b12db43b4d3/relationships/field_event_type?resourceVersion=id%3A3536"
+        }
+      }
+    }
+  }
+}

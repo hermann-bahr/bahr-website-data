@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "9e480f6b-a934-4d60-ad37-184dc38d9055",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/9e480f6b-a934-4d60-ad37-184dc38d9055?resourceVersion=id%3A3278"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/9e480f6b-a934-4d60-ad37-184dc38d9055?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49435,
+    "drupal_internal__vid": 3278,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Schweiztournee, abgesagt",
+    "created": "2011-10-19T14:30:52+00:00",
+    "changed": "2011-10-19T14:30:52+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49435",
+      "pid": 1259,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Vom 24. Februar 1920 weg soll Bahr für sechs oder sieben Vorträge in der Schweiz. Er ist zwar unwillig, aber durch den Wechselkurs ist die Bezahlung so gut, dass ihm eine Ablehnung unmöglich wird: Zu sehr hofft er darauf, endlich mal wieder einen Monat nichts tun zu können. Geplante Stationen für Vorträge über Whitman oder über die letzten 30 Jahre deutscher Literatur sind: Bern, Luzern, Winterthur, Frauenfeld, Baden, Aarau. Nachdem zwei Vorträge wegen grassierender Grippe abgesagt werden müssen, verzichtet Bahr am 11. Februar überhaupt auf die Reise. Im Nachlass ist die Einladung für Luzern am 25. Jänner erhalten.",
+      "format": "full_html",
+      "processed": "Vom 24. Februar 1920 weg soll Bahr für sechs oder sieben Vorträge in der Schweiz. Er ist zwar unwillig, aber durch den Wechselkurs ist die Bezahlung so gut, dass ihm eine Ablehnung unmöglich wird: Zu sehr hofft er darauf, endlich mal wieder einen Monat nichts tun zu können. Geplante Stationen für Vorträge über Whitman oder über die letzten 30 Jahre deutscher Literatur sind: Bern, Luzern, Winterthur, Frauenfeld, Baden, Aarau. Nachdem zwei Vorträge wegen grassierender Grippe abgesagt werden müssen, verzichtet Bahr am 11. Februar überhaupt auf die Reise. Im Nachlass ist die Einladung für Luzern am 25. Jänner erhalten.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1920-02-11",
+      "end_value": "1920-02-11"
+    },
+    "field_sources": [
+      "Bahr/Redlich, 393-398.",
+      "Im Nachlass, Theatermuseum, ZMBa29, Vorträge I: Programm: Abende für Wissenschaft und Kunst, Winter 1919-1920."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9e480f6b-a934-4d60-ad37-184dc38d9055/node_type?resourceVersion=id%3A3278"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9e480f6b-a934-4d60-ad37-184dc38d9055/relationships/node_type?resourceVersion=id%3A3278"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9e480f6b-a934-4d60-ad37-184dc38d9055/revision_uid?resourceVersion=id%3A3278"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9e480f6b-a934-4d60-ad37-184dc38d9055/relationships/revision_uid?resourceVersion=id%3A3278"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9e480f6b-a934-4d60-ad37-184dc38d9055/uid?resourceVersion=id%3A3278"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9e480f6b-a934-4d60-ad37-184dc38d9055/relationships/uid?resourceVersion=id%3A3278"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9e480f6b-a934-4d60-ad37-184dc38d9055/field_event_type?resourceVersion=id%3A3278"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9e480f6b-a934-4d60-ad37-184dc38d9055/relationships/field_event_type?resourceVersion=id%3A3278"
+        }
+      }
+    }
+  }
+}

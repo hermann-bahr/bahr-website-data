@@ -1,0 +1,36 @@
+{
+  "type": "file--file",
+  "id": "425906fb-d250-4aea-81a9-4733a3b9a5f9",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/file/file/425906fb-d250-4aea-81a9-4733a3b9a5f9"
+    }
+  },
+  "attributes": {
+    "drupal_internal__fid": 224,
+    "langcode": "de",
+    "filename": "1912_koelnische.jpg",
+    "uri": {
+      "value": "public://bahr_bilder/1912_koelnische.jpg",
+      "url": "/sites/default/files/bahr_bilder/1912_koelnische.jpg"
+    },
+    "filemime": "image/jpeg",
+    "filesize": 1378348,
+    "status": true,
+    "created": "2020-02-18T15:00:35+00:00",
+    "changed": "2020-02-18T15:11:43+00:00"
+  },
+  "relationships": {
+    "uid": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/file/file/425906fb-d250-4aea-81a9-4733a3b9a5f9/uid"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/file/file/425906fb-d250-4aea-81a9-4733a3b9a5f9/relationships/uid"
+        }
+      }
+    }
+  }
+}

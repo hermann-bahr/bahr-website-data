@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bilder__1912-in-bayreuth" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">1912 In Bayreuth</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">74426</idno>
+        <idno type="drupal-alias">/bild/74426</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bild/74426">https://bahr.univie.ac.at/bild/74426</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="7" key="bilder">Bilder</term>
+          <term n="24" key="1912-in-bayreuth" type="eintrag">1912 In Bayreuth</term>
+        </keywords>
+        <classCode scheme="drupal-type">image</classCode>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2012-11-06T12:46:34+00:00" type="created">angelegt in Drupal</change>
+      <change when="2012-11-06T12:46:34+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <figure>
+          <graphic url="files/bahr_bilder/1912_koelnische.jpg"/>
+          <figDesc>1912 In Bayreuth</figDesc>
+        </figure>
+        <p>
+          <hi rend="italic">Detail aus Fotocollage zu Hermann Bahr: Das Bayreuther Gespräch. Kölnische Theater-Rundschau, 2 (1912) #39, 8-11. (17.8.1912)<lb/>Unterschrift zu Bild 5: "Knüpfer, Braun, Hermann Bahr, Anna Bahr-Mildenburg<lb/></hi>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "e3ec2eb1-340b-41ea-a2d1-3e1d43deea69",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/e3ec2eb1-340b-41ea-a2d1-3e1d43deea69?resourceVersion=id%3A2364"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/e3ec2eb1-340b-41ea-a2d1-3e1d43deea69?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28032,
+    "drupal_internal__vid": 2364,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Die große Sünde",
+    "created": "2010-07-28T11:02:21+00:00",
+    "changed": "2012-12-18T13:06:52+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28032",
+      "pid": 198,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Im April 1889 ist Bahrs Stück \"Die große Sünde\" ausgedruckt bei Schabelitz in Zürich. Gewidmet ist das Trauerspiel Ibsen, der sich brieflich am 5. April für die Zusendung eines Exemplars bedankt. Spätestens im Juni ist es im Handel. ",
+      "format": "full_html",
+      "processed": "Im April 1889 ist Bahrs Stück \"Die große Sünde\" ausgedruckt bei Schabelitz in Zürich. Gewidmet ist das Trauerspiel Ibsen, der sich brieflich am 5. April für die Zusendung eines Exemplars bedankt. Spätestens im Juni ist es im Handel. ",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1889-04-05",
+      "end_value": "1889-04-05"
+    },
+    "field_sources": [
+      "Hermann Bahr: Die große Sünde. Ein bürgerliches Trauerspiel. Zürich: J. Schabelitz, 1889.",
+      "Brief Ibsens im Nachlass Bahrs, A19132BaM"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e3ec2eb1-340b-41ea-a2d1-3e1d43deea69/node_type?resourceVersion=id%3A2364"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e3ec2eb1-340b-41ea-a2d1-3e1d43deea69/relationships/node_type?resourceVersion=id%3A2364"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e3ec2eb1-340b-41ea-a2d1-3e1d43deea69/revision_uid?resourceVersion=id%3A2364"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e3ec2eb1-340b-41ea-a2d1-3e1d43deea69/relationships/revision_uid?resourceVersion=id%3A2364"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e3ec2eb1-340b-41ea-a2d1-3e1d43deea69/uid?resourceVersion=id%3A2364"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e3ec2eb1-340b-41ea-a2d1-3e1d43deea69/relationships/uid?resourceVersion=id%3A2364"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "27f3d2a4-8970-4726-9ab8-ce37707ec1bc",
+          "meta": {
+            "drupal_internal__target_id": 1
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e3ec2eb1-340b-41ea-a2d1-3e1d43deea69/field_event_type?resourceVersion=id%3A2364"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e3ec2eb1-340b-41ea-a2d1-3e1d43deea69/relationships/field_event_type?resourceVersion=id%3A2364"
+        }
+      }
+    }
+  }
+}

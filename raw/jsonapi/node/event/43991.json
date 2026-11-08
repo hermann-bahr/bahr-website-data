@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "a74216ff-bc43-4455-b62c-3f81d63b9526",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/a74216ff-bc43-4455-b62c-3f81d63b9526?resourceVersion=id%3A2919"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/a74216ff-bc43-4455-b62c-3f81d63b9526?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 43991,
+    "drupal_internal__vid": 2919,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Burckhard-Bankett im Sacher",
+    "created": "2011-07-12T17:05:01+00:00",
+    "changed": "2012-10-15T10:36:24+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/43991",
+      "pid": 891,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Nach Max Burckhards erzwungener Demission vom Burgtheater veranstaltete Bahr ein Abschieds-Bankett mit 40 geladenen Gästen im Sacher. Am 24. schickt er die Einladungen aus, am 2. Februar findet es statt.",
+      "format": "full_html",
+      "processed": "Nach Max Burckhards erzwungener Demission vom Burgtheater veranstaltete Bahr ein Abschieds-Bankett mit 40 geladenen Gästen im Sacher. Am 24. schickt er die Einladungen aus, am 2. Februar findet es statt.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1898-02-02",
+      "end_value": "1898-02-02"
+    },
+    "field_sources": [
+      "Briefwechsel Bahr/Schnitzler, 63. [25.1.1898] und Anm.",
+      "Tagebuch (Csàky), II, 298-301.",
+      "Die Menükarte bringt Bernhard Zeller (Hg.): Jugend in Wien. München: Schiller-Nationalmuseum 1974, 353, zit. n. Doris Dey: Die Wiener Moderne und Max Burckhard. Dissertation, Universität Wien, April 1989, 294."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a74216ff-bc43-4455-b62c-3f81d63b9526/node_type?resourceVersion=id%3A2919"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a74216ff-bc43-4455-b62c-3f81d63b9526/relationships/node_type?resourceVersion=id%3A2919"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a74216ff-bc43-4455-b62c-3f81d63b9526/revision_uid?resourceVersion=id%3A2919"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a74216ff-bc43-4455-b62c-3f81d63b9526/relationships/revision_uid?resourceVersion=id%3A2919"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a74216ff-bc43-4455-b62c-3f81d63b9526/uid?resourceVersion=id%3A2919"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a74216ff-bc43-4455-b62c-3f81d63b9526/relationships/uid?resourceVersion=id%3A2919"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a74216ff-bc43-4455-b62c-3f81d63b9526/field_event_type?resourceVersion=id%3A2919"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a74216ff-bc43-4455-b62c-3f81d63b9526/relationships/field_event_type?resourceVersion=id%3A2919"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "87da492f-13ee-443f-928e-23423c0b970c",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/87da492f-13ee-443f-928e-23423c0b970c?resourceVersion=id%3A3226"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/87da492f-13ee-443f-928e-23423c0b970c?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49381,
+    "drupal_internal__vid": 3226,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Richard Strauss",
+    "created": "2011-10-13T16:08:49+00:00",
+    "changed": "2011-10-13T16:10:57+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49381",
+      "pid": 1205,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Für den 6. August 1917 erwartet Bahr den Besuch von Richard Strauss und Gattin Pauline.",
+      "format": "full_html",
+      "processed": "Für den 6. August 1917 erwartet Bahr den Besuch von Richard Strauss und Gattin Pauline.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1917-08-06",
+      "end_value": "1917-08-06"
+    },
+    "field_sources": [
+      "Bahr/Redlich, 243-245."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/87da492f-13ee-443f-928e-23423c0b970c/node_type?resourceVersion=id%3A3226"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/87da492f-13ee-443f-928e-23423c0b970c/relationships/node_type?resourceVersion=id%3A3226"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/87da492f-13ee-443f-928e-23423c0b970c/revision_uid?resourceVersion=id%3A3226"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/87da492f-13ee-443f-928e-23423c0b970c/relationships/revision_uid?resourceVersion=id%3A3226"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/87da492f-13ee-443f-928e-23423c0b970c/uid?resourceVersion=id%3A3226"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/87da492f-13ee-443f-928e-23423c0b970c/relationships/uid?resourceVersion=id%3A3226"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/87da492f-13ee-443f-928e-23423c0b970c/field_event_type?resourceVersion=id%3A3226"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/87da492f-13ee-443f-928e-23423c0b970c/relationships/field_event_type?resourceVersion=id%3A3226"
+        }
+      }
+    }
+  }
+}

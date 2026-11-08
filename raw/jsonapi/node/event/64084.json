@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "dc172d53-7d77-487b-aa01-785c6b98951a",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/dc172d53-7d77-487b-aa01-785c6b98951a?resourceVersion=id%3A3578"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/dc172d53-7d77-487b-aa01-785c6b98951a?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 64084,
+    "drupal_internal__vid": 3578,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Semmering",
+    "created": "2012-01-26T15:06:22+00:00",
+    "changed": "2012-01-26T15:06:22+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/64084",
+      "pid": 1619,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 5. Jänner 1909 besucht Bahr Moritz Benedikt am Semmering. (Möglicherweise ist das der Besuch, von dem Bahr noch in seinem Nachruf auf Benedikt berichtet?)",
+      "format": "full_html",
+      "processed": "Am 5. Jänner 1909 besucht Bahr Moritz Benedikt am Semmering. (Möglicherweise ist das der Besuch, von dem Bahr noch in seinem Nachruf auf Benedikt berichtet?)",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1910-01-05",
+      "end_value": "1910-01-05"
+    },
+    "field_sources": [
+      "Hermann Bahr: Aufzeichnungen 1909-1911. Ausgabe in Vorbereitung von Kurt Ifkovits\r\n",
+      "Kritik der Gegenwart, 86-90\r\n"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/dc172d53-7d77-487b-aa01-785c6b98951a/node_type?resourceVersion=id%3A3578"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/dc172d53-7d77-487b-aa01-785c6b98951a/relationships/node_type?resourceVersion=id%3A3578"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/dc172d53-7d77-487b-aa01-785c6b98951a/revision_uid?resourceVersion=id%3A3578"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/dc172d53-7d77-487b-aa01-785c6b98951a/relationships/revision_uid?resourceVersion=id%3A3578"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/dc172d53-7d77-487b-aa01-785c6b98951a/uid?resourceVersion=id%3A3578"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/dc172d53-7d77-487b-aa01-785c6b98951a/relationships/uid?resourceVersion=id%3A3578"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/dc172d53-7d77-487b-aa01-785c6b98951a/field_event_type?resourceVersion=id%3A3578"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/dc172d53-7d77-487b-aa01-785c6b98951a/relationships/field_event_type?resourceVersion=id%3A3578"
+        }
+      }
+    }
+  }
+}

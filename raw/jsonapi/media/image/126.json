@@ -1,0 +1,118 @@
+{
+  "type": "media--image",
+  "id": "9b7e63bc-3337-43b2-a100-829a7108805c",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/media/image/9b7e63bc-3337-43b2-a100-829a7108805c?resourceVersion=id%3A126"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/media/image/9b7e63bc-3337-43b2-a100-829a7108805c?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__mid": 126,
+    "drupal_internal__vid": 126,
+    "langcode": "de",
+    "revision_created": "2020-02-18T15:16:19+00:00",
+    "status": true,
+    "name": "1922_blei",
+    "created": "2020-02-18T15:16:19+00:00",
+    "changed": "2020-02-18T15:16:19+00:00",
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": null,
+      "pid": null,
+      "langcode": "de"
+    }
+  },
+  "relationships": {
+    "bundle": {
+      "data": {
+        "type": "media_type--media_type",
+        "id": "b82aabb6-e7a1-420d-b98b-5b981c2d920e",
+        "meta": {
+          "drupal_internal__target_id": "image"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/9b7e63bc-3337-43b2-a100-829a7108805c/bundle?resourceVersion=id%3A126"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/9b7e63bc-3337-43b2-a100-829a7108805c/relationships/bundle?resourceVersion=id%3A126"
+        }
+      }
+    },
+    "revision_user": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/9b7e63bc-3337-43b2-a100-829a7108805c/revision_user?resourceVersion=id%3A126"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/9b7e63bc-3337-43b2-a100-829a7108805c/relationships/revision_user?resourceVersion=id%3A126"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/9b7e63bc-3337-43b2-a100-829a7108805c/uid?resourceVersion=id%3A126"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/9b7e63bc-3337-43b2-a100-829a7108805c/relationships/uid?resourceVersion=id%3A126"
+        }
+      }
+    },
+    "thumbnail": {
+      "data": {
+        "type": "file--file",
+        "id": "9281f5e3-f1b5-4288-8f71-255e7c4115d2",
+        "meta": {
+          "alt": "1922 Bestiarium",
+          "title": null,
+          "width": 1174,
+          "height": 2009,
+          "drupal_internal__target_id": 187
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/9b7e63bc-3337-43b2-a100-829a7108805c/thumbnail?resourceVersion=id%3A126"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/9b7e63bc-3337-43b2-a100-829a7108805c/relationships/thumbnail?resourceVersion=id%3A126"
+        }
+      }
+    },
+    "field_media_image": {
+      "data": {
+        "type": "file--file",
+        "id": "9281f5e3-f1b5-4288-8f71-255e7c4115d2",
+        "meta": {
+          "alt": "1922 Bestiarium",
+          "title": "1922_blei",
+          "width": 1174,
+          "height": 2009,
+          "drupal_internal__target_id": 187
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/9b7e63bc-3337-43b2-a100-829a7108805c/field_media_image?resourceVersion=id%3A126"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/9b7e63bc-3337-43b2-a100-829a7108805c/relationships/field_media_image?resourceVersion=id%3A126"
+        }
+      }
+    }
+  }
+}

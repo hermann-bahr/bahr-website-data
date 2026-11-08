@@ -1,0 +1,119 @@
+{
+  "type": "node--event",
+  "id": "310a7022-a210-43be-8385-4cfba169e4fe",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/310a7022-a210-43be-8385-4cfba169e4fe?resourceVersion=id%3A3162"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/310a7022-a210-43be-8385-4cfba169e4fe?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44248,
+    "drupal_internal__vid": 3162,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Soirée für Tamara v. Hervay",
+    "created": "2011-10-03T14:05:57+00:00",
+    "changed": "2011-10-14T13:44:07+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44248",
+      "pid": 1141,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 2. Februar 1905 veranstaltet die Konzertdirektion Gutmann eine Wohltätigkeitssoirée für Tamara von Hervay, an der neben Hansi Niese, Adele Sandrock auch die Literaten Max Burckhard, Felix Salten und Bahr teilnehmen. Bahr liest \"Excentrique\" von Schnitzler.",
+      "format": "full_html",
+      "processed": "Am 2. Februar 1905 veranstaltet die Konzertdirektion Gutmann eine Wohltätigkeitssoirée für Tamara von Hervay, an der neben Hansi Niese, Adele Sandrock auch die Literaten Max Burckhard, Felix Salten und Bahr teilnehmen. Bahr liest \"Excentrique\" von Schnitzler.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1905-02-02",
+      "end_value": "1905-02-02"
+    },
+    "field_sources": [
+      "Neues Wiener Tagblatt, 39 (1905) #15, 6. (15.1.1905)",
+      "Anzeige immer Sonntags, z.B.: Neues Wiener Tagblatt, 39 (1905) #29, 45. (29.1.1905)",
+      "Programm: Neues Wiener Tagblatt, 39 (1905) #31, 10. (31.1.1905)",
+      "Bahr/Redlich, Kommentar S. 40. "
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/310a7022-a210-43be-8385-4cfba169e4fe/node_type?resourceVersion=id%3A3162"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/310a7022-a210-43be-8385-4cfba169e4fe/relationships/node_type?resourceVersion=id%3A3162"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/310a7022-a210-43be-8385-4cfba169e4fe/revision_uid?resourceVersion=id%3A3162"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/310a7022-a210-43be-8385-4cfba169e4fe/relationships/revision_uid?resourceVersion=id%3A3162"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/310a7022-a210-43be-8385-4cfba169e4fe/uid?resourceVersion=id%3A3162"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/310a7022-a210-43be-8385-4cfba169e4fe/relationships/uid?resourceVersion=id%3A3162"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/310a7022-a210-43be-8385-4cfba169e4fe/field_event_type?resourceVersion=id%3A3162"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/310a7022-a210-43be-8385-4cfba169e4fe/relationships/field_event_type?resourceVersion=id%3A3162"
+        }
+      }
+    }
+  }
+}

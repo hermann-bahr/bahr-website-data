@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "cacab76a-6b8e-4af0-921d-0f36cce77ab1",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/cacab76a-6b8e-4af0-921d-0f36cce77ab1?resourceVersion=id%3A3203"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/cacab76a-6b8e-4af0-921d-0f36cce77ab1?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49357,
+    "drupal_internal__vid": 3203,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "\"Die Stimme\" fertig",
+    "created": "2011-10-13T11:08:23+00:00",
+    "changed": "2011-10-13T11:08:23+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49357",
+      "pid": 1182,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Vor Abreise auf eine kurze Tournee kann Bahr Redlich vermelden, den dritten Akt seines neuen Stücks - \"Die Stimme\" - fertiggestellt zu haben.",
+      "format": "full_html",
+      "processed": "Vor Abreise auf eine kurze Tournee kann Bahr Redlich vermelden, den dritten Akt seines neuen Stücks - \"Die Stimme\" - fertiggestellt zu haben.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1916-03-25",
+      "end_value": "1916-03-25"
+    },
+    "field_sources": [
+      "Bahr/Redlich, 164. (25.3.1916)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cacab76a-6b8e-4af0-921d-0f36cce77ab1/node_type?resourceVersion=id%3A3203"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cacab76a-6b8e-4af0-921d-0f36cce77ab1/relationships/node_type?resourceVersion=id%3A3203"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cacab76a-6b8e-4af0-921d-0f36cce77ab1/revision_uid?resourceVersion=id%3A3203"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cacab76a-6b8e-4af0-921d-0f36cce77ab1/relationships/revision_uid?resourceVersion=id%3A3203"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cacab76a-6b8e-4af0-921d-0f36cce77ab1/uid?resourceVersion=id%3A3203"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cacab76a-6b8e-4af0-921d-0f36cce77ab1/relationships/uid?resourceVersion=id%3A3203"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cacab76a-6b8e-4af0-921d-0f36cce77ab1/field_event_type?resourceVersion=id%3A3203"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cacab76a-6b8e-4af0-921d-0f36cce77ab1/relationships/field_event_type?resourceVersion=id%3A3203"
+        }
+      }
+    }
+  }
+}

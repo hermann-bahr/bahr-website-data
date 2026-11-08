@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "d575c378-a515-4016-85a8-26f702d8aea8",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/d575c378-a515-4016-85a8-26f702d8aea8?resourceVersion=id%3A2851"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/d575c378-a515-4016-85a8-26f702d8aea8?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39077,
+    "drupal_internal__vid": 2851,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Karersee",
+    "created": "2011-05-05T21:20:40+00:00",
+    "changed": "2012-10-29T09:59:27+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39077",
+      "pid": 808,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "An die Mutter, 24. Juli [1901]: In der zweiten Augustwoche, von Rimini kommend, will er sich \r\n<blockquote> mit Burckhard im Hochgebirge, wahrscheinlich Karersee treffen</blockquote>Von wo er am 15. August seiner Mutter schreibt, dass er am 17. bei ihr in Salzburg sein werde. Damit verzichtet er auf die Realisierung des Plans, vor dem Besuch bei der Mutter noch einen Abstecher nach Darmstadt und München zu machen und erst am 22. bei ihr einzutreffen. Spätestens am 23. ist er wieder in Wien und trifft Gerty und Hugo von Hofmannsthal nicht zuhause an.",
+      "format": "full_html",
+      "processed": "An die Mutter, 24. Juli [1901]: In der zweiten Augustwoche, von Rimini kommend, will er sich \n<blockquote> mit Burckhard im Hochgebirge, wahrscheinlich Karersee treffen</blockquote>Von wo er am 15. August seiner Mutter schreibt, dass er am 17. bei ihr in Salzburg sein werde. Damit verzichtet er auf die Realisierung des Plans, vor dem Besuch bei der Mutter noch einen Abstecher nach Darmstadt und München zu machen und erst am 22. bei ihr einzutreffen. Spätestens am 23. ist er wieder in Wien und trifft Gerty und Hugo von Hofmannsthal nicht zuhause an.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1901-08-08",
+      "end_value": "1901-08-22"
+    },
+    "field_sources": [
+      "An Gerty, 23.8.1901. Briefwechsel Bahr/Hofmannsthal. Hg. Elsbeth Dangel-Pelloquin. Göttingen: Wallstein. (In Vorbereitung)",
+      "Tagebücher (Csàky), III, 42-45."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d575c378-a515-4016-85a8-26f702d8aea8/node_type?resourceVersion=id%3A2851"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d575c378-a515-4016-85a8-26f702d8aea8/relationships/node_type?resourceVersion=id%3A2851"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d575c378-a515-4016-85a8-26f702d8aea8/revision_uid?resourceVersion=id%3A2851"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d575c378-a515-4016-85a8-26f702d8aea8/relationships/revision_uid?resourceVersion=id%3A2851"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d575c378-a515-4016-85a8-26f702d8aea8/uid?resourceVersion=id%3A2851"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d575c378-a515-4016-85a8-26f702d8aea8/relationships/uid?resourceVersion=id%3A2851"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d575c378-a515-4016-85a8-26f702d8aea8/field_event_type?resourceVersion=id%3A2851"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d575c378-a515-4016-85a8-26f702d8aea8/relationships/field_event_type?resourceVersion=id%3A2851"
+        }
+      }
+    }
+  }
+}

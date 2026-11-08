@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "d08a1bfb-ce63-4b6a-81ab-9553592e63d8",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/d08a1bfb-ce63-4b6a-81ab-9553592e63d8?resourceVersion=id%3A2313"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/d08a1bfb-ce63-4b6a-81ab-9553592e63d8?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27974,
+    "drupal_internal__vid": 2313,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Erinnerung an Burckhard",
+    "created": "2010-07-20T10:45:07+00:00",
+    "changed": "2011-10-11T09:28:41+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/27974",
+      "pid": 147,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahrs Nachruf auf Max Burckhard, Bahrs Freund, dessen Einflüsterer er während Burckhards Intendanz am Burgtheater war, erscheint nicht nur in Zeitschriften, sondern auch Mitte September 1913 in Druck bei S. Fischer.",
+      "format": "full_html",
+      "processed": "Bahrs Nachruf auf Max Burckhard, Bahrs Freund, dessen Einflüsterer er während Burckhards Intendanz am Burgtheater war, erscheint nicht nur in Zeitschriften, sondern auch Mitte September 1913 in Druck bei S. Fischer.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1913-09-15",
+      "end_value": "1913-09-15"
+    },
+    "field_sources": [
+      "Hermann Bahr: Erinnerung an Burckhard. Berlin: S. Fischer, 1913.",
+      "Bahr/Redlich, 88."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d08a1bfb-ce63-4b6a-81ab-9553592e63d8/node_type?resourceVersion=id%3A2313"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d08a1bfb-ce63-4b6a-81ab-9553592e63d8/relationships/node_type?resourceVersion=id%3A2313"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d08a1bfb-ce63-4b6a-81ab-9553592e63d8/revision_uid?resourceVersion=id%3A2313"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d08a1bfb-ce63-4b6a-81ab-9553592e63d8/relationships/revision_uid?resourceVersion=id%3A2313"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d08a1bfb-ce63-4b6a-81ab-9553592e63d8/uid?resourceVersion=id%3A2313"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d08a1bfb-ce63-4b6a-81ab-9553592e63d8/relationships/uid?resourceVersion=id%3A2313"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "29eb2d1e-f275-4ca0-a532-a2a05ef92e13",
+          "meta": {
+            "drupal_internal__target_id": 6
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d08a1bfb-ce63-4b6a-81ab-9553592e63d8/field_event_type?resourceVersion=id%3A2313"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d08a1bfb-ce63-4b6a-81ab-9553592e63d8/relationships/field_event_type?resourceVersion=id%3A2313"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "595500ee-4bad-488a-8b49-1214d7730f87",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/595500ee-4bad-488a-8b49-1214d7730f87?resourceVersion=id%3A3298"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/595500ee-4bad-488a-8b49-1214d7730f87?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49457,
+    "drupal_internal__vid": 3298,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Berchtesgaden",
+    "created": "2011-10-20T14:49:52+00:00",
+    "changed": "2011-10-20T14:49:52+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49457",
+      "pid": 1279,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahr und seine in München lebende Frau treffen sich regelmäßig in Berchtesgaden. So ist er dort etwa im Juli/August 1921 \"einige Zeit\", um vom  Touristenrummel in Salzburg zu fliehen.",
+      "format": "full_html",
+      "processed": "Bahr und seine in München lebende Frau treffen sich regelmäßig in Berchtesgaden. So ist er dort etwa im Juli/August 1921 \"einige Zeit\", um vom  Touristenrummel in Salzburg zu fliehen.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1921-08-08",
+      "end_value": "1921-08-08"
+    },
+    "field_sources": [
+      "Bahr/Redlich, 458-459. (An R., 8.8.1921)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/595500ee-4bad-488a-8b49-1214d7730f87/node_type?resourceVersion=id%3A3298"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/595500ee-4bad-488a-8b49-1214d7730f87/relationships/node_type?resourceVersion=id%3A3298"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/595500ee-4bad-488a-8b49-1214d7730f87/revision_uid?resourceVersion=id%3A3298"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/595500ee-4bad-488a-8b49-1214d7730f87/relationships/revision_uid?resourceVersion=id%3A3298"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/595500ee-4bad-488a-8b49-1214d7730f87/uid?resourceVersion=id%3A3298"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/595500ee-4bad-488a-8b49-1214d7730f87/relationships/uid?resourceVersion=id%3A3298"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/595500ee-4bad-488a-8b49-1214d7730f87/field_event_type?resourceVersion=id%3A3298"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/595500ee-4bad-488a-8b49-1214d7730f87/relationships/field_event_type?resourceVersion=id%3A3298"
+        }
+      }
+    }
+  }
+}

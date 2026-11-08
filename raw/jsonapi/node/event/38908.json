@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "3903da3b-d75f-4476-b677-ccba44aef47f",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/3903da3b-d75f-4476-b677-ccba44aef47f?resourceVersion=id%3A2697"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/3903da3b-d75f-4476-b677-ccba44aef47f?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38908,
+    "drupal_internal__vid": 2697,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Semmering",
+    "created": "2011-03-08T12:31:20+00:00",
+    "changed": "2012-01-27T12:03:26+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38908",
+      "pid": 651,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Brief an Hermann Kienzl, Semmering, 15. März 1911: \r\n<blockquote>Ich komme eben vom Semmering, wo ich eine Woche war, zurück und finde hier zugleich Ihren wunderschönen Aufsatz über mich, für den ich Ihnen von ganzem Herzen danke.</blockquote>\r\n",
+      "format": "full_html",
+      "processed": "Brief an Hermann Kienzl, Semmering, 15. März 1911: \n<blockquote>Ich komme eben vom Semmering, wo ich eine Woche war, zurück und finde hier zugleich Ihren wunderschönen Aufsatz über mich, für den ich Ihnen von ganzem Herzen danke.</blockquote>\n",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1911-03-08",
+      "end_value": "1911-03-15"
+    },
+    "field_sources": [
+      "Wienbibliothek, H.I.N. 85225"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3903da3b-d75f-4476-b677-ccba44aef47f/node_type?resourceVersion=id%3A2697"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3903da3b-d75f-4476-b677-ccba44aef47f/relationships/node_type?resourceVersion=id%3A2697"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3903da3b-d75f-4476-b677-ccba44aef47f/revision_uid?resourceVersion=id%3A2697"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3903da3b-d75f-4476-b677-ccba44aef47f/relationships/revision_uid?resourceVersion=id%3A2697"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3903da3b-d75f-4476-b677-ccba44aef47f/uid?resourceVersion=id%3A2697"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3903da3b-d75f-4476-b677-ccba44aef47f/relationships/uid?resourceVersion=id%3A2697"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3903da3b-d75f-4476-b677-ccba44aef47f/field_event_type?resourceVersion=id%3A2697"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3903da3b-d75f-4476-b677-ccba44aef47f/relationships/field_event_type?resourceVersion=id%3A2697"
+        }
+      }
+    }
+  }
+}

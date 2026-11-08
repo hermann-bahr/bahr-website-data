@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "2e3b8c9e-807a-4350-a0c2-701d83eb074c",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/2e3b8c9e-807a-4350-a0c2-701d83eb074c?resourceVersion=id%3A2552"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/2e3b8c9e-807a-4350-a0c2-701d83eb074c?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38686,
+    "drupal_internal__vid": 2552,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Viktor Adler",
+    "created": "2010-12-22T16:09:59+00:00",
+    "changed": "2013-03-12T13:29:09+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38686",
+      "pid": 438,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahr lernt, eigenen Angaben zufolge, Viktor Adler 1886 in Berlin kennen. Dieser ist in die deutsche Hauptstadt gekommen, um Mitarbeiter für die zu gründende \"Gleichheit\" zu suchen. Auf Bahr sei er durch die Schrift gegen Schäffle aufmerksam geworden. In den Briefen an den Vater vom Juli 1885 taucht Adler zusammen mit Pernersdorfer zwar bereits auf, aber zu dem avisierten Treffen in Parschall dürfte es nicht gekommen sein.",
+      "format": "full_html",
+      "processed": "Bahr lernt, eigenen Angaben zufolge, Viktor Adler 1886 in Berlin kennen. Dieser ist in die deutsche Hauptstadt gekommen, um Mitarbeiter für die zu gründende \"Gleichheit\" zu suchen. Auf Bahr sei er durch die Schrift gegen Schäffle aufmerksam geworden. In den Briefen an den Vater vom Juli 1885 taucht Adler zusammen mit Pernersdorfer zwar bereits auf, aber zu dem avisierten Treffen in Parschall dürfte es nicht gekommen sein.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1886-05-01",
+      "end_value": "1886-05-01"
+    },
+    "field_sources": [
+      "(Hier auf 1. Mai 1886 datiert, vgl. Bahrs Brief an seinen Vater in Ischl, 14. Juli 1886)",
+      "Selbstbildnis, 211-214",
+      "Tagebuch. 15. November in: Tagebücher 1918, 278-285."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2e3b8c9e-807a-4350-a0c2-701d83eb074c/node_type?resourceVersion=id%3A2552"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2e3b8c9e-807a-4350-a0c2-701d83eb074c/relationships/node_type?resourceVersion=id%3A2552"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2e3b8c9e-807a-4350-a0c2-701d83eb074c/revision_uid?resourceVersion=id%3A2552"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2e3b8c9e-807a-4350-a0c2-701d83eb074c/relationships/revision_uid?resourceVersion=id%3A2552"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2e3b8c9e-807a-4350-a0c2-701d83eb074c/uid?resourceVersion=id%3A2552"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2e3b8c9e-807a-4350-a0c2-701d83eb074c/relationships/uid?resourceVersion=id%3A2552"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2e3b8c9e-807a-4350-a0c2-701d83eb074c/field_event_type?resourceVersion=id%3A2552"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2e3b8c9e-807a-4350-a0c2-701d83eb074c/relationships/field_event_type?resourceVersion=id%3A2552"
+        }
+      }
+    }
+  }
+}

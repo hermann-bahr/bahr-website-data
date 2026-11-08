@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "9f4198fe-94f1-4158-8a6a-c30510b0600b",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/9f4198fe-94f1-4158-8a6a-c30510b0600b?resourceVersion=id%3A3222"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/9f4198fe-94f1-4158-8a6a-c30510b0600b?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49377,
+    "drupal_internal__vid": 3222,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "W. Heine",
+    "created": "2011-10-13T15:26:50+00:00",
+    "changed": "2011-10-13T15:26:50+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49377",
+      "pid": 1201,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Dem Besuch Redlichs am 18. Mai 1917 folgte \"auf dem Fuß\" ein Besuch Wolfgang Heines.",
+      "format": "full_html",
+      "processed": "Dem Besuch Redlichs am 18. Mai 1917 folgte \"auf dem Fuß\" ein Besuch Wolfgang Heines.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1917-05-19",
+      "end_value": "1917-05-19"
+    },
+    "field_sources": [
+      "Bahr/Redlich, 225. (Bahr an Redlich, 8.6.1917)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9f4198fe-94f1-4158-8a6a-c30510b0600b/node_type?resourceVersion=id%3A3222"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9f4198fe-94f1-4158-8a6a-c30510b0600b/relationships/node_type?resourceVersion=id%3A3222"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9f4198fe-94f1-4158-8a6a-c30510b0600b/revision_uid?resourceVersion=id%3A3222"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9f4198fe-94f1-4158-8a6a-c30510b0600b/relationships/revision_uid?resourceVersion=id%3A3222"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9f4198fe-94f1-4158-8a6a-c30510b0600b/uid?resourceVersion=id%3A3222"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9f4198fe-94f1-4158-8a6a-c30510b0600b/relationships/uid?resourceVersion=id%3A3222"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9f4198fe-94f1-4158-8a6a-c30510b0600b/field_event_type?resourceVersion=id%3A3222"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9f4198fe-94f1-4158-8a6a-c30510b0600b/relationships/field_event_type?resourceVersion=id%3A3222"
+        }
+      }
+    }
+  }
+}

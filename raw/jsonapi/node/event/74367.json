@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "fbbd827a-bdf9-4f2c-b0eb-a0fcdc0a7daa",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/fbbd827a-bdf9-4f2c-b0eb-a0fcdc0a7daa?resourceVersion=id%3A3695"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/fbbd827a-bdf9-4f2c-b0eb-a0fcdc0a7daa?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74367,
+    "drupal_internal__vid": 3695,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Mit Geliebter in den Alpen",
+    "created": "2012-10-15T14:52:20+00:00",
+    "changed": "2013-09-14T11:54:40+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/74367",
+      "pid": 1741,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Der Urlaub dürfte für Bahr Mitte August 1893 mit fünf idyllischen Tagen mit seiner Geliebten in den Alpen begonnen haben.",
+      "format": "full_html",
+      "processed": "Der Urlaub dürfte für Bahr Mitte August 1893 mit fünf idyllischen Tagen mit seiner Geliebten in den Alpen begonnen haben.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1891-08-15",
+      "end_value": "1891-08-20"
+    },
+    "field_sources": [
+      "Briefwechsel Bahr/Hofmannsthal. Hg. Elsbeth Dangel-Pelloquin. Göttingen: Wallstein. (In Vorbereitung), an HvH 18. Juli und 21. August 1893."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fbbd827a-bdf9-4f2c-b0eb-a0fcdc0a7daa/node_type?resourceVersion=id%3A3695"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fbbd827a-bdf9-4f2c-b0eb-a0fcdc0a7daa/relationships/node_type?resourceVersion=id%3A3695"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fbbd827a-bdf9-4f2c-b0eb-a0fcdc0a7daa/revision_uid?resourceVersion=id%3A3695"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fbbd827a-bdf9-4f2c-b0eb-a0fcdc0a7daa/relationships/revision_uid?resourceVersion=id%3A3695"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fbbd827a-bdf9-4f2c-b0eb-a0fcdc0a7daa/uid?resourceVersion=id%3A3695"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fbbd827a-bdf9-4f2c-b0eb-a0fcdc0a7daa/relationships/uid?resourceVersion=id%3A3695"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fbbd827a-bdf9-4f2c-b0eb-a0fcdc0a7daa/field_event_type?resourceVersion=id%3A3695"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fbbd827a-bdf9-4f2c-b0eb-a0fcdc0a7daa/relationships/field_event_type?resourceVersion=id%3A3695"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "140b55ff-ffed-40b0-afc0-fc0ef12c0717",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/140b55ff-ffed-40b0-afc0-fc0ef12c0717?resourceVersion=id%3A3713"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/140b55ff-ffed-40b0-afc0-fc0ef12c0717?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74385,
+    "drupal_internal__vid": 3713,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Woran arbeiten Sie?",
+    "created": "2012-10-17T12:43:51+00:00",
+    "changed": "2012-10-17T12:43:59+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/74385",
+      "pid": 1759,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahr antwortet Weihnachten 1921:<blockquote>Ich arbeite zurzeit an einer kleinen Schrift über die Grundfragen der Kunst; \"Weissagung\" soll sie heißen. Bis 1923, wo ich sechzig werde und es vierzig Jahre her ist, daß zum erstenmal ein Stück von mir öffentlich aufgeführt wurde, wird hoffentlich der erste Band meiner Erinnerungen fertig; sie sollen \"Selbstbildnis\" heißen.</blockquote>",
+      "format": "full_html",
+      "processed": "Bahr antwortet Weihnachten 1921:<blockquote>Ich arbeite zurzeit an einer kleinen Schrift über die Grundfragen der Kunst; \"Weissagung\" soll sie heißen. Bis 1923, wo ich sechzig werde und es vierzig Jahre her ist, daß zum erstenmal ein Stück von mir öffentlich aufgeführt wurde, wird hoffentlich der erste Band meiner Erinnerungen fertig; sie sollen \"Selbstbildnis\" heißen.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1921-12-25",
+      "end_value": "1921-12-25"
+    },
+    "field_sources": [
+      "Woran arbeiten Sie? Rundfrage des \"Neuen Wiener Journals\" an Schriftsteller und Musiker. Neues Wiener Journal, 29 (1921) #10106, 10. (25.12.1921)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/140b55ff-ffed-40b0-afc0-fc0ef12c0717/node_type?resourceVersion=id%3A3713"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/140b55ff-ffed-40b0-afc0-fc0ef12c0717/relationships/node_type?resourceVersion=id%3A3713"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/140b55ff-ffed-40b0-afc0-fc0ef12c0717/revision_uid?resourceVersion=id%3A3713"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/140b55ff-ffed-40b0-afc0-fc0ef12c0717/relationships/revision_uid?resourceVersion=id%3A3713"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/140b55ff-ffed-40b0-afc0-fc0ef12c0717/uid?resourceVersion=id%3A3713"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/140b55ff-ffed-40b0-afc0-fc0ef12c0717/relationships/uid?resourceVersion=id%3A3713"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/140b55ff-ffed-40b0-afc0-fc0ef12c0717/field_event_type?resourceVersion=id%3A3713"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/140b55ff-ffed-40b0-afc0-fc0ef12c0717/relationships/field_event_type?resourceVersion=id%3A3713"
+        }
+      }
+    }
+  }
+}

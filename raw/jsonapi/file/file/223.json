@@ -1,0 +1,36 @@
+{
+  "type": "file--file",
+  "id": "edf62703-4b4d-44a9-ac17-17cd5b7a9b9e",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/file/file/edf62703-4b4d-44a9-ac17-17cd5b7a9b9e"
+    }
+  },
+  "attributes": {
+    "drupal_internal__fid": 223,
+    "langcode": "de",
+    "filename": "1915_kriegssegen.jpg",
+    "uri": {
+      "value": "public://bahr_bilder/1915_kriegssegen.jpg",
+      "url": "/sites/default/files/bahr_bilder/1915_kriegssegen.jpg"
+    },
+    "filemime": "image/jpeg",
+    "filesize": 1239656,
+    "status": true,
+    "created": "2020-02-18T15:00:35+00:00",
+    "changed": "2020-02-18T15:11:43+00:00"
+  },
+  "relationships": {
+    "uid": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/file/file/edf62703-4b4d-44a9-ac17-17cd5b7a9b9e/uid"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/file/file/edf62703-4b4d-44a9-ac17-17cd5b7a9b9e/relationships/uid"
+        }
+      }
+    }
+  }
+}

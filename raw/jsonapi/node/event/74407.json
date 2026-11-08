@@ -1,0 +1,119 @@
+{
+  "type": "node--event",
+  "id": "fab373c3-3058-4752-b528-843703254c5f",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/fab373c3-3058-4752-b528-843703254c5f?resourceVersion=id%3A3735"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/fab373c3-3058-4752-b528-843703254c5f?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74407,
+    "drupal_internal__vid": 3735,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Paul Porges von Portheim †",
+    "created": "2012-10-24T12:26:24+00:00",
+    "changed": "2013-03-25T18:33:09+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/74407",
+      "pid": 1781,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 13. Juli 1883 tötet sich Paul Porges von Portheim im Wald von Weidlingau. Er war das am stärksten literarisch auftretende Mitglied der Burschenschaft \"Albia\", bei der sich auch Bahr engagierte und hatte Bahr in die Burschenschaft geholt. Wie Nahe Bahr der Tod ging, ist nicht genauer überliefert. Seinem Vater schreibt er (nach dem 14. und vor dem 25. Juli): <blockquote>allein ich habe gestern die tieftraurige Nachricht bekommen, daß einer meiner Couleurbrüder, einer meiner liebsten und edelsten Freunde, sich erschossen hat.</blockquote> Und auch am 25. noch:<blockquote>daß ich unter dem Hochdrucke meiner Gemütsaufregung infolge des besagten Todesfalles, der mich bis in die innersten Fasern erschütterte, kaum eines logischen Satzbaues fähig war.</blockquote> ",
+      "format": "full_html",
+      "processed": "Am 13. Juli 1883 tötet sich Paul Porges von Portheim im Wald von Weidlingau. Er war das am stärksten literarisch auftretende Mitglied der Burschenschaft \"Albia\", bei der sich auch Bahr engagierte und hatte Bahr in die Burschenschaft geholt. Wie Nahe Bahr der Tod ging, ist nicht genauer überliefert. Seinem Vater schreibt er (nach dem 14. und vor dem 25. Juli): <blockquote>allein ich habe gestern die tieftraurige Nachricht bekommen, daß einer meiner Couleurbrüder, einer meiner liebsten und edelsten Freunde, sich erschossen hat.</blockquote> Und auch am 25. noch:<blockquote>daß ich unter dem Hochdrucke meiner Gemütsaufregung infolge des besagten Todesfalles, der mich bis in die innersten Fasern erschütterte, kaum eines logischen Satzbaues fähig war.</blockquote> ",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1883-07-13",
+      "end_value": "1883-07-13"
+    },
+    "field_sources": [
+      "Nachruf auf Portheim: Deutsche Hochschule, 2 (1883 #65, 4. (4.8.1883) Darin seine Pseudonyme aufgelöst: Ischnaps, P. v. B., Pump v. B., Pump)",
+      "Karl Becke: Wiener Burschenschaft \"Albia\" 1870-1930. Wien: Selbstverlag 1930, 31.",
+      "Brief an den Vater, Steinkogl, 25.7.1883, der Brief davor undatiert, in der Abschrift #37",
+      "Selbstbildnis, 135-136."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fab373c3-3058-4752-b528-843703254c5f/node_type?resourceVersion=id%3A3735"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fab373c3-3058-4752-b528-843703254c5f/relationships/node_type?resourceVersion=id%3A3735"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fab373c3-3058-4752-b528-843703254c5f/revision_uid?resourceVersion=id%3A3735"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fab373c3-3058-4752-b528-843703254c5f/relationships/revision_uid?resourceVersion=id%3A3735"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fab373c3-3058-4752-b528-843703254c5f/uid?resourceVersion=id%3A3735"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fab373c3-3058-4752-b528-843703254c5f/relationships/uid?resourceVersion=id%3A3735"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fab373c3-3058-4752-b528-843703254c5f/field_event_type?resourceVersion=id%3A3735"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fab373c3-3058-4752-b528-843703254c5f/relationships/field_event_type?resourceVersion=id%3A3735"
+        }
+      }
+    }
+  }
+}

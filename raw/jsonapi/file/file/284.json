@@ -1,0 +1,42 @@
+{
+  "type": "file--file",
+  "id": "35692314-bd1b-4cf3-b132-ca868bb8cb7f",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/file/file/35692314-bd1b-4cf3-b132-ca868bb8cb7f"
+    }
+  },
+  "attributes": {
+    "drupal_internal__fid": 284,
+    "langcode": "de",
+    "filename": "23.jpg",
+    "uri": {
+      "value": "public://bilder/vdg/23.jpg",
+      "url": "/sites/default/files/bilder/vdg/23.jpg"
+    },
+    "filemime": "image/jpeg",
+    "filesize": 64285,
+    "status": true,
+    "created": "2020-02-27T15:48:15+00:00",
+    "changed": "2020-02-27T15:48:26+00:00"
+  },
+  "relationships": {
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/file/file/35692314-bd1b-4cf3-b132-ca868bb8cb7f/uid"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/file/file/35692314-bd1b-4cf3-b132-ca868bb8cb7f/relationships/uid"
+        }
+      }
+    }
+  }
+}

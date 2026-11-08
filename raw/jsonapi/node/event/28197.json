@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "ac6ed145-39ca-4e37-9df9-fb8fd0b944ed",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/ac6ed145-39ca-4e37-9df9-fb8fd0b944ed?resourceVersion=id%3A2504"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/ac6ed145-39ca-4e37-9df9-fb8fd0b944ed?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28197,
+    "drupal_internal__vid": 2504,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Kainz-Buch fertig",
+    "created": "2010-10-06T20:10:56+00:00",
+    "changed": "2011-09-05T09:08:11+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28197",
+      "pid": 342,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "In seinem \"Tagebuch\" im Weg vermerkt Bahr für den 8. September 1905: <blockquote>Mein Büchel über Kainz fertig.</blockquote>",
+      "format": "full_html",
+      "processed": "In seinem \"Tagebuch\" im Weg vermerkt Bahr für den 8. September 1905: <blockquote>Mein Büchel über Kainz fertig.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1905-09-08",
+      "end_value": "1905-09-08"
+    },
+    "field_sources": [
+      "Weg, 1 (1905) #1, 11."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ac6ed145-39ca-4e37-9df9-fb8fd0b944ed/node_type?resourceVersion=id%3A2504"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ac6ed145-39ca-4e37-9df9-fb8fd0b944ed/relationships/node_type?resourceVersion=id%3A2504"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ac6ed145-39ca-4e37-9df9-fb8fd0b944ed/revision_uid?resourceVersion=id%3A2504"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ac6ed145-39ca-4e37-9df9-fb8fd0b944ed/relationships/revision_uid?resourceVersion=id%3A2504"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ac6ed145-39ca-4e37-9df9-fb8fd0b944ed/uid?resourceVersion=id%3A2504"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ac6ed145-39ca-4e37-9df9-fb8fd0b944ed/relationships/uid?resourceVersion=id%3A2504"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ac6ed145-39ca-4e37-9df9-fb8fd0b944ed/field_event_type?resourceVersion=id%3A2504"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ac6ed145-39ca-4e37-9df9-fb8fd0b944ed/relationships/field_event_type?resourceVersion=id%3A2504"
+        }
+      }
+    }
+  }
+}

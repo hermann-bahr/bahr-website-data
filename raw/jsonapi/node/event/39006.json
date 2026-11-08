@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "48714b14-6796-4287-86bb-2d781adb9ce0",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/48714b14-6796-4287-86bb-2d781adb9ce0?resourceVersion=id%3A2787"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/48714b14-6796-4287-86bb-2d781adb9ce0?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39006,
+    "drupal_internal__vid": 2787,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Taufe",
+    "created": "2011-03-24T11:48:52+00:00",
+    "changed": "2011-11-03T11:04:24+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39006",
+      "pid": 742,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Eine Ausstellung von Bahrs Taufschein aus dem Jahr 1873 ist im Archiv erhalten: Demnach ist Bahr am 2. Tag nach seiner Geburt auf den Namen \"Hermann Anastas\" getauft. Als Pate diente der Onkel Anastas Ritter von Weidlich.",
+      "format": "full_html",
+      "processed": "Eine Ausstellung von Bahrs Taufschein aus dem Jahr 1873 ist im Archiv erhalten: Demnach ist Bahr am 2. Tag nach seiner Geburt auf den Namen \"Hermann Anastas\" getauft. Als Pate diente der Onkel Anastas Ritter von Weidlich.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1863-07-21",
+      "end_value": "1863-07-21"
+    },
+    "field_sources": [
+      "Nachlass, Kiste 77: Biographisches"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/48714b14-6796-4287-86bb-2d781adb9ce0/node_type?resourceVersion=id%3A2787"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/48714b14-6796-4287-86bb-2d781adb9ce0/relationships/node_type?resourceVersion=id%3A2787"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/48714b14-6796-4287-86bb-2d781adb9ce0/revision_uid?resourceVersion=id%3A2787"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/48714b14-6796-4287-86bb-2d781adb9ce0/relationships/revision_uid?resourceVersion=id%3A2787"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/48714b14-6796-4287-86bb-2d781adb9ce0/uid?resourceVersion=id%3A2787"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/48714b14-6796-4287-86bb-2d781adb9ce0/relationships/uid?resourceVersion=id%3A2787"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/48714b14-6796-4287-86bb-2d781adb9ce0/field_event_type?resourceVersion=id%3A2787"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/48714b14-6796-4287-86bb-2d781adb9ce0/relationships/field_event_type?resourceVersion=id%3A2787"
+        }
+      }
+    }
+  }
+}

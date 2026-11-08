@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "ac646621-5428-415d-89fe-59dafabe34d1",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/ac646621-5428-415d-89fe-59dafabe34d1?resourceVersion=id%3A2893"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/ac646621-5428-415d-89fe-59dafabe34d1?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39130,
+    "drupal_internal__vid": 2893,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Johann Viktor Krämer",
+    "created": "2011-06-09T13:08:05+00:00",
+    "changed": "2013-01-10T12:28:37+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39130",
+      "pid": 858,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Im Prado in Madrid lernt Bahr im November 1889 den Maler Johann Viktor Krämer kennen. Die Weiterreise erfolgt gemeinsam. Sie verbringen die nächsten zwei Monate in Andalusien und Marokko. 1901 bespricht Bahr in im Zuge seiner Sezessionsausstellung. [1][2] Krämer selbst erinnert sich an ein anderes erstes Treffen, in einem Café in Madrid, wo sich die Tischgesellschaft darüber unterhielt, ob der an einem anderen Tisch sitzende Krämer nun Russe oder Spanier sei. [3]\r\n",
+      "format": "full_html",
+      "processed": "Im Prado in Madrid lernt Bahr im November 1889 den Maler Johann Viktor Krämer kennen. Die Weiterreise erfolgt gemeinsam. Sie verbringen die nächsten zwei Monate in Andalusien und Marokko. 1901 bespricht Bahr in im Zuge seiner Sezessionsausstellung. [1][2] Krämer selbst erinnert sich an ein anderes erstes Treffen, in einem Café in Madrid, wo sich die Tischgesellschaft darüber unterhielt, ob der an einem anderen Tisch sitzende Krämer nun Russe oder Spanier sei. [3]\n",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1889-11-01",
+      "end_value": "1889-11-01"
+    },
+    "field_sources": [
+      "[1] Hermann Bahr: Johann Viktor Krämer. (Elfte Ausstellung der Vereinigung bildender Künstler Österreichs Sezession). Österreichische Volks-Zeitung, 47 (1901) #161, 1. (14.6.1901)",
+      "[2] Selbstbildnis, 250.",
+      "[3] Brief im Nachlass Bahrs, 29.7.1923, unsigniert."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ac646621-5428-415d-89fe-59dafabe34d1/node_type?resourceVersion=id%3A2893"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ac646621-5428-415d-89fe-59dafabe34d1/relationships/node_type?resourceVersion=id%3A2893"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ac646621-5428-415d-89fe-59dafabe34d1/revision_uid?resourceVersion=id%3A2893"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ac646621-5428-415d-89fe-59dafabe34d1/relationships/revision_uid?resourceVersion=id%3A2893"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ac646621-5428-415d-89fe-59dafabe34d1/uid?resourceVersion=id%3A2893"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ac646621-5428-415d-89fe-59dafabe34d1/relationships/uid?resourceVersion=id%3A2893"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ac646621-5428-415d-89fe-59dafabe34d1/field_event_type?resourceVersion=id%3A2893"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ac646621-5428-415d-89fe-59dafabe34d1/relationships/field_event_type?resourceVersion=id%3A2893"
+        }
+      }
+    }
+  }
+}

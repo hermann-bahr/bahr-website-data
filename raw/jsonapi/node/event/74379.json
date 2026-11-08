@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "26cbd6d2-4783-454b-9c0c-967b0701f639",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/26cbd6d2-4783-454b-9c0c-967b0701f639?resourceVersion=id%3A3707"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/26cbd6d2-4783-454b-9c0c-967b0701f639?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74379,
+    "drupal_internal__vid": 3707,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Semmering",
+    "created": "2012-10-16T13:18:41+00:00",
+    "changed": "2012-10-16T13:18:41+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/74379",
+      "pid": 1753,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 14. Jänner 1912 macht Bahr eine Wanderung mit Schnitzler am Semmering. Beginn und Dauer des Aufenthalts unbekannt.",
+      "format": "full_html",
+      "processed": "Am 14. Jänner 1912 macht Bahr eine Wanderung mit Schnitzler am Semmering. Beginn und Dauer des Aufenthalts unbekannt.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1912-01-14",
+      "end_value": "1912-01-14"
+    },
+    "field_sources": [
+      "Schnitzler: Tagebücher, IV, 296."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/26cbd6d2-4783-454b-9c0c-967b0701f639/node_type?resourceVersion=id%3A3707"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/26cbd6d2-4783-454b-9c0c-967b0701f639/relationships/node_type?resourceVersion=id%3A3707"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/26cbd6d2-4783-454b-9c0c-967b0701f639/revision_uid?resourceVersion=id%3A3707"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/26cbd6d2-4783-454b-9c0c-967b0701f639/relationships/revision_uid?resourceVersion=id%3A3707"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/26cbd6d2-4783-454b-9c0c-967b0701f639/uid?resourceVersion=id%3A3707"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/26cbd6d2-4783-454b-9c0c-967b0701f639/relationships/uid?resourceVersion=id%3A3707"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/26cbd6d2-4783-454b-9c0c-967b0701f639/field_event_type?resourceVersion=id%3A3707"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/26cbd6d2-4783-454b-9c0c-967b0701f639/relationships/field_event_type?resourceVersion=id%3A3707"
+        }
+      }
+    }
+  }
+}

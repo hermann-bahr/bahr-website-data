@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "639b3217-0e6b-4784-8d0e-1a5ae74f127f",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/639b3217-0e6b-4784-8d0e-1a5ae74f127f?resourceVersion=id%3A3158"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/639b3217-0e6b-4784-8d0e-1a5ae74f127f?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44244,
+    "drupal_internal__vid": 3158,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Buschbeck, HvH, JR",
+    "created": "2011-10-03T13:03:17+00:00",
+    "changed": "2012-10-23T13:29:44+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44244",
+      "pid": 1137,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 25. Jänner 1903, unter dem Eindruck von Bahrs für den nächsten Tag angesetzter Blinddarmentzündung, notiert sich Redlich in sein Tagebuch, was als Liste der engsten Freunde gelten kann:<blockquote>Und ich glaube, er hält auch mich – mit Buschbeck und Hugo – für seinen wahren und treuen Freund, der ich ihm bin.</blockquote>Buschbeck ist natürlich Bahrs Sekretär, Freund und späterer Burgtheaterverwalter Erhard Buschbeck, Hugo bezieht sich auf Hugo von Hofmannsthal.",
+      "format": "full_html",
+      "processed": "Am 25. Jänner 1903, unter dem Eindruck von Bahrs für den nächsten Tag angesetzter Blinddarmentzündung, notiert sich Redlich in sein Tagebuch, was als Liste der engsten Freunde gelten kann:<blockquote>Und ich glaube, er hält auch mich – mit Buschbeck und Hugo – für seinen wahren und treuen Freund, der ich ihm bin.</blockquote>Buschbeck ist natürlich Bahrs Sekretär, Freund und späterer Burgtheaterverwalter Erhard Buschbeck, Hugo bezieht sich auf Hugo von Hofmannsthal.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1903-01-25",
+      "end_value": "1903-01-25"
+    },
+    "field_sources": [
+      "Bahr/Redlich, 11.",
+      "Fritz Fellner und Doris A. Corradini (Hgg.): Schicksalsjahre Österreichs. Die Erinnerungen und Tagebücher Josef Redlichs 1869–1936. Wien: Böhlau 2011, I, 113."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/639b3217-0e6b-4784-8d0e-1a5ae74f127f/node_type?resourceVersion=id%3A3158"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/639b3217-0e6b-4784-8d0e-1a5ae74f127f/relationships/node_type?resourceVersion=id%3A3158"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/639b3217-0e6b-4784-8d0e-1a5ae74f127f/revision_uid?resourceVersion=id%3A3158"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/639b3217-0e6b-4784-8d0e-1a5ae74f127f/relationships/revision_uid?resourceVersion=id%3A3158"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/639b3217-0e6b-4784-8d0e-1a5ae74f127f/uid?resourceVersion=id%3A3158"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/639b3217-0e6b-4784-8d0e-1a5ae74f127f/relationships/uid?resourceVersion=id%3A3158"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/639b3217-0e6b-4784-8d0e-1a5ae74f127f/field_event_type?resourceVersion=id%3A3158"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/639b3217-0e6b-4784-8d0e-1a5ae74f127f/relationships/field_event_type?resourceVersion=id%3A3158"
+        }
+      }
+    }
+  }
+}

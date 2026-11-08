@@ -1,0 +1,90 @@
+{
+  "type": "node--page",
+  "id": "b893397e-9522-44dc-9e1e-2e50401739e8",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/page/b893397e-9522-44dc-9e1e-2e50401739e8?resourceVersion=id%3A4157"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/page/b893397e-9522-44dc-9e1e-2e50401739e8?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 9596,
+    "drupal_internal__vid": 4157,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-27T15:23:13+00:00",
+    "status": true,
+    "title": "Bibliografie der literarischen Prosa",
+    "created": "2010-01-12T12:28:28+00:00",
+    "changed": "2020-02-27T15:23:13+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/bibliografie-der-literarischen-prosa",
+      "pid": 14,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<p>Für Kurt Thomasberger heißt die Kategorie »Romane und Novellen«. Damit macht er sich angreifbar, denn Bahrs literarische Texte sind oft genug keinem von beiden Gattungen zuzuordnen. Anstelle des zu eng gefassten Titels dürfte »Literarische Prosa«&nbsp;eine bessere Zusammenfassung des Inhalts geben. Die Gruppe umfasst nunmehr 17 Einträge, wovon zehn Romane sind, die restlichen Textzusammenstellungen. Nicht nachvollziehen lässt sich auch die Einordnung von »Fin de siècle«&nbsp;ins kritische Œuvre, nunmehr wird es dem fiktiven literarischen Texten zugeteilt.</p>\r\n",
+      "format": "full_html",
+      "processed": "<p>Für Kurt Thomasberger heißt die Kategorie »Romane und Novellen«. Damit macht er sich angreifbar, denn Bahrs literarische Texte sind oft genug keinem von beiden Gattungen zuzuordnen. Anstelle des zu eng gefassten Titels dürfte »Literarische Prosa«&nbsp;eine bessere Zusammenfassung des Inhalts geben. Die Gruppe umfasst nunmehr 17 Einträge, wovon zehn Romane sind, die restlichen Textzusammenstellungen. Nicht nachvollziehen lässt sich auch die Einordnung von »Fin de siècle«&nbsp;ins kritische Œuvre, nunmehr wird es dem fiktiven literarischen Texten zugeteilt.</p>\n",
+      "summary": ""
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "016d417b-5c75-4303-8420-18e221e9e269",
+        "meta": {
+          "drupal_internal__target_id": "page"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/b893397e-9522-44dc-9e1e-2e50401739e8/node_type?resourceVersion=id%3A4157"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/b893397e-9522-44dc-9e1e-2e50401739e8/relationships/node_type?resourceVersion=id%3A4157"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/b893397e-9522-44dc-9e1e-2e50401739e8/revision_uid?resourceVersion=id%3A4157"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/b893397e-9522-44dc-9e1e-2e50401739e8/relationships/revision_uid?resourceVersion=id%3A4157"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/b893397e-9522-44dc-9e1e-2e50401739e8/uid?resourceVersion=id%3A4157"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/b893397e-9522-44dc-9e1e-2e50401739e8/relationships/uid?resourceVersion=id%3A4157"
+        }
+      }
+    }
+  }
+}

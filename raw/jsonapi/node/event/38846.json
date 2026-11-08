@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "99c2f87b-48c6-47b6-917b-b69ce615f28b",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/99c2f87b-48c6-47b6-917b-b69ce615f28b?resourceVersion=id%3A2662"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/99c2f87b-48c6-47b6-917b-b69ce615f28b?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38846,
+    "drupal_internal__vid": 2662,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Diederichs",
+    "created": "2011-02-14T17:12:17+00:00",
+    "changed": "2011-06-27T11:32:19+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38846",
+      "pid": 590,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Der Verleger Eugen Diederichs schreibt 1927:<blockquote>Ein ganz anderer Typus ist Hermann Bahr. Der sieht schon fast wie der liebe Gott aus mit seinem langen Barte, wenn er in verräucherter Stube an seinem Schreibtisch sitzt. Mehrmals war ich ihm von ferne begegnet, auf der Darmstädter Ausstellung, auch in Bayreuth. Mancherlei Briefe hatten wir gewechselt und doch dauerte es fünfundzwanzig Jahre, ehe ich ihn einmal aufsuchte.</blockquote> Diederich täuscht sich, wenn er (S. 37) die \"Eröffnung der Darmstädter Künstlerkolonie\" auf 1902 datiert, die fand im Mai 1901 statt. In jedem Fall dürften sich Bahr und Diederichs also erst um das Jahr 1926 persönlich kennen gelernt haben.",
+      "format": "full_html",
+      "processed": "Der Verleger Eugen Diederichs schreibt 1927:<blockquote>Ein ganz anderer Typus ist Hermann Bahr. Der sieht schon fast wie der liebe Gott aus mit seinem langen Barte, wenn er in verräucherter Stube an seinem Schreibtisch sitzt. Mehrmals war ich ihm von ferne begegnet, auf der Darmstädter Ausstellung, auch in Bayreuth. Mancherlei Briefe hatten wir gewechselt und doch dauerte es fünfundzwanzig Jahre, ehe ich ihn einmal aufsuchte.</blockquote> Diederich täuscht sich, wenn er (S. 37) die \"Eröffnung der Darmstädter Künstlerkolonie\" auf 1902 datiert, die fand im Mai 1901 statt. In jedem Fall dürften sich Bahr und Diederichs also erst um das Jahr 1926 persönlich kennen gelernt haben.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1901-05-15",
+      "end_value": "1901-05-15"
+    },
+    "field_sources": [
+      "Der Deutsche Buchhandel der Gegenwart in Selbstdarstellungen. Hg. G. Menz. Zweiter Band Heft 1: Eugen Diederichs. Leipzig: Felix Meiner 1927 , 80."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/99c2f87b-48c6-47b6-917b-b69ce615f28b/node_type?resourceVersion=id%3A2662"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/99c2f87b-48c6-47b6-917b-b69ce615f28b/relationships/node_type?resourceVersion=id%3A2662"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/99c2f87b-48c6-47b6-917b-b69ce615f28b/revision_uid?resourceVersion=id%3A2662"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/99c2f87b-48c6-47b6-917b-b69ce615f28b/relationships/revision_uid?resourceVersion=id%3A2662"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/99c2f87b-48c6-47b6-917b-b69ce615f28b/uid?resourceVersion=id%3A2662"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/99c2f87b-48c6-47b6-917b-b69ce615f28b/relationships/uid?resourceVersion=id%3A2662"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/99c2f87b-48c6-47b6-917b-b69ce615f28b/field_event_type?resourceVersion=id%3A2662"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/99c2f87b-48c6-47b6-917b-b69ce615f28b/relationships/field_event_type?resourceVersion=id%3A2662"
+        }
+      }
+    }
+  }
+}

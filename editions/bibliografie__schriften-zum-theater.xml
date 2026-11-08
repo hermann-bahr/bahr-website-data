@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bibliografie__schriften-zum-theater" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Bibliografie der Schriften zum Theater</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">9598</idno>
+        <idno type="drupal-alias">/bibliografie-der-schriften-zum-theater</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bibliografie-der-schriften-zum-theater">https://bahr.univie.ac.at/bibliografie-der-schriften-zum-theater</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="1" key="bibliografie">Bibliografie</term>
+          <term n="5" key="schriften-zum-theater">Schriften zum Theater</term>
+        </keywords>
+        <classCode scheme="drupal-type">page</classCode>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2010-01-12T13:00:12+00:00" type="created">angelegt in Drupal</change>
+      <change when="2020-02-27T14:55:51+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Bahrs Beschäftigung mit dem Theater zieht sich über sein ganzes Leben. Die von Zeitgenossen teilweise hämisch kommentierten Interessenskonflikte zwischen Bahr dem Bühnenautor und Bahr dem Bühnenkritiker verschleiern den Blick darauf, dass Bahrs theoretische Überlegungen zum Theater bedeutender und nachhaltiger Diskurse bestimmten, als die meisten seiner Stücke. Zusätzlich zu den von Kurt Thomasberger geführten acht Einträgen ergänzen nunmehr zwei dem Umfeld des Wagnerschen Musiktheaters zuzuordnende Bücher die Kategorie.</p>
+      </div>
+      <divGen type="eintraege"/>
+    </body>
+  </text>
+</TEI>

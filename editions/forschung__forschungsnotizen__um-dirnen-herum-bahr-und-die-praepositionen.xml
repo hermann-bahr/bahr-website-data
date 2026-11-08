@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="forschung__forschungsnotizen__um-dirnen-herum-bahr-und-die-praepositionen" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Um Dirnen herum: Bahr und die Präpositionen</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">28290</idno>
+        <idno type="drupal-alias">/article/28290</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/article/28290">https://bahr.univie.ac.at/article/28290</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="6" key="forschung">Forschung</term>
+          <term n="4" key="forschungsnotizen">Forschungsnotizen</term>
+          <term n="14" key="um-dirnen-herum-bahr-und-die-praepositionen" type="eintrag">Um Dirnen herum: Bahr und die Präpositionen</term>
+        </keywords>
+        <classCode scheme="drupal-type">article</classCode>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2010-12-03T14:49:18+00:00" type="created">angelegt in Drupal</change>
+      <change when="2010-12-27T10:16:43+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Gerade den neu erschienen Band mit dem Briefwechsel Wilhelm Bölsches mit den Autoren der Freien Bühne lesend, stoße ich auf ein kleines Präpositionsverwirrnis, das von Gerd-Hermann Susen richtig in den Anmerkungen kommentiert wird, das aber darüber hinaus Aufschluss über Bahrs Schreibpraxis gibt. Zuerst eine rekonstruierte Chronologie einer Stelle aus "Satanismus":</p>
+      </div>
+      <div>
+        <head>1. Bahrs Manuskript:</head>
+        <quote>es wird von schwarzen Messen gemeldet, welche kirchenschänderische Mönche <hi rend="bold">auf</hi> nackten Dirnen lesen.</quote>
+      </div>
+      <div>
+        <head>2. Korrekturfahne:</head>
+        <quote>welche kirchenschänderische Mönche <hi rend="bold">bei</hi> nackten Dirnen lesen.</quote>
+        <p>Bahr beschwert sich bei Bölsche (Briefwechsel mit den Autoren der Freien Bühne, 713 (6.2.1892, #313)) und gesteht Bölsche zu, im Falle von Bedenken betreffs der Zensur, er könne es so bringen:</p>
+      </div>
+      <div>
+        <head>3. Korrekturvorschlag</head>
+        <quote>welche kirchenschänderische Mönche <hi rend="bold">mit</hi> nackten Dirnen lesen.</quote>
+        <p>Im Heft findet sich dann aber:</p>
+      </div>
+      <div>
+        <head>4. Druckfassung Freie Bühne</head>
+        <quote>welche kirchenschänderische Mönche <hi rend="bold">vor</hi> nackten Dirnen lesen.</quote>
+        <p>Nun stellt sich die Frage, wie Bahr das in der Buchfassung löst. Wenig überraschend steht da:</p>
+      </div>
+      <div>
+        <head>5. Buchfassung, Studien zur Kritik der Moderne</head>
+        <quote>welche kirchenschänderische Mönche <hi rend="bold">vor</hi> nackten Dirnen lesen.</quote>
+        <p>Susen stellt die Vermutung an, dass Bahr sich mit dem Eingriff Bölsches einverstanden erklärte. Vielleicht stimmt das, doch es wäre doch eigentlich ungewöhnlich, dass Bahr einer Stelle so viel Bedeutung zukommen lässt, eine Variante als Abschwächung zuzulassen, ohne später die Konsequenz zu haben, es weiterzuverfolgen. Wenn sich das einerseits als ein weiterer Beleg für die Theorie darbietet, dass Bahr seine Zeitschriften-Ausschnitte direkt als Druckvorlagen an den Buchverleger sandte, so steckt noch mehr dahinter. Denn es geht um die Frage, wie Bahrs Bücher zustande kamen. Nimmt man als Ausgangspunkt die Texte über die französische Literatur in den "Studien" so scheinen die Bücher so entstanden zu sein:</p>
+        <list rend="numbered">
+          <item>Entwurf des Buches</item>
+          <item>Verwertung einzelner Texte in Periodika</item>
+          <item>Drucklegung des Buches</item>
+          <item>Druckfahnenkorrektur</item>
+        </list>
+        <p>Doch dagegen spricht nun, dass die Präposition bei den "Dirnen" geändert worden wäre, wenn Bahr die Texte druckfrisch zusammenstellte. Auch die "Gute Schule" erschien nicht in der verstümmelten Fassung der Freien Bühne. Alternativ lässt sich Bahrs Praxis folgendermaßen erklären:</p>
+        <list rend="numbered">
+          <item>Verfassen einzelner Texte für Periodika</item>
+          <item>Konzeption durch Auswahl aus dem Erschienenen</item>
+          <item>Drucklegung des Buches</item>
+        </list>
+        <p>Vermutlich wird sich eine Mischform als die richtige Erweisen, in der die ursprüngliche Konzeption dynamischer gedacht werden muss: Als für ein Buch konzipierte Texte, die sich durch die Erstdrucke in Periodikas entwickeln.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,120 @@
+{
+  "type": "node--event",
+  "id": "0bc7abfc-b533-498b-a69f-5e95f1a00fbc",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/0bc7abfc-b533-498b-a69f-5e95f1a00fbc?resourceVersion=id%3A2437"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/0bc7abfc-b533-498b-a69f-5e95f1a00fbc?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28116,
+    "drupal_internal__vid": 2437,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Fontane",
+    "created": "2010-08-18T13:50:52+00:00",
+    "changed": "2012-10-04T13:00:08+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28116",
+      "pid": 272,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "In seinem \"Tagebuch\" erinnert sich Hermann Bahr, im Jahr 1890 zusammen mit Ernst von Wolzogen zu Theodor Fontane gegangen zu sein, um ihm zum siebzigsten Geburtstag zu gratulieren. Der fand am 30. Dezember 1989 statt. Da Bahr sich erst ab Ende April 1890 in Berlin aufhielt, dürfte es in seine Zeit bei der Freien Bühne fallen. Mit der fünfbändigen Theodor Fontane-Chronik lässt sich der Besuch nicht nachweisen. In den Briefen Fontanes kommt Bahr nur zweimal in Erwähnung vor. Das zweite Mal lässt er 1898 Paul Linsemann für ihn bei Bahr ablehnen, in der \"Zeit“ einen Artikel über Bismarck zu verfassen. Das erste Mal ist hingegen eine ironische Wahrnehmung der \"Modernen“: <blockquote>Ich erzitterte, als ich neulich las, daß der \"Realismus“ 6 Mann hoch a tempo eingerückt sei: Bahr, Tovote, die Zwillinge Holz u. Schlaf und noch zwei andre.</blockquote>",
+      "format": "full_html",
+      "processed": "In seinem \"Tagebuch\" erinnert sich Hermann Bahr, im Jahr 1890 zusammen mit Ernst von Wolzogen zu Theodor Fontane gegangen zu sein, um ihm zum siebzigsten Geburtstag zu gratulieren. Der fand am 30. Dezember 1989 statt. Da Bahr sich erst ab Ende April 1890 in Berlin aufhielt, dürfte es in seine Zeit bei der Freien Bühne fallen. Mit der fünfbändigen Theodor Fontane-Chronik lässt sich der Besuch nicht nachweisen. In den Briefen Fontanes kommt Bahr nur zweimal in Erwähnung vor. Das zweite Mal lässt er 1898 Paul Linsemann für ihn bei Bahr ablehnen, in der \"Zeit“ einen Artikel über Bismarck zu verfassen. Das erste Mal ist hingegen eine ironische Wahrnehmung der \"Modernen“: <blockquote>Ich erzitterte, als ich neulich las, daß der \"Realismus“ 6 Mann hoch a tempo eingerückt sei: Bahr, Tovote, die Zwillinge Holz u. Schlaf und noch zwei andre.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1890-05-01",
+      "end_value": "1890-05-01"
+    },
+    "field_sources": [
+      "Hermann Bahr: Tagebuch. 24. Dezember [1919]. Neues Wiener Journal, 28 (1920) #9398, 6. (4.1.1920) [fehlt in der Buchausgabe]",
+      "Hermann Bahr: Tagebuch, 23. Februar 1929",
+      "Theodor Fontane: Briefe. München: Hanser, IV, [88]. (An Wilhelm Hertz)",
+      "Ebd., IV, [854 und 857] (5.8. und 17.8.1898, An Paul Linsemann)\r\n",
+      "Vgl. Selbstbildnis, 261"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0bc7abfc-b533-498b-a69f-5e95f1a00fbc/node_type?resourceVersion=id%3A2437"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0bc7abfc-b533-498b-a69f-5e95f1a00fbc/relationships/node_type?resourceVersion=id%3A2437"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0bc7abfc-b533-498b-a69f-5e95f1a00fbc/revision_uid?resourceVersion=id%3A2437"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0bc7abfc-b533-498b-a69f-5e95f1a00fbc/relationships/revision_uid?resourceVersion=id%3A2437"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0bc7abfc-b533-498b-a69f-5e95f1a00fbc/uid?resourceVersion=id%3A2437"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0bc7abfc-b533-498b-a69f-5e95f1a00fbc/relationships/uid?resourceVersion=id%3A2437"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0bc7abfc-b533-498b-a69f-5e95f1a00fbc/field_event_type?resourceVersion=id%3A2437"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0bc7abfc-b533-498b-a69f-5e95f1a00fbc/relationships/field_event_type?resourceVersion=id%3A2437"
+        }
+      }
+    }
+  }
+}

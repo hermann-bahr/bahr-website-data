@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "7b28cae9-6747-43db-abce-93be58f17130",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/7b28cae9-6747-43db-abce-93be58f17130?resourceVersion=id%3A2847"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/7b28cae9-6747-43db-abce-93be58f17130?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39073,
+    "drupal_internal__vid": 2847,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Haus fertig",
+    "created": "2011-05-05T20:38:40+00:00",
+    "changed": "2011-07-15T08:54:26+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39073",
+      "pid": 804,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 2. November 1899 berichtet Bahr seiner Mutter, dass das Haus, das ihm Olbrich in Hietzing gebaut hat, fertig sei:<blockquote>\r\nOlbrich Haus ist fertig, es überwintert jetzt, im März kommt die Inneneinrichtung, im Mai wird‘s bezogen.</blockquote>In seinem Tagebuch macht er sich Notizen, wie er es eingerichtet haben möchte.",
+      "format": "full_html",
+      "processed": "Am 2. November 1899 berichtet Bahr seiner Mutter, dass das Haus, das ihm Olbrich in Hietzing gebaut hat, fertig sei:<blockquote>\nOlbrich Haus ist fertig, es überwintert jetzt, im März kommt die Inneneinrichtung, im Mai wird‘s bezogen.</blockquote>In seinem Tagebuch macht er sich Notizen, wie er es eingerichtet haben möchte.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1899-11-02",
+      "end_value": "1899-11-02"
+    },
+    "field_sources": [
+      "Brief an die Mutter, 2.11.[1899]",
+      "Tagebücher (Csàky), II, 336-340."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7b28cae9-6747-43db-abce-93be58f17130/node_type?resourceVersion=id%3A2847"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7b28cae9-6747-43db-abce-93be58f17130/relationships/node_type?resourceVersion=id%3A2847"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7b28cae9-6747-43db-abce-93be58f17130/revision_uid?resourceVersion=id%3A2847"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7b28cae9-6747-43db-abce-93be58f17130/relationships/revision_uid?resourceVersion=id%3A2847"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7b28cae9-6747-43db-abce-93be58f17130/uid?resourceVersion=id%3A2847"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7b28cae9-6747-43db-abce-93be58f17130/relationships/uid?resourceVersion=id%3A2847"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7b28cae9-6747-43db-abce-93be58f17130/field_event_type?resourceVersion=id%3A2847"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7b28cae9-6747-43db-abce-93be58f17130/relationships/field_event_type?resourceVersion=id%3A2847"
+        }
+      }
+    }
+  }
+}

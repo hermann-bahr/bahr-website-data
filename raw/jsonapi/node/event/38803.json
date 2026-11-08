@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "d56549ae-f5dd-4ec0-b5c3-81a5a1471a84",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/d56549ae-f5dd-4ec0-b5c3-81a5a1471a84?resourceVersion=id%3A2624"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/d56549ae-f5dd-4ec0-b5c3-81a5a1471a84?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38803,
+    "drupal_internal__vid": 2624,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Tennis",
+    "created": "2011-02-01T16:03:56+00:00",
+    "changed": "2011-07-13T17:02:44+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38803",
+      "pid": 551,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahr nützt die Sommerferien 1896 auch, um seine neueste Leidenschaft neben dem Radfahren auszuüben: Tennis. (Das datiert wohl eine Zeile im Skizzenbuch 2, 1894-1897: \"Jedenfalls Tennis bei Schlesinger im Pollakhof\")",
+      "format": "full_html",
+      "processed": "Bahr nützt die Sommerferien 1896 auch, um seine neueste Leidenschaft neben dem Radfahren auszuüben: Tennis. (Das datiert wohl eine Zeile im Skizzenbuch 2, 1894-1897: \"Jedenfalls Tennis bei Schlesinger im Pollakhof\")",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1896-08-01",
+      "end_value": "1896-08-01"
+    },
+    "field_sources": [
+      "Brief an den Vater, 1.9.1896 ",
+      "Tagebücher (Csàky), II, 160."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d56549ae-f5dd-4ec0-b5c3-81a5a1471a84/node_type?resourceVersion=id%3A2624"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d56549ae-f5dd-4ec0-b5c3-81a5a1471a84/relationships/node_type?resourceVersion=id%3A2624"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d56549ae-f5dd-4ec0-b5c3-81a5a1471a84/revision_uid?resourceVersion=id%3A2624"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d56549ae-f5dd-4ec0-b5c3-81a5a1471a84/relationships/revision_uid?resourceVersion=id%3A2624"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d56549ae-f5dd-4ec0-b5c3-81a5a1471a84/uid?resourceVersion=id%3A2624"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d56549ae-f5dd-4ec0-b5c3-81a5a1471a84/relationships/uid?resourceVersion=id%3A2624"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d56549ae-f5dd-4ec0-b5c3-81a5a1471a84/field_event_type?resourceVersion=id%3A2624"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d56549ae-f5dd-4ec0-b5c3-81a5a1471a84/relationships/field_event_type?resourceVersion=id%3A2624"
+        }
+      }
+    }
+  }
+}

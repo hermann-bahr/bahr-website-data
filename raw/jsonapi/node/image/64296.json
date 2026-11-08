@@ -1,0 +1,109 @@
+{
+  "type": "node--image",
+  "id": "879ce83c-3be1-48c8-a2a2-1512bd67b3b3",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/image/879ce83c-3be1-48c8-a2a2-1512bd67b3b3?resourceVersion=id%3A3981"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/image/879ce83c-3be1-48c8-a2a2-1512bd67b3b3?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 64296,
+    "drupal_internal__vid": 3981,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:44:08+00:00",
+    "status": true,
+    "title": "1913 Fotografie",
+    "created": "2012-10-08T12:07:14+00:00",
+    "changed": "2012-10-08T12:07:14+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/bild/64296",
+      "pid": 1729,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<i>Abbildung aus dem Hermann Bahr-Buch, Berlin: Fischer 1913, gegenüber Titelblatt.</i>",
+      "format": "full_html",
+      "processed": "<i>Abbildung aus dem Hermann Bahr-Buch, Berlin: Fischer 1913, gegenüber Titelblatt.</i>",
+      "summary": null
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "e2381624-d098-4c5b-bdd7-5dbfd773b84e",
+        "meta": {
+          "drupal_internal__target_id": "image"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/879ce83c-3be1-48c8-a2a2-1512bd67b3b3/node_type?resourceVersion=id%3A3981"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/879ce83c-3be1-48c8-a2a2-1512bd67b3b3/relationships/node_type?resourceVersion=id%3A3981"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/879ce83c-3be1-48c8-a2a2-1512bd67b3b3/revision_uid?resourceVersion=id%3A3981"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/879ce83c-3be1-48c8-a2a2-1512bd67b3b3/relationships/revision_uid?resourceVersion=id%3A3981"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/879ce83c-3be1-48c8-a2a2-1512bd67b3b3/uid?resourceVersion=id%3A3981"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/879ce83c-3be1-48c8-a2a2-1512bd67b3b3/relationships/uid?resourceVersion=id%3A3981"
+        }
+      }
+    },
+    "field_images": {
+      "data": [
+        {
+          "type": "media--image",
+          "id": "56f084cd-ce1c-4651-86fd-3b566bc139b9",
+          "meta": {
+            "drupal_internal__target_id": 161
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/879ce83c-3be1-48c8-a2a2-1512bd67b3b3/field_images?resourceVersion=id%3A3981"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/879ce83c-3be1-48c8-a2a2-1512bd67b3b3/relationships/field_images?resourceVersion=id%3A3981"
+        }
+      }
+    }
+  }
+}

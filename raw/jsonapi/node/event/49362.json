@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "31a57260-7d5d-46d3-a22a-61da49401bd5",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/31a57260-7d5d-46d3-a22a-61da49401bd5?resourceVersion=id%3A3208"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/31a57260-7d5d-46d3-a22a-61da49401bd5?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49362,
+    "drupal_internal__vid": 3208,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Notstandssausschuss",
+    "created": "2011-10-13T11:46:24+00:00",
+    "changed": "2011-10-13T11:46:24+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49362",
+      "pid": 1187,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Eine weitere kommissionelle Tätigkeit Bahrs im 1. Weltkrieg ist die Teilnahme an einem \"Notstandsausschuss\". Dieser trifft sich am 17. August 1916 in Salzburg.",
+      "format": "full_html",
+      "processed": "Eine weitere kommissionelle Tätigkeit Bahrs im 1. Weltkrieg ist die Teilnahme an einem \"Notstandsausschuss\". Dieser trifft sich am 17. August 1916 in Salzburg.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1916-08-17",
+      "end_value": "1916-08-17"
+    },
+    "field_sources": [
+      "Bahr/Redlich, 185."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/31a57260-7d5d-46d3-a22a-61da49401bd5/node_type?resourceVersion=id%3A3208"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/31a57260-7d5d-46d3-a22a-61da49401bd5/relationships/node_type?resourceVersion=id%3A3208"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/31a57260-7d5d-46d3-a22a-61da49401bd5/revision_uid?resourceVersion=id%3A3208"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/31a57260-7d5d-46d3-a22a-61da49401bd5/relationships/revision_uid?resourceVersion=id%3A3208"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/31a57260-7d5d-46d3-a22a-61da49401bd5/uid?resourceVersion=id%3A3208"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/31a57260-7d5d-46d3-a22a-61da49401bd5/relationships/uid?resourceVersion=id%3A3208"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/31a57260-7d5d-46d3-a22a-61da49401bd5/field_event_type?resourceVersion=id%3A3208"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/31a57260-7d5d-46d3-a22a-61da49401bd5/relationships/field_event_type?resourceVersion=id%3A3208"
+        }
+      }
+    }
+  }
+}

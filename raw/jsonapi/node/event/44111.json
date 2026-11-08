@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "7ed8473d-19ce-45d2-8580-67d4f2b4b087",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/7ed8473d-19ce-45d2-8580-67d4f2b4b087?resourceVersion=id%3A3027"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/7ed8473d-19ce-45d2-8580-67d4f2b4b087?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44111,
+    "drupal_internal__vid": 3027,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "\"Marsyas\" fertig",
+    "created": "2011-09-13T17:38:33+00:00",
+    "changed": "2011-09-13T17:39:33+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44111",
+      "pid": 1006,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 8. Juni 1904 notiert sich Bahr zum letzten Mal: \"Am Marsyas diktiert\". Am 22. Juli korrigiert er dann Druckfahnen von Bard, wo der Text aber erst mit eineinhalb Jahren Verzögerung erscheinen wird.",
+      "format": "full_html",
+      "processed": "Am 8. Juni 1904 notiert sich Bahr zum letzten Mal: \"Am Marsyas diktiert\". Am 22. Juli korrigiert er dann Druckfahnen von Bard, wo der Text aber erst mit eineinhalb Jahren Verzögerung erscheinen wird.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1904-06-08",
+      "end_value": "1904-06-08"
+    },
+    "field_sources": [
+      "Tagebücher (Csàky), IV, 172 und 220.",
+      "Hermann Bahr: Dialog vom Marsyas. Mit einer Photogravüre und fünfzehn Vollbildern in Tonätzung. Cornelius Gurlitt, Hg. Die Kultur, Sammlung illustrierter Einzeldarstellungen, 4 Berlin: Bard-Marquardt, 1906.",
+      "Hermann Bahr: Dialog vom Marsyas. (Aufsatz). Die neue Rundschau, 15 (1904) #10, 1173-1205. "
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7ed8473d-19ce-45d2-8580-67d4f2b4b087/node_type?resourceVersion=id%3A3027"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7ed8473d-19ce-45d2-8580-67d4f2b4b087/relationships/node_type?resourceVersion=id%3A3027"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7ed8473d-19ce-45d2-8580-67d4f2b4b087/revision_uid?resourceVersion=id%3A3027"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7ed8473d-19ce-45d2-8580-67d4f2b4b087/relationships/revision_uid?resourceVersion=id%3A3027"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7ed8473d-19ce-45d2-8580-67d4f2b4b087/uid?resourceVersion=id%3A3027"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7ed8473d-19ce-45d2-8580-67d4f2b4b087/relationships/uid?resourceVersion=id%3A3027"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7ed8473d-19ce-45d2-8580-67d4f2b4b087/field_event_type?resourceVersion=id%3A3027"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7ed8473d-19ce-45d2-8580-67d4f2b4b087/relationships/field_event_type?resourceVersion=id%3A3027"
+        }
+      }
+    }
+  }
+}

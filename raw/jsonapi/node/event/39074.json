@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "3552e0b4-82eb-420c-bbbc-189e74ea6118",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/3552e0b4-82eb-420c-bbbc-189e74ea6118?resourceVersion=id%3A2848"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/3552e0b4-82eb-420c-bbbc-189e74ea6118?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39074,
+    "drupal_internal__vid": 2848,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Neues Wiener Tagblatt",
+    "created": "2011-05-05T20:40:48+00:00",
+    "changed": "2012-10-22T19:50:20+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39074",
+      "pid": 805,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Der offizielle Beginn für Bahrs neue Tätigkeit beim Neuen Wiener Tagblatt ist der 1. Oktober 1899, wo er wöchentlich ein Feuilleton abliefern soll. Bahr begeht ihn programmatisch mit seinem Aufsatz: \"Die Entdeckung der Provinz.\"\r\nAls Anfangsgehalt dürfte er 6000 fl. jährlich bezogen haben.",
+      "format": "full_html",
+      "processed": "Der offizielle Beginn für Bahrs neue Tätigkeit beim Neuen Wiener Tagblatt ist der 1. Oktober 1899, wo er wöchentlich ein Feuilleton abliefern soll. Bahr begeht ihn programmatisch mit seinem Aufsatz: \"Die Entdeckung der Provinz.\"\nAls Anfangsgehalt dürfte er 6000 fl. jährlich bezogen haben.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1899-10-01",
+      "end_value": "1899-10-01"
+    },
+    "field_sources": [
+      "Hermann Bahr: Die Entdeckung der Provinz. Neues Wiener Tagblatt, 33 (1899) #270, 1-3. (1.10.1899) ",
+      "Zum Gehalt: Brief von Hofmannsthal Vater an HB, 3.10.1899 und Anm. zu HvH an HB, 5.10.1899."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3552e0b4-82eb-420c-bbbc-189e74ea6118/node_type?resourceVersion=id%3A2848"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3552e0b4-82eb-420c-bbbc-189e74ea6118/relationships/node_type?resourceVersion=id%3A2848"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3552e0b4-82eb-420c-bbbc-189e74ea6118/revision_uid?resourceVersion=id%3A2848"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3552e0b4-82eb-420c-bbbc-189e74ea6118/relationships/revision_uid?resourceVersion=id%3A2848"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3552e0b4-82eb-420c-bbbc-189e74ea6118/uid?resourceVersion=id%3A2848"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3552e0b4-82eb-420c-bbbc-189e74ea6118/relationships/uid?resourceVersion=id%3A2848"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "d579e54c-64dd-4193-a9ef-da87efb3ed16",
+          "meta": {
+            "drupal_internal__target_id": 8
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3552e0b4-82eb-420c-bbbc-189e74ea6118/field_event_type?resourceVersion=id%3A2848"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3552e0b4-82eb-420c-bbbc-189e74ea6118/relationships/field_event_type?resourceVersion=id%3A2848"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "6687ee8d-a85c-4a4c-8eba-3f2c1b4f442c",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/6687ee8d-a85c-4a4c-8eba-3f2c1b4f442c?resourceVersion=id%3A2454"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/6687ee8d-a85c-4a4c-8eba-3f2c1b4f442c?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28136,
+    "drupal_internal__vid": 2454,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Mark Twain",
+    "created": "2010-08-24T09:37:53+00:00",
+    "changed": "2012-10-22T11:09:49+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28136",
+      "pid": 290,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 31. Oktober 1897 veranstaltete der Presseclub Concordia einen Abend mit Mark Twain. An ihm nahm Max Burckhard,  Gustav Mahler, Theodor Herzl und Felix Salten teil, möglicherweise auch Bahr.",
+      "format": "full_html",
+      "processed": "Am 31. Oktober 1897 veranstaltete der Presseclub Concordia einen Abend mit Mark Twain. An ihm nahm Max Burckhard,  Gustav Mahler, Theodor Herzl und Felix Salten teil, möglicherweise auch Bahr.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1897-10-31",
+      "end_value": "1897-10-31"
+    },
+    "field_sources": [
+      "Mark Twain bei der \"Concordia\". Neue Freie Presse, 1897 #11924, 1-2. (2.11.1897)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6687ee8d-a85c-4a4c-8eba-3f2c1b4f442c/node_type?resourceVersion=id%3A2454"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6687ee8d-a85c-4a4c-8eba-3f2c1b4f442c/relationships/node_type?resourceVersion=id%3A2454"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6687ee8d-a85c-4a4c-8eba-3f2c1b4f442c/revision_uid?resourceVersion=id%3A2454"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6687ee8d-a85c-4a4c-8eba-3f2c1b4f442c/relationships/revision_uid?resourceVersion=id%3A2454"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6687ee8d-a85c-4a4c-8eba-3f2c1b4f442c/uid?resourceVersion=id%3A2454"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6687ee8d-a85c-4a4c-8eba-3f2c1b4f442c/relationships/uid?resourceVersion=id%3A2454"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6687ee8d-a85c-4a4c-8eba-3f2c1b4f442c/field_event_type?resourceVersion=id%3A2454"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6687ee8d-a85c-4a4c-8eba-3f2c1b4f442c/relationships/field_event_type?resourceVersion=id%3A2454"
+        }
+      }
+    }
+  }
+}

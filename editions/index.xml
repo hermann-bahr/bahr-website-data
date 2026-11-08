@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="index" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Zum Projekt</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">1</idno>
+        <idno type="drupal-alias">/zum-projekt</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/zum-projekt">https://bahr.univie.ac.at/zum-projekt</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="front">
+          <term>Startseite</term>
+        </keywords>
+        <classCode scheme="drupal-type">page</classCode>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2009-12-21T16:24:28+00:00" type="created">angelegt in Drupal</change>
+      <change when="2024-02-29T14:29:53+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Eine restriktive Nachlasspolitik verhinderte lange Zeit die adäquate Würdigung des »Mittlers der Moderne«, Hermann Bahr (1863–1934). Nach Ablauf des Copyrights unternahmen wir – Claus Pias als Projektleiter, Martin Anton Müller und Gottfried Schnödl – zwischen 2009 und 2013 eine Vermessung seines Schaffens.</p>
+        <p>Das Projekt teilte sich in zwei Arbeitsfelder:</p>
+        <p>Wir edierten die wichtigsten <ref target="kritische-schriften.xml"><hi rend="bold">kritischen Schriften</hi></ref> in 23 Bänden neu. Als PDF lassen sich diese kostenlos laden.</p>
+        <p>Als zweites Arbeitsfeld erstellten wir ein umfassendes <ref target="https://bahr-textverzeichnis.acdh.oeaw.ac.at/"><hi rend="bold">Textverzeichnis</hi></ref> der über 4000 Artikel und Aufsätze, die Bahr zu Lebzeiten publizierte. Dieses erschien 2014 <ref target="https://asw-verlage.de/katalog/hermann_bahr_____textverzeichnis-801.html">gedruckt</ref> im Verlag VDG Weimar. Die Neuausgabe ist nun auf einer separaten Seite zu finden. </p>
+        <p>Nach zehn Jahren, in der die Website funktionierte, machte sie ein Server-Update unbenützbar. Im Frühling 2020 rettete und überarbeitete <ref target="https://www.oeaw.ac.at/acdh/team/current-team/klaus-illmayer/">Klaus Illmayer</ref> die ursprünglichen Daten. Nun sollte sie für weitere 10 Jahre zugänglich sein. </p>
+      </div>
+    </body>
+  </text>
+</TEI>

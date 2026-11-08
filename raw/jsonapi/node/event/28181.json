@@ -1,0 +1,119 @@
+{
+  "type": "node--event",
+  "id": "ed4a3739-9c84-4623-ad01-f06977be2757",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/ed4a3739-9c84-4623-ad01-f06977be2757?resourceVersion=id%3A2489"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/ed4a3739-9c84-4623-ad01-f06977be2757?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28181,
+    "drupal_internal__vid": 2489,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Burgtheaterring",
+    "created": "2010-09-09T18:57:15+00:00",
+    "changed": "2013-08-13T10:37:02+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28181",
+      "pid": 326,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<blockquote>Am Ostermontag wurde Hermann Bahr der ihm verliehene Burgtheaterring des Wiener Journalisten- und Schriftstellervereins durch eine Wiener Abordnung, der sich auch Thomas Mann angeschlossen hatte, überreicht. Dr. Auernheimer - Wien übergab Bahr den kostbaren Ring, worauf der Direktor des Wiener Burgtheaters, Hofrat Herterich, in seiner Ansprache ausführte, daß diese Auszeichnung Hermann Bahr dem Lustspieldichter und somit auch dem österreichischen Lustspiel gelte. Dieser Ring soll eine Art Ehrenmitgliedschaft des Burgtheaters bedeuten.</blockquote>",
+      "format": "full_html",
+      "processed": "<blockquote>Am Ostermontag wurde Hermann Bahr der ihm verliehene Burgtheaterring des Wiener Journalisten- und Schriftstellervereins durch eine Wiener Abordnung, der sich auch Thomas Mann angeschlossen hatte, überreicht. Dr. Auernheimer - Wien übergab Bahr den kostbaren Ring, worauf der Direktor des Wiener Burgtheaters, Hofrat Herterich, in seiner Ansprache ausführte, daß diese Auszeichnung Hermann Bahr dem Lustspieldichter und somit auch dem österreichischen Lustspiel gelte. Dieser Ring soll eine Art Ehrenmitgliedschaft des Burgtheaters bedeuten.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1927-04-18",
+      "end_value": "1927-04-18"
+    },
+    "field_sources": [
+      "Vossische Zeitung, 19.4.1927, 3.",
+      "S.a.: Neue Freie Presse, #22484, 8. (20.4.1927)",
+      "Neues Wiener Journal, 35 (1927) #11991, 3. (10.4.1927) und #12000, 7. (20.4.1927) Err. am 24.4.1927, 24.\r\n",
+      "Burgtheaterring für Hermann Bahr. In: Münchner Neueste Nachrichten, 80 (1927) #96, S. 2. (8.4.1927)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ed4a3739-9c84-4623-ad01-f06977be2757/node_type?resourceVersion=id%3A2489"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ed4a3739-9c84-4623-ad01-f06977be2757/relationships/node_type?resourceVersion=id%3A2489"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ed4a3739-9c84-4623-ad01-f06977be2757/revision_uid?resourceVersion=id%3A2489"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ed4a3739-9c84-4623-ad01-f06977be2757/relationships/revision_uid?resourceVersion=id%3A2489"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ed4a3739-9c84-4623-ad01-f06977be2757/uid?resourceVersion=id%3A2489"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ed4a3739-9c84-4623-ad01-f06977be2757/relationships/uid?resourceVersion=id%3A2489"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ed4a3739-9c84-4623-ad01-f06977be2757/field_event_type?resourceVersion=id%3A2489"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ed4a3739-9c84-4623-ad01-f06977be2757/relationships/field_event_type?resourceVersion=id%3A2489"
+        }
+      }
+    }
+  }
+}

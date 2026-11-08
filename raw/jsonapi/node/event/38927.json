@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "5e3b020d-1e9c-44ed-b365-7803f67decb9",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/5e3b020d-1e9c-44ed-b365-7803f67decb9?resourceVersion=id%3A2714"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/5e3b020d-1e9c-44ed-b365-7803f67decb9?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38927,
+    "drupal_internal__vid": 2714,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Laudongasse 6",
+    "created": "2011-03-11T15:56:36+00:00",
+    "changed": "2011-07-14T20:28:57+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38927",
+      "pid": 668,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Kürschners \"Litteratur-Kalender\" auf das Jahr 1891 gibt als Bahrs Adresse Wien VIII, Laudongasse 6 an. Der Kalender erschien zum Jahresende 1890. Es handelt sich um die Adresse Bahrs vor der Reise nach Paris. Der Kürschner von 1892 bringt die Pariser und Berliner Adresse bringt. ",
+      "format": "full_html",
+      "processed": "Kürschners \"Litteratur-Kalender\" auf das Jahr 1891 gibt als Bahrs Adresse Wien VIII, Laudongasse 6 an. Der Kalender erschien zum Jahresende 1890. Es handelt sich um die Adresse Bahrs vor der Reise nach Paris. Der Kürschner von 1892 bringt die Pariser und Berliner Adresse bringt. ",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1888-07-22",
+      "end_value": "1888-07-22"
+    },
+    "field_sources": [
+      "Deutscher Litteratur-Kalender auf das Jahr 1891. Hg. von Joseph Kürschner. Stuttgart: Kürschners Selbstverlag 1891, 30.",
+      "Brief an Kienzl, 22.7.1888, in Abschrift in der Kiste 56 des Nachlasses\r\n"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5e3b020d-1e9c-44ed-b365-7803f67decb9/node_type?resourceVersion=id%3A2714"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5e3b020d-1e9c-44ed-b365-7803f67decb9/relationships/node_type?resourceVersion=id%3A2714"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5e3b020d-1e9c-44ed-b365-7803f67decb9/revision_uid?resourceVersion=id%3A2714"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5e3b020d-1e9c-44ed-b365-7803f67decb9/relationships/revision_uid?resourceVersion=id%3A2714"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5e3b020d-1e9c-44ed-b365-7803f67decb9/uid?resourceVersion=id%3A2714"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5e3b020d-1e9c-44ed-b365-7803f67decb9/relationships/uid?resourceVersion=id%3A2714"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5e3b020d-1e9c-44ed-b365-7803f67decb9/field_event_type?resourceVersion=id%3A2714"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5e3b020d-1e9c-44ed-b365-7803f67decb9/relationships/field_event_type?resourceVersion=id%3A2714"
+        }
+      }
+    }
+  }
+}

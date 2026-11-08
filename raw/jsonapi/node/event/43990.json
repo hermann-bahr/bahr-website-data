@@ -1,0 +1,119 @@
+{
+  "type": "node--event",
+  "id": "b0989a60-5191-4896-8da4-9261bf2e120b",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b0989a60-5191-4896-8da4-9261bf2e120b?resourceVersion=id%3A2918"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b0989a60-5191-4896-8da4-9261bf2e120b?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 43990,
+    "drupal_internal__vid": 2918,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Bei Körber",
+    "created": "2011-07-12T15:41:23+00:00",
+    "changed": "2012-05-23T20:14:01+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/43990",
+      "pid": 890,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 4. November 1903 gelangt Bahr durch Intervention von Redlich zu einer Audienz beim Ministerpräsidenten Ernest von Körber, um von ihm die Erlaubnis für die Lesung des \"Reigen\" zu erhalten. Bahrs Kommentar, die Regierung fürchte wohl antisemitische Ausschreitungen bei der Lesung, wurde stillschweigend übergangen.",
+      "format": "full_html",
+      "processed": "Am 4. November 1903 gelangt Bahr durch Intervention von Redlich zu einer Audienz beim Ministerpräsidenten Ernest von Körber, um von ihm die Erlaubnis für die Lesung des \"Reigen\" zu erhalten. Bahrs Kommentar, die Regierung fürchte wohl antisemitische Ausschreitungen bei der Lesung, wurde stillschweigend übergangen.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1903-11-04",
+      "end_value": "1903-11-04"
+    },
+    "field_sources": [
+      " Neues Wiener Tagblatt, 37 (1903) #304, 12. (5.11.1903)",
+      "Otto P. Schinnerer: The History of Schnitzler's Reigen. In: PMLA, 46 (1931) #3, 843-844.",
+      "Tagebücher (Csàky), III, 405.",
+      "Bahr/Redlich, 17."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b0989a60-5191-4896-8da4-9261bf2e120b/node_type?resourceVersion=id%3A2918"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b0989a60-5191-4896-8da4-9261bf2e120b/relationships/node_type?resourceVersion=id%3A2918"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b0989a60-5191-4896-8da4-9261bf2e120b/revision_uid?resourceVersion=id%3A2918"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b0989a60-5191-4896-8da4-9261bf2e120b/relationships/revision_uid?resourceVersion=id%3A2918"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b0989a60-5191-4896-8da4-9261bf2e120b/uid?resourceVersion=id%3A2918"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b0989a60-5191-4896-8da4-9261bf2e120b/relationships/uid?resourceVersion=id%3A2918"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b0989a60-5191-4896-8da4-9261bf2e120b/field_event_type?resourceVersion=id%3A2918"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b0989a60-5191-4896-8da4-9261bf2e120b/relationships/field_event_type?resourceVersion=id%3A2918"
+        }
+      }
+    }
+  }
+}

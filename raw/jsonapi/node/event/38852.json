@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "81089cd6-6805-44fb-a5e7-c930e1f7be1c",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/81089cd6-6805-44fb-a5e7-c930e1f7be1c?resourceVersion=id%3A2668"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/81089cd6-6805-44fb-a5e7-c930e1f7be1c?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38852,
+    "drupal_internal__vid": 2668,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "AS, Brahm, Hirschfeld",
+    "created": "2011-02-15T16:00:53+00:00",
+    "changed": "2012-05-23T10:51:37+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38852",
+      "pid": 596,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Brahm lädt am 13. Oktober 1902 Hirschfeld zu einer „literarischen Expedition“ ein, ein Abend, der <blockquote>im Treppchen (Unter den Linden) gipfelt. Es treffen sich dort und platzen aufeinander die Geister von Schnitzler, Bahr e tutti quanti. Ich breche zu diesem Zweck gegen zehn […] auf.</blockquote>\r\n",
+      "format": "full_html",
+      "processed": "Brahm lädt am 13. Oktober 1902 Hirschfeld zu einer „literarischen Expedition“ ein, ein Abend, der <blockquote>im Treppchen (Unter den Linden) gipfelt. Es treffen sich dort und platzen aufeinander die Geister von Schnitzler, Bahr e tutti quanti. Ich breche zu diesem Zweck gegen zehn […] auf.</blockquote>\n",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1902-10-13",
+      "end_value": "1902-10-13"
+    },
+    "field_sources": [
+      "Georg Hirschfeld: Otto Brahm. Briefe und Erinnerungen. Berlin: Stilke 1925, 217.",
+      "Vgl. Tagebücher (Csàky), III, 232.",
+      "Schnitzler: Tagebücher, II, 380."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/81089cd6-6805-44fb-a5e7-c930e1f7be1c/node_type?resourceVersion=id%3A2668"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/81089cd6-6805-44fb-a5e7-c930e1f7be1c/relationships/node_type?resourceVersion=id%3A2668"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/81089cd6-6805-44fb-a5e7-c930e1f7be1c/revision_uid?resourceVersion=id%3A2668"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/81089cd6-6805-44fb-a5e7-c930e1f7be1c/relationships/revision_uid?resourceVersion=id%3A2668"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/81089cd6-6805-44fb-a5e7-c930e1f7be1c/uid?resourceVersion=id%3A2668"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/81089cd6-6805-44fb-a5e7-c930e1f7be1c/relationships/uid?resourceVersion=id%3A2668"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/81089cd6-6805-44fb-a5e7-c930e1f7be1c/field_event_type?resourceVersion=id%3A2668"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/81089cd6-6805-44fb-a5e7-c930e1f7be1c/relationships/field_event_type?resourceVersion=id%3A2668"
+        }
+      }
+    }
+  }
+}

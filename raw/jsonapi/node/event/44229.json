@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "f4ada472-d30a-4d9b-b786-d6f3d55386f7",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f4ada472-d30a-4d9b-b786-d6f3d55386f7?resourceVersion=id%3A3143"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f4ada472-d30a-4d9b-b786-d6f3d55386f7?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44229,
+    "drupal_internal__vid": 3143,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Generalversammlung Deutsches Volkstheater",
+    "created": "2011-09-29T14:45:13+00:00",
+    "changed": "2011-09-29T14:45:13+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44229",
+      "pid": 1122,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Über die Aktionärsversammlung des Deutschen Volkstheaters weiß Karl Kraus zu berichten:<blockquote>\"Unter den Anwesenden\" wurde, so meldet man mir, Herr Bahr bemerkt. Er gehört dem Deutschen Volkstheater nämlich nicht nur als Kritiker und Autor, sondern auch als Actionär an. Wahrlich, der Typus des zufriedenen österreichischen Actionärs! Nach Schluss der Versammlung soll Herr Bukovics laut erklärt haben, dass er seit drei Jahren mit Deficit arbeite. Ebenso lange wirkt Herr Bahr als Hausdichter des Deutschen Volkstheaters.</blockquote>Ob Bahr wirklich Aktien am Volkstheater hielt oder Kraus hier nur den Witz des Defizits vorbereitet, ist offen.",
+      "format": "full_html",
+      "processed": "Über die Aktionärsversammlung des Deutschen Volkstheaters weiß Karl Kraus zu berichten:<blockquote>\"Unter den Anwesenden\" wurde, so meldet man mir, Herr Bahr bemerkt. Er gehört dem Deutschen Volkstheater nämlich nicht nur als Kritiker und Autor, sondern auch als Actionär an. Wahrlich, der Typus des zufriedenen österreichischen Actionärs! Nach Schluss der Versammlung soll Herr Bukovics laut erklärt haben, dass er seit drei Jahren mit Deficit arbeite. Ebenso lange wirkt Herr Bahr als Hausdichter des Deutschen Volkstheaters.</blockquote>Ob Bahr wirklich Aktien am Volkstheater hielt oder Kraus hier nur den Witz des Defizits vorbereitet, ist offen.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1901-04-15",
+      "end_value": "1901-04-15"
+    },
+    "field_sources": [
+      "Die Fackel, 3 (1901) #74, 20. (Mitte April 1901)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f4ada472-d30a-4d9b-b786-d6f3d55386f7/node_type?resourceVersion=id%3A3143"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f4ada472-d30a-4d9b-b786-d6f3d55386f7/relationships/node_type?resourceVersion=id%3A3143"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f4ada472-d30a-4d9b-b786-d6f3d55386f7/revision_uid?resourceVersion=id%3A3143"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f4ada472-d30a-4d9b-b786-d6f3d55386f7/relationships/revision_uid?resourceVersion=id%3A3143"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f4ada472-d30a-4d9b-b786-d6f3d55386f7/uid?resourceVersion=id%3A3143"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f4ada472-d30a-4d9b-b786-d6f3d55386f7/relationships/uid?resourceVersion=id%3A3143"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f4ada472-d30a-4d9b-b786-d6f3d55386f7/field_event_type?resourceVersion=id%3A3143"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f4ada472-d30a-4d9b-b786-d6f3d55386f7/relationships/field_event_type?resourceVersion=id%3A3143"
+        }
+      }
+    }
+  }
+}

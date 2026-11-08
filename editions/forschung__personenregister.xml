@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="forschung__personenregister" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Personenregister</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">22097</idno>
+        <idno type="drupal-alias">/personenregister</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/personenregister">https://bahr.univie.ac.at/personenregister</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="6" key="forschung">Forschung</term>
+          <term n="3" key="personenregister">Personenregister</term>
+        </keywords>
+        <classCode scheme="drupal-type">page</classCode>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2010-04-19T17:28:45+00:00" type="created">angelegt in Drupal</change>
+      <change when="2022-09-06T18:53:43+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Hermann Bahr dürfte davon überzeugt gewesen sein, dass der Zugang zu seinem theoretischen Werk über das Personenregister am Ende jeden Bandes geschieht. Selbst ein eifriger <hi rend="italic">Namedropper</hi> verwendete er, der von sich behauptete, an einem guten Tag 2000 Seiten zu lesen, Bücher als Nachschlagewerke. Hier finden sich Vorarbeiten für ein zu einem späteren Zeitpunkt zu erstellendes Generalregister.</p>
+      </div>
+      <div>
+        <head>Artikel</head>
+        <p>Als bibliografische Ergänzung wurden für viele Texte, die für das Textverzeichnis angelegt wurden, die vorkommenden Personen nachgewiesen. Dieser existiert, ist aber, so lange das Online-Textverzeichnis offline ist, ebenfalls nicht zugänglich.</p>
+      </div>
+      <div>
+        <head>Tagebücher, Skizzenhefte, Notizbücher</head>
+        <p><hi rend="bold"><ref target="forschung__personenregister__tagebuecher-skizzenbuecher-notizhefte-personen-und.xml">Gesamtindex</ref></hi> der unter der Ägide von Moritz Csàky von Helene Zand, Lottelis Moser, Lukas Mayrhofer und Kurt Ifkovits herausgegeben Bände mit Bahrs privaten Aufzeichnungen von 1885-1908.</p>
+      </div>
+      <div>
+        <head>"Tagebuch"</head>
+        <p>Die von Bahr ab 1917 verfassten und bis auf die letzten in Buchform gesammelten literarischen "Tagebücher" sind nicht Teil dieses Projekts. Ihre "Personen- und Sachregister" machen wir trotzdem verfügbar:</p>
+        <list rend="numbered">
+          <item><ref target="https://bahr.univie.ac.at/sites/all/indizes/1917.pdf" type="sites-all">1917</ref> Tagebücher Dezember 1916-Dezember 1917</item>
+          <item><ref target="https://bahr.univie.ac.at/sites/all/indizes/1918.pdf" type="sites-all">1918</ref> Tagebücher 22. Dezember 1917-2. Dezember 1918</item>
+          <item><ref target="https://bahr.univie.ac.at/sites/all/indizes/1919.pdf" type="sites-all">1919</ref> Tagebücher 3. Dezember 1918-10. November 1919</item>
+          <item><ref target="https://bahr.univie.ac.at/sites/all/indizes/kritikdergegenwart.pdf" type="sites-all">Kritik der Gegenwart</ref> 16. November 1919-14. Dezember 1920</item>
+          <item><ref target="https://bahr.univie.ac.at/sites/all/indizes/liebe1.pdf" type="sites-all">Liebe der Lebenden, Band 1</ref> Tagebücher 1921</item>
+          <item><ref target="https://bahr.univie.ac.at/sites/all/indizes/liebe2.pdf" type="sites-all">Liebe der Lebenden, Band 2</ref> Tagebücher 1922</item>
+          <item><ref target="https://bahr.univie.ac.at/sites/all/indizes/liebe3.pdf" type="sites-all">Liebe der Lebenden, Band 3</ref> Tagebücher 1923</item>
+          <item><ref target="https://bahr.univie.ac.at/sites/all/indizes/zauberstab.pdf" type="sites-all">Der Zauberstab.</ref> Tagebücher 1924/25</item>
+        </list>
+      </div>
+    </body>
+  </text>
+</TEI>

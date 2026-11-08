@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "23a94f2f-18f3-474a-917e-64b9d55966e2",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/23a94f2f-18f3-474a-917e-64b9d55966e2?resourceVersion=id%3A2580"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/23a94f2f-18f3-474a-917e-64b9d55966e2?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38759,
+    "drupal_internal__vid": 2580,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "München - Stuttgart - Karlsruhe - Straßburg",
+    "created": "2011-01-25T20:24:24+00:00",
+    "changed": "2011-06-28T09:36:35+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38759",
+      "pid": 507,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "In den ersten Novembertagen 1888 reist Bahr, ohne besondere Hast, durch die süddeutsche Provinz nach Paris. Am 6. ist er in München und kehrt im Zacherlbräu und im Ratskeller ein. [1] Zumindest seit 12.11. ist er in Straßburg, davor war er in Stuttgart und München, den 13. nützt er für einen Tagesausflug nach Karlsruhe.[2] Von seiner Reise schreibt er zwei \"Reisebriefe\", die zuerst in der Deutschen Zeitung, dann in \"Zur Kritik der Moderne\" erscheinen. ",
+      "format": "full_html",
+      "processed": "In den ersten Novembertagen 1888 reist Bahr, ohne besondere Hast, durch die süddeutsche Provinz nach Paris. Am 6. ist er in München und kehrt im Zacherlbräu und im Ratskeller ein. [1] Zumindest seit 12.11. ist er in Straßburg, davor war er in Stuttgart und München, den 13. nützt er für einen Tagesausflug nach Karlsruhe.[2] Von seiner Reise schreibt er zwei \"Reisebriefe\", die zuerst in der Deutschen Zeitung, dann in \"Zur Kritik der Moderne\" erscheinen. ",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1888-11-06",
+      "end_value": "1888-11-14"
+    },
+    "field_sources": [
+      "[1] Tagebücher (Csàky), I, 67.",
+      "[2] Briefe an den Vater im Nachlass"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/23a94f2f-18f3-474a-917e-64b9d55966e2/node_type?resourceVersion=id%3A2580"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/23a94f2f-18f3-474a-917e-64b9d55966e2/relationships/node_type?resourceVersion=id%3A2580"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/23a94f2f-18f3-474a-917e-64b9d55966e2/revision_uid?resourceVersion=id%3A2580"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/23a94f2f-18f3-474a-917e-64b9d55966e2/relationships/revision_uid?resourceVersion=id%3A2580"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/23a94f2f-18f3-474a-917e-64b9d55966e2/uid?resourceVersion=id%3A2580"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/23a94f2f-18f3-474a-917e-64b9d55966e2/relationships/uid?resourceVersion=id%3A2580"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/23a94f2f-18f3-474a-917e-64b9d55966e2/field_event_type?resourceVersion=id%3A2580"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/23a94f2f-18f3-474a-917e-64b9d55966e2/relationships/field_event_type?resourceVersion=id%3A2580"
+        }
+      }
+    }
+  }
+}

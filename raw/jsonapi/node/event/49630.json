@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "46debe10-37ba-435b-8094-f2dec78a2cce",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/46debe10-37ba-435b-8094-f2dec78a2cce?resourceVersion=id%3A3455"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/46debe10-37ba-435b-8094-f2dec78a2cce?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49630,
+    "drupal_internal__vid": 3455,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Alejandro Sawa, Silverio Lanza",
+    "created": "2011-11-18T13:54:05+00:00",
+    "changed": "2011-11-18T14:02:45+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49630",
+      "pid": 1445,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahrs wichtigste Freunde unter den Gente nueva in Madrid bilden Alejandro Sawa und Silverio Lanza.",
+      "format": "full_html",
+      "processed": "Bahrs wichtigste Freunde unter den Gente nueva in Madrid bilden Alejandro Sawa und Silverio Lanza.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1889-10-26",
+      "end_value": "1889-10-26"
+    },
+    "field_sources": [
+      "Selbstbildnis, 248-250",
+      "Hermann Bahr: Gente Nueva. Die Nation. Wochenschrift für Politik, Volkswirtschaft und Literatur, 8 (1890) #3, 41-45. (18.10.1890) Buchausgabe: Überwindung des Naturalismus, 219-236",
+      "(Hier auf 26. Oktober 1889 datiert)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/46debe10-37ba-435b-8094-f2dec78a2cce/node_type?resourceVersion=id%3A3455"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/46debe10-37ba-435b-8094-f2dec78a2cce/relationships/node_type?resourceVersion=id%3A3455"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/46debe10-37ba-435b-8094-f2dec78a2cce/revision_uid?resourceVersion=id%3A3455"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/46debe10-37ba-435b-8094-f2dec78a2cce/relationships/revision_uid?resourceVersion=id%3A3455"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/46debe10-37ba-435b-8094-f2dec78a2cce/uid?resourceVersion=id%3A3455"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/46debe10-37ba-435b-8094-f2dec78a2cce/relationships/uid?resourceVersion=id%3A3455"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/46debe10-37ba-435b-8094-f2dec78a2cce/field_event_type?resourceVersion=id%3A3455"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/46debe10-37ba-435b-8094-f2dec78a2cce/relationships/field_event_type?resourceVersion=id%3A3455"
+        }
+      }
+    }
+  }
+}

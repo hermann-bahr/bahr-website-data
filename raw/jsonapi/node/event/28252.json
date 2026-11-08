@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "cdbcd05f-b4cb-47b1-9283-d96bca3a6b55",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/cdbcd05f-b4cb-47b1-9283-d96bca3a6b55?resourceVersion=id%3A2532"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/cdbcd05f-b4cb-47b1-9283-d96bca3a6b55?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28252,
+    "drupal_internal__vid": 2532,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Bayreuth",
+    "created": "2010-11-12T11:16:49+00:00",
+    "changed": "2011-09-19T15:39:38+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28252",
+      "pid": 385,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Vom 26. Juni bis zum 20. August 1914 wohnt er in Bayreuth, Parsifalstr. 15. Neben dem in den letzten Jahren zum Thema werdenden Katholizismus kommt mit diesem Aufenthalt ein zweites bestimmendes Thema für Bahr auf. Seiner Begeisterung für den großen Krieg setzte er selbst keine Grenzen, wie schon einige Titel verraten: \"Heldentum\", \"Kriegssegen\" und \"Kriegerisch\", vor allem aber: \"Das deutsche Wesen ist uns erschienen\". Dieser gleich zu Beginn des Krieges verfasste Text ist datiert mit \"Bayreuth, 12. August 1914\". ",
+      "format": "full_html",
+      "processed": "Vom 26. Juni bis zum 20. August 1914 wohnt er in Bayreuth, Parsifalstr. 15. Neben dem in den letzten Jahren zum Thema werdenden Katholizismus kommt mit diesem Aufenthalt ein zweites bestimmendes Thema für Bahr auf. Seiner Begeisterung für den großen Krieg setzte er selbst keine Grenzen, wie schon einige Titel verraten: \"Heldentum\", \"Kriegssegen\" und \"Kriegerisch\", vor allem aber: \"Das deutsche Wesen ist uns erschienen\". Dieser gleich zu Beginn des Krieges verfasste Text ist datiert mit \"Bayreuth, 12. August 1914\". ",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1914-06-26",
+      "end_value": "1914-08-20"
+    },
+    "field_sources": [
+      "Bahr/Kvapil, 158 und Anm. 358",
+      "Eigenhändige Postkarte an Prof. Dr. [ ] Witte, Blankenburg. Deutschland, dat. Venedig, 24.6.1914, Wienbibliothek, H.I.N. 85226\r\n"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cdbcd05f-b4cb-47b1-9283-d96bca3a6b55/node_type?resourceVersion=id%3A2532"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cdbcd05f-b4cb-47b1-9283-d96bca3a6b55/relationships/node_type?resourceVersion=id%3A2532"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cdbcd05f-b4cb-47b1-9283-d96bca3a6b55/revision_uid?resourceVersion=id%3A2532"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cdbcd05f-b4cb-47b1-9283-d96bca3a6b55/relationships/revision_uid?resourceVersion=id%3A2532"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cdbcd05f-b4cb-47b1-9283-d96bca3a6b55/uid?resourceVersion=id%3A2532"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cdbcd05f-b4cb-47b1-9283-d96bca3a6b55/relationships/uid?resourceVersion=id%3A2532"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cdbcd05f-b4cb-47b1-9283-d96bca3a6b55/field_event_type?resourceVersion=id%3A2532"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cdbcd05f-b4cb-47b1-9283-d96bca3a6b55/relationships/field_event_type?resourceVersion=id%3A2532"
+        }
+      }
+    }
+  }
+}

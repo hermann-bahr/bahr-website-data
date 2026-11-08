@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="briefe__arthur-schnitzler" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Hermann Bahr – Arthur Schnitzler</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">90889</idno>
+        <idno type="drupal-alias">/hermann-bahr-arthur-schnitzler</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/hermann-bahr-arthur-schnitzler">https://bahr.univie.ac.at/hermann-bahr-arthur-schnitzler</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="5" key="briefe">Briefe</term>
+          <term n="1" key="arthur-schnitzler">Arthur Schnitzler</term>
+        </keywords>
+        <classCode scheme="drupal-type">page</classCode>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2020-02-28T11:25:22+00:00" type="created">angelegt in Drupal</change>
+      <change when="2020-03-25T09:41:09+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head>Hermann Bahr – Arthur Schnitzler: Briefwechsel, Aufzeichnungen, Dokumente (1891–1931)</head>
+        <div>
+          <head>Herausgegeben von Kurt Ifkovits und Martin Anton Müller</head>
+          <p>Göttingen: Wallstein 2018</p>
+          <p>
+            <graphic url="files/inline-images/9783835332287l.png"/>
+          </p>
+          <p>Im April 1891 lernten sich in einem Wiener Kaffeehaus Arthur Schnitzler und Hermann Bahr kennen - eine maßgebliche Begegnung für die österreichische Literaturbewegung, die sich um sie und mit ihnen zu formieren begann und deren Bekanntheit weit über die Doppelmonarchie hinausging.</p>
+          <p>Der Briefwechsel dieser beiden doch so unterschiedlichen Charaktere ist ein herausragendes Dokument der »Wiener Moderne«. Der Journalist und Kulturtheoretiker Bahr, einer der wichtigsten Impulsgeber für das Wiener Umfeld, begleitete den Aufstieg Schnitzlers vom dichtenden Arzt zu einem der berühmtesten Bühnenschriftsteller seiner Zeit. Und doch zeugen die Korrespondenz und die Dokumente auch von einer ebenso lebenslangen Bemühung, einen Zugang zueinander zu finden.</p>
+          <p>Der Band bietet in 1366 bisher teils unveröffentlichten Schriftstücken erstmals den vollständigen Briefwechsel, mit zusätzlichen Dokumenten, einem Kommentar und chronologischem Nachwort. Es entsteht ein schillerndes Bild prominenter Figuren des Wiener Milieus (u.a. Richard Beer-Hofmann, Hugo von Hofmannsthal, Karl Kraus) aber auch internationaler Kontakte (u.a. Otto Brahm, Samuel Fischer) und schließt eine Forschungslücke zur Wiener Moderne und der deutschsprachigen Literatur um 1900.</p>
+          <p><ref target="http://www.wallstein-verlag.de/9783835332287-hermann-bahr-arthur-schnitzler-briefwechsel-aufzeichnungen-dokumente-1891-1931.html">Buchausgabe</ref><lb/> <ref target="http://www.oapen.org/search?identifier=647851">Open Access-PDF</ref><lb/> <ref target="https://bahrschnitzler.acdh.oeaw.ac.at">Projektwebsite</ref><lb/> <ref target="https://github.com/martinantonmueller/Hermann-Bahr_Arthur-Schnitzler">Open Data</ref></p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

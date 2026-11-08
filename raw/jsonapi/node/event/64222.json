@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "f6fd8296-a97a-46c6-8be0-c9175c008156",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f6fd8296-a97a-46c6-8be0-c9175c008156?resourceVersion=id%3A3612"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f6fd8296-a97a-46c6-8be0-c9175c008156?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 64222,
+    "drupal_internal__vid": 3612,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "AS, HvH",
+    "created": "2012-05-23T10:02:47+00:00",
+    "changed": "2012-05-23T10:02:47+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/64222",
+      "pid": 1655,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Im Anschluss an die Aufführung von Bracco's \"Ende der Liebe\" gehen Schnitzler, Hofmannsthal und Bahr Abendessen.",
+      "format": "full_html",
+      "processed": "Im Anschluss an die Aufführung von Bracco's \"Ende der Liebe\" gehen Schnitzler, Hofmannsthal und Bahr Abendessen.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1898-02-19",
+      "end_value": "1898-02-19"
+    },
+    "field_sources": [
+      "Schnitzler: Tagebücher, II, 278",
+      "Hermann Bahr: Das Ende der Liebe. (Eine satirische Komödie von Roberto Bracco. Zum ersten Mal aufgeführt im Deutschen Volkstheater am 19. Februar 1898). Die Zeit, 14 (1898) #178, 139-140. (26.2.1898) "
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f6fd8296-a97a-46c6-8be0-c9175c008156/node_type?resourceVersion=id%3A3612"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f6fd8296-a97a-46c6-8be0-c9175c008156/relationships/node_type?resourceVersion=id%3A3612"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f6fd8296-a97a-46c6-8be0-c9175c008156/revision_uid?resourceVersion=id%3A3612"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f6fd8296-a97a-46c6-8be0-c9175c008156/relationships/revision_uid?resourceVersion=id%3A3612"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f6fd8296-a97a-46c6-8be0-c9175c008156/uid?resourceVersion=id%3A3612"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f6fd8296-a97a-46c6-8be0-c9175c008156/relationships/uid?resourceVersion=id%3A3612"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f6fd8296-a97a-46c6-8be0-c9175c008156/field_event_type?resourceVersion=id%3A3612"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f6fd8296-a97a-46c6-8be0-c9175c008156/relationships/field_event_type?resourceVersion=id%3A3612"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "type": "media--image",
+  "id": "c579445f-c62b-4fef-8fbc-267f4b73b799",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/media/image/c579445f-c62b-4fef-8fbc-267f4b73b799?resourceVersion=id%3A134"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/media/image/c579445f-c62b-4fef-8fbc-267f4b73b799?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__mid": 134,
+    "drupal_internal__vid": 134,
+    "langcode": "de",
+    "revision_created": "2020-02-18T15:16:19+00:00",
+    "status": true,
+    "name": "1908_lido",
+    "created": "2020-02-18T15:16:19+00:00",
+    "changed": "2020-02-18T15:16:19+00:00",
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": null,
+      "pid": null,
+      "langcode": "de"
+    }
+  },
+  "relationships": {
+    "bundle": {
+      "data": {
+        "type": "media_type--media_type",
+        "id": "b82aabb6-e7a1-420d-b98b-5b981c2d920e",
+        "meta": {
+          "drupal_internal__target_id": "image"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/c579445f-c62b-4fef-8fbc-267f4b73b799/bundle?resourceVersion=id%3A134"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/c579445f-c62b-4fef-8fbc-267f4b73b799/relationships/bundle?resourceVersion=id%3A134"
+        }
+      }
+    },
+    "revision_user": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/c579445f-c62b-4fef-8fbc-267f4b73b799/revision_user?resourceVersion=id%3A134"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/c579445f-c62b-4fef-8fbc-267f4b73b799/relationships/revision_user?resourceVersion=id%3A134"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/c579445f-c62b-4fef-8fbc-267f4b73b799/uid?resourceVersion=id%3A134"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/c579445f-c62b-4fef-8fbc-267f4b73b799/relationships/uid?resourceVersion=id%3A134"
+        }
+      }
+    },
+    "thumbnail": {
+      "data": {
+        "type": "file--file",
+        "id": "07c3adf0-e510-49e9-bb94-044792bf213c",
+        "meta": {
+          "alt": "1908 Beruccio malt Bahr",
+          "title": null,
+          "width": 2190,
+          "height": 1320,
+          "drupal_internal__target_id": 195
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/c579445f-c62b-4fef-8fbc-267f4b73b799/thumbnail?resourceVersion=id%3A134"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/c579445f-c62b-4fef-8fbc-267f4b73b799/relationships/thumbnail?resourceVersion=id%3A134"
+        }
+      }
+    },
+    "field_media_image": {
+      "data": {
+        "type": "file--file",
+        "id": "07c3adf0-e510-49e9-bb94-044792bf213c",
+        "meta": {
+          "alt": "1908 Beruccio malt Bahr",
+          "title": "1908_lido",
+          "width": 2190,
+          "height": 1320,
+          "drupal_internal__target_id": 195
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/c579445f-c62b-4fef-8fbc-267f4b73b799/field_media_image?resourceVersion=id%3A134"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/c579445f-c62b-4fef-8fbc-267f4b73b799/relationships/field_media_image?resourceVersion=id%3A134"
+        }
+      }
+    }
+  }
+}

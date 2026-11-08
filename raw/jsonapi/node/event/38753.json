@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "62181768-9362-4f63-aa8d-0589c9745a0d",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/62181768-9362-4f63-aa8d-0589c9745a0d?resourceVersion=id%3A2574"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/62181768-9362-4f63-aa8d-0589c9745a0d?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38753,
+    "drupal_internal__vid": 2574,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Graz, Brünn, Prag",
+    "created": "2011-01-24T15:20:57+00:00",
+    "changed": "2011-09-01T09:13:59+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38753",
+      "pid": 501,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "In einem Brief an seinen Vater vom 8. August 1892 berichtet Bahr von Plänen eines Veranstalters, ihn im Herbst auf eine Vortragstournee zu schicken, die ihn nach Graz, Brünn und Prag führen soll. Ob sie stattgefunden hat, ist derzeit unklar.\r\n",
+      "format": "full_html",
+      "processed": "In einem Brief an seinen Vater vom 8. August 1892 berichtet Bahr von Plänen eines Veranstalters, ihn im Herbst auf eine Vortragstournee zu schicken, die ihn nach Graz, Brünn und Prag führen soll. Ob sie stattgefunden hat, ist derzeit unklar.\n",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1892-10-01",
+      "end_value": "1892-10-01"
+    },
+    "field_sources": [
+      "Briefwechsel mit dem Vater, 325."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/62181768-9362-4f63-aa8d-0589c9745a0d/node_type?resourceVersion=id%3A2574"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/62181768-9362-4f63-aa8d-0589c9745a0d/relationships/node_type?resourceVersion=id%3A2574"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/62181768-9362-4f63-aa8d-0589c9745a0d/revision_uid?resourceVersion=id%3A2574"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/62181768-9362-4f63-aa8d-0589c9745a0d/relationships/revision_uid?resourceVersion=id%3A2574"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/62181768-9362-4f63-aa8d-0589c9745a0d/uid?resourceVersion=id%3A2574"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/62181768-9362-4f63-aa8d-0589c9745a0d/relationships/uid?resourceVersion=id%3A2574"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/62181768-9362-4f63-aa8d-0589c9745a0d/field_event_type?resourceVersion=id%3A2574"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/62181768-9362-4f63-aa8d-0589c9745a0d/relationships/field_event_type?resourceVersion=id%3A2574"
+        }
+      }
+    }
+  }
+}

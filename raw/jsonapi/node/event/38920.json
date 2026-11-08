@@ -1,0 +1,119 @@
+{
+  "type": "node--event",
+  "id": "6479d37f-0472-4fa4-81ee-4bee016c9131",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/6479d37f-0472-4fa4-81ee-4bee016c9131?resourceVersion=id%3A2707"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/6479d37f-0472-4fa4-81ee-4bee016c9131?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38920,
+    "drupal_internal__vid": 2707,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Bleibtreu: Plagiat ",
+    "created": "2011-03-09T12:46:34+00:00",
+    "changed": "2012-07-09T16:57:14+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38920",
+      "pid": 661,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 28. Dezember 1897 wirft Karl Bleibtreu in einer Erklärung Bahr vor, es handle sich bei der \"Josephine\" um ein Plagiat seines Napoleon-Dramas. Bahr kontert, dass er sich gar nicht rechtfertigen wolle, dass man es sich bei Napoleon sowieso um ein Selbstportrait handeln würde, und dass er, Bahr, sicher nicht bei Bleibtreu abschreiben würde, wenn er über Bahr schriebe.",
+      "format": "full_html",
+      "processed": "Am 28. Dezember 1897 wirft Karl Bleibtreu in einer Erklärung Bahr vor, es handle sich bei der \"Josephine\" um ein Plagiat seines Napoleon-Dramas. Bahr kontert, dass er sich gar nicht rechtfertigen wolle, dass man es sich bei Napoleon sowieso um ein Selbstportrait handeln würde, und dass er, Bahr, sicher nicht bei Bleibtreu abschreiben würde, wenn er über Bahr schriebe.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1897-12-28",
+      "end_value": "1897-12-28"
+    },
+    "field_sources": [
+      "Hinter den Coulissen. Berliner Börsen-Courier, 30 (1897) ##605, Morgen-Ausgabe, 1. Beilage, [1-2]. (28.12.1897) ",
+      "Hinter den Coulissen. Berliner Börsen-Courier, 30 (1897) #611, Morgen-Ausgabe, [1]. (31.12.1897) ",
+      "Carl Bleibtreu: Auf der Mensur! Die Gesellschaft, 14 (1898)#2, 146-147.",
+      "Hermann Bahr: Auf der Mensur! Hermann Bahrs Antwort auf Karl Bleibtreus Angriff. Die Gesellschaft, 14 (1898) #4 (Fasching), 292."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6479d37f-0472-4fa4-81ee-4bee016c9131/node_type?resourceVersion=id%3A2707"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6479d37f-0472-4fa4-81ee-4bee016c9131/relationships/node_type?resourceVersion=id%3A2707"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6479d37f-0472-4fa4-81ee-4bee016c9131/revision_uid?resourceVersion=id%3A2707"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6479d37f-0472-4fa4-81ee-4bee016c9131/relationships/revision_uid?resourceVersion=id%3A2707"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6479d37f-0472-4fa4-81ee-4bee016c9131/uid?resourceVersion=id%3A2707"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6479d37f-0472-4fa4-81ee-4bee016c9131/relationships/uid?resourceVersion=id%3A2707"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6479d37f-0472-4fa4-81ee-4bee016c9131/field_event_type?resourceVersion=id%3A2707"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6479d37f-0472-4fa4-81ee-4bee016c9131/relationships/field_event_type?resourceVersion=id%3A2707"
+        }
+      }
+    }
+  }
+}

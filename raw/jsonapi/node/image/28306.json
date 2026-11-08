@@ -1,0 +1,109 @@
+{
+  "type": "node--image",
+  "id": "304d60ba-e71c-4a23-b312-1855f47f019e",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/image/304d60ba-e71c-4a23-b312-1855f47f019e?resourceVersion=id%3A3967"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/image/304d60ba-e71c-4a23-b312-1855f47f019e?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28306,
+    "drupal_internal__vid": 3967,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:44:08+00:00",
+    "status": true,
+    "title": "1919 Felix Albrecht Harta",
+    "created": "2010-12-15T16:14:18+00:00",
+    "changed": "2012-11-19T16:59:59+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/bild/28306",
+      "pid": 435,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Die Widmung auf der Seite:<blockquote>Hermann Bahr<br>zur Erinnerung an<br>[Unleserlich]<br>[Unleserlich]<br>6.3 [?].1919 Harta</blockquote><br /><br /><i>Das Blatt illustriert den 1. Teil des Abdrucks von Bahrs \"Der Selige\" in: Moderne Welt. Kunst-Literatur-Mode, 2 (1920) #1, 1-5. Original im Nachlass Bahrs, siehe Bilddatenbank des KHM</i>",
+      "format": "full_html",
+      "processed": "Die Widmung auf der Seite:<blockquote>Hermann Bahr<br>zur Erinnerung an<br>[Unleserlich]<br>[Unleserlich]<br>6.3 [?].1919 Harta</blockquote><br><br><i>Das Blatt illustriert den 1. Teil des Abdrucks von Bahrs \"Der Selige\" in: Moderne Welt. Kunst-Literatur-Mode, 2 (1920) #1, 1-5. Original im Nachlass Bahrs, siehe Bilddatenbank des KHM</i>",
+      "summary": null
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "e2381624-d098-4c5b-bdd7-5dbfd773b84e",
+        "meta": {
+          "drupal_internal__target_id": "image"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/304d60ba-e71c-4a23-b312-1855f47f019e/node_type?resourceVersion=id%3A3967"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/304d60ba-e71c-4a23-b312-1855f47f019e/relationships/node_type?resourceVersion=id%3A3967"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/304d60ba-e71c-4a23-b312-1855f47f019e/revision_uid?resourceVersion=id%3A3967"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/304d60ba-e71c-4a23-b312-1855f47f019e/relationships/revision_uid?resourceVersion=id%3A3967"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/304d60ba-e71c-4a23-b312-1855f47f019e/uid?resourceVersion=id%3A3967"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/304d60ba-e71c-4a23-b312-1855f47f019e/relationships/uid?resourceVersion=id%3A3967"
+        }
+      }
+    },
+    "field_images": {
+      "data": [
+        {
+          "type": "media--image",
+          "id": "59b4795d-eb19-4469-b162-a43ee7d4b66d",
+          "meta": {
+            "drupal_internal__target_id": 146
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/304d60ba-e71c-4a23-b312-1855f47f019e/field_images?resourceVersion=id%3A3967"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/304d60ba-e71c-4a23-b312-1855f47f019e/relationships/field_images?resourceVersion=id%3A3967"
+        }
+      }
+    }
+  }
+}

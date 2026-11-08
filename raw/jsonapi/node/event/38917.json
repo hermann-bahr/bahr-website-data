@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "6ade9c1d-527d-48cd-852b-d8fcfd87ebe4",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/6ade9c1d-527d-48cd-852b-d8fcfd87ebe4?resourceVersion=id%3A2705"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/6ade9c1d-527d-48cd-852b-d8fcfd87ebe4?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38917,
+    "drupal_internal__vid": 2705,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Wohnung bis Herbst",
+    "created": "2011-03-09T12:29:02+00:00",
+    "changed": "2011-08-26T19:50:14+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38917",
+      "pid": 659,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "In einem Brief an Alfred Holzbock schreibt Bahr am 29. Februar 1912, sie hätten im Schloss Bürgelstein (Arensberg) Wohnung genommen, die sie hoffentlich im Herbst beziehen würden.[1] Die Zwischenzeit dürfte für Renovierungen verwendet werden. Doch wo wohnten sie bis dahin? Ein Brief an [Unbekannt], in dem Bahr dem Empfänger vermittelt, dass seine Frau Anna Bahr-Mildenburg für die Saison ausgebucht ist, stammt vom 8. März 1912 und ist auf Briefpapier des Grand Hotel de l'Europe, G. Jung geschrieben.[2] Möglicherweise ist das der Wohnsitz bis Herbst.",
+      "format": "full_html",
+      "processed": "In einem Brief an Alfred Holzbock schreibt Bahr am 29. Februar 1912, sie hätten im Schloss Bürgelstein (Arensberg) Wohnung genommen, die sie hoffentlich im Herbst beziehen würden.[1] Die Zwischenzeit dürfte für Renovierungen verwendet werden. Doch wo wohnten sie bis dahin? Ein Brief an [Unbekannt], in dem Bahr dem Empfänger vermittelt, dass seine Frau Anna Bahr-Mildenburg für die Saison ausgebucht ist, stammt vom 8. März 1912 und ist auf Briefpapier des Grand Hotel de l'Europe, G. Jung geschrieben.[2] Möglicherweise ist das der Wohnsitz bis Herbst.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1912-02-29",
+      "end_value": "1912-02-29"
+    },
+    "field_sources": [
+      "[2] Wienbibliothek, H.I.N. 85448",
+      "[1] An Alfred Holzbock, 29.2.1912, Nachlass Holzbock, Staatsbibliothek Berlin"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6ade9c1d-527d-48cd-852b-d8fcfd87ebe4/node_type?resourceVersion=id%3A2705"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6ade9c1d-527d-48cd-852b-d8fcfd87ebe4/relationships/node_type?resourceVersion=id%3A2705"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6ade9c1d-527d-48cd-852b-d8fcfd87ebe4/revision_uid?resourceVersion=id%3A2705"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6ade9c1d-527d-48cd-852b-d8fcfd87ebe4/relationships/revision_uid?resourceVersion=id%3A2705"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6ade9c1d-527d-48cd-852b-d8fcfd87ebe4/uid?resourceVersion=id%3A2705"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6ade9c1d-527d-48cd-852b-d8fcfd87ebe4/relationships/uid?resourceVersion=id%3A2705"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6ade9c1d-527d-48cd-852b-d8fcfd87ebe4/field_event_type?resourceVersion=id%3A2705"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6ade9c1d-527d-48cd-852b-d8fcfd87ebe4/relationships/field_event_type?resourceVersion=id%3A2705"
+        }
+      }
+    }
+  }
+}

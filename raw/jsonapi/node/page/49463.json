@@ -1,0 +1,90 @@
+{
+  "type": "node--page",
+  "id": "fec5be9b-052a-4f54-8fff-f7d3fc4111a7",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/page/fec5be9b-052a-4f54-8fff-f7d3fc4111a7?resourceVersion=id%3A4077"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/page/fec5be9b-052a-4f54-8fff-f7d3fc4111a7?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49463,
+    "drupal_internal__vid": 4077,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T17:01:03+00:00",
+    "status": true,
+    "title": "Hermann Bahr - Jaroslav Kvapil. Briefe, Texte, Dokumente.",
+    "created": "2011-10-21T13:36:44+00:00",
+    "changed": "2011-11-03T12:49:45+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/hermann-bahr-jaroslav-kvapil-briefe-texte-dokumente",
+      "pid": 1285,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<h3><i>Kurt Ifkovits, Martin Anton Müller</i></h3>\r\n\r\nFehler bei der diakritischen Wiedergabe des Tschechischen werden nicht angeführt.\r\n\r\n<table>\r\n<tr><th width=10%>Seite</th><th width=35%>Stelle</th><th width=55%>Korrektur</th></tr>\r\n<tr><td>264</td><td>Barerstrase</td><td>Barerstraße</td></tr>\r\n<tr><td>387</td><td>Crusius ?</td><td>Otto Crusius (1857-1918)</td>\r\n<tr><td>390</td><td>Januar 1916 in Berlin ein wo er</td><td>Januar 1916 in Berlin ein, wo er</td></tr>\r\n<tr><td>432</td><td>durch-gehend</td><td>durchgehend</td>\r\n<tr><td>481</td><td>Jubliäumsspiele</td><td>Jubiläumsspiele</td>\r\n<tr><td>555</td><td>Kaiser Josep</td><td>Kaiser Joseph</td></tr>\r\n<tr><td>611</td><td>Waffenbündis</td><td>Waffenbündnis</td></tr>\r\n<tr><td>611</td><td>Kulturbündis</td><td>Kulturbündnis</td></tr>\r\n<tr><td>617</td><td>Ukarina</td><td>Ukraina</td>\r\n<tr><td>660</td><td>Jan ze Vserub</td><td>Johann von Neumarkt (1310-1380)</td></tr>\r\n</table>",
+      "format": "full_html",
+      "processed": "<h3><i>Kurt Ifkovits, Martin Anton Müller</i></h3>\n\nFehler bei der diakritischen Wiedergabe des Tschechischen werden nicht angeführt.\n\n<table>\n<tr><th width=\"10%\">Seite</th><th width=\"35%\">Stelle</th><th width=\"55%\">Korrektur</th></tr>\n<tr><td>264</td><td>Barerstrase</td><td>Barerstraße</td></tr>\n<tr><td>387</td><td>Crusius ?</td><td>Otto Crusius (1857-1918)</td>\n</tr><tr><td>390</td><td>Januar 1916 in Berlin ein wo er</td><td>Januar 1916 in Berlin ein, wo er</td></tr>\n<tr><td>432</td><td>durch-gehend</td><td>durchgehend</td>\n</tr><tr><td>481</td><td>Jubliäumsspiele</td><td>Jubiläumsspiele</td>\n</tr><tr><td>555</td><td>Kaiser Josep</td><td>Kaiser Joseph</td></tr>\n<tr><td>611</td><td>Waffenbündis</td><td>Waffenbündnis</td></tr>\n<tr><td>611</td><td>Kulturbündis</td><td>Kulturbündnis</td></tr>\n<tr><td>617</td><td>Ukarina</td><td>Ukraina</td>\n</tr><tr><td>660</td><td>Jan ze Vserub</td><td>Johann von Neumarkt (1310-1380)</td></tr>\n</table>",
+      "summary": null
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "016d417b-5c75-4303-8420-18e221e9e269",
+        "meta": {
+          "drupal_internal__target_id": "page"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/fec5be9b-052a-4f54-8fff-f7d3fc4111a7/node_type?resourceVersion=id%3A4077"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/fec5be9b-052a-4f54-8fff-f7d3fc4111a7/relationships/node_type?resourceVersion=id%3A4077"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/fec5be9b-052a-4f54-8fff-f7d3fc4111a7/revision_uid?resourceVersion=id%3A4077"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/fec5be9b-052a-4f54-8fff-f7d3fc4111a7/relationships/revision_uid?resourceVersion=id%3A4077"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/fec5be9b-052a-4f54-8fff-f7d3fc4111a7/uid?resourceVersion=id%3A4077"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/fec5be9b-052a-4f54-8fff-f7d3fc4111a7/relationships/uid?resourceVersion=id%3A4077"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "6aee949b-5f67-4e6b-8484-0d89136ad6fd",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/6aee949b-5f67-4e6b-8484-0d89136ad6fd?resourceVersion=id%3A3093"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/6aee949b-5f67-4e6b-8484-0d89136ad6fd?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44179,
+    "drupal_internal__vid": 3093,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Stelzhamer-Comité",
+    "created": "2011-09-16T09:39:38+00:00",
+    "changed": "2011-09-16T10:48:31+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44179",
+      "pid": 1072,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Das Neue Wiener Tagblatt berichtet am 5. November 1902, dass sich in Wien anlässlich des am 29.11. bevorstehenden 100. Geburtstag Franz Stelzhamers ein Komitee gebildet habe, das eine Stelzhamer-Feier zugunsten eines Denkmals in Linz ausrichten will. Das erste Treffen fand \"vorgestern\", also am 3. November, im Salon des Herrenhausmitglieds Ludwig Lobmeyer abgehalten. Beteiligt sind, u.a., Bahr, Burckhard, Bettelheim, Carl Glossy und Ludwig Hevesi. Am 23. November findet die Feier statt, doch Bahr ist nicht erwähnt.",
+      "format": "full_html",
+      "processed": "Das Neue Wiener Tagblatt berichtet am 5. November 1902, dass sich in Wien anlässlich des am 29.11. bevorstehenden 100. Geburtstag Franz Stelzhamers ein Komitee gebildet habe, das eine Stelzhamer-Feier zugunsten eines Denkmals in Linz ausrichten will. Das erste Treffen fand \"vorgestern\", also am 3. November, im Salon des Herrenhausmitglieds Ludwig Lobmeyer abgehalten. Beteiligt sind, u.a., Bahr, Burckhard, Bettelheim, Carl Glossy und Ludwig Hevesi. Am 23. November findet die Feier statt, doch Bahr ist nicht erwähnt.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1902-11-03",
+      "end_value": "1902-11-03"
+    },
+    "field_sources": [
+      "Neues Wiener Tagblatt, 36 (1902) #304, 8. (5.11.1902)",
+      "[O. N.:] Die Stelzhamer-Feier. In: Neues Wiener Tagblatt, 36 (1902) #323, 8. (25.11.1902)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6aee949b-5f67-4e6b-8484-0d89136ad6fd/node_type?resourceVersion=id%3A3093"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6aee949b-5f67-4e6b-8484-0d89136ad6fd/relationships/node_type?resourceVersion=id%3A3093"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6aee949b-5f67-4e6b-8484-0d89136ad6fd/revision_uid?resourceVersion=id%3A3093"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6aee949b-5f67-4e6b-8484-0d89136ad6fd/relationships/revision_uid?resourceVersion=id%3A3093"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6aee949b-5f67-4e6b-8484-0d89136ad6fd/uid?resourceVersion=id%3A3093"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6aee949b-5f67-4e6b-8484-0d89136ad6fd/relationships/uid?resourceVersion=id%3A3093"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6aee949b-5f67-4e6b-8484-0d89136ad6fd/field_event_type?resourceVersion=id%3A3093"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6aee949b-5f67-4e6b-8484-0d89136ad6fd/relationships/field_event_type?resourceVersion=id%3A3093"
+        }
+      }
+    }
+  }
+}

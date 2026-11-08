@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "d212bf2c-c325-41c9-8a7e-1c10a2107d38",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/d212bf2c-c325-41c9-8a7e-1c10a2107d38?resourceVersion=id%3A2536"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/d212bf2c-c325-41c9-8a7e-1c10a2107d38?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28261,
+    "drupal_internal__vid": 2536,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Wolff",
+    "created": "2010-11-15T19:58:02+00:00",
+    "changed": "2011-11-28T10:48:28+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28261",
+      "pid": 394,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 20. September 1918 besucht Bahr Theodor Wolff in dessen Wiener Hotel: Ohne Gottvaterbart, wie Wolff anmerkt. ",
+      "format": "full_html",
+      "processed": "Am 20. September 1918 besucht Bahr Theodor Wolff in dessen Wiener Hotel: Ohne Gottvaterbart, wie Wolff anmerkt. ",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1918-09-20",
+      "end_value": "1918-09-20"
+    },
+    "field_sources": [
+      "Theodor Wolff: Tagebücher 1914-1919. Boppard/Rhein: Harald Boldt 1984, 626. (#773)",
+      "Theodor Wolff: Erlebnisse, Erinnerungen, Gedanken im südfranzösischen Exil. Hg. Margit Bröhan. Boppard/Rhein: Boldt 1992, 265."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d212bf2c-c325-41c9-8a7e-1c10a2107d38/node_type?resourceVersion=id%3A2536"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d212bf2c-c325-41c9-8a7e-1c10a2107d38/relationships/node_type?resourceVersion=id%3A2536"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d212bf2c-c325-41c9-8a7e-1c10a2107d38/revision_uid?resourceVersion=id%3A2536"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d212bf2c-c325-41c9-8a7e-1c10a2107d38/relationships/revision_uid?resourceVersion=id%3A2536"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d212bf2c-c325-41c9-8a7e-1c10a2107d38/uid?resourceVersion=id%3A2536"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d212bf2c-c325-41c9-8a7e-1c10a2107d38/relationships/uid?resourceVersion=id%3A2536"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d212bf2c-c325-41c9-8a7e-1c10a2107d38/field_event_type?resourceVersion=id%3A2536"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d212bf2c-c325-41c9-8a7e-1c10a2107d38/relationships/field_event_type?resourceVersion=id%3A2536"
+        }
+      }
+    }
+  }
+}

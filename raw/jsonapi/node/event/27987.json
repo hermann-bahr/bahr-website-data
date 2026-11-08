@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "026022fe-1b92-4234-aca3-f24bfdcd1366",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/026022fe-1b92-4234-aca3-f24bfdcd1366?resourceVersion=id%3A2320"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/026022fe-1b92-4234-aca3-f24bfdcd1366?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27987,
+    "drupal_internal__vid": 2320,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Hofmannsthal",
+    "created": "2010-07-27T14:04:20+00:00",
+    "changed": "2012-10-29T09:51:40+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/27987",
+      "pid": 154,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Unmittelbar nach seiner Rückkehr aus St. Petersburg lernt Bahr am 27. April 1891 \"Loris\", Hugo von Hofmannsthal kennen. Die Geschichte dieser Begegnung erzählt er in seinem Aufsatz \"Loris\", den er zuerst in der \"Freien Bühne\" veröffentlicht, dann in die \"Studien zur Kritik der Moderne\" aufnimmt.",
+      "format": "full_html",
+      "processed": "Unmittelbar nach seiner Rückkehr aus St. Petersburg lernt Bahr am 27. April 1891 \"Loris\", Hugo von Hofmannsthal kennen. Die Geschichte dieser Begegnung erzählt er in seinem Aufsatz \"Loris\", den er zuerst in der \"Freien Bühne\" veröffentlicht, dann in die \"Studien zur Kritik der Moderne\" aufnimmt.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1891-04-27",
+      "end_value": "1891-04-27"
+    },
+    "field_sources": [
+      "HvH: SW, XXXVIII; GW RA III, 328. (Zit nach: Briefwechsel Bahr/Hofmannsthal. Hg. Elsbeth Dangel-Pelloquin. Göttingen: Wallstein. (In Vorbereitung))"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/026022fe-1b92-4234-aca3-f24bfdcd1366/node_type?resourceVersion=id%3A2320"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/026022fe-1b92-4234-aca3-f24bfdcd1366/relationships/node_type?resourceVersion=id%3A2320"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/026022fe-1b92-4234-aca3-f24bfdcd1366/revision_uid?resourceVersion=id%3A2320"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/026022fe-1b92-4234-aca3-f24bfdcd1366/relationships/revision_uid?resourceVersion=id%3A2320"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/026022fe-1b92-4234-aca3-f24bfdcd1366/uid?resourceVersion=id%3A2320"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/026022fe-1b92-4234-aca3-f24bfdcd1366/relationships/uid?resourceVersion=id%3A2320"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/026022fe-1b92-4234-aca3-f24bfdcd1366/field_event_type?resourceVersion=id%3A2320"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/026022fe-1b92-4234-aca3-f24bfdcd1366/relationships/field_event_type?resourceVersion=id%3A2320"
+        }
+      }
+    }
+  }
+}

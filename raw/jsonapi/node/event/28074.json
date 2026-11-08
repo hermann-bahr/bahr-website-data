@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "82af6f46-6553-4688-97c0-65310469967b",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/82af6f46-6553-4688-97c0-65310469967b?resourceVersion=id%3A2401"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/82af6f46-6553-4688-97c0-65310469967b?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28074,
+    "drupal_internal__vid": 2401,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Der arme Narr",
+    "created": "2010-08-09T09:32:35+00:00",
+    "changed": "2011-11-03T16:31:36+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28074",
+      "pid": 235,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Der Einakter \"Der arme Narr\", in dem das Leben eines Künstlers und eines Geschäftsmanns verglichen wird (und vorhersehbar zugunsten des ersteren beurteilt), hat seine Première im Burgtheater am 29. November 1906. In der Folge 16 Aufführungen. \r\nDie Buchausgabe erschien bereits im November 1905, auf 1906 vordatiert.",
+      "format": "full_html",
+      "processed": "Der Einakter \"Der arme Narr\", in dem das Leben eines Künstlers und eines Geschäftsmanns verglichen wird (und vorhersehbar zugunsten des ersteren beurteilt), hat seine Première im Burgtheater am 29. November 1906. In der Folge 16 Aufführungen. \nDie Buchausgabe erschien bereits im November 1905, auf 1906 vordatiert.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1906-11-29",
+      "end_value": "1906-11-29"
+    },
+    "field_sources": [
+      "Hermann Bahr: Der arme Narr. Lustspiel in einem Akt. Wien: C. Konegen, 1906.",
+      "Neuerscheinung: Neues Wiener Tagblatt, 39 (1905) #320, 34 (19.11.1905)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/82af6f46-6553-4688-97c0-65310469967b/node_type?resourceVersion=id%3A2401"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/82af6f46-6553-4688-97c0-65310469967b/relationships/node_type?resourceVersion=id%3A2401"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/82af6f46-6553-4688-97c0-65310469967b/revision_uid?resourceVersion=id%3A2401"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/82af6f46-6553-4688-97c0-65310469967b/relationships/revision_uid?resourceVersion=id%3A2401"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/82af6f46-6553-4688-97c0-65310469967b/uid?resourceVersion=id%3A2401"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/82af6f46-6553-4688-97c0-65310469967b/relationships/uid?resourceVersion=id%3A2401"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "27f3d2a4-8970-4726-9ab8-ce37707ec1bc",
+          "meta": {
+            "drupal_internal__target_id": 1
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/82af6f46-6553-4688-97c0-65310469967b/field_event_type?resourceVersion=id%3A2401"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/82af6f46-6553-4688-97c0-65310469967b/relationships/field_event_type?resourceVersion=id%3A2401"
+        }
+      }
+    }
+  }
+}

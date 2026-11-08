@@ -1,0 +1,114 @@
+{
+  "type": "node--event",
+  "id": "70ead535-5e73-4993-ab1f-c865a2a85844",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/70ead535-5e73-4993-ab1f-c865a2a85844?resourceVersion=id%3A2237"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/70ead535-5e73-4993-ab1f-c865a2a85844?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27888,
+    "drupal_internal__vid": 2237,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Beginn Neue Freie Presse",
+    "created": "2010-06-22T15:11:52+00:00",
+    "changed": "2011-09-01T08:51:18+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/27888",
+      "pid": 70,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Ab dem Februar 1902 bis 1932 schreibt Bahr für die erste Zeitung Österreichs, Moritz Benedikts \"Neue Freie Presse\". Über 200 Artikel sind es, zumeist Feuilletons, aber auch einige Buchbesprechungen und Vorabdrucke, die bis Mai 1932 erscheinen.",
+      "format": "full_html",
+      "processed": "Ab dem Februar 1902 bis 1932 schreibt Bahr für die erste Zeitung Österreichs, Moritz Benedikts \"Neue Freie Presse\". Über 200 Artikel sind es, zumeist Feuilletons, aber auch einige Buchbesprechungen und Vorabdrucke, die bis Mai 1932 erscheinen.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1907-02-02",
+      "end_value": "1907-02-02"
+    },
+    "field_sources": []
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/70ead535-5e73-4993-ab1f-c865a2a85844/node_type?resourceVersion=id%3A2237"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/70ead535-5e73-4993-ab1f-c865a2a85844/relationships/node_type?resourceVersion=id%3A2237"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/70ead535-5e73-4993-ab1f-c865a2a85844/revision_uid?resourceVersion=id%3A2237"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/70ead535-5e73-4993-ab1f-c865a2a85844/relationships/revision_uid?resourceVersion=id%3A2237"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/70ead535-5e73-4993-ab1f-c865a2a85844/uid?resourceVersion=id%3A2237"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/70ead535-5e73-4993-ab1f-c865a2a85844/relationships/uid?resourceVersion=id%3A2237"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "d579e54c-64dd-4193-a9ef-da87efb3ed16",
+          "meta": {
+            "drupal_internal__target_id": 8
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/70ead535-5e73-4993-ab1f-c865a2a85844/field_event_type?resourceVersion=id%3A2237"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/70ead535-5e73-4993-ab1f-c865a2a85844/relationships/field_event_type?resourceVersion=id%3A2237"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "type": "node--event",
+  "id": "a85401a7-f6d7-43c9-abd8-d8e2aec381e0",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/a85401a7-f6d7-43c9-abd8-d8e2aec381e0?resourceVersion=id%3A2650"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/a85401a7-f6d7-43c9-abd8-d8e2aec381e0?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38831,
+    "drupal_internal__vid": 2650,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Weißensee, Landro",
+    "created": "2011-02-02T19:33:59+00:00",
+    "changed": "2011-03-28T13:16:36+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38831",
+      "pid": 577,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Die Sommerferien 1898 beginnen für Bahr alleine. Rosa Bahrs Vater ist erkrankt und sie bleibt in Wien, während er am Abend des 28. Juli zum Weißensee in Kärnten fährt. Am 17. August schreibt er seinem Vater, dass er seit dem 5. in Landro sei, wo sich seine Frau, Burckhard und Karlweis zu ihm gesellten und die Ankunft der späteren Frau Hofmannsthal, Gerty Schlesinger bevorsteht. (Die kam aber nicht, war sie doch erst 18 und durfte nicht ohne Frau Mama weg.)",
+      "format": "full_html",
+      "processed": "Die Sommerferien 1898 beginnen für Bahr alleine. Rosa Bahrs Vater ist erkrankt und sie bleibt in Wien, während er am Abend des 28. Juli zum Weißensee in Kärnten fährt. Am 17. August schreibt er seinem Vater, dass er seit dem 5. in Landro sei, wo sich seine Frau, Burckhard und Karlweis zu ihm gesellten und die Ankunft der späteren Frau Hofmannsthal, Gerty Schlesinger bevorsteht. (Die kam aber nicht, war sie doch erst 18 und durfte nicht ohne Frau Mama weg.)",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1898-07-28",
+      "end_value": "1898-09-01"
+    },
+    "field_sources": []
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a85401a7-f6d7-43c9-abd8-d8e2aec381e0/node_type?resourceVersion=id%3A2650"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a85401a7-f6d7-43c9-abd8-d8e2aec381e0/relationships/node_type?resourceVersion=id%3A2650"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a85401a7-f6d7-43c9-abd8-d8e2aec381e0/revision_uid?resourceVersion=id%3A2650"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a85401a7-f6d7-43c9-abd8-d8e2aec381e0/relationships/revision_uid?resourceVersion=id%3A2650"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a85401a7-f6d7-43c9-abd8-d8e2aec381e0/uid?resourceVersion=id%3A2650"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a85401a7-f6d7-43c9-abd8-d8e2aec381e0/relationships/uid?resourceVersion=id%3A2650"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a85401a7-f6d7-43c9-abd8-d8e2aec381e0/field_event_type?resourceVersion=id%3A2650"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a85401a7-f6d7-43c9-abd8-d8e2aec381e0/relationships/field_event_type?resourceVersion=id%3A2650"
+        }
+      }
+    }
+  }
+}

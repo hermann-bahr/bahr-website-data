@@ -1,0 +1,119 @@
+{
+  "type": "node--event",
+  "id": "9b44f421-47e1-479f-8495-99ce60aa02f2",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/9b44f421-47e1-479f-8495-99ce60aa02f2?resourceVersion=id%3A3462"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/9b44f421-47e1-479f-8495-99ce60aa02f2?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49637,
+    "drupal_internal__vid": 3462,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Eleonora Duse",
+    "created": "2011-11-18T16:29:12+00:00",
+    "changed": "2012-01-04T12:14:29+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49637",
+      "pid": 1452,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahr ist nicht der Entdecker der Duse. Immerhin lernt er sie 1891 auf seiner Reise in St. Petersburg kennen. Doch Bahr kann für sich in Anspruch nehmen, mit seinem Feuilleton und den in Folge im deutschsprachigen Raum erfolgten Buchungen ihren Ruhm internationalisiert zu haben.",
+      "format": "full_html",
+      "processed": "Bahr ist nicht der Entdecker der Duse. Immerhin lernt er sie 1891 auf seiner Reise in St. Petersburg kennen. Doch Bahr kann für sich in Anspruch nehmen, mit seinem Feuilleton und den in Folge im deutschsprachigen Raum erfolgten Buchungen ihren Ruhm internationalisiert zu haben.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1891-05-09",
+      "end_value": "1891-05-09"
+    },
+    "field_sources": [
+      "Hermann Bahr: Eleonora Duse. Frankfurter Zeitung, 35 (1891) #129, 1. Morgenblatt, 1-2. (9.5.1891) ",
+      "Selbstbildnis, 274",
+      "Liebe der Lebenden, I, 16",
+      "Hermann Bahr: Erste Begegnung mit Eleonora Duse und mit Anton Bruckner. Aus meinen Erinnerungen. Neues Wiener Journal, 40 (1932) #13689, 12. (1.1.1932) "
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9b44f421-47e1-479f-8495-99ce60aa02f2/node_type?resourceVersion=id%3A3462"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9b44f421-47e1-479f-8495-99ce60aa02f2/relationships/node_type?resourceVersion=id%3A3462"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9b44f421-47e1-479f-8495-99ce60aa02f2/revision_uid?resourceVersion=id%3A3462"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9b44f421-47e1-479f-8495-99ce60aa02f2/relationships/revision_uid?resourceVersion=id%3A3462"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9b44f421-47e1-479f-8495-99ce60aa02f2/uid?resourceVersion=id%3A3462"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9b44f421-47e1-479f-8495-99ce60aa02f2/relationships/uid?resourceVersion=id%3A3462"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9b44f421-47e1-479f-8495-99ce60aa02f2/field_event_type?resourceVersion=id%3A3462"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9b44f421-47e1-479f-8495-99ce60aa02f2/relationships/field_event_type?resourceVersion=id%3A3462"
+        }
+      }
+    }
+  }
+}

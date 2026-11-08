@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "117c0468-d5f4-4685-bd24-9f94c38f5c00",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/117c0468-d5f4-4685-bd24-9f94c38f5c00?resourceVersion=id%3A3600"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/117c0468-d5f4-4685-bd24-9f94c38f5c00?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 64210,
+    "drupal_internal__vid": 3600,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Hass auf AS?",
+    "created": "2012-05-22T19:59:52+00:00",
+    "changed": "2012-05-22T19:59:52+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/64210",
+      "pid": 1643,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 11. Februar 1896 notiert sich Schnitzler ins Tagebuch, was ihm zugetragen wurde: Bahr würde ihn hassen, weil er sich gegen Adele Sandrock schäbig benommen hätte.",
+      "format": "full_html",
+      "processed": "Am 11. Februar 1896 notiert sich Schnitzler ins Tagebuch, was ihm zugetragen wurde: Bahr würde ihn hassen, weil er sich gegen Adele Sandrock schäbig benommen hätte.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1896-02-11",
+      "end_value": "1896-02-11"
+    },
+    "field_sources": [
+      "Schnitzler: Tagebuch, II, 173,"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/117c0468-d5f4-4685-bd24-9f94c38f5c00/node_type?resourceVersion=id%3A3600"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/117c0468-d5f4-4685-bd24-9f94c38f5c00/relationships/node_type?resourceVersion=id%3A3600"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/117c0468-d5f4-4685-bd24-9f94c38f5c00/revision_uid?resourceVersion=id%3A3600"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/117c0468-d5f4-4685-bd24-9f94c38f5c00/relationships/revision_uid?resourceVersion=id%3A3600"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/117c0468-d5f4-4685-bd24-9f94c38f5c00/uid?resourceVersion=id%3A3600"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/117c0468-d5f4-4685-bd24-9f94c38f5c00/relationships/uid?resourceVersion=id%3A3600"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/117c0468-d5f4-4685-bd24-9f94c38f5c00/field_event_type?resourceVersion=id%3A3600"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/117c0468-d5f4-4685-bd24-9f94c38f5c00/relationships/field_event_type?resourceVersion=id%3A3600"
+        }
+      }
+    }
+  }
+}

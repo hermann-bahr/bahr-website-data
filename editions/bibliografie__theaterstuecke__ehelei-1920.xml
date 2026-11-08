@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bibliografie__theaterstuecke__ehelei-1920" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Ehelei (1920)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">49680</idno>
+        <idno type="drupal-alias">/bibliografie/49680</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bibliografie/49680">https://bahr.univie.ac.at/bibliografie/49680</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+        <bibl type="beschriebene-ausgabe">
+          <author>Hermann Bahr</author>
+          <title type="main">Ehelei</title>
+          <title type="sub">Lustspiel in drei Akten</title>
+          <pubPlace>Berlin</pubPlace>
+          <publisher>E. Reiss</publisher>
+          <date>1920</date>
+          <extent>94</extent>
+          <note>Am Anfang findet sich eine Anmerkung Bahrs, dass häufig Stellen gestrichen werden, die für ihn essenziell sind. Um in diesem Stück solche Streichungen zu vermeiden, hat er sie mit drei Klammern am Rand markiert.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="1" key="bibliografie">Bibliografie</term>
+          <term n="2" key="theaterstuecke">Theaterstücke</term>
+          <term n="31" key="ehelei-1920" type="eintrag">Ehelei (1920)</term>
+        </keywords>
+        <classCode scheme="drupal-type">bibliographie</classCode>
+        <keywords scheme="bibliografie_type">
+          <term>Theaterstücke</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2011-11-23T13:36:47+00:00" type="created">angelegt in Drupal</change>
+      <change when="2012-10-30T12:58:46+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="bib">
+        <head>Bibliografie</head>
+        <table type="bibliografie">
+          <row>
+            <cell>Autor:</cell>
+            <cell>Hermann Bahr</cell>
+          </row>
+          <row>
+            <cell>Titel:</cell>
+            <cell>Ehelei</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>Lustspiel in drei Akten</cell>
+          </row>
+          <row>
+            <cell>Ort:</cell>
+            <cell>Berlin</cell>
+          </row>
+          <row>
+            <cell>Verlag:</cell>
+            <cell>E. Reiss</cell>
+          </row>
+          <row>
+            <cell>Jahr:</cell>
+            <cell>1920</cell>
+          </row>
+          <row>
+            <cell>Seiten:</cell>
+            <cell>94</cell>
+          </row>
+          <row>
+            <cell>Anm.:</cell>
+            <cell>Am Anfang findet sich eine Anmerkung Bahrs, dass häufig Stellen gestrichen werden, die für ihn essenziell sind. Um in diesem Stück solche Streichungen zu vermeiden, hat er sie mit drei Klammern am Rand markiert.</cell>
+          </row>
+        </table>
+      </div>
+      <div xml:id="auff">
+        <head>Inszenierungen</head>
+        <p>7.12.1920 Kleines Schauspielhaus Berlin 18.2.1921 Deutsches Volkstheater, Wien 23.3.1921 Vereinigte deutsche Theater in Brünn</p>
+      </div>
+      <div xml:id="rezens">
+        <head>Rezensionen</head>
+        <p>Vossische Zeitung, #598, Morgen-Ausgabe, 3 (8.12.1920) [Kurzkritik] Vossische Zeitung, #599, Abend-Ausgabe, 2-3. (8.12.1920) Alfred Kerr in: Berliner Tageblatt, 8.12.1920 Michel in: Deutsche Allgemeine Zeitung, 8.12.1920 Der Tag, Berlin, 9.12.1920 E. Thyssen in: Germania, 10.12.1920 Berliner Theater. NZZ, 1920 #2080, 2. Mittagblatt. (16.12.1920) M. Bergh-Grützmann in: Magdeburger Zeitung, 14.12.1920 Raoul Auernheimer: Lustspielehe. In: Neue Freie Presse, 22.2.1921 Alfred Polgar: Wiener Theater. In: Weltbühne, 17 (1921) #14, 389-391, hier: 391.(7.4.1921)</p>
+      </div>
+      <div xml:id="www">
+        <head>Digitalisate</head>
+        <p>
+          <ref target="http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=93">Link</ref>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

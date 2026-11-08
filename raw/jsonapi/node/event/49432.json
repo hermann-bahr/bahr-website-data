@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "cfcf1f79-d65c-4a8e-8d1a-d47819c1a125",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/cfcf1f79-d65c-4a8e-8d1a-d47819c1a125?resourceVersion=id%3A3275"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/cfcf1f79-d65c-4a8e-8d1a-d47819c1a125?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49432,
+    "drupal_internal__vid": 3275,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "\"Burgtheater\" fertig",
+    "created": "2011-10-19T14:00:46+00:00",
+    "changed": "2011-10-19T14:00:46+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49432",
+      "pid": 1256,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 23. Dezember 1919 schickt Bahr den Schluss seines \"Burgtheaterbüchls\" an den Verleger. Die Widmung an Nadler ist datiert mit: \"Weihnachten 1919\".",
+      "format": "full_html",
+      "processed": "Am 23. Dezember 1919 schickt Bahr den Schluss seines \"Burgtheaterbüchls\" an den Verleger. Die Widmung an Nadler ist datiert mit: \"Weihnachten 1919\".",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1919-12-23",
+      "end_value": "1919-12-23"
+    },
+    "field_sources": [
+      "Bahr/Redlich, 389."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cfcf1f79-d65c-4a8e-8d1a-d47819c1a125/node_type?resourceVersion=id%3A3275"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cfcf1f79-d65c-4a8e-8d1a-d47819c1a125/relationships/node_type?resourceVersion=id%3A3275"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cfcf1f79-d65c-4a8e-8d1a-d47819c1a125/revision_uid?resourceVersion=id%3A3275"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cfcf1f79-d65c-4a8e-8d1a-d47819c1a125/relationships/revision_uid?resourceVersion=id%3A3275"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cfcf1f79-d65c-4a8e-8d1a-d47819c1a125/uid?resourceVersion=id%3A3275"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cfcf1f79-d65c-4a8e-8d1a-d47819c1a125/relationships/uid?resourceVersion=id%3A3275"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cfcf1f79-d65c-4a8e-8d1a-d47819c1a125/field_event_type?resourceVersion=id%3A3275"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cfcf1f79-d65c-4a8e-8d1a-d47819c1a125/relationships/field_event_type?resourceVersion=id%3A3275"
+        }
+      }
+    }
+  }
+}

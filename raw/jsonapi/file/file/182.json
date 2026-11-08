@@ -1,0 +1,36 @@
+{
+  "type": "file--file",
+  "id": "e3b6f50b-b6f0-493d-845f-af8f32712213",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/file/file/e3b6f50b-b6f0-493d-845f-af8f32712213"
+    }
+  },
+  "attributes": {
+    "drupal_internal__fid": 182,
+    "langcode": "de",
+    "filename": "1908_kolo-moser-bahr.jpg",
+    "uri": {
+      "value": "public://bahr_bilder/1908_kolo-moser-bahr.jpg",
+      "url": "/sites/default/files/bahr_bilder/1908_kolo-moser-bahr.jpg"
+    },
+    "filemime": "image/jpeg",
+    "filesize": 302764,
+    "status": true,
+    "created": "2020-02-18T15:00:35+00:00",
+    "changed": "2020-02-18T15:11:43+00:00"
+  },
+  "relationships": {
+    "uid": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/file/file/e3b6f50b-b6f0-493d-845f-af8f32712213/uid"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/file/file/e3b6f50b-b6f0-493d-845f-af8f32712213/relationships/uid"
+        }
+      }
+    }
+  }
+}

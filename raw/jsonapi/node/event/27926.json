@@ -1,0 +1,114 @@
+{
+  "type": "node--event",
+  "id": "15509db8-00cd-4df5-8ab3-0a8a140f67e8",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/15509db8-00cd-4df5-8ab3-0a8a140f67e8?resourceVersion=id%3A2268"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/15509db8-00cd-4df5-8ab3-0a8a140f67e8?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27926,
+    "drupal_internal__vid": 2268,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Zur Kritik der Moderne",
+    "created": "2010-07-16T16:01:23+00:00",
+    "changed": "2010-07-16T16:02:37+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/27926",
+      "pid": 102,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Im Oktober 1889 erscheint diese erste Sammlung mit Aufsätzen Bahrs in Buchform, vordatiert auf 1890.",
+      "format": "full_html",
+      "processed": "Im Oktober 1889 erscheint diese erste Sammlung mit Aufsätzen Bahrs in Buchform, vordatiert auf 1890.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1889-10-01",
+      "end_value": "1889-10-01"
+    },
+    "field_sources": []
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/15509db8-00cd-4df5-8ab3-0a8a140f67e8/node_type?resourceVersion=id%3A2268"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/15509db8-00cd-4df5-8ab3-0a8a140f67e8/relationships/node_type?resourceVersion=id%3A2268"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/15509db8-00cd-4df5-8ab3-0a8a140f67e8/revision_uid?resourceVersion=id%3A2268"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/15509db8-00cd-4df5-8ab3-0a8a140f67e8/relationships/revision_uid?resourceVersion=id%3A2268"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/15509db8-00cd-4df5-8ab3-0a8a140f67e8/uid?resourceVersion=id%3A2268"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/15509db8-00cd-4df5-8ab3-0a8a140f67e8/relationships/uid?resourceVersion=id%3A2268"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "da42ac4a-f48f-4397-af4d-b66e913825fb",
+          "meta": {
+            "drupal_internal__target_id": 3
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/15509db8-00cd-4df5-8ab3-0a8a140f67e8/field_event_type?resourceVersion=id%3A2268"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/15509db8-00cd-4df5-8ab3-0a8a140f67e8/relationships/field_event_type?resourceVersion=id%3A2268"
+        }
+      }
+    }
+  }
+}

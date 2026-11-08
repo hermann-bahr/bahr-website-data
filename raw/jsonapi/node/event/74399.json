@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "b3dc3e6f-8f4c-48fb-8589-a4acfcd0fa4d",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b3dc3e6f-8f4c-48fb-8589-a4acfcd0fa4d?resourceVersion=id%3A3727"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b3dc3e6f-8f4c-48fb-8589-a4acfcd0fa4d?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74399,
+    "drupal_internal__vid": 3727,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Harry Graf Kessler",
+    "created": "2012-10-23T07:33:13+00:00",
+    "changed": "2012-10-30T11:35:24+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/74399",
+      "pid": 1773,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Im Tagebuch notiert sich Harry Graf Kessler, dass Bahr zum Frühstück bei ihm war, um über das Theaterprojekt in Darmstadt zu sprechen.",
+      "format": "full_html",
+      "processed": "Im Tagebuch notiert sich Harry Graf Kessler, dass Bahr zum Frühstück bei ihm war, um über das Theaterprojekt in Darmstadt zu sprechen.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1900-09-16",
+      "end_value": "1900-09-16"
+    },
+    "field_sources": [
+      "Harry Graf Kessler: Das Tagebuch. Hgg. Roland S. Kamzelak und Ulrich Ott. Stuttgart: Cotta 2004, III, 318-319."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b3dc3e6f-8f4c-48fb-8589-a4acfcd0fa4d/node_type?resourceVersion=id%3A3727"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b3dc3e6f-8f4c-48fb-8589-a4acfcd0fa4d/relationships/node_type?resourceVersion=id%3A3727"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b3dc3e6f-8f4c-48fb-8589-a4acfcd0fa4d/revision_uid?resourceVersion=id%3A3727"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b3dc3e6f-8f4c-48fb-8589-a4acfcd0fa4d/relationships/revision_uid?resourceVersion=id%3A3727"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b3dc3e6f-8f4c-48fb-8589-a4acfcd0fa4d/uid?resourceVersion=id%3A3727"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b3dc3e6f-8f4c-48fb-8589-a4acfcd0fa4d/relationships/uid?resourceVersion=id%3A3727"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b3dc3e6f-8f4c-48fb-8589-a4acfcd0fa4d/field_event_type?resourceVersion=id%3A3727"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b3dc3e6f-8f4c-48fb-8589-a4acfcd0fa4d/relationships/field_event_type?resourceVersion=id%3A3727"
+        }
+      }
+    }
+  }
+}

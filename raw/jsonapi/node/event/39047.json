@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "a25dd22a-8a3e-46f3-9872-83f7ce128ff3",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/a25dd22a-8a3e-46f3-9872-83f7ce128ff3?resourceVersion=id%3A2822"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/a25dd22a-8a3e-46f3-9872-83f7ce128ff3?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39047,
+    "drupal_internal__vid": 2822,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Strindberg",
+    "created": "2011-05-02T15:39:39+00:00",
+    "changed": "2012-01-24T16:02:23+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39047",
+      "pid": 779,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahr schreibt 1922:<blockquote>Ich, der selber Strindberg noch von Angesicht kannte, wenn auch nur flüchtig</blockquote> Die flüchtige Begegnung fand 1893 - vermutlich in der zweiten Februarhälfte - statt, als er ihn in Berlin interviewte. Bahr fand den Autor im Gespräch langweilig und uninspiriert. Im \"Tagebuch\" schreibt er:<blockquote>da saßen wir einst in tiefer Nacht beisammen, beide ziemlich schwank, nicht bloß von Jugend, Wirrnis und Sehnsucht trunken.</blockquote>",
+      "format": "full_html",
+      "processed": "Bahr schreibt 1922:<blockquote>Ich, der selber Strindberg noch von Angesicht kannte, wenn auch nur flüchtig</blockquote> Die flüchtige Begegnung fand 1893 - vermutlich in der zweiten Februarhälfte - statt, als er ihn in Berlin interviewte. Bahr fand den Autor im Gespräch langweilig und uninspiriert. Im \"Tagebuch\" schreibt er:<blockquote>da saßen wir einst in tiefer Nacht beisammen, beide ziemlich schwank, nicht bloß von Jugend, Wirrnis und Sehnsucht trunken.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1893-02-18",
+      "end_value": "1893-02-18"
+    },
+    "field_sources": [
+      "Hermann Bahr: Josef Jarno – 25 Jahre Direktor des Josefstädter-Theaters. Neues Montagsblatt, 29 (1922) #50, 3. (26.12.1922)",
+      "Hermann Bahr: Berlin. 2.) (Bei August Strindberg). Deutsche Zeitung, Wien, 23 (1893) #7619, Morgen-Ausgabe, 1. (14.3.1893)  [Zur Datierung: Siehe Berlin 1.) vom 24.2.]",
+      "Liebe der Lebenden, III, 59. (7.3.[1923])"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a25dd22a-8a3e-46f3-9872-83f7ce128ff3/node_type?resourceVersion=id%3A2822"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a25dd22a-8a3e-46f3-9872-83f7ce128ff3/relationships/node_type?resourceVersion=id%3A2822"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a25dd22a-8a3e-46f3-9872-83f7ce128ff3/revision_uid?resourceVersion=id%3A2822"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a25dd22a-8a3e-46f3-9872-83f7ce128ff3/relationships/revision_uid?resourceVersion=id%3A2822"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a25dd22a-8a3e-46f3-9872-83f7ce128ff3/uid?resourceVersion=id%3A2822"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a25dd22a-8a3e-46f3-9872-83f7ce128ff3/relationships/uid?resourceVersion=id%3A2822"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a25dd22a-8a3e-46f3-9872-83f7ce128ff3/field_event_type?resourceVersion=id%3A2822"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a25dd22a-8a3e-46f3-9872-83f7ce128ff3/relationships/field_event_type?resourceVersion=id%3A2822"
+        }
+      }
+    }
+  }
+}

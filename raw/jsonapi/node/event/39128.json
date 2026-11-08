@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "27e8dc70-a6aa-454d-880a-2e8baf161c22",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/27e8dc70-a6aa-454d-880a-2e8baf161c22?resourceVersion=id%3A2891"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/27e8dc70-a6aa-454d-880a-2e8baf161c22?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39128,
+    "drupal_internal__vid": 2891,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Rede über Klimt (1901)",
+    "created": "2011-06-09T10:01:09+00:00",
+    "changed": "2011-06-27T11:33:26+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39128",
+      "pid": 856,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Die Österreichische Volkszeitung berichtet am 6. April 1901: <blockquote>Hermann Bahr's 'Rede über Klimt', die am 24. v. M. am Leseabend der 'Concordia' gehalten wurde, ist soeben im Wiener Verlag erschienen. Das geistvolle Plaidoyer Hermann Bahr's wird die Leser ebenso interessieren, wie es die Zuhörer gefesselt hat. Unter den 'Anmerkungen', die der Broschüre hinzugefügt sind, befindet sich auch das Klimt-Feuilleton, das Hermann Bahr in unserem Blatte veröffentlicht hatte. Die Broschüre kostet 20 Heller.</blockquote>\r\n",
+      "format": "full_html",
+      "processed": "Die Österreichische Volkszeitung berichtet am 6. April 1901: <blockquote>Hermann Bahr's 'Rede über Klimt', die am 24. v. M. am Leseabend der 'Concordia' gehalten wurde, ist soeben im Wiener Verlag erschienen. Das geistvolle Plaidoyer Hermann Bahr's wird die Leser ebenso interessieren, wie es die Zuhörer gefesselt hat. Unter den 'Anmerkungen', die der Broschüre hinzugefügt sind, befindet sich auch das Klimt-Feuilleton, das Hermann Bahr in unserem Blatte veröffentlicht hatte. Die Broschüre kostet 20 Heller.</blockquote>\n",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1901-04-06",
+      "end_value": "1901-04-06"
+    },
+    "field_sources": [
+      "Ö.V.Z., 47 (1901) #94, 9 (2 Kreuzer-Ausgabe: 9)."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/27e8dc70-a6aa-454d-880a-2e8baf161c22/node_type?resourceVersion=id%3A2891"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/27e8dc70-a6aa-454d-880a-2e8baf161c22/relationships/node_type?resourceVersion=id%3A2891"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/27e8dc70-a6aa-454d-880a-2e8baf161c22/revision_uid?resourceVersion=id%3A2891"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/27e8dc70-a6aa-454d-880a-2e8baf161c22/relationships/revision_uid?resourceVersion=id%3A2891"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/27e8dc70-a6aa-454d-880a-2e8baf161c22/uid?resourceVersion=id%3A2891"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/27e8dc70-a6aa-454d-880a-2e8baf161c22/relationships/uid?resourceVersion=id%3A2891"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "da42ac4a-f48f-4397-af4d-b66e913825fb",
+          "meta": {
+            "drupal_internal__target_id": 3
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/27e8dc70-a6aa-454d-880a-2e8baf161c22/field_event_type?resourceVersion=id%3A2891"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/27e8dc70-a6aa-454d-880a-2e8baf161c22/relationships/field_event_type?resourceVersion=id%3A2891"
+        }
+      }
+    }
+  }
+}

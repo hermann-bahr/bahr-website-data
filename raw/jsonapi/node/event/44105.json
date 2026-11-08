@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "6e7cb8d1-17c5-47b0-bf86-58308ba2bd10",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/6e7cb8d1-17c5-47b0-bf86-58308ba2bd10?resourceVersion=id%3A3021"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/6e7cb8d1-17c5-47b0-bf86-58308ba2bd10?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44105,
+    "drupal_internal__vid": 3021,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Gastspiel \"Deutsches Theater\"",
+    "created": "2011-09-13T16:54:10+00:00",
+    "changed": "2011-09-13T16:55:35+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44105",
+      "pid": 1000,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "im Mai 1904 ist das \"Deutsche Theater\" in Wien. Am 18. besucht Bahr eine Probe, am 19. die Generalprobe seines Stücks \"Der Meister\" [1], das am 20. und in Folge acht Mal im Carl-Theater gegeben wird.",
+      "format": "full_html",
+      "processed": "im Mai 1904 ist das \"Deutsche Theater\" in Wien. Am 18. besucht Bahr eine Probe, am 19. die Generalprobe seines Stücks \"Der Meister\" [1], das am 20. und in Folge acht Mal im Carl-Theater gegeben wird.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1904-05-18",
+      "end_value": "1904-05-28"
+    },
+    "field_sources": [
+      "[1] Tagebücher (Csàky), IV, 146-149."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6e7cb8d1-17c5-47b0-bf86-58308ba2bd10/node_type?resourceVersion=id%3A3021"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6e7cb8d1-17c5-47b0-bf86-58308ba2bd10/relationships/node_type?resourceVersion=id%3A3021"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6e7cb8d1-17c5-47b0-bf86-58308ba2bd10/revision_uid?resourceVersion=id%3A3021"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6e7cb8d1-17c5-47b0-bf86-58308ba2bd10/relationships/revision_uid?resourceVersion=id%3A3021"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6e7cb8d1-17c5-47b0-bf86-58308ba2bd10/uid?resourceVersion=id%3A3021"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6e7cb8d1-17c5-47b0-bf86-58308ba2bd10/relationships/uid?resourceVersion=id%3A3021"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6e7cb8d1-17c5-47b0-bf86-58308ba2bd10/field_event_type?resourceVersion=id%3A3021"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6e7cb8d1-17c5-47b0-bf86-58308ba2bd10/relationships/field_event_type?resourceVersion=id%3A3021"
+        }
+      }
+    }
+  }
+}

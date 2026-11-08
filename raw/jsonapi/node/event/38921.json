@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "19062f27-e3b7-4e18-94f8-30001f94e37e",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/19062f27-e3b7-4e18-94f8-30001f94e37e?resourceVersion=id%3A2708"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/19062f27-e3b7-4e18-94f8-30001f94e37e?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38921,
+    "drupal_internal__vid": 2708,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Bleibtreu",
+    "created": "2011-03-09T12:54:17+00:00",
+    "changed": "2013-01-30T10:56:40+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38921",
+      "pid": 662,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Wie erhaltene Briefe Carl Bleibtreus an Karl Kraus zeigen, versucht letzterer, Bleibtreu und dessen Plagiatsvorwurf gegen \"Josephine\" für seinen Prozess gegen Bahr auszuwerten. Am 11.11.1900 schreibt Bleibtreu: \"Ich bin gespannt auf die Affäre Bahr. Mein eigener Tanz mit Nordau geht auch bald los;\"",
+      "format": "full_html",
+      "processed": "Wie erhaltene Briefe Carl Bleibtreus an Karl Kraus zeigen, versucht letzterer, Bleibtreu und dessen Plagiatsvorwurf gegen \"Josephine\" für seinen Prozess gegen Bahr auszuwerten. Am 11.11.1900 schreibt Bleibtreu: \"Ich bin gespannt auf die Affäre Bahr. Mein eigener Tanz mit Nordau geht auch bald los;\"",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1900-11-11",
+      "end_value": "1900-11-11"
+    },
+    "field_sources": [
+      "Wienbibliothek, H.I.N. 167626 (11.11.1900), 167627 (26.1.1901), 167628 (2.2.1901), 167629 (10.2.1901), 167630 (15.2.1901), 167631 (17.2.1901) "
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/19062f27-e3b7-4e18-94f8-30001f94e37e/node_type?resourceVersion=id%3A2708"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/19062f27-e3b7-4e18-94f8-30001f94e37e/relationships/node_type?resourceVersion=id%3A2708"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/19062f27-e3b7-4e18-94f8-30001f94e37e/revision_uid?resourceVersion=id%3A2708"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/19062f27-e3b7-4e18-94f8-30001f94e37e/relationships/revision_uid?resourceVersion=id%3A2708"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/19062f27-e3b7-4e18-94f8-30001f94e37e/uid?resourceVersion=id%3A2708"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/19062f27-e3b7-4e18-94f8-30001f94e37e/relationships/uid?resourceVersion=id%3A2708"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/19062f27-e3b7-4e18-94f8-30001f94e37e/field_event_type?resourceVersion=id%3A2708"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/19062f27-e3b7-4e18-94f8-30001f94e37e/relationships/field_event_type?resourceVersion=id%3A2708"
+        }
+      }
+    }
+  }
+}

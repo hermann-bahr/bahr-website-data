@@ -1,0 +1,120 @@
+{
+  "type": "node--event",
+  "id": "9559a196-3a27-429c-ad07-5543d2acac62",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/9559a196-3a27-429c-ad07-5543d2acac62?resourceVersion=id%3A2251"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/9559a196-3a27-429c-ad07-5543d2acac62?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27904,
+    "drupal_internal__vid": 2251,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "9. Internationaler Pressekongress",
+    "created": "2010-06-24T17:37:47+00:00",
+    "changed": "2011-10-05T10:04:30+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/27904",
+      "pid": 84,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahr äußert sich am 12. September 1904 auf dem neunten Internationalen Pressekongress in Wien und fordert die Einrichtung von Pressegerichten, die gegen Auswüchse in der Presse und für die Wahrung der Würde derselben eintreten sollen:<blockquote>Delegierter <i>Bahr</i>: Durch diese Schiedsgerichte wird zum erstenmal eine <i>breite internationale</i> Basis geschaffen und nur auf dieser ist es möglich, das zu schaffen, was uns journalistischen Arbeitern bisher gefehlt hat: <i>eine große feste Organisation</i>, die uns schützen und jedem einzelnen nützen kann.</blockquote>Ansonsten betrachtet Bahr die Tage vom 11. zum 20., die der Kongress in Anspruch nimmt und die Bahr auch eine Rede vor dem Mozart-Denkmal in Salzburg halten lassen, als verlorene Zeit.",
+      "format": "full_html",
+      "processed": "Bahr äußert sich am 12. September 1904 auf dem neunten Internationalen Pressekongress in Wien und fordert die Einrichtung von Pressegerichten, die gegen Auswüchse in der Presse und für die Wahrung der Würde derselben eintreten sollen:<blockquote>Delegierter <i>Bahr</i>: Durch diese Schiedsgerichte wird zum erstenmal eine <i>breite internationale</i> Basis geschaffen und nur auf dieser ist es möglich, das zu schaffen, was uns journalistischen Arbeitern bisher gefehlt hat: <i>eine große feste Organisation</i>, die uns schützen und jedem einzelnen nützen kann.</blockquote>Ansonsten betrachtet Bahr die Tage vom 11. zum 20., die der Kongress in Anspruch nimmt und die Bahr auch eine Rede vor dem Mozart-Denkmal in Salzburg halten lassen, als verlorene Zeit.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1904-09-11",
+      "end_value": "1904-09-20"
+    },
+    "field_sources": [
+      "Tagebücher (Csàky), IV, 294-295.",
+      "Die Debatte über den Antrag Singer. In: Neues Wiener Tagblatt, 38 (1904) #254, 5. (13.9.1904)",
+      "Teilnehmerliste: Neues Wiener Tagblatt, 38 (1904) #253, 6-7. (12.9.1904)",
+      "Österreichische Volks-Zeitung, 50 (1904) #254, 3. (13.9.1904) ",
+      "Hermann Bahr: IX. internationaler Preßkongreß. Eine Huldigung für Mozart. Neues Wiener Tagblatt, 38 (1904) #260, 2-5, hier: 3-4. (19.9.1904)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9559a196-3a27-429c-ad07-5543d2acac62/node_type?resourceVersion=id%3A2251"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9559a196-3a27-429c-ad07-5543d2acac62/relationships/node_type?resourceVersion=id%3A2251"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9559a196-3a27-429c-ad07-5543d2acac62/revision_uid?resourceVersion=id%3A2251"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9559a196-3a27-429c-ad07-5543d2acac62/relationships/revision_uid?resourceVersion=id%3A2251"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9559a196-3a27-429c-ad07-5543d2acac62/uid?resourceVersion=id%3A2251"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9559a196-3a27-429c-ad07-5543d2acac62/relationships/uid?resourceVersion=id%3A2251"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9559a196-3a27-429c-ad07-5543d2acac62/field_event_type?resourceVersion=id%3A2251"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9559a196-3a27-429c-ad07-5543d2acac62/relationships/field_event_type?resourceVersion=id%3A2251"
+        }
+      }
+    }
+  }
+}

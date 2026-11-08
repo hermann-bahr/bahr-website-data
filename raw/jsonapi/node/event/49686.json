@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "da1e5e10-68ac-41ee-bcd8-10a766fad285",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/da1e5e10-68ac-41ee-bcd8-10a766fad285?resourceVersion=id%3A3468"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/da1e5e10-68ac-41ee-bcd8-10a766fad285?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49686,
+    "drupal_internal__vid": 3468,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Rathenau",
+    "created": "2011-11-28T10:44:58+00:00",
+    "changed": "2011-11-28T10:45:13+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49686",
+      "pid": 1501,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Im Jänner 1916, bei einem Gespräch in der \"Deutschen Gesellschaft\" in Berlin soll Walther Rathenau Bahr das Ende des Krieges vorhergesagt haben.",
+      "format": "full_html",
+      "processed": "Im Jänner 1916, bei einem Gespräch in der \"Deutschen Gesellschaft\" in Berlin soll Walther Rathenau Bahr das Ende des Krieges vorhergesagt haben.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1916-01-22",
+      "end_value": "1916-01-22"
+    },
+    "field_sources": [
+      "Hermann Bahr: Tagebuch. 22. April. In: 1919. Tagebuch, 136-139, hier: 138.\r\n",
+      "(Hier auf den 1. Tag des Aufenthalts, 22.1.1916 datiert)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/da1e5e10-68ac-41ee-bcd8-10a766fad285/node_type?resourceVersion=id%3A3468"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/da1e5e10-68ac-41ee-bcd8-10a766fad285/relationships/node_type?resourceVersion=id%3A3468"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/da1e5e10-68ac-41ee-bcd8-10a766fad285/revision_uid?resourceVersion=id%3A3468"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/da1e5e10-68ac-41ee-bcd8-10a766fad285/relationships/revision_uid?resourceVersion=id%3A3468"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/da1e5e10-68ac-41ee-bcd8-10a766fad285/uid?resourceVersion=id%3A3468"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/da1e5e10-68ac-41ee-bcd8-10a766fad285/relationships/uid?resourceVersion=id%3A3468"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/da1e5e10-68ac-41ee-bcd8-10a766fad285/field_event_type?resourceVersion=id%3A3468"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/da1e5e10-68ac-41ee-bcd8-10a766fad285/relationships/field_event_type?resourceVersion=id%3A3468"
+        }
+      }
+    }
+  }
+}

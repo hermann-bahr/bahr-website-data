@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "d59d2ff9-c88a-495a-beab-a9f810d492bd",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/d59d2ff9-c88a-495a-beab-a9f810d492bd?resourceVersion=id%3A2646"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/d59d2ff9-c88a-495a-beab-a9f810d492bd?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38827,
+    "drupal_internal__vid": 2646,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Letzter Artikel in der \"Zeit\"",
+    "created": "2011-02-02T18:46:02+00:00",
+    "changed": "2011-07-11T12:04:20+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38827",
+      "pid": 573,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 16. September 1899 erscheint der letzte Artikel Bahrs in \"Der Zeit\".",
+      "format": "full_html",
+      "processed": "Am 16. September 1899 erscheint der letzte Artikel Bahrs in \"Der Zeit\".",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1899-09-16",
+      "end_value": "1899-09-16"
+    },
+    "field_sources": [
+      "Hermann Bahr: Deutsches Volkstheater. [Zehnjähriges Bestehen]. Die Zeit, 20 (1899) #259, 186-187. (16.9.1899)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d59d2ff9-c88a-495a-beab-a9f810d492bd/node_type?resourceVersion=id%3A2646"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d59d2ff9-c88a-495a-beab-a9f810d492bd/relationships/node_type?resourceVersion=id%3A2646"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d59d2ff9-c88a-495a-beab-a9f810d492bd/revision_uid?resourceVersion=id%3A2646"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d59d2ff9-c88a-495a-beab-a9f810d492bd/relationships/revision_uid?resourceVersion=id%3A2646"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d59d2ff9-c88a-495a-beab-a9f810d492bd/uid?resourceVersion=id%3A2646"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d59d2ff9-c88a-495a-beab-a9f810d492bd/relationships/uid?resourceVersion=id%3A2646"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "d579e54c-64dd-4193-a9ef-da87efb3ed16",
+          "meta": {
+            "drupal_internal__target_id": 8
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d59d2ff9-c88a-495a-beab-a9f810d492bd/field_event_type?resourceVersion=id%3A2646"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d59d2ff9-c88a-495a-beab-a9f810d492bd/relationships/field_event_type?resourceVersion=id%3A2646"
+        }
+      }
+    }
+  }
+}

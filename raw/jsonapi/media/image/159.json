@@ -1,0 +1,118 @@
+{
+  "type": "media--image",
+  "id": "e8f03c29-c38f-427a-ba39-79d914d52f9b",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/media/image/e8f03c29-c38f-427a-ba39-79d914d52f9b?resourceVersion=id%3A159"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/media/image/e8f03c29-c38f-427a-ba39-79d914d52f9b?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__mid": 159,
+    "drupal_internal__vid": 159,
+    "langcode": "de",
+    "revision_created": "2020-02-18T15:16:19+00:00",
+    "status": true,
+    "name": "1922_fackel",
+    "created": "2020-02-18T15:16:19+00:00",
+    "changed": "2020-02-18T15:16:19+00:00",
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": null,
+      "pid": null,
+      "langcode": "de"
+    }
+  },
+  "relationships": {
+    "bundle": {
+      "data": {
+        "type": "media_type--media_type",
+        "id": "b82aabb6-e7a1-420d-b98b-5b981c2d920e",
+        "meta": {
+          "drupal_internal__target_id": "image"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/e8f03c29-c38f-427a-ba39-79d914d52f9b/bundle?resourceVersion=id%3A159"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/e8f03c29-c38f-427a-ba39-79d914d52f9b/relationships/bundle?resourceVersion=id%3A159"
+        }
+      }
+    },
+    "revision_user": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/e8f03c29-c38f-427a-ba39-79d914d52f9b/revision_user?resourceVersion=id%3A159"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/e8f03c29-c38f-427a-ba39-79d914d52f9b/relationships/revision_user?resourceVersion=id%3A159"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/e8f03c29-c38f-427a-ba39-79d914d52f9b/uid?resourceVersion=id%3A159"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/e8f03c29-c38f-427a-ba39-79d914d52f9b/relationships/uid?resourceVersion=id%3A159"
+        }
+      }
+    },
+    "thumbnail": {
+      "data": {
+        "type": "file--file",
+        "id": "d13c98ac-4422-4fd2-ab41-f5fd67a2d249",
+        "meta": {
+          "alt": "Fackel-Karikatur",
+          "title": null,
+          "width": 1072,
+          "height": 600,
+          "drupal_internal__target_id": 220
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/e8f03c29-c38f-427a-ba39-79d914d52f9b/thumbnail?resourceVersion=id%3A159"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/e8f03c29-c38f-427a-ba39-79d914d52f9b/relationships/thumbnail?resourceVersion=id%3A159"
+        }
+      }
+    },
+    "field_media_image": {
+      "data": {
+        "type": "file--file",
+        "id": "d13c98ac-4422-4fd2-ab41-f5fd67a2d249",
+        "meta": {
+          "alt": "Fackel-Karikatur",
+          "title": "1922_fackel",
+          "width": 1072,
+          "height": 600,
+          "drupal_internal__target_id": 220
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/e8f03c29-c38f-427a-ba39-79d914d52f9b/field_media_image?resourceVersion=id%3A159"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/e8f03c29-c38f-427a-ba39-79d914d52f9b/relationships/field_media_image?resourceVersion=id%3A159"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "type": "node--event",
+  "id": "8ecc7ef1-e150-48f4-b342-ebdb9a518a46",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/8ecc7ef1-e150-48f4-b342-ebdb9a518a46?resourceVersion=id%3A2843"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/8ecc7ef1-e150-48f4-b342-ebdb9a518a46?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39069,
+    "drupal_internal__vid": 2843,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Mareia Bubna-Littitz",
+    "created": "2011-05-05T20:23:42+00:00",
+    "changed": "2012-12-18T15:41:30+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39069",
+      "pid": 800,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Um das Jahr 1903 hat Bahr eine Affäre mit der Schauspielerin Maria Bubna-Littitz (und zu der Zeit Ehefrau von Felix Dörmann), wie – Schicksal! – aus einem Brief von ihr an Bahr vom 14. August 1916 hervorgeht. Bei ihrem unmittelbar davor stattfindenden Besuch in Salzburg wurde sie durch Anna Bahr, die gerade seine Privatbriefe ordnete, auf die Existenz eines großen Umschlags mit ihren Briefen und der Aufschrift „Bubna“ aufmerksam gemacht, worin sich auch Briefe aus dem Jahr 1903 befänden. Sie hat Angst, dass das jemals veröffentlicht werden könnte, nicht zuletzt, da sie zu heiraten gedenke und erbittet sich die Briefe zurück. Die Briefe von 1903 sind nicht erhalten, bis auf eine Karte mit ihrer Silhouette im Scherenschnitt samt handschriftlicher Ergänzung von ihrer Hand [1]:\r\n<blockquote>Frau Mareia. 10. VIII. 1903.<br>Mein Gott es ist schrecklich aber mir fallt wirklich nichts anderes ein als dass ich Sie liebe. Wirklich.</blockquote>\r\nEinen Monat später, am 12. September in einem Brief Burckhards aus Salzburg:<blockquote>Es grüßt Sie Marie Dörmann.</blockquote> Sollte ein Beginn der Affäre konstatiert werden, so wäre das vermutlich der Mai, in dem sich Bahr mehrmals Treffen mit ihr in sein Tagebuch notiert.[2] Nicht notwendigerweise in Zusammenhang, aber von direktem Interesse ist folgende Zeitungsnotiz vom 1. Oktober 1904:<blockquote><strong>(Die Ehe des Schriftstellers Dörmann)</strong> und seiner Gattin Marie, gebornen Gräfin Bubna-Vittitz [!], wurde gestern vom Zivillandesgericht […] und zwar aus dem Verschulden des Gatten für <i>getrennt</i> erklärt.[3]</blockquote>Als Kuriosum im Nachlass: Der Brief Emil Kaltneckers vom 2.2.1906, der die Briefe Bahrs an Marie Dörmann als Fundsache am Westbahnhof im Empfang nahm und nun Bahr aufmerksam macht, er möchte die Dame doch bewegen, die intimen Briefe abzuholen.",
+      "format": "full_html",
+      "processed": "Um das Jahr 1903 hat Bahr eine Affäre mit der Schauspielerin Maria Bubna-Littitz (und zu der Zeit Ehefrau von Felix Dörmann), wie – Schicksal! – aus einem Brief von ihr an Bahr vom 14. August 1916 hervorgeht. Bei ihrem unmittelbar davor stattfindenden Besuch in Salzburg wurde sie durch Anna Bahr, die gerade seine Privatbriefe ordnete, auf die Existenz eines großen Umschlags mit ihren Briefen und der Aufschrift „Bubna“ aufmerksam gemacht, worin sich auch Briefe aus dem Jahr 1903 befänden. Sie hat Angst, dass das jemals veröffentlicht werden könnte, nicht zuletzt, da sie zu heiraten gedenke und erbittet sich die Briefe zurück. Die Briefe von 1903 sind nicht erhalten, bis auf eine Karte mit ihrer Silhouette im Scherenschnitt samt handschriftlicher Ergänzung von ihrer Hand [1]:\n<blockquote>Frau Mareia. 10. VIII. 1903.<br>Mein Gott es ist schrecklich aber mir fallt wirklich nichts anderes ein als dass ich Sie liebe. Wirklich.</blockquote>\nEinen Monat später, am 12. September in einem Brief Burckhards aus Salzburg:<blockquote>Es grüßt Sie Marie Dörmann.</blockquote> Sollte ein Beginn der Affäre konstatiert werden, so wäre das vermutlich der Mai, in dem sich Bahr mehrmals Treffen mit ihr in sein Tagebuch notiert.[2] Nicht notwendigerweise in Zusammenhang, aber von direktem Interesse ist folgende Zeitungsnotiz vom 1. Oktober 1904:<blockquote><strong>(Die Ehe des Schriftstellers Dörmann)</strong> und seiner Gattin Marie, gebornen Gräfin Bubna-Vittitz&nbsp;[!], wurde gestern vom Zivillandesgericht […]&nbsp;und zwar aus dem Verschulden des Gatten für <i>getrennt</i> erklärt.[3]</blockquote>Als Kuriosum im Nachlass: Der Brief Emil Kaltneckers vom 2.2.1906, der die Briefe Bahrs an Marie Dörmann als Fundsache am Westbahnhof im Empfang nahm und nun Bahr aufmerksam macht, er möchte die Dame doch bewegen, die intimen Briefe abzuholen.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1903-05-01",
+      "end_value": "1903-05-01"
+    },
+    "field_sources": [
+      "[1] Im Nachlass, Signatur A 16239 BaM und Briefe an Bahr, Bubna-Littitz, Maria.",
+      "[2] Tagebücher (Csàky), III, 309-310.",
+      "[3] Neues Wiener Tagblatt, 38 (1904) #272, 12. (1.10.1904)",
+      "Kaltnecker: 19459BaM"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8ecc7ef1-e150-48f4-b342-ebdb9a518a46/node_type?resourceVersion=id%3A2843"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8ecc7ef1-e150-48f4-b342-ebdb9a518a46/relationships/node_type?resourceVersion=id%3A2843"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8ecc7ef1-e150-48f4-b342-ebdb9a518a46/revision_uid?resourceVersion=id%3A2843"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8ecc7ef1-e150-48f4-b342-ebdb9a518a46/relationships/revision_uid?resourceVersion=id%3A2843"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8ecc7ef1-e150-48f4-b342-ebdb9a518a46/uid?resourceVersion=id%3A2843"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8ecc7ef1-e150-48f4-b342-ebdb9a518a46/relationships/uid?resourceVersion=id%3A2843"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8ecc7ef1-e150-48f4-b342-ebdb9a518a46/field_event_type?resourceVersion=id%3A2843"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8ecc7ef1-e150-48f4-b342-ebdb9a518a46/relationships/field_event_type?resourceVersion=id%3A2843"
+        }
+      }
+    }
+  }
+}

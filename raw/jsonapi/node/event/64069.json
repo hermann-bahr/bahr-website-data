@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "411fbb5d-f218-430d-8dd6-244d83b90e64",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/411fbb5d-f218-430d-8dd6-244d83b90e64?resourceVersion=id%3A3563"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/411fbb5d-f218-430d-8dd6-244d83b90e64?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 64069,
+    "drupal_internal__vid": 3563,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Drut beendet",
+    "created": "2012-01-26T14:12:33+00:00",
+    "changed": "2012-01-26T14:12:33+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/64069",
+      "pid": 1604,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 2. Februar 1909 beendet Bahr \"Drut\".",
+      "format": "full_html",
+      "processed": "Am 2. Februar 1909 beendet Bahr \"Drut\".",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1909-02-02",
+      "end_value": "1909-02-02"
+    },
+    "field_sources": [
+      "Hermann Bahr: Aufzeichnungen 1909-1911. Ausgabe in Vorbereitung von Kurt Ifkovits\r\n"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/411fbb5d-f218-430d-8dd6-244d83b90e64/node_type?resourceVersion=id%3A3563"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/411fbb5d-f218-430d-8dd6-244d83b90e64/relationships/node_type?resourceVersion=id%3A3563"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/411fbb5d-f218-430d-8dd6-244d83b90e64/revision_uid?resourceVersion=id%3A3563"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/411fbb5d-f218-430d-8dd6-244d83b90e64/relationships/revision_uid?resourceVersion=id%3A3563"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/411fbb5d-f218-430d-8dd6-244d83b90e64/uid?resourceVersion=id%3A3563"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/411fbb5d-f218-430d-8dd6-244d83b90e64/relationships/uid?resourceVersion=id%3A3563"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/411fbb5d-f218-430d-8dd6-244d83b90e64/field_event_type?resourceVersion=id%3A3563"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/411fbb5d-f218-430d-8dd6-244d83b90e64/relationships/field_event_type?resourceVersion=id%3A3563"
+        }
+      }
+    }
+  }
+}

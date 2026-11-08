@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "1c53d678-c948-44fe-b4e4-a496092dbdcf",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/1c53d678-c948-44fe-b4e4-a496092dbdcf?resourceVersion=id%3A2394"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/1c53d678-c948-44fe-b4e4-a496092dbdcf?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28067,
+    "drupal_internal__vid": 2394,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Der Franzl",
+    "created": "2010-08-09T08:56:42+00:00",
+    "changed": "2012-10-29T09:56:31+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28067",
+      "pid": 228,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahrs Bühnenstück über den oberösterreichischen Dichter Franz Stelzhamer, \"Der Franzl\" verlängert Bahrs Hinwendung zur \"Heimatkunst\", die er um die Jahrhundertwende vollzieht. Inspiriert von älteren Stücken schildert er fünf Szenen aus dem Leben Franz Stelzhamers, die vom gescheiterten Schauspieler als junger Mann bis zum Tod reichen, wobei die Hauptfigur als verbindendes Glied erhalten bleibt.\r\nEs hat am 22. Dezember 1900 am Linzer Landestheater Première. Bei der Première sind Max Burckhard und Emerich v. Bukovics anwesend, Bahr selbst kommt für die Aufführung am 23. \r\nDie Buchausgabe im Wiener Verlag ist zu dem Zeitpunkt bereits erschienen, wie sich aus einer Rezension vom Oktober ergibt. Die Widmung in Hugo von Hofmannsthals Exemplar ist mit 8.10. datiert.\r\n",
+      "format": "full_html",
+      "processed": "Bahrs Bühnenstück über den oberösterreichischen Dichter Franz Stelzhamer, \"Der Franzl\" verlängert Bahrs Hinwendung zur \"Heimatkunst\", die er um die Jahrhundertwende vollzieht. Inspiriert von älteren Stücken schildert er fünf Szenen aus dem Leben Franz Stelzhamers, die vom gescheiterten Schauspieler als junger Mann bis zum Tod reichen, wobei die Hauptfigur als verbindendes Glied erhalten bleibt.\nEs hat am 22. Dezember 1900 am Linzer Landestheater Première. Bei der Première sind Max Burckhard und Emerich v. Bukovics anwesend, Bahr selbst kommt für die Aufführung am 23. \nDie Buchausgabe im Wiener Verlag ist zu dem Zeitpunkt bereits erschienen, wie sich aus einer Rezension vom Oktober ergibt. Die Widmung in Hugo von Hofmannsthals Exemplar ist mit 8.10. datiert.\n",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1900-12-22",
+      "end_value": "1900-12-22"
+    },
+    "field_sources": [
+      "Anm. zu Brief von HvH, 31.10.1900. Briefwechsel Bahr/Hofmannsthal. Hg. Elsbeth Dangel-Pelloquin. Göttingen: Wallstein. (In Vorbereitung)",
+      "[O. N.] \"Der Franzl.\" In: Österreichische Volkszeitung, 46 (1900) #351, 17 ( (2 Kreuzer-Ausgabe: 9-10). (23.12.1900)\r\n",
+      "L. F.: Der Franzl. In: Österreichische Volks-Zeitung, 46 (1900) #285, 1-2. (17.10.1900)\r\n"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1c53d678-c948-44fe-b4e4-a496092dbdcf/node_type?resourceVersion=id%3A2394"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1c53d678-c948-44fe-b4e4-a496092dbdcf/relationships/node_type?resourceVersion=id%3A2394"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1c53d678-c948-44fe-b4e4-a496092dbdcf/revision_uid?resourceVersion=id%3A2394"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1c53d678-c948-44fe-b4e4-a496092dbdcf/relationships/revision_uid?resourceVersion=id%3A2394"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1c53d678-c948-44fe-b4e4-a496092dbdcf/uid?resourceVersion=id%3A2394"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1c53d678-c948-44fe-b4e4-a496092dbdcf/relationships/uid?resourceVersion=id%3A2394"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "27f3d2a4-8970-4726-9ab8-ce37707ec1bc",
+          "meta": {
+            "drupal_internal__target_id": 1
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1c53d678-c948-44fe-b4e4-a496092dbdcf/field_event_type?resourceVersion=id%3A2394"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1c53d678-c948-44fe-b4e4-a496092dbdcf/relationships/field_event_type?resourceVersion=id%3A2394"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "e3cf45a1-1794-4c26-b75b-73769dba316e",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/e3cf45a1-1794-4c26-b75b-73769dba316e?resourceVersion=id%3A3696"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/e3cf45a1-1794-4c26-b75b-73769dba316e?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74368,
+    "drupal_internal__vid": 3696,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Depressionen",
+    "created": "2012-10-15T16:13:58+00:00",
+    "changed": "2013-09-14T11:54:39+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/74368",
+      "pid": 1742,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Anfang Juni 1894 dürfte sich in Bahrs Leben etwas ereignet haben, das ihn über Monate emotionalen Schmerz bereitet. In Andeutungen ist davon im Briefwechsel mit Hugo von Hofmannsthal die Rede, wo das Wort \"Judas\" erwähnt wird. Hugo von Hofmannsthal findet, dass eine solches Leid nur durch den Tod einer Person oder durch das \"grundlose Todtsein der Seele\" hervorgerufen werden kann. Bahr erklärt, das zweite für zutreffend.",
+      "format": "full_html",
+      "processed": "Anfang Juni 1894 dürfte sich in Bahrs Leben etwas ereignet haben, das ihn über Monate emotionalen Schmerz bereitet. In Andeutungen ist davon im Briefwechsel mit Hugo von Hofmannsthal die Rede, wo das Wort \"Judas\" erwähnt wird. Hugo von Hofmannsthal findet, dass eine solches Leid nur durch den Tod einer Person oder durch das \"grundlose Todtsein der Seele\" hervorgerufen werden kann. Bahr erklärt, das zweite für zutreffend.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1894-06-01",
+      "end_value": "1894-06-01"
+    },
+    "field_sources": [
+      "Briefwechsel Bahr/Hofmannsthal. Hg. Elsbeth Dangel-Pelloquin. Göttingen: Wallstein. (In Vorbereitung), Juli, August 1894."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e3cf45a1-1794-4c26-b75b-73769dba316e/node_type?resourceVersion=id%3A3696"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e3cf45a1-1794-4c26-b75b-73769dba316e/relationships/node_type?resourceVersion=id%3A3696"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e3cf45a1-1794-4c26-b75b-73769dba316e/revision_uid?resourceVersion=id%3A3696"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e3cf45a1-1794-4c26-b75b-73769dba316e/relationships/revision_uid?resourceVersion=id%3A3696"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e3cf45a1-1794-4c26-b75b-73769dba316e/uid?resourceVersion=id%3A3696"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e3cf45a1-1794-4c26-b75b-73769dba316e/relationships/uid?resourceVersion=id%3A3696"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e3cf45a1-1794-4c26-b75b-73769dba316e/field_event_type?resourceVersion=id%3A3696"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e3cf45a1-1794-4c26-b75b-73769dba316e/relationships/field_event_type?resourceVersion=id%3A3696"
+        }
+      }
+    }
+  }
+}

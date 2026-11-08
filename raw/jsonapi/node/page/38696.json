@@ -1,0 +1,90 @@
+{
+  "type": "node--page",
+  "id": "aa24da5c-6a34-4601-9ff7-acecbae92732",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/page/aa24da5c-6a34-4601-9ff7-acecbae92732?resourceVersion=id%3A4065"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/page/aa24da5c-6a34-4601-9ff7-acecbae92732?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38696,
+    "drupal_internal__vid": 4065,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T17:01:03+00:00",
+    "status": true,
+    "title": "Hermann Bahr – Mittler der europäischen Moderne",
+    "created": "2010-12-28T16:20:51+00:00",
+    "changed": "2010-12-28T16:20:51+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/hermann-bahr-mittler-der-europaeischen-moderne",
+      "pid": 446,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<h4>Hermann Bahr-Symposion, Linz 1998</h4>\r\n\r\n<h5>Das Tagungsprogramm:</h5>\r\n<ol><li>Donald G. Daviau (Riverside): Der Austropäer Hermann Bahr. Der Anreger der europäischen Moderne in Österreich</li><li>Roger Bauer (München): Der interationale Hintergrund von Hermann Bahrs \"Überwindung\" der Décadence<li>Peter Sprengel (Berlin): Hermann Bahrs Roman \"Die gute Schule\" (1890) im literaturgeschichtlichen Kontext<li>Dieter W. Adolphs (Houghton, USA): Hermann Bahrs kulturkritische Revision der Moderne in seinem essayistischen und literarischen Werk der Jahre 1905 und 1906<li>Gregor Streim (Berlin): Vom \"unrettbaren Ich\" zur europäischen Idee. Hermann Bahr als politischer Publizist<li>Lukas Mayerhofer (Wien): Herman Bahr und Henrik Ibsen<li>Anton Mayer (Wien): Hermann Bahr und der Dichterkreis \"Jung-Wien\" - die Überwindung von Naturalismus und Décadence<li>Alfred Doppler (Innsbruck): Arthur Schnitzler und Hermann Bahr<li>Kurt Ifkovits (Wien): Die Bahr-Rezeption in der \"Insel\"<li>Markus Meier (Lugano): Der eigene Faust, Hamlet, Don Juan: Zum Zusammenspiel von europäischer Kultur und \"persönlichem Mythos\" in Hermann Bahrs literarischem Werk<li>Konstanze Fliedl (Wien): Hermann Bahr und das Judentum<li>Richard Reichensperger (Wien): Die europäische Moderne bei Hermann Bahr<li>Norbert Bachleitner (Wien): Hermann Bahr und die französische Literatur<li>Alexej Zerebin (St. Petersburg): Hermann Bahrs \"Russische Reise\" als \"Petersburger Text\"<li>Gotthart Wunberg (Wien/Tübingen): Hermann Bahr - ein Fall für die Kulturwissenschaften?<li>Eugenija Ehgartner-Jovinac (Wien): Hermann Bahrs kulturelle Beziehung zu Kroatien<li>Viktor Zmegac (Zagreb): Hermann Bahr und die bildende Kunst der Moderne.</ol>",
+      "format": "full_html",
+      "processed": "<h4>Hermann Bahr-Symposion, Linz 1998</h4>\n\n<h5>Das Tagungsprogramm:</h5>\n<ol><li>Donald G. Daviau (Riverside): Der Austropäer Hermann Bahr. Der Anreger der europäischen Moderne in Österreich</li><li>Roger Bauer (München): Der interationale Hintergrund von Hermann Bahrs \"Überwindung\" der Décadence</li><li>Peter Sprengel (Berlin): Hermann Bahrs Roman \"Die gute Schule\" (1890) im literaturgeschichtlichen Kontext</li><li>Dieter W. Adolphs (Houghton, USA): Hermann Bahrs kulturkritische Revision der Moderne in seinem essayistischen und literarischen Werk der Jahre 1905 und 1906</li><li>Gregor Streim (Berlin): Vom \"unrettbaren Ich\" zur europäischen Idee. Hermann Bahr als politischer Publizist</li><li>Lukas Mayerhofer (Wien): Herman Bahr und Henrik Ibsen</li><li>Anton Mayer (Wien): Hermann Bahr und der Dichterkreis \"Jung-Wien\" - die Überwindung von Naturalismus und Décadence</li><li>Alfred Doppler (Innsbruck): Arthur Schnitzler und Hermann Bahr</li><li>Kurt Ifkovits (Wien): Die Bahr-Rezeption in der \"Insel\"</li><li>Markus Meier (Lugano): Der eigene Faust, Hamlet, Don Juan: Zum Zusammenspiel von europäischer Kultur und \"persönlichem Mythos\" in Hermann Bahrs literarischem Werk</li><li>Konstanze Fliedl (Wien): Hermann Bahr und das Judentum</li><li>Richard Reichensperger (Wien): Die europäische Moderne bei Hermann Bahr</li><li>Norbert Bachleitner (Wien): Hermann Bahr und die französische Literatur</li><li>Alexej Zerebin (St. Petersburg): Hermann Bahrs \"Russische Reise\" als \"Petersburger Text\"</li><li>Gotthart Wunberg (Wien/Tübingen): Hermann Bahr - ein Fall für die Kulturwissenschaften?</li><li>Eugenija Ehgartner-Jovinac (Wien): Hermann Bahrs kulturelle Beziehung zu Kroatien</li><li>Viktor Zmegac (Zagreb): Hermann Bahr und die bildende Kunst der Moderne.</li></ol>",
+      "summary": null
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "016d417b-5c75-4303-8420-18e221e9e269",
+        "meta": {
+          "drupal_internal__target_id": "page"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/aa24da5c-6a34-4601-9ff7-acecbae92732/node_type?resourceVersion=id%3A4065"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/aa24da5c-6a34-4601-9ff7-acecbae92732/relationships/node_type?resourceVersion=id%3A4065"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/aa24da5c-6a34-4601-9ff7-acecbae92732/revision_uid?resourceVersion=id%3A4065"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/aa24da5c-6a34-4601-9ff7-acecbae92732/relationships/revision_uid?resourceVersion=id%3A4065"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/aa24da5c-6a34-4601-9ff7-acecbae92732/uid?resourceVersion=id%3A4065"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/aa24da5c-6a34-4601-9ff7-acecbae92732/relationships/uid?resourceVersion=id%3A4065"
+        }
+      }
+    }
+  }
+}

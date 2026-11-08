@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "5972e3cc-ec5a-4840-bf91-1957201c3be6",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/5972e3cc-ec5a-4840-bf91-1957201c3be6?resourceVersion=id%3A2578"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/5972e3cc-ec5a-4840-bf91-1957201c3be6?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38757,
+    "drupal_internal__vid": 2578,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Germinie Lacerteux",
+    "created": "2011-01-25T20:07:05+00:00",
+    "changed": "2012-01-02T15:18:49+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38757",
+      "pid": 505,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahr war in der zweiten Aufführung der von einem Skandal begleiteten Inszenierung von Zolas Stück \"Germinie Lacerteux\" vermutlich am 19. Dezember 1888 (die Première war am 18.). Sein Text darüber erscheint in den Deutschen Worten und in Folge in \"Zur Kritik der Moderne\" und noch 1920 erinnert er sich an das Erscheinen der Réjane.",
+      "format": "full_html",
+      "processed": "Bahr war in der zweiten Aufführung der von einem Skandal begleiteten Inszenierung von Zolas Stück \"Germinie Lacerteux\" vermutlich am 19. Dezember 1888 (die Première war am 18.). Sein Text darüber erscheint in den Deutschen Worten und in Folge in \"Zur Kritik der Moderne\" und noch 1920 erinnert er sich an das Erscheinen der Réjane.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1888-12-19",
+      "end_value": "1888-12-19"
+    },
+    "field_sources": [
+      "Brief an den Vater, 22.12.1888",
+      "Hermann Bahr: Germinie Lacerteux. (Nach dem Roman von Edmond und Jules de Goncourt für die Bühne bearbeitet von Edmond de Goncourt. Zum ersten Male aufgeführt auf dem \"Théâtre national de l'Odéon\" am 18. December 1888). Deutsche Worte, Wien, 9 (1889) #3 (März), 123-134. Buchausgabe: Zur Kritik der Moderne, 148-162",
+      "Labyrinth der Gegenwart, 163."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5972e3cc-ec5a-4840-bf91-1957201c3be6/node_type?resourceVersion=id%3A2578"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5972e3cc-ec5a-4840-bf91-1957201c3be6/relationships/node_type?resourceVersion=id%3A2578"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5972e3cc-ec5a-4840-bf91-1957201c3be6/revision_uid?resourceVersion=id%3A2578"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5972e3cc-ec5a-4840-bf91-1957201c3be6/relationships/revision_uid?resourceVersion=id%3A2578"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5972e3cc-ec5a-4840-bf91-1957201c3be6/uid?resourceVersion=id%3A2578"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5972e3cc-ec5a-4840-bf91-1957201c3be6/relationships/uid?resourceVersion=id%3A2578"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5972e3cc-ec5a-4840-bf91-1957201c3be6/field_event_type?resourceVersion=id%3A2578"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5972e3cc-ec5a-4840-bf91-1957201c3be6/relationships/field_event_type?resourceVersion=id%3A2578"
+        }
+      }
+    }
+  }
+}

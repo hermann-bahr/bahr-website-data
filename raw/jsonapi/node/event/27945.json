@@ -1,0 +1,114 @@
+{
+  "type": "node--event",
+  "id": "92d0ae50-23c5-4419-894f-2714691fb3aa",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/92d0ae50-23c5-4419-894f-2714691fb3aa?resourceVersion=id%3A2286"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/92d0ae50-23c5-4419-894f-2714691fb3aa?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27945,
+    "drupal_internal__vid": 2286,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Bayreuth",
+    "created": "2010-07-19T14:37:27+00:00",
+    "changed": "2011-01-31T16:11:52+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/27945",
+      "pid": 120,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Im November 1911, vordatiert auf 1912, erscheint die einzige Ko-Autorschaft Bahrs bei einem kritischen Werk, \"Bayreuth\" bei Rowohlt. Die ersten drei Texte über verschiedene Aspekte von Wagners Opern in Bayreuth stammen von Bahrs Frau Anna Mildenburg, die Texte vier bis neun von Bahr.",
+      "format": "full_html",
+      "processed": "Im November 1911, vordatiert auf 1912, erscheint die einzige Ko-Autorschaft Bahrs bei einem kritischen Werk, \"Bayreuth\" bei Rowohlt. Die ersten drei Texte über verschiedene Aspekte von Wagners Opern in Bayreuth stammen von Bahrs Frau Anna Mildenburg, die Texte vier bis neun von Bahr.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1911-11-01",
+      "end_value": "1911-11-01"
+    },
+    "field_sources": []
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/92d0ae50-23c5-4419-894f-2714691fb3aa/node_type?resourceVersion=id%3A2286"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/92d0ae50-23c5-4419-894f-2714691fb3aa/relationships/node_type?resourceVersion=id%3A2286"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/92d0ae50-23c5-4419-894f-2714691fb3aa/revision_uid?resourceVersion=id%3A2286"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/92d0ae50-23c5-4419-894f-2714691fb3aa/relationships/revision_uid?resourceVersion=id%3A2286"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/92d0ae50-23c5-4419-894f-2714691fb3aa/uid?resourceVersion=id%3A2286"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/92d0ae50-23c5-4419-894f-2714691fb3aa/relationships/uid?resourceVersion=id%3A2286"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "29eb2d1e-f275-4ca0-a532-a2a05ef92e13",
+          "meta": {
+            "drupal_internal__target_id": 6
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/92d0ae50-23c5-4419-894f-2714691fb3aa/field_event_type?resourceVersion=id%3A2286"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/92d0ae50-23c5-4419-894f-2714691fb3aa/relationships/field_event_type?resourceVersion=id%3A2286"
+        }
+      }
+    }
+  }
+}

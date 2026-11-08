@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "90c558b1-8597-4f0f-b4de-f02eb7a0e360",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/90c558b1-8597-4f0f-b4de-f02eb7a0e360?resourceVersion=id%3A2342"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/90c558b1-8597-4f0f-b4de-f02eb7a0e360?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28010,
+    "drupal_internal__vid": 2342,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Anna Mildenburg",
+    "created": "2010-07-27T15:16:33+00:00",
+    "changed": "2011-10-03T15:25:29+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28010",
+      "pid": 176,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahr sieht Anna Mildenburg zum ersten Mal am 6. September 1904 in \"Tristan und Isolde\", inszeniert von Gustav Mahler.[1]  Zwei Tage später beginnt er eine Rezension so, noch immer unter dem Einfluss des \"Tristan\":<blockquote>Da war gestern ein Abend, so von bangen Rätseln und irren Seligkeiten voll, wie solche nur in diesem einzigen Jahre sind; und der Himmel war ein Spiegel, aus dem eine silberne Kugel schimmern würde, und noch lag es in der weichen Luft wie von heißen Küssen des Sommers und schon wie von der scheuen Traurigkeit des Herbstes. [2]</blockquote>Usw. usf. Er ist verliebt. Wenige Wochen später beginnt das Verhältnis mit seiner späteren zweiten Frau. Fas Leben lang wird er seine Frau singen zu hören als eine seiner zentralen Kunsterfahrungen nennen. ",
+      "format": "full_html",
+      "processed": "Bahr sieht Anna Mildenburg zum ersten Mal am 6. September 1904 in \"Tristan und Isolde\", inszeniert von Gustav Mahler.[1]  Zwei Tage später beginnt er eine Rezension so, noch immer unter dem Einfluss des \"Tristan\":<blockquote>Da war gestern ein Abend, so von bangen Rätseln und irren Seligkeiten voll, wie solche nur in diesem einzigen Jahre sind; und der Himmel war ein Spiegel, aus dem eine silberne Kugel schimmern würde, und noch lag es in der weichen Luft wie von heißen Küssen des Sommers und schon wie von der scheuen Traurigkeit des Herbstes. [2]</blockquote>Usw. usf. Er ist verliebt. Wenige Wochen später beginnt das Verhältnis mit seiner späteren zweiten Frau. Fas Leben lang wird er seine Frau singen zu hören als eine seiner zentralen Kunsterfahrungen nennen. ",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1904-09-06",
+      "end_value": "1904-09-06"
+    },
+    "field_sources": [
+      "[1] Tagebuch (Csàky), IV",
+      "[2] H. B.: Theater und Kunst. Burgtheater. Österreichische Volks-Zeitung, 50 (1904) #251, 5 (2 Kreuzer-Ausgabe: 9). (10.9.1904)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/90c558b1-8597-4f0f-b4de-f02eb7a0e360/node_type?resourceVersion=id%3A2342"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/90c558b1-8597-4f0f-b4de-f02eb7a0e360/relationships/node_type?resourceVersion=id%3A2342"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/90c558b1-8597-4f0f-b4de-f02eb7a0e360/revision_uid?resourceVersion=id%3A2342"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/90c558b1-8597-4f0f-b4de-f02eb7a0e360/relationships/revision_uid?resourceVersion=id%3A2342"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/90c558b1-8597-4f0f-b4de-f02eb7a0e360/uid?resourceVersion=id%3A2342"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/90c558b1-8597-4f0f-b4de-f02eb7a0e360/relationships/uid?resourceVersion=id%3A2342"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/90c558b1-8597-4f0f-b4de-f02eb7a0e360/field_event_type?resourceVersion=id%3A2342"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/90c558b1-8597-4f0f-b4de-f02eb7a0e360/relationships/field_event_type?resourceVersion=id%3A2342"
+        }
+      }
+    }
+  }
+}

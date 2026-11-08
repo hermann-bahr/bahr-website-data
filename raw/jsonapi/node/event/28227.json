@@ -1,0 +1,114 @@
+{
+  "type": "node--event",
+  "id": "3d949ef2-eaad-48ad-b129-32903e3abfab",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/3d949ef2-eaad-48ad-b129-32903e3abfab?resourceVersion=id%3A2526"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/3d949ef2-eaad-48ad-b129-32903e3abfab?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28227,
+    "drupal_internal__vid": 2526,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Morgen",
+    "created": "2010-10-27T15:38:11+00:00",
+    "changed": "2011-09-05T09:19:18+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28227",
+      "pid": 364,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Fast zwei Jahre nachdem das letzte \"Tagebuch\" in Der Weg erschienen ist, belebt Bahr seine Kolumne wieder. Diesmal für das Blatt Morgen, wo es zwischen 31. Januar und 4. Dezember 1908 neunmal erscheint.",
+      "format": "full_html",
+      "processed": "Fast zwei Jahre nachdem das letzte \"Tagebuch\" in Der Weg erschienen ist, belebt Bahr seine Kolumne wieder. Diesmal für das Blatt Morgen, wo es zwischen 31. Januar und 4. Dezember 1908 neunmal erscheint.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1908-01-31",
+      "end_value": "1908-01-31"
+    },
+    "field_sources": []
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3d949ef2-eaad-48ad-b129-32903e3abfab/node_type?resourceVersion=id%3A2526"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3d949ef2-eaad-48ad-b129-32903e3abfab/relationships/node_type?resourceVersion=id%3A2526"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3d949ef2-eaad-48ad-b129-32903e3abfab/revision_uid?resourceVersion=id%3A2526"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3d949ef2-eaad-48ad-b129-32903e3abfab/relationships/revision_uid?resourceVersion=id%3A2526"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3d949ef2-eaad-48ad-b129-32903e3abfab/uid?resourceVersion=id%3A2526"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3d949ef2-eaad-48ad-b129-32903e3abfab/relationships/uid?resourceVersion=id%3A2526"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "b7b074bd-6489-4a96-84e9-9c8184cda171",
+          "meta": {
+            "drupal_internal__target_id": 7
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3d949ef2-eaad-48ad-b129-32903e3abfab/field_event_type?resourceVersion=id%3A2526"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3d949ef2-eaad-48ad-b129-32903e3abfab/relationships/field_event_type?resourceVersion=id%3A2526"
+        }
+      }
+    }
+  }
+}

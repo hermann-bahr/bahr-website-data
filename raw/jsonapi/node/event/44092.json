@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "f38b2733-b0e0-44a2-89af-f6667eebb86d",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f38b2733-b0e0-44a2-89af-f6667eebb86d?resourceVersion=id%3A3009"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f38b2733-b0e0-44a2-89af-f6667eebb86d?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44092,
+    "drupal_internal__vid": 3009,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Katholischer Wandel und sexuelles Begehren",
+    "created": "2011-09-08T11:14:09+00:00",
+    "changed": "2011-09-08T11:58:02+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44092",
+      "pid": 987,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Die Auswirkungen des katholischen Wandels Bahrs auf seine Beziehung zu seiner Frau, schildert Gabriele Parizek auf Grundlage der Tagebücher Anna Bahr-Mildenburgs so:<blockquote>Die Festspiele 1914 waren nicht nur überschattet vom Beginn des ersten Weltkrieges […] sondern für die Mildenburg privat auch vom Persönlichkeitswandel ihres Ehemannes, der sich vom potenten Liebhaber in einen frommen Kirchenbesucher verwandelte, was ihr großen Kummer bereitet hat. Sie litt sehr darunter, als Frau nicht mehr von ihm begehrt zu werden. Es war merkwürdig für sie, auf einmal einen Mann zu haben, der Heiligenbilder bei sich trägt und die Gebetbücher am Nachtkästchen liegen hat, [der] alle Tage in die Messe und zur Kommunion geht. Noch trug sie die ganze Sache mit Humor und bemerkte \"Dann sagten wir uns gute Nacht u. der Heilige u. die Unheilige giengen (sic!) in ihre Zimmer u. in ihre heiligen Betten!\" Doch schon wenige Jahre später wurden ihre Klagen häufiger und überschatteten sichtlich ihre Leistungen als Künstlerin</blockquote>\r\n",
+      "format": "full_html",
+      "processed": "Die Auswirkungen des katholischen Wandels Bahrs auf seine Beziehung zu seiner Frau, schildert Gabriele Parizek auf Grundlage der Tagebücher Anna Bahr-Mildenburgs so:<blockquote>Die Festspiele 1914 waren nicht nur überschattet vom Beginn des ersten Weltkrieges […] sondern für die Mildenburg privat auch vom Persönlichkeitswandel ihres Ehemannes, der sich vom potenten Liebhaber in einen frommen Kirchenbesucher verwandelte, was ihr großen Kummer bereitet hat. Sie litt sehr darunter, als Frau nicht mehr von ihm begehrt zu werden. Es war merkwürdig für sie, auf einmal einen Mann zu haben, der Heiligenbilder bei sich trägt und die Gebetbücher am Nachtkästchen liegen hat, [der] alle Tage in die Messe und zur Kommunion geht. Noch trug sie die ganze Sache mit Humor und bemerkte \"Dann sagten wir uns gute Nacht u. der Heilige u. die Unheilige giengen (sic!) in ihre Zimmer u. in ihre heiligen Betten!\" Doch schon wenige Jahre später wurden ihre Klagen häufiger und überschatteten sichtlich ihre Leistungen als Künstlerin</blockquote>\n",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1914-08-01",
+      "end_value": "1914-08-01"
+    },
+    "field_sources": [
+      "Gabriele Parizek: Anna Bahr-Mildenburg [Dissertation], 78. Sie zitiert: A Ba-MM Karton 93 und [nicht nachweisbar] Bayreuth-Buch, 56, vgl. auch S. 196, wo sie auf  Bayreuther Tagebuch 1914, I, S. 4. verweist."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f38b2733-b0e0-44a2-89af-f6667eebb86d/node_type?resourceVersion=id%3A3009"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f38b2733-b0e0-44a2-89af-f6667eebb86d/relationships/node_type?resourceVersion=id%3A3009"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f38b2733-b0e0-44a2-89af-f6667eebb86d/revision_uid?resourceVersion=id%3A3009"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f38b2733-b0e0-44a2-89af-f6667eebb86d/relationships/revision_uid?resourceVersion=id%3A3009"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f38b2733-b0e0-44a2-89af-f6667eebb86d/uid?resourceVersion=id%3A3009"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f38b2733-b0e0-44a2-89af-f6667eebb86d/relationships/uid?resourceVersion=id%3A3009"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f38b2733-b0e0-44a2-89af-f6667eebb86d/field_event_type?resourceVersion=id%3A3009"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f38b2733-b0e0-44a2-89af-f6667eebb86d/relationships/field_event_type?resourceVersion=id%3A3009"
+        }
+      }
+    }
+  }
+}

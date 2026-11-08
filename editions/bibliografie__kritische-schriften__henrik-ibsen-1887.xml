@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bibliografie__kritische-schriften__henrik-ibsen-1887" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Henrik Ibsen (1887)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">28274</idno>
+        <idno type="drupal-alias">/bibliografie/28274</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bibliografie/28274">https://bahr.univie.ac.at/bibliografie/28274</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+        <bibl type="beschriebene-ausgabe">
+          <author>Hermann Bahr</author>
+          <title type="main">Henrik Ibsen</title>
+          <title type="sub">Sonderabdruck aus dem 8. und 9. (August-September-) Heft der "Deutschen Worte"</title>
+          <pubPlace>Wien</pubPlace>
+          <publisher>Verlag der Deutschen Worte (Engelbert Pernerstorfer)</publisher>
+          <date>1887</date>
+          <extent>18</extent>
+          <note>Bahr konnte seinem Vater am 14.11.1887 für die "nächsten Tage" drei Exemplare versprechen.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="1" key="bibliografie">Bibliografie</term>
+          <term n="4" key="kritische-schriften">Kritische Schriften</term>
+          <term n="8" key="henrik-ibsen-1887" type="eintrag">Henrik Ibsen (1887)</term>
+        </keywords>
+        <classCode scheme="drupal-type">bibliographie</classCode>
+        <keywords scheme="bibliografie_type">
+          <term>Kritische Schriften</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2010-11-24T14:24:15+00:00" type="created">angelegt in Drupal</change>
+      <change when="2011-11-21T14:16:14+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="bib">
+        <head>Bibliografie</head>
+        <table type="bibliografie">
+          <row>
+            <cell>Autor:</cell>
+            <cell>Hermann Bahr</cell>
+          </row>
+          <row>
+            <cell>Titel:</cell>
+            <cell>Henrik Ibsen</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>Sonderabdruck aus dem 8. und 9. (August-September-) Heft der "Deutschen Worte"</cell>
+          </row>
+          <row>
+            <cell>Stadt:</cell>
+            <cell>Wien</cell>
+          </row>
+          <row>
+            <cell>Verlag:</cell>
+            <cell>Verlag der Deutschen Worte (Engelbert Pernerstorfer)</cell>
+          </row>
+          <row>
+            <cell>Jahr:</cell>
+            <cell>1887</cell>
+          </row>
+          <row>
+            <cell/>
+          </row>
+          <row>
+            <cell>Seiten:</cell>
+            <cell>18</cell>
+          </row>
+          <row>
+            <cell>Anm.:</cell>
+            <cell>Bahr konnte seinem Vater am 14.11.1887 für die "nächsten Tage" drei Exemplare versprechen.</cell>
+          </row>
+        </table>
+      </div>
+      <div xml:id="digit">
+        <head>Digitalisat</head>
+        <p>
+          <ref target="https://bahr.univie.ac.at/sites/all/txt/deutsche-worte/1887_ibsen_sonderabdruck.pdf" type="sites-all">[Text]</ref>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

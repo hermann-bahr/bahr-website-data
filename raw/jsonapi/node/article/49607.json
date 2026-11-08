@@ -1,0 +1,112 @@
+{
+  "type": "node--article",
+  "id": "f183075f-4d3b-4b5a-ad5d-27d914a8c5cb",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/article/f183075f-4d3b-4b5a-ad5d-27d914a8c5cb?resourceVersion=id%3A4017"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/article/f183075f-4d3b-4b5a-ad5d-27d914a8c5cb?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49607,
+    "drupal_internal__vid": 4017,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:47:58+00:00",
+    "status": true,
+    "title": "Stammbaum Bahrs",
+    "created": "2011-11-15T11:16:49+00:00",
+    "changed": "2011-11-16T11:25:33+00:00",
+    "promote": true,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/article/49607",
+      "pid": 1423,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "1937/38, wenige Jahre nach Bahrs Tod, musste die Witwe Bahrs, Anna Bahr-Mildenburg den \"Ariernachweis\" für sich und Hermann erstellen. Das führte zu einigen Schwierigkeiten, schließlich sind, wie man aus dem \"Selbstbildnis\" ersehen kann, die Verwandtschaftsverhältnisse kompliziert und umfassen einen großen geografischen Raum, der schon längst nicht mehr zur österreichischen Monarchie gehörte. Sie beschäftigte einen Neffen, kontaktierte Jaroslav Kvapil in Prag und letztlich gelang es ihr, bis zu den Urgroßeltern und teilweise weiter, Bahrs Abstammung zu klären. Eine Kiste mit allen Dokumenten zum \"Ariernachweis\" findet sich in ihrem Nachlass im Österreichischen Theatermuseum, woraus ich die Familienverhältnisse und Lebensdaten (aufs Jahr genau) zusammenstellte. Nicht gezielt angeführt werden die Ortschaften und ob alle Familien vollständig sind. Obwohl schon zu Bahrs Lebzeiten sein Eintreten für Juden den Verdacht entstehen ließ, selbst einer zu sein, wurde Bahrs \"arische\" Abstammung erfolgreich bewiesen. Schon im \"Selbstbildnis\" wird aber vermerkt, dass Tante Anna mit Salomo Robicsek mit einem Juden verheiratet war und auch Bahrs erste Frau war jüdischer Abstammung.\r\n<a href=\"http://www.univie.ac.at/bahr/sites/all/stammbaum/index.html\">Stammbaum Hermann Bahrs</a>",
+      "format": "full_html",
+      "processed": "1937/38, wenige Jahre nach Bahrs Tod, musste die Witwe Bahrs, Anna Bahr-Mildenburg den \"Ariernachweis\" für sich und Hermann erstellen. Das führte zu einigen Schwierigkeiten, schließlich sind, wie man aus dem \"Selbstbildnis\" ersehen kann, die Verwandtschaftsverhältnisse kompliziert und umfassen einen großen geografischen Raum, der schon längst nicht mehr zur österreichischen Monarchie gehörte. Sie beschäftigte einen Neffen, kontaktierte Jaroslav Kvapil in Prag und letztlich gelang es ihr, bis zu den Urgroßeltern und teilweise weiter, Bahrs Abstammung zu klären. Eine Kiste mit allen Dokumenten zum \"Ariernachweis\" findet sich in ihrem Nachlass im Österreichischen Theatermuseum, woraus ich die Familienverhältnisse und Lebensdaten (aufs Jahr genau) zusammenstellte. Nicht gezielt angeführt werden die Ortschaften und ob alle Familien vollständig sind. Obwohl schon zu Bahrs Lebzeiten sein Eintreten für Juden den Verdacht entstehen ließ, selbst einer zu sein, wurde Bahrs \"arische\" Abstammung erfolgreich bewiesen. Schon im \"Selbstbildnis\" wird aber vermerkt, dass Tante Anna mit Salomo Robicsek mit einem Juden verheiratet war und auch Bahrs erste Frau war jüdischer Abstammung.\n<a href=\"http://www.univie.ac.at/bahr/sites/all/stammbaum/index.html\">Stammbaum Hermann Bahrs</a>",
+      "summary": null
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "2591b802-2e12-43ea-999f-36ccdccd1176",
+        "meta": {
+          "drupal_internal__target_id": "article"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/f183075f-4d3b-4b5a-ad5d-27d914a8c5cb/node_type?resourceVersion=id%3A4017"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/f183075f-4d3b-4b5a-ad5d-27d914a8c5cb/relationships/node_type?resourceVersion=id%3A4017"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/f183075f-4d3b-4b5a-ad5d-27d914a8c5cb/revision_uid?resourceVersion=id%3A4017"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/f183075f-4d3b-4b5a-ad5d-27d914a8c5cb/relationships/revision_uid?resourceVersion=id%3A4017"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/f183075f-4d3b-4b5a-ad5d-27d914a8c5cb/uid?resourceVersion=id%3A4017"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/f183075f-4d3b-4b5a-ad5d-27d914a8c5cb/relationships/uid?resourceVersion=id%3A4017"
+        }
+      }
+    },
+    "field_image": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/f183075f-4d3b-4b5a-ad5d-27d914a8c5cb/field_image?resourceVersion=id%3A4017"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/f183075f-4d3b-4b5a-ad5d-27d914a8c5cb/relationships/field_image?resourceVersion=id%3A4017"
+        }
+      }
+    },
+    "field_tags": {
+      "data": [],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/f183075f-4d3b-4b5a-ad5d-27d914a8c5cb/field_tags?resourceVersion=id%3A4017"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/f183075f-4d3b-4b5a-ad5d-27d914a8c5cb/relationships/field_tags?resourceVersion=id%3A4017"
+        }
+      }
+    }
+  }
+}

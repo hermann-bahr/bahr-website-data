@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "58d63d72-4ed9-4ae7-aeb1-3a135a41249f",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/58d63d72-4ed9-4ae7-aeb1-3a135a41249f?resourceVersion=id%3A3272"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/58d63d72-4ed9-4ae7-aeb1-3a135a41249f?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49429,
+    "drupal_internal__vid": 3272,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Wieder Katholik",
+    "created": "2011-10-19T12:37:19+00:00",
+    "changed": "2011-10-19T12:37:19+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49429",
+      "pid": 1253,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 21. August 1909 meldet der Berliner Börsencourier, dass Bahr wegen der Heirat mit Anna Mildenburg wieder in den Schoß der katholischen Kirche heimgekehrt sei. - Er war für seine erste Ehe ausgetreten.",
+      "format": "full_html",
+      "processed": "Am 21. August 1909 meldet der Berliner Börsencourier, dass Bahr wegen der Heirat mit Anna Mildenburg wieder in den Schoß der katholischen Kirche heimgekehrt sei. - Er war für seine erste Ehe ausgetreten.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1909-08-21",
+      "end_value": "1909-08-21"
+    },
+    "field_sources": [
+      "Berliner Börsen-Courier, 41 (1909) #398, 1. Beilage, 2. (21.8.1909)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/58d63d72-4ed9-4ae7-aeb1-3a135a41249f/node_type?resourceVersion=id%3A3272"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/58d63d72-4ed9-4ae7-aeb1-3a135a41249f/relationships/node_type?resourceVersion=id%3A3272"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/58d63d72-4ed9-4ae7-aeb1-3a135a41249f/revision_uid?resourceVersion=id%3A3272"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/58d63d72-4ed9-4ae7-aeb1-3a135a41249f/relationships/revision_uid?resourceVersion=id%3A3272"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/58d63d72-4ed9-4ae7-aeb1-3a135a41249f/uid?resourceVersion=id%3A3272"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/58d63d72-4ed9-4ae7-aeb1-3a135a41249f/relationships/uid?resourceVersion=id%3A3272"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/58d63d72-4ed9-4ae7-aeb1-3a135a41249f/field_event_type?resourceVersion=id%3A3272"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/58d63d72-4ed9-4ae7-aeb1-3a135a41249f/relationships/field_event_type?resourceVersion=id%3A3272"
+        }
+      }
+    }
+  }
+}

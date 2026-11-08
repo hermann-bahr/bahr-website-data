@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "23a4bb65-23d4-40de-9820-aec80fe70fcd",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/23a4bb65-23d4-40de-9820-aec80fe70fcd?resourceVersion=id%3A3270"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/23a4bb65-23d4-40de-9820-aec80fe70fcd?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49427,
+    "drupal_internal__vid": 3270,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "\"Konzert\" beendet",
+    "created": "2011-10-19T12:33:12+00:00",
+    "changed": "2011-12-20T13:04:17+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49427",
+      "pid": 1251,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<blockquote>Und endlich 1909 […] da las ich der Mildenburg in ihrem Gärtchen in der Firmiangasse zu Sankt Veit unterm blühenden Apfelbaum aus noch feuchter Handschrift mein neues Lustspiel vor: \"Das Konzert\". [1]</blockquote>Am 20. Mai 1909 meldet der Berliner Börsen-Courier[2] die Fertigstellung von Bahrs neuem - und wie sich erweisen wird, erfolgreichsten - Lustspiel, \"Das Konzert\". Davon ahnt Bahr am 19. Mai (gegenüber Strauß) nichts:<blockquote>Ich habe ein neues Lustspiel fertig. Mich hats sehr amüsiert. Es wird sicher durchfallen. [3]</blockquote>",
+      "format": "full_html",
+      "processed": "<blockquote>Und endlich 1909 […] da las ich der Mildenburg in ihrem Gärtchen in der Firmiangasse zu Sankt Veit unterm blühenden Apfelbaum aus noch feuchter Handschrift mein neues Lustspiel vor: \"Das Konzert\". [1]</blockquote>Am 20. Mai 1909 meldet der Berliner Börsen-Courier[2] die Fertigstellung von Bahrs neuem - und wie sich erweisen wird, erfolgreichsten - Lustspiel, \"Das Konzert\". Davon ahnt Bahr am 19. Mai (gegenüber Strauß) nichts:<blockquote>Ich habe ein neues Lustspiel fertig. Mich hats sehr amüsiert. Es wird sicher durchfallen. [3]</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1909-05-20",
+      "end_value": "1909-05-20"
+    },
+    "field_sources": [
+      "[1] Hermann Bahr: Tagebuch. 1. Mai. In: 1919. Tagebuch, 147-152, hier: 152",
+      "[2] Berliner Börsen-Courier, 41 (1909) #233, 1. Beilage, 2. (20.5.1909)",
+      "[3] Hermann Bahr: Meister und Meisterbriefe um Hermann Bahr. Aus seinen Entwürfen, Tagebüchern und seinem Briefwechsel. Ausgewählt und eingeleitet von Joseph Gregor. Wien: Hermann Bauer 1947, 73. (An R. Strauß, 19.5.1909)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/23a4bb65-23d4-40de-9820-aec80fe70fcd/node_type?resourceVersion=id%3A3270"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/23a4bb65-23d4-40de-9820-aec80fe70fcd/relationships/node_type?resourceVersion=id%3A3270"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/23a4bb65-23d4-40de-9820-aec80fe70fcd/revision_uid?resourceVersion=id%3A3270"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/23a4bb65-23d4-40de-9820-aec80fe70fcd/relationships/revision_uid?resourceVersion=id%3A3270"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/23a4bb65-23d4-40de-9820-aec80fe70fcd/uid?resourceVersion=id%3A3270"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/23a4bb65-23d4-40de-9820-aec80fe70fcd/relationships/uid?resourceVersion=id%3A3270"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/23a4bb65-23d4-40de-9820-aec80fe70fcd/field_event_type?resourceVersion=id%3A3270"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/23a4bb65-23d4-40de-9820-aec80fe70fcd/relationships/field_event_type?resourceVersion=id%3A3270"
+        }
+      }
+    }
+  }
+}

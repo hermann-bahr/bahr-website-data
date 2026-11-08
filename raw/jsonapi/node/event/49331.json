@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "f2335dbb-bd1c-406e-99ea-ca415caf36fc",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f2335dbb-bd1c-406e-99ea-ca415caf36fc?resourceVersion=id%3A3178"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f2335dbb-bd1c-406e-99ea-ca415caf36fc?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49331,
+    "drupal_internal__vid": 3178,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Redlich",
+    "created": "2011-10-11T07:56:06+00:00",
+    "changed": "2011-10-11T07:56:06+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49331",
+      "pid": 1157,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "In einem Empfehlungsschreiben datiert Josef Redlich seine Bekanntschaft mit Bahr auf das Jahr 1894 und die Gründung der \"Zeit\". (Im \"Briefwechsel mit dem Vater\" ist Redlich im Index falsch angegeben.)",
+      "format": "full_html",
+      "processed": "In einem Empfehlungsschreiben datiert Josef Redlich seine Bekanntschaft mit Bahr auf das Jahr 1894 und die Gründung der \"Zeit\". (Im \"Briefwechsel mit dem Vater\" ist Redlich im Index falsch angegeben.)",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1894-01-01",
+      "end_value": "1894-01-01"
+    },
+    "field_sources": [
+      "Bahr/Redlich, 70. (21.1.1910)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f2335dbb-bd1c-406e-99ea-ca415caf36fc/node_type?resourceVersion=id%3A3178"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f2335dbb-bd1c-406e-99ea-ca415caf36fc/relationships/node_type?resourceVersion=id%3A3178"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f2335dbb-bd1c-406e-99ea-ca415caf36fc/revision_uid?resourceVersion=id%3A3178"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f2335dbb-bd1c-406e-99ea-ca415caf36fc/relationships/revision_uid?resourceVersion=id%3A3178"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f2335dbb-bd1c-406e-99ea-ca415caf36fc/uid?resourceVersion=id%3A3178"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f2335dbb-bd1c-406e-99ea-ca415caf36fc/relationships/uid?resourceVersion=id%3A3178"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f2335dbb-bd1c-406e-99ea-ca415caf36fc/field_event_type?resourceVersion=id%3A3178"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f2335dbb-bd1c-406e-99ea-ca415caf36fc/relationships/field_event_type?resourceVersion=id%3A3178"
+        }
+      }
+    }
+  }
+}

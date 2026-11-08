@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "fe1cfe0e-2488-495c-ac3d-29640d037dbf",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/fe1cfe0e-2488-495c-ac3d-29640d037dbf?resourceVersion=id%3A2283"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/fe1cfe0e-2488-495c-ac3d-29640d037dbf?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27941,
+    "drupal_internal__vid": 2283,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Austriaca",
+    "created": "2010-07-19T14:21:11+00:00",
+    "changed": "2011-10-11T08:10:37+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/27941",
+      "pid": 117,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahrs Artikelsammlung mit vorwiegend politischen Texten zu Österreich erscheint im September 1911 bei S. Fischer in Berlin",
+      "format": "full_html",
+      "processed": "Bahrs Artikelsammlung mit vorwiegend politischen Texten zu Österreich erscheint im September 1911 bei S. Fischer in Berlin",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1911-09-21",
+      "end_value": "1911-09-21"
+    },
+    "field_sources": [
+      "Im Nachlass Bahrs sind Rezensionen ab dem 21. September erhalten.",
+      "Redlich bedankt sich am 29. September 1911 bei Bahr für den Erhalt des Buchs (Bahr/Redlich, 76)."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fe1cfe0e-2488-495c-ac3d-29640d037dbf/node_type?resourceVersion=id%3A2283"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fe1cfe0e-2488-495c-ac3d-29640d037dbf/relationships/node_type?resourceVersion=id%3A2283"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fe1cfe0e-2488-495c-ac3d-29640d037dbf/revision_uid?resourceVersion=id%3A2283"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fe1cfe0e-2488-495c-ac3d-29640d037dbf/relationships/revision_uid?resourceVersion=id%3A2283"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fe1cfe0e-2488-495c-ac3d-29640d037dbf/uid?resourceVersion=id%3A2283"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fe1cfe0e-2488-495c-ac3d-29640d037dbf/relationships/uid?resourceVersion=id%3A2283"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "da42ac4a-f48f-4397-af4d-b66e913825fb",
+          "meta": {
+            "drupal_internal__target_id": 3
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fe1cfe0e-2488-495c-ac3d-29640d037dbf/field_event_type?resourceVersion=id%3A2283"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fe1cfe0e-2488-495c-ac3d-29640d037dbf/relationships/field_event_type?resourceVersion=id%3A2283"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "bfdda43f-89b1-4712-a65d-2c45394e46d2",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/bfdda43f-89b1-4712-a65d-2c45394e46d2?resourceVersion=id%3A3513"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/bfdda43f-89b1-4712-a65d-2c45394e46d2?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49740,
+    "drupal_internal__vid": 3513,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Richard Strauß",
+    "created": "2011-12-20T15:48:40+00:00",
+    "changed": "2011-12-20T15:49:40+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49740",
+      "pid": 1553,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Von 29. November bis 1. Dezember 1915 will Richard Strauß mit seiner Gattin Pauline in Salzburg sein. Wenngleich nicht sicher ist, ob der Besuch zu dem Termin stattfand, am 20. Dezember bedankt er sich für das ausgedehnte Treffen mit Bahr.",
+      "format": "full_html",
+      "processed": "Von 29. November bis 1. Dezember 1915 will Richard Strauß mit seiner Gattin Pauline in Salzburg sein. Wenngleich nicht sicher ist, ob der Besuch zu dem Termin stattfand, am 20. Dezember bedankt er sich für das ausgedehnte Treffen mit Bahr.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1915-11-29",
+      "end_value": "1915-12-01"
+    },
+    "field_sources": [
+      "Hermann Bahr: Meister und Meisterbriefe um Hermann Bahr. Aus seinen Entwürfen, Tagebüchern und seinem Briefwechsel. Ausgewählt und eingeleitet von Joseph Gregor. Wien: Hermann Bauer 1947, 92. (An Bahr, 21.11.1915 und 20.12.1915)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bfdda43f-89b1-4712-a65d-2c45394e46d2/node_type?resourceVersion=id%3A3513"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bfdda43f-89b1-4712-a65d-2c45394e46d2/relationships/node_type?resourceVersion=id%3A3513"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bfdda43f-89b1-4712-a65d-2c45394e46d2/revision_uid?resourceVersion=id%3A3513"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bfdda43f-89b1-4712-a65d-2c45394e46d2/relationships/revision_uid?resourceVersion=id%3A3513"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bfdda43f-89b1-4712-a65d-2c45394e46d2/uid?resourceVersion=id%3A3513"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bfdda43f-89b1-4712-a65d-2c45394e46d2/relationships/uid?resourceVersion=id%3A3513"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bfdda43f-89b1-4712-a65d-2c45394e46d2/field_event_type?resourceVersion=id%3A3513"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bfdda43f-89b1-4712-a65d-2c45394e46d2/relationships/field_event_type?resourceVersion=id%3A3513"
+        }
+      }
+    }
+  }
+}

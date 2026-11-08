@@ -1,0 +1,112 @@
+{
+  "type": "node--article",
+  "id": "5ff94b40-177a-4ddb-b37e-ffa2d2733e1b",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/article/5ff94b40-177a-4ddb-b37e-ffa2d2733e1b?resourceVersion=id%3A4000"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/article/5ff94b40-177a-4ddb-b37e-ffa2d2733e1b?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 17878,
+    "drupal_internal__vid": 4000,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:47:58+00:00",
+    "status": true,
+    "title": "Wo Bahr draufsteht, ist nicht Bahr drin",
+    "created": "2010-02-03T23:41:35+00:00",
+    "changed": "2011-12-15T10:33:28+00:00",
+    "promote": true,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/article/17878",
+      "pid": 26,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Es musste passieren. Der erste Mal, dass wir eine Fälschung unter dem Namen Bahr haben: Das Tagebuch in der Münchner Jugend, 13 (1908) #47, 1113 ist falsch (zu finden in den Text-Downloads). Eine weitere findet sich, verfasst von Hans Heinrich Twardowski, in der Weltbühne, 14 (1918) #39, 290 vom 26. September 1918 (<a href=\"http://www.archive.org/stream/DieWeltbhne14-21918#page/n301/mode/2up\">Text</a>). Diese wurde am 4. Oktober sogar nachgedruckt in Bahrs richtigem Tagebuch-Blatt, im Neuen Wiener Journal (#275, 4).\r\n\r\nUm eine Mystifikation handelt es sich auch bei der Welttournee Hermann Bahrs, auf die die Prager Faschings-Zeitung (Bohemia) ihn schickte: Er spricht in Lappland (\"Warum sind die Lappländer die intelligenteste Nation der Welt?\"), in Mekka (\"Warum sind die Araber die intelligenteste Nation der Welt?\") und in Kapstadt (\"Warum sind die Buschmänner die intelligenteste Nation der Welt?\").",
+      "format": "full_html",
+      "processed": "Es musste passieren. Der erste Mal, dass wir eine Fälschung unter dem Namen Bahr haben: Das Tagebuch in der Münchner Jugend, 13 (1908) #47, 1113 ist falsch (zu finden in den Text-Downloads). Eine weitere findet sich, verfasst von Hans Heinrich Twardowski, in der Weltbühne, 14 (1918) #39, 290 vom 26. September 1918 (<a href=\"http://www.archive.org/stream/DieWeltbhne14-21918#page/n301/mode/2up\">Text</a>). Diese wurde am 4. Oktober sogar nachgedruckt in Bahrs richtigem Tagebuch-Blatt, im Neuen Wiener Journal (#275, 4).\n\nUm eine Mystifikation handelt es sich auch bei der Welttournee Hermann Bahrs, auf die die Prager Faschings-Zeitung (Bohemia) ihn schickte: Er spricht in Lappland (\"Warum sind die Lappländer die intelligenteste Nation der Welt?\"), in Mekka (\"Warum sind die Araber die intelligenteste Nation der Welt?\") und in Kapstadt (\"Warum sind die Buschmänner die intelligenteste Nation der Welt?\").",
+      "summary": null
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "2591b802-2e12-43ea-999f-36ccdccd1176",
+        "meta": {
+          "drupal_internal__target_id": "article"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/5ff94b40-177a-4ddb-b37e-ffa2d2733e1b/node_type?resourceVersion=id%3A4000"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/5ff94b40-177a-4ddb-b37e-ffa2d2733e1b/relationships/node_type?resourceVersion=id%3A4000"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/5ff94b40-177a-4ddb-b37e-ffa2d2733e1b/revision_uid?resourceVersion=id%3A4000"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/5ff94b40-177a-4ddb-b37e-ffa2d2733e1b/relationships/revision_uid?resourceVersion=id%3A4000"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/5ff94b40-177a-4ddb-b37e-ffa2d2733e1b/uid?resourceVersion=id%3A4000"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/5ff94b40-177a-4ddb-b37e-ffa2d2733e1b/relationships/uid?resourceVersion=id%3A4000"
+        }
+      }
+    },
+    "field_image": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/5ff94b40-177a-4ddb-b37e-ffa2d2733e1b/field_image?resourceVersion=id%3A4000"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/5ff94b40-177a-4ddb-b37e-ffa2d2733e1b/relationships/field_image?resourceVersion=id%3A4000"
+        }
+      }
+    },
+    "field_tags": {
+      "data": [],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/5ff94b40-177a-4ddb-b37e-ffa2d2733e1b/field_tags?resourceVersion=id%3A4000"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/5ff94b40-177a-4ddb-b37e-ffa2d2733e1b/relationships/field_tags?resourceVersion=id%3A4000"
+        }
+      }
+    }
+  }
+}

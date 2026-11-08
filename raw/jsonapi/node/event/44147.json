@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "e916ab49-bd05-4953-8c9b-702160f09fde",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/e916ab49-bd05-4953-8c9b-702160f09fde?resourceVersion=id%3A3063"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/e916ab49-bd05-4953-8c9b-702160f09fde?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44147,
+    "drupal_internal__vid": 3063,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "AS, HvH, Salten, B.-H., Schwarzkopf",
+    "created": "2011-09-14T14:01:24+00:00",
+    "changed": "2011-09-14T14:01:24+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44147",
+      "pid": 1042,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 9. Dezember 1894 aufeinandertreffen von Bahr, Schnitzler, Hofmannsthal, Beer-Hofmann und Gustav Schwarzkopf.",
+      "format": "full_html",
+      "processed": "Am 9. Dezember 1894 aufeinandertreffen von Bahr, Schnitzler, Hofmannsthal, Beer-Hofmann und Gustav Schwarzkopf.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1894-12-09",
+      "end_value": "1894-12-09"
+    },
+    "field_sources": [
+      "Schnitzler: Tagebuch, II, 103."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e916ab49-bd05-4953-8c9b-702160f09fde/node_type?resourceVersion=id%3A3063"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e916ab49-bd05-4953-8c9b-702160f09fde/relationships/node_type?resourceVersion=id%3A3063"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e916ab49-bd05-4953-8c9b-702160f09fde/revision_uid?resourceVersion=id%3A3063"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e916ab49-bd05-4953-8c9b-702160f09fde/relationships/revision_uid?resourceVersion=id%3A3063"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e916ab49-bd05-4953-8c9b-702160f09fde/uid?resourceVersion=id%3A3063"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e916ab49-bd05-4953-8c9b-702160f09fde/relationships/uid?resourceVersion=id%3A3063"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e916ab49-bd05-4953-8c9b-702160f09fde/field_event_type?resourceVersion=id%3A3063"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e916ab49-bd05-4953-8c9b-702160f09fde/relationships/field_event_type?resourceVersion=id%3A3063"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "e452710a-6e19-4bd5-a641-7fbcf7ffaa3c",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/e452710a-6e19-4bd5-a641-7fbcf7ffaa3c?resourceVersion=id%3A2603"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/e452710a-6e19-4bd5-a641-7fbcf7ffaa3c?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38782,
+    "drupal_internal__vid": 2603,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Paris, Brüssel, Antwerpen",
+    "created": "2011-02-01T12:08:44+00:00",
+    "changed": "2011-07-13T16:51:51+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38782",
+      "pid": 530,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 26. Mai 1894 fährt Bahr \"in Vorbereitung\" seiner Wochenschrift \"Die Zeit\" für ein paar Tage nach Paris. Reiseplan: Bis 31.5. im Hotel Bellevue, Avenue de l'Opera; 30.5. Brüssel, Grand Hotel; 2.6. Antwerpen; 4.6. München, Hotel Maximilian. In Wien ist er um den 7. wieder.",
+      "format": "full_html",
+      "processed": "Am 26. Mai 1894 fährt Bahr \"in Vorbereitung\" seiner Wochenschrift \"Die Zeit\" für ein paar Tage nach Paris. Reiseplan: Bis 31.5. im Hotel Bellevue, Avenue de l'Opera; 30.5. Brüssel, Grand Hotel; 2.6. Antwerpen; 4.6. München, Hotel Maximilian. In Wien ist er um den 7. wieder.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1894-05-26",
+      "end_value": "1894-06-07"
+    },
+    "field_sources": [
+      "Briefe an den Vater, 13.4.1894, 25.5.1894",
+      "Tagebücher (Csàky), II, 82-83,"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e452710a-6e19-4bd5-a641-7fbcf7ffaa3c/node_type?resourceVersion=id%3A2603"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e452710a-6e19-4bd5-a641-7fbcf7ffaa3c/relationships/node_type?resourceVersion=id%3A2603"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e452710a-6e19-4bd5-a641-7fbcf7ffaa3c/revision_uid?resourceVersion=id%3A2603"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e452710a-6e19-4bd5-a641-7fbcf7ffaa3c/relationships/revision_uid?resourceVersion=id%3A2603"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e452710a-6e19-4bd5-a641-7fbcf7ffaa3c/uid?resourceVersion=id%3A2603"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e452710a-6e19-4bd5-a641-7fbcf7ffaa3c/relationships/uid?resourceVersion=id%3A2603"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e452710a-6e19-4bd5-a641-7fbcf7ffaa3c/field_event_type?resourceVersion=id%3A2603"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e452710a-6e19-4bd5-a641-7fbcf7ffaa3c/relationships/field_event_type?resourceVersion=id%3A2603"
+        }
+      }
+    }
+  }
+}

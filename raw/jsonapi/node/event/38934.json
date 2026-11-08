@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "66b2d589-6226-492b-b254-d1fac5f520fb",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/66b2d589-6226-492b-b254-d1fac5f520fb?resourceVersion=id%3A4201"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/66b2d589-6226-492b-b254-d1fac5f520fb?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38934,
+    "drupal_internal__vid": 4201,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-28T11:24:55+00:00",
+    "status": true,
+    "title": "Arthur Schnitzler",
+    "created": "2011-03-15T16:36:04+00:00",
+    "changed": "2020-02-28T11:24:55+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38934",
+      "pid": 674,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<p>Ein zweites Treffen Bahr/Schnitzler findet am 28. April 1891 statt, Schnitzler langweilt sich.</p>\r\n",
+      "format": "full_html",
+      "processed": "<p>Ein zweites Treffen Bahr/Schnitzler findet am 28. April 1891 statt, Schnitzler langweilt sich.</p>\n",
+      "summary": ""
+    },
+    "field_event_date": {
+      "value": "1891-04-28",
+      "end_value": "1891-04-28"
+    },
+    "field_sources": [
+      "Schnitzler: Tagebücher, I, 327. "
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/66b2d589-6226-492b-b254-d1fac5f520fb/node_type?resourceVersion=id%3A4201"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/66b2d589-6226-492b-b254-d1fac5f520fb/relationships/node_type?resourceVersion=id%3A4201"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/66b2d589-6226-492b-b254-d1fac5f520fb/revision_uid?resourceVersion=id%3A4201"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/66b2d589-6226-492b-b254-d1fac5f520fb/relationships/revision_uid?resourceVersion=id%3A4201"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/66b2d589-6226-492b-b254-d1fac5f520fb/uid?resourceVersion=id%3A4201"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/66b2d589-6226-492b-b254-d1fac5f520fb/relationships/uid?resourceVersion=id%3A4201"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/66b2d589-6226-492b-b254-d1fac5f520fb/field_event_type?resourceVersion=id%3A4201"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/66b2d589-6226-492b-b254-d1fac5f520fb/relationships/field_event_type?resourceVersion=id%3A4201"
+        }
+      }
+    }
+  }
+}

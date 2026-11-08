@@ -1,0 +1,120 @@
+{
+  "type": "node--event",
+  "id": "fd996d08-1699-431c-9b4c-6668e1737081",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/fd996d08-1699-431c-9b4c-6668e1737081?resourceVersion=id%3A3175"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/fd996d08-1699-431c-9b4c-6668e1737081?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49328,
+    "drupal_internal__vid": 3175,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Gastspiel Duse",
+    "created": "2011-10-10T13:27:28+00:00",
+    "changed": "2011-10-10T14:06:39+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49328",
+      "pid": 1154,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Der Journalist Bahr ist abonniert auf die Gastspiele seiner \"Entdeckung\", Eleonora Duse. Er berichtet auch bei ihrem Gastspiel im Theater an der Wien, vom 6. Oktober bis zum 13. Oktober 1904.  Von da begibt sie sich nach Budapest, wo sie fünfmal auftreten soll, um dann noch einmal über Wien nach Berlin zu reisen.[1]",
+      "format": "full_html",
+      "processed": "Der Journalist Bahr ist abonniert auf die Gastspiele seiner \"Entdeckung\", Eleonora Duse. Er berichtet auch bei ihrem Gastspiel im Theater an der Wien, vom 6. Oktober bis zum 13. Oktober 1904.  Von da begibt sie sich nach Budapest, wo sie fünfmal auftreten soll, um dann noch einmal über Wien nach Berlin zu reisen.[1]",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1904-10-06",
+      "end_value": "1904-10-13"
+    },
+    "field_sources": [
+      "H. B.: Theater, Kunst und Literatur. Theater an der Wien. Neues Wiener Tagblatt, 38 (1904) #278, 10. (7.10.1904)",
+      "H. B.: Theater und Kunst. Theater an der Wien. Neues Wiener Abendblatt, 38 (1904) #281, 6. (10.10.1904)",
+      "H. B.: Theater, Kunst und Literatur. Theater an der Wien. Neues Wiener Tagblatt, 38 (1904) #282, 10. (11.10.1904)",
+      "Hermann Bahr: L'autre danger. (Komödie in vier Akten von Maurice Donnay. Zum ersten Mal aufgeführt von der Duse im Theater an der Wien am [1]2. Oktober 1904). Neues Wiener Tagblatt, 38 (1904) #284, 12. (13.10.1904)",
+      "[1] Neues Wiener Tagblatt, 38 (1904) #284, 12. (13.10.1904)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fd996d08-1699-431c-9b4c-6668e1737081/node_type?resourceVersion=id%3A3175"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fd996d08-1699-431c-9b4c-6668e1737081/relationships/node_type?resourceVersion=id%3A3175"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fd996d08-1699-431c-9b4c-6668e1737081/revision_uid?resourceVersion=id%3A3175"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fd996d08-1699-431c-9b4c-6668e1737081/relationships/revision_uid?resourceVersion=id%3A3175"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fd996d08-1699-431c-9b4c-6668e1737081/uid?resourceVersion=id%3A3175"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fd996d08-1699-431c-9b4c-6668e1737081/relationships/uid?resourceVersion=id%3A3175"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fd996d08-1699-431c-9b4c-6668e1737081/field_event_type?resourceVersion=id%3A3175"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fd996d08-1699-431c-9b4c-6668e1737081/relationships/field_event_type?resourceVersion=id%3A3175"
+        }
+      }
+    }
+  }
+}

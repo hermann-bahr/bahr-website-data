@@ -1,0 +1,119 @@
+{
+  "type": "node--event",
+  "id": "8630fe7d-9e88-4a80-8e2c-4bf159327750",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/8630fe7d-9e88-4a80-8e2c-4bf159327750?resourceVersion=id%3A2497"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/8630fe7d-9e88-4a80-8e2c-4bf159327750?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28190,
+    "drupal_internal__vid": 2497,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Triest",
+    "created": "2010-09-21T15:39:40+00:00",
+    "changed": "2011-12-23T14:07:42+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28190",
+      "pid": 335,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "In seinem \"Tagebuch\" erwähnt Bahr, dass er am 12. April 1911 im Schillerverein in Triest vorliest. Es handelt sich um eine Lesung von \"O Mensch\". \r\n",
+      "format": "full_html",
+      "processed": "In seinem \"Tagebuch\" erwähnt Bahr, dass er am 12. April 1911 im Schillerverein in Triest vorliest. Es handelt sich um eine Lesung von \"O Mensch\". \n",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1911-04-12",
+      "end_value": "1911-04-12"
+    },
+    "field_sources": [
+      "Der Strom, 1 (1911) #3, Juni, 80.",
+      "Triester Tagblatt, 13.4.1911. ",
+      "Il Piccolo, 13.4.1911",
+      "Irene v. Schellander: Vortrag Hermann Bahrs in Triest. Grazer Tagespost, nach dem 15.4.1911"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8630fe7d-9e88-4a80-8e2c-4bf159327750/node_type?resourceVersion=id%3A2497"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8630fe7d-9e88-4a80-8e2c-4bf159327750/relationships/node_type?resourceVersion=id%3A2497"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8630fe7d-9e88-4a80-8e2c-4bf159327750/revision_uid?resourceVersion=id%3A2497"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8630fe7d-9e88-4a80-8e2c-4bf159327750/relationships/revision_uid?resourceVersion=id%3A2497"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8630fe7d-9e88-4a80-8e2c-4bf159327750/uid?resourceVersion=id%3A2497"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8630fe7d-9e88-4a80-8e2c-4bf159327750/relationships/uid?resourceVersion=id%3A2497"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8630fe7d-9e88-4a80-8e2c-4bf159327750/field_event_type?resourceVersion=id%3A2497"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8630fe7d-9e88-4a80-8e2c-4bf159327750/relationships/field_event_type?resourceVersion=id%3A2497"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "type": "node--image",
+  "id": "970f7238-66bf-4f22-b44f-24cc80fd765b",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/image/970f7238-66bf-4f22-b44f-24cc80fd765b?resourceVersion=id%3A3945"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/image/970f7238-66bf-4f22-b44f-24cc80fd765b?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28243,
+    "drupal_internal__vid": 3945,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:44:08+00:00",
+    "status": true,
+    "title": "1912 Bahr und Schnitzler",
+    "created": "2010-11-09T12:13:46+00:00",
+    "changed": "2010-11-09T12:14:13+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/bild/28243",
+      "pid": 376,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<i>Der Merker, 3 (1912) #11</i>",
+      "format": "full_html",
+      "processed": "<i>Der Merker, 3 (1912) #11</i>",
+      "summary": null
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "e2381624-d098-4c5b-bdd7-5dbfd773b84e",
+        "meta": {
+          "drupal_internal__target_id": "image"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/970f7238-66bf-4f22-b44f-24cc80fd765b/node_type?resourceVersion=id%3A3945"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/970f7238-66bf-4f22-b44f-24cc80fd765b/relationships/node_type?resourceVersion=id%3A3945"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/970f7238-66bf-4f22-b44f-24cc80fd765b/revision_uid?resourceVersion=id%3A3945"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/970f7238-66bf-4f22-b44f-24cc80fd765b/relationships/revision_uid?resourceVersion=id%3A3945"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/970f7238-66bf-4f22-b44f-24cc80fd765b/uid?resourceVersion=id%3A3945"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/970f7238-66bf-4f22-b44f-24cc80fd765b/relationships/uid?resourceVersion=id%3A3945"
+        }
+      }
+    },
+    "field_images": {
+      "data": [
+        {
+          "type": "media--image",
+          "id": "b87bf0f1-fe6d-4681-b1fe-6813588470ac",
+          "meta": {
+            "drupal_internal__target_id": 124
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/970f7238-66bf-4f22-b44f-24cc80fd765b/field_images?resourceVersion=id%3A3945"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/970f7238-66bf-4f22-b44f-24cc80fd765b/relationships/field_images?resourceVersion=id%3A3945"
+        }
+      }
+    }
+  }
+}

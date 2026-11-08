@@ -1,0 +1,114 @@
+{
+  "type": "node--event",
+  "id": "eac749c6-44b4-454b-9b2e-a3de5446e350",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/eac749c6-44b4-454b-9b2e-a3de5446e350?resourceVersion=id%3A2372"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/eac749c6-44b4-454b-9b2e-a3de5446e350?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28040,
+    "drupal_internal__vid": 2372,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Josephine",
+    "created": "2010-07-28T21:58:49+00:00",
+    "changed": "2010-07-28T22:04:09+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28040",
+      "pid": 206,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Ab 1894 gibt es erste Fassungen von Bahrs Versuch, den Menschen Napoleon auf die Bühne zu bringen. Am 23. Dezember 1897 Uraufführung am Deutschen Volkstheater in Wien, Regie Emmerich Bukovics, die Hauptrollen spielten Helene Odilon und Leopold Kramer. Gedruckt erscheint es 1899 bei S. Fischer in Berlin.\r\n",
+      "format": "full_html",
+      "processed": "Ab 1894 gibt es erste Fassungen von Bahrs Versuch, den Menschen Napoleon auf die Bühne zu bringen. Am 23. Dezember 1897 Uraufführung am Deutschen Volkstheater in Wien, Regie Emmerich Bukovics, die Hauptrollen spielten Helene Odilon und Leopold Kramer. Gedruckt erscheint es 1899 bei S. Fischer in Berlin.\n",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1897-12-23",
+      "end_value": "1897-12-23"
+    },
+    "field_sources": []
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/eac749c6-44b4-454b-9b2e-a3de5446e350/node_type?resourceVersion=id%3A2372"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/eac749c6-44b4-454b-9b2e-a3de5446e350/relationships/node_type?resourceVersion=id%3A2372"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/eac749c6-44b4-454b-9b2e-a3de5446e350/revision_uid?resourceVersion=id%3A2372"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/eac749c6-44b4-454b-9b2e-a3de5446e350/relationships/revision_uid?resourceVersion=id%3A2372"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/eac749c6-44b4-454b-9b2e-a3de5446e350/uid?resourceVersion=id%3A2372"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/eac749c6-44b4-454b-9b2e-a3de5446e350/relationships/uid?resourceVersion=id%3A2372"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "27f3d2a4-8970-4726-9ab8-ce37707ec1bc",
+          "meta": {
+            "drupal_internal__target_id": 1
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/eac749c6-44b4-454b-9b2e-a3de5446e350/field_event_type?resourceVersion=id%3A2372"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/eac749c6-44b4-454b-9b2e-a3de5446e350/relationships/field_event_type?resourceVersion=id%3A2372"
+        }
+      }
+    }
+  }
+}

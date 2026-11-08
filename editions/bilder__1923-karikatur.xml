@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bilder__1923-karikatur" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">1923 Karikatur</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">38878</idno>
+        <idno type="drupal-alias">/bild/38878</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bild/38878">https://bahr.univie.ac.at/bild/38878</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="7" key="bilder">Bilder</term>
+          <term n="35" key="1923-karikatur" type="eintrag">1923 Karikatur</term>
+        </keywords>
+        <classCode scheme="drupal-type">image</classCode>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2011-02-21T17:36:04+00:00" type="created">angelegt in Drupal</change>
+      <change when="2011-02-21T17:40:35+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <figure>
+          <graphic url="files/bahr_bilder/1923_petermaler.jpg"/>
+          <figDesc>1923 Karikatur</figDesc>
+        </figure>
+        <p>
+          <hi rend="italic">Petermaler: Hermann Bahr. (Homo alpinus sapiens). In: Die Muskete, 36 (1923) #14 (Juni), 5.</hi>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

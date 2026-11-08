@@ -1,0 +1,123 @@
+{
+  "type": "node--image",
+  "id": "af6c599f-5bb2-42a8-9fd3-1df21d73b7c8",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/image/af6c599f-5bb2-42a8-9fd3-1df21d73b7c8?resourceVersion=id%3A3995"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/image/af6c599f-5bb2-42a8-9fd3-1df21d73b7c8?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74460,
+    "drupal_internal__vid": 3995,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:44:08+00:00",
+    "status": true,
+    "title": "1934 Gedenkbild",
+    "created": "2013-01-28T10:20:22+00:00",
+    "changed": "2013-01-28T10:20:22+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/bild/74460",
+      "pid": 1834,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<i>Vorderseite</i><br><br /><br /><br /><i>Innenseite</i><br /><br /><br /><i>Rückseite</i><br /><br /><i>Nach Hermann Bahrs Tod ließ seine Witwe dieses Gedenkbild drucken und an seine Freunde verteilen</i>",
+      "format": "full_html",
+      "processed": "<i>Vorderseite</i><br><br><br><br><i>Innenseite</i><br><br><br><i>Rückseite</i><br><br><i>Nach Hermann Bahrs Tod ließ seine Witwe dieses Gedenkbild drucken und an seine Freunde verteilen</i>",
+      "summary": null
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "e2381624-d098-4c5b-bdd7-5dbfd773b84e",
+        "meta": {
+          "drupal_internal__target_id": "image"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/af6c599f-5bb2-42a8-9fd3-1df21d73b7c8/node_type?resourceVersion=id%3A3995"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/af6c599f-5bb2-42a8-9fd3-1df21d73b7c8/relationships/node_type?resourceVersion=id%3A3995"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/af6c599f-5bb2-42a8-9fd3-1df21d73b7c8/revision_uid?resourceVersion=id%3A3995"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/af6c599f-5bb2-42a8-9fd3-1df21d73b7c8/relationships/revision_uid?resourceVersion=id%3A3995"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/af6c599f-5bb2-42a8-9fd3-1df21d73b7c8/uid?resourceVersion=id%3A3995"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/af6c599f-5bb2-42a8-9fd3-1df21d73b7c8/relationships/uid?resourceVersion=id%3A3995"
+        }
+      }
+    },
+    "field_images": {
+      "data": [
+        {
+          "type": "media--image",
+          "id": "840fc600-4ab0-4a99-a94f-aebc3cb7a892",
+          "meta": {
+            "drupal_internal__target_id": 175
+          }
+        },
+        {
+          "type": "media--image",
+          "id": "61a8b5ff-acc7-4f23-b50d-5625601affa9",
+          "meta": {
+            "drupal_internal__target_id": 176
+          }
+        },
+        {
+          "type": "media--image",
+          "id": "7ef1d903-146b-48e5-846b-3e829063cd17",
+          "meta": {
+            "drupal_internal__target_id": 177
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/af6c599f-5bb2-42a8-9fd3-1df21d73b7c8/field_images?resourceVersion=id%3A3995"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/af6c599f-5bb2-42a8-9fd3-1df21d73b7c8/relationships/field_images?resourceVersion=id%3A3995"
+        }
+      }
+    }
+  }
+}

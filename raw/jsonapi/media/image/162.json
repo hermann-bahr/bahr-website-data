@@ -1,0 +1,118 @@
+{
+  "type": "media--image",
+  "id": "ec6b48ca-74e2-4a8a-b8ad-4c4478f23202",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/media/image/ec6b48ca-74e2-4a8a-b8ad-4c4478f23202?resourceVersion=id%3A162"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/media/image/ec6b48ca-74e2-4a8a-b8ad-4c4478f23202?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__mid": 162,
+    "drupal_internal__vid": 162,
+    "langcode": "de",
+    "revision_created": "2020-02-18T15:16:19+00:00",
+    "status": true,
+    "name": "1915_kriegssegen",
+    "created": "2020-02-18T15:16:19+00:00",
+    "changed": "2020-02-18T15:16:19+00:00",
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": null,
+      "pid": null,
+      "langcode": "de"
+    }
+  },
+  "relationships": {
+    "bundle": {
+      "data": {
+        "type": "media_type--media_type",
+        "id": "b82aabb6-e7a1-420d-b98b-5b981c2d920e",
+        "meta": {
+          "drupal_internal__target_id": "image"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/ec6b48ca-74e2-4a8a-b8ad-4c4478f23202/bundle?resourceVersion=id%3A162"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/ec6b48ca-74e2-4a8a-b8ad-4c4478f23202/relationships/bundle?resourceVersion=id%3A162"
+        }
+      }
+    },
+    "revision_user": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/ec6b48ca-74e2-4a8a-b8ad-4c4478f23202/revision_user?resourceVersion=id%3A162"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/ec6b48ca-74e2-4a8a-b8ad-4c4478f23202/relationships/revision_user?resourceVersion=id%3A162"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/ec6b48ca-74e2-4a8a-b8ad-4c4478f23202/uid?resourceVersion=id%3A162"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/ec6b48ca-74e2-4a8a-b8ad-4c4478f23202/relationships/uid?resourceVersion=id%3A162"
+        }
+      }
+    },
+    "thumbnail": {
+      "data": {
+        "type": "file--file",
+        "id": "edf62703-4b4d-44a9-ac17-17cd5b7a9b9e",
+        "meta": {
+          "alt": "1915 Karl Bauer",
+          "title": null,
+          "width": 1274,
+          "height": 1740,
+          "drupal_internal__target_id": 223
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/ec6b48ca-74e2-4a8a-b8ad-4c4478f23202/thumbnail?resourceVersion=id%3A162"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/ec6b48ca-74e2-4a8a-b8ad-4c4478f23202/relationships/thumbnail?resourceVersion=id%3A162"
+        }
+      }
+    },
+    "field_media_image": {
+      "data": {
+        "type": "file--file",
+        "id": "edf62703-4b4d-44a9-ac17-17cd5b7a9b9e",
+        "meta": {
+          "alt": "1915 Karl Bauer",
+          "title": "1915_kriegssegen",
+          "width": 1274,
+          "height": 1740,
+          "drupal_internal__target_id": 223
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/ec6b48ca-74e2-4a8a-b8ad-4c4478f23202/field_media_image?resourceVersion=id%3A162"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/ec6b48ca-74e2-4a8a-b8ad-4c4478f23202/relationships/field_media_image?resourceVersion=id%3A162"
+        }
+      }
+    }
+  }
+}

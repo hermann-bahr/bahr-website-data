@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "26a16aae-1b4d-43b3-86d5-958b9b83d0b9",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/26a16aae-1b4d-43b3-86d5-958b9b83d0b9?resourceVersion=id%3A3582"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/26a16aae-1b4d-43b3-86d5-958b9b83d0b9?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 64088,
+    "drupal_internal__vid": 3582,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Sandwich Bay, Kent und Dover",
+    "created": "2012-01-26T15:23:04+00:00",
+    "changed": "2012-01-26T15:23:04+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/64088",
+      "pid": 1623,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 20. März 1910 reisen Bahr und seine Frau ins Guildford Hotel in Sandwich Bay, Kent, wo sie in der Nachbarschaft von Ethel Smyth einige Tage verbringen. Am 24. reist Anna B.-M. von Dover ab, während Bahr in Dover bleibt und am 28. nach Calais aufbricht.",
+      "format": "full_html",
+      "processed": "Am 20. März 1910 reisen Bahr und seine Frau ins Guildford Hotel in Sandwich Bay, Kent, wo sie in der Nachbarschaft von Ethel Smyth einige Tage verbringen. Am 24. reist Anna B.-M. von Dover ab, während Bahr in Dover bleibt und am 28. nach Calais aufbricht.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1910-03-20",
+      "end_value": "1910-03-28"
+    },
+    "field_sources": [
+      "Hermann Bahr: Aufzeichnungen 1909-1911. Ausgabe in Vorbereitung von Kurt Ifkovits\r\n"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/26a16aae-1b4d-43b3-86d5-958b9b83d0b9/node_type?resourceVersion=id%3A3582"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/26a16aae-1b4d-43b3-86d5-958b9b83d0b9/relationships/node_type?resourceVersion=id%3A3582"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/26a16aae-1b4d-43b3-86d5-958b9b83d0b9/revision_uid?resourceVersion=id%3A3582"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/26a16aae-1b4d-43b3-86d5-958b9b83d0b9/relationships/revision_uid?resourceVersion=id%3A3582"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/26a16aae-1b4d-43b3-86d5-958b9b83d0b9/uid?resourceVersion=id%3A3582"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/26a16aae-1b4d-43b3-86d5-958b9b83d0b9/relationships/uid?resourceVersion=id%3A3582"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/26a16aae-1b4d-43b3-86d5-958b9b83d0b9/field_event_type?resourceVersion=id%3A3582"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/26a16aae-1b4d-43b3-86d5-958b9b83d0b9/relationships/field_event_type?resourceVersion=id%3A3582"
+        }
+      }
+    }
+  }
+}

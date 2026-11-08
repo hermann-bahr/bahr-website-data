@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "b3283fff-8df3-45e5-9009-9b9b21d8bfe2",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b3283fff-8df3-45e5-9009-9b9b21d8bfe2?resourceVersion=id%3A3528"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b3283fff-8df3-45e5-9009-9b9b21d8bfe2?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49757,
+    "drupal_internal__vid": 3528,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Michael Hainisch",
+    "created": "2012-01-03T17:53:44+00:00",
+    "changed": "2013-03-12T12:44:24+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49757",
+      "pid": 1569,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Der spätere österreichische Bundeskanzler Michael Hainisch studiert zur gleichen Zeit wie Bahr bei Schmoller und Adolf Wagner in Berlin. Bahr gibt zu, damals gegen ihn ungerecht gewesen zu sein, er wäre ihm zu \"steady\" gewesen, zu solid, standfest, steif. Die Briefe im Nachlass aus dem Jahr 1885, die Bahr von Hainisch aufbewahrt hat, beginnen mit \"Sehr verehrter Freund\". Zum ersten Mal taucht er in einem Brief an den Vater auf, als Bahr berichtet, dass Hainisch den Vortrag am 14. Juni, er seinen am 21. zu Rodbertus halten werde. Im Dezember 1884 geht Hainisch nach Wien zurück, Bahr beschreibt die Freundschaft davor als \"eng\".",
+      "format": "full_html",
+      "processed": "Der spätere österreichische Bundeskanzler Michael Hainisch studiert zur gleichen Zeit wie Bahr bei Schmoller und Adolf Wagner in Berlin. Bahr gibt zu, damals gegen ihn ungerecht gewesen zu sein, er wäre ihm zu \"steady\" gewesen, zu solid, standfest, steif. Die Briefe im Nachlass aus dem Jahr 1885, die Bahr von Hainisch aufbewahrt hat, beginnen mit \"Sehr verehrter Freund\". Zum ersten Mal taucht er in einem Brief an den Vater auf, als Bahr berichtet, dass Hainisch den Vortrag am 14. Juni, er seinen am 21. zu Rodbertus halten werde. Im Dezember 1884 geht Hainisch nach Wien zurück, Bahr beschreibt die Freundschaft davor als \"eng\".",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1884-06-14",
+      "end_value": "1884-06-14"
+    },
+    "field_sources": [
+      "Hermann Bahr: Tagebuch. 10. Dezember. Buchausgabe: Kritik der Gegenwart, 293-296",
+      "Brief an den Vater, 25.5.1884, 14.12.1884"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b3283fff-8df3-45e5-9009-9b9b21d8bfe2/node_type?resourceVersion=id%3A3528"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b3283fff-8df3-45e5-9009-9b9b21d8bfe2/relationships/node_type?resourceVersion=id%3A3528"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b3283fff-8df3-45e5-9009-9b9b21d8bfe2/revision_uid?resourceVersion=id%3A3528"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b3283fff-8df3-45e5-9009-9b9b21d8bfe2/relationships/revision_uid?resourceVersion=id%3A3528"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b3283fff-8df3-45e5-9009-9b9b21d8bfe2/uid?resourceVersion=id%3A3528"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b3283fff-8df3-45e5-9009-9b9b21d8bfe2/relationships/uid?resourceVersion=id%3A3528"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b3283fff-8df3-45e5-9009-9b9b21d8bfe2/field_event_type?resourceVersion=id%3A3528"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b3283fff-8df3-45e5-9009-9b9b21d8bfe2/relationships/field_event_type?resourceVersion=id%3A3528"
+        }
+      }
+    }
+  }
+}

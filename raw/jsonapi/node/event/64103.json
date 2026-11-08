@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "e381601d-15e8-4f4e-baf9-2a1c2a5896b6",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/e381601d-15e8-4f4e-baf9-2a1c2a5896b6?resourceVersion=id%3A3597"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/e381601d-15e8-4f4e-baf9-2a1c2a5896b6?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 64103,
+    "drupal_internal__vid": 3597,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Richard Dehmel",
+    "created": "2012-01-30T10:49:28+00:00",
+    "changed": "2012-01-30T10:49:28+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/64103",
+      "pid": 1638,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahr und Richard Dehmel waren sich seit ihren Anfängen bekannt, was wohl in Bahrs Studienzeit in Berlin zu verorten ist. Persönlich nahe sind sie sich nie gekommen. Als denkwürdigsten Moment schildert Bahr 1923 einmal, wie Richard Dehmel ihn in seinem Olbrich-Häuschen besucht und Anna Bahr-Mildenburg im oberen Stock eins der Wesendonck-Lieder anstimmte. ",
+      "format": "full_html",
+      "processed": "Bahr und Richard Dehmel waren sich seit ihren Anfängen bekannt, was wohl in Bahrs Studienzeit in Berlin zu verorten ist. Persönlich nahe sind sie sich nie gekommen. Als denkwürdigsten Moment schildert Bahr 1923 einmal, wie Richard Dehmel ihn in seinem Olbrich-Häuschen besucht und Anna Bahr-Mildenburg im oberen Stock eins der Wesendonck-Lieder anstimmte. ",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1910-01-01",
+      "end_value": "1910-01-01"
+    },
+    "field_sources": [
+      "Liebe der Lebenden, III, 237-238. (24. September [1923])",
+      "Vgl. auch Kritik der Gegenwart, 62-64.",
+      "(Hier auf 1.1.1910, da die Heirat Bahrs mit A. M. erst im Sommer 1909 stattfand)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e381601d-15e8-4f4e-baf9-2a1c2a5896b6/node_type?resourceVersion=id%3A3597"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e381601d-15e8-4f4e-baf9-2a1c2a5896b6/relationships/node_type?resourceVersion=id%3A3597"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e381601d-15e8-4f4e-baf9-2a1c2a5896b6/revision_uid?resourceVersion=id%3A3597"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e381601d-15e8-4f4e-baf9-2a1c2a5896b6/relationships/revision_uid?resourceVersion=id%3A3597"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e381601d-15e8-4f4e-baf9-2a1c2a5896b6/uid?resourceVersion=id%3A3597"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e381601d-15e8-4f4e-baf9-2a1c2a5896b6/relationships/uid?resourceVersion=id%3A3597"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e381601d-15e8-4f4e-baf9-2a1c2a5896b6/field_event_type?resourceVersion=id%3A3597"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e381601d-15e8-4f4e-baf9-2a1c2a5896b6/relationships/field_event_type?resourceVersion=id%3A3597"
+        }
+      }
+    }
+  }
+}

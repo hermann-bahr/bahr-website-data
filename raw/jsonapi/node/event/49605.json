@@ -1,0 +1,119 @@
+{
+  "type": "node--event",
+  "id": "8e1fcf89-a947-4cf5-81fb-1e6beb3642df",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/8e1fcf89-a947-4cf5-81fb-1e6beb3642df?resourceVersion=id%3A3432"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/8e1fcf89-a947-4cf5-81fb-1e6beb3642df?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49605,
+    "drupal_internal__vid": 3432,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Abschied-Kommers, Pernerstorfer",
+    "created": "2011-11-11T16:00:20+00:00",
+    "changed": "2012-05-25T20:57:20+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49605",
+      "pid": 1421,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Pernerstorfer und die Burschenschaft Albia richten am 18. April 1883 für Bahr, nach dessen Relegierung von der Universität und vor dessen Abreise nach Graz ein Trinkgelage aus, das \"Abschieds-Kommers\" genannt wird. Schauplatz: Hotel Zillinger (Wieden), unter den Anwesenden: Georg Schönerer. Von der Polizei verboten, weichen die Burschenschafter \"unter Protest der Gewalt\" und übersiedeln in das Lokal \"Böck\" in der Kochgasse, so zumindest Zeit gegenüber der Polizei gewinnend, für die das Überschreiten von Bezirksgrenzen jeweils neue Kommandosituationen erzeugt. Es kommt zur Prügelei. Bahr will dabei einem Polizisten an den Säbel gegriffen haben, aber von Pernerstorfer weggezogen worden sein und so vor einer langen Gefängnisstrafe bewahrt werdend.",
+      "format": "full_html",
+      "processed": "Pernerstorfer und die Burschenschaft Albia richten am 18. April 1883 für Bahr, nach dessen Relegierung von der Universität und vor dessen Abreise nach Graz ein Trinkgelage aus, das \"Abschieds-Kommers\" genannt wird. Schauplatz: Hotel Zillinger (Wieden), unter den Anwesenden: Georg Schönerer. Von der Polizei verboten, weichen die Burschenschafter \"unter Protest der Gewalt\" und übersiedeln in das Lokal \"Böck\" in der Kochgasse, so zumindest Zeit gegenüber der Polizei gewinnend, für die das Überschreiten von Bezirksgrenzen jeweils neue Kommandosituationen erzeugt. Es kommt zur Prügelei. Bahr will dabei einem Polizisten an den Säbel gegriffen haben, aber von Pernerstorfer weggezogen worden sein und so vor einer langen Gefängnisstrafe bewahrt werdend.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1883-04-18",
+      "end_value": "1883-04-18"
+    },
+    "field_sources": [
+      "Selbstbildnis, 146-147.",
+      "Kyffhäuser-Zeitung, 2 (1883) #8, 84. (28.4.1883)",
+      "Der Bericht konfisziert in: Deutsche Hochschule, Prag, 2 (1883) #55, 5. (29.4.1883)",
+      "Paul Wiegler in der \"B. Z. am Mittag\", nachgedruckt im Prager Tagblatt, 38 (1913) #195, 7. (16.7.1913)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8e1fcf89-a947-4cf5-81fb-1e6beb3642df/node_type?resourceVersion=id%3A3432"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8e1fcf89-a947-4cf5-81fb-1e6beb3642df/relationships/node_type?resourceVersion=id%3A3432"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8e1fcf89-a947-4cf5-81fb-1e6beb3642df/revision_uid?resourceVersion=id%3A3432"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8e1fcf89-a947-4cf5-81fb-1e6beb3642df/relationships/revision_uid?resourceVersion=id%3A3432"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8e1fcf89-a947-4cf5-81fb-1e6beb3642df/uid?resourceVersion=id%3A3432"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8e1fcf89-a947-4cf5-81fb-1e6beb3642df/relationships/uid?resourceVersion=id%3A3432"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8e1fcf89-a947-4cf5-81fb-1e6beb3642df/field_event_type?resourceVersion=id%3A3432"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8e1fcf89-a947-4cf5-81fb-1e6beb3642df/relationships/field_event_type?resourceVersion=id%3A3432"
+        }
+      }
+    }
+  }
+}

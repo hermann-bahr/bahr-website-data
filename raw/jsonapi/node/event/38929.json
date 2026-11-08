@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "00a0c20a-d566-4bc9-a9ec-a679fb6a021e",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/00a0c20a-d566-4bc9-a9ec-a679fb6a021e?resourceVersion=id%3A2715"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/00a0c20a-d566-4bc9-a9ec-a679fb6a021e?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38929,
+    "drupal_internal__vid": 2715,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Fertigstellung \"Augenblick\"",
+    "created": "2011-03-15T10:19:50+00:00",
+    "changed": "2011-10-13T15:29:19+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38929",
+      "pid": 669,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Redlich schreibt Bahr am 8. Juni, an den Korrekturen seines neusten Stücks zu sitzen – der \"Augenblick\". Am 5. Juli 1917 schreibt Bahr an Richard Strauss, vor vierzehn Tagen sein neuestes Stück fertiggestellt zu haben. ",
+      "format": "full_html",
+      "processed": "Redlich schreibt Bahr am 8. Juni, an den Korrekturen seines neusten Stücks zu sitzen – der \"Augenblick\". Am 5. Juli 1917 schreibt Bahr an Richard Strauss, vor vierzehn Tagen sein neuestes Stück fertiggestellt zu haben. ",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1917-06-08",
+      "end_value": "1917-06-24"
+    },
+    "field_sources": [
+      "Bahr/Redlich, 225.",
+      "Der Strom der Töne trug mich fort. Die Welt um Richard Strauss in Briefen. In Zusammenarbeit mit Franz und Alice Strauss herausgegeben von Franz Grasberger. Tutzing: Hans Schneider 1967, 222."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/00a0c20a-d566-4bc9-a9ec-a679fb6a021e/node_type?resourceVersion=id%3A2715"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/00a0c20a-d566-4bc9-a9ec-a679fb6a021e/relationships/node_type?resourceVersion=id%3A2715"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/00a0c20a-d566-4bc9-a9ec-a679fb6a021e/revision_uid?resourceVersion=id%3A2715"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/00a0c20a-d566-4bc9-a9ec-a679fb6a021e/relationships/revision_uid?resourceVersion=id%3A2715"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/00a0c20a-d566-4bc9-a9ec-a679fb6a021e/uid?resourceVersion=id%3A2715"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/00a0c20a-d566-4bc9-a9ec-a679fb6a021e/relationships/uid?resourceVersion=id%3A2715"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/00a0c20a-d566-4bc9-a9ec-a679fb6a021e/field_event_type?resourceVersion=id%3A2715"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/00a0c20a-d566-4bc9-a9ec-a679fb6a021e/relationships/field_event_type?resourceVersion=id%3A2715"
+        }
+      }
+    }
+  }
+}

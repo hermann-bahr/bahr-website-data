@@ -1,0 +1,119 @@
+{
+  "type": "node--event",
+  "id": "f85a5976-b2a8-4a9f-a0fb-62ceddf854ec",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f85a5976-b2a8-4a9f-a0fb-62ceddf854ec?resourceVersion=id%3A2513"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f85a5976-b2a8-4a9f-a0fb-62ceddf854ec?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28208,
+    "drupal_internal__vid": 2513,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Vortragsreise Deutschland",
+    "created": "2010-10-09T14:03:53+00:00",
+    "changed": "2012-12-21T11:58:54+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28208",
+      "pid": 351,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 25. Januar 1912 [1] folgt der zweite, längere Teil von Bahrs Vortragsreise.[2] Die Dauer ist unklar, da ein Tourneeplan im Nachlass den Zeitraum vom 26. bis zum 16. Februar umfasst [3] und er gegenüber Redlich von \"drei Wochen\" spricht, sich aber im Nachlass Fritz Mauthners eine Visitenkarte Bahrs findet, die unterhalb seines Namens die händische Ergänzung hat: \"dankt Ihnen, sehr verehrter Herr, (jetzt erst, da er zwei Monate von Wien weg auf Vortragsreisen gewesen ist) von Herzen für Ihren lieben Brief und gedenkt Ihrer stets in treuer dankbarer Gesinnung.\" (Datiert: \"12.3.12.\") [4]",
+      "format": "full_html",
+      "processed": "Am 25. Januar 1912 [1] folgt der zweite, längere Teil von Bahrs Vortragsreise.[2] Die Dauer ist unklar, da ein Tourneeplan im Nachlass den Zeitraum vom 26. bis zum 16. Februar umfasst [3] und er gegenüber Redlich von \"drei Wochen\" spricht, sich aber im Nachlass Fritz Mauthners eine Visitenkarte Bahrs findet, die unterhalb seines Namens die händische Ergänzung hat: \"dankt Ihnen, sehr verehrter Herr, (jetzt erst, da er zwei Monate von Wien weg auf Vortragsreisen gewesen ist) von Herzen für Ihren lieben Brief und gedenkt Ihrer stets in treuer dankbarer Gesinnung.\" (Datiert: \"12.3.12.\") [4]",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1912-01-25",
+      "end_value": "1912-02-16"
+    },
+    "field_sources": [
+      "[1] Bahr/Redlich, 80. (23.1.1912)",
+      "[2] Bahr/Kavpil, 147.",
+      "[3] Nachlass Kiste 29: Vorträge",
+      "[4] Nachlass Fritz Mauthner, http://findingaids.cjh.org/?pID=121483#a1"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f85a5976-b2a8-4a9f-a0fb-62ceddf854ec/node_type?resourceVersion=id%3A2513"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f85a5976-b2a8-4a9f-a0fb-62ceddf854ec/relationships/node_type?resourceVersion=id%3A2513"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f85a5976-b2a8-4a9f-a0fb-62ceddf854ec/revision_uid?resourceVersion=id%3A2513"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f85a5976-b2a8-4a9f-a0fb-62ceddf854ec/relationships/revision_uid?resourceVersion=id%3A2513"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f85a5976-b2a8-4a9f-a0fb-62ceddf854ec/uid?resourceVersion=id%3A2513"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f85a5976-b2a8-4a9f-a0fb-62ceddf854ec/relationships/uid?resourceVersion=id%3A2513"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f85a5976-b2a8-4a9f-a0fb-62ceddf854ec/field_event_type?resourceVersion=id%3A2513"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f85a5976-b2a8-4a9f-a0fb-62ceddf854ec/relationships/field_event_type?resourceVersion=id%3A2513"
+        }
+      }
+    }
+  }
+}

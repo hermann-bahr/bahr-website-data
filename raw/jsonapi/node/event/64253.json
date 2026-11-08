@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "609dc6b2-3f4e-4254-8c30-76e686743f4f",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/609dc6b2-3f4e-4254-8c30-76e686743f4f?resourceVersion=id%3A3643"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/609dc6b2-3f4e-4254-8c30-76e686743f4f?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 64253,
+    "drupal_internal__vid": 3643,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Luther- und Schillerfeier",
+    "created": "2012-05-25T22:09:20+00:00",
+    "changed": "2013-03-12T11:05:47+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/64253",
+      "pid": 1686,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 10. November 1883 nimmt der \"Bursch\" Erich Hermann Bahr an der Luther- und Schillerfeier im Czernowitzer Musikvereinssaal teil und toastet die Burschenschaft \"Arminia\" an. Er wird als den Burschenschaften Albia, Wien, und der Prager \"Teutonia\" zugehörig beschrieben.",
+      "format": "full_html",
+      "processed": "Am 10. November 1883 nimmt der \"Bursch\" Erich Hermann Bahr an der Luther- und Schillerfeier im Czernowitzer Musikvereinssaal teil und toastet die Burschenschaft \"Arminia\" an. Er wird als den Burschenschaften Albia, Wien, und der Prager \"Teutonia\" zugehörig beschrieben.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1883-11-10",
+      "end_value": "1883-11-10"
+    },
+    "field_sources": [
+      "Deutsche Hochschule, Prag, 2 (1883) #76, 3. (21.11.1883)",
+      "Brief an den Vater, 11.11.1883"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/609dc6b2-3f4e-4254-8c30-76e686743f4f/node_type?resourceVersion=id%3A3643"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/609dc6b2-3f4e-4254-8c30-76e686743f4f/relationships/node_type?resourceVersion=id%3A3643"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/609dc6b2-3f4e-4254-8c30-76e686743f4f/revision_uid?resourceVersion=id%3A3643"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/609dc6b2-3f4e-4254-8c30-76e686743f4f/relationships/revision_uid?resourceVersion=id%3A3643"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/609dc6b2-3f4e-4254-8c30-76e686743f4f/uid?resourceVersion=id%3A3643"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/609dc6b2-3f4e-4254-8c30-76e686743f4f/relationships/uid?resourceVersion=id%3A3643"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/609dc6b2-3f4e-4254-8c30-76e686743f4f/field_event_type?resourceVersion=id%3A3643"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/609dc6b2-3f4e-4254-8c30-76e686743f4f/relationships/field_event_type?resourceVersion=id%3A3643"
+        }
+      }
+    }
+  }
+}

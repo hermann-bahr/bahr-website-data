@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "5baaad56-327b-4e44-b7cc-fe77edea9945",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/5baaad56-327b-4e44-b7cc-fe77edea9945?resourceVersion=id%3A3739"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/5baaad56-327b-4e44-b7cc-fe77edea9945?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74411,
+    "drupal_internal__vid": 3739,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Gerty von Hofmannsthal",
+    "created": "2012-10-24T13:48:26+00:00",
+    "changed": "2013-09-14T11:54:38+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/74411",
+      "pid": 1785,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Im Juli 1904 verdichtet sich der Kontakt zwischen Bahr und Gerty von Hofmannsthal. Ihr Ehemann Hugo war vermutlich eingeweiht, was wohl heißt, dass die enge Freundschaft die Grenzen damaligen Anstands nicht überschritt. Im Herbst bricht dann der Austausch ab, als Bahr und Anna Mildenburg sich näher kommen.",
+      "format": "full_html",
+      "processed": "Im Juli 1904 verdichtet sich der Kontakt zwischen Bahr und Gerty von Hofmannsthal. Ihr Ehemann Hugo war vermutlich eingeweiht, was wohl heißt, dass die enge Freundschaft die Grenzen damaligen Anstands nicht überschritt. Im Herbst bricht dann der Austausch ab, als Bahr und Anna Mildenburg sich näher kommen.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1904-07-08",
+      "end_value": "1904-07-08"
+    },
+    "field_sources": [
+      "Briefwechsel Bahr/Hofmannsthal. Hg. Elsbeth Dangel-Pelloquin. Göttingen: Wallstein. (In Vorbereitung)",
+      "(Hier auf den ersten intimeren Brief, 8. Juli 1904 datiert)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5baaad56-327b-4e44-b7cc-fe77edea9945/node_type?resourceVersion=id%3A3739"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5baaad56-327b-4e44-b7cc-fe77edea9945/relationships/node_type?resourceVersion=id%3A3739"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5baaad56-327b-4e44-b7cc-fe77edea9945/revision_uid?resourceVersion=id%3A3739"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5baaad56-327b-4e44-b7cc-fe77edea9945/relationships/revision_uid?resourceVersion=id%3A3739"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5baaad56-327b-4e44-b7cc-fe77edea9945/uid?resourceVersion=id%3A3739"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5baaad56-327b-4e44-b7cc-fe77edea9945/relationships/uid?resourceVersion=id%3A3739"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5baaad56-327b-4e44-b7cc-fe77edea9945/field_event_type?resourceVersion=id%3A3739"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5baaad56-327b-4e44-b7cc-fe77edea9945/relationships/field_event_type?resourceVersion=id%3A3739"
+        }
+      }
+    }
+  }
+}

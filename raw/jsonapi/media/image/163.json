@@ -1,0 +1,118 @@
+{
+  "type": "media--image",
+  "id": "d2b1d3fa-f4d7-4438-862d-42352cd62fa9",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/media/image/d2b1d3fa-f4d7-4438-862d-42352cd62fa9?resourceVersion=id%3A163"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/media/image/d2b1d3fa-f4d7-4438-862d-42352cd62fa9?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__mid": 163,
+    "drupal_internal__vid": 163,
+    "langcode": "de",
+    "revision_created": "2020-02-18T15:16:19+00:00",
+    "status": true,
+    "name": "1912_koelnische",
+    "created": "2020-02-18T15:16:19+00:00",
+    "changed": "2020-02-18T15:16:19+00:00",
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": null,
+      "pid": null,
+      "langcode": "de"
+    }
+  },
+  "relationships": {
+    "bundle": {
+      "data": {
+        "type": "media_type--media_type",
+        "id": "b82aabb6-e7a1-420d-b98b-5b981c2d920e",
+        "meta": {
+          "drupal_internal__target_id": "image"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/d2b1d3fa-f4d7-4438-862d-42352cd62fa9/bundle?resourceVersion=id%3A163"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/d2b1d3fa-f4d7-4438-862d-42352cd62fa9/relationships/bundle?resourceVersion=id%3A163"
+        }
+      }
+    },
+    "revision_user": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/d2b1d3fa-f4d7-4438-862d-42352cd62fa9/revision_user?resourceVersion=id%3A163"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/d2b1d3fa-f4d7-4438-862d-42352cd62fa9/relationships/revision_user?resourceVersion=id%3A163"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/d2b1d3fa-f4d7-4438-862d-42352cd62fa9/uid?resourceVersion=id%3A163"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/d2b1d3fa-f4d7-4438-862d-42352cd62fa9/relationships/uid?resourceVersion=id%3A163"
+        }
+      }
+    },
+    "thumbnail": {
+      "data": {
+        "type": "file--file",
+        "id": "425906fb-d250-4aea-81a9-4733a3b9a5f9",
+        "meta": {
+          "alt": "1912 In Bayreuth",
+          "title": null,
+          "width": 1924,
+          "height": 1662,
+          "drupal_internal__target_id": 224
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/d2b1d3fa-f4d7-4438-862d-42352cd62fa9/thumbnail?resourceVersion=id%3A163"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/d2b1d3fa-f4d7-4438-862d-42352cd62fa9/relationships/thumbnail?resourceVersion=id%3A163"
+        }
+      }
+    },
+    "field_media_image": {
+      "data": {
+        "type": "file--file",
+        "id": "425906fb-d250-4aea-81a9-4733a3b9a5f9",
+        "meta": {
+          "alt": "1912 In Bayreuth",
+          "title": "1912_koelnische",
+          "width": 1924,
+          "height": 1662,
+          "drupal_internal__target_id": 224
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/d2b1d3fa-f4d7-4438-862d-42352cd62fa9/field_media_image?resourceVersion=id%3A163"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/d2b1d3fa-f4d7-4438-862d-42352cd62fa9/relationships/field_media_image?resourceVersion=id%3A163"
+        }
+      }
+    }
+  }
+}

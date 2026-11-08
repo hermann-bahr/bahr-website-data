@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "b873c9ed-81df-4d93-a1d1-79466097a651",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b873c9ed-81df-4d93-a1d1-79466097a651?resourceVersion=id%3A2686"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b873c9ed-81df-4d93-a1d1-79466097a651?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38871,
+    "drupal_internal__vid": 2686,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Stifter als \"Prämium\"",
+    "created": "2011-02-18T22:01:16+00:00",
+    "changed": "2011-11-03T11:46:26+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38871",
+      "pid": 614,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Hermann Hesse sah im Insistieren auf Stifter, das zu einer Insel-Ausgabe führte, einer der Verdienste Hermann Bahrs. Bahr selbst will Stifter schon früh kennengelernt haben, 1877, nach der vierten Gymnasialklasse, habe er die \"Studien\" als Prämium erhalten.",
+      "format": "full_html",
+      "processed": "Hermann Hesse sah im Insistieren auf Stifter, das zu einer Insel-Ausgabe führte, einer der Verdienste Hermann Bahrs. Bahr selbst will Stifter schon früh kennengelernt haben, 1877, nach der vierten Gymnasialklasse, habe er die \"Studien\" als Prämium erhalten.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1877-07-01",
+      "end_value": "1877-07-01"
+    },
+    "field_sources": [
+      "Hermann Bahr: Denkzettel. Der Gral, 12 (1918) #10, 421."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b873c9ed-81df-4d93-a1d1-79466097a651/node_type?resourceVersion=id%3A2686"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b873c9ed-81df-4d93-a1d1-79466097a651/relationships/node_type?resourceVersion=id%3A2686"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b873c9ed-81df-4d93-a1d1-79466097a651/revision_uid?resourceVersion=id%3A2686"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b873c9ed-81df-4d93-a1d1-79466097a651/relationships/revision_uid?resourceVersion=id%3A2686"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b873c9ed-81df-4d93-a1d1-79466097a651/uid?resourceVersion=id%3A2686"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b873c9ed-81df-4d93-a1d1-79466097a651/relationships/uid?resourceVersion=id%3A2686"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b873c9ed-81df-4d93-a1d1-79466097a651/field_event_type?resourceVersion=id%3A2686"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b873c9ed-81df-4d93-a1d1-79466097a651/relationships/field_event_type?resourceVersion=id%3A2686"
+        }
+      }
+    }
+  }
+}

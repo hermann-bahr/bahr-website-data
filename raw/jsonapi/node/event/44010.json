@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "19133be1-1da2-42b8-aaa6-91dec8d7961a",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/19133be1-1da2-42b8-aaa6-91dec8d7961a?resourceVersion=id%3A2935"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/19133be1-1da2-42b8-aaa6-91dec8d7961a?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44010,
+    "drupal_internal__vid": 2935,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Saar",
+    "created": "2011-07-13T17:15:59+00:00",
+    "changed": "2011-07-13T17:15:59+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44010",
+      "pid": 908,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "6. Jänner 1896: \r\n<blockquote>Abends bei Saar; die Tochter Wertheimstein kennen gelernt.</blockquote>",
+      "format": "full_html",
+      "processed": "6. Jänner 1896: \n<blockquote>Abends bei Saar; die Tochter Wertheimstein kennen gelernt.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1896-01-06",
+      "end_value": "1896-01-06"
+    },
+    "field_sources": [
+      "Tagebücher (Csàky), II, 211."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/19133be1-1da2-42b8-aaa6-91dec8d7961a/node_type?resourceVersion=id%3A2935"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/19133be1-1da2-42b8-aaa6-91dec8d7961a/relationships/node_type?resourceVersion=id%3A2935"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/19133be1-1da2-42b8-aaa6-91dec8d7961a/revision_uid?resourceVersion=id%3A2935"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/19133be1-1da2-42b8-aaa6-91dec8d7961a/relationships/revision_uid?resourceVersion=id%3A2935"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/19133be1-1da2-42b8-aaa6-91dec8d7961a/uid?resourceVersion=id%3A2935"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/19133be1-1da2-42b8-aaa6-91dec8d7961a/relationships/uid?resourceVersion=id%3A2935"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/19133be1-1da2-42b8-aaa6-91dec8d7961a/field_event_type?resourceVersion=id%3A2935"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/19133be1-1da2-42b8-aaa6-91dec8d7961a/relationships/field_event_type?resourceVersion=id%3A2935"
+        }
+      }
+    }
+  }
+}

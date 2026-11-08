@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "eefb4a9c-f5cb-4fe9-a2e7-607bfdd0f00d",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/eefb4a9c-f5cb-4fe9-a2e7-607bfdd0f00d?resourceVersion=id%3A3180"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/eefb4a9c-f5cb-4fe9-a2e7-607bfdd0f00d?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49333,
+    "drupal_internal__vid": 3180,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Semmering",
+    "created": "2011-10-11T08:22:56+00:00",
+    "changed": "2011-10-11T08:42:13+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49333",
+      "pid": 1159,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 17. September 1912 schreibt Bahr aus der Villa Mautner an Redlich.[1] Er plant, länger zu bleiben und nur für Konzerte seiner Frau in die Stadt zu fahren. Auch am 8. Oktober ist er noch da.[2]",
+      "format": "full_html",
+      "processed": "Am 17. September 1912 schreibt Bahr aus der Villa Mautner an Redlich.[1] Er plant, länger zu bleiben und nur für Konzerte seiner Frau in die Stadt zu fahren. Auch am 8. Oktober ist er noch da.[2]",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1912-09-17",
+      "end_value": "1912-10-08"
+    },
+    "field_sources": [
+      "[1] Bahr/Redlich, 83.",
+      "[2] \"Erinnerung\" in: Die jungen Mitglieder der Literatur- u. Kunst-Gesellschaft \"Pan\", Hg.: Salzburg. Ein literarisches Sammelwerk. Salzburg: Eugen Richters Nachflg. 1913, 1-3. ist datiert mit \"Semmering, 8.10.1912\""
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/eefb4a9c-f5cb-4fe9-a2e7-607bfdd0f00d/node_type?resourceVersion=id%3A3180"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/eefb4a9c-f5cb-4fe9-a2e7-607bfdd0f00d/relationships/node_type?resourceVersion=id%3A3180"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/eefb4a9c-f5cb-4fe9-a2e7-607bfdd0f00d/revision_uid?resourceVersion=id%3A3180"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/eefb4a9c-f5cb-4fe9-a2e7-607bfdd0f00d/relationships/revision_uid?resourceVersion=id%3A3180"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/eefb4a9c-f5cb-4fe9-a2e7-607bfdd0f00d/uid?resourceVersion=id%3A3180"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/eefb4a9c-f5cb-4fe9-a2e7-607bfdd0f00d/relationships/uid?resourceVersion=id%3A3180"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/eefb4a9c-f5cb-4fe9-a2e7-607bfdd0f00d/field_event_type?resourceVersion=id%3A3180"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/eefb4a9c-f5cb-4fe9-a2e7-607bfdd0f00d/relationships/field_event_type?resourceVersion=id%3A3180"
+        }
+      }
+    }
+  }
+}

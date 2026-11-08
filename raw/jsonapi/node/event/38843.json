@@ -1,0 +1,121 @@
+{
+  "type": "node--event",
+  "id": "22461a0f-82c5-4d3c-a1d5-f1f617172c67",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/22461a0f-82c5-4d3c-a1d5-f1f617172c67?resourceVersion=id%3A2660"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/22461a0f-82c5-4d3c-a1d5-f1f617172c67?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38843,
+    "drupal_internal__vid": 2660,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Religiöse Wandlung",
+    "created": "2011-02-11T10:49:42+00:00",
+    "changed": "2011-11-07T10:49:23+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38843",
+      "pid": 588,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Die Kölnische Volkszeitung schreibt am 30. Mai 1916:<blockquote>Ende Februar 1914 kam aus Wien die überraschende Nachricht, daß Hermann Bahr, einer der Modernsten unter den Modernen, ein Dichter, der seit Beginn der achtziger Jahre alle Wandlungen und geistigen Moden im europäischen Leben als einer der ersten verkündigte, zur katholischen Religion zurückgekehrt sei.</blockquote>Die Datierung mit Ende Februar 1914 dürfte auf ein Nachdruck des Interviews Johannes Müllers in der Reichspost (19.2.1914) zurückgehen. Aber nicht nur ist das Interview Ende 1913 entstanden, sondern sind auch mehrere Texte zur Religion Bahrs 1912 dokumentiert, die an Bahrs vollzogenem Glaubenswandel schon in diesem Jahr keinen Zweifel lassen. Als schriftlicher Beginn legt sich der Jänner 1912 nahe, in dem er \"Religion\" schrieb (Fußnote S. 66 in \"Inventur\"). Trotzdem hat 1914 (und das Erscheinen seines ersten katholischen Romans \"Himmelfahrt\" 1916) zu häufiger Fehldatierung geführt, das sich auch mit dem Selbstbildnis falsifizieren hätte lassen, wo steht: <blockquote>1904, als Todesnot mich ans Erwachen mahnte, und wieder noch, fast zehn Jahre später, als ich heim zur Kirche ging</blockquote>Die Todesnot war Anfang 1904, also sind acht-neun Jahre 1912/1913.",
+      "format": "full_html",
+      "processed": "Die Kölnische Volkszeitung schreibt am 30. Mai 1916:<blockquote>Ende Februar 1914 kam aus Wien die überraschende Nachricht, daß Hermann Bahr, einer der Modernsten unter den Modernen, ein Dichter, der seit Beginn der achtziger Jahre alle Wandlungen und geistigen Moden im europäischen Leben als einer der ersten verkündigte, zur katholischen Religion zurückgekehrt sei.</blockquote>Die Datierung mit Ende Februar 1914 dürfte auf ein Nachdruck des Interviews Johannes Müllers in der Reichspost (19.2.1914) zurückgehen. Aber nicht nur ist das Interview Ende 1913 entstanden, sondern sind auch mehrere Texte zur Religion Bahrs 1912 dokumentiert, die an Bahrs vollzogenem Glaubenswandel schon in diesem Jahr keinen Zweifel lassen. Als schriftlicher Beginn legt sich der Jänner 1912 nahe, in dem er \"Religion\" schrieb (Fußnote S. 66 in \"Inventur\"). Trotzdem hat 1914 (und das Erscheinen seines ersten katholischen Romans \"Himmelfahrt\" 1916) zu häufiger Fehldatierung geführt, das sich auch mit dem Selbstbildnis falsifizieren hätte lassen, wo steht: <blockquote>1904, als Todesnot mich ans Erwachen mahnte, und wieder noch, fast zehn Jahre später, als ich heim zur Kirche ging</blockquote>Die Todesnot war Anfang 1904, also sind acht-neun Jahre 1912/1913.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1912-01-01",
+      "end_value": "1912-01-01"
+    },
+    "field_sources": [
+      "Kölnische Volkszeitung zitiert nach: Deutscher Merkur. Der romfreie Katholik, 47 (1916) #13, 100-101. (23.6.1916)",
+      "Hermann Bahr: Von Religion und Kultur. Hermann Bahr über die katholische Kirche. Reichspost, 21 (1914) #82, Morgenblatt, 11. (19.2.1914)",
+      "Johannes Müller und Hermann Bahr: Eine Unterhaltung mit Hermann Bahr über die Kirche. Blätter zur Pflege persönlichen Lebens, 16 (1913) #4, 178-192.",
+      "Hermann Bahr: Religion. Pan, 2 (1912) #11, 323-326. (1.2.1912) Buchausgabe: Inventur, 61-73.",
+      "Hermann Bahr: Shaw über Religion. Hannoverscher Courier, 59 (1912) #29954, Morgen-Ausgabe, 1-2. (20.6.1912)",
+      "Selbstbildnis, 80."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/22461a0f-82c5-4d3c-a1d5-f1f617172c67/node_type?resourceVersion=id%3A2660"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/22461a0f-82c5-4d3c-a1d5-f1f617172c67/relationships/node_type?resourceVersion=id%3A2660"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/22461a0f-82c5-4d3c-a1d5-f1f617172c67/revision_uid?resourceVersion=id%3A2660"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/22461a0f-82c5-4d3c-a1d5-f1f617172c67/relationships/revision_uid?resourceVersion=id%3A2660"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/22461a0f-82c5-4d3c-a1d5-f1f617172c67/uid?resourceVersion=id%3A2660"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/22461a0f-82c5-4d3c-a1d5-f1f617172c67/relationships/uid?resourceVersion=id%3A2660"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/22461a0f-82c5-4d3c-a1d5-f1f617172c67/field_event_type?resourceVersion=id%3A2660"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/22461a0f-82c5-4d3c-a1d5-f1f617172c67/relationships/field_event_type?resourceVersion=id%3A2660"
+        }
+      }
+    }
+  }
+}

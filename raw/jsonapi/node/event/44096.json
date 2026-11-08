@@ -1,0 +1,120 @@
+{
+  "type": "node--event",
+  "id": "915c4896-eaf2-4a9c-9a08-f50d7da308fa",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/915c4896-eaf2-4a9c-9a08-f50d7da308fa?resourceVersion=id%3A3013"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/915c4896-eaf2-4a9c-9a08-f50d7da308fa?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44096,
+    "drupal_internal__vid": 3013,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Kleines Theater",
+    "created": "2011-09-08T14:27:59+00:00",
+    "changed": "2011-09-08T15:27:40+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44096",
+      "pid": 991,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Das Gastspiel des Berliner Kleinen Theaters, das vom 1. zum 10. Mai 1903 in Wien stattfindet, ist für Bahr ein Glücksfall. Die Truppe, die aus dem kabarettistischen \"Schall und Rauch\" hervorging, ist als Familie zusammengewachsen und so überhaupt gewachsen. Hier sieht er die neue deutsche Schauspielkunst verwirklicht.",
+      "format": "full_html",
+      "processed": "Das Gastspiel des Berliner Kleinen Theaters, das vom 1. zum 10. Mai 1903 in Wien stattfindet, ist für Bahr ein Glücksfall. Die Truppe, die aus dem kabarettistischen \"Schall und Rauch\" hervorging, ist als Familie zusammengewachsen und so überhaupt gewachsen. Hier sieht er die neue deutsche Schauspielkunst verwirklicht.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1903-05-01",
+      "end_value": "1903-05-10"
+    },
+    "field_sources": [
+      "Hermann Bahr: Kleines Theater. (Zum Gastspiele im Deutschen Volkstheater vom 1. bis 10. Mai 1903). Neues Wiener Tagblatt, 37 (1903) #119, 2-4. (1.5.1903) Buchausgabe: Glossen, 236-244\r\n",
+      "H. B.: Theater, Kunst und Literatur. Deutsches Volkstheater. Neues Wiener Tagblatt, 37 (1903) #120, 13. (2.5.1903)",
+      "H. B.: Theater, Kunst und Literatur. Deutsches Volkstheater. Neues Wiener Tagblatt, 37 (1903) #122, 6-7. (4.5.1903)",
+      "H. B.: Theater, Kunst und Literatur. Deutsches Volkstheater. Neues Wiener Tagblatt, 37 (1903) #123, 9. (5.5.1903)",
+      "H. B.: Theater, Kunst und Literatur. Deutsches Volkstheater. Neues Wiener Tagblatt, 37 (1903) #125, 9-10. (7.5.1903)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/915c4896-eaf2-4a9c-9a08-f50d7da308fa/node_type?resourceVersion=id%3A3013"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/915c4896-eaf2-4a9c-9a08-f50d7da308fa/relationships/node_type?resourceVersion=id%3A3013"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/915c4896-eaf2-4a9c-9a08-f50d7da308fa/revision_uid?resourceVersion=id%3A3013"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/915c4896-eaf2-4a9c-9a08-f50d7da308fa/relationships/revision_uid?resourceVersion=id%3A3013"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/915c4896-eaf2-4a9c-9a08-f50d7da308fa/uid?resourceVersion=id%3A3013"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/915c4896-eaf2-4a9c-9a08-f50d7da308fa/relationships/uid?resourceVersion=id%3A3013"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/915c4896-eaf2-4a9c-9a08-f50d7da308fa/field_event_type?resourceVersion=id%3A3013"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/915c4896-eaf2-4a9c-9a08-f50d7da308fa/relationships/field_event_type?resourceVersion=id%3A3013"
+        }
+      }
+    }
+  }
+}

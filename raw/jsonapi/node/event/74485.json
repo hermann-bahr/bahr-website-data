@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "7cde6047-e71a-4e45-bc8a-49a66391d25a",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/7cde6047-e71a-4e45-bc8a-49a66391d25a?resourceVersion=id%3A3796"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/7cde6047-e71a-4e45-bc8a-49a66391d25a?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74485,
+    "drupal_internal__vid": 3796,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Salzburg, Linz",
+    "created": "2013-03-12T15:10:50+00:00",
+    "changed": "2013-03-12T15:10:50+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/74485",
+      "pid": 1859,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Um den 21. Mai 1887 hat Bahr alle Sachen in Berlin erledigt und reist auf den Wunsch des Vaters nach Salzburg, vermutlich in Folge auch nach Linz. Seinem Wunsch, ihn nach Wien übersiedeln zu lassen, leistet der Vater nicht Folge, erst zum Militärdienst im September kommt Bahr in die Hauptstadt.",
+      "format": "full_html",
+      "processed": "Um den 21. Mai 1887 hat Bahr alle Sachen in Berlin erledigt und reist auf den Wunsch des Vaters nach Salzburg, vermutlich in Folge auch nach Linz. Seinem Wunsch, ihn nach Wien übersiedeln zu lassen, leistet der Vater nicht Folge, erst zum Militärdienst im September kommt Bahr in die Hauptstadt.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1887-05-21",
+      "end_value": "1887-09-22"
+    },
+    "field_sources": [
+      "Brief an den Vater, 15. Mai 1887"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7cde6047-e71a-4e45-bc8a-49a66391d25a/node_type?resourceVersion=id%3A3796"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7cde6047-e71a-4e45-bc8a-49a66391d25a/relationships/node_type?resourceVersion=id%3A3796"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7cde6047-e71a-4e45-bc8a-49a66391d25a/revision_uid?resourceVersion=id%3A3796"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7cde6047-e71a-4e45-bc8a-49a66391d25a/relationships/revision_uid?resourceVersion=id%3A3796"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7cde6047-e71a-4e45-bc8a-49a66391d25a/uid?resourceVersion=id%3A3796"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7cde6047-e71a-4e45-bc8a-49a66391d25a/relationships/uid?resourceVersion=id%3A3796"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7cde6047-e71a-4e45-bc8a-49a66391d25a/field_event_type?resourceVersion=id%3A3796"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7cde6047-e71a-4e45-bc8a-49a66391d25a/relationships/field_event_type?resourceVersion=id%3A3796"
+        }
+      }
+    }
+  }
+}

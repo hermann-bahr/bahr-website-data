@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "5ac1f068-28d3-44b4-8130-cc548c146167",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/5ac1f068-28d3-44b4-8130-cc548c146167?resourceVersion=id%3A2990"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/5ac1f068-28d3-44b4-8130-cc548c146167?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44072,
+    "drupal_internal__vid": 2990,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Darmstadt",
+    "created": "2011-09-05T08:58:05+00:00",
+    "changed": "2011-09-05T08:58:05+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44072",
+      "pid": 968,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 13. November 1908 besucht er Olbrichs Witwe Claire in Darmstadt.",
+      "format": "full_html",
+      "processed": "Am 13. November 1908 besucht er Olbrichs Witwe Claire in Darmstadt.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1908-11-13",
+      "end_value": "1908-11-13"
+    },
+    "field_sources": [
+      "Tagebücher (Csàky), V, 392."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5ac1f068-28d3-44b4-8130-cc548c146167/node_type?resourceVersion=id%3A2990"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5ac1f068-28d3-44b4-8130-cc548c146167/relationships/node_type?resourceVersion=id%3A2990"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5ac1f068-28d3-44b4-8130-cc548c146167/revision_uid?resourceVersion=id%3A2990"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5ac1f068-28d3-44b4-8130-cc548c146167/relationships/revision_uid?resourceVersion=id%3A2990"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5ac1f068-28d3-44b4-8130-cc548c146167/uid?resourceVersion=id%3A2990"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5ac1f068-28d3-44b4-8130-cc548c146167/relationships/uid?resourceVersion=id%3A2990"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5ac1f068-28d3-44b4-8130-cc548c146167/field_event_type?resourceVersion=id%3A2990"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5ac1f068-28d3-44b4-8130-cc548c146167/relationships/field_event_type?resourceVersion=id%3A2990"
+        }
+      }
+    }
+  }
+}

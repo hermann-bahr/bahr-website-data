@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "ced54e3c-bf1d-4863-9514-c42a8a9929e3",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/ced54e3c-bf1d-4863-9514-c42a8a9929e3?resourceVersion=id%3A2837"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/ced54e3c-bf1d-4863-9514-c42a8a9929e3?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39062,
+    "drupal_internal__vid": 2837,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "\"Juana\" auf italienisch",
+    "created": "2011-05-04T13:41:33+00:00",
+    "changed": "2011-09-01T09:23:38+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39062",
+      "pid": 794,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<blockquote>* Das Schauspiel \"Juana\" von Hermann Bahr, welches im Jänner im Raimund-Theater zur Aufführung gelangt, wird gegenwärtig von dem bekannten Übersetzer Otto Eisenschitz ins Italienische übersetzt und soll noch in dieser Saison durch die Gesellschaft Andò dargestellt werden.</blockquote>",
+      "format": "full_html",
+      "processed": "<blockquote>* Das Schauspiel \"Juana\" von Hermann Bahr, welches im Jänner im Raimund-Theater zur Aufführung gelangt, wird gegenwärtig von dem bekannten Übersetzer Otto Eisenschitz ins Italienische übersetzt und soll noch in dieser Saison durch die Gesellschaft Andò dargestellt werden.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1896-11-25",
+      "end_value": "1896-11-25"
+    },
+    "field_sources": [
+      "Neues Wiener Tagblatt, 30 (1896) #325, 3. (25.11.1896)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ced54e3c-bf1d-4863-9514-c42a8a9929e3/node_type?resourceVersion=id%3A2837"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ced54e3c-bf1d-4863-9514-c42a8a9929e3/relationships/node_type?resourceVersion=id%3A2837"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ced54e3c-bf1d-4863-9514-c42a8a9929e3/revision_uid?resourceVersion=id%3A2837"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ced54e3c-bf1d-4863-9514-c42a8a9929e3/relationships/revision_uid?resourceVersion=id%3A2837"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ced54e3c-bf1d-4863-9514-c42a8a9929e3/uid?resourceVersion=id%3A2837"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ced54e3c-bf1d-4863-9514-c42a8a9929e3/relationships/uid?resourceVersion=id%3A2837"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ced54e3c-bf1d-4863-9514-c42a8a9929e3/field_event_type?resourceVersion=id%3A2837"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ced54e3c-bf1d-4863-9514-c42a8a9929e3/relationships/field_event_type?resourceVersion=id%3A2837"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "0996f1d4-84c5-468f-b4b5-59777d1f6f1b",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/0996f1d4-84c5-468f-b4b5-59777d1f6f1b?resourceVersion=id%3A3294"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/0996f1d4-84c5-468f-b4b5-59777d1f6f1b?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49453,
+    "drupal_internal__vid": 3294,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Berchtesgaden",
+    "created": "2011-10-20T14:01:17+00:00",
+    "changed": "2012-10-05T14:17:28+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49453",
+      "pid": 1275,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 23. Dezember 1920 will er seine nunmehr ständig in München lebende Frau in Berchtesgaden treffen, um bis nach Dreikönig (6.1.) zu bleiben. Am 3. beklagt er sich, dass er bislang noch nicht Skifahren konnte. Am 7. verfasst er sein \"Tagebuch\" wieder in Salzburg.",
+      "format": "full_html",
+      "processed": "Am 23. Dezember 1920 will er seine nunmehr ständig in München lebende Frau in Berchtesgaden treffen, um bis nach Dreikönig (6.1.) zu bleiben. Am 3. beklagt er sich, dass er bislang noch nicht Skifahren konnte. Am 7. verfasst er sein \"Tagebuch\" wieder in Salzburg.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1920-12-23",
+      "end_value": "1921-01-07"
+    },
+    "field_sources": [
+      "Tagebuch. Berchtesgaden, 1. Januar 1921. In: Liebe der Lebenden, 15-16.",
+      "Bahr/Redlich, 442-445",
+      "Tagebuch. Salzburg, 7. Januar. In: Liebe der Lebenden, 20."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0996f1d4-84c5-468f-b4b5-59777d1f6f1b/node_type?resourceVersion=id%3A3294"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0996f1d4-84c5-468f-b4b5-59777d1f6f1b/relationships/node_type?resourceVersion=id%3A3294"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0996f1d4-84c5-468f-b4b5-59777d1f6f1b/revision_uid?resourceVersion=id%3A3294"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0996f1d4-84c5-468f-b4b5-59777d1f6f1b/relationships/revision_uid?resourceVersion=id%3A3294"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0996f1d4-84c5-468f-b4b5-59777d1f6f1b/uid?resourceVersion=id%3A3294"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0996f1d4-84c5-468f-b4b5-59777d1f6f1b/relationships/uid?resourceVersion=id%3A3294"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0996f1d4-84c5-468f-b4b5-59777d1f6f1b/field_event_type?resourceVersion=id%3A3294"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0996f1d4-84c5-468f-b4b5-59777d1f6f1b/relationships/field_event_type?resourceVersion=id%3A3294"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "71f59726-bb38-4955-a2ff-52b3f7fa6c70",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/71f59726-bb38-4955-a2ff-52b3f7fa6c70?resourceVersion=id%3A2596"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/71f59726-bb38-4955-a2ff-52b3f7fa6c70?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38775,
+    "drupal_internal__vid": 2596,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Reicher-Lesungen",
+    "created": "2011-01-31T16:54:01+00:00",
+    "changed": "2011-11-03T10:52:04+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38775",
+      "pid": 523,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahr, der Emanuel Reichers Namen in der Öffentlichkeit mit seinem verknüpft wahrnimmt, ist dabei, als dieser am 5. Februar 1892 bei der Fürstin Metternich vorliest, unter anderem Bahrs \"Wiegenlied\". Das selbe liest er bei der Goldschmidt-Matinée am 7. vor 200 Leuten sowie ein weiteres Mal (ohne Anwesenheit Bahrs) im Club Concordia.\r\n",
+      "format": "full_html",
+      "processed": "Bahr, der Emanuel Reichers Namen in der Öffentlichkeit mit seinem verknüpft wahrnimmt, ist dabei, als dieser am 5. Februar 1892 bei der Fürstin Metternich vorliest, unter anderem Bahrs \"Wiegenlied\". Das selbe liest er bei der Goldschmidt-Matinée am 7. vor 200 Leuten sowie ein weiteres Mal (ohne Anwesenheit Bahrs) im Club Concordia.\n",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1892-02-05",
+      "end_value": "1892-02-07"
+    },
+    "field_sources": [
+      "Brief an den Vater, 7.2.1892 und 14.2.1892"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/71f59726-bb38-4955-a2ff-52b3f7fa6c70/node_type?resourceVersion=id%3A2596"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/71f59726-bb38-4955-a2ff-52b3f7fa6c70/relationships/node_type?resourceVersion=id%3A2596"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/71f59726-bb38-4955-a2ff-52b3f7fa6c70/revision_uid?resourceVersion=id%3A2596"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/71f59726-bb38-4955-a2ff-52b3f7fa6c70/relationships/revision_uid?resourceVersion=id%3A2596"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/71f59726-bb38-4955-a2ff-52b3f7fa6c70/uid?resourceVersion=id%3A2596"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/71f59726-bb38-4955-a2ff-52b3f7fa6c70/relationships/uid?resourceVersion=id%3A2596"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/71f59726-bb38-4955-a2ff-52b3f7fa6c70/field_event_type?resourceVersion=id%3A2596"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/71f59726-bb38-4955-a2ff-52b3f7fa6c70/relationships/field_event_type?resourceVersion=id%3A2596"
+        }
+      }
+    }
+  }
+}

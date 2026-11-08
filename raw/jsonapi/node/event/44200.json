@@ -1,0 +1,119 @@
+{
+  "type": "node--event",
+  "id": "eca29cab-6f59-4ad2-9a83-6616a9cfe370",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/eca29cab-6f59-4ad2-9a83-6616a9cfe370?resourceVersion=id%3A3114"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/eca29cab-6f59-4ad2-9a83-6616a9cfe370?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44200,
+    "drupal_internal__vid": 3114,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "HvH \"Österreichische Bibliothek\"",
+    "created": "2011-09-20T11:07:46+00:00",
+    "changed": "2012-10-30T14:22:32+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44200",
+      "pid": 1093,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Vom 10. bis zum 12. September 1915 treffen sich Hugo von Hofmannsthal und Bahr täglich, um das Projekt einer \"Österreichischen Bibliothek\" zu besprechen. Redlich fasst Hofmannsthal zusammen:<blockquote>er war ganz erfüllt davon und voll der alten Liebe und Verehrung!</blockquote>Bahr:<blockquote>Hofmannsthals Besuch hat mich gefreut, wenn ich auch schmerzlich empfinde, daß er selbst schließlich, im Politischen, nur ein Improvisator ist und glaubt, Versäumnisse von Jahrhunderten ließen sich durch Inspiration eines glücklichen Augenblicks kurieren.</blockquote>",
+      "format": "full_html",
+      "processed": "Vom 10. bis zum 12. September 1915 treffen sich Hugo von Hofmannsthal und Bahr täglich, um das Projekt einer \"Österreichischen Bibliothek\" zu besprechen. Redlich fasst Hofmannsthal zusammen:<blockquote>er war ganz erfüllt davon und voll der alten Liebe und Verehrung!</blockquote>Bahr:<blockquote>Hofmannsthals Besuch hat mich gefreut, wenn ich auch schmerzlich empfinde, daß er selbst schließlich, im Politischen, nur ein Improvisator ist und glaubt, Versäumnisse von Jahrhunderten ließen sich durch Inspiration eines glücklichen Augenblicks kurieren.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1915-09-10",
+      "end_value": "1915-09-12"
+    },
+    "field_sources": [
+      "Bahr/Kvapil, 380.",
+      "Bahr/Redlich, 128. (An Bahr, 26.9.1915, der Brief davor 31.8.)",
+      "Bahr/Redlich, 129. (An Redlich, 28.9.1915)",
+      "TB Bahr, 10.9.1915, zit. n. Von HvH, 7.9.1915, Anm. In: Briefwechsel Bahr/Hofmannsthal. Hg. Elsbeth Dangel-Pelloquin. Göttingen: Wallstein. (In Vorbereitung)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/eca29cab-6f59-4ad2-9a83-6616a9cfe370/node_type?resourceVersion=id%3A3114"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/eca29cab-6f59-4ad2-9a83-6616a9cfe370/relationships/node_type?resourceVersion=id%3A3114"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/eca29cab-6f59-4ad2-9a83-6616a9cfe370/revision_uid?resourceVersion=id%3A3114"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/eca29cab-6f59-4ad2-9a83-6616a9cfe370/relationships/revision_uid?resourceVersion=id%3A3114"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/eca29cab-6f59-4ad2-9a83-6616a9cfe370/uid?resourceVersion=id%3A3114"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/eca29cab-6f59-4ad2-9a83-6616a9cfe370/relationships/uid?resourceVersion=id%3A3114"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/eca29cab-6f59-4ad2-9a83-6616a9cfe370/field_event_type?resourceVersion=id%3A3114"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/eca29cab-6f59-4ad2-9a83-6616a9cfe370/relationships/field_event_type?resourceVersion=id%3A3114"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "0e15af0f-eb27-4665-93b9-470a8134ab2b",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/0e15af0f-eb27-4665-93b9-470a8134ab2b?resourceVersion=id%3A2341"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/0e15af0f-eb27-4665-93b9-470a8134ab2b?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28009,
+    "drupal_internal__vid": 2341,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Der Meister",
+    "created": "2010-07-27T15:10:54+00:00",
+    "changed": "2012-10-29T09:58:58+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28009",
+      "pid": 175,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 12. Dezember 1903 hat am Deutschen Theater in Berlin \"Der Meister\" in Anwesenheit Bahrs Première. Regie führte Otto Brahm.\r\n\r\nDas Lustspiel handelt vom Alternativmediziner Cajus Duhr, der dem Ehebruch seiner Frau mit philosophischer Geste begegnet: Er gönne jedem sein Vergnügen. Zugleich muss er im Lauf des Stücks die Erfahrung machen, dass es seine eigene Gefühlsarmut ist, an der die Beziehung scheiterte.\r\n\r\nEine Klage darüber, dass Wiener Autoren nicht in Wien gespielt werden - und den Autoren auch das Heimatgefühl abgehe - führt Ludwig Fischl in der Ö.V.Z. [1]. Die Buchausgabe von Bahrs erfolgreichem Stück erscheint im Dezember 1903, auf 1904 vordatiert, bei S. Fischer[2], die Bühnenausgabe 1903 bei Ahn [2].",
+      "format": "full_html",
+      "processed": "Am 12. Dezember 1903 hat am Deutschen Theater in Berlin \"Der Meister\" in Anwesenheit Bahrs Première. Regie führte Otto Brahm.\n\nDas Lustspiel handelt vom Alternativmediziner Cajus Duhr, der dem Ehebruch seiner Frau mit philosophischer Geste begegnet: Er gönne jedem sein Vergnügen. Zugleich muss er im Lauf des Stücks die Erfahrung machen, dass es seine eigene Gefühlsarmut ist, an der die Beziehung scheiterte.\n\nEine Klage darüber, dass Wiener Autoren nicht in Wien gespielt werden - und den Autoren auch das Heimatgefühl abgehe - führt Ludwig Fischl in der Ö.V.Z. [1]. Die Buchausgabe von Bahrs erfolgreichem Stück erscheint im Dezember 1903, auf 1904 vordatiert, bei S. Fischer[2], die Bühnenausgabe 1903 bei Ahn [2].",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1903-12-12",
+      "end_value": "1903-12-12"
+    },
+    "field_sources": [
+      "[1] L. F.: Wiener Theater und Wiener Autoren. In: Österreichische Volkszeitung, 49 (1903) #300, 19. (1.11.1903)",
+      "[2] Anm. zu An HvH, 26.9.1903. Briefwechsel Bahr/Hofmannsthal. Hg. Elsbeth Dangel-Pelloquin. Göttingen: Wallstein. (In Vorbereitung)",
+      "[3] Österreichischen Volkszeitung, 49 (1903) #304, 6. (5.11.1903) "
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0e15af0f-eb27-4665-93b9-470a8134ab2b/node_type?resourceVersion=id%3A2341"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0e15af0f-eb27-4665-93b9-470a8134ab2b/relationships/node_type?resourceVersion=id%3A2341"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0e15af0f-eb27-4665-93b9-470a8134ab2b/revision_uid?resourceVersion=id%3A2341"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0e15af0f-eb27-4665-93b9-470a8134ab2b/relationships/revision_uid?resourceVersion=id%3A2341"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0e15af0f-eb27-4665-93b9-470a8134ab2b/uid?resourceVersion=id%3A2341"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0e15af0f-eb27-4665-93b9-470a8134ab2b/relationships/uid?resourceVersion=id%3A2341"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "27f3d2a4-8970-4726-9ab8-ce37707ec1bc",
+          "meta": {
+            "drupal_internal__target_id": 1
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0e15af0f-eb27-4665-93b9-470a8134ab2b/field_event_type?resourceVersion=id%3A2341"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0e15af0f-eb27-4665-93b9-470a8134ab2b/relationships/field_event_type?resourceVersion=id%3A2341"
+        }
+      }
+    }
+  }
+}

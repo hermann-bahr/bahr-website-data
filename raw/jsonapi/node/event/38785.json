@@ -1,0 +1,114 @@
+{
+  "type": "node--event",
+  "id": "fdcce9ac-1cb3-451c-87e8-563bad373f0a",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/fdcce9ac-1cb3-451c-87e8-563bad373f0a?resourceVersion=id%3A2606"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/fdcce9ac-1cb3-451c-87e8-563bad373f0a?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38785,
+    "drupal_internal__vid": 2606,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Anna Bahr",
+    "created": "2011-02-01T12:46:29+00:00",
+    "changed": "2013-01-09T10:11:12+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38785",
+      "pid": 533,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Die Schwester Bahrs und neben dem Vater wichtigste Bezugsperson Hermann Bahrs, trägt den Namen \"Anna Maria Julia\" und wird Anfang Juli 1874 in Linz geboren. 1894 heiratet sie Karl Wilhelm Buz, dem sie nach Augsburg folgt, wo sie 1944 stirbt.",
+      "format": "full_html",
+      "processed": "Die Schwester Bahrs und neben dem Vater wichtigste Bezugsperson Hermann Bahrs, trägt den Namen \"Anna Maria Julia\" und wird Anfang Juli 1874 in Linz geboren. 1894 heiratet sie Karl Wilhelm Buz, dem sie nach Augsburg folgt, wo sie 1944 stirbt.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1874-07-01",
+      "end_value": "1874-07-01"
+    },
+    "field_sources": []
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fdcce9ac-1cb3-451c-87e8-563bad373f0a/node_type?resourceVersion=id%3A2606"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fdcce9ac-1cb3-451c-87e8-563bad373f0a/relationships/node_type?resourceVersion=id%3A2606"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fdcce9ac-1cb3-451c-87e8-563bad373f0a/revision_uid?resourceVersion=id%3A2606"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fdcce9ac-1cb3-451c-87e8-563bad373f0a/relationships/revision_uid?resourceVersion=id%3A2606"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fdcce9ac-1cb3-451c-87e8-563bad373f0a/uid?resourceVersion=id%3A2606"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fdcce9ac-1cb3-451c-87e8-563bad373f0a/relationships/uid?resourceVersion=id%3A2606"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fdcce9ac-1cb3-451c-87e8-563bad373f0a/field_event_type?resourceVersion=id%3A2606"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fdcce9ac-1cb3-451c-87e8-563bad373f0a/relationships/field_event_type?resourceVersion=id%3A2606"
+        }
+      }
+    }
+  }
+}

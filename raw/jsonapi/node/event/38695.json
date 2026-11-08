@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "9f631f18-93fe-45b4-8480-ab0c89109011",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/9f631f18-93fe-45b4-8480-ab0c89109011?resourceVersion=id%3A2558"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/9f631f18-93fe-45b4-8480-ab0c89109011?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38695,
+    "drupal_internal__vid": 2558,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Peter Altenberg",
+    "created": "2010-12-28T15:55:17+00:00",
+    "changed": "2011-09-12T14:11:28+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38695",
+      "pid": 445,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "In einem Brief an Bahr bedauert Peter Altenberg zu Beginn des Herbsts 1895, dass ihn ein Nervenleiden darum bringe, die persönliche Bekanntschaft mit Bahr machen zu können, die Bahr im Sommer in Aussicht genommen habe. Er bittet um eine Empfehlung für den S. Fischer-Verlag, der dann wirklich \"Wie ich es sehe\" verlegt und das von Bahr in der \"Zeit\" sehr positiv besprochen wird.",
+      "format": "full_html",
+      "processed": "In einem Brief an Bahr bedauert Peter Altenberg zu Beginn des Herbsts 1895, dass ihn ein Nervenleiden darum bringe, die persönliche Bekanntschaft mit Bahr machen zu können, die Bahr im Sommer in Aussicht genommen habe. Er bittet um eine Empfehlung für den S. Fischer-Verlag, der dann wirklich \"Wie ich es sehe\" verlegt und das von Bahr in der \"Zeit\" sehr positiv besprochen wird.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1895-09-23",
+      "end_value": "1895-09-23"
+    },
+    "field_sources": [
+      "Peter Altenberg: Die Selbsterfindung eines Dichters. Briefe und Dokumente 1892 - 1896. Hg. und mit einem Nachwort von Leo A. Lensing. Göttingen: Wallstein-Verlag, 2009, 34-36. [32]",
+      "Hermann Bahr: Ein neuer Dichter. Die Zeit, 7 (1896) #83, 75-76. (2.5.1896) Buchausgabe: Renaissance, 45-52.</i>"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9f631f18-93fe-45b4-8480-ab0c89109011/node_type?resourceVersion=id%3A2558"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9f631f18-93fe-45b4-8480-ab0c89109011/relationships/node_type?resourceVersion=id%3A2558"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9f631f18-93fe-45b4-8480-ab0c89109011/revision_uid?resourceVersion=id%3A2558"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9f631f18-93fe-45b4-8480-ab0c89109011/relationships/revision_uid?resourceVersion=id%3A2558"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9f631f18-93fe-45b4-8480-ab0c89109011/uid?resourceVersion=id%3A2558"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9f631f18-93fe-45b4-8480-ab0c89109011/relationships/uid?resourceVersion=id%3A2558"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9f631f18-93fe-45b4-8480-ab0c89109011/field_event_type?resourceVersion=id%3A2558"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9f631f18-93fe-45b4-8480-ab0c89109011/relationships/field_event_type?resourceVersion=id%3A2558"
+        }
+      }
+    }
+  }
+}

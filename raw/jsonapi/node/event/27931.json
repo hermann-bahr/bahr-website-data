@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "0e10532e-349d-4935-9ecd-b525c048e608",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/0e10532e-349d-4935-9ecd-b525c048e608?resourceVersion=id%3A2273"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/0e10532e-349d-4935-9ecd-b525c048e608?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27931,
+    "drupal_internal__vid": 2273,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Renaissance",
+    "created": "2010-07-19T10:58:04+00:00",
+    "changed": "2012-10-29T09:54:22+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/27931",
+      "pid": 107,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahrs vierte Zusammenstellung eigener Kritiken kommt am 1. Februar 1897 in den Handel. Erstmals besteht es aus ausschließlich bei einem Publikationsorgan - der 'Zeit' - zuerst Erschienenem.\r\n\r\nGewidmet an Hugo von Hofmannsthal und Leopold Andrian ist das zusätzlich mit handschriftlicher Widmung versehene Exemplar Hofmannsthals von Bahr mit 16. Januar 1897 datiert.\r\n\r\n\r\n",
+      "format": "full_html",
+      "processed": "Bahrs vierte Zusammenstellung eigener Kritiken kommt am 1. Februar 1897 in den Handel. Erstmals besteht es aus ausschließlich bei einem Publikationsorgan - der 'Zeit' - zuerst Erschienenem.\n\nGewidmet an Hugo von Hofmannsthal und Leopold Andrian ist das zusätzlich mit handschriftlicher Widmung versehene Exemplar Hofmannsthals von Bahr mit 16. Januar 1897 datiert.\n\n\n",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1897-01-16",
+      "end_value": "1897-01-16"
+    },
+    "field_sources": [
+      "Briefwechsel Bahr/Hofmannsthal. Hg. Elsbeth Dangel-Pelloquin. Göttingen: Wallstein. (In Vorbereitung), Anm. zu Brief an HB, 7. September 1896 ",
+      "Tagebücher (Csàky), II, 235"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0e10532e-349d-4935-9ecd-b525c048e608/node_type?resourceVersion=id%3A2273"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0e10532e-349d-4935-9ecd-b525c048e608/relationships/node_type?resourceVersion=id%3A2273"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0e10532e-349d-4935-9ecd-b525c048e608/revision_uid?resourceVersion=id%3A2273"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0e10532e-349d-4935-9ecd-b525c048e608/relationships/revision_uid?resourceVersion=id%3A2273"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0e10532e-349d-4935-9ecd-b525c048e608/uid?resourceVersion=id%3A2273"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0e10532e-349d-4935-9ecd-b525c048e608/relationships/uid?resourceVersion=id%3A2273"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "da42ac4a-f48f-4397-af4d-b66e913825fb",
+          "meta": {
+            "drupal_internal__target_id": 3
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0e10532e-349d-4935-9ecd-b525c048e608/field_event_type?resourceVersion=id%3A2273"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0e10532e-349d-4935-9ecd-b525c048e608/relationships/field_event_type?resourceVersion=id%3A2273"
+        }
+      }
+    }
+  }
+}

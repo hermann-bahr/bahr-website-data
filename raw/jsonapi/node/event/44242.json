@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "de1312a8-9474-43c1-8c75-d121243439bc",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/de1312a8-9474-43c1-8c75-d121243439bc?resourceVersion=id%3A3156"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/de1312a8-9474-43c1-8c75-d121243439bc?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44242,
+    "drupal_internal__vid": 3156,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Demenz",
+    "created": "2011-10-03T11:01:40+00:00",
+    "changed": "2011-10-03T11:01:40+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44242",
+      "pid": 1135,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Auf einen Brief von Kvapil vom 1. Oktober 1932 antwortet bis spätestens 18. November seine Gattin:<blockquote>Mein Mann ist seit Monaten unthätig, hat jede Arbeit aufgegeben, erwiedert keinen Brief u. nichts, freute sich aber doch Ihres Gedenkens u. lasst Sie in alter Freundschaft wärmstens grüssen. Körperlich ist er unberufen wohl, aber sein Gedächtniss lasst ihn oft im Stich, aber darüber zu schreiben ist schwer. […] Ich lebe in grosser Arbeit – aber es entsprechen ihr nicht die nöthigen Einnahmen, die durch den völligen Stillstand der Thätigkeit meines Mannes nu[n] sehr reduziert sind.</blockquote>",
+      "format": "full_html",
+      "processed": "Auf einen Brief von Kvapil vom 1. Oktober 1932 antwortet bis spätestens 18. November seine Gattin:<blockquote>Mein Mann ist seit Monaten unthätig, hat jede Arbeit aufgegeben, erwiedert keinen Brief u. nichts, freute sich aber doch Ihres Gedenkens u. lasst Sie in alter Freundschaft wärmstens grüssen. Körperlich ist er unberufen wohl, aber sein Gedächtniss lasst ihn oft im Stich, aber darüber zu schreiben ist schwer. […] Ich lebe in grosser Arbeit – aber es entsprechen ihr nicht die nöthigen Einnahmen, die durch den völligen Stillstand der Thätigkeit meines Mannes nu[n] sehr reduziert sind.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1932-10-02",
+      "end_value": "1932-10-02"
+    },
+    "field_sources": [
+      "Bahr/Kvapil, 453."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/de1312a8-9474-43c1-8c75-d121243439bc/node_type?resourceVersion=id%3A3156"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/de1312a8-9474-43c1-8c75-d121243439bc/relationships/node_type?resourceVersion=id%3A3156"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/de1312a8-9474-43c1-8c75-d121243439bc/revision_uid?resourceVersion=id%3A3156"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/de1312a8-9474-43c1-8c75-d121243439bc/relationships/revision_uid?resourceVersion=id%3A3156"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/de1312a8-9474-43c1-8c75-d121243439bc/uid?resourceVersion=id%3A3156"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/de1312a8-9474-43c1-8c75-d121243439bc/relationships/uid?resourceVersion=id%3A3156"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/de1312a8-9474-43c1-8c75-d121243439bc/field_event_type?resourceVersion=id%3A3156"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/de1312a8-9474-43c1-8c75-d121243439bc/relationships/field_event_type?resourceVersion=id%3A3156"
+        }
+      }
+    }
+  }
+}

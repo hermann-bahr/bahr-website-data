@@ -1,0 +1,114 @@
+{
+  "type": "node--event",
+  "id": "235a978d-d0d3-41a4-93b6-fdeeb765c737",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/235a978d-d0d3-41a4-93b6-fdeeb765c737?resourceVersion=id%3A2330"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/235a978d-d0d3-41a4-93b6-fdeeb765c737?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27997,
+    "drupal_internal__vid": 2330,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Liechtensteinstr. 38",
+    "created": "2010-07-27T14:28:14+00:00",
+    "changed": "2011-01-26T10:23:37+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/27997",
+      "pid": 164,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Womöglich seit seiner Hochzeit wohnt Bahr in der Liechtensteinstr. 38.  Er ist mit folgenden Eintrag in das Adressverzeichnis Lehmann in der Ausgabe 1896 aufgenommen ist:<blockquote>Bahr Hermann, Schriftsteller, IX/1, Liechtensteinstr. 38. (1-2) T.</blockquote>Dieser wurde im August 1895 zur Drucklegung gebracht. Lehmann 1897 bringt den gleichen Eintrag, für das Jahr 1898 passiert ein Fehler: Anstatt die neue Adresse anzugeben, wird nur die neue Hausnummer zu #37 ausgetauscht.",
+      "format": "full_html",
+      "processed": "Womöglich seit seiner Hochzeit wohnt Bahr in der Liechtensteinstr. 38.  Er ist mit folgenden Eintrag in das Adressverzeichnis Lehmann in der Ausgabe 1896 aufgenommen ist:<blockquote>Bahr Hermann, Schriftsteller, IX/1, Liechtensteinstr. 38. (1-2) T.</blockquote>Dieser wurde im August 1895 zur Drucklegung gebracht. Lehmann 1897 bringt den gleichen Eintrag, für das Jahr 1898 passiert ein Fehler: Anstatt die neue Adresse anzugeben, wird nur die neue Hausnummer zu #37 ausgetauscht.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1895-08-24",
+      "end_value": "1895-08-24"
+    },
+    "field_sources": []
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/235a978d-d0d3-41a4-93b6-fdeeb765c737/node_type?resourceVersion=id%3A2330"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/235a978d-d0d3-41a4-93b6-fdeeb765c737/relationships/node_type?resourceVersion=id%3A2330"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/235a978d-d0d3-41a4-93b6-fdeeb765c737/revision_uid?resourceVersion=id%3A2330"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/235a978d-d0d3-41a4-93b6-fdeeb765c737/relationships/revision_uid?resourceVersion=id%3A2330"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/235a978d-d0d3-41a4-93b6-fdeeb765c737/uid?resourceVersion=id%3A2330"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/235a978d-d0d3-41a4-93b6-fdeeb765c737/relationships/uid?resourceVersion=id%3A2330"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/235a978d-d0d3-41a4-93b6-fdeeb765c737/field_event_type?resourceVersion=id%3A2330"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/235a978d-d0d3-41a4-93b6-fdeeb765c737/relationships/field_event_type?resourceVersion=id%3A2330"
+        }
+      }
+    }
+  }
+}

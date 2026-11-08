@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "d9492bd9-a030-46ec-8597-1c565a60e5aa",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/d9492bd9-a030-46ec-8597-1c565a60e5aa?resourceVersion=id%3A3297"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/d9492bd9-a030-46ec-8597-1c565a60e5aa?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49456,
+    "drupal_internal__vid": 3297,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Finanzielle Situation eng",
+    "created": "2011-10-20T14:45:17+00:00",
+    "changed": "2011-10-20T14:46:19+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49456",
+      "pid": 1278,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Liest man den Briefwechsel Bahr/Redlich, so fällt auf, dass Bahr in der Nachkriegszeit nicht mehr das Geld zu reisen hat. Die Valuta verunmöglichen es ihm, was zugleich auch bedeutet: Ein etwaiges Vermögen besteht zu diesem Zeitpunkt nicht (mehr).",
+      "format": "full_html",
+      "processed": "Liest man den Briefwechsel Bahr/Redlich, so fällt auf, dass Bahr in der Nachkriegszeit nicht mehr das Geld zu reisen hat. Die Valuta verunmöglichen es ihm, was zugleich auch bedeutet: Ein etwaiges Vermögen besteht zu diesem Zeitpunkt nicht (mehr).",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1918-01-01",
+      "end_value": "1918-01-01"
+    },
+    "field_sources": [
+      "Bahr/Redlich, z.B. 393, 459."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d9492bd9-a030-46ec-8597-1c565a60e5aa/node_type?resourceVersion=id%3A3297"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d9492bd9-a030-46ec-8597-1c565a60e5aa/relationships/node_type?resourceVersion=id%3A3297"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d9492bd9-a030-46ec-8597-1c565a60e5aa/revision_uid?resourceVersion=id%3A3297"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d9492bd9-a030-46ec-8597-1c565a60e5aa/relationships/revision_uid?resourceVersion=id%3A3297"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d9492bd9-a030-46ec-8597-1c565a60e5aa/uid?resourceVersion=id%3A3297"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d9492bd9-a030-46ec-8597-1c565a60e5aa/relationships/uid?resourceVersion=id%3A3297"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d9492bd9-a030-46ec-8597-1c565a60e5aa/field_event_type?resourceVersion=id%3A3297"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d9492bd9-a030-46ec-8597-1c565a60e5aa/relationships/field_event_type?resourceVersion=id%3A3297"
+        }
+      }
+    }
+  }
+}

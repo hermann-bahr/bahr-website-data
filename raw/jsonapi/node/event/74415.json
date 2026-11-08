@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "48042288-7537-4990-a807-c6459827562c",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/48042288-7537-4990-a807-c6459827562c?resourceVersion=id%3A3743"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/48042288-7537-4990-a807-c6459827562c?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74415,
+    "drupal_internal__vid": 3743,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "HvH, Gerty",
+    "created": "2012-10-30T10:08:54+00:00",
+    "changed": "2012-10-30T14:23:14+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/74415",
+      "pid": 1789,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Das Treffen am 10. September 1915 in Salzburg ist das erste mit Hugo von Hofmannsthal seit Jahren. Teilweise dabei sind auch dessen Frau Gerty und die Tochter Christiane.",
+      "format": "full_html",
+      "processed": "Das Treffen am 10. September 1915 in Salzburg ist das erste mit Hugo von Hofmannsthal seit Jahren. Teilweise dabei sind auch dessen Frau Gerty und die Tochter Christiane.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1915-09-10",
+      "end_value": "1915-09-10"
+    },
+    "field_sources": [
+      "TB Bahr, 10.9.1915, zit. n. Von HvH, 7.9.1915, Anm. In: Briefwechsel Bahr/Hofmannsthal. Hg. Elsbeth Dangel-Pelloquin. Göttingen: Wallstein. (In Vorbereitung)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/48042288-7537-4990-a807-c6459827562c/node_type?resourceVersion=id%3A3743"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/48042288-7537-4990-a807-c6459827562c/relationships/node_type?resourceVersion=id%3A3743"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/48042288-7537-4990-a807-c6459827562c/revision_uid?resourceVersion=id%3A3743"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/48042288-7537-4990-a807-c6459827562c/relationships/revision_uid?resourceVersion=id%3A3743"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/48042288-7537-4990-a807-c6459827562c/uid?resourceVersion=id%3A3743"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/48042288-7537-4990-a807-c6459827562c/relationships/uid?resourceVersion=id%3A3743"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/48042288-7537-4990-a807-c6459827562c/field_event_type?resourceVersion=id%3A3743"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/48042288-7537-4990-a807-c6459827562c/relationships/field_event_type?resourceVersion=id%3A3743"
+        }
+      }
+    }
+  }
+}

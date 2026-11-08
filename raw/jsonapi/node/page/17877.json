@@ -1,0 +1,90 @@
+{
+  "type": "node--page",
+  "id": "30bd0a2e-8d86-4e4c-bf5c-0a22c4949e50",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/page/30bd0a2e-8d86-4e4c-bf5c-0a22c4949e50?resourceVersion=id%3A4044"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/page/30bd0a2e-8d86-4e4c-bf5c-0a22c4949e50?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 17877,
+    "drupal_internal__vid": 4044,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T17:01:03+00:00",
+    "status": true,
+    "title": "Seite nicht gefunden",
+    "created": "2010-02-03T23:22:00+00:00",
+    "changed": "2010-02-04T12:20:40+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/seite-nicht-gefunden",
+      "pid": 25,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<table><tr>\r\n<td><img src=\"/bahr/sites/all/bilder/secebahr.jpg\" width=\"500\"><td>Mit der gewünschten Seite können wir nicht aufwarten. Aber zum Trost mit einem Bild von Hermann Bahr. Und dem Link zur <a href=\"http://www.univie.ac.at/bahr\">Startseite</a>.\r\n<tr></table>",
+      "format": "full_html",
+      "processed": "<table><tr>\n<td><img src=\"/bahr/sites/all/bilder/secebahr.jpg\" width=\"500\"></td><td>Mit der gewünschten Seite können wir nicht aufwarten. Aber zum Trost mit einem Bild von Hermann Bahr. Und dem Link zur <a href=\"http://www.univie.ac.at/bahr\">Startseite</a>.\n</td></tr><tr></tr></table>",
+      "summary": null
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "016d417b-5c75-4303-8420-18e221e9e269",
+        "meta": {
+          "drupal_internal__target_id": "page"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/30bd0a2e-8d86-4e4c-bf5c-0a22c4949e50/node_type?resourceVersion=id%3A4044"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/30bd0a2e-8d86-4e4c-bf5c-0a22c4949e50/relationships/node_type?resourceVersion=id%3A4044"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/30bd0a2e-8d86-4e4c-bf5c-0a22c4949e50/revision_uid?resourceVersion=id%3A4044"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/30bd0a2e-8d86-4e4c-bf5c-0a22c4949e50/relationships/revision_uid?resourceVersion=id%3A4044"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/30bd0a2e-8d86-4e4c-bf5c-0a22c4949e50/uid?resourceVersion=id%3A4044"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/30bd0a2e-8d86-4e4c-bf5c-0a22c4949e50/relationships/uid?resourceVersion=id%3A4044"
+        }
+      }
+    }
+  }
+}

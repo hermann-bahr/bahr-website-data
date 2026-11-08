@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "afc490e4-721e-4d75-b847-d6cc83749149",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/afc490e4-721e-4d75-b847-d6cc83749149?resourceVersion=id%3A3548"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/afc490e4-721e-4d75-b847-d6cc83749149?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49777,
+    "drupal_internal__vid": 3548,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Theodor Herzl",
+    "created": "2012-01-16T13:25:28+00:00",
+    "changed": "2013-04-05T15:27:33+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49777",
+      "pid": 1589,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "1922 erinnert sich Bahr an seine erste Begegnung mit Theodor Herzl:<blockquote>Ein paar Wochen, bevor ich von der Wiener Universität relegiert wurde, Januar oder Februar 1881 [!, recte: 1883], muß es gewesen sein, daß mir, auf einem Bummel durch die Innere Stadt, ein Jüngling durch seine Schönheit auffiehl, eine Schönheit von ganz ungewohnter, fürstlich, ja sozusagen märchenprinzlich wirkender Art, der nun zu meinem Erstaunen vor uns stehen blieb und den Couleurbruder, mit dem ich ging, herablassend begrüßte, sich gnädig nach den anderen erkundigend und mich, der ihm als \"Kneipschwanz\" unserer Burschenschaft vorgestellt wurde, mit einem hochmüthig huldvollen Nicken abfertigend. Merkwürdig war mir, daß, wie das Gespräch ergab, dies ein inaktiver Bursch unseres Verbindung sein sollte: so sah er gar nicht aus. Auch konnte mein Gefährte kaum einer Verlegenheit Herr werden, die sonst gar nicht in seiner stolzen, freien, zuversichtlichen Art lag. Doch er wußte, daß auch wir, um hinter den anderen nicht zurückzubleiben, soeben beschlossen hatten, antisemitisch zu werden, und daß auch dieser assyrisch schöne Jüngling auf der Liste der Gestrichenen stand. Das war meine erste Begegnung mit Theodor Herzl.</blockquote>\r\nIn einer Variante (die in den Details auch nicht historisch exakt) behauptet Bahr 1925, Herzl erst nach dessen Rauswurf aus der Burschenschaft kennen gelernt zu haben",
+      "format": "full_html",
+      "processed": "1922 erinnert sich Bahr an seine erste Begegnung mit Theodor Herzl:<blockquote>Ein paar Wochen, bevor ich von der Wiener Universität relegiert wurde, Januar oder Februar 1881 [!, recte: 1883], muß es gewesen sein, daß mir, auf einem Bummel durch die Innere Stadt, ein Jüngling durch seine Schönheit auffiehl, eine Schönheit von ganz ungewohnter, fürstlich, ja sozusagen märchenprinzlich wirkender Art, der nun zu meinem Erstaunen vor uns stehen blieb und den Couleurbruder, mit dem ich ging, herablassend begrüßte, sich gnädig nach den anderen erkundigend und mich, der ihm als \"Kneipschwanz\" unserer Burschenschaft vorgestellt wurde, mit einem hochmüthig huldvollen Nicken abfertigend. Merkwürdig war mir, daß, wie das Gespräch ergab, dies ein inaktiver Bursch unseres Verbindung sein sollte: so sah er gar nicht aus. Auch konnte mein Gefährte kaum einer Verlegenheit Herr werden, die sonst gar nicht in seiner stolzen, freien, zuversichtlichen Art lag. Doch er wußte, daß auch wir, um hinter den anderen nicht zurückzubleiben, soeben beschlossen hatten, antisemitisch zu werden, und daß auch dieser assyrisch schöne Jüngling auf der Liste der Gestrichenen stand. Das war meine erste Begegnung mit Theodor Herzl.</blockquote>\nIn einer Variante (die in den Details auch nicht historisch exakt) behauptet Bahr 1925, Herzl erst nach dessen Rauswurf aus der Burschenschaft kennen gelernt zu haben",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1883-01-01",
+      "end_value": "1883-01-01"
+    },
+    "field_sources": [
+      "15. November [1922] in: Liebe der Lebenden, II, 251-252.",
+      "Hermann Bahr: Zionismus. Neue Freie Presse, (1925) #21888, Morgenblatt, 1-3. (22.8.1925) \r\n",
+      "(Hier 1.1.1883)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/afc490e4-721e-4d75-b847-d6cc83749149/node_type?resourceVersion=id%3A3548"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/afc490e4-721e-4d75-b847-d6cc83749149/relationships/node_type?resourceVersion=id%3A3548"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/afc490e4-721e-4d75-b847-d6cc83749149/revision_uid?resourceVersion=id%3A3548"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/afc490e4-721e-4d75-b847-d6cc83749149/relationships/revision_uid?resourceVersion=id%3A3548"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/afc490e4-721e-4d75-b847-d6cc83749149/uid?resourceVersion=id%3A3548"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/afc490e4-721e-4d75-b847-d6cc83749149/relationships/uid?resourceVersion=id%3A3548"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/afc490e4-721e-4d75-b847-d6cc83749149/field_event_type?resourceVersion=id%3A3548"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/afc490e4-721e-4d75-b847-d6cc83749149/relationships/field_event_type?resourceVersion=id%3A3548"
+        }
+      }
+    }
+  }
+}

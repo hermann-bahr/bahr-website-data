@@ -1,0 +1,1774 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bibliografie__tagebuch__1917-1918" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">1917 (1918)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">38737</idno>
+        <idno type="drupal-alias">/bibliografie/38737</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bibliografie/38737">https://bahr.univie.ac.at/bibliografie/38737</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+        <bibl type="beschriebene-ausgabe">
+          <author>Hermann Bahr</author>
+          <title type="main">1917</title>
+          <pubPlace>Innsbruck, Wien, München</pubPlace>
+          <publisher>Tyrolia</publisher>
+          <date>1918</date>
+          <extent>252</extent>
+          <note>Tagebücher vom 5. Dezember 1916 bis 21. Dezember 1917. Redlich bedankt sich am 25. Mai 1918 für das Buch (Bahr/Redlich, 342).</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="1" key="bibliografie">Bibliografie</term>
+          <term n="6" key="tagebuch">Tagebuch</term>
+          <term n="1" key="1917-1918" type="eintrag">1917 (1918)</term>
+        </keywords>
+        <classCode scheme="drupal-type">bibliographie</classCode>
+        <keywords scheme="bibliografie_type">
+          <term>Tagebücher</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2011-01-20T14:20:29+00:00" type="created">angelegt in Drupal</change>
+      <change when="2012-01-31T12:09:33+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="intro">
+        <head>Einleitung</head>
+        <p>Ende 1916 beginnt Bahr etwas, was heute am ehesten als <hi rend="italic">Blog avant la technique</hi> beschrieben werden kann, fiktive Tagebucheintragungen, die von einzelnen Beobachtungen, Lektürenotizen und Buchbesprechungen handeln. Diese erscheinen in unregelmäßiger Folge bis kurz vor seinen Tod im "Neuen Wiener Journal" und alle paar Jahre gesammelt in Buchform. Die erste Veröffentlichung Bahrs im Tyrolia-Verlag, die den Zeitraum Dezember 1916 bis Ende 1917 umfasst, ist schlampig ediert: Drei "Tagebücher" aus dem Neuen Wiener Journal fehlen völlig. Dazu kommen sinnentstellende Druckfehler. Ein besonders augenfälliges Beispiel ist am 12. Februar 1917, wo Bahrs Veranstaltungsort Urania als "Ukrainia" wiedergegeben ist.</p>
+      </div>
+      <div xml:id="bib">
+        <head>Bibliografie</head>
+        <table type="bibliografie">
+          <row>
+            <cell>Autor:</cell>
+            <cell>Hermann Bahr</cell>
+          </row>
+          <row>
+            <cell>Titel:</cell>
+            <cell>1917</cell>
+          </row>
+          <row>
+            <cell>Ort:</cell>
+            <cell>Innsbruck, Wien, München</cell>
+          </row>
+          <row>
+            <cell>Verlag:</cell>
+            <cell>Tyrolia</cell>
+          </row>
+          <row>
+            <cell>Jahr:</cell>
+            <cell>1918</cell>
+          </row>
+          <row>
+            <cell>Seiten:</cell>
+            <cell>252</cell>
+          </row>
+          <row>
+            <cell>Anm.:</cell>
+            <cell>Tagebücher vom 5. Dezember 1916 bis 21. Dezember 1917. Redlich bedankt sich am 25. Mai 1918 für das Buch (Bahr/Redlich, 342).</cell>
+          </row>
+        </table>
+      </div>
+      <div xml:id="rezens">
+        <head>Rezensionen</head>
+        <p>Im Archiv ab dem 28.6.1918. Julius Kühn in: Die Flöte, 2 (1919) #2, 31-32. Christoph Flaskamp in: Literarischer Handweiser, 54 (1918) #9, 293. Robert Müller in: Die Neue Bücherschau, 1 (1919) #5, 15. [Zusammen mit dem 2. Band] The Times Literary Supplement, 18 (1919) #932, 688 (27.11.1919) [Zusammen mit dem 2. Band] [Josef Sprengler?] in: Seele. Monatsschrift im Dienste christlicher Lebensgestaltung, 2 (1920) #9, 288. [Zusammen mit dem 2. Band]</p>
+      </div>
+      <div xml:id="erstdrucke">
+        <head>Erstdrucke</head>
+        <p>Alle erschienen im "Neuen Wiener Journal". Zusätzlich erschienene, die nicht im Buch aufgenommen sind, sind ohne Buchseitenangabe eingearbeitet:</p>
+        <table>
+          <row>
+            <cell role="label">Buchseite</cell>
+            <cell role="label">Eintrag</cell>
+            <cell role="label">Jahrgang</cell>
+            <cell role="label">Nummer</cell>
+            <cell role="label">Seite</cell>
+            <cell role="label">Datum</cell>
+          </row>
+          <row>
+            <cell>5-6</cell>
+            <cell>
+              <hi rend="bold">5. Dezember</hi>
+            </cell>
+            <cell>24</cell>
+            <cell>#8318</cell>
+            <cell>7</cell>
+            <cell>24.12.1916</cell>
+          </row>
+          <row>
+            <cell>6-8</cell>
+            <cell>
+              <hi rend="bold">Graz, 7. Dezember</hi>
+            </cell>
+            <cell>24</cell>
+            <cell>#8318</cell>
+            <cell>7</cell>
+            <cell>24.12.1916</cell>
+          </row>
+          <row>
+            <cell>9-11</cell>
+            <cell>
+              <hi rend="bold">8. Dezember</hi>
+            </cell>
+            <cell>24</cell>
+            <cell>#8318</cell>
+            <cell>8</cell>
+            <cell>24.12.1916</cell>
+          </row>
+          <row>
+            <cell>11-14</cell>
+            <cell>
+              <hi rend="bold">9. Dezember. Heimfahrt</hi>
+            </cell>
+            <cell>24</cell>
+            <cell>#8318</cell>
+            <cell>7-8</cell>
+            <cell>24.12.1916</cell>
+          </row>
+          <row>
+            <cell>14-15</cell>
+            <cell>
+              <hi rend="bold">14. Dezember, Salzburg</hi>
+            </cell>
+            <cell>24</cell>
+            <cell>#8318</cell>
+            <cell>7-8</cell>
+            <cell>24.12.1916</cell>
+          </row>
+          <row>
+            <cell>15-20</cell>
+            <cell>
+              <hi rend="bold">Salzburg, 16. Dezember</hi>
+            </cell>
+            <cell>24</cell>
+            <cell>#8323</cell>
+            <cell>7-8</cell>
+            <cell>31.12.1916</cell>
+          </row>
+          <row>
+            <cell>20-24</cell>
+            <cell>
+              <hi rend="bold">18. Dezember</hi>
+            </cell>
+            <cell>24</cell>
+            <cell>#8323</cell>
+            <cell>8</cell>
+            <cell>31.12.1916</cell>
+          </row>
+          <row>
+            <cell>24-31</cell>
+            <cell>
+              <hi rend="bold">21. Dezember</hi>
+            </cell>
+            <cell>24</cell>
+            <cell>#8323</cell>
+            <cell>8</cell>
+            <cell>31.12.1916</cell>
+          </row>
+          <row>
+            <cell>31-37</cell>
+            <cell>
+              <hi rend="bold">26. Dezember</hi>
+            </cell>
+            <cell>25</cell>
+            <cell>#8342</cell>
+            <cell>7</cell>
+            <cell>21.1.1917</cell>
+          </row>
+          <row>
+            <cell>37-38</cell>
+            <cell>
+              <hi rend="bold">27. Dezember</hi>
+            </cell>
+            <cell>25</cell>
+            <cell>#8342</cell>
+            <cell>7</cell>
+            <cell>21.1.1917</cell>
+          </row>
+          <row>
+            <cell>38-39</cell>
+            <cell>
+              <hi rend="bold">29. Dezember</hi>
+            </cell>
+            <cell>25</cell>
+            <cell>#8342</cell>
+            <cell>7</cell>
+            <cell>21.1.1917</cell>
+          </row>
+          <row>
+            <cell>39-45</cell>
+            <cell>
+              <hi rend="bold">30. Dezember</hi>
+            </cell>
+            <cell>25</cell>
+            <cell>#8354</cell>
+            <cell>5-6</cell>
+            <cell>2.2.1917</cell>
+          </row>
+          <row>
+            <cell>45-46</cell>
+            <cell>
+              <hi rend="bold">31. Dezember</hi>
+            </cell>
+            <cell>25</cell>
+            <cell>#8354</cell>
+            <cell>6</cell>
+            <cell>2.2.1917</cell>
+          </row>
+          <row>
+            <cell>46</cell>
+            <cell>
+              <hi rend="bold">1. Januar</hi>
+            </cell>
+            <cell>25</cell>
+            <cell>#8354</cell>
+            <cell>6</cell>
+            <cell>2.2.1917</cell>
+          </row>
+          <row>
+            <cell>46-48</cell>
+            <cell>
+              <hi rend="bold">2. Januar</hi>
+            </cell>
+            <cell>25</cell>
+            <cell>#8354</cell>
+            <cell>5-6</cell>
+            <cell>2.2.1917</cell>
+          </row>
+          <row>
+            <cell>48-49</cell>
+            <cell>
+              <hi rend="bold">11. Januar</hi>
+            </cell>
+            <cell>25</cell>
+            <cell>#8354</cell>
+            <cell>6</cell>
+            <cell>2.2.1917</cell>
+          </row>
+          <row>
+            <cell>49-51</cell>
+            <cell>
+              <hi rend="bold">Salzburg, 14. Januar.</hi>
+            </cell>
+            <cell>25</cell>
+            <cell>#8363</cell>
+            <cell>7</cell>
+            <cell>11.2.1917</cell>
+          </row>
+          <row>
+            <cell>51</cell>
+            <cell>
+              <hi rend="bold">16. Januar</hi>
+            </cell>
+            <cell>25</cell>
+            <cell>#8363</cell>
+            <cell>7</cell>
+            <cell>11.2.1917</cell>
+          </row>
+          <row>
+            <cell>51-60</cell>
+            <cell>
+              <hi rend="bold">17. Januar</hi>
+            </cell>
+            <cell>25</cell>
+            <cell>#8363</cell>
+            <cell>7-8</cell>
+            <cell>11.2.1917</cell>
+          </row>
+          <row>
+            <cell>60</cell>
+            <cell>
+              <hi rend="bold">18. Januar</hi>
+            </cell>
+            <cell>25</cell>
+            <cell>#8363</cell>
+            <cell>8</cell>
+            <cell>11.2.1917</cell>
+          </row>
+          <row>
+            <cell>60-62</cell>
+            <cell>
+              <hi rend="bold">Salzburg, 20. Januar</hi>
+            </cell>
+            <cell>25</cell>
+            <cell>#8377</cell>
+            <cell>7</cell>
+            <cell>25.2.1917</cell>
+          </row>
+          <row>
+            <cell>62-63</cell>
+            <cell>
+              <hi rend="bold">21. Januar</hi>
+            </cell>
+            <cell>25</cell>
+            <cell>#8377</cell>
+            <cell>7</cell>
+            <cell>25.2.1917</cell>
+          </row>
+          <row>
+            <cell>63-64</cell>
+            <cell>
+              <hi rend="bold">27. Januar</hi>
+            </cell>
+            <cell>25</cell>
+            <cell>#8377</cell>
+            <cell>7</cell>
+            <cell>25.2.1917</cell>
+          </row>
+          <row>
+            <cell>64-65</cell>
+            <cell>
+              <hi rend="bold">2. Februar</hi>
+            </cell>
+            <cell>25</cell>
+            <cell>#8377</cell>
+            <cell>7</cell>
+            <cell>25.2.1917</cell>
+          </row>
+          <row>
+            <cell>65-69</cell>
+            <cell>
+              <hi rend="bold">3. Februar</hi>
+            </cell>
+            <cell>25</cell>
+            <cell>#8377</cell>
+            <cell>7</cell>
+            <cell>25.2.1917</cell>
+          </row>
+          <row>
+            <cell>69-70.</cell>
+            <cell>
+              <hi rend="bold">12. Februar</hi>
+            </cell>
+            <cell>25</cell>
+            <cell>#8377</cell>
+            <cell>7</cell>
+            <cell>25.2.1917</cell>
+          </row>
+          <row>
+            <cell>70</cell>
+            <cell>
+              <hi rend="bold">14. Februar</hi>
+            </cell>
+            <cell>25</cell>
+            <cell>#8377</cell>
+            <cell>7</cell>
+            <cell>25.2.1917</cell>
+          </row>
+          <row>
+            <cell>70-71</cell>
+            <cell>
+              <hi rend="bold">13. Februar</hi>
+            </cell>
+            <cell>25</cell>
+            <cell>#8377</cell>
+            <cell>7</cell>
+            <cell>25.2.1917</cell>
+          </row>
+          <row>
+            <cell>71-76</cell>
+            <cell>
+              <hi rend="bold">21. Februar</hi>
+            </cell>
+            <cell>25</cell>
+            <cell>#8398</cell>
+            <cell>6</cell>
+            <cell>18.3.1917</cell>
+          </row>
+          <row>
+            <cell>76-84</cell>
+            <cell>
+              <hi rend="bold">Berlin, 20. März</hi>
+            </cell>
+            <cell>25</cell>
+            <cell>#8419</cell>
+            <cell>6</cell>
+            <cell>8.4.1917</cell>
+          </row>
+          <row>
+            <cell>85-89</cell>
+            <cell>
+              <hi rend="bold">Salzburg, 10. April</hi>
+            </cell>
+            <cell>25</cell>
+            <cell>#8439</cell>
+            <cell>6</cell>
+            <cell>29.4.1917</cell>
+          </row>
+          <row>
+            <cell>89-95</cell>
+            <cell>
+              <hi rend="bold">Salzburg, 14. April</hi>
+            </cell>
+            <cell>25</cell>
+            <cell>#8452</cell>
+            <cell>6</cell>
+            <cell>12.5.1917</cell>
+          </row>
+          <row>
+            <cell>96-97</cell>
+            <cell>
+              <hi rend="bold">20. April</hi>
+            </cell>
+            <cell>25</cell>
+            <cell>#8452</cell>
+            <cell>6</cell>
+            <cell>12.5.1917</cell>
+          </row>
+          <row>
+            <cell>97-102</cell>
+            <cell>
+              <hi rend="bold">20. Mai</hi>
+            </cell>
+            <cell>25</cell>
+            <cell>#8467</cell>
+            <cell>6-7</cell>
+            <cell>27.5.1917</cell>
+          </row>
+          <row>
+            <cell>102-105</cell>
+            <cell>
+              <hi rend="bold">14. Juni</hi>
+            </cell>
+            <cell>25</cell>
+            <cell>#8508</cell>
+            <cell>6</cell>
+            <cell>8.7.1917</cell>
+          </row>
+          <row>
+            <cell>105-111</cell>
+            <cell>
+              <hi rend="bold">15. Juni</hi>
+            </cell>
+            <cell>25</cell>
+            <cell>#8508</cell>
+            <cell>6</cell>
+            <cell>8.7.1917</cell>
+          </row>
+          <row>
+            <cell>111-112</cell>
+            <cell>
+              <hi rend="bold">26. Juni</hi>
+            </cell>
+            <cell>25</cell>
+            <cell>#8508</cell>
+            <cell>6</cell>
+            <cell>8.7.1917</cell>
+          </row>
+          <row>
+            <cell>112-114</cell>
+            <cell>
+              <hi rend="bold">27. Juni</hi>
+            </cell>
+            <cell>25</cell>
+            <cell>#8515</cell>
+            <cell>5</cell>
+            <cell>15.7.1917</cell>
+          </row>
+          <row>
+            <cell>114-120</cell>
+            <cell>
+              <hi rend="bold">3. Juli</hi>
+            </cell>
+            <cell>25</cell>
+            <cell>#8515</cell>
+            <cell>5</cell>
+            <cell>15.7.1917</cell>
+          </row>
+          <row>
+            <cell>----</cell>
+            <cell>7. Juli</cell>
+            <cell>25</cell>
+            <cell>#8522</cell>
+            <cell>7</cell>
+            <cell>22.7.1917</cell>
+          </row>
+          <row>
+            <cell>----</cell>
+            <cell>8. Juli</cell>
+            <cell>25</cell>
+            <cell>#8522</cell>
+            <cell>7</cell>
+            <cell>22.7.1917</cell>
+          </row>
+          <row>
+            <cell>----</cell>
+            <cell>12. Juli</cell>
+            <cell>25</cell>
+            <cell>#8522</cell>
+            <cell>7</cell>
+            <cell>22.7.1917</cell>
+          </row>
+          <row>
+            <cell>----</cell>
+            <cell>14. Juli</cell>
+            <cell>25</cell>
+            <cell>#8522</cell>
+            <cell>7</cell>
+            <cell>22.7.1917</cell>
+          </row>
+          <row>
+            <cell>120-123</cell>
+            <cell>
+              <hi rend="bold">10. Juli</hi>
+            </cell>
+            <cell>25</cell>
+            <cell>#8536</cell>
+            <cell>5</cell>
+            <cell>5.8.1917</cell>
+          </row>
+          <row>
+            <cell>123-126</cell>
+            <cell>
+              <hi rend="bold">16. Juli</hi>
+            </cell>
+            <cell>25</cell>
+            <cell>#8536</cell>
+            <cell>5</cell>
+            <cell>5.8.1917</cell>
+          </row>
+          <row>
+            <cell>126-129</cell>
+            <cell>
+              <hi rend="bold">19. Juli</hi>
+            </cell>
+            <cell>25</cell>
+            <cell>#8543</cell>
+            <cell>3-4</cell>
+            <cell>12.8.1917</cell>
+          </row>
+          <row>
+            <cell>129-131</cell>
+            <cell>
+              <hi rend="bold">24. Juli</hi>
+            </cell>
+            <cell>25</cell>
+            <cell>#8543</cell>
+            <cell>4</cell>
+            <cell>12.8.1917</cell>
+          </row>
+          <row>
+            <cell>131</cell>
+            <cell>
+              <hi rend="bold">26. Juli</hi>
+            </cell>
+            <cell>25</cell>
+            <cell>#8550</cell>
+            <cell>5</cell>
+            <cell>19.8.1917</cell>
+          </row>
+          <row>
+            <cell>131-134</cell>
+            <cell>
+              <hi rend="bold">27. Juli</hi>
+            </cell>
+            <cell>25</cell>
+            <cell>#8543</cell>
+            <cell>4</cell>
+            <cell>12.8.1917</cell>
+          </row>
+          <row>
+            <cell>134-136</cell>
+            <cell>
+              <hi rend="bold">30. Juli</hi>
+            </cell>
+            <cell>25</cell>
+            <cell>#8550</cell>
+            <cell>5</cell>
+            <cell>19.8.1917</cell>
+          </row>
+          <row>
+            <cell>136-137</cell>
+            <cell>
+              <hi rend="bold">2. August</hi>
+            </cell>
+            <cell>25</cell>
+            <cell>#8557</cell>
+            <cell>5</cell>
+            <cell>26.8.1917</cell>
+          </row>
+          <row>
+            <cell>137-140</cell>
+            <cell>
+              <hi rend="bold">3. August</hi>
+            </cell>
+            <cell>25</cell>
+            <cell>#8550</cell>
+            <cell>5</cell>
+            <cell>19.8.1917</cell>
+          </row>
+          <row>
+            <cell>140-144</cell>
+            <cell>
+              <hi rend="bold">4. August</hi>
+            </cell>
+            <cell>25</cell>
+            <cell>#8557</cell>
+            <cell>5</cell>
+            <cell>26.8.1917</cell>
+          </row>
+          <row>
+            <cell>----</cell>
+            <cell>8. August</cell>
+            <cell>25</cell>
+            <cell>#8564</cell>
+            <cell>4</cell>
+            <cell>2.9.1917</cell>
+          </row>
+          <row>
+            <cell>----</cell>
+            <cell>10. August</cell>
+            <cell>25</cell>
+            <cell>#8564</cell>
+            <cell>4-5</cell>
+            <cell>2.9.1917</cell>
+          </row>
+          <row>
+            <cell>----</cell>
+            <cell>17. August</cell>
+            <cell>25</cell>
+            <cell>#8564</cell>
+            <cell>5</cell>
+            <cell>2.9.1917</cell>
+          </row>
+          <row>
+            <cell>144-152</cell>
+            <cell>
+              <hi rend="bold">18. August</hi>
+            </cell>
+            <cell>25</cell>
+            <cell>#8570</cell>
+            <cell>4</cell>
+            <cell>8.9.1917</cell>
+          </row>
+          <row>
+            <cell>----</cell>
+            <cell>23. August</cell>
+            <cell>25</cell>
+            <cell>#8577</cell>
+            <cell>5</cell>
+            <cell>16.9.1917</cell>
+          </row>
+          <row>
+            <cell>----</cell>
+            <cell>26. August</cell>
+            <cell>25</cell>
+            <cell>#8577</cell>
+            <cell>5</cell>
+            <cell>16.9.1917</cell>
+          </row>
+          <row>
+            <cell>----</cell>
+            <cell>30. August</cell>
+            <cell>25</cell>
+            <cell>#8577</cell>
+            <cell>5</cell>
+            <cell>16.9.1917</cell>
+          </row>
+          <row>
+            <cell>----</cell>
+            <cell>1. September</cell>
+            <cell>25</cell>
+            <cell>#8577</cell>
+            <cell>5</cell>
+            <cell>16.9.1917</cell>
+          </row>
+          <row>
+            <cell>152</cell>
+            <cell>
+              <hi rend="bold">Salzburg, 14. September</hi>
+            </cell>
+            <cell>25</cell>
+            <cell>#8584</cell>
+            <cell>4</cell>
+            <cell>23.9.1917</cell>
+          </row>
+          <row>
+            <cell>153-160</cell>
+            <cell>
+              <hi rend="bold">15. September</hi>
+            </cell>
+            <cell>25</cell>
+            <cell>#8584</cell>
+            <cell>4-5</cell>
+            <cell>23.9.1917</cell>
+          </row>
+          <row>
+            <cell>160-162</cell>
+            <cell>
+              <hi rend="bold">Salzburg, 19. September</hi>
+            </cell>
+            <cell>25</cell>
+            <cell>#8591</cell>
+            <cell>5</cell>
+            <cell>30.9.1917</cell>
+          </row>
+          <row>
+            <cell>162-165</cell>
+            <cell>
+              <hi rend="bold">20. September</hi>
+            </cell>
+            <cell>25</cell>
+            <cell>#8591</cell>
+            <cell>5</cell>
+            <cell>30.9.1917</cell>
+          </row>
+          <row>
+            <cell>165</cell>
+            <cell>
+              <hi rend="bold">21. September</hi>
+            </cell>
+            <cell>25</cell>
+            <cell>#8595</cell>
+            <cell>5</cell>
+            <cell>4.10.1917</cell>
+          </row>
+          <row>
+            <cell>165-169</cell>
+            <cell>
+              <hi rend="bold">22. September</hi>
+            </cell>
+            <cell>25</cell>
+            <cell>#8595</cell>
+            <cell>5</cell>
+            <cell>4.10.1917</cell>
+          </row>
+          <row>
+            <cell>169-172</cell>
+            <cell>
+              <hi rend="bold">Salzburg, 27. September</hi>
+            </cell>
+            <cell>25</cell>
+            <cell>#8598</cell>
+            <cell>6</cell>
+            <cell>7.10.1917</cell>
+          </row>
+          <row>
+            <cell>172-175</cell>
+            <cell>
+              <hi rend="bold">30. September</hi>
+            </cell>
+            <cell>25</cell>
+            <cell>#8598</cell>
+            <cell>6</cell>
+            <cell>7.10.1917</cell>
+          </row>
+          <row>
+            <cell>175-180</cell>
+            <cell>
+              <hi rend="bold">1. Oktober</hi>
+            </cell>
+            <cell>25</cell>
+            <cell>#8605</cell>
+            <cell>5</cell>
+            <cell>14.10.1917</cell>
+          </row>
+          <row>
+            <cell>180-182</cell>
+            <cell>
+              <hi rend="bold">3. Oktober</hi>
+            </cell>
+            <cell>25</cell>
+            <cell>#8605</cell>
+            <cell>5</cell>
+            <cell>14.10.1917</cell>
+          </row>
+          <row>
+            <cell>182-186</cell>
+            <cell>
+              <hi rend="bold">München, 8. Oktober</hi>
+            </cell>
+            <cell>25</cell>
+            <cell>#8612</cell>
+            <cell>6</cell>
+            <cell>21.10.1917</cell>
+          </row>
+          <row>
+            <cell>186-187</cell>
+            <cell>
+              <hi rend="bold">Beuron, 9. Oktober</hi>
+            </cell>
+            <cell>25</cell>
+            <cell>#8612</cell>
+            <cell>6</cell>
+            <cell>21.10.1917</cell>
+          </row>
+          <row>
+            <cell>187-192</cell>
+            <cell>
+              <hi rend="bold">Beuron, 12. Oktober</hi>
+            </cell>
+            <cell>25</cell>
+            <cell>#8619</cell>
+            <cell>5-6</cell>
+            <cell>28.10.1917</cell>
+          </row>
+          <row>
+            <cell>192-194</cell>
+            <cell>
+              <hi rend="bold">Beuron, 13. Oktober</hi>
+            </cell>
+            <cell>25</cell>
+            <cell>#8626</cell>
+            <cell>5</cell>
+            <cell>4.11.1917</cell>
+          </row>
+          <row>
+            <cell>194-198</cell>
+            <cell>
+              <hi rend="bold">München, 14. Oktober</hi>
+            </cell>
+            <cell>25</cell>
+            <cell>#8626</cell>
+            <cell>5</cell>
+            <cell>4.11.1917</cell>
+          </row>
+          <row>
+            <cell>198-203</cell>
+            <cell>
+              <hi rend="bold">München, 15. Oktober</hi>
+            </cell>
+            <cell>25</cell>
+            <cell>#8633</cell>
+            <cell>5</cell>
+            <cell>11.11.1917</cell>
+          </row>
+          <row>
+            <cell>203-210</cell>
+            <cell>
+              <hi rend="bold">Salzburg, 8. November</hi>
+            </cell>
+            <cell>25</cell>
+            <cell>#8640</cell>
+            <cell>4-5</cell>
+            <cell>18.11.1917</cell>
+          </row>
+          <row>
+            <cell>210-217</cell>
+            <cell>
+              <hi rend="bold">Salzburg, 12. November</hi>
+            </cell>
+            <cell>25</cell>
+            <cell>#8647</cell>
+            <cell>5-6</cell>
+            <cell>25.11.1917</cell>
+          </row>
+          <row>
+            <cell>217</cell>
+            <cell>
+              <hi rend="bold">15. November</hi>
+            </cell>
+            <cell>25</cell>
+            <cell>#8647</cell>
+            <cell>5</cell>
+            <cell>25.11.1917</cell>
+          </row>
+          <row>
+            <cell>217-222</cell>
+            <cell>
+              <hi rend="bold">Salzburg, 18. November</hi>
+            </cell>
+            <cell>25</cell>
+            <cell>#8654</cell>
+            <cell>5</cell>
+            <cell>2.12.1917</cell>
+          </row>
+          <row>
+            <cell>222-226</cell>
+            <cell>
+              <hi rend="bold">24. November</hi>
+            </cell>
+            <cell>25</cell>
+            <cell>#8660</cell>
+            <cell>4</cell>
+            <cell>8.12.1917</cell>
+          </row>
+          <row>
+            <cell>226-227</cell>
+            <cell>
+              <hi rend="bold">26. November</hi>
+            </cell>
+            <cell>25</cell>
+            <cell>#8667</cell>
+            <cell>4-5</cell>
+            <cell>16.12.1917</cell>
+          </row>
+          <row>
+            <cell>231-237</cell>
+            <cell>
+              <hi rend="bold">Salzburg, 10. Dezember</hi>
+            </cell>
+            <cell>25</cell>
+            <cell>#8674</cell>
+            <cell>4-5</cell>
+            <cell>23.12.1917</cell>
+          </row>
+          <row>
+            <cell>237-239</cell>
+            <cell>
+              <hi rend="bold">Salzburg, 16. Dezember 1917</hi>
+            </cell>
+            <cell>25</cell>
+            <cell>#8680</cell>
+            <cell>5</cell>
+            <cell>30.12.1917</cell>
+          </row>
+          <row>
+            <cell>239-241</cell>
+            <cell>
+              <hi rend="bold">20. Dezember</hi>
+            </cell>
+            <cell>25</cell>
+            <cell>#8680</cell>
+            <cell>5</cell>
+            <cell>30.12.1917</cell>
+          </row>
+          <row>
+            <cell>241</cell>
+            <cell>
+              <hi rend="bold">21. Dezember</hi>
+            </cell>
+            <cell>25</cell>
+            <cell>#8680</cell>
+            <cell>5</cell>
+            <cell>30.12.1917</cell>
+          </row>
+        </table>
+      </div>
+      <div xml:id="inhaltsvz">
+        <head>Inhaltsverzeichnis</head>
+        <table>
+          <row>
+            <cell>5-6</cell>
+            <cell>
+              <hi rend="bold">Seckau, 5. Dezember</hi>
+              <lb/>
+              <hi rend="bold">Inhalt: </hi>
+              <hi rend="italic">Besuch im Kloster Seckau.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>6-8</cell>
+            <cell>
+              <hi rend="bold">Graz, 7. Dezember</hi>
+              <lb/>
+              <hi rend="bold">Inhalt: </hi>
+              <hi rend="italic">Bahr erinnert sich an eine Begegnung mit dem Dirigenten in Bayreuth.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>9-11</cell>
+            <cell>
+              <hi rend="bold">8. Dezember</hi>
+              <lb/>
+              <hi rend="bold">Inhalt: </hi>
+              <hi rend="italic">Bahr begegnet einem alten Freund, der mittlerweile in einen Orden eingetreten ist.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>11-14</cell>
+            <cell>
+              <hi rend="bold">9. Dezember. Heimfahrt</hi>
+              <lb/>
+              <hi rend="bold">Inhalt: </hi>
+              <hi rend="italic">Bahr belauscht ein Gespräch über den neuen Kaiser Karl.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>14-15</cell>
+            <cell>
+              <hi rend="bold">Salzburg, 14. Dezember</hi>
+              <lb/>
+              <hi rend="bold">Inhalt: </hi>
+              <hi rend="italic">In der Demission der Regierung Koerber erkennt Bahr die Unfähigkeit der deutschsprachigen Österreicher, politische Talente zu erhalten.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>15-20</cell>
+            <cell>
+              <hi rend="bold">Salzburg, 16. Dezember</hi>
+              <lb/>
+              <hi rend="bold">Rez.: </hi>
+              <hi rend="italic">Werner Sombart: Der moderne Kapitalismus. Historisch-systematische Darstellung des gesamteuropäischen Wirtschaftslebens von seinen Anfängen bis zur Gegenwart. München, Leipzig: Duncker und Humblot 1916.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>20-24</cell>
+            <cell>
+              <hi rend="bold">18. Dezember</hi>
+              <lb/>
+              <hi rend="bold">Inhalt: </hi>
+              <hi rend="italic">Bahr schließt sich an Thomas Manns Verdikt an, dass der Deutsche verlernt habe, Taugenichts zu sein.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>24-31</cell>
+            <cell>
+              <hi rend="bold">21. Dezember</hi>
+              <lb/>
+              <hi rend="bold">Inhalt: </hi>
+              <hi rend="italic">Bahr ist zuversichtlich, was die neue Regierung Heinrich Clam-Martinic's betrifft.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>31-37</cell>
+            <cell>
+              <hi rend="bold">26. Dezember</hi>
+              <lb/>
+              <hi rend="bold">Inhalt: </hi>
+              <hi rend="italic">Der Frieden könne nicht geplant werden, sondern müsse "geschehen".</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>37-38</cell>
+            <cell>
+              <hi rend="bold">27. Dezember</hi>
+              <lb/>
+              <hi rend="bold">Inhalt: </hi>
+              <hi rend="italic">Bahr ist fasziniert, dass das russische Wort für Bauer ident ist mit einem (alten) Ausdruck für Christ.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>38-39</cell>
+            <cell>
+              <hi rend="bold">29. Dezember</hi>
+              <lb/>
+              <hi rend="bold">Inhalt: </hi>
+              <hi rend="italic">Bahr hält die Menschen für schlechter, als diese Annehmen und kritisiert, dass Nationen sich selbst für gut, die anderen aber für böse halten.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>39-45</cell>
+            <cell>
+              <hi rend="bold">30. Dezember</hi>
+              <lb/>
+              <hi rend="bold">Rez.: </hi>
+              <hi rend="italic">Carl Heinrich von Stein: Gesammelte Dichtungen. Hg. von Friedrich Poske. Leipzig: Insel-Verlag 1916. Agnes Günther: Die Heilige und ihr Narr. Stuttgart: Steinkopf 1916 Goethe über seine Dichtungen. Versuch einer Sammlung aller Äusserungen des Dichters über seine poetischen Werke von Hans Gerhard Gräf. Frankfurt a. M.: Rütten &amp; Loening 1901-1914. Hans Gerhard Gräf (Hg.): Goethes Briefwechsel mit seiner Frau. Frankfurt am Main: Rütten &amp; Loening 1916. Federn, Etta: Christiane von Goethe. Ein Beitrag zur Psychologie Goethes. München: Delphin 1916. Alois Veltzé: Vom Isonzo zum Balkan. Drei Tagebücher in Bildern. Band 1. München: Piper 1917. Hermine Cloeter: Häuser und Menschen von Wien. Wien: Schroll 1915. Richard Smekal: Das alte Burgtheater (1776-1888). Wien: Schroll 1916. Leo Planiscig: Denkmale der Kunst in den südlichen Kriegsgebieten. Wien: Schroll 1915. Richard Charmatz: Minister Freiherr von Bruck. Der Vorkämpfer Mitteleuropas. Sein Lebensgang und seine Denkschriften. Leipzig: Hirzel 1916. Litzmann, Berthold: Ernst von Wildenbruch. Berlin: Grote 1913-1916. Flaskamp, Christoph: Die deutsche Romantik. Ein Nachwort . Warendorf i. W.: Schnell 1917.</hi>
+              <lb/>
+              <hi rend="bold">Inhalt: </hi>
+              <hi rend="italic">Bahrs Sammelbesprechung zum Jahresschluss endet in einer längeren Tirade über die Eigenheiten der deutschen Romantikforschung.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>45-46</cell>
+            <cell>
+              <hi rend="bold">31. Dezember</hi>
+              <lb/>
+              <hi rend="bold">Inhalt: </hi>
+              <hi rend="italic">Bahr hat 1917 nicht genug Zeit, Gott für 1916 zu danken.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>46</cell>
+            <cell>
+              <hi rend="bold">1. Januar</hi>
+              <lb/>
+              <hi rend="bold">Inhalt: </hi>
+              <hi rend="italic">Das neue Jahr beginnt Bahr mit einem Spruch aus dem Kommuniongebet, worin er seiner Hoffnung Ausdruck verleiht, dass Gott ihn niemals verlasse, damit er nicht dereinst falsch liegt.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>46-48</cell>
+            <cell>
+              <hi rend="bold">2. Januar</hi>
+              <lb/>
+              <hi rend="bold">Inhalt: </hi>
+              <hi rend="italic">Im Theater, wo seine Frau in der "Elektra" auftritt, laufen einige Erinnerungen "wie Kino" vor seinem inneren Auge ab, Hofmannsthal, Reinhardt, Strauß, der Aufenthalt in London, Sargent.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>48-49</cell>
+            <cell>
+              <hi rend="bold">11. Januar</hi>
+              <lb/>
+              <hi rend="bold">Rez.: </hi>
+              <hi rend="italic">Max Beckmann: Briefe im Kriege. Gesammelt von Minna Tube. Berlin: Cassirer 1916.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>49-51</cell>
+            <cell>
+              <hi rend="bold">Salzburg, 14. Januar.</hi>
+              <lb/>
+              <hi rend="bold">Inhalt: </hi>
+              <hi rend="italic">Nachruf auf Albert Niemann mit einer Beschreibung der ersten Begegnung im "Parsifal" in Bayreuth am 20. August 1911.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>51</cell>
+            <cell>
+              <hi rend="bold">16. Januar</hi>
+              <lb/>
+              <hi rend="bold">Inhalt: </hi>
+              <hi rend="italic">Bahr beklagt, dass wer sich Gott zuwende, zugleich aus der Anerkennung als Künstler herausfalle.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>51-60</cell>
+            <cell>
+              <hi rend="bold">17. Januar</hi>
+              <lb/>
+              <hi rend="bold">Rez.: </hi>
+              <hi rend="italic">Arno Holz: Phantasus. Leipzig: Insel 1916. Hermann Erhardt: La Tour, der Pastellmaler Ludwigs XV. 89 Abbildungen von Kunstwerken in St. Quentin. München: Korpsverlag Buchhandlung Bapaume 1917.</hi>
+              <lb/>
+              <hi rend="bold">Inhalt: </hi>
+              <hi rend="italic">Ausführliche Rezension des "Phantasus" sowie eine im Feld veröffentlichte Darstellung Quentin de la Tours.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>60</cell>
+            <cell>
+              <hi rend="bold">18. Januar</hi>
+              <lb/>
+              <hi rend="bold">Inhalt: </hi>
+              <hi rend="italic">Eine kurze Bemerkung Bahrs darüber, dass, wer sich über Fremdsprachen auf der Straße aufregt, es meist tut, weil er an seine eigenen Unzulänglichkeiten erinnert wird.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>60-62</cell>
+            <cell>
+              <hi rend="bold">20. Januar</hi>
+              <lb/>
+              <hi rend="bold">Inhalt: </hi>
+              <hi rend="italic">Die Lektüre Voltaires bringt Bahr zu einem Lob von dessen böser Zunge, zugleich aber sieht er den Grund für die Bösartigkeit in dem fehlenden Gefühl, was sein Können auf die Unterhaltung beschränkt sein lässt.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>62-63</cell>
+            <cell>
+              <hi rend="bold">21. Januar</hi>
+              <lb/>
+              <hi rend="bold">Inhalt: </hi>
+              <hi rend="italic">Bahr erkennt eine Unterscheidung in den Dichtern, die dem "Stamme nach" Böhmen sind und der "Nation nach" Tschechen.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>63-64</cell>
+            <cell>
+              <hi rend="bold">27. Januar</hi>
+              <lb/>
+              <hi rend="bold">Inhalt: </hi>
+              <hi rend="italic">Für Bahr ist das Eingeständnis, dass Deutschland die belgischen Neutralität verletzte, schon eine halbe Wiedergutmachung. </hi>
+            </cell>
+          </row>
+          <row>
+            <cell>64-65</cell>
+            <cell>
+              <hi rend="bold">2. Februar</hi>
+              <lb/>
+              <hi rend="bold">Rez.: </hi>
+              <hi rend="italic">Paul Joachimsen: Vom deutschen Volk zum deutschen Staat. Geschichte des deutschen Nationalbewußtseins. Leipzig: Teubner 1916</hi>
+              <lb/>
+              <hi rend="bold">Inhalt: </hi>
+              <hi rend="italic">Für Bahr haben die europäischen Völker zu wenig Platz, sie wurden durch die Geschichte zu "größeren Raumvorstellungen" erzogen.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>65-69</cell>
+            <cell>
+              <hi rend="bold">3. Februar</hi>
+              <lb/>
+              <hi rend="bold">Rez.: </hi>
+              <hi rend="italic">Eduard Sueß: Erinnerungen. Leipzig: Hirzel 1916.</hi>
+              <lb/>
+              <hi rend="bold">Inhalt: </hi>
+              <hi rend="italic">Bahr lobt Sueß, bemängelt aber dessen fehlenden politischen Weitblick.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>69-70.</cell>
+            <cell>
+              <hi rend="bold">12. Februar</hi>
+              <lb/>
+              <hi rend="bold">Rez.: </hi>
+              <hi rend="italic">Laotse Tao te King: Das Buch des Alten vom Sinn und Leben. Aus dem Chinesischen verdeutscht und erläutert von Richard Wilhelm. Jena: Diederichs 1911.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>70</cell>
+            <cell>
+              <hi rend="bold">14. Februar</hi>
+              <lb/>
+              <hi rend="bold">Inhalt: </hi>
+              <hi rend="italic">Bahrs verzeichnet die Absage seines ersten Wiener Auftritts seit 1911.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>70-71</cell>
+            <cell>
+              <hi rend="bold">13. Februar</hi>
+              <lb/>
+              <hi rend="bold">Inhalt: </hi>
+              <hi rend="italic">Eine Anekdote von Moritz Epstein.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>71-76</cell>
+            <cell>
+              <hi rend="bold">21. Februar</hi>
+              <lb/>
+              <hi rend="bold">Inhalt: </hi>
+              <hi rend="italic">Bahr ist positiv überrascht, als er Wien nach sechs Jahren wiedersieht.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>76-84</cell>
+            <cell>
+              <hi rend="bold">Berlin, 20. März</hi>
+              <lb/>
+              <hi rend="bold">Inhalt: </hi>
+              <hi rend="italic">Bahrs sehr lobende Besprechung von Berlin.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>85-89</cell>
+            <cell>
+              <hi rend="bold">Salzburg, 10. April</hi>
+              <lb/>
+              <hi rend="bold">Rez.: </hi>
+              <hi rend="italic">Heinrich Tessenow: Hausbau und Dachgleiche. Berlin: Cassirer 1916. Cennino Cennini: Handbüchlein der Kunst. Neu übersetzt und hg. von Willibald Verkade. Straßburg: Heitz 1916.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>89-95</cell>
+            <cell>
+              <hi rend="bold">14. April</hi>
+              <lb/>
+              <hi rend="bold">Rez.: </hi>
+              <hi rend="italic">Leopold Ziegler: Volk, Staat und Persönlichkeit. Berlin: S. Fischer 1916.</hi>
+              <lb/>
+              <hi rend="bold">Inhalt: </hi>
+              <hi rend="italic">Bahr behandelt die Frage des Individuums in der Kriegszeit.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>96-97</cell>
+            <cell>
+              <hi rend="bold">20. April</hi>
+              <lb/>
+              <hi rend="bold">Rez.: </hi>
+              <hi rend="italic">"Ostara", herausgegeben von Jörg Lanz von Liebenfels</hi>
+              <lb/>
+              <hi rend="bold">Inhalt: </hi>
+              <hi rend="italic">Obwohl Bahr mit Lanz von Liebenfels Rassenpsychologie nichts anfangen kann, findet er doch in einem in der Zeitung "Ostara" abgedruckten Loblied auf Napoleon etwas, das ihn tiefer anspricht.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>97-102</cell>
+            <cell>
+              <hi rend="bold">20. Mai</hi>
+              <lb/>
+              <hi rend="bold">Inhalt: </hi>
+              <hi rend="italic">Erinnerungen an das Haus Viktor Adlers in der Berggasse, das Bahr während seiner Militärzeit frequentierte.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>102-105</cell>
+            <cell>
+              <hi rend="bold">14. Juni</hi>
+              <lb/>
+              <hi rend="bold">Inhalt: </hi>
+              <hi rend="italic">Bahr nervt zwar die Langsamkeit der Entscheidungen von Heinrich Karl Graf Clam-Martinic, spricht ihm den Willen zum Richtigen aber nicht ab.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>105-111</cell>
+            <cell>
+              <hi rend="bold">15. Juni</hi>
+              <lb/>
+              <hi rend="bold">Inhalt: </hi>
+              <hi rend="italic">Redlich zitierend, nimmt Bahr Stellung zur Frage, wie Österreich seine alte Gestalt mit einer neuen verbinden kann, ohne eine der beiden aufgeben zu müssen.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>111-112</cell>
+            <cell>
+              <hi rend="bold">26. Juni</hi>
+              <lb/>
+              <hi rend="bold">Inhalt: </hi>
+              <hi rend="italic">Bahr hofft auf einen neuen Friedensvertrag.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>112-114</cell>
+            <cell>
+              <hi rend="bold">27. Juni</hi>
+              <lb/>
+              <hi rend="bold">Inhalt: </hi>
+              <hi rend="italic">Bahr bringt ein ausführliches Zitat von Friedrich Austerlitz über "das Versagen" der internationalen Sozialdemokratie im 1. Weltkrieg.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>114-120</cell>
+            <cell>
+              <hi rend="bold">3. Juli</hi>
+              <lb/>
+              <hi rend="bold">Inhalt: </hi>
+              <hi rend="italic">Bahr sieht in der Amnestie für politische Taten ein Zeichen für die Wiedergeburt Österreichs, das so in die Lage kommen wird, dereinst Europa zum Frieden zu führen.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>120-123</cell>
+            <cell>
+              <hi rend="bold">10. Juli</hi>
+              <lb/>
+              <hi rend="bold">Rez.: </hi>
+              <hi rend="italic">Mandt, Martin: Ein deutscher Arzt am Hofe Kaiser Nikolaus I. von Rußland. Lebenserinnerungen. München, Leipzig: Humblot 1917.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>123-126</cell>
+            <cell>
+              <hi rend="bold">16. Juli</hi>
+              <lb/>
+              <hi rend="bold">Rez.: </hi>
+              <hi rend="italic">Johann Wolfgang Goethe: Propyläen-Ausgabe, Band 28. München: Georg Müller 1917.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>126-129</cell>
+            <cell>
+              <hi rend="bold">19. Juli</hi>
+              <lb/>
+              <hi rend="bold">Rez.: </hi>
+              <hi rend="italic">Heinrich Lammasch: Das Völkerrecht nach dem Kriege. Kristiania: Publication de l'Institut Nobel 1917)</hi>
+              <lb/>
+              <hi rend="bold">Inhalt: </hi>
+              <hi rend="italic">Bahr lobt Heinrich Lammasch, weil dieser aussprach, was im Geheimen viele dachten: Dass nur wenn keine Partei gewinne, der Frieden bestand haben könne.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>129-131</cell>
+            <cell>
+              <hi rend="bold">24. Juli</hi>
+              <lb/>
+              <hi rend="bold">Inhalt: </hi>
+              <hi rend="italic">Eine Glosse darüber, ob der Geist Friedrichs des Großen in der Gegenwart noch Bestand hat.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>131</cell>
+            <cell>
+              <hi rend="bold">26. Juli</hi>
+              <lb/>
+              <hi rend="bold">Inhalt: </hi>
+              <hi rend="italic">Bahr fragt sich, ob Deutschland jetzt vor jener "furchtbaren Entscheidung" steht, von der Nietzsche in der "Ewigen Wiederkunft" sprach.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>131-134</cell>
+            <cell>
+              <hi rend="bold">27. Juli</hi>
+              <lb/>
+              <hi rend="bold">Inhalt: </hi>
+              <hi rend="italic">Künstler können nicht nur Entsagende sein, sondern für das Überleben der Kunst ist es laut Bahr Vorausetzung, dass sie anmaßend sind.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>134-136</cell>
+            <cell>
+              <hi rend="bold">30. Juli</hi>
+              <lb/>
+              <hi rend="bold">Inhalt: </hi>
+              <hi rend="italic">Bahr nennt eine längere Liste von internationalen Künstlern und Politikern, denen er zutraut, einen Frieden aushandeln zu können.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>136-137</cell>
+            <cell>
+              <hi rend="bold">2. August</hi>
+              <lb/>
+              <hi rend="bold">Rez.: </hi>
+              <hi rend="italic">Heinrich Lammasch: Das Völkerrecht nach dem Kriege. Kristiania: Publication de l'Institut Nobel 1917)</hi>
+              <lb/>
+              <hi rend="bold">Inhalt: </hi>
+              <hi rend="italic">Bahr notiert sich zwei Stellen aus Heinrich Lammasch's Schrift "Das Völkerrecht nach dem Kriege"</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>137-140</cell>
+            <cell>
+              <hi rend="bold">3. August</hi>
+              <lb/>
+              <hi rend="bold">Inhalt: </hi>
+              <hi rend="italic">Ein Aufsatz über die österreichische Kunst motiviert Bahr zu einer Würdigung des Schaffens des Autors, Hans Tietze.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>140-144</cell>
+            <cell>
+              <hi rend="bold">4. August</hi>
+              <lb/>
+              <hi rend="bold">Rez.: </hi>
+              <hi rend="italic">"Das Kunstblatt", herausgegeben von Paul Westheim</hi>
+              <lb/>
+              <hi rend="bold">Inhalt: </hi>
+              <hi rend="italic">Bahr verbindet eine sehr lobende Besprechung der Zeitschrift mit einem Kommentar über den Unterschied zwischen seinem Alterswerk und seinen Jugendschriften: "denn ich mache jetzt nicht mehr das Wetter von morgen".</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>144-152</cell>
+            <cell>
+              <hi rend="bold">18. August</hi>
+              <lb/>
+              <hi rend="bold">Rez.: </hi>
+              <hi rend="italic">Max Scheler: Die Ursachen des Deutschenhasses. Eine national-pädagogische Erörterung. Leipzig: Wolff 1917</hi>
+              <lb/>
+              <hi rend="bold">Inhalt: </hi>
+              <hi rend="italic">Am 30. September 1917 (1. Morgenblatt, 1-2) antwortete Hugo Ganz in der Frankfurter Zeitung mit "Politische Gesundbeter. Offener Brief an Hermann Bahr".</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>152</cell>
+            <cell>
+              <hi rend="bold">Salzburg, 14. September</hi>
+              <lb/>
+              <hi rend="bold">Inhalt: </hi>
+              <hi rend="italic">Bahr reagiert auf die Meldung, dass die Antwort auf die Friedensnote des Papstes von mehreren, teilweise nicht katholischen Ländern gemeinsam verfasst werden solle, mit Unverständnis.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>153-160</cell>
+            <cell>
+              <hi rend="bold">15. September</hi>
+              <lb/>
+              <hi rend="bold">Inhalt: </hi>
+              <hi rend="italic">Bahr sieht den 1911 gegründeten Dachverband deutschnationaler und deutschliberaler Gruppierungen am Ende, unfähig, das neue Österreich zu begreifen, das selbst auf einen Moses wartet, es zu führen.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>160-162</cell>
+            <cell>
+              <hi rend="bold">Salzburg, 19. September</hi>
+              <lb/>
+              <hi rend="bold">Inhalt: </hi>
+              <hi rend="italic">Bahr reflektiert, dass es die Arroganz des Herrentums ist, die die Deutschen im Ausland nicht gut wegkommen lässt.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>162-165</cell>
+            <cell>
+              <hi rend="bold">20. September</hi>
+              <lb/>
+              <hi rend="bold">Rez.: </hi>
+              <hi rend="italic">Johann Conrad Seekatz. Ein deutscher Maler des achtzehnten Jahrhunderts. Sein Leben und seine Werke von Ludwig Bamberger. Heidelberg: Winter 1916</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>165</cell>
+            <cell>
+              <hi rend="bold">21. September</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>165-169</cell>
+            <cell>
+              <hi rend="bold">22. September</hi>
+              <lb/>
+              <hi rend="bold">Rez.: </hi>
+              <hi rend="italic">Friedrich Markus Huebner, Aufsatz im "Kunstblatt", 1 (1917) #September. Rudolph Pannwitz: Die Krisis der europäischen Kultur. Nürnberg: Hans Carl 1917.</hi>
+              <lb/>
+              <hi rend="bold">Inhalt: </hi>
+              <hi rend="italic">Bahr vergleicht zwei Texte, die Ähnliches vom zukünftigen Leben fordert: ein Spiel des Geistes mit den Gewalten.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>169-172</cell>
+            <cell>
+              <hi rend="bold">Salzburg, 27. September</hi>
+              <lb/>
+              <hi rend="bold">Rez.: </hi>
+              <hi rend="italic">Hermann Burg, Hermann Erhard, Franz Schnabel: Cambrai. Heidelberg: Winter 1917</hi>
+              <lb/>
+              <hi rend="bold">Inhalt: </hi>
+              <hi rend="italic">Bahr wird durch das Buch "Cambrai" zu der Frage geführt, ob die Verbundenheit, die die gegnerischen Soldaten im Feld füreinander empfinden, letztlich zur "Wiedergeburt Europas aus den Schützengräben" führen wird.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>172-175</cell>
+            <cell>
+              <hi rend="bold">30. September</hi>
+              <lb/>
+              <hi rend="bold">Inhalt: </hi>
+              <hi rend="italic">Bahr erneuert seinen Wunsch nach einem gestaltenden Mann, der in der Lage ist, das neue Österreich zu formen.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>175-180</cell>
+            <cell>
+              <hi rend="bold">1. Oktober</hi>
+              <lb/>
+              <hi rend="bold">Rez.: </hi>
+              <hi rend="italic">Ignaz Seipel: Gedanken zur österreichischen Verfassungsreform. Innsbruck: Tyrolia 1917.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>180-182</cell>
+            <cell>
+              <hi rend="bold">3. Oktober</hi>
+              <lb/>
+              <hi rend="bold">Inhalt: </hi>
+              <hi rend="italic">Bahr sieht zuerst in der Rede Czernins ein Wiederaufleben von Kants "Friedensbund", stellt dann aber einen Bruch fest und endet damit, dass der Christ dem Gewissen, nicht den Menschen unterstellt ist.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>182-186</cell>
+            <cell>
+              <hi rend="bold">München, 8. Oktober</hi>
+              <lb/>
+              <hi rend="bold">Inhalt: </hi>
+              <hi rend="italic">Bahr sieht nur an Stifter gebildete Politiker in der Lage, die positive Zukunft herbeizuführen.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>186-187</cell>
+            <cell>
+              <hi rend="bold">Beuron, 9. Oktober</hi>
+              <lb/>
+              <hi rend="bold">Inhalt: </hi>
+              <hi rend="italic">Bahr besucht das Benediktinerkloster Beuron. Ach, würden die Klöster nur herrschen wie zur Zeit von Karl dem Klößchen!</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>187-192</cell>
+            <cell>
+              <hi rend="bold">12. Oktober</hi>
+              <lb/>
+              <hi rend="bold">Inhalt: </hi>
+              <hi rend="italic">Bahr schildert ein Gespräch mit dem Gründer der Beuroner Kunstschule, Pater Desiderius Lenz (1832-1928).</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>192-194</cell>
+            <cell>
+              <hi rend="bold">13. Oktober</hi>
+              <lb/>
+              <hi rend="bold">Inhalt: </hi>
+              <hi rend="italic">Bahr liest die Geschichte der Konversion des "Malermönchs" Willibrord Verkade.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>194-198</cell>
+            <cell>
+              <hi rend="bold">München, 14. Oktober</hi>
+              <lb/>
+              <hi rend="bold">Inhalt: </hi>
+              <hi rend="italic">Bahr sieht eine Menschenklasse, den Kriegsbourgeois, der aus verschiedenen Überzeugungen an den Sieg glaubt oder daran festhält, aber nicht in der Lage ist zu erkennen, dass nur ohne Sieg Frieden möglich ist. </hi>
+            </cell>
+          </row>
+          <row>
+            <cell>198-203</cell>
+            <cell>
+              <hi rend="bold">München, 15. Oktober</hi>
+              <lb/>
+              <hi rend="bold">Rez.: </hi>
+              <hi rend="italic">Adolph Andreas Latzko: Menschen im Krieg. Zürich: Rascher 1917.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>203-210</cell>
+            <cell>
+              <hi rend="bold">Salzburg, 8. November</hi>
+              <lb/>
+              <hi rend="bold">Rez.: </hi>
+              <hi rend="italic">Rudolph Pannwitz: Die Krisis der europäischen Kultur. Nürnberg: Hans Carl 1917.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>210-217</cell>
+            <cell>
+              <hi rend="bold">Salzburg, 12. November</hi>
+              <lb/>
+              <hi rend="bold">Inhalt: </hi>
+              <hi rend="italic">Bahr schreibt einen Nachruf auf seinen Professor in Berlin, Adolf Wagner.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>217</cell>
+            <cell>
+              <hi rend="bold">15. November</hi>
+              <lb/>
+              <hi rend="bold">Inhalt: </hi>
+              <hi rend="italic">Am 15. November 1917 hatte Bahr hat einen Ohrwum: Eija, Seele, wach auf!</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>217-222</cell>
+            <cell>
+              <hi rend="bold">18. November</hi>
+              <lb/>
+              <hi rend="bold">Inhalt: </hi>
+              <hi rend="italic">Bahr fragt sich, was die Deutschen wirklich denken, ob sie vor die Wahl gestellt, lieber die Wehrpflicht abschaffen würden wollen oder die französischen Kohlegruben besitzen.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>217-239</cell>
+            <cell>
+              <hi rend="bold">Salzburg, 16. Dezember 1917</hi>
+              <lb/>
+              <hi rend="bold">Inhalt: </hi>
+              <hi rend="italic">Wenn man, so Bahr, nur lesen lernt, kann man zu allen Zeiten und Orten Christen entdecken.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>222-226</cell>
+            <cell>
+              <hi rend="bold">24. November</hi>
+              <lb/>
+              <hi rend="bold">Rez.: </hi>
+              <hi rend="italic">Brentano, Lujo: Elsässer Erinnerungen. Berlin: E. Reiss 1917.</hi>
+              <lb/>
+              <hi rend="bold">Inhalt: </hi>
+              <hi rend="italic">Bahr sieht den Frieden und die Verständigung zwischen den Völkern als historische Notwendigkeit, die zu vermitteln Österreich zufällt.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>226-227</cell>
+            <cell>
+              <hi rend="bold">26. November</hi>
+              <lb/>
+              <hi rend="bold">Inhalt: </hi>
+              <hi rend="italic">Bahr hat Verständnis dafür, dass sich das Duell nicht mit einem Verbot aus der Welt schaffen lässt. Stattdessen plädiert er für Buddhismus, Liebe und gebratene Fische.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>231-237</cell>
+            <cell>
+              <hi rend="bold">Salzburg, 10. Dezember</hi>
+              <lb/>
+              <hi rend="bold">Rez.: </hi>
+              <hi rend="italic">Ku Hung-Ming: Chinas Verteidigung gegen europäische Ideen. Kritische Aufsätze, eingeleitet von Alphons Paquet. 2. und 3. Tsd. Jena: Diederichs 1917 Ku Hung-Ming: Der Geist des chinesischen Volkes und der Ausweg aus dem Krieg. Jena: Diederichs 1916</hi>
+              <lb/>
+              <hi rend="bold">Inhalt: </hi>
+              <hi rend="italic">Bahr schätzt Ku Hung Ming.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>239-241</cell>
+            <cell>
+              <hi rend="bold">20. Dezember</hi>
+              <lb/>
+              <hi rend="bold">Rez.: </hi>
+              <hi rend="italic">Hans Delbrück: Wider den Kleinglauben. Eine Auseinandersetzung mit der Deutschen Vaterlandspartei. Jena: Diederichs 1918. (Die Volksaufklärung, 2)</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>241</cell>
+            <cell>
+              <hi rend="bold">21. Dezember</hi>
+              <lb/>
+              <hi rend="bold">Inhalt: </hi>
+              <hi rend="italic">Bahr präsentiert zum Jahresabschluss ein Kōan: Wer einen Satz von Heraklit versteht, braucht ihn nicht, hingegen der, der ihn nicht versteht, der braucht ihn.</hi>
+            </cell>
+          </row>
+        </table>
+        <div>
+          <head>Die nicht in die Buchausgabe aufgenommenen Einträge</head>
+          <table>
+            <row>
+              <cell>
+                <hi rend="bold">7. Juli</hi>
+                <lb/>
+                <hi rend="bold">Inhalt:</hi>
+                <hi rend="italic"> Bahr ist begeistert vom angewandten Christentum des Kaisers, das aus der Amnestie spricht.</hi>
+              </cell>
+            </row>
+            <row>
+              <cell>
+                <hi rend="bold">8. Juli</hi>
+                <lb/>
+                <hi rend="bold">Inhalt:</hi>
+                <hi rend="italic"> Über die "Sendung Österreichs" als christlicher Vielvölkerstaat und Vorbild für "Vereinigte Staaten von Europa".</hi>
+              </cell>
+            </row>
+            <row>
+              <cell><hi rend="bold">12. Juli</hi><lb/><hi rend="bold">Inhalt:</hi> Nach Krumpendorf am Wörthersee, um mit meiner Frau den achtzigsten Geburstag ihrer Mutter zu begehen. – Allgemeines Wahlrecht in Preußen; auch dort schlägt eine neue Zeit. Und alles bestätigt mir meine Zuversicht, der ich so lange kaum selber zu trauen wagte: daß dieser Krieg, wenn auch auf dunklen Wegen, uns schließlich aus allem Nationalismus weg ins einige Europa führt.</cell>
+            </row>
+            <row>
+              <cell>
+                <hi rend="bold">14. Juli</hi>
+                <lb/>
+                <hi rend="bold">Inhalt:</hi>
+                <hi rend="italic"> Im Krieg, beklagt Bahr, hat das Primat der Politik gegenüber den Militärs verloren, was ein Fehler war.</hi>
+              </cell>
+            </row>
+            <row>
+              <cell>
+                <hi rend="bold">8. August</hi>
+                <lb/>
+                <hi rend="bold">Inhalt:</hi>
+                <hi rend="italic"> Bahr über Theodor Wolff und Maximilian Harden.</hi>
+              </cell>
+            </row>
+            <row>
+              <cell>
+                <hi rend="bold">10. August</hi>
+                <lb/>
+                <hi rend="bold">Rez.:</hi>
+                <hi rend="italic"> Hodann, Max: Die Urburschenschaft als Jugendbewegung. Hg. von M. H. und Walther Koch. Jena: Diederichs 1917.</hi>
+                <lb/>
+                <hi rend="bold">Inhalt:</hi>
+                <hi rend="italic"> Käme es zu einer "Burschenschaft der europäischen Eintracht" (selbstverständlich katholisch), dann würde Bahr sein verblichenes schwarz-rot-goldenes Band abstauben.</hi>
+              </cell>
+            </row>
+            <row>
+              <cell>
+                <hi rend="bold">17. August</hi>
+                <lb/>
+                <hi rend="bold">Inhalt:</hi>
+                <hi rend="italic"> Der Papst hat gesprochen und Bahr will, dass alle gehorchen.</hi>
+              </cell>
+            </row>
+            <row>
+              <cell>
+                <hi rend="bold">23. August</hi>
+                <lb/>
+                <hi rend="bold">Inhalt:</hi>
+                <hi rend="italic"> Der Krieg geht weiter, weil sich niemand an den Papst hält und weil die, die damit Geld verdienen, weitermachen.</hi>
+              </cell>
+            </row>
+            <row>
+              <cell>
+                <hi rend="bold">26. August</hi>
+                <lb/>
+                <hi rend="bold">Inhalt:</hi>
+                <hi rend="italic"> Bahr sieht zum ersten Mal seit seiner Generation (1857-1874) eine neue Generation "mit Sendung" auftreten. Er berichtet auch, dass er zur ersten Drucklegung Trakls beigetragen habe, weil er dessen Gedichte an das Neue Wiener Journal vermittelt habe.</hi>
+              </cell>
+            </row>
+            <row>
+              <cell><hi rend="bold">30. August</hi><lb/><hi rend="bold">Inhalt:</hi> Ein Vierzeiler Voltaires: "Je crois en Turgot fermement: Je ne sais pas ce qu'il veut faire, Mais je sais que c'est le contraire De ce qu'on fit jusqu'à présent."</cell>
+            </row>
+            <row>
+              <cell>
+                <hi rend="bold">1. September</hi>
+                <lb/>
+                <hi rend="bold">Inhalt:</hi>
+                <hi rend="italic"> Bahr findet, man solle den Unterhändler auswechseln, um den Vorschlag des Papstes zum Frieden Wilson verständlich zu machen.</hi>
+              </cell>
+            </row>
+          </table>
+        </div>
+      </div>
+      <div>
+        <head>Personen- und Sachregister</head>
+        <p><ref target="https://bahr.univie.ac.at/sites/all/indizes/1917.pdf" type="sites-all">1917</ref> Tagebücher Dezember 1916-Dezember 1917</p>
+      </div>
+      <div xml:id="digit">
+        <head>Digitalisate</head>
+        <p><ref target="http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=89">ÖNB</ref> <ref target="http://www.archive.org/search.php?query=bahr%20tagebuch">Archive.org</ref></p>
+      </div>
+    </body>
+  </text>
+</TEI>

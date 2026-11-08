@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "afb1d27d-a67c-4860-a7fb-adf3d95110be",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/afb1d27d-a67c-4860-a7fb-adf3d95110be?resourceVersion=id%3A3282"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/afb1d27d-a67c-4860-a7fb-adf3d95110be?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49439,
+    "drupal_internal__vid": 3282,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Todesmeldung",
+    "created": "2011-10-20T12:08:42+00:00",
+    "changed": "2012-01-02T15:26:26+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49439",
+      "pid": 1263,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "In den Tagen vor dem 19. Juni 1920 dürften Wiener Zeitungen Bahrs Tod verkündet haben. Im \"Tagebuch\" schreibt er:<blockquote>Ich werde heute fortwährend antelephoniert, ob ich schon gestorben bin. Eine Wiener Zeitung hat das nämlich versprochen und ich wage kaum, es zu dementieren. Denn ein alter Pfarrer, der auch eines Tages von einer Zeitung lebendig begraben wurde, ließ sich das nicht gefallen und berichtigte, aber als er dann, viele Jahre später, wirklich starb, teilte jene Zeitung dies ihren Lesern mit dem Bemerken mit, sie habe die Nachricht ja schon lange vor allen übrigen Blättern gebracht und sei darum von der Konkurrenz damals natürlich gleich wieder mit der üblichen Berichtigung behelligt worden; möge der Leser daraus ein für alle Mal ersehen, was von derlei frivolen Berichtigungen zu halten ist! Das Beispiel des Pfarrers warnt mich: ich mag nicht noch im Grabe Lügen gestraft werden. Aber Beileid vorderhand noch freundlichst verbeten!</blockquote>Im Berliner Tageblatt erscheint in Folge sogar ein Leserbrief mit einem Dementi Bahrs.",
+      "format": "full_html",
+      "processed": "In den Tagen vor dem 19. Juni 1920 dürften Wiener Zeitungen Bahrs Tod verkündet haben. Im \"Tagebuch\" schreibt er:<blockquote>Ich werde heute fortwährend antelephoniert, ob ich schon gestorben bin. Eine Wiener Zeitung hat das nämlich versprochen und ich wage kaum, es zu dementieren. Denn ein alter Pfarrer, der auch eines Tages von einer Zeitung lebendig begraben wurde, ließ sich das nicht gefallen und berichtigte, aber als er dann, viele Jahre später, wirklich starb, teilte jene Zeitung dies ihren Lesern mit dem Bemerken mit, sie habe die Nachricht ja schon lange vor allen übrigen Blättern gebracht und sei darum von der Konkurrenz damals natürlich gleich wieder mit der üblichen Berichtigung behelligt worden; möge der Leser daraus ein für alle Mal ersehen, was von derlei frivolen Berichtigungen zu halten ist! Das Beispiel des Pfarrers warnt mich: ich mag nicht noch im Grabe Lügen gestraft werden. Aber Beileid vorderhand noch freundlichst verbeten!</blockquote>Im Berliner Tageblatt erscheint in Folge sogar ein Leserbrief mit einem Dementi Bahrs.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1920-06-19",
+      "end_value": "1920-06-20"
+    },
+    "field_sources": [
+      "Tagebuch. 19. Juni. In: Kritik der Gegenwart, 164-165",
+      "Bahr/Redlich, 414-415.",
+      "Hermann Bahr, der \"Pumperlgesunde\". Berliner Tageblatt, 49 (1920) #309, Abend-Ausgabe, 2. (3.7.1920) "
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/afb1d27d-a67c-4860-a7fb-adf3d95110be/node_type?resourceVersion=id%3A3282"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/afb1d27d-a67c-4860-a7fb-adf3d95110be/relationships/node_type?resourceVersion=id%3A3282"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/afb1d27d-a67c-4860-a7fb-adf3d95110be/revision_uid?resourceVersion=id%3A3282"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/afb1d27d-a67c-4860-a7fb-adf3d95110be/relationships/revision_uid?resourceVersion=id%3A3282"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/afb1d27d-a67c-4860-a7fb-adf3d95110be/uid?resourceVersion=id%3A3282"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/afb1d27d-a67c-4860-a7fb-adf3d95110be/relationships/uid?resourceVersion=id%3A3282"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/afb1d27d-a67c-4860-a7fb-adf3d95110be/field_event_type?resourceVersion=id%3A3282"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/afb1d27d-a67c-4860-a7fb-adf3d95110be/relationships/field_event_type?resourceVersion=id%3A3282"
+        }
+      }
+    }
+  }
+}

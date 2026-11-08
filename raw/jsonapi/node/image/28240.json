@@ -1,0 +1,109 @@
+{
+  "type": "node--image",
+  "id": "398fceda-5438-4e41-a1a7-d0f128a6d49e",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/image/398fceda-5438-4e41-a1a7-d0f128a6d49e?resourceVersion=id%3A3943"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/image/398fceda-5438-4e41-a1a7-d0f128a6d49e?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28240,
+    "drupal_internal__vid": 3943,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:44:08+00:00",
+    "status": true,
+    "title": "1914 Bahr beim lieben Gott",
+    "created": "2010-11-09T12:04:21+00:00",
+    "changed": "2011-07-12T14:05:20+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/bild/28240",
+      "pid": 374,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<blockquote>Wir könnten uns eigentlich wieder miteinander vertragen. Ich habe nämlich Aussicht, Burgtheaterdirektor zu werden.</blockquote><br />(Von O. Gulbransson)<br /><i>Aus: Simplicissimus, 18 (1914) #51, 850. <a href=\"http://www.simplicissimus.info/uploads/tx_lombkswjournaldb/pdf/1/18/18_51.pdf\">[Quelle]</a></i>",
+      "format": "full_html",
+      "processed": "<blockquote>Wir könnten uns eigentlich wieder miteinander vertragen. Ich habe nämlich Aussicht, Burgtheaterdirektor zu werden.</blockquote><br>(Von O. Gulbransson)<br><i>Aus: Simplicissimus, 18 (1914) #51, 850. <a href=\"http://www.simplicissimus.info/uploads/tx_lombkswjournaldb/pdf/1/18/18_51.pdf\">[Quelle]</a></i>",
+      "summary": null
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "e2381624-d098-4c5b-bdd7-5dbfd773b84e",
+        "meta": {
+          "drupal_internal__target_id": "image"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/398fceda-5438-4e41-a1a7-d0f128a6d49e/node_type?resourceVersion=id%3A3943"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/398fceda-5438-4e41-a1a7-d0f128a6d49e/relationships/node_type?resourceVersion=id%3A3943"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/398fceda-5438-4e41-a1a7-d0f128a6d49e/revision_uid?resourceVersion=id%3A3943"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/398fceda-5438-4e41-a1a7-d0f128a6d49e/relationships/revision_uid?resourceVersion=id%3A3943"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/398fceda-5438-4e41-a1a7-d0f128a6d49e/uid?resourceVersion=id%3A3943"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/398fceda-5438-4e41-a1a7-d0f128a6d49e/relationships/uid?resourceVersion=id%3A3943"
+        }
+      }
+    },
+    "field_images": {
+      "data": [
+        {
+          "type": "media--image",
+          "id": "ac551215-95a4-4c1e-991a-78ec38f161da",
+          "meta": {
+            "drupal_internal__target_id": 122
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/398fceda-5438-4e41-a1a7-d0f128a6d49e/field_images?resourceVersion=id%3A3943"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/398fceda-5438-4e41-a1a7-d0f128a6d49e/relationships/field_images?resourceVersion=id%3A3943"
+        }
+      }
+    }
+  }
+}

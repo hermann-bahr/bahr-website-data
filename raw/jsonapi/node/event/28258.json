@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "91ceb0bc-f45f-41b2-8b9e-078739b246bb",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/91ceb0bc-f45f-41b2-8b9e-078739b246bb?resourceVersion=id%3A2533"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/91ceb0bc-f45f-41b2-8b9e-078739b246bb?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28258,
+    "drupal_internal__vid": 2533,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Strauß, Wolff",
+    "created": "2010-11-15T17:01:39+00:00",
+    "changed": "2011-12-20T15:50:39+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28258",
+      "pid": 391,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 24. Jänner 1916 notiert sich der Chefredakteur des \"Berliner Tageblatts\" ins Tagebuch:\r\n<blockquote>Esse im Klub mit Richard Strauß, der halb naiv, halb Herrenmensch, gegen das allgemeine Wahlrecht, gegen das Volk wettert u. von der Herrschaft einer Elite – des Geistes u. des Geldes – faselt […] Am Tische noch einige Musikfreunde Strauß‘, ein General u. Hermann Bahr in seiner neuesten Maske: Als Reverend, glatt rasirter Oberlippe, langem weißen Bart u. sanften Quäkerbewegungen. Er will wissen, ob das Parlament bei uns ebenso mißachtet werde, wie in Österreich – was ihm aus Straußens Bemerkungen u. den Worten der anderen hervorzugehen scheine.</blockquote>",
+      "format": "full_html",
+      "processed": "Am 24. Jänner 1916 notiert sich der Chefredakteur des \"Berliner Tageblatts\" ins Tagebuch:\n<blockquote>Esse im Klub mit Richard Strauß, der halb naiv, halb Herrenmensch, gegen das allgemeine Wahlrecht, gegen das Volk wettert u. von der Herrschaft einer Elite – des Geistes u. des Geldes – faselt […] Am Tische noch einige Musikfreunde Strauß‘, ein General u. Hermann Bahr in seiner neuesten Maske: Als Reverend, glatt rasirter Oberlippe, langem weißen Bart u. sanften Quäkerbewegungen. Er will wissen, ob das Parlament bei uns ebenso mißachtet werde, wie in Österreich – was ihm aus Straußens Bemerkungen u. den Worten der anderen hervorzugehen scheine.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1916-01-24",
+      "end_value": "1916-01-24"
+    },
+    "field_sources": [
+      "Theodor Wolff: Tagebücher 1914-1919. Boppard/Rhein: Harald Boldt 1984, 338-339. (#294)\r\n"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/91ceb0bc-f45f-41b2-8b9e-078739b246bb/node_type?resourceVersion=id%3A2533"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/91ceb0bc-f45f-41b2-8b9e-078739b246bb/relationships/node_type?resourceVersion=id%3A2533"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/91ceb0bc-f45f-41b2-8b9e-078739b246bb/revision_uid?resourceVersion=id%3A2533"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/91ceb0bc-f45f-41b2-8b9e-078739b246bb/relationships/revision_uid?resourceVersion=id%3A2533"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/91ceb0bc-f45f-41b2-8b9e-078739b246bb/uid?resourceVersion=id%3A2533"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/91ceb0bc-f45f-41b2-8b9e-078739b246bb/relationships/uid?resourceVersion=id%3A2533"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/91ceb0bc-f45f-41b2-8b9e-078739b246bb/field_event_type?resourceVersion=id%3A2533"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/91ceb0bc-f45f-41b2-8b9e-078739b246bb/relationships/field_event_type?resourceVersion=id%3A2533"
+        }
+      }
+    }
+  }
+}

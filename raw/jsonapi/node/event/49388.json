@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "5486c673-bb06-46e1-9ea0-8c7adb62ef8d",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/5486c673-bb06-46e1-9ea0-8c7adb62ef8d?resourceVersion=id%3A3233"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/5486c673-bb06-46e1-9ea0-8c7adb62ef8d?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49388,
+    "drupal_internal__vid": 3233,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Gicht, Herz",
+    "created": "2011-10-17T10:08:49+00:00",
+    "changed": "2011-10-17T10:26:55+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49388",
+      "pid": 1212,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 6. Jänner 1918 gesteht Bahr Redlich, dass die Gicht nach zwei ruhigeren Jahren wiedergekehrt sei. Aus Redlichs Reaktion wird deutlich, dass Bahr deswegen kein Fleisch und keinen Alkohol zu sich nimmt. Zugleich dürfte sich auch Bahrs Herz \"nach 14 Jahren\" wieder spürbar daneben benommen haben, weswegen er sich kurz an die früheren Herzprobleme erinnert.",
+      "format": "full_html",
+      "processed": "Am 6. Jänner 1918 gesteht Bahr Redlich, dass die Gicht nach zwei ruhigeren Jahren wiedergekehrt sei. Aus Redlichs Reaktion wird deutlich, dass Bahr deswegen kein Fleisch und keinen Alkohol zu sich nimmt. Zugleich dürfte sich auch Bahrs Herz \"nach 14 Jahren\" wieder spürbar daneben benommen haben, weswegen er sich kurz an die früheren Herzprobleme erinnert.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1918-01-06",
+      "end_value": "1918-01-06"
+    },
+    "field_sources": [
+      "Bahr/Redlich, 296-299."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5486c673-bb06-46e1-9ea0-8c7adb62ef8d/node_type?resourceVersion=id%3A3233"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5486c673-bb06-46e1-9ea0-8c7adb62ef8d/relationships/node_type?resourceVersion=id%3A3233"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5486c673-bb06-46e1-9ea0-8c7adb62ef8d/revision_uid?resourceVersion=id%3A3233"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5486c673-bb06-46e1-9ea0-8c7adb62ef8d/relationships/revision_uid?resourceVersion=id%3A3233"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5486c673-bb06-46e1-9ea0-8c7adb62ef8d/uid?resourceVersion=id%3A3233"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5486c673-bb06-46e1-9ea0-8c7adb62ef8d/relationships/uid?resourceVersion=id%3A3233"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5486c673-bb06-46e1-9ea0-8c7adb62ef8d/field_event_type?resourceVersion=id%3A3233"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5486c673-bb06-46e1-9ea0-8c7adb62ef8d/relationships/field_event_type?resourceVersion=id%3A3233"
+        }
+      }
+    }
+  }
+}

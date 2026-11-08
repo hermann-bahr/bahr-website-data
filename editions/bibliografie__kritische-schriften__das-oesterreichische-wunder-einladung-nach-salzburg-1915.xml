@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bibliografie__kritische-schriften__das-oesterreichische-wunder-einladung-nach-salzburg-1915" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Das österreichische Wunder. Einladung nach Salzburg (1915)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">38715</idno>
+        <idno type="drupal-alias">/bibliografie/38715</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bibliografie/38715">https://bahr.univie.ac.at/bibliografie/38715</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+        <bibl type="beschriebene-ausgabe">
+          <author>Hermann Bahr</author>
+          <title type="main">Das österreichische Wunder. Einladung nach Salzburg</title>
+          <pubPlace>Stuttgart</pubPlace>
+          <publisher>Die Lese</publisher>
+          <date>1915</date>
+          <extent>47</extent>
+          <edition>1.-3. Tsd.</edition>
+          <note>Eigentlich [1915]. Als Neuerscheinung angezeigt im Literaturblatt der Frankfurter Zeitung, 23.5.1915. Kvapil bedankt sich am 9. Juni bei Bahr für den Erhalt. (Bahr/Kvapil, 172).</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="1" key="bibliografie">Bibliografie</term>
+          <term n="4" key="kritische-schriften">Kritische Schriften</term>
+          <term n="3" key="das-oesterreichische-wunder-einladung-nach-salzburg-1915" type="eintrag">Das österreichische Wunder. Einladung nach Salzburg (1915)</term>
+        </keywords>
+        <classCode scheme="drupal-type">bibliographie</classCode>
+        <keywords scheme="bibliografie_type">
+          <term>Kritische Schriften</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2010-12-30T14:36:50+00:00" type="created">angelegt in Drupal</change>
+      <change when="2012-09-25T12:22:16+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="bib">
+        <head>Bibliografie</head>
+        <table type="bibliografie">
+          <row>
+            <cell>Autor:</cell>
+            <cell>Hermann Bahr</cell>
+          </row>
+          <row>
+            <cell>Titel:</cell>
+            <cell>Das österreichische Wunder. Einladung nach Salzburg</cell>
+          </row>
+          <row>
+            <cell>Ort:</cell>
+            <cell>Stuttgart</cell>
+          </row>
+          <row>
+            <cell>Verlag:</cell>
+            <cell>Die Lese</cell>
+          </row>
+          <row>
+            <cell>Jahr:</cell>
+            <cell>1915</cell>
+          </row>
+          <row>
+            <cell>Seiten:</cell>
+            <cell>47</cell>
+          </row>
+          <row>
+            <cell>Aufl.:</cell>
+            <cell>1.-3. Tsd.</cell>
+          </row>
+          <row>
+            <cell>Anm.:</cell>
+            <cell>Eigentlich [1915]. Als Neuerscheinung angezeigt im Literaturblatt der Frankfurter Zeitung, 23.5.1915. Kvapil bedankt sich am 9. Juni bei Bahr für den Erhalt. (Bahr/Kvapil, 172).</cell>
+          </row>
+        </table>
+      </div>
+      <div xml:id="rezens">
+        <head>Rezensionen</head>
+        <p>Budweiser Zeitung, 11.6.1915, 7.</p>
+      </div>
+      <div>
+        <head>Erstdrucke</head>
+        <list rend="numbered">
+          <item><hi rend="bold">Das österreichische Wunder</hi> Als "Die Zukunft Österreichs" in: Die Tat, Jena, 7 (1915) #1 (April), 45-49. Dass nachgedruckt: Die Propyläen, 12 (1915) #31, 483-484. (30.4.1915) Als "Das österreichische Wunder" in: Der Kunstfreund, Berlin, 2 (1915) #7 (April), 200-204. Dass. Münchner Neueste Nachrichten, 68 (1915) #184, 2. (11.4.1915)</item>
+          <item><hi rend="bold">Einladung nach Salzburg. Ein Brief.</hi><lb/>Berliner Tageblatt, 44 (1915) #200, Abend-Ausgabe, 2. (20.4.1915) Nachdruck in: Salzburger Wacht, 16 (1915) #92, 1-3. (24.4.1915)</item>
+        </list>
+      </div>
+      <div xml:id="inhaltsvz">
+        <head>Inhaltsverzeichnis</head>
+        <table>
+          <row>
+            <cell role="label">Seiten</cell>
+            <cell role="label">Inhalt</cell>
+          </row>
+          <row>
+            <cell>3-36</cell>
+            <cell>
+              <hi rend="bold">Das österreichische Wunder.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>37-47</cell>
+            <cell>
+              <hi rend="bold">Einladung nach Salzburg.</hi>
+            </cell>
+          </row>
+        </table>
+      </div>
+      <div xml:id="digit">
+        <head>Digitalisate</head>
+        <p>
+          <ref target="http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=84">Anno</ref>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

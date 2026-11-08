@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="barrierefreiheit" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Erklärung zur Barrierefreiheit</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">90890</idno>
+        <idno type="drupal-alias">/erklaerung-zur-barrierefreiheit</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/erklaerung-zur-barrierefreiheit">https://bahr.univie.ac.at/erklaerung-zur-barrierefreiheit</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="footer">
+          <term n="3" key="barrierefreiheit">Barrierefreiheit</term>
+        </keywords>
+        <classCode scheme="drupal-type">page</classCode>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2026-03-06T15:28:51+00:00" type="created">angelegt in Drupal</change>
+      <change when="2026-03-06T15:37:20+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Bei Fragen verwenden Sie bitte das <ref target="https://bahr.univie.ac.at/contact" type="kontaktformular">Kontaktformular</ref>.</p>
+        <p>Die Universität Wien ist bemüht, ihre Websites und digitalen Anwendungen im Einklang mit dem <ref target="https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&amp;Gesetzesnummer=20010727">Web-Zugänglichkeits-Gesetz (WZG)</ref> in der geltenden Fassung zur Umsetzung der Richtlinie (EU) 2016/2102 des Europäischen Parlaments und des Rates vom 26. Oktober 2016 über den barrierefreien Zugang zu den Websites und mobilen Anwendungen öffentlicher Stellen (Amtsblatt L 327 vom 2.12.2016, S. 1) barrierefrei zugänglich zu machen.</p>
+        <p>Diese Erklärung zur Barrierefreiheit gilt für die Website: <ref target="https://bahr.univie.ac.at" type="legacy">bahr.univie.ac.at</ref></p>
+      </div>
+      <div>
+        <head>Stand der Vereinbarkeit mit den Anforderungen</head>
+        <p>Diese Website ist wegen der folgenden Unvereinbarkeiten und Ausnahmen <hi rend="bold">teilweise</hi> mit <hi rend="bold">Konformitätsstufe AA der Richtlinien für barrierefreie Webinhalte Web – </hi><ref target="https://www.w3.org/TR/WCAG21/"><hi rend="bold">WCAG 2.1</hi></ref> beziehungsweise mit dem geltenden Europäischen Standard EN 301 549 V3.2.1 vereinbar.</p>
+      </div>
+      <div>
+        <head>Nicht barrierefreie Inhalte</head>
+        <p>Die nachstehend aufgeführten Inhalte sind aus den folgenden Gründen nicht barrierefrei:</p>
+        <div>
+          <head>Unvereinbarkeit mit den Barrierefreiheitsbestimmungen</head>
+          <list rend="bulleted">
+            <item>Die Website basiert auf dem Content Management System <ref target="https://www.drupal.org">Drupal</ref> und ist deswegen angewiesen auf die Umsetzung von Anforderungen der WCAG 2.1 Konformitätsstufe durch das Development-Team von Drupal. Großteils wurden entsprechende Vorgaben implementiert, es kann aber in unterschiedlichen Fällen Mängel bei der Umsetzung geben. Diese werden in der Issue-Queue von Drupal gemeldet und in weiterer Folge behoben. Eine Beschreibung dieser Vorgehensweise findet sich auf einer <ref target="https://www.drupal.org/docs/getting-started/accessibility/accessibility-conformance-report-acr-process#s-drupal-core">dezidierten Webseite von Drupal (in Englisch)</ref>, wo auch auf die Issue-Queue verwiesen wird.</item>
+            <item>Für die Website wird ein angepasstes Design verwendet, wodurch manche Elemente unter Umständen Mängel bei der Umsetzung der Barrierefreiheit aufweisen können. Dies gilt auch für die Darstellung auf mobilen Endgeräten (je nach Auflösung und Größe des Endgeräts), die an manchen Stellen nicht optimal dargestellt werden bzw. bedienbar sind .</item>
+          </list>
+          <p>Diese Erklärung wurde im März 2026 erstellt.</p>
+          <p>Die Bewertung der Vereinbarkeit der Website mit dem WZG zur Umsetzung der Anforderungen der Richtlinie (EU) 2016/2102 erfolgte in Form eines internen Accessibility Audits nach WCAG 2.1 AA und EN 301549 3.2.1 März 2026.</p>
+        </div>
+      </div>
+      <div>
+        <head>Feedback und Kontaktangaben</head>
+        <p>Die Angebote und Services auf dieser Website werden laufend verbessert, ausgetauscht und ausgebaut. Einzelne Seiteninhalte werden von der Web-Redaktion bei Veröffentlichung neuer Inhalte regelmäßig geprüft.</p>
+        <p>Wenn Ihnen Barrieren auffallen, die Sie an der Benutzung unserer Website behindern – Probleme, die in dieser Erklärung nicht beschrieben sind, oder schwerer wiegende Mängel in Bezug auf die Einhaltung der Barrierefreiheitsanforderungen –, so bitten wir Sie, uns diese per E-Mail mitzuteilen. Wir werden Ihre Anfrage prüfen und Sie ehestmöglich kontaktieren.</p>
+        <p>Bitte senden Sie sämtliche Mitteilungen und Anregungen über das das <ref target="https://bahr.univie.ac.at/contact" type="kontaktformular">Kontaktformular</ref>. Beschreiben Sie das Problem und führen Sie bitte die URL(s) der betroffenen Webseite oder des Dokuments an.</p>
+        <div>
+          <head>Kontakt</head>
+          <p>Siehe <ref target="impressum-und-datenschutz.xml">Impressum</ref></p>
+        </div>
+      </div>
+      <div>
+        <head>Durchsetzungsverfahren</head>
+        <p>Bei nicht zufriedenstellenden Antworten aus oben genannter Kontaktmöglichkeit können Sie sich mittels Beschwerde an die Österreichische Forschungsförderungsgesellschaft mit beschränkter Haftung (FFG) wenden. Die FFG nimmt über das Kontaktformular Beschwerden auf elektronischem Weg entgegen.</p>
+        <p>
+          <ref target="https://www.ffg.at/form/kontaktformular-beschwerdestelle">Kontaktformular der Beschwerdestelle</ref>
+        </p>
+        <p>Die Beschwerden werden von der FFG dahingehend geprüft, ob sie sich auf Verstöße gegen die Vorgaben des Web-Zugänglichkeits-Gesetzes, insbesondere Mängel bei der Einhaltung der Barrierefreiheitsanforderungen, durch den Bund oder einer ihm zuordenbaren Einrichtung beziehen.</p>
+        <p>Sofern die Beschwerde berechtigt ist, hat die FFG dem Bund oder den betroffenen Rechtsträgern Handlungsempfehlungen auszusprechen und Maßnahmen vorzuschlagen, die der Beseitigung der vorliegenden Mängel dienen.</p>
+        <p>
+          <ref target="https://www.ffg.at/barrierefreiheit/beschwerdestelle">Weitere Informationen zum Beschwerdeverfahren</ref>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

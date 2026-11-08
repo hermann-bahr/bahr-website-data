@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "8955161e-9fe6-4b9a-af4e-9d417c1dc678",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/8955161e-9fe6-4b9a-af4e-9d417c1dc678?resourceVersion=id%3A2393"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/8955161e-9fe6-4b9a-af4e-9d417c1dc678?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28066,
+    "drupal_internal__vid": 2393,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Der Athlet",
+    "created": "2010-08-09T08:53:02+00:00",
+    "changed": "2011-11-22T14:16:26+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28066",
+      "pid": 227,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 7. Oktober 1899 hat Bahrs Stück \"Der Athlet\" im Wiener Deutschen Volkstheater Première. Ein Gutsherr, der selber Affären hat, erfährt, dass seine Frau ihn einmal betrogen hat und muss sich selbst bezwingen, um ihr zu verzeihen. \r\nEine separate Buchausgabe zum Bühnendruck erscheint 1900. \r\nIn \"Der Fackel\" wird Bahr zitiert, dass er mit dem Athleten nur 700 Gulden verdient habe, ein erfolgreiches Stück aber 3000 bringen kann [1]. Im Zuge des Prozesses Bahr/Bukovics gegen Kraus wird erwähnt, dass das Stück ein Flop war und kein Geld brachte. Bahr erhielt für vier Vorstellungen 1117 K.",
+      "format": "full_html",
+      "processed": "Am 7. Oktober 1899 hat Bahrs Stück \"Der Athlet\" im Wiener Deutschen Volkstheater Première. Ein Gutsherr, der selber Affären hat, erfährt, dass seine Frau ihn einmal betrogen hat und muss sich selbst bezwingen, um ihr zu verzeihen. \nEine separate Buchausgabe zum Bühnendruck erscheint 1900. \nIn \"Der Fackel\" wird Bahr zitiert, dass er mit dem Athleten nur 700 Gulden verdient habe, ein erfolgreiches Stück aber 3000 bringen kann [1]. Im Zuge des Prozesses Bahr/Bukovics gegen Kraus wird erwähnt, dass das Stück ein Flop war und kein Geld brachte. Bahr erhielt für vier Vorstellungen 1117 K.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1899-10-07",
+      "end_value": "1899-10-07"
+    },
+    "field_sources": [
+      "Hermann Bahr: Der Athlet. Schauspiel in drei Akten. Berlin, Köln, Leipzig: Albert Ahn, 1900.",
+      "[1] Die Fackel, 2 (1901) #71, 27.",
+      "[2] Neues Wiener Tagblatt, 35 (1901) #53, 10. (23..2.1901) und Neues Wiener Abendblatt, 35 (1901) #53, 3. (23.2.1901)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8955161e-9fe6-4b9a-af4e-9d417c1dc678/node_type?resourceVersion=id%3A2393"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8955161e-9fe6-4b9a-af4e-9d417c1dc678/relationships/node_type?resourceVersion=id%3A2393"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8955161e-9fe6-4b9a-af4e-9d417c1dc678/revision_uid?resourceVersion=id%3A2393"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8955161e-9fe6-4b9a-af4e-9d417c1dc678/relationships/revision_uid?resourceVersion=id%3A2393"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8955161e-9fe6-4b9a-af4e-9d417c1dc678/uid?resourceVersion=id%3A2393"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8955161e-9fe6-4b9a-af4e-9d417c1dc678/relationships/uid?resourceVersion=id%3A2393"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "27f3d2a4-8970-4726-9ab8-ce37707ec1bc",
+          "meta": {
+            "drupal_internal__target_id": 1
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8955161e-9fe6-4b9a-af4e-9d417c1dc678/field_event_type?resourceVersion=id%3A2393"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8955161e-9fe6-4b9a-af4e-9d417c1dc678/relationships/field_event_type?resourceVersion=id%3A2393"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "type": "node--bibliographie",
+  "id": "d79a0ba1-b26a-4b90-9fb0-521c67671367",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/d79a0ba1-b26a-4b90-9fb0-521c67671367?resourceVersion=id%3A3873"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/d79a0ba1-b26a-4b90-9fb0-521c67671367?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38890,
+    "drupal_internal__vid": 3873,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:44:00+00:00",
+    "status": true,
+    "title": "Theater (1897)",
+    "created": "2011-03-04T09:53:56+00:00",
+    "changed": "2012-05-24T20:28:56+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/bibliografie/38890",
+      "pid": 633,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<h3 id=\"bib\">Bibliografie</h3>\r\n<table class=\"bibliografie\">\r\n<tr><td>Autor:</td><td>Hermann Bahr</td></tr>\r\n<tr><td>Titel:</td><td>Theater</td></tr>\r\n<tr><td> </td><td>Ein Wiener Roman</td></tr>\r\n<tr><td>Ort:</td><td>Berlin</td></tr>\r\n<tr><td>Verlag:</td><td>S. Fischer</td></tr>\r\n<tr><td>Jahr:</td><td>1897</td></tr>\r\n<tr><td>Seiten:</td><td>224</td></tr>\r\n<tr><td>Aufl.:</td><td>2. Aufl 1897, 227 S.\r\n3. Aufl. 1904, 231 S.</td></tr>\r\n<tr><td>Ausg.</td><td>1911, 157 S. [Fischers Bibliothek zeitgenössischer Romane, III.7]\r\nWien: H. Bauer 1948, 226 S.</td></tr>\r\n<tr><td>Übers.:</td><td>Russisch: Teatr. Übersetzt von P. Bronstein. 1914; 2. Aufl. 1918\r\nSchwedisch: Teater. En Wienroman. Übers. Karin Allardt. Helsingfors : Schildt, 1919</td></tr>\r\n<tr><td>Anm.:</td><td>Erschienen am 20. März 1897. \"Der Roman brachte es bis 1904 nur auf das 3. Tausend; erst in der 'Bibliothek zeitgenössischer Romane' wurde er erfolgreich: dort erschienen bis 1918 weitere 65.000 Exemplare.\" S. und H. Fischer: Briefwechsel mit den Autoren (1989), Anm. S. 894.</td></tr></table>\r\n<h3 id=\"rezens\">Rezensionen</h3>\r\n<p>Neuland, 1.2 (1897) Juni, 190-192.\r\nL. Hevesi in: Fremdenblatt, 1.6.1897\r\nDie Aktion, 1 (1911) #8, 247. (10.4.1911) [Kurzrezension der Neuausg.]\r\nDas freie Volk. Demokratisches Wochenblatt, 2 (1911) #16. (22.4.1911)\r\n</p>\r\n\r\n<h3 id=\"digit\">Digitalisate</h3>\r\n<ul>\r\n<li><a href=\"http://www.archive.org/search.php?query=hermann%20bahr%20theater\">archive.org</a>\r\n</ul>",
+      "format": "full_html",
+      "processed": "<h3 id=\"bib\">Bibliografie</h3>\n<table class=\"bibliografie\">\n<tr><td>Autor:</td><td>Hermann Bahr</td></tr>\n<tr><td>Titel:</td><td>Theater</td></tr>\n<tr><td> </td><td>Ein Wiener Roman</td></tr>\n<tr><td>Ort:</td><td>Berlin</td></tr>\n<tr><td>Verlag:</td><td>S. Fischer</td></tr>\n<tr><td>Jahr:</td><td>1897</td></tr>\n<tr><td>Seiten:</td><td>224</td></tr>\n<tr><td>Aufl.:</td><td>2. Aufl 1897, 227 S.\n3. Aufl. 1904, 231 S.</td></tr>\n<tr><td>Ausg.</td><td>1911, 157 S. [Fischers Bibliothek zeitgenössischer Romane, III.7]\nWien: H. Bauer 1948, 226 S.</td></tr>\n<tr><td>Übers.:</td><td>Russisch: Teatr. Übersetzt von P. Bronstein. 1914; 2. Aufl. 1918\nSchwedisch: Teater. En Wienroman. Übers. Karin Allardt. Helsingfors : Schildt, 1919</td></tr>\n<tr><td>Anm.:</td><td>Erschienen am 20. März 1897. \"Der Roman brachte es bis 1904 nur auf das 3. Tausend; erst in der 'Bibliothek zeitgenössischer Romane' wurde er erfolgreich: dort erschienen bis 1918 weitere 65.000 Exemplare.\" S. und H. Fischer: Briefwechsel mit den Autoren (1989), Anm. S. 894.</td></tr></table>\n<h3 id=\"rezens\">Rezensionen</h3>\n<p>Neuland, 1.2 (1897) Juni, 190-192.\nL. Hevesi in: Fremdenblatt, 1.6.1897\nDie Aktion, 1 (1911) #8, 247. (10.4.1911) [Kurzrezension der Neuausg.]\nDas freie Volk. Demokratisches Wochenblatt, 2 (1911) #16. (22.4.1911)\n</p>\n\n<h3 id=\"digit\">Digitalisate</h3>\n<ul>\n<li><a href=\"http://www.archive.org/search.php?query=hermann%20bahr%20theater\">archive.org</a>\n</li></ul>",
+      "summary": null
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "c4d97a7b-20a3-4a00-9858-72c5abf35af3",
+        "meta": {
+          "drupal_internal__target_id": "bibliographie"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/d79a0ba1-b26a-4b90-9fb0-521c67671367/node_type?resourceVersion=id%3A3873"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/d79a0ba1-b26a-4b90-9fb0-521c67671367/relationships/node_type?resourceVersion=id%3A3873"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/d79a0ba1-b26a-4b90-9fb0-521c67671367/revision_uid?resourceVersion=id%3A3873"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/d79a0ba1-b26a-4b90-9fb0-521c67671367/relationships/revision_uid?resourceVersion=id%3A3873"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/d79a0ba1-b26a-4b90-9fb0-521c67671367/uid?resourceVersion=id%3A3873"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/d79a0ba1-b26a-4b90-9fb0-521c67671367/relationships/uid?resourceVersion=id%3A3873"
+        }
+      }
+    },
+    "field_bibliographie_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--bibliografie_type",
+          "id": "658fcc4a-c5e5-437c-8354-4db6f74be99f",
+          "meta": {
+            "drupal_internal__target_id": 12
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/d79a0ba1-b26a-4b90-9fb0-521c67671367/field_bibliographie_type?resourceVersion=id%3A3873"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/d79a0ba1-b26a-4b90-9fb0-521c67671367/relationships/field_bibliographie_type?resourceVersion=id%3A3873"
+        }
+      }
+    }
+  }
+}

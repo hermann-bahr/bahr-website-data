@@ -1,0 +1,114 @@
+{
+  "type": "node--event",
+  "id": "b999b823-ead9-406e-95d2-666220b2cfab",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b999b823-ead9-406e-95d2-666220b2cfab?resourceVersion=id%3A2584"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b999b823-ead9-406e-95d2-666220b2cfab?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38763,
+    "drupal_internal__vid": 2584,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Berlin",
+    "created": "2011-01-25T22:34:50+00:00",
+    "changed": "2011-01-25T22:34:50+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38763",
+      "pid": 511,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Das Angebot, dass Arno Holz für ihn bei der \"Freien Bühne\" von Samuel Fischer vermittelt hat, lässt Bahr in nur wenigen Tagen aus Wien aufbrechen. Er reist am 30. April ab und kommt am 3. Mai an. Am 5. kann er seinem Vater berichten, eine Adresse zu haben: W. Frobenstr. 16, II. Tr. rechts",
+      "format": "full_html",
+      "processed": "Das Angebot, dass Arno Holz für ihn bei der \"Freien Bühne\" von Samuel Fischer vermittelt hat, lässt Bahr in nur wenigen Tagen aus Wien aufbrechen. Er reist am 30. April ab und kommt am 3. Mai an. Am 5. kann er seinem Vater berichten, eine Adresse zu haben: W. Frobenstr. 16, II. Tr. rechts",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1890-04-30",
+      "end_value": "1890-05-05"
+    },
+    "field_sources": []
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b999b823-ead9-406e-95d2-666220b2cfab/node_type?resourceVersion=id%3A2584"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b999b823-ead9-406e-95d2-666220b2cfab/relationships/node_type?resourceVersion=id%3A2584"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b999b823-ead9-406e-95d2-666220b2cfab/revision_uid?resourceVersion=id%3A2584"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b999b823-ead9-406e-95d2-666220b2cfab/relationships/revision_uid?resourceVersion=id%3A2584"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b999b823-ead9-406e-95d2-666220b2cfab/uid?resourceVersion=id%3A2584"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b999b823-ead9-406e-95d2-666220b2cfab/relationships/uid?resourceVersion=id%3A2584"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b999b823-ead9-406e-95d2-666220b2cfab/field_event_type?resourceVersion=id%3A2584"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b999b823-ead9-406e-95d2-666220b2cfab/relationships/field_event_type?resourceVersion=id%3A2584"
+        }
+      }
+    }
+  }
+}

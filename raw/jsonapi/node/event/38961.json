@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "b6dc3dc7-2788-4de1-bce9-b3dc1b8e15dd",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b6dc3dc7-2788-4de1-bce9-b3dc1b8e15dd?resourceVersion=id%3A2747"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b6dc3dc7-2788-4de1-bce9-b3dc1b8e15dd?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38961,
+    "drupal_internal__vid": 2747,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Interpellation",
+    "created": "2011-03-16T11:26:13+00:00",
+    "changed": "2011-11-03T10:59:36+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38961",
+      "pid": 701,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<blockquote><h3>Interpellation</h3>des<h5>Abgeordneten Professor Dr. Josef Redlich und Genossen, betreffend die Beschlagnahme des im Mai 1907 erschienenen Buches \"Wien\" von Hermann Bahr durch die k. k. Staatsanwaltschaft.\"</blockquote>\r\nRedlich bringt den vollständigen Text der inkriminierten Stelle von Bahrs Buch \"Wien\". Das führt auch zu der Lösung, dass der Text in Zukunft nach dieser Interpellation zitiert und abgedruckt werden kann.",
+      "format": "full_html",
+      "processed": "<blockquote><h3>Interpellation</h3>des<h5>Abgeordneten Professor Dr. Josef Redlich und Genossen, betreffend die Beschlagnahme des im Mai 1907 erschienenen Buches \"Wien\" von Hermann Bahr durch die k. k. Staatsanwaltschaft.\"</h5></blockquote>\nRedlich bringt den vollständigen Text der inkriminierten Stelle von Bahrs Buch \"Wien\". Das führt auch zu der Lösung, dass der Text in Zukunft nach dieser Interpellation zitiert und abgedruckt werden kann.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1907-06-02",
+      "end_value": "1907-06-02"
+    },
+    "field_sources": [
+      "Haus der Abgeordneten.- 6. Sitzung der XVIII. Session am 2. Juli 1907, 459-465."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b6dc3dc7-2788-4de1-bce9-b3dc1b8e15dd/node_type?resourceVersion=id%3A2747"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b6dc3dc7-2788-4de1-bce9-b3dc1b8e15dd/relationships/node_type?resourceVersion=id%3A2747"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b6dc3dc7-2788-4de1-bce9-b3dc1b8e15dd/revision_uid?resourceVersion=id%3A2747"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b6dc3dc7-2788-4de1-bce9-b3dc1b8e15dd/relationships/revision_uid?resourceVersion=id%3A2747"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b6dc3dc7-2788-4de1-bce9-b3dc1b8e15dd/uid?resourceVersion=id%3A2747"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b6dc3dc7-2788-4de1-bce9-b3dc1b8e15dd/relationships/uid?resourceVersion=id%3A2747"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b6dc3dc7-2788-4de1-bce9-b3dc1b8e15dd/field_event_type?resourceVersion=id%3A2747"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b6dc3dc7-2788-4de1-bce9-b3dc1b8e15dd/relationships/field_event_type?resourceVersion=id%3A2747"
+        }
+      }
+    }
+  }
+}

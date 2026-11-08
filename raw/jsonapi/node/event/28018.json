@@ -1,0 +1,114 @@
+{
+  "type": "node--event",
+  "id": "b9904ad9-2f34-46e2-8cb1-8495eb3236cb",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b9904ad9-2f34-46e2-8cb1-8495eb3236cb?resourceVersion=id%3A2350"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b9904ad9-2f34-46e2-8cb1-8495eb3236cb?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28018,
+    "drupal_internal__vid": 2350,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Theater (Roman)",
+    "created": "2010-07-27T16:58:35+00:00",
+    "changed": "2010-08-06T08:03:11+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28018",
+      "pid": 184,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Mit dem Titel \"Theater\" erschien am 27. März 1897 ein Roman Bahrs, der als Schlüsselroman der Wiener Theaterszene verstanden wurde. Erzählt wird die Liebesgeschichte, vor allem aber das Ende derselben, die sich zwischen einem verheirateten Autor und einer Schauspielerin abspielt.",
+      "format": "full_html",
+      "processed": "Mit dem Titel \"Theater\" erschien am 27. März 1897 ein Roman Bahrs, der als Schlüsselroman der Wiener Theaterszene verstanden wurde. Erzählt wird die Liebesgeschichte, vor allem aber das Ende derselben, die sich zwischen einem verheirateten Autor und einer Schauspielerin abspielt.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1897-03-27",
+      "end_value": "1897-03-27"
+    },
+    "field_sources": []
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b9904ad9-2f34-46e2-8cb1-8495eb3236cb/node_type?resourceVersion=id%3A2350"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b9904ad9-2f34-46e2-8cb1-8495eb3236cb/relationships/node_type?resourceVersion=id%3A2350"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b9904ad9-2f34-46e2-8cb1-8495eb3236cb/revision_uid?resourceVersion=id%3A2350"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b9904ad9-2f34-46e2-8cb1-8495eb3236cb/relationships/revision_uid?resourceVersion=id%3A2350"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b9904ad9-2f34-46e2-8cb1-8495eb3236cb/uid?resourceVersion=id%3A2350"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b9904ad9-2f34-46e2-8cb1-8495eb3236cb/relationships/uid?resourceVersion=id%3A2350"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "2f55ff54-49af-41ba-a2d1-45a7ac71add2",
+          "meta": {
+            "drupal_internal__target_id": 2
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b9904ad9-2f34-46e2-8cb1-8495eb3236cb/field_event_type?resourceVersion=id%3A2350"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b9904ad9-2f34-46e2-8cb1-8495eb3236cb/relationships/field_event_type?resourceVersion=id%3A2350"
+        }
+      }
+    }
+  }
+}

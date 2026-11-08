@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "2ec81849-809a-4422-9bf6-5d7996d5efb3",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/2ec81849-809a-4422-9bf6-5d7996d5efb3?resourceVersion=id%3A2312"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/2ec81849-809a-4422-9bf6-5d7996d5efb3?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27973,
+    "drupal_internal__vid": 2312,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Glossen",
+    "created": "2010-07-20T10:41:57+00:00",
+    "changed": "2011-10-03T14:18:38+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/27973",
+      "pid": 146,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahrs vierter und letzter Sammelband mit Theaterkritiken erscheint zum Jahreswechsel 1906/07 auf 1907 vordatiert bei S. Fischer in Berlin. Die Rezensionen umfassen die Jahre 1903 bis 1906. Am 27. Oktober 1906 hat Redlich ein Exemplar erhalten.",
+      "format": "full_html",
+      "processed": "Bahrs vierter und letzter Sammelband mit Theaterkritiken erscheint zum Jahreswechsel 1906/07 auf 1907 vordatiert bei S. Fischer in Berlin. Die Rezensionen umfassen die Jahre 1903 bis 1906. Am 27. Oktober 1906 hat Redlich ein Exemplar erhalten.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1906-10-27",
+      "end_value": "1906-10-27"
+    },
+    "field_sources": [
+      "Hermann Bahr: Glossen. Zum Wiener Theater (1903 bis 1906). Berlin: S. Fischer, 1907.",
+      "Bahr/Redlich, 50."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2ec81849-809a-4422-9bf6-5d7996d5efb3/node_type?resourceVersion=id%3A2312"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2ec81849-809a-4422-9bf6-5d7996d5efb3/relationships/node_type?resourceVersion=id%3A2312"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2ec81849-809a-4422-9bf6-5d7996d5efb3/revision_uid?resourceVersion=id%3A2312"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2ec81849-809a-4422-9bf6-5d7996d5efb3/relationships/revision_uid?resourceVersion=id%3A2312"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2ec81849-809a-4422-9bf6-5d7996d5efb3/uid?resourceVersion=id%3A2312"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2ec81849-809a-4422-9bf6-5d7996d5efb3/relationships/uid?resourceVersion=id%3A2312"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "29eb2d1e-f275-4ca0-a532-a2a05ef92e13",
+          "meta": {
+            "drupal_internal__target_id": 6
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2ec81849-809a-4422-9bf6-5d7996d5efb3/field_event_type?resourceVersion=id%3A2312"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2ec81849-809a-4422-9bf6-5d7996d5efb3/relationships/field_event_type?resourceVersion=id%3A2312"
+        }
+      }
+    }
+  }
+}

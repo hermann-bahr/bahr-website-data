@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "c1f7222f-d656-4166-872c-19dc4f159b15",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/c1f7222f-d656-4166-872c-19dc4f159b15?resourceVersion=id%3A2241"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/c1f7222f-d656-4166-872c-19dc4f159b15?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27893,
+    "drupal_internal__vid": 2241,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Vertrag mit Max Reinhardt",
+    "created": "2010-06-22T16:55:24+00:00",
+    "changed": "2011-12-14T10:13:53+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/27893",
+      "pid": 74,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Schon am 4. Oktober 1905 hatte Max Reinhardt Bahr eingeladen, als Regisseur für ihn tätig zu sein, aber erst nach der \"Münchener Affäre\" unterschreibt Bahr am 24. März 1906 einen Vertrag, für 6.000 Mark Saisonhonorar am Deutschen Theater in Berlin zu inszenieren.",
+      "format": "full_html",
+      "processed": "Schon am 4. Oktober 1905 hatte Max Reinhardt Bahr eingeladen, als Regisseur für ihn tätig zu sein, aber erst nach der \"Münchener Affäre\" unterschreibt Bahr am 24. März 1906 einen Vertrag, für 6.000 Mark Saisonhonorar am Deutschen Theater in Berlin zu inszenieren.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1906-03-24",
+      "end_value": "1906-03-24"
+    },
+    "field_sources": [
+      "Im Nachlass, Briefe 33. Zit. n. Tagebücher (Csàky), V, XVI."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c1f7222f-d656-4166-872c-19dc4f159b15/node_type?resourceVersion=id%3A2241"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c1f7222f-d656-4166-872c-19dc4f159b15/relationships/node_type?resourceVersion=id%3A2241"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c1f7222f-d656-4166-872c-19dc4f159b15/revision_uid?resourceVersion=id%3A2241"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c1f7222f-d656-4166-872c-19dc4f159b15/relationships/revision_uid?resourceVersion=id%3A2241"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c1f7222f-d656-4166-872c-19dc4f159b15/uid?resourceVersion=id%3A2241"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c1f7222f-d656-4166-872c-19dc4f159b15/relationships/uid?resourceVersion=id%3A2241"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c1f7222f-d656-4166-872c-19dc4f159b15/field_event_type?resourceVersion=id%3A2241"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c1f7222f-d656-4166-872c-19dc4f159b15/relationships/field_event_type?resourceVersion=id%3A2241"
+        }
+      }
+    }
+  }
+}

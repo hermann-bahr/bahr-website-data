@@ -1,0 +1,36 @@
+{
+  "type": "file--file",
+  "id": "a233b854-9705-4d81-bb45-dc7509155417",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/file/file/a233b854-9705-4d81-bb45-dc7509155417"
+    }
+  },
+  "attributes": {
+    "drupal_internal__fid": 214,
+    "langcode": "de",
+    "filename": "1934_arnold.jpg",
+    "uri": {
+      "value": "public://bahr_bilder/1934_arnold.jpg",
+      "url": "/sites/default/files/bahr_bilder/1934_arnold.jpg"
+    },
+    "filemime": "image/jpeg",
+    "filesize": 120433,
+    "status": true,
+    "created": "2020-02-18T15:00:35+00:00",
+    "changed": "2020-02-18T15:11:43+00:00"
+  },
+  "relationships": {
+    "uid": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/file/file/a233b854-9705-4d81-bb45-dc7509155417/uid"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/file/file/a233b854-9705-4d81-bb45-dc7509155417/relationships/uid"
+        }
+      }
+    }
+  }
+}

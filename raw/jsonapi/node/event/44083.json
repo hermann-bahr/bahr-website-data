@@ -1,0 +1,127 @@
+{
+  "type": "node--event",
+  "id": "7ca91934-a1b2-4aa1-aa6d-7c664687e2d9",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/7ca91934-a1b2-4aa1-aa6d-7c664687e2d9?resourceVersion=id%3A3000"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/7ca91934-a1b2-4aa1-aa6d-7c664687e2d9?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44083,
+    "drupal_internal__vid": 3000,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Isadora Duncan",
+    "created": "2011-09-07T12:56:43+00:00",
+    "changed": "2011-09-08T09:43:19+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44083",
+      "pid": 978,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Das erste journalistische Engagement Bahrs nach seiner Blinddarmoperation war die Berichterstattung vom Gastspiel Isadora Duncans am Carl-Theater in Wien von 21. bis zum 28. März 1903. Die Künstlerin reiste schon am 18. in Wien an und verlängerte ihr Gastspiel um einen Auftritt am 4. April und ein weiteres Mal 7. April.",
+      "format": "full_html",
+      "processed": "Das erste journalistische Engagement Bahrs nach seiner Blinddarmoperation war die Berichterstattung vom Gastspiel Isadora Duncans am Carl-Theater in Wien von 21. bis zum 28. März 1903. Die Künstlerin reiste schon am 18. in Wien an und verlängerte ihr Gastspiel um einen Auftritt am 4. April und ein weiteres Mal 7. April.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1903-03-18",
+      "end_value": "1903-04-07"
+    },
+    "field_sources": [
+      "Ankündigung der Ankunft: Neues Wiener Tagblatt, 37 (1903) #73, 10. (15.3.1903)",
+      "Ankunft: Neues Wiener Tagblatt, 37 (1903) #77, 9. (19.3.1903)",
+      "Kritik durch: Ed. Pötzl: Die dionysische Galerie. In: Neues Wiener Tagblatt, 37 (1903) #83, 1-2. (25.3.1903",
+      "Bahrs und Pötzls Text druckt Karl Kraus nebeneinander: Die Fackel,4 (1903) #134, 23-24.",
+      "Die 2. Verlängerung: Neues Wiener Tagblatt, 37 (1903) #95, 7. (6.4.1903)",
+      "H. B.: Theater, Kunst und Literatur. Carl-Theater. Neues Wiener Tagblatt, 37 (1903) #94, 10-11. (5.4.1903) ",
+      "Die Verlängerung: Neues Wiener Tagblatt, 37 (1903) #87, 8. (29.3.1903)",
+      "Hermann Bahr: Theater, Kunst und Literatur. Carl-Theater. Neues Wiener Tagblatt, 37 (1903) #86, 11. (28.3.1903)",
+      "Ankündigung des Gastspiels in: Neues Wiener Tagblatt, 37 (1903) #66, 10. (8.3.1903)",
+      "[O. N.:] Miß Duncans Abschied. In: Neues Wiener Tagblatt, 37 (1903) #97, 9. (8.4.1903)",
+      "Hermann Bahr: Isadora Duncan. Als Gast im Carltheater vom 21. bis 28. März 1903. Neues Wiener Tagblatt, 37 (1903) #80, 3-4. (22.3.1903) ",
+      "Tagebücher (Csàky), III, 278-284."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7ca91934-a1b2-4aa1-aa6d-7c664687e2d9/node_type?resourceVersion=id%3A3000"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7ca91934-a1b2-4aa1-aa6d-7c664687e2d9/relationships/node_type?resourceVersion=id%3A3000"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7ca91934-a1b2-4aa1-aa6d-7c664687e2d9/revision_uid?resourceVersion=id%3A3000"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7ca91934-a1b2-4aa1-aa6d-7c664687e2d9/relationships/revision_uid?resourceVersion=id%3A3000"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7ca91934-a1b2-4aa1-aa6d-7c664687e2d9/uid?resourceVersion=id%3A3000"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7ca91934-a1b2-4aa1-aa6d-7c664687e2d9/relationships/uid?resourceVersion=id%3A3000"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7ca91934-a1b2-4aa1-aa6d-7c664687e2d9/field_event_type?resourceVersion=id%3A3000"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7ca91934-a1b2-4aa1-aa6d-7c664687e2d9/relationships/field_event_type?resourceVersion=id%3A3000"
+        }
+      }
+    }
+  }
+}

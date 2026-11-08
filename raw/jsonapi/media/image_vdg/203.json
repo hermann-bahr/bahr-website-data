@@ -1,0 +1,118 @@
+{
+  "type": "media--image_vdg",
+  "id": "9dcca4ca-b923-44a3-87f1-719213bbd2aa",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/9dcca4ca-b923-44a3-87f1-719213bbd2aa?resourceVersion=id%3A204"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/9dcca4ca-b923-44a3-87f1-719213bbd2aa?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__mid": 203,
+    "drupal_internal__vid": 204,
+    "langcode": "de",
+    "revision_created": "2020-02-27T15:47:16+00:00",
+    "status": true,
+    "name": "20.jpg",
+    "created": "2020-02-27T15:47:00+00:00",
+    "changed": "2020-02-27T15:47:00+00:00",
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": null,
+      "pid": null,
+      "langcode": "de"
+    }
+  },
+  "relationships": {
+    "bundle": {
+      "data": {
+        "type": "media_type--media_type",
+        "id": "1e270fb0-cbb8-4385-a6d7-69db224c61f7",
+        "meta": {
+          "drupal_internal__target_id": "image_vdg"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/9dcca4ca-b923-44a3-87f1-719213bbd2aa/bundle?resourceVersion=id%3A204"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/9dcca4ca-b923-44a3-87f1-719213bbd2aa/relationships/bundle?resourceVersion=id%3A204"
+        }
+      }
+    },
+    "revision_user": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/9dcca4ca-b923-44a3-87f1-719213bbd2aa/revision_user?resourceVersion=id%3A204"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/9dcca4ca-b923-44a3-87f1-719213bbd2aa/relationships/revision_user?resourceVersion=id%3A204"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/9dcca4ca-b923-44a3-87f1-719213bbd2aa/uid?resourceVersion=id%3A204"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/9dcca4ca-b923-44a3-87f1-719213bbd2aa/relationships/uid?resourceVersion=id%3A204"
+        }
+      }
+    },
+    "thumbnail": {
+      "data": {
+        "type": "file--file",
+        "id": "8bbfb43a-1542-454a-b98c-173325ada5e3",
+        "meta": {
+          "alt": "Hermann Bahr, Kritische Schriften - 20 - Labyrinth der Gegenwart",
+          "title": null,
+          "width": 200,
+          "height": 286,
+          "drupal_internal__target_id": 281
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/9dcca4ca-b923-44a3-87f1-719213bbd2aa/thumbnail?resourceVersion=id%3A204"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/9dcca4ca-b923-44a3-87f1-719213bbd2aa/relationships/thumbnail?resourceVersion=id%3A204"
+        }
+      }
+    },
+    "field_media_image_1": {
+      "data": {
+        "type": "file--file",
+        "id": "8bbfb43a-1542-454a-b98c-173325ada5e3",
+        "meta": {
+          "alt": "Hermann Bahr, Kritische Schriften - 20 - Labyrinth der Gegenwart",
+          "title": "",
+          "width": 200,
+          "height": 286,
+          "drupal_internal__target_id": 281
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/9dcca4ca-b923-44a3-87f1-719213bbd2aa/field_media_image_1?resourceVersion=id%3A204"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/9dcca4ca-b923-44a3-87f1-719213bbd2aa/relationships/field_media_image_1?resourceVersion=id%3A204"
+        }
+      }
+    }
+  }
+}

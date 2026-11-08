@@ -1,0 +1,90 @@
+{
+  "type": "node--page",
+  "id": "1a978cfc-9672-49b8-a831-9f03c3012b9b",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/page/1a978cfc-9672-49b8-a831-9f03c3012b9b?resourceVersion=id%3A4121"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/page/1a978cfc-9672-49b8-a831-9f03c3012b9b?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 3100,
+    "drupal_internal__vid": 4121,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-27T14:02:13+00:00",
+    "status": true,
+    "title": "Editionsrichtlinien",
+    "created": "2010-01-05T11:54:01+00:00",
+    "changed": "2020-02-27T14:02:13+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": null,
+    "path": {
+      "alias": "/editionsrichtlinien",
+      "pid": 12,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<p>Die Textgrundlage für die Kritischen Schriften bilden (aus rezeptionshistorischen Überlegungen heraus) jene Sammelbände, die Bahr selbst in regelmäßigen Abständen aus seinen Aufsätzen zusammenstellte. Dabei wurde versucht, zwei Bedürfnissen gerecht zu werden: Zum einen soll es eine Leseausgabe sein, die (von Druckfehlern bereinigt, um Übersetzungen fremdsprachiger Zitate und ein Namensregister ergänzt) einen leichten Zugang zum Werk Hermann Bahrs bietet; zum anderen soll sie Literatur- und KulturwissenschaftlerInnen (durch eine buchstabengetreue Wiedergabe des Textes und die Mitführung der originalen Seitenzählung) einen alltagstauglichen Ersatz der oft schwer zugänglichen Erstausgaben bieten.</p>\r\n",
+      "format": "full_html",
+      "processed": "<p>Die Textgrundlage für die Kritischen Schriften bilden (aus rezeptionshistorischen Überlegungen heraus) jene Sammelbände, die Bahr selbst in regelmäßigen Abständen aus seinen Aufsätzen zusammenstellte. Dabei wurde versucht, zwei Bedürfnissen gerecht zu werden: Zum einen soll es eine Leseausgabe sein, die (von Druckfehlern bereinigt, um Übersetzungen fremdsprachiger Zitate und ein Namensregister ergänzt) einen leichten Zugang zum Werk Hermann Bahrs bietet; zum anderen soll sie Literatur- und KulturwissenschaftlerInnen (durch eine buchstabengetreue Wiedergabe des Textes und die Mitführung der originalen Seitenzählung) einen alltagstauglichen Ersatz der oft schwer zugänglichen Erstausgaben bieten.</p>\n",
+      "summary": ""
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "016d417b-5c75-4303-8420-18e221e9e269",
+        "meta": {
+          "drupal_internal__target_id": "page"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/1a978cfc-9672-49b8-a831-9f03c3012b9b/node_type?resourceVersion=id%3A4121"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/1a978cfc-9672-49b8-a831-9f03c3012b9b/relationships/node_type?resourceVersion=id%3A4121"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/1a978cfc-9672-49b8-a831-9f03c3012b9b/revision_uid?resourceVersion=id%3A4121"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/1a978cfc-9672-49b8-a831-9f03c3012b9b/relationships/revision_uid?resourceVersion=id%3A4121"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/1a978cfc-9672-49b8-a831-9f03c3012b9b/uid?resourceVersion=id%3A4121"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/1a978cfc-9672-49b8-a831-9f03c3012b9b/relationships/uid?resourceVersion=id%3A4121"
+        }
+      }
+    }
+  }
+}

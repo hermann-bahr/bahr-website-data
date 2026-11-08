@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "ebe783de-955f-4e67-a38b-c204fc62a6e7",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/ebe783de-955f-4e67-a38b-c204fc62a6e7?resourceVersion=id%3A3117"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/ebe783de-955f-4e67-a38b-c204fc62a6e7?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44203,
+    "drupal_internal__vid": 3117,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Deutsche Gesellschaft 1914",
+    "created": "2011-09-20T11:27:41+00:00",
+    "changed": "2013-03-01T11:34:54+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44203",
+      "pid": 1096,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 6. November 1915 wird Bahr von Karl Vollmoeller eingeladen, an der Vereinigung der \"paar hundert Leute der Tat und des Gedanken\" teilzunehmen. Ursprünglich nur Deutsche vorsehend, wird sie schnell für alle Nationalitäten offen. Bahr tritt bei, ebenso wie Hofmannsthal, Strauss, Wedekind, Thomas Mann, Thomas Theodor Heine, Olaf Gulbransson, Lovis Corinth, Max Slevogt, Max Liebermann, Hans Delbrück, Otto Crusius, Emil Sehling und Heinrich Wölfflin.",
+      "format": "full_html",
+      "processed": "Am 6. November 1915 wird Bahr von Karl Vollmoeller eingeladen, an der Vereinigung der \"paar hundert Leute der Tat und des Gedanken\" teilzunehmen. Ursprünglich nur Deutsche vorsehend, wird sie schnell für alle Nationalitäten offen. Bahr tritt bei, ebenso wie Hofmannsthal, Strauss, Wedekind, Thomas Mann, Thomas Theodor Heine, Olaf Gulbransson, Lovis Corinth, Max Slevogt, Max Liebermann, Hans Delbrück, Otto Crusius, Emil Sehling und Heinrich Wölfflin.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1915-11-06",
+      "end_value": "1915-11-06"
+    },
+    "field_sources": [
+      "Bahr/Kvapil, 386-388.",
+      "Bahr/Redlich, 139-146.",
+      "Mitgliederverzeichnis der Deutschen Gesellschaft von 1914-1921 (wurde nicht eingesehen)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ebe783de-955f-4e67-a38b-c204fc62a6e7/node_type?resourceVersion=id%3A3117"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ebe783de-955f-4e67-a38b-c204fc62a6e7/relationships/node_type?resourceVersion=id%3A3117"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ebe783de-955f-4e67-a38b-c204fc62a6e7/revision_uid?resourceVersion=id%3A3117"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ebe783de-955f-4e67-a38b-c204fc62a6e7/relationships/revision_uid?resourceVersion=id%3A3117"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ebe783de-955f-4e67-a38b-c204fc62a6e7/uid?resourceVersion=id%3A3117"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ebe783de-955f-4e67-a38b-c204fc62a6e7/relationships/uid?resourceVersion=id%3A3117"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ebe783de-955f-4e67-a38b-c204fc62a6e7/field_event_type?resourceVersion=id%3A3117"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ebe783de-955f-4e67-a38b-c204fc62a6e7/relationships/field_event_type?resourceVersion=id%3A3117"
+        }
+      }
+    }
+  }
+}

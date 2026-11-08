@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "3762c6a0-04d1-42b7-9917-3cacccbb4bbd",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/3762c6a0-04d1-42b7-9917-3cacccbb4bbd?resourceVersion=id%3A2476"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/3762c6a0-04d1-42b7-9917-3cacccbb4bbd?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28166,
+    "drupal_internal__vid": 2476,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Ethel Smyth",
+    "created": "2010-09-01T12:25:32+00:00",
+    "changed": "2011-09-01T08:06:17+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28166",
+      "pid": 313,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Von einem Vortrag Ethel Smyth's in Wien im Oktober/November 1912 berichtet Karl Kraus unter dem Titel \"Durch Bahr zur Suffragette geworden\": Sie <blockquote>machte den erstaunten Zuhörern die verblüffende Eröffnung, daß sie nicht durch ihre Konationalen, sondern durch einen österreichischen Dichter, durch Hermann Bahr, zur Suffragette bekehrt worden sei. Er, mit dem sie langjährige Freundschaft verbinde, habe sie bei einem Besuche in London voll Begeisterung über eine Suffragettenversammlung zum Studium der einschlägigen Literatur angeregt, die sie binnen 48 Stunden zur blinden Anhängerin von Christabel Pankhurst gemacht, die sie mit zwingender Gewalt getrieben, so weit aus sich herauszugehen, sich ganz gegen ihre Natur den aggressiven militanten Frauen anzuschließen…</blockquote>",
+      "format": "full_html",
+      "processed": "Von einem Vortrag Ethel Smyth's in Wien im Oktober/November 1912 berichtet Karl Kraus unter dem Titel \"Durch Bahr zur Suffragette geworden\": Sie <blockquote>machte den erstaunten Zuhörern die verblüffende Eröffnung, daß sie nicht durch ihre Konationalen, sondern durch einen österreichischen Dichter, durch Hermann Bahr, zur Suffragette bekehrt worden sei. Er, mit dem sie langjährige Freundschaft verbinde, habe sie bei einem Besuche in London voll Begeisterung über eine Suffragettenversammlung zum Studium der einschlägigen Literatur angeregt, die sie binnen 48 Stunden zur blinden Anhängerin von Christabel Pankhurst gemacht, die sie mit zwingender Gewalt getrieben, so weit aus sich herauszugehen, sich ganz gegen ihre Natur den aggressiven militanten Frauen anzuschließen…</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1912-10-01",
+      "end_value": "1912-10-01"
+    },
+    "field_sources": [
+      "Die Fackel, 14 (1912) #363-365, 59.",
+      "Zu Smyth Vortrag siehe \"Composer and Suffragist: Dr. Ethel Smith in Vienna\" in: The Suffragette, 15.11.1912, 66."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3762c6a0-04d1-42b7-9917-3cacccbb4bbd/node_type?resourceVersion=id%3A2476"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3762c6a0-04d1-42b7-9917-3cacccbb4bbd/relationships/node_type?resourceVersion=id%3A2476"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3762c6a0-04d1-42b7-9917-3cacccbb4bbd/revision_uid?resourceVersion=id%3A2476"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3762c6a0-04d1-42b7-9917-3cacccbb4bbd/relationships/revision_uid?resourceVersion=id%3A2476"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3762c6a0-04d1-42b7-9917-3cacccbb4bbd/uid?resourceVersion=id%3A2476"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3762c6a0-04d1-42b7-9917-3cacccbb4bbd/relationships/uid?resourceVersion=id%3A2476"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3762c6a0-04d1-42b7-9917-3cacccbb4bbd/field_event_type?resourceVersion=id%3A2476"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3762c6a0-04d1-42b7-9917-3cacccbb4bbd/relationships/field_event_type?resourceVersion=id%3A2476"
+        }
+      }
+    }
+  }
+}

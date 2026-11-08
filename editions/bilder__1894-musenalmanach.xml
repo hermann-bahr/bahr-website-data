@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bilder__1894-musenalmanach" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">1894 Musenalmanach</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">28236</idno>
+        <idno type="drupal-alias">/bild/28236</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bild/28236">https://bahr.univie.ac.at/bild/28236</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="7" key="bilder">Bilder</term>
+          <term n="5" key="1894-musenalmanach" type="eintrag">1894 Musenalmanach</term>
+        </keywords>
+        <classCode scheme="drupal-type">image</classCode>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2010-11-09T11:51:50+00:00" type="created">angelegt in Drupal</change>
+      <change when="2011-02-21T17:30:45+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <figure>
+          <graphic url="files/bahr_bilder/1894_musenalmanach.jpg"/>
+          <figDesc>1894 Musenalmanach</figDesc>
+        </figure>
+        <p>
+          <hi rend="italic">Otto Julius Bierbaum, Hg.: Moderner Musenalmanach auf das Jahr 1894. Ein Jahrbuch deutscher Kunst. Band 2. München: Dr. E. Albert 1894</hi>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

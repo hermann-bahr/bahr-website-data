@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "c24462f7-c72d-4c89-99fd-1b36a5e92a7f",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/c24462f7-c72d-4c89-99fd-1b36a5e92a7f?resourceVersion=id%3A2583"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/c24462f7-c72d-4c89-99fd-1b36a5e92a7f?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38762,
+    "drupal_internal__vid": 2583,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Viktor Adler",
+    "created": "2011-01-25T21:34:40+00:00",
+    "changed": "2011-11-03T11:40:29+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38762",
+      "pid": 510,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahr bekommt Besuch: Mitte Juli 1889 ist Viktor Adler in Paris. Bahr führt den Paris-Neuling, nachdem er sie selbst schon beinahe auswendig kann, durch die Weltausstellung.",
+      "format": "full_html",
+      "processed": "Bahr bekommt Besuch: Mitte Juli 1889 ist Viktor Adler in Paris. Bahr führt den Paris-Neuling, nachdem er sie selbst schon beinahe auswendig kann, durch die Weltausstellung.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1889-07-15",
+      "end_value": "1889-07-15"
+    },
+    "field_sources": [
+      "Briefe an den Vater, 6.7.1889 und undatiert, vor 19.7.1889"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c24462f7-c72d-4c89-99fd-1b36a5e92a7f/node_type?resourceVersion=id%3A2583"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c24462f7-c72d-4c89-99fd-1b36a5e92a7f/relationships/node_type?resourceVersion=id%3A2583"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c24462f7-c72d-4c89-99fd-1b36a5e92a7f/revision_uid?resourceVersion=id%3A2583"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c24462f7-c72d-4c89-99fd-1b36a5e92a7f/relationships/revision_uid?resourceVersion=id%3A2583"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c24462f7-c72d-4c89-99fd-1b36a5e92a7f/uid?resourceVersion=id%3A2583"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c24462f7-c72d-4c89-99fd-1b36a5e92a7f/relationships/uid?resourceVersion=id%3A2583"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c24462f7-c72d-4c89-99fd-1b36a5e92a7f/field_event_type?resourceVersion=id%3A2583"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c24462f7-c72d-4c89-99fd-1b36a5e92a7f/relationships/field_event_type?resourceVersion=id%3A2583"
+        }
+      }
+    }
+  }
+}

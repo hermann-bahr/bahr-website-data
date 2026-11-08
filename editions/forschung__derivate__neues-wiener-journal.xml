@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="forschung__derivate__neues-wiener-journal" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Neues Wiener Journal</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">28163</idno>
+        <idno type="drupal-alias">/neues-wiener-journal</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/neues-wiener-journal">https://bahr.univie.ac.at/neues-wiener-journal</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="6" key="forschung">Forschung</term>
+          <term n="10" key="derivate">Derivate</term>
+          <term n="4" key="neues-wiener-journal" type="eintrag">Neues Wiener Journal</term>
+        </keywords>
+        <classCode scheme="drupal-type">page</classCode>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2010-08-30T13:17:40+00:00" type="created">angelegt in Drupal</change>
+      <change when="2011-12-14T16:28:49+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head>
+          <hi rend="italic">Kurt Ifkovits und Lukas Mayrhofer</hi>
+        </head>
+        <table>
+          <row>
+            <cell role="label">Datum</cell>
+            <cell role="label">Jahrgang</cell>
+            <cell role="label">Ausgabe</cell>
+            <cell role="label">Seite</cell>
+            <cell role="label"/>
+          </row>
+          <row>
+            <cell>5.4.1911</cell>
+            <cell>19</cell>
+            <cell>#6619</cell>
+            <cell>3</cell>
+            <cell>Hermann Bahr über Arbeitslosigkeit. "Das deutsche Problem". <hi rend="italic">Über seinen Artikel im "März"</hi></cell>
+          </row>
+          <row>
+            <cell>28.3.1912</cell>
+            <cell>20</cell>
+            <cell>#6619</cell>
+            <cell>7</cell>
+            <cell>Intendantenkrisis in München. <hi rend="italic">[Über Speidel, der schon damals bei Bahrs Münchner Engagement Fehler machte]</hi></cell>
+          </row>
+          <row>
+            <cell>7.4.1912</cell>
+            <cell>20</cell>
+            <cell>#6629</cell>
+            <cell>11</cell>
+            <cell>Peter Altenberg: Wiener Literatenköpfe. <hi rend="italic">Über Bahr u.a.</hi></cell>
+          </row>
+          <row>
+            <cell>26.5.1912</cell>
+            <cell>20</cell>
+            <cell>#6677</cell>
+            <cell>7-8</cell>
+            <cell>Charakter von Hermann Bahr</cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>26.7.1912</cell>
+            <cell>20</cell>
+            <cell>#6736</cell>
+            <cell>9</cell>
+            <cell>Dühlbergs "Korallenketten" in Berlin verboten, Hermann Bahr ist gegen ein Verbot</cell>
+          </row>
+          <row>
+            <cell>2.8.1912</cell>
+            <cell>20</cell>
+            <cell>#6743</cell>
+            <cell>10</cell>
+            <cell>
+              <hi rend="italic">Mit Gattin Veröffentlichung eines Buchs über 'Bayreuth'</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>8.8.1912</cell>
+            <cell>20</cell>
+            <cell>#6750</cell>
+            <cell>10</cell>
+            <cell>
+              <hi rend="italic">Ankündigung des "Parsifalschutz"-Vortrags</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>6.10.1912</cell>
+            <cell>20&gt;</cell>
+            <cell>#6808</cell>
+            <cell>10</cell>
+            <cell>
+              <hi rend="italic">Hermann Bahr's Jugendwerk "Die häusliche Frau" im Hoftheater aufgeführt, Kurznotiz</hi>
+            </cell>
+          </row>
+        </table>
+      </div>
+    </body>
+  </text>
+</TEI>

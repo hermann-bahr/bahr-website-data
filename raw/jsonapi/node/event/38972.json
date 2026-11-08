@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "d6ab8d60-c5d2-4a7b-8075-5ddec71a534e",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/d6ab8d60-c5d2-4a7b-8075-5ddec71a534e?resourceVersion=id%3A2755"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/d6ab8d60-c5d2-4a7b-8075-5ddec71a534e?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38972,
+    "drupal_internal__vid": 2755,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Danzig, Preußisch Stargard, Thorn",
+    "created": "2011-03-16T15:24:07+00:00",
+    "changed": "2012-12-21T11:55:25+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38972",
+      "pid": 709,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 10. Februar 1912 spricht Bahr im Danziger Hof in Danzig über \"30 Jahre deutsche Literatur\", am 11. Februar liest er in Preußisch-Stargard, am 12. noch einmal in Danzig. Ansprechpartner ist der Stadtrat Ernst Goeritz. Am vierten Tag ist er in Thorn (heute Thorun, Polen).",
+      "format": "full_html",
+      "processed": "Am 10. Februar 1912 spricht Bahr im Danziger Hof in Danzig über \"30 Jahre deutsche Literatur\", am 11. Februar liest er in Preußisch-Stargard, am 12. noch einmal in Danzig. Ansprechpartner ist der Stadtrat Ernst Goeritz. Am vierten Tag ist er in Thorn (heute Thorun, Polen).",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1912-02-10",
+      "end_value": "1912-02-14"
+    },
+    "field_sources": [
+      "Handschriftlich beschriftete Artikel im Nachlass, ZMBa29, Vorlesungen II: Danziger Zeitung, 12.2.1912",
+      "Nachlass ZMBa29: Vorträge, Tourneeplan 1912",
+      "Danziger Neueste Nachrichten, 12.2.1912"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d6ab8d60-c5d2-4a7b-8075-5ddec71a534e/node_type?resourceVersion=id%3A2755"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d6ab8d60-c5d2-4a7b-8075-5ddec71a534e/relationships/node_type?resourceVersion=id%3A2755"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d6ab8d60-c5d2-4a7b-8075-5ddec71a534e/revision_uid?resourceVersion=id%3A2755"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d6ab8d60-c5d2-4a7b-8075-5ddec71a534e/relationships/revision_uid?resourceVersion=id%3A2755"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d6ab8d60-c5d2-4a7b-8075-5ddec71a534e/uid?resourceVersion=id%3A2755"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d6ab8d60-c5d2-4a7b-8075-5ddec71a534e/relationships/uid?resourceVersion=id%3A2755"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d6ab8d60-c5d2-4a7b-8075-5ddec71a534e/field_event_type?resourceVersion=id%3A2755"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d6ab8d60-c5d2-4a7b-8075-5ddec71a534e/relationships/field_event_type?resourceVersion=id%3A2755"
+        }
+      }
+    }
+  }
+}

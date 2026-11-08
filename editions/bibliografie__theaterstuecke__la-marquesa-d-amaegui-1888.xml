@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bibliografie__theaterstuecke__la-marquesa-d-amaegui-1888" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">La Marquesa d'Amaëgui (1888)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">49646</idno>
+        <idno type="drupal-alias">/bibliografie/49646</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bibliografie/49646">https://bahr.univie.ac.at/bibliografie/49646</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+        <bibl type="beschriebene-ausgabe">
+          <author>Hermann Bahr</author>
+          <title type="main">La Marquesa d'Amaëgui</title>
+          <title type="sub">Eine Plauderei</title>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>J. Schabelitz</publisher>
+          <date>1888</date>
+          <extent>34</extent>
+          <note>Gedruckt wird sie Ende Mai 1888, im Juni 1888 in die Schweizer Nationalbibliografie aufgenommen. Als erste Besprechung führt die Verlagsanzeige am Ende von Bahrs "Großer Sünde" den "Deutschen Reichsanzeiger" vom 4. Juli 1888 an.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="1" key="bibliografie">Bibliografie</term>
+          <term n="2" key="theaterstuecke">Theaterstücke</term>
+          <term n="35" key="la-marquesa-d-amaegui-1888" type="eintrag">La Marquesa d'Amaëgui (1888)</term>
+        </keywords>
+        <classCode scheme="drupal-type">bibliographie</classCode>
+        <keywords scheme="bibliografie_type">
+          <term>Theaterstücke</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2011-11-22T15:28:51+00:00" type="created">angelegt in Drupal</change>
+      <change when="2011-11-25T13:56:16+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="bib">
+        <head>Bibliografie</head>
+        <table type="bibliografie">
+          <row>
+            <cell>Autor:</cell>
+            <cell>Hermann Bahr</cell>
+          </row>
+          <row>
+            <cell>Titel:</cell>
+            <cell>La Marquesa d'Amaëgui</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>Eine Plauderei</cell>
+          </row>
+          <row>
+            <cell>Ort:</cell>
+            <cell>Zürich</cell>
+          </row>
+          <row>
+            <cell>Verlag:</cell>
+            <cell>J. Schabelitz</cell>
+          </row>
+          <row>
+            <cell>Jahr:</cell>
+            <cell>1888</cell>
+          </row>
+          <row>
+            <cell>Seiten:</cell>
+            <cell>34</cell>
+          </row>
+          <row>
+            <cell>Anm.:</cell>
+            <cell>Gedruckt wird sie Ende Mai 1888, im Juni 1888 in die Schweizer Nationalbibliografie aufgenommen. Als erste Besprechung führt die Verlagsanzeige am Ende von Bahrs "Großer Sünde" den "Deutschen Reichsanzeiger" vom 4. Juli 1888 an.</cell>
+          </row>
+        </table>
+      </div>
+      <div>
+        <head>Inhalt</head>
+        <p>Die Handlung ist sehr schematisch gebaut: Ein prominenter naturalistischer Dichter urlaubt mit seiner Schwester im Salzkammergut, daneben ein Politiker mit Frau und Kindern. Die ersten beiden Szenen, spiegelbildlich gebaut, zeigen wie der Dichter seiner Schwester erklärt, abreisen zu wollen, weil er dem Politiker nicht immer den Pessimisten vorspielen will, den dieser aus seinen Büchern kennt; hingegen beklagt sich der Politiker bei seiner Frau Stella, dass er nicht immer lebhaft sein will, nur weil das seine Wähler und hier eben Rolf es erwarten. Auch die Frau ist ihrer Rolle als melancholische Politikergattin überdrüssig, aber es benötigt den Schriftsteller, der ein fiktives Theaterstück entwirft, in dem er nicht Pessimist ist und um Stella freit, dass alle lernen, ihre Masken abzulegen.</p>
+      </div>
+      <div xml:id="auff">
+        <head>Inszenierungen</head>
+        <p>1.3.1888 Uraufführung am Linzer Theater</p>
+      </div>
+      <div xml:id="rezens">
+        <head>Rezensionen</head>
+        <p>Leo Berg im: Magazin für Litteratur, 58 (1889) #4, 62</p>
+      </div>
+      <div xml:id="www">
+        <head>Digitalisate</head>
+        <p>
+          <ref target="http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=40">Link</ref>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

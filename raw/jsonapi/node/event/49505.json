@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "3267ea9c-615c-43a8-a635-3f9ef6f829dd",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/3267ea9c-615c-43a8-a635-3f9ef6f829dd?resourceVersion=id%3A3339"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/3267ea9c-615c-43a8-a635-3f9ef6f829dd?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49505,
+    "drupal_internal__vid": 3339,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "JR, C. Metternich, Fr. Lammasch",
+    "created": "2011-10-27T08:56:14+00:00",
+    "changed": "2011-10-27T08:56:14+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49505",
+      "pid": 1323,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Als Redlich am 15. November 1918 bei Bahr vorbeischaut, trifft er dort auf Clementine von Metternich und die Frau Heinrich Lammaschs.",
+      "format": "full_html",
+      "processed": "Als Redlich am 15. November 1918 bei Bahr vorbeischaut, trifft er dort auf Clementine von Metternich und die Frau Heinrich Lammaschs.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1918-11-15",
+      "end_value": "1918-11-15"
+    },
+    "field_sources": [
+      "Fritz Fellner und Doris A. Corradini (Hgg.): Schicksalsjahre Österreichs. Die Erinnerungen und Tagebücher Josef Redlichs 1869–1936. Wien: Böhlau 2011, II, 470."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3267ea9c-615c-43a8-a635-3f9ef6f829dd/node_type?resourceVersion=id%3A3339"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3267ea9c-615c-43a8-a635-3f9ef6f829dd/relationships/node_type?resourceVersion=id%3A3339"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3267ea9c-615c-43a8-a635-3f9ef6f829dd/revision_uid?resourceVersion=id%3A3339"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3267ea9c-615c-43a8-a635-3f9ef6f829dd/relationships/revision_uid?resourceVersion=id%3A3339"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3267ea9c-615c-43a8-a635-3f9ef6f829dd/uid?resourceVersion=id%3A3339"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3267ea9c-615c-43a8-a635-3f9ef6f829dd/relationships/uid?resourceVersion=id%3A3339"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3267ea9c-615c-43a8-a635-3f9ef6f829dd/field_event_type?resourceVersion=id%3A3339"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3267ea9c-615c-43a8-a635-3f9ef6f829dd/relationships/field_event_type?resourceVersion=id%3A3339"
+        }
+      }
+    }
+  }
+}

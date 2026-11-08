@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "f1b566be-fcbb-4edc-bcf0-2063e2b38d0f",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f1b566be-fcbb-4edc-bcf0-2063e2b38d0f?resourceVersion=id%3A2451"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f1b566be-fcbb-4edc-bcf0-2063e2b38d0f?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28131,
+    "drupal_internal__vid": 2451,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Christliche Wahrheit",
+    "created": "2010-08-23T08:37:57+00:00",
+    "changed": "2011-10-28T13:01:32+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28131",
+      "pid": 286,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 22. Oktober 1922 hält Bahr auf der Generalversammlung des katholischen Universitätvereins die Festrede. Eine Mitschrift der Rede über \"Christliche Wahrheit\" druckt die Reichspost (27.10.1922) und in Folge das Neue Reich ab. ",
+      "format": "full_html",
+      "processed": "Am 22. Oktober 1922 hält Bahr auf der Generalversammlung des katholischen Universitätvereins die Festrede. Eine Mitschrift der Rede über \"Christliche Wahrheit\" druckt die Reichspost (27.10.1922) und in Folge das Neue Reich ab. ",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1922-10-22",
+      "end_value": "1922-10-22"
+    },
+    "field_sources": [
+      "Hermann Bahr: Hermann Bahr über Sinn und Aufgabe einer katholischen Universität. Das Neue Reich. Wochenschrift für Kultur, Politik und Volkswirtschaft, 5 (1922) #11, 222. (16.12.1922)",
+      "Hermann Bahr: Christliche Wahrheit. Aus einer Festrede. Reichspost, 29 (1922) #286, 6-7. (27.10.1922)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f1b566be-fcbb-4edc-bcf0-2063e2b38d0f/node_type?resourceVersion=id%3A2451"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f1b566be-fcbb-4edc-bcf0-2063e2b38d0f/relationships/node_type?resourceVersion=id%3A2451"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f1b566be-fcbb-4edc-bcf0-2063e2b38d0f/revision_uid?resourceVersion=id%3A2451"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f1b566be-fcbb-4edc-bcf0-2063e2b38d0f/relationships/revision_uid?resourceVersion=id%3A2451"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f1b566be-fcbb-4edc-bcf0-2063e2b38d0f/uid?resourceVersion=id%3A2451"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f1b566be-fcbb-4edc-bcf0-2063e2b38d0f/relationships/uid?resourceVersion=id%3A2451"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f1b566be-fcbb-4edc-bcf0-2063e2b38d0f/field_event_type?resourceVersion=id%3A2451"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f1b566be-fcbb-4edc-bcf0-2063e2b38d0f/relationships/field_event_type?resourceVersion=id%3A2451"
+        }
+      }
+    }
+  }
+}

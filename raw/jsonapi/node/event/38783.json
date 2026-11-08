@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "ea27a5e8-d668-4c9a-9271-01b466a4e960",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/ea27a5e8-d668-4c9a-9271-01b466a4e960?resourceVersion=id%3A2604"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/ea27a5e8-d668-4c9a-9271-01b466a4e960?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38783,
+    "drupal_internal__vid": 2604,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Grundlsee",
+    "created": "2011-02-01T12:21:13+00:00",
+    "changed": "2011-07-11T11:05:26+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38783",
+      "pid": 531,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Vom 22. Juni 1894 weg ist Bahr bis 24. Juli bei Adalbert Goldschmidt am Grundlsee. ",
+      "format": "full_html",
+      "processed": "Vom 22. Juni 1894 weg ist Bahr bis 24. Juli bei Adalbert Goldschmidt am Grundlsee. ",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1894-06-22",
+      "end_value": "1894-07-24"
+    },
+    "field_sources": [
+      "Brief an den Vater, 25.6.1894 und 25.7.1894",
+      "Brief J. S. Machars an T. G. Masaryk, 24.6.1894. In: Kostrbová, Lucie; Kurt Ifkovits; Vratislav Doubek: Die Wiener Wochenschrift Die Zeit (1894–1904) als Mittler zwischen der Tschechischen und Wiener Moderne. Prag, Wien: Masarykův ústav a Archiv AV ČR, Österreichisches Theatermuseum 2011, 284-287."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ea27a5e8-d668-4c9a-9271-01b466a4e960/node_type?resourceVersion=id%3A2604"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ea27a5e8-d668-4c9a-9271-01b466a4e960/relationships/node_type?resourceVersion=id%3A2604"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ea27a5e8-d668-4c9a-9271-01b466a4e960/revision_uid?resourceVersion=id%3A2604"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ea27a5e8-d668-4c9a-9271-01b466a4e960/relationships/revision_uid?resourceVersion=id%3A2604"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ea27a5e8-d668-4c9a-9271-01b466a4e960/uid?resourceVersion=id%3A2604"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ea27a5e8-d668-4c9a-9271-01b466a4e960/relationships/uid?resourceVersion=id%3A2604"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ea27a5e8-d668-4c9a-9271-01b466a4e960/field_event_type?resourceVersion=id%3A2604"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ea27a5e8-d668-4c9a-9271-01b466a4e960/relationships/field_event_type?resourceVersion=id%3A2604"
+        }
+      }
+    }
+  }
+}

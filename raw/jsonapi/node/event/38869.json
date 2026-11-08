@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "e408868b-fcfb-4560-86b5-b3f5657edb88",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/e408868b-fcfb-4560-86b5-b3f5657edb88?resourceVersion=id%3A2684"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/e408868b-fcfb-4560-86b5-b3f5657edb88?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38869,
+    "drupal_internal__vid": 2684,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Dresden",
+    "created": "2011-02-16T21:51:34+00:00",
+    "changed": "2012-01-26T14:43:56+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38869",
+      "pid": 612,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Die erste Station von Bahrs Vortragsreise ist Dresden, wo er am 15. November 1909 spricht.",
+      "format": "full_html",
+      "processed": "Die erste Station von Bahrs Vortragsreise ist Dresden, wo er am 15. November 1909 spricht.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1909-11-15",
+      "end_value": "1909-11-15"
+    },
+    "field_sources": [
+      "Hermann Bahr sprach gestern im Künstlerhaus. In: Dresdner Neueste Nachrichten, 17 (1909) #314, 2. (17.11.1909)",
+      "Hermann Bahr: Aufzeichnungen 1909-1911. Ausgabe in Vorbereitung von Kurt Ifkovits\r\n"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e408868b-fcfb-4560-86b5-b3f5657edb88/node_type?resourceVersion=id%3A2684"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e408868b-fcfb-4560-86b5-b3f5657edb88/relationships/node_type?resourceVersion=id%3A2684"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e408868b-fcfb-4560-86b5-b3f5657edb88/revision_uid?resourceVersion=id%3A2684"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e408868b-fcfb-4560-86b5-b3f5657edb88/relationships/revision_uid?resourceVersion=id%3A2684"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e408868b-fcfb-4560-86b5-b3f5657edb88/uid?resourceVersion=id%3A2684"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e408868b-fcfb-4560-86b5-b3f5657edb88/relationships/uid?resourceVersion=id%3A2684"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e408868b-fcfb-4560-86b5-b3f5657edb88/field_event_type?resourceVersion=id%3A2684"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e408868b-fcfb-4560-86b5-b3f5657edb88/relationships/field_event_type?resourceVersion=id%3A2684"
+        }
+      }
+    }
+  }
+}

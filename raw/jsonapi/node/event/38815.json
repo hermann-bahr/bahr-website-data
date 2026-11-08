@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "8a27774b-00c0-45e7-92a5-132601664187",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/8a27774b-00c0-45e7-92a5-132601664187?resourceVersion=id%3A2635"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/8a27774b-00c0-45e7-92a5-132601664187?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38815,
+    "drupal_internal__vid": 2635,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Hamburg, Berlin",
+    "created": "2011-02-02T17:07:50+00:00",
+    "changed": "2011-07-11T11:53:36+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38815",
+      "pid": 562,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 23. Oktober 1897 will Bahr nach Hamburg fahren, zwei Tage drauf hat er da eine Lesung. (Vermutlich geht es auch um Verhandlungen einer Inszenierung der \"Gaea\" von Goldschmidt, für die ihm im letzten Arbeitsvertrag mit der Zeit drei Monate Freistellung zugestanden sind.) Von dort weiter nach Berlin, wo er sich die Inszenierung seines Stücks \"Tschaperl\" anschauen will und vielleicht noch einen oder zwei Tage anhängt.",
+      "format": "full_html",
+      "processed": "Am 23. Oktober 1897 will Bahr nach Hamburg fahren, zwei Tage drauf hat er da eine Lesung. (Vermutlich geht es auch um Verhandlungen einer Inszenierung der \"Gaea\" von Goldschmidt, für die ihm im letzten Arbeitsvertrag mit der Zeit drei Monate Freistellung zugestanden sind.) Von dort weiter nach Berlin, wo er sich die Inszenierung seines Stücks \"Tschaperl\" anschauen will und vielleicht noch einen oder zwei Tage anhängt.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1897-10-23",
+      "end_value": "1897-10-28"
+    },
+    "field_sources": [
+      "Brief an den Vater, 19.10.1897",
+      "Brief Singers an Bahr, 18.10.1897 in: Die Zeit und die tschechische Moderne, 354.\r\n"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8a27774b-00c0-45e7-92a5-132601664187/node_type?resourceVersion=id%3A2635"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8a27774b-00c0-45e7-92a5-132601664187/relationships/node_type?resourceVersion=id%3A2635"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8a27774b-00c0-45e7-92a5-132601664187/revision_uid?resourceVersion=id%3A2635"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8a27774b-00c0-45e7-92a5-132601664187/relationships/revision_uid?resourceVersion=id%3A2635"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8a27774b-00c0-45e7-92a5-132601664187/uid?resourceVersion=id%3A2635"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8a27774b-00c0-45e7-92a5-132601664187/relationships/uid?resourceVersion=id%3A2635"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8a27774b-00c0-45e7-92a5-132601664187/field_event_type?resourceVersion=id%3A2635"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8a27774b-00c0-45e7-92a5-132601664187/relationships/field_event_type?resourceVersion=id%3A2635"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "5efda2cd-98fc-4720-aa07-ea9027882665",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/5efda2cd-98fc-4720-aa07-ea9027882665?resourceVersion=id%3A2846"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/5efda2cd-98fc-4720-aa07-ea9027882665?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39072,
+    "drupal_internal__vid": 2846,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Stress",
+    "created": "2011-05-05T20:35:39+00:00",
+    "changed": "2011-09-01T09:18:10+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39072",
+      "pid": 803,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Seiner Mutter klagt er am 24. November 1898 seinen beruflichen Stress:\r\n<blockquote>kaum aus München zurück, musste ich nach Berlin zu meinem Erfolg, dann war hier die Juana mit dem üblichen Getöse von Applaus und Zischen, den anderen Tag war ich in Prag vorlesen, morgen gehe ich auf zwei Tage an den Semmering</blockquote>Die Juana wurde zwei Jahre nach der Uraufführung am 18. November im Raimundtheater zum ersten Mal in Wien gegeben.",
+      "format": "full_html",
+      "processed": "Seiner Mutter klagt er am 24. November 1898 seinen beruflichen Stress:\n<blockquote>kaum aus München zurück, musste ich nach Berlin zu meinem Erfolg, dann war hier die Juana mit dem üblichen Getöse von Applaus und Zischen, den anderen Tag war ich in Prag vorlesen, morgen gehe ich auf zwei Tage an den Semmering</blockquote>Die Juana wurde zwei Jahre nach der Uraufführung am 18. November im Raimundtheater zum ersten Mal in Wien gegeben.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1898-11-18",
+      "end_value": "1898-11-18"
+    },
+    "field_sources": [
+      "Brief an die Mutter, 24.11.1898\r\n"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5efda2cd-98fc-4720-aa07-ea9027882665/node_type?resourceVersion=id%3A2846"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5efda2cd-98fc-4720-aa07-ea9027882665/relationships/node_type?resourceVersion=id%3A2846"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5efda2cd-98fc-4720-aa07-ea9027882665/revision_uid?resourceVersion=id%3A2846"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5efda2cd-98fc-4720-aa07-ea9027882665/relationships/revision_uid?resourceVersion=id%3A2846"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5efda2cd-98fc-4720-aa07-ea9027882665/uid?resourceVersion=id%3A2846"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5efda2cd-98fc-4720-aa07-ea9027882665/relationships/uid?resourceVersion=id%3A2846"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5efda2cd-98fc-4720-aa07-ea9027882665/field_event_type?resourceVersion=id%3A2846"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5efda2cd-98fc-4720-aa07-ea9027882665/relationships/field_event_type?resourceVersion=id%3A2846"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "3909732c-da4d-4205-9e3c-7dde8b03128f",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/3909732c-da4d-4205-9e3c-7dde8b03128f?resourceVersion=id%3A2299"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/3909732c-da4d-4205-9e3c-7dde8b03128f?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27958,
+    "drupal_internal__vid": 2299,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Selbstbildnis",
+    "created": "2010-07-19T15:20:50+00:00",
+    "changed": "2011-12-14T16:54:23+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/27958",
+      "pid": 133,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Ziemlich genau zu seinem 60. Geburtstag am 19. Juli 1923 legt Bahr seine Autobiographie vor, die seine Jugend bis zur Gründung des Jungen Wiens erzählt, dann aber noch seinen Wandel zum Glauben behandelt, wobei er betont, dass ohnedies alles ein Weg dorthin war. Das Neue Reich, in dem seit dem 3. Oktober 1920 der Vorabdruck erschien, kommentiert: <blockquote>Das Buch ist natürlich nur eine Lektüre für reife Menschen.</blockquote>",
+      "format": "full_html",
+      "processed": "Ziemlich genau zu seinem 60. Geburtstag am 19. Juli 1923 legt Bahr seine Autobiographie vor, die seine Jugend bis zur Gründung des Jungen Wiens erzählt, dann aber noch seinen Wandel zum Glauben behandelt, wobei er betont, dass ohnedies alles ein Weg dorthin war. Das Neue Reich, in dem seit dem 3. Oktober 1920 der Vorabdruck erschien, kommentiert: <blockquote>Das Buch ist natürlich nur eine Lektüre für reife Menschen.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1923-07-19",
+      "end_value": "1923-07-19"
+    },
+    "field_sources": [
+      "Hermann Bahr: Selbstbildnis. Berlin: S. Fischer, 1923.",
+      "Das Neue Reich, 5 (1923) #41, 933. (14.7.1923)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3909732c-da4d-4205-9e3c-7dde8b03128f/node_type?resourceVersion=id%3A2299"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3909732c-da4d-4205-9e3c-7dde8b03128f/relationships/node_type?resourceVersion=id%3A2299"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3909732c-da4d-4205-9e3c-7dde8b03128f/revision_uid?resourceVersion=id%3A2299"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3909732c-da4d-4205-9e3c-7dde8b03128f/relationships/revision_uid?resourceVersion=id%3A2299"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3909732c-da4d-4205-9e3c-7dde8b03128f/uid?resourceVersion=id%3A2299"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3909732c-da4d-4205-9e3c-7dde8b03128f/relationships/uid?resourceVersion=id%3A2299"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "da42ac4a-f48f-4397-af4d-b66e913825fb",
+          "meta": {
+            "drupal_internal__target_id": 3
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3909732c-da4d-4205-9e3c-7dde8b03128f/field_event_type?resourceVersion=id%3A2299"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3909732c-da4d-4205-9e3c-7dde8b03128f/relationships/field_event_type?resourceVersion=id%3A2299"
+        }
+      }
+    }
+  }
+}

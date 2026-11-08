@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bibliografie__theaterstuecke__der-unmensch-1919-1919" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Der Unmensch (1919 / 1919)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">49678</idno>
+        <idno type="drupal-alias">/bibliografie/49678</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bibliografie/49678">https://bahr.univie.ac.at/bibliografie/49678</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+        <bibl type="beschriebene-ausgabe">
+          <author>Hermann Bahr</author>
+          <title type="main">Der Unmensch</title>
+          <title type="sub">Lustspiel in drei Aufzügen</title>
+          <pubPlace>Berlin</pubPlace>
+          <publisher>E. Reiss</publisher>
+          <date>1919</date>
+          <extent>115</extent>
+          <edition>2. Aufl [1920]</edition>
+          <note>"Dem großen Künstler Carl Reichel in dankbarer Ergebenheit. Weihnachten 1919". Obwohl das Copyright auf 1919 datiert ist, gibt Thomasberger das Jahr als [1920] an, vermutlich wegen der auf Weihnachten 1919 datierten Widmung. Das "Deutsche Bücherverzeichnis", 1915-1920, I, 137 datiert auf [1919]. In seinem "Tagebuch" vom 6. Januar [1921] erzählt Bahr die Anekdote, die dem Stück zu Grunde liegt (Liebe der Lebenden, I, 19-20).</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="1" key="bibliografie">Bibliografie</term>
+          <term n="2" key="theaterstuecke">Theaterstücke</term>
+          <term n="20" key="der-unmensch-1919-1919" type="eintrag">Der Unmensch (1919 / 1919)</term>
+        </keywords>
+        <classCode scheme="drupal-type">bibliographie</classCode>
+        <keywords scheme="bibliografie_type">
+          <term>Theaterstücke</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2011-11-23T13:27:35+00:00" type="created">angelegt in Drupal</change>
+      <change when="2013-01-07T14:33:44+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="bib">
+        <head>Bibliografie</head>
+        <table type="bibliografie">
+          <row>
+            <cell>Autor:</cell>
+            <cell>Hermann Bahr</cell>
+          </row>
+          <row>
+            <cell>Titel:</cell>
+            <cell>Der Unmensch</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>Lustspiel in drei Aufzügen</cell>
+          </row>
+          <row>
+            <cell>Ort:</cell>
+            <cell>Berlin</cell>
+          </row>
+          <row>
+            <cell>Verlag:</cell>
+            <cell>E. Reiss</cell>
+          </row>
+          <row>
+            <cell>Jahr:</cell>
+            <cell>1919</cell>
+          </row>
+          <row>
+            <cell>Seiten:</cell>
+            <cell>115</cell>
+          </row>
+          <row>
+            <cell>Aufl.:</cell>
+            <cell>2. Aufl [1920]</cell>
+          </row>
+          <row>
+            <cell>Anm.:</cell>
+            <cell>"Dem großen Künstler Carl Reichel in dankbarer Ergebenheit. Weihnachten 1919". Obwohl das Copyright auf 1919 datiert ist, gibt Thomasberger das Jahr als [1920] an, vermutlich wegen der auf Weihnachten 1919 datierten Widmung. Das "Deutsche Bücherverzeichnis", 1915-1920, I, 137 datiert auf [1919]. In seinem "Tagebuch" vom 6. Januar [1921] erzählt Bahr die Anekdote, die dem Stück zu Grunde liegt (Liebe der Lebenden, I, 19-20).</cell>
+          </row>
+        </table>
+      </div>
+      <div xml:id="manuskript">
+        <head>Bühnenmanuskript</head>
+        <table type="bibliografie">
+          <row>
+            <cell>Autor:</cell>
+            <cell>Hermann Bahr</cell>
+          </row>
+          <row>
+            <cell>Titel:</cell>
+            <cell>Der Unmensch</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>Lustspiel in drei Aufzügen</cell>
+          </row>
+          <row>
+            <cell>Ort:</cell>
+            <cell>Berlin</cell>
+          </row>
+          <row>
+            <cell>Verlag:</cell>
+            <cell>Ahn &amp; Simrock</cell>
+          </row>
+          <row>
+            <cell>Jahr:</cell>
+            <cell>1919</cell>
+          </row>
+          <row>
+            <cell>Seiten:</cell>
+            <cell>88</cell>
+          </row>
+        </table>
+      </div>
+      <div xml:id="auff">
+        <head>Inszenierungen</head>
+        <p>4.12.1919 Münchner Residenztheater und im Deutschen Schauspielhaus Hamburg 10.2.1920 Kammerspiele Berlin, Regie Anna Bahr-Mildenburg 30.12.1920 Deutsches Volkstheater Wien</p>
+      </div>
+      <div xml:id="rezens">
+        <head>Rezensionen</head>
+        <p>P.S.: Hermann Bahr: „Der Unmensch“. Uraufführung im Münchner Residenztheater. In: Frankfurter Zeitung, 64 (1919) #917, Abendausgabe, 1. (8.12.1919) Richard Rieß: Der neue Hermann Bahr („Der Unmensch“) In: Leipziger Zeitung und Handelsblatt für Sachsen, 1919 #317, 2. (10.12.1919) [Uraufführung] Vossische Zeitung, #629, Abend-Ausgabe, 3. (10.12.1919) G.: Das neue Lustspiel von Bahr, „Der Unmensch“, im Residenztheater in München. In: Berliner Börsen-Courier, 51(1919) #577, Morgen-Ausgabe, 5-6. (11.12.1919) Stefan Grossmann in: Vossische Zeitung, #77, Abend-Ausgabe, 2-3. (11.2.1920) Alfred Kerr im Berliner Tageblatt, 49 (1920) #76, Morgen-Ausgabe, 2. (12.2.1920) [Kammerspiele] Berliner Theater. NZZ, #278, 2. Mittagblatt. (18.2.1920) Max Herrmann-Neisse: Berliner Theater. In: Die Neue Schaubühne, 2 (1920) #4 (April), 105-108. Alfred Polgar: Der Unmensch. In: Die Weltbühne, 17 (1921) #3, 75-76. (20.1.1921)</p>
+      </div>
+      <div xml:id="www">
+        <head>Digitalisate</head>
+        <p>
+          <ref target="http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=92">Link</ref>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

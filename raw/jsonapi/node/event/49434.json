@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "535413bd-e00d-4d94-9af1-47ebd124ba90",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/535413bd-e00d-4d94-9af1-47ebd124ba90?resourceVersion=id%3A3277"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/535413bd-e00d-4d94-9af1-47ebd124ba90?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49434,
+    "drupal_internal__vid": 3277,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Lammasch",
+    "created": "2011-10-19T14:10:26+00:00",
+    "changed": "2011-10-19T14:14:21+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49434",
+      "pid": 1258,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am Silvesterabend 1919 trifft Bahr zum letzten Mal Heinrich Lammasch.",
+      "format": "full_html",
+      "processed": "Am Silvesterabend 1919 trifft Bahr zum letzten Mal Heinrich Lammasch.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1919-12-31",
+      "end_value": "1919-12-31"
+    },
+    "field_sources": [
+      "Bahr/Redlich, 393.",
+      "Hermann Bahr: Tagebuch. Neues Wiener Journal, 25.1.1920. Buchausgabe: Kritik der Gegenwart, 33-34."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/535413bd-e00d-4d94-9af1-47ebd124ba90/node_type?resourceVersion=id%3A3277"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/535413bd-e00d-4d94-9af1-47ebd124ba90/relationships/node_type?resourceVersion=id%3A3277"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/535413bd-e00d-4d94-9af1-47ebd124ba90/revision_uid?resourceVersion=id%3A3277"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/535413bd-e00d-4d94-9af1-47ebd124ba90/relationships/revision_uid?resourceVersion=id%3A3277"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/535413bd-e00d-4d94-9af1-47ebd124ba90/uid?resourceVersion=id%3A3277"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/535413bd-e00d-4d94-9af1-47ebd124ba90/relationships/uid?resourceVersion=id%3A3277"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/535413bd-e00d-4d94-9af1-47ebd124ba90/field_event_type?resourceVersion=id%3A3277"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/535413bd-e00d-4d94-9af1-47ebd124ba90/relationships/field_event_type?resourceVersion=id%3A3277"
+        }
+      }
+    }
+  }
+}

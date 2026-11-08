@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bayreuth-1912" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Bayreuth (1912)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">27852</idno>
+        <idno type="drupal-alias">/bayreuth-1912</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bayreuth-1912">https://bahr.univie.ac.at/bayreuth-1912</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="none">
+          <term>nicht im Menü</term>
+        </keywords>
+        <classCode scheme="drupal-type">page</classCode>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2010-05-27T15:27:15+00:00" type="created">angelegt in Drupal</change>
+      <change when="2010-11-05T14:35:39+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head>Erstdrucke</head>
+        <p>Zwei Aufenthalte in Bayreuth nutzt Bahr für die Auseinandersetzung mit dem Werk Wagners. Im ersten Aufenthalt im Sommer 1911 zeichnet er ein Stimmungsbild. Das evozierte Stimmungsbild ist vielschichtig, nicht zuletzt durch den <hi rend="italic">intimen Blick</hi> den die gemeinsame Verfasserschaft mit seiner Frau Anna Bahr-Mildenburg nahelegt: Ein Ehepaar, das sich auch künstlerisch trifft. Denn obwohl es die einzige Ko-Produktion bleiben wird, verraten die Erstdrucke doch, dass die beiden in den gleichen Journalen veröffentlichen. Eine weitere Eigenheit des Buches bildet die enge Verknüpfung der Bahrs mit dem lokalen Establishment: Sei es durch die Verwertung des ersten Texts in Niehrenheims Bayreuth-Führer, oder durch den Umstand, dass Anna Mildenburg Teil des Ensembles ist. (Illustrieren lässt sich das schön mit dem Foto der beiden, das Bahrs Text in der Kölnischen Theaterrundschau beigegeben ist.) Im Gegensatz dazu dient Bahr der Aufenthalt im folgenden Jahr für eine politische Kampagne, die Bayreuth das Aufführungsmonopol am "Parsifal" sichern soll. Das Buch "Bayreuth" ist noch vor den "politischen" Texten fertiggestellt, es erscheint im November 1911, auf 1912 vordatiert, und enthält auch drei Texte von Anna Bahr-Mildenburg. Weitere Hinweise zu Texten Anna Bahr-Mildenburgs in Karin Martensens Eintrag auf <ref target="http://mugi.hfmt-hamburg.de/A_lexartikel/lexartikel.php?id=bahr1872">MUGI</ref>, Musik und Gender im Internet.</p>
+        <table>
+          <row>
+            <cell>
+              <hi rend="bold">Mildenburg</hi>
+            </cell>
+            <cell>7-28</cell>
+            <cell><hi rend="bold">Cosima Wagner.</hi><lb/>Neue Freie Presse, (1911) #16804, Morgenblatt, 15-16. (4.6.1911)</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>29-41</cell>
+            <cell><hi rend="bold">Probenzeit in Bayreuth</hi><lb/>Berliner Tageblatt, 40 (1911) #346, Abend-Ausgabe, 1-2. (10.71911)</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>43-48</cell>
+            <cell><hi rend="bold">Kapellmeister Müller</hi><lb/>Der Merker, 2 (1911) #20 (2. Juli-Heft), 840-841.</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="bold">Bahr</hi>
+            </cell>
+            <cell>49-62</cell>
+            <cell><hi rend="bold">Bayreuther Stimmung. </hi><lb/>Neue Freie Presse, (1909) #16153, Morgenblatt, 1-3. (10.8.1909)<lb/>Wegweiser für Besucher der Bayreuther Festspiele 1911, 119-124</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>63-72</cell>
+            <cell><hi rend="bold">Das Bayreuther Gespräch. </hi><lb/>Berliner Tageblatt, 38 (1909) #410, Abend-Ausgabe, 1-2. (14.8.1909)<lb/>Kölnische Theater-Rundschau, 2 (1912) #39, 8-11. (17.8.1912)</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>73-83</cell>
+            <cell><hi rend="bold">Das Wunder von Bayreuth. </hi><lb/>Als "Das Wunder von Baireuth" in: Berliner Tageblatt, 38 (1909) #378, Abend-Ausgabe, 1-2. (28.7.1909)</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>85-96</cell>
+            <cell><hi rend="bold">Die Meistersinger. </hi><lb/>Als "Die "Meistersinger" in Bayreuth" in: Neue Freie Presse, (1911) #16854, Morgenblatt, 1-2. (25.7.1911)</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>97-101</cell>
+            <cell><hi rend="bold">Snöbl gegen Wagner. </hi><lb/>Der Merker, 2 (1911) #20 (2. Juli-Heft), 823.</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>103-114</cell>
+            <cell><hi rend="bold">Bayreuth. </hi><lb/>Berliner Tageblatt, 40 (1911) #396, Morgen-Ausgabe, 1. Beilage, 5-6. (6.8.1911)</cell>
+          </row>
+        </table>
+        <p>
+          <hi rend="small">Alle Texte verifiziert, Oktober 2010</hi>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

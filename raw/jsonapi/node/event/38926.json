@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "d250f1b5-c14e-4e1d-8ab8-300dee5352f7",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/d250f1b5-c14e-4e1d-8ab8-300dee5352f7?resourceVersion=id%3A2713"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/d250f1b5-c14e-4e1d-8ab8-300dee5352f7?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38926,
+    "drupal_internal__vid": 2713,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Kürschner",
+    "created": "2011-03-11T15:45:00+00:00",
+    "changed": "2011-07-14T20:28:09+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38926",
+      "pid": 667,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<blockquote><strong>Bahr,</strong> Erich Herm., [Dramatiker] [Feuilletonist], Essay, Volkw., Polit. Berlin NW, Kalkscheunenstr2. (Linz <small>19|7</small> 63.) <strong>V:</strong> D. Wunderkur, L. Rodbertus' Theorie d. Absatzkrisen 84. Ueb. Rodbertus 84. D.Einsichtslosigkeit d. H. Schäffle 86.</blockquote>",
+      "format": "full_html",
+      "processed": "<blockquote><strong>Bahr,</strong> Erich Herm., [Dramatiker] [Feuilletonist], Essay, Volkw., Polit. Berlin NW, Kalkscheunenstr2. (Linz <small>19|7</small> 63.) <strong>V:</strong> D. Wunderkur, L. Rodbertus' Theorie d. Absatzkrisen 84. Ueb. Rodbertus 84. D.Einsichtslosigkeit d. H. Schäffle 86.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1887-01-01",
+      "end_value": "1887-01-01"
+    },
+    "field_sources": [
+      "Deutscher Litteratur-Kalender auf das Jahr 1887. Hg. von Joseph Kürschner. Berlin und Stuttgart: Spemann 1887, 12. [Für Dramatiker und Feuilletonist sind Symbole eingesetzt, die sich nicht wiedergeben lassen. Erschienen zu Beginn 1887.]"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d250f1b5-c14e-4e1d-8ab8-300dee5352f7/node_type?resourceVersion=id%3A2713"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d250f1b5-c14e-4e1d-8ab8-300dee5352f7/relationships/node_type?resourceVersion=id%3A2713"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d250f1b5-c14e-4e1d-8ab8-300dee5352f7/revision_uid?resourceVersion=id%3A2713"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d250f1b5-c14e-4e1d-8ab8-300dee5352f7/relationships/revision_uid?resourceVersion=id%3A2713"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d250f1b5-c14e-4e1d-8ab8-300dee5352f7/uid?resourceVersion=id%3A2713"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d250f1b5-c14e-4e1d-8ab8-300dee5352f7/relationships/uid?resourceVersion=id%3A2713"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d250f1b5-c14e-4e1d-8ab8-300dee5352f7/field_event_type?resourceVersion=id%3A2713"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d250f1b5-c14e-4e1d-8ab8-300dee5352f7/relationships/field_event_type?resourceVersion=id%3A2713"
+        }
+      }
+    }
+  }
+}

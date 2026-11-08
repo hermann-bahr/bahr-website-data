@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bilder__1906-reformkleid" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">1906 Reformkleid</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">74441</idno>
+        <idno type="drupal-alias">/bild/74441</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bild/74441">https://bahr.univie.ac.at/bild/74441</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="7" key="bilder">Bilder</term>
+          <term n="18" key="1906-reformkleid" type="eintrag">1906 Reformkleid</term>
+        </keywords>
+        <classCode scheme="drupal-type">image</classCode>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2012-11-19T16:27:58+00:00" type="created">angelegt in Drupal</change>
+      <change when="2012-11-19T16:30:54+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <figure>
+          <graphic url="files/bahr_bilder/1906_refom.jpg"/>
+          <figDesc>1906 Reformkleid</figDesc>
+        </figure>
+        <p>
+          <hi rend="italic">Postkarte. Unten links: "Verl. Herm. Leiser, Berlin-Wilm". Bahr sitzt im Speisezimmer seines von Olbrich erbauten Hauses. Über ihm hängt, wie die Fotografie im Nachlass (Inv.-Nr. FS_PE302114alt) verrät, das von Albert von Keller gemalte Porträt seiner Gattin Rosa Bahr. Dieses Bild und mehrere mit dem gleichen Reformkleid sind in der Bilddatenbank des Kunsthistorischen Museums <ref target="http://bilddatenbank.khm.at/">online</ref> einzusehen.</hi>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

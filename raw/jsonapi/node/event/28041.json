@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "d27580a1-f0e7-4b2f-98da-2f74b6e80439",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/d27580a1-f0e7-4b2f-98da-2f74b6e80439?resourceVersion=id%3A2373"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/d27580a1-f0e7-4b2f-98da-2f74b6e80439?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28041,
+    "drupal_internal__vid": 2373,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Der Star",
+    "created": "2010-07-28T22:06:43+00:00",
+    "changed": "2012-10-22T18:05:32+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28041",
+      "pid": 207,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Die Uraufführung des \"Wiener Stücks in vier Akten\" findet am 12. November 1898 am Lessingtheater in Berlin statt. Der anwesende Autor wird nach jedem Akt gerufen. Es ist sein bislang größter Theatererfolg. Die Buchausgabe dürfte gleichzeitig bei S. Fischer verlegt sein, wenngleich auf 1899 vordatiert.",
+      "format": "full_html",
+      "processed": "Die Uraufführung des \"Wiener Stücks in vier Akten\" findet am 12. November 1898 am Lessingtheater in Berlin statt. Der anwesende Autor wird nach jedem Akt gerufen. Es ist sein bislang größter Theatererfolg. Die Buchausgabe dürfte gleichzeitig bei S. Fischer verlegt sein, wenngleich auf 1899 vordatiert.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1898-11-12",
+      "end_value": "1898-11-12"
+    },
+    "field_sources": [
+      "Hermann Bahr: Der Star. Ein Wiener Stück in vier Akten. Berlin: S. Fischer, 1899.",
+      "Neue Freie Presse, 1898 #12294, 8. (13.11.1898) "
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d27580a1-f0e7-4b2f-98da-2f74b6e80439/node_type?resourceVersion=id%3A2373"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d27580a1-f0e7-4b2f-98da-2f74b6e80439/relationships/node_type?resourceVersion=id%3A2373"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d27580a1-f0e7-4b2f-98da-2f74b6e80439/revision_uid?resourceVersion=id%3A2373"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d27580a1-f0e7-4b2f-98da-2f74b6e80439/relationships/revision_uid?resourceVersion=id%3A2373"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d27580a1-f0e7-4b2f-98da-2f74b6e80439/uid?resourceVersion=id%3A2373"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d27580a1-f0e7-4b2f-98da-2f74b6e80439/relationships/uid?resourceVersion=id%3A2373"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "27f3d2a4-8970-4726-9ab8-ce37707ec1bc",
+          "meta": {
+            "drupal_internal__target_id": 1
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d27580a1-f0e7-4b2f-98da-2f74b6e80439/field_event_type?resourceVersion=id%3A2373"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d27580a1-f0e7-4b2f-98da-2f74b6e80439/relationships/field_event_type?resourceVersion=id%3A2373"
+        }
+      }
+    }
+  }
+}

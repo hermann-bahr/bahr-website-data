@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "be260277-a754-45da-8774-ddda3270b704",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/be260277-a754-45da-8774-ddda3270b704?resourceVersion=id%3A2834"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/be260277-a754-45da-8774-ddda3270b704?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39059,
+    "drupal_internal__vid": 2834,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "St. Gilgen",
+    "created": "2011-05-03T12:32:30+00:00",
+    "changed": "2012-10-16T11:54:56+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39059",
+      "pid": 791,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<blockquote>16. Oktober [1908]: Nach Sankt Hilgen [!] zu Burckhard. Die ganze Fahrt durch mein Oberösterreich, dem ich angehöre, und dann eine Stunde lang durch Salzburg spazierend…</blockquote>Er bleibt bis zum 18. ",
+      "format": "full_html",
+      "processed": "<blockquote>16. Oktober [1908]: Nach Sankt Hilgen [!] zu Burckhard. Die ganze Fahrt durch mein Oberösterreich, dem ich angehöre, und dann eine Stunde lang durch Salzburg spazierend…</blockquote>Er bleibt bis zum 18. ",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1908-10-16",
+      "end_value": "1908-10-18"
+    },
+    "field_sources": [
+      "Hermann Bahr: Tagebuch. 16. Oktober. Morgen. Wochenschrift für deutsche Kultur, 2 (1908) #49, 1626. (4.12.1908) ",
+      "Tagebücher (Csàky), V, 388."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/be260277-a754-45da-8774-ddda3270b704/node_type?resourceVersion=id%3A2834"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/be260277-a754-45da-8774-ddda3270b704/relationships/node_type?resourceVersion=id%3A2834"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/be260277-a754-45da-8774-ddda3270b704/revision_uid?resourceVersion=id%3A2834"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/be260277-a754-45da-8774-ddda3270b704/relationships/revision_uid?resourceVersion=id%3A2834"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/be260277-a754-45da-8774-ddda3270b704/uid?resourceVersion=id%3A2834"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/be260277-a754-45da-8774-ddda3270b704/relationships/uid?resourceVersion=id%3A2834"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/be260277-a754-45da-8774-ddda3270b704/field_event_type?resourceVersion=id%3A2834"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/be260277-a754-45da-8774-ddda3270b704/relationships/field_event_type?resourceVersion=id%3A2834"
+        }
+      }
+    }
+  }
+}

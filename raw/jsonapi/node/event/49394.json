@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "4797086c-f38a-4396-90ea-9c213f1425af",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/4797086c-f38a-4396-90ea-9c213f1425af?resourceVersion=id%3A3239"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/4797086c-f38a-4396-90ea-9c213f1425af?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49394,
+    "drupal_internal__vid": 3239,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Dementi Umzug München",
+    "created": "2011-10-17T15:35:14+00:00",
+    "changed": "2011-10-17T15:35:14+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49394",
+      "pid": 1218,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "In seinem \"Tagebuch\" vom 24. April 1918 widerspricht Bahr heftig den Gerüchten, er und seine Frau würden Salzburg für München verlassen, nur weil sie dort Kurse gebe: <blockquote>ich bin doch innerlich zu vernietet in Österreich, ja wenn man will: zu vernagelt in Österreich, als daß mir auch nur die bloße Vorstellung erträglich wäre, meine alten Tage in der Fremde zu beschließen.</blockquote>Der Umzug erfolgt 1922.\r\n",
+      "format": "full_html",
+      "processed": "In seinem \"Tagebuch\" vom 24. April 1918 widerspricht Bahr heftig den Gerüchten, er und seine Frau würden Salzburg für München verlassen, nur weil sie dort Kurse gebe: <blockquote>ich bin doch innerlich zu vernietet in Österreich, ja wenn man will: zu vernagelt in Österreich, als daß mir auch nur die bloße Vorstellung erträglich wäre, meine alten Tage in der Fremde zu beschließen.</blockquote>Der Umzug erfolgt 1922.\n",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1918-04-25",
+      "end_value": "1918-04-25"
+    },
+    "field_sources": [
+      "Hermann Bahr: Tagebuch. Salzburg, 25. April. Neues Wiener Journal, 26 (1918) #8801, 6. (5.5.1918) Buchausgabe: Tagebücher 2, 121"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4797086c-f38a-4396-90ea-9c213f1425af/node_type?resourceVersion=id%3A3239"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4797086c-f38a-4396-90ea-9c213f1425af/relationships/node_type?resourceVersion=id%3A3239"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4797086c-f38a-4396-90ea-9c213f1425af/revision_uid?resourceVersion=id%3A3239"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4797086c-f38a-4396-90ea-9c213f1425af/relationships/revision_uid?resourceVersion=id%3A3239"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4797086c-f38a-4396-90ea-9c213f1425af/uid?resourceVersion=id%3A3239"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4797086c-f38a-4396-90ea-9c213f1425af/relationships/uid?resourceVersion=id%3A3239"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4797086c-f38a-4396-90ea-9c213f1425af/field_event_type?resourceVersion=id%3A3239"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4797086c-f38a-4396-90ea-9c213f1425af/relationships/field_event_type?resourceVersion=id%3A3239"
+        }
+      }
+    }
+  }
+}

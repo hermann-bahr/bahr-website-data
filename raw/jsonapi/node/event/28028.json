@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "3f0ce261-3771-44cd-9703-dfae2d22824d",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/3f0ce261-3771-44cd-9703-dfae2d22824d?resourceVersion=id%3A2360"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/3f0ce261-3771-44cd-9703-dfae2d22824d?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28028,
+    "drupal_internal__vid": 2360,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Der inwendige Garten",
+    "created": "2010-07-28T10:49:20+00:00",
+    "changed": "2012-10-22T09:31:57+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28028",
+      "pid": 194,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Im Oktober 1927, Bahr ist 64 Jahre alt, erscheint sein vorletzter Roman \"Der inwendige Garten\" bei F. Borgmeyer.",
+      "format": "full_html",
+      "processed": "Im Oktober 1927, Bahr ist 64 Jahre alt, erscheint sein vorletzter Roman \"Der inwendige Garten\" bei F. Borgmeyer.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1927-10-01",
+      "end_value": "1927-10-01"
+    },
+    "field_sources": [
+      "Hermann Bahr: Der inwendige Garten. Roman. Hildesheim: F. Borgmeyer, 1927."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3f0ce261-3771-44cd-9703-dfae2d22824d/node_type?resourceVersion=id%3A2360"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3f0ce261-3771-44cd-9703-dfae2d22824d/relationships/node_type?resourceVersion=id%3A2360"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3f0ce261-3771-44cd-9703-dfae2d22824d/revision_uid?resourceVersion=id%3A2360"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3f0ce261-3771-44cd-9703-dfae2d22824d/relationships/revision_uid?resourceVersion=id%3A2360"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3f0ce261-3771-44cd-9703-dfae2d22824d/uid?resourceVersion=id%3A2360"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3f0ce261-3771-44cd-9703-dfae2d22824d/relationships/uid?resourceVersion=id%3A2360"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "2f55ff54-49af-41ba-a2d1-45a7ac71add2",
+          "meta": {
+            "drupal_internal__target_id": 2
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3f0ce261-3771-44cd-9703-dfae2d22824d/field_event_type?resourceVersion=id%3A2360"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3f0ce261-3771-44cd-9703-dfae2d22824d/relationships/field_event_type?resourceVersion=id%3A2360"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "c3980e6f-a88b-42aa-a545-e88ecbb18720",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/c3980e6f-a88b-42aa-a545-e88ecbb18720?resourceVersion=id%3A2347"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/c3980e6f-a88b-42aa-a545-e88ecbb18720?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28015,
+    "drupal_internal__vid": 2347,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Neben der Liebe",
+    "created": "2010-07-27T16:50:48+00:00",
+    "changed": "2011-11-21T09:54:56+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28015",
+      "pid": 181,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahrs zweiter Roman, \"Neben der Liebe\", ist wie sein erster ein \"Dekadenzroman\". Im \"Selbstbildnis\" bestimmt er die Zeit nach der Rückkehr aus St. Petersburg, also Mai 1891, als die Entwurfsphase. Fertig ist er dann im Frühling 1892 (datiert mit \"Purkersdorf, 1. Mai 1892\"), erscheint  er im Herbst des Jahres in einem dreiteiligen Vorabdruck in der Freien Bühne und dürfte im Jänner 1893 bei S. Fischer in Berlin in Buchform vorgelegen haben.",
+      "format": "full_html",
+      "processed": "Bahrs zweiter Roman, \"Neben der Liebe\", ist wie sein erster ein \"Dekadenzroman\". Im \"Selbstbildnis\" bestimmt er die Zeit nach der Rückkehr aus St. Petersburg, also Mai 1891, als die Entwurfsphase. Fertig ist er dann im Frühling 1892 (datiert mit \"Purkersdorf, 1. Mai 1892\"), erscheint  er im Herbst des Jahres in einem dreiteiligen Vorabdruck in der Freien Bühne und dürfte im Jänner 1893 bei S. Fischer in Berlin in Buchform vorgelegen haben.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1893-01-19",
+      "end_value": "1893-01-19"
+    },
+    "field_sources": [
+      "Hermann Bahr: Neben der Liebe. Wiener Roman. Berlin: S. Fischer, 1893.",
+      "Freie Bühne für den Entwickelungskampf der Zeit, 3 (1892):\r\n#10, 1009-1038;\r\n#11, 1121-1154;\r\n#12, 1233-1258.",
+      "Rezension von Henri Albert in einem Brief an Richard Dehmel, 19.1.1893 (Briefwechsel, Hg. Krahmer)\r\n"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c3980e6f-a88b-42aa-a545-e88ecbb18720/node_type?resourceVersion=id%3A2347"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c3980e6f-a88b-42aa-a545-e88ecbb18720/relationships/node_type?resourceVersion=id%3A2347"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c3980e6f-a88b-42aa-a545-e88ecbb18720/revision_uid?resourceVersion=id%3A2347"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c3980e6f-a88b-42aa-a545-e88ecbb18720/relationships/revision_uid?resourceVersion=id%3A2347"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c3980e6f-a88b-42aa-a545-e88ecbb18720/uid?resourceVersion=id%3A2347"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c3980e6f-a88b-42aa-a545-e88ecbb18720/relationships/uid?resourceVersion=id%3A2347"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "2f55ff54-49af-41ba-a2d1-45a7ac71add2",
+          "meta": {
+            "drupal_internal__target_id": 2
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c3980e6f-a88b-42aa-a545-e88ecbb18720/field_event_type?resourceVersion=id%3A2347"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c3980e6f-a88b-42aa-a545-e88ecbb18720/relationships/field_event_type?resourceVersion=id%3A2347"
+        }
+      }
+    }
+  }
+}

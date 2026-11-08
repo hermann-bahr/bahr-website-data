@@ -1,0 +1,119 @@
+{
+  "type": "node--event",
+  "id": "c48a6f86-c3bc-4b08-8794-ecef2980cd71",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/c48a6f86-c3bc-4b08-8794-ecef2980cd71?resourceVersion=id%3A2378"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/c48a6f86-c3bc-4b08-8794-ecef2980cd71?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28047,
+    "drupal_internal__vid": 2378,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Die Andere",
+    "created": "2010-08-04T14:16:47+00:00",
+    "changed": "2012-06-04T15:12:59+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28047",
+      "pid": 212,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 4. November 1905 Uraufführung des Fünfakters am Münchner Schauspielhaus in Anwesenheit von Bahr. Insgesamt 7 Aufführungen. Ende des Monats wird es in Wien gegeben. Die Buchausgabe verlegte S. Fischer in Berlin.\r\n\r\nGemeinhin als Weiterführung des \"Meisters\" verstanden, steht im Kern eine Frau – Lida Lind -, die in einer Beziehung mit Professor Heinrich Heß versucht, eine frühere zu überwinden. Als sie es glaubt, geschafft zu haben, kehrt der erste Liebhaber zurück und sie reist mit ihm fort. Wiedergekehrt stirbt sie, an ihren ersten denkend, einen Kreis schließend, wo vier Personen stets diejenigen Lieben, die nicht für sie empfinden.\r\n\r\n",
+      "format": "full_html",
+      "processed": "Am 4. November 1905 Uraufführung des Fünfakters am Münchner Schauspielhaus in Anwesenheit von Bahr. Insgesamt 7 Aufführungen. Ende des Monats wird es in Wien gegeben. Die Buchausgabe verlegte S. Fischer in Berlin.\n\nGemeinhin als Weiterführung des \"Meisters\" verstanden, steht im Kern eine Frau – Lida Lind -, die in einer Beziehung mit Professor Heinrich Heß versucht, eine frühere zu überwinden. Als sie es glaubt, geschafft zu haben, kehrt der erste Liebhaber zurück und sie reist mit ihm fort. Wiedergekehrt stirbt sie, an ihren ersten denkend, einen Kreis schließend, wo vier Personen stets diejenigen Lieben, die nicht für sie empfinden.\n\n",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1905-11-04",
+      "end_value": "1905-11-04"
+    },
+    "field_sources": [
+      "Hermann Bahr: Die Andere. [Schauspiel in fünf Akten]. Berlin: S. Fischer, 1906.",
+      "Nachtkritik in: Neues Wiener Tagblatt, 39 (1903) #306, 11-12. (5.11.1905)",
+      "Nachtkritik in: Österreichische Volks-Zeitung, 51 (1903) #308, 6. (7.11.1905)",
+      "Willi Handl: Bahrs \"Andere\". In: Schaubühne, 1 (1905) #14, 394-396. (7.12.1905)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c48a6f86-c3bc-4b08-8794-ecef2980cd71/node_type?resourceVersion=id%3A2378"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c48a6f86-c3bc-4b08-8794-ecef2980cd71/relationships/node_type?resourceVersion=id%3A2378"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c48a6f86-c3bc-4b08-8794-ecef2980cd71/revision_uid?resourceVersion=id%3A2378"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c48a6f86-c3bc-4b08-8794-ecef2980cd71/relationships/revision_uid?resourceVersion=id%3A2378"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c48a6f86-c3bc-4b08-8794-ecef2980cd71/uid?resourceVersion=id%3A2378"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c48a6f86-c3bc-4b08-8794-ecef2980cd71/relationships/uid?resourceVersion=id%3A2378"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "27f3d2a4-8970-4726-9ab8-ce37707ec1bc",
+          "meta": {
+            "drupal_internal__target_id": 1
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c48a6f86-c3bc-4b08-8794-ecef2980cd71/field_event_type?resourceVersion=id%3A2378"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c48a6f86-c3bc-4b08-8794-ecef2980cd71/relationships/field_event_type?resourceVersion=id%3A2378"
+        }
+      }
+    }
+  }
+}

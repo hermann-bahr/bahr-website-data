@@ -1,0 +1,114 @@
+{
+  "type": "node--event",
+  "id": "43a5a717-a48f-4ee2-b7d8-68b25e593e19",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/43a5a717-a48f-4ee2-b7d8-68b25e593e19?resourceVersion=id%3A2442"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/43a5a717-a48f-4ee2-b7d8-68b25e593e19?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28122,
+    "drupal_internal__vid": 2442,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Hietzing",
+    "created": "2010-08-18T14:42:50+00:00",
+    "changed": "2010-08-18T14:42:50+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28122",
+      "pid": 277,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 26. März 1908 ist Bahr in seinem Haus in Hietzing.",
+      "format": "full_html",
+      "processed": "Am 26. März 1908 ist Bahr in seinem Haus in Hietzing.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1908-03-26",
+      "end_value": "1908-03-26"
+    },
+    "field_sources": []
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/43a5a717-a48f-4ee2-b7d8-68b25e593e19/node_type?resourceVersion=id%3A2442"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/43a5a717-a48f-4ee2-b7d8-68b25e593e19/relationships/node_type?resourceVersion=id%3A2442"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/43a5a717-a48f-4ee2-b7d8-68b25e593e19/revision_uid?resourceVersion=id%3A2442"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/43a5a717-a48f-4ee2-b7d8-68b25e593e19/relationships/revision_uid?resourceVersion=id%3A2442"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/43a5a717-a48f-4ee2-b7d8-68b25e593e19/uid?resourceVersion=id%3A2442"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/43a5a717-a48f-4ee2-b7d8-68b25e593e19/relationships/uid?resourceVersion=id%3A2442"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/43a5a717-a48f-4ee2-b7d8-68b25e593e19/field_event_type?resourceVersion=id%3A2442"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/43a5a717-a48f-4ee2-b7d8-68b25e593e19/relationships/field_event_type?resourceVersion=id%3A2442"
+        }
+      }
+    }
+  }
+}

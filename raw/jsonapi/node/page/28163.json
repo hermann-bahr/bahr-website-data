@@ -1,0 +1,90 @@
+{
+  "type": "node--page",
+  "id": "a849c8cc-755b-4a3c-bf5b-5aa30bdf982b",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/page/a849c8cc-755b-4a3c-bf5b-5aa30bdf982b?resourceVersion=id%3A4061"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/page/a849c8cc-755b-4a3c-bf5b-5aa30bdf982b?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28163,
+    "drupal_internal__vid": 4061,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T17:01:03+00:00",
+    "status": true,
+    "title": "Neues Wiener Journal",
+    "created": "2010-08-30T13:17:40+00:00",
+    "changed": "2011-12-14T16:28:49+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/neues-wiener-journal",
+      "pid": 311,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<h4><i>Kurt Ifkovits und Lukas Mayrhofer</i></h4>\r\n\r\n\r\n<table>\r\n<th>Datum</th><th>Jahrgang</th><th>Ausgabe</th><th>Seite</th><th></th>\r\n<tr><td>5.4.1911</td><td>19</td><td>#6619</td><td>3</td><td>Hermann Bahr über Arbeitslosigkeit. \"Das deutsche Problem\". <i>Über seinen Artikel im \"März\"</i>\r\n<tr><td>28.3.1912</td><td>20</td><td>#6619</td><td>7</td><td>Intendantenkrisis in München. <i>[Über Speidel, der schon damals bei Bahrs Münchner Engagement Fehler machte]</i></td></tr>\r\n<tr><td>7.4.1912</td><td>20</td><td>#6629</td><td>11</td><td>Peter Altenberg: Wiener Literatenköpfe. <i>Über Bahr u.a.</i></td></tr>\r\n<tr><td>26.5.1912</td><td>20</td><td>#6677</td><td>7-8</td><td>Charakter von Hermann Bahr<Td>\r\n<tr><td>26.7.1912</td><td>20</td><td>#6736</td><td>9</td><td>Dühlbergs \"Korallenketten\" in Berlin verboten, Hermann Bahr ist gegen ein Verbot</td>\r\n<tr><td>2.8.1912</td><td>20</td><td>#6743</td><td>10</td><td><i>Mit Gattin Veröffentlichung eines Buchs über 'Bayreuth'</i></td></tr>\r\n<tr><td>8.8.1912</td><td>20</td><td>#6750</td><td>10</td><td><i>Ankündigung des \"Parsifalschutz\"-Vortrags</i></td></tr>\r\n<tr><td>6.10.1912</td><td>20></td><td>#6808</td><td>10</td><td><i>Hermann Bahr's Jugendwerk \"Die häusliche Frau\" im Hoftheater aufgeführt, Kurznotiz</tr>\r\n</table>",
+      "format": "full_html",
+      "processed": "<h4><i>Kurt Ifkovits und Lukas Mayrhofer</i></h4>\n\n\n<table>\n<th>Datum</th><th>Jahrgang</th><th>Ausgabe</th><th>Seite</th><th></th>\n<tr><td>5.4.1911</td><td>19</td><td>#6619</td><td>3</td><td>Hermann Bahr über Arbeitslosigkeit. \"Das deutsche Problem\". <i>Über seinen Artikel im \"März\"</i>\n</td></tr><tr><td>28.3.1912</td><td>20</td><td>#6619</td><td>7</td><td>Intendantenkrisis in München. <i>[Über Speidel, der schon damals bei Bahrs Münchner Engagement Fehler machte]</i></td></tr>\n<tr><td>7.4.1912</td><td>20</td><td>#6629</td><td>11</td><td>Peter Altenberg: Wiener Literatenköpfe. <i>Über Bahr u.a.</i></td></tr>\n<tr><td>26.5.1912</td><td>20</td><td>#6677</td><td>7-8</td><td>Charakter von Hermann Bahr</td><td>\n</td></tr><tr><td>26.7.1912</td><td>20</td><td>#6736</td><td>9</td><td>Dühlbergs \"Korallenketten\" in Berlin verboten, Hermann Bahr ist gegen ein Verbot</td>\n</tr><tr><td>2.8.1912</td><td>20</td><td>#6743</td><td>10</td><td><i>Mit Gattin Veröffentlichung eines Buchs über 'Bayreuth'</i></td></tr>\n<tr><td>8.8.1912</td><td>20</td><td>#6750</td><td>10</td><td><i>Ankündigung des \"Parsifalschutz\"-Vortrags</i></td></tr>\n<tr><td>6.10.1912</td><td>20&gt;</td><td>#6808</td><td>10</td><td><i>Hermann Bahr's Jugendwerk \"Die häusliche Frau\" im Hoftheater aufgeführt, Kurznotiz</i></td></tr>\n</table>",
+      "summary": null
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "016d417b-5c75-4303-8420-18e221e9e269",
+        "meta": {
+          "drupal_internal__target_id": "page"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/a849c8cc-755b-4a3c-bf5b-5aa30bdf982b/node_type?resourceVersion=id%3A4061"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/a849c8cc-755b-4a3c-bf5b-5aa30bdf982b/relationships/node_type?resourceVersion=id%3A4061"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/a849c8cc-755b-4a3c-bf5b-5aa30bdf982b/revision_uid?resourceVersion=id%3A4061"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/a849c8cc-755b-4a3c-bf5b-5aa30bdf982b/relationships/revision_uid?resourceVersion=id%3A4061"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/a849c8cc-755b-4a3c-bf5b-5aa30bdf982b/uid?resourceVersion=id%3A4061"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/a849c8cc-755b-4a3c-bf5b-5aa30bdf982b/relationships/uid?resourceVersion=id%3A4061"
+        }
+      }
+    }
+  }
+}

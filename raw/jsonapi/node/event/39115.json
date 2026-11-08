@@ -1,0 +1,119 @@
+{
+  "type": "node--event",
+  "id": "a06c11f6-5c93-47f6-a74a-cb5e09fbadf9",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/a06c11f6-5c93-47f6-a74a-cb5e09fbadf9?resourceVersion=id%3A2880"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/a06c11f6-5c93-47f6-a74a-cb5e09fbadf9?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39115,
+    "drupal_internal__vid": 2880,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Kunstrat",
+    "created": "2011-05-20T13:41:24+00:00",
+    "changed": "2011-06-27T11:40:13+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39115",
+      "pid": 845,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahr sitzt im \"Kunstrathes\", der für das Unterrichstministerium beratende Funktion bei Fragen der Kulturpolitik hat. Unter Bahrs Einfluss bezieht dieser in der Affäre um Klimts \"Philosophie\"-Bilder deutlich Stellung auf Seite des Malers.",
+      "format": "full_html",
+      "processed": "Bahr sitzt im \"Kunstrathes\", der für das Unterrichstministerium beratende Funktion bei Fragen der Kulturpolitik hat. Unter Bahrs Einfluss bezieht dieser in der Affäre um Klimts \"Philosophie\"-Bilder deutlich Stellung auf Seite des Malers.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1900-05-15",
+      "end_value": "1900-05-15"
+    },
+    "field_sources": [
+      "[O.N. Bahr?]: Das Kunstamt. Neues Wiener Tagblatt, 34 (1900) #132, 9. (15.5.1900) ",
+      "Hermann Bahr: Das Kunstamt. Österreichische Volks-Zeitung, 46 (1900) #132, 1. (15.5.1900) \r\n",
+      "sowie: Eduard Pötzl, Neues Wiener Tagblatt, 20.5.1900 und \r\n",
+      "Karl Kraus: Fackel, 2 (1900) #43, 27."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a06c11f6-5c93-47f6-a74a-cb5e09fbadf9/node_type?resourceVersion=id%3A2880"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a06c11f6-5c93-47f6-a74a-cb5e09fbadf9/relationships/node_type?resourceVersion=id%3A2880"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a06c11f6-5c93-47f6-a74a-cb5e09fbadf9/revision_uid?resourceVersion=id%3A2880"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a06c11f6-5c93-47f6-a74a-cb5e09fbadf9/relationships/revision_uid?resourceVersion=id%3A2880"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a06c11f6-5c93-47f6-a74a-cb5e09fbadf9/uid?resourceVersion=id%3A2880"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a06c11f6-5c93-47f6-a74a-cb5e09fbadf9/relationships/uid?resourceVersion=id%3A2880"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a06c11f6-5c93-47f6-a74a-cb5e09fbadf9/field_event_type?resourceVersion=id%3A2880"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a06c11f6-5c93-47f6-a74a-cb5e09fbadf9/relationships/field_event_type?resourceVersion=id%3A2880"
+        }
+      }
+    }
+  }
+}

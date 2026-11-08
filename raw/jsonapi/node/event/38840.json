@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "87d2ffb8-68fd-461a-8bc4-33d71ae14818",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/87d2ffb8-68fd-461a-8bc4-33d71ae14818?resourceVersion=id%3A2657"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/87d2ffb8-68fd-461a-8bc4-33d71ae14818?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38840,
+    "drupal_internal__vid": 2657,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "HvH",
+    "created": "2011-02-10T17:05:40+00:00",
+    "changed": "2012-11-29T16:09:20+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38840",
+      "pid": 585,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 7. Dezember 1918 sprechen sich Salten und Schnitzler, der ins Tagebuch schreibt:<blockquote>Über Differenzen Bahr - Hugo … \"daß sie alle beide …\"</blockquote>Im Freundeskreis war also bekannt, woran sich der von Bahr als sein Mitarbeiter ans Burgtheater geholte Buschbeck erinnert:\r\n<blockquote>Einem Gespräch zwischen den beiden Dichtern habe ich nur einmal beiwohnen können, im Herbst 1918, als Bahr Vorsitzender eines Dreierkollegiums im Burgtheater war […] Die beiden Dichter […] schienen bei dieser Unterredung im Theaterbüro um ein wirkliches Gespräch nicht sonderlich bemüht.</blockquote>",
+      "format": "full_html",
+      "processed": "Am 7. Dezember 1918 sprechen sich Salten und Schnitzler, der ins Tagebuch schreibt:<blockquote>Über Differenzen Bahr - Hugo … \"daß sie alle beide …\"</blockquote>Im Freundeskreis war also bekannt, woran sich der von Bahr als sein Mitarbeiter ans Burgtheater geholte Buschbeck erinnert:\n<blockquote>Einem Gespräch zwischen den beiden Dichtern habe ich nur einmal beiwohnen können, im Herbst 1918, als Bahr Vorsitzender eines Dreierkollegiums im Burgtheater war […] Die beiden Dichter […] schienen bei dieser Unterredung im Theaterbüro um ein wirkliches Gespräch nicht sonderlich bemüht.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1918-12-07",
+      "end_value": "1918-12-07"
+    },
+    "field_sources": [
+      "Schnitzler: Tagebücher, VI, 207.",
+      "Erhard Buschbeck: Bahr und Hofmannsthal im Gespräch. Die neue Zeitung, #253, 27.10.1951\r\n"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/87d2ffb8-68fd-461a-8bc4-33d71ae14818/node_type?resourceVersion=id%3A2657"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/87d2ffb8-68fd-461a-8bc4-33d71ae14818/relationships/node_type?resourceVersion=id%3A2657"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/87d2ffb8-68fd-461a-8bc4-33d71ae14818/revision_uid?resourceVersion=id%3A2657"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/87d2ffb8-68fd-461a-8bc4-33d71ae14818/relationships/revision_uid?resourceVersion=id%3A2657"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/87d2ffb8-68fd-461a-8bc4-33d71ae14818/uid?resourceVersion=id%3A2657"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/87d2ffb8-68fd-461a-8bc4-33d71ae14818/relationships/uid?resourceVersion=id%3A2657"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/87d2ffb8-68fd-461a-8bc4-33d71ae14818/field_event_type?resourceVersion=id%3A2657"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/87d2ffb8-68fd-461a-8bc4-33d71ae14818/relationships/field_event_type?resourceVersion=id%3A2657"
+        }
+      }
+    }
+  }
+}

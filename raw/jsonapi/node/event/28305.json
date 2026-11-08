@@ -1,0 +1,119 @@
+{
+  "type": "node--event",
+  "id": "9b0a13b3-7900-4019-9765-e9092e2a4478",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/9b0a13b3-7900-4019-9765-e9092e2a4478?resourceVersion=id%3A2549"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/9b0a13b3-7900-4019-9765-e9092e2a4478?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28305,
+    "drupal_internal__vid": 2549,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Theatergründung",
+    "created": "2010-12-15T11:52:29+00:00",
+    "changed": "2011-09-12T10:19:15+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28305",
+      "pid": 434,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Von den Bemühungen, ein gemeinsames Theater in Berlin und Wien zu betreiben, das alternierend, aber ständig bespielt wird, berichtet die Wiener Allgemeine Zeitung am 11. Juni 1903. Gedacht ist an eine Aufwertung von Max Reinhardts \"Kleinem Theater\". Während Reinhardt in Berlin Direktor bleiben soll, wird Bahr als voraussichtlicher Leiter für Wien genannt. Die identischen Theaterbauten sollen von Otto Wagner ausgeführt werden. Das \"N.W.T.\" schreibt:<blockquote>Wie uns Hermann Bahr mitteilt, ist man in dieser Angelegenheit noch nicht über die ersten, ganz unverbindlichen Vorbesprechungen hinausgekommen.</blockquote>Das Projekt wurde nicht verwirklicht, beschäftigte Bahr aber zumindest bis Jahresende.",
+      "format": "full_html",
+      "processed": "Von den Bemühungen, ein gemeinsames Theater in Berlin und Wien zu betreiben, das alternierend, aber ständig bespielt wird, berichtet die Wiener Allgemeine Zeitung am 11. Juni 1903. Gedacht ist an eine Aufwertung von Max Reinhardts \"Kleinem Theater\". Während Reinhardt in Berlin Direktor bleiben soll, wird Bahr als voraussichtlicher Leiter für Wien genannt. Die identischen Theaterbauten sollen von Otto Wagner ausgeführt werden. Das \"N.W.T.\" schreibt:<blockquote>Wie uns Hermann Bahr mitteilt, ist man in dieser Angelegenheit noch nicht über die ersten, ganz unverbindlichen Vorbesprechungen hinausgekommen.</blockquote>Das Projekt wurde nicht verwirklicht, beschäftigte Bahr aber zumindest bis Jahresende.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1903-06-11",
+      "end_value": "1903-06-11"
+    },
+    "field_sources": [
+      "Eine sensationelle Theatergründung. (Berlin und Wien). Wiener Allgemeine Zeitung, (1903) #7570, 3. (11.6.1903)",
+      "Neues Wiener Tagblatt, 37 (1903) #159, 10. (11.6.1903)",
+      "Ein interessantes Theaterprojekt in Wien. Österreichische Volks-Zeitung, 49 (1903) #159, 6. (11.6.1903)",
+      "Tagebücher, Skizzenbücher, Notizhefte, III, 317 und Einleitung XXII."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9b0a13b3-7900-4019-9765-e9092e2a4478/node_type?resourceVersion=id%3A2549"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9b0a13b3-7900-4019-9765-e9092e2a4478/relationships/node_type?resourceVersion=id%3A2549"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9b0a13b3-7900-4019-9765-e9092e2a4478/revision_uid?resourceVersion=id%3A2549"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9b0a13b3-7900-4019-9765-e9092e2a4478/relationships/revision_uid?resourceVersion=id%3A2549"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9b0a13b3-7900-4019-9765-e9092e2a4478/uid?resourceVersion=id%3A2549"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9b0a13b3-7900-4019-9765-e9092e2a4478/relationships/uid?resourceVersion=id%3A2549"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9b0a13b3-7900-4019-9765-e9092e2a4478/field_event_type?resourceVersion=id%3A2549"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9b0a13b3-7900-4019-9765-e9092e2a4478/relationships/field_event_type?resourceVersion=id%3A2549"
+        }
+      }
+    }
+  }
+}

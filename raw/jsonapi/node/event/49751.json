@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "eac10148-ebf8-41ed-8272-b9e6289200d9",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/eac10148-ebf8-41ed-8272-b9e6289200d9?resourceVersion=id%3A3523"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/eac10148-ebf8-41ed-8272-b9e6289200d9?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49751,
+    "drupal_internal__vid": 3523,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Freie Bühne: Fitger",
+    "created": "2012-01-02T13:30:14+00:00",
+    "changed": "2012-01-02T13:30:14+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49751",
+      "pid": 1563,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Im \"Tagebuch\" erinnert sich Bahr 1920, dass er am 4. Mai 1890, unmittelbar nach der Ankunft in Berlin, bereits im Theater saß, um sich die Aufführung von Arthur Fitger's \"Von Gottes Gnaden\" anzuschauen.[1] Er erinnert sich auch, dass das Stück durchfiel.[2]",
+      "format": "full_html",
+      "processed": "Im \"Tagebuch\" erinnert sich Bahr 1920, dass er am 4. Mai 1890, unmittelbar nach der Ankunft in Berlin, bereits im Theater saß, um sich die Aufführung von Arthur Fitger's \"Von Gottes Gnaden\" anzuschauen.[1] Er erinnert sich auch, dass das Stück durchfiel.[2]",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1890-05-04",
+      "end_value": "1890-05-04"
+    },
+    "field_sources": [
+      "[1] Tagebuch. 1. Mai. In: Kritik der Gegenwart, 127-134, hier: 132",
+      "[2] Vgl. Otto Brahm: Kritische Schriften. Hg. Paul Schlenther. Berlin: 1913/1915, 291."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/eac10148-ebf8-41ed-8272-b9e6289200d9/node_type?resourceVersion=id%3A3523"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/eac10148-ebf8-41ed-8272-b9e6289200d9/relationships/node_type?resourceVersion=id%3A3523"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/eac10148-ebf8-41ed-8272-b9e6289200d9/revision_uid?resourceVersion=id%3A3523"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/eac10148-ebf8-41ed-8272-b9e6289200d9/relationships/revision_uid?resourceVersion=id%3A3523"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/eac10148-ebf8-41ed-8272-b9e6289200d9/uid?resourceVersion=id%3A3523"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/eac10148-ebf8-41ed-8272-b9e6289200d9/relationships/uid?resourceVersion=id%3A3523"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/eac10148-ebf8-41ed-8272-b9e6289200d9/field_event_type?resourceVersion=id%3A3523"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/eac10148-ebf8-41ed-8272-b9e6289200d9/relationships/field_event_type?resourceVersion=id%3A3523"
+        }
+      }
+    }
+  }
+}

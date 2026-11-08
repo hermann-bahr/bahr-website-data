@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "382e73b5-e9f2-4b37-a15e-7711c45ff8c6",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/382e73b5-e9f2-4b37-a15e-7711c45ff8c6?resourceVersion=id%3A2255"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/382e73b5-e9f2-4b37-a15e-7711c45ff8c6?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27910,
+    "drupal_internal__vid": 2255,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Wien / Hugo Wolf",
+    "created": "2010-06-30T10:29:29+00:00",
+    "changed": "2013-03-07T13:37:06+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/27910",
+      "pid": 89,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Ab Anfang März 1884 bis Ende April Aufenthalt in Wien. Die Postadresse ist \"Fiedlers Restauration, Johannesgasse 2\" im ersten Wiener Gemeindebezirk. Wohnhaft ist er aber im dritten Stock des Trattnerhof, wo er zusammen mit einem Freund und Hugo Wolf eine WG bildet. Tagebuch, 23. März 1930:<blockquote>Ich war in meiner Jugend oft obdachlos, Hugo Wolf war es immer; und da nahm uns dann gelegentlich beide mein Couleurbruder Edmund Lang auf in seiner Hofwohnung des dritten Stockes im Trattnerhof.</blockquote>",
+      "format": "full_html",
+      "processed": "Ab Anfang März 1884 bis Ende April Aufenthalt in Wien. Die Postadresse ist \"Fiedlers Restauration, Johannesgasse 2\" im ersten Wiener Gemeindebezirk. Wohnhaft ist er aber im dritten Stock des Trattnerhof, wo er zusammen mit einem Freund und Hugo Wolf eine WG bildet. Tagebuch, 23. März 1930:<blockquote>Ich war in meiner Jugend oft obdachlos, Hugo Wolf war es immer; und da nahm uns dann gelegentlich beide mein Couleurbruder Edmund Lang auf in seiner Hofwohnung des dritten Stockes im Trattnerhof.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1884-03-01",
+      "end_value": "1884-04-30"
+    },
+    "field_sources": [
+      "Selbstbildnis, 165",
+      "Hermann Bahr: Tagebuch. 17. März. Neues Wiener Journal, 38 (1930) #13052, 16-17. (23.3.1930)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/382e73b5-e9f2-4b37-a15e-7711c45ff8c6/node_type?resourceVersion=id%3A2255"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/382e73b5-e9f2-4b37-a15e-7711c45ff8c6/relationships/node_type?resourceVersion=id%3A2255"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/382e73b5-e9f2-4b37-a15e-7711c45ff8c6/revision_uid?resourceVersion=id%3A2255"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/382e73b5-e9f2-4b37-a15e-7711c45ff8c6/relationships/revision_uid?resourceVersion=id%3A2255"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/382e73b5-e9f2-4b37-a15e-7711c45ff8c6/uid?resourceVersion=id%3A2255"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/382e73b5-e9f2-4b37-a15e-7711c45ff8c6/relationships/uid?resourceVersion=id%3A2255"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/382e73b5-e9f2-4b37-a15e-7711c45ff8c6/field_event_type?resourceVersion=id%3A2255"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/382e73b5-e9f2-4b37-a15e-7711c45ff8c6/relationships/field_event_type?resourceVersion=id%3A2255"
+        }
+      }
+    }
+  }
+}

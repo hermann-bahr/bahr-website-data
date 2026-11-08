@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "f08d0ced-df83-452c-9ac5-95f94a1983ea",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f08d0ced-df83-452c-9ac5-95f94a1983ea?resourceVersion=id%3A3561"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f08d0ced-df83-452c-9ac5-95f94a1983ea?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 64067,
+    "drupal_internal__vid": 3561,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Tairow und Moskauer Kammertheater",
+    "created": "2012-01-25T14:13:23+00:00",
+    "changed": "2012-01-25T14:13:23+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/64067",
+      "pid": 1602,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Im Mai 1923 besucht Bahr, der seit seinem Abschied aus dem Burgtheater kaum mehr ins Theater ging, die Aufführungen, die Alexander Tairow mit dem Moskauer Kammertheater in München gibt. Er sieht \"Salome\" und ist erstmals begeistert:<blockquote>saß ich ganz unkritisch da, so wie Kinder im Theater sitzen.</blockquote>Nach einem Moment der Reflexion ist er aber skeptischer, die Aufführung der \"Phädra\" macht ihm begreiflich: Tairow kommt das Verdienst zu, die Fläche der Bühne thematisiert und zerstört zu haben, nun hofft er auf jemand Begabteren (Reinhardt?), der den nächsten Schritt geht.",
+      "format": "full_html",
+      "processed": "Im Mai 1923 besucht Bahr, der seit seinem Abschied aus dem Burgtheater kaum mehr ins Theater ging, die Aufführungen, die Alexander Tairow mit dem Moskauer Kammertheater in München gibt. Er sieht \"Salome\" und ist erstmals begeistert:<blockquote>saß ich ganz unkritisch da, so wie Kinder im Theater sitzen.</blockquote>Nach einem Moment der Reflexion ist er aber skeptischer, die Aufführung der \"Phädra\" macht ihm begreiflich: Tairow kommt das Verdienst zu, die Fläche der Bühne thematisiert und zerstört zu haben, nun hofft er auf jemand Begabteren (Reinhardt?), der den nächsten Schritt geht.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1923-05-20",
+      "end_value": "1923-05-20"
+    },
+    "field_sources": [
+      "Liebe der Lebenden, III, 128-135. (20. Mai [1923])"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f08d0ced-df83-452c-9ac5-95f94a1983ea/node_type?resourceVersion=id%3A3561"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f08d0ced-df83-452c-9ac5-95f94a1983ea/relationships/node_type?resourceVersion=id%3A3561"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f08d0ced-df83-452c-9ac5-95f94a1983ea/revision_uid?resourceVersion=id%3A3561"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f08d0ced-df83-452c-9ac5-95f94a1983ea/relationships/revision_uid?resourceVersion=id%3A3561"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f08d0ced-df83-452c-9ac5-95f94a1983ea/uid?resourceVersion=id%3A3561"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f08d0ced-df83-452c-9ac5-95f94a1983ea/relationships/uid?resourceVersion=id%3A3561"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f08d0ced-df83-452c-9ac5-95f94a1983ea/field_event_type?resourceVersion=id%3A3561"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f08d0ced-df83-452c-9ac5-95f94a1983ea/relationships/field_event_type?resourceVersion=id%3A3561"
+        }
+      }
+    }
+  }
+}

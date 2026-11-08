@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "b134a818-b4f4-43b4-b33b-c6d5b0e73752",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b134a818-b4f4-43b4-b33b-c6d5b0e73752?resourceVersion=id%3A3102"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b134a818-b4f4-43b4-b33b-c6d5b0e73752?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44188,
+    "drupal_internal__vid": 3102,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Deutschland-Tournee",
+    "created": "2011-09-19T13:21:02+00:00",
+    "changed": "2011-09-19T13:21:02+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44188",
+      "pid": 1081,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<blockquote>Am 14. November 1913 begab sich H. B. auf eine Tournee, die ihn u.a. nach München, Aschaffenburg, Hamburg, Kiel, Rostock, Berlin, Danzig, Posen, Berlin, Görlitz und Dresden führte. Am 4. Dezember war er wieder in Salzburg.</blockquote>",
+      "format": "full_html",
+      "processed": "<blockquote>Am 14. November 1913 begab sich H. B. auf eine Tournee, die ihn u.a. nach München, Aschaffenburg, Hamburg, Kiel, Rostock, Berlin, Danzig, Posen, Berlin, Görlitz und Dresden führte. Am 4. Dezember war er wieder in Salzburg.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1913-11-14",
+      "end_value": "1913-12-04"
+    },
+    "field_sources": [
+      "Bahr/Kvapil, Anm. zu Brief #95, S. 356."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b134a818-b4f4-43b4-b33b-c6d5b0e73752/node_type?resourceVersion=id%3A3102"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b134a818-b4f4-43b4-b33b-c6d5b0e73752/relationships/node_type?resourceVersion=id%3A3102"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b134a818-b4f4-43b4-b33b-c6d5b0e73752/revision_uid?resourceVersion=id%3A3102"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b134a818-b4f4-43b4-b33b-c6d5b0e73752/relationships/revision_uid?resourceVersion=id%3A3102"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b134a818-b4f4-43b4-b33b-c6d5b0e73752/uid?resourceVersion=id%3A3102"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b134a818-b4f4-43b4-b33b-c6d5b0e73752/relationships/uid?resourceVersion=id%3A3102"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b134a818-b4f4-43b4-b33b-c6d5b0e73752/field_event_type?resourceVersion=id%3A3102"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b134a818-b4f4-43b4-b33b-c6d5b0e73752/relationships/field_event_type?resourceVersion=id%3A3102"
+        }
+      }
+    }
+  }
+}

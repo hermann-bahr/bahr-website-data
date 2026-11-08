@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "cd898c27-2bd4-4708-be86-6a344259c807",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/cd898c27-2bd4-4708-be86-6a344259c807?resourceVersion=id%3A2656"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/cd898c27-2bd4-4708-be86-6a344259c807?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38839,
+    "drupal_internal__vid": 2656,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Berchtesgaden, Ski fahren",
+    "created": "2011-02-10T17:03:34+00:00",
+    "changed": "2012-12-11T13:37:34+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38839",
+      "pid": 584,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Im seinem Feuilleton \"Problem für Kunstmaler und Hofschneider\" im Berliner Tageblatt vom 10. Februar 1914 schreibt Bahr:<blockquote>Ich war jetzt acht Tage in Berchtesgaden, Ski fahrend oder eigentlich mehr fallend</blockquote>\r\nDer Aufenthalt war um den 6.-14. Jänner. Er wohnte dabei im Hotel Vier Jahreszeiten, wo ihn Friedrich Schnack heimsucht, der das noch vierzig Jahre später in Erinnerung hat. Sein Schilehrer heißt Josef Huber.",
+      "format": "full_html",
+      "processed": "Im seinem Feuilleton \"Problem für Kunstmaler und Hofschneider\" im Berliner Tageblatt vom 10. Februar 1914 schreibt Bahr:<blockquote>Ich war jetzt acht Tage in Berchtesgaden, Ski fahrend oder eigentlich mehr fallend</blockquote>\nDer Aufenthalt war um den 6.-14. Jänner. Er wohnte dabei im Hotel Vier Jahreszeiten, wo ihn Friedrich Schnack heimsucht, der das noch vierzig Jahre später in Erinnerung hat. Sein Schilehrer heißt Josef Huber.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1914-01-06",
+      "end_value": "1914-01-14"
+    },
+    "field_sources": [
+      "Hermann Bahr: Problem für Kunstmaler und Hofschneider. Berliner Tageblatt, 43 (1914) #74, Abend-Ausgabe, 1. (10.2.1914)",
+      "Schnack, Friedrich: \"…alles, was man ausspricht, ist indezent.\" Erinnerungen. In: Die neue Zeitung, #54, 5.3.1953.\r\n",
+      "Nachlass Schachtel 104: Varia: Auszüge aus einer Zitatzusammestellung über Natur (aus Briefen an Anna BM)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cd898c27-2bd4-4708-be86-6a344259c807/node_type?resourceVersion=id%3A2656"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cd898c27-2bd4-4708-be86-6a344259c807/relationships/node_type?resourceVersion=id%3A2656"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cd898c27-2bd4-4708-be86-6a344259c807/revision_uid?resourceVersion=id%3A2656"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cd898c27-2bd4-4708-be86-6a344259c807/relationships/revision_uid?resourceVersion=id%3A2656"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cd898c27-2bd4-4708-be86-6a344259c807/uid?resourceVersion=id%3A2656"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cd898c27-2bd4-4708-be86-6a344259c807/relationships/uid?resourceVersion=id%3A2656"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cd898c27-2bd4-4708-be86-6a344259c807/field_event_type?resourceVersion=id%3A2656"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cd898c27-2bd4-4708-be86-6a344259c807/relationships/field_event_type?resourceVersion=id%3A2656"
+        }
+      }
+    }
+  }
+}

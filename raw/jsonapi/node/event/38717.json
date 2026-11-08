@@ -1,0 +1,119 @@
+{
+  "type": "node--event",
+  "id": "d9c43f63-2d5c-40f5-ac7a-72140c4112c8",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/d9c43f63-2d5c-40f5-ac7a-72140c4112c8?resourceVersion=id%3A2564"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/d9c43f63-2d5c-40f5-ac7a-72140c4112c8?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38717,
+    "drupal_internal__vid": 2564,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Die Wunderkur",
+    "created": "2011-01-03T16:35:47+00:00",
+    "changed": "2012-01-17T11:37:09+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38717",
+      "pid": 466,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 6. Februar 1883 hat Bahrs Erstlingswerk \"Die Wunderkur\" im Linzer landschaftlichen Theater seine Première. Entstanden sein dürfte es in den ersten Monaten an der Universität Wien. Bahr selbst bekennt, dass der Intendant Ferdinand Wertheimer (1817-1883) seinem Vater, dem Landtagsabgeordneten Alois Bahr eine Freude machen wollte, als er es in den Spielplan nahm.\r\n\r\nDas Werk ist ungedruckt, eine Inhaltsangabe des Schwanks gibt die Rezension der Uraufführung im Linzer Sonntagsblatt. Die Handlung umfasst ein Liebespaar, das den hypochrondrischen Vormund der Braut durch Vortäuschen einer Kuss-Kur zur Zustimmung überredet. Am 21. d.M. fand eine weitere Aufführung statt.",
+      "format": "full_html",
+      "processed": "Am 6. Februar 1883 hat Bahrs Erstlingswerk \"Die Wunderkur\" im Linzer landschaftlichen Theater seine Première. Entstanden sein dürfte es in den ersten Monaten an der Universität Wien. Bahr selbst bekennt, dass der Intendant Ferdinand Wertheimer (1817-1883) seinem Vater, dem Landtagsabgeordneten Alois Bahr eine Freude machen wollte, als er es in den Spielplan nahm.\n\nDas Werk ist ungedruckt, eine Inhaltsangabe des Schwanks gibt die Rezension der Uraufführung im Linzer Sonntagsblatt. Die Handlung umfasst ein Liebespaar, das den hypochrondrischen Vormund der Braut durch Vortäuschen einer Kuss-Kur zur Zustimmung überredet. Am 21. d.M. fand eine weitere Aufführung statt.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1883-02-06",
+      "end_value": "1883-02-06"
+    },
+    "field_sources": [
+      "Zur Entstehung: Hermann Bahr: Aus der Werkstätte des Dramatikers. Bekenntnisse und Selbstbetrachtungen. Neues Wiener Journal, 7 (1899) #1955, 3-5, hier: 3-4. (2.4.1899)",
+      "Walther: \"Die Wunderkur\" in: Linzer Sonntagsblatt, 4 (1883) #8, 3. (18.2.1883)",
+      "Selbstbildnis, 134.",
+      "Liebe der Lebenden, II, 284."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d9c43f63-2d5c-40f5-ac7a-72140c4112c8/node_type?resourceVersion=id%3A2564"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d9c43f63-2d5c-40f5-ac7a-72140c4112c8/relationships/node_type?resourceVersion=id%3A2564"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d9c43f63-2d5c-40f5-ac7a-72140c4112c8/revision_uid?resourceVersion=id%3A2564"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d9c43f63-2d5c-40f5-ac7a-72140c4112c8/relationships/revision_uid?resourceVersion=id%3A2564"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d9c43f63-2d5c-40f5-ac7a-72140c4112c8/uid?resourceVersion=id%3A2564"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d9c43f63-2d5c-40f5-ac7a-72140c4112c8/relationships/uid?resourceVersion=id%3A2564"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "27f3d2a4-8970-4726-9ab8-ce37707ec1bc",
+          "meta": {
+            "drupal_internal__target_id": 1
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d9c43f63-2d5c-40f5-ac7a-72140c4112c8/field_event_type?resourceVersion=id%3A2564"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d9c43f63-2d5c-40f5-ac7a-72140c4112c8/relationships/field_event_type?resourceVersion=id%3A2564"
+        }
+      }
+    }
+  }
+}

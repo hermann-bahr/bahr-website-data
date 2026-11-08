@@ -1,0 +1,114 @@
+{
+  "type": "node--event",
+  "id": "ba1b0916-0b9c-4245-b9ee-b5e727711c62",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/ba1b0916-0b9c-4245-b9ee-b5e727711c62?resourceVersion=id%3A2554"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/ba1b0916-0b9c-4245-b9ee-b5e727711c62?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38688,
+    "drupal_internal__vid": 2554,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Wien, Schlösselgasse 9",
+    "created": "2010-12-22T16:35:53+00:00",
+    "changed": "2010-12-22T16:35:53+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38688",
+      "pid": 440,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 24. September 1887 (wie er seinem Vater tags darauf schreibt) bezieht Bahr, der seit 22. in Wien weilt, ein Zimmer im achten Wiener Gemeindebezirk: Schlösselgasse 9, 1. Stiege, 2. Stock, Tür 15. Er verpflichtet die Wirtin, ihn zu jeder Tageszeit zu wecken und bezahlt monatlich 16 fl. und zusätzlich 3 fl. für Kaffee. ",
+      "format": "full_html",
+      "processed": "Am 24. September 1887 (wie er seinem Vater tags darauf schreibt) bezieht Bahr, der seit 22. in Wien weilt, ein Zimmer im achten Wiener Gemeindebezirk: Schlösselgasse 9, 1. Stiege, 2. Stock, Tür 15. Er verpflichtet die Wirtin, ihn zu jeder Tageszeit zu wecken und bezahlt monatlich 16 fl. und zusätzlich 3 fl. für Kaffee. ",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1887-09-24",
+      "end_value": "1887-09-24"
+    },
+    "field_sources": []
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ba1b0916-0b9c-4245-b9ee-b5e727711c62/node_type?resourceVersion=id%3A2554"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ba1b0916-0b9c-4245-b9ee-b5e727711c62/relationships/node_type?resourceVersion=id%3A2554"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ba1b0916-0b9c-4245-b9ee-b5e727711c62/revision_uid?resourceVersion=id%3A2554"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ba1b0916-0b9c-4245-b9ee-b5e727711c62/relationships/revision_uid?resourceVersion=id%3A2554"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ba1b0916-0b9c-4245-b9ee-b5e727711c62/uid?resourceVersion=id%3A2554"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ba1b0916-0b9c-4245-b9ee-b5e727711c62/relationships/uid?resourceVersion=id%3A2554"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ba1b0916-0b9c-4245-b9ee-b5e727711c62/field_event_type?resourceVersion=id%3A2554"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ba1b0916-0b9c-4245-b9ee-b5e727711c62/relationships/field_event_type?resourceVersion=id%3A2554"
+        }
+      }
+    }
+  }
+}

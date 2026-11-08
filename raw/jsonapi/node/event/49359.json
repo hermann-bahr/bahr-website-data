@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "8e62ac64-e401-420e-b331-c67a930d880d",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/8e62ac64-e401-420e-b331-c67a930d880d?resourceVersion=id%3A3205"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/8e62ac64-e401-420e-b331-c67a930d880d?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49359,
+    "drupal_internal__vid": 3205,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "\"Rudigier\" fertig",
+    "created": "2011-10-13T11:28:19+00:00",
+    "changed": "2011-10-13T11:28:19+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49359",
+      "pid": 1184,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Die Schrift über den Linzer Bischof \"Rudigier\" datiert Bahr mit \"Johannistag 1916\", also 24. Juni. Am 11. Juli jedenfalls kann er Redlich berichten, es sei fertig, er wisse aber nicht, ob Hofmannsthal den Text in seine \"Österreichische Bibliothek\" aufnehmen werde.  ",
+      "format": "full_html",
+      "processed": "Die Schrift über den Linzer Bischof \"Rudigier\" datiert Bahr mit \"Johannistag 1916\", also 24. Juni. Am 11. Juli jedenfalls kann er Redlich berichten, es sei fertig, er wisse aber nicht, ob Hofmannsthal den Text in seine \"Österreichische Bibliothek\" aufnehmen werde.  ",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1916-06-24",
+      "end_value": "1916-06-24"
+    },
+    "field_sources": [
+      "Bahr/Redlich, 178."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8e62ac64-e401-420e-b331-c67a930d880d/node_type?resourceVersion=id%3A3205"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8e62ac64-e401-420e-b331-c67a930d880d/relationships/node_type?resourceVersion=id%3A3205"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8e62ac64-e401-420e-b331-c67a930d880d/revision_uid?resourceVersion=id%3A3205"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8e62ac64-e401-420e-b331-c67a930d880d/relationships/revision_uid?resourceVersion=id%3A3205"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8e62ac64-e401-420e-b331-c67a930d880d/uid?resourceVersion=id%3A3205"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8e62ac64-e401-420e-b331-c67a930d880d/relationships/uid?resourceVersion=id%3A3205"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8e62ac64-e401-420e-b331-c67a930d880d/field_event_type?resourceVersion=id%3A3205"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8e62ac64-e401-420e-b331-c67a930d880d/relationships/field_event_type?resourceVersion=id%3A3205"
+        }
+      }
+    }
+  }
+}

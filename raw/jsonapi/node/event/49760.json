@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "791d2745-56c4-41aa-bbf7-a2ed57978adf",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/791d2745-56c4-41aa-bbf7-a2ed57978adf?resourceVersion=id%3A3531"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/791d2745-56c4-41aa-bbf7-a2ed57978adf?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49760,
+    "drupal_internal__vid": 3531,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Max Kalbeck",
+    "created": "2012-01-09T10:04:10+00:00",
+    "changed": "2012-01-09T10:05:08+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49760",
+      "pid": 1572,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 7. Mai 1921 vermerkt Bahr in seiner Kolumne \"Tagebuch\", dass es nun eineinhalb Jahre her seien, dass sein ehemaliger Theaterkritik-Kollege vom \"Neuen Wiener Tagblatt\" für einige Zeit - zumindest den Winter über -nach Salzburg zog.<blockquote>wir trafen uns täglich mittags am selben Tisch bei Steinlechner, dem alten Gasthof zu Parsch.</blockquote>",
+      "format": "full_html",
+      "processed": "Am 7. Mai 1921 vermerkt Bahr in seiner Kolumne \"Tagebuch\", dass es nun eineinhalb Jahre her seien, dass sein ehemaliger Theaterkritik-Kollege vom \"Neuen Wiener Tagblatt\" für einige Zeit - zumindest den Winter über -nach Salzburg zog.<blockquote>wir trafen uns täglich mittags am selben Tisch bei Steinlechner, dem alten Gasthof zu Parsch.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1919-10-07",
+      "end_value": "1919-10-07"
+    },
+    "field_sources": [
+      "Tagebuch. 7. Mai. In: Liebe der Lebenden, I, 153-159, hier 155.\r\n",
+      "(18 Monate zuvor, auf 7. Oktober 1919 datiert)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/791d2745-56c4-41aa-bbf7-a2ed57978adf/node_type?resourceVersion=id%3A3531"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/791d2745-56c4-41aa-bbf7-a2ed57978adf/relationships/node_type?resourceVersion=id%3A3531"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/791d2745-56c4-41aa-bbf7-a2ed57978adf/revision_uid?resourceVersion=id%3A3531"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/791d2745-56c4-41aa-bbf7-a2ed57978adf/relationships/revision_uid?resourceVersion=id%3A3531"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/791d2745-56c4-41aa-bbf7-a2ed57978adf/uid?resourceVersion=id%3A3531"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/791d2745-56c4-41aa-bbf7-a2ed57978adf/relationships/uid?resourceVersion=id%3A3531"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/791d2745-56c4-41aa-bbf7-a2ed57978adf/field_event_type?resourceVersion=id%3A3531"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/791d2745-56c4-41aa-bbf7-a2ed57978adf/relationships/field_event_type?resourceVersion=id%3A3531"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "type": "node--event",
+  "id": "828e274a-6afb-4ba7-a315-6f81757c9120",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/828e274a-6afb-4ba7-a315-6f81757c9120?resourceVersion=id%3A2942"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/828e274a-6afb-4ba7-a315-6f81757c9120?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44017,
+    "drupal_internal__vid": 2942,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Trennung von Rosa Bahr?",
+    "created": "2011-07-15T10:29:38+00:00",
+    "changed": "2011-10-24T11:14:52+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44017",
+      "pid": 915,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "In einem Notizheft notiert sich Bahr 1900:<blockquote>Rosa Bahr<br>VII Mariahilferstr. 44 [1]</blockquote>Das bezieht wohl auf die vollzogene räumliche Trennung der beiden. 1909, im Zusammenhang mit der Scheidung, wird Bahr von Redlich zitiert, dass er schon \"acht Jahre nicht mehr mit ihr lebt\".[2] Um den 1. [Oktober] heißt es dann:<blockquote>1 Sesserl geliehen an Mädi am 12. [10.] [3]</blockquote>Aber etwa bei seiner Blinddarmentzündung im Jänner 1904 ist sie Ansprechperson der Ärzte. [4] Und Anna Mildenburg wird in den ersten Jahren die ständige Präsenz Rosas negativ wahrnehmen.",
+      "format": "full_html",
+      "processed": "In einem Notizheft notiert sich Bahr 1900:<blockquote>Rosa Bahr<br>VII Mariahilferstr. 44 [1]</blockquote>Das bezieht wohl auf die vollzogene räumliche Trennung der beiden. 1909, im Zusammenhang mit der Scheidung, wird Bahr von Redlich zitiert, dass er schon \"acht Jahre nicht mehr mit ihr lebt\".[2] Um den 1. [Oktober] heißt es dann:<blockquote>1 Sesserl geliehen an Mädi am 12. [10.] [3]</blockquote>Aber etwa bei seiner Blinddarmentzündung im Jänner 1904 ist sie Ansprechperson der Ärzte. [4] Und Anna Mildenburg wird in den ersten Jahren die ständige Präsenz Rosas negativ wahrnehmen.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1900-09-01",
+      "end_value": "1900-09-01"
+    },
+    "field_sources": [
+      "[1] Tagebücher (Csàky), II, 473. (Hier aufgrund der vorhergehenden Notizen für die Reise zur Eröffnung des Schauspielhauses Hamburg (13.9.) mit 1.9.1900 datiert)",
+      "[2] Fritz Fellner und Doris A. Corradini (Hgg.): Schicksalsjahre Österreichs. Die Erinnerungen und Tagebücher Josef Redlichs 1869–1936. Wien: Böhlau 2011, I, 230.",
+      "[3] Tagebücher (Csàky), II, 479.",
+      "[4] Briefwechsel Hofmannsthal - Schnitzler (Hg. Nickl und H. Schnitzler), 181. Nach: Tagebücher (Csàky), III, XXVIII. "
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/828e274a-6afb-4ba7-a315-6f81757c9120/node_type?resourceVersion=id%3A2942"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/828e274a-6afb-4ba7-a315-6f81757c9120/relationships/node_type?resourceVersion=id%3A2942"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/828e274a-6afb-4ba7-a315-6f81757c9120/revision_uid?resourceVersion=id%3A2942"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/828e274a-6afb-4ba7-a315-6f81757c9120/relationships/revision_uid?resourceVersion=id%3A2942"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/828e274a-6afb-4ba7-a315-6f81757c9120/uid?resourceVersion=id%3A2942"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/828e274a-6afb-4ba7-a315-6f81757c9120/relationships/uid?resourceVersion=id%3A2942"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/828e274a-6afb-4ba7-a315-6f81757c9120/field_event_type?resourceVersion=id%3A2942"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/828e274a-6afb-4ba7-a315-6f81757c9120/relationships/field_event_type?resourceVersion=id%3A2942"
+        }
+      }
+    }
+  }
+}

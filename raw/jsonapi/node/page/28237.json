@@ -1,0 +1,90 @@
+{
+  "type": "node--page",
+  "id": "44ad6018-2609-4f56-b6b5-f1a95b022f28",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/page/44ad6018-2609-4f56-b6b5-f1a95b022f28?resourceVersion=id%3A4104"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/page/44ad6018-2609-4f56-b6b5-f1a95b022f28?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28237,
+    "drupal_internal__vid": 4104,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-27T13:27:50+00:00",
+    "status": true,
+    "title": "Bilder",
+    "created": "2010-11-09T11:54:06+00:00",
+    "changed": "2020-02-27T13:27:50+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/bilder",
+      "pid": 371,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<h3>Bilder, kostenfreie Verwendung</h3>\r\n\r\n<ul>\r\n\t<li>Die Bilder unserer Website</li>\r\n\t<li><a href=\"http://commons.wikimedia.org/wiki/Category:Hermann_Bahr\">Wikimedia Commons</a></li>\r\n</ul>\r\n\r\n<h3>Vorschaubilder, kostenpflichtige Verwertung</h3>\r\n\r\n<ul>\r\n\t<li>Fotografien aus dem Nachlass Bahrs im Vertrieb von <a href=\"http://www.gettyimages.com/Search/Search.aspx?contractUrl=2&amp;language=en-US&amp;family=editorial&amp;assetType=image&amp;p=%22hermann+bahr%22\">Getty-Images</a></li>\r\n\t<li><a href=\"https://www.theatermuseum.at/onlinesammlung/?rand=4&amp;id=11694&amp;L=0&amp;q%5B%5D=hermann+bahr&amp;view=0&amp;facet_date=1%3B2017&amp;sort=score%3Adesc\">Bilddatenbank</a> des Theatermuseums, Wien, mit Bildern aus dem Nachlass Bahrs</li>\r\n\t<li><a href=\"http://www.europeana.eu/portal/\">Europeana</a> mit Digitalisierungen verschiedener Provenienzen</li>\r\n\t<li>Im <a href=\"http://www.bildarchivaustria.at/\">Bildarchiv</a> der Österreichischen Nationalbibliothek u.a. die Schnellfotografie im Prater mit Beer-Hofmann, Schnitzler, Hofmannsthal.</li>\r\n\t<li>Oberösterreichische Landesbibliothek, eine <a href=\"http://digi.landesbibliothek.at/viewer/fullscreen/1104/7/\">Fotografie</a> in Konvolut</li>\r\n</ul>\r\n",
+      "format": "full_html",
+      "processed": "<h3>Bilder, kostenfreie Verwendung</h3>\n\n<ul>\n\t<li>Die Bilder unserer Website</li>\n\t<li><a href=\"http://commons.wikimedia.org/wiki/Category:Hermann_Bahr\">Wikimedia Commons</a></li>\n</ul>\n\n<h3>Vorschaubilder, kostenpflichtige Verwertung</h3>\n\n<ul>\n\t<li>Fotografien aus dem Nachlass Bahrs im Vertrieb von <a href=\"http://www.gettyimages.com/Search/Search.aspx?contractUrl=2&amp;language=en-US&amp;family=editorial&amp;assetType=image&amp;p=%22hermann+bahr%22\">Getty-Images</a></li>\n\t<li><a href=\"https://www.theatermuseum.at/onlinesammlung/?rand=4&amp;id=11694&amp;L=0&amp;q%5B%5D=hermann+bahr&amp;view=0&amp;facet_date=1%3B2017&amp;sort=score%3Adesc\">Bilddatenbank</a> des Theatermuseums, Wien, mit Bildern aus dem Nachlass Bahrs</li>\n\t<li><a href=\"http://www.europeana.eu/portal/\">Europeana</a> mit Digitalisierungen verschiedener Provenienzen</li>\n\t<li>Im <a href=\"http://www.bildarchivaustria.at/\">Bildarchiv</a> der Österreichischen Nationalbibliothek u.a. die Schnellfotografie im Prater mit Beer-Hofmann, Schnitzler, Hofmannsthal.</li>\n\t<li>Oberösterreichische Landesbibliothek, eine <a href=\"http://digi.landesbibliothek.at/viewer/fullscreen/1104/7/\">Fotografie</a> in Konvolut</li>\n</ul>\n",
+      "summary": ""
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "016d417b-5c75-4303-8420-18e221e9e269",
+        "meta": {
+          "drupal_internal__target_id": "page"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/44ad6018-2609-4f56-b6b5-f1a95b022f28/node_type?resourceVersion=id%3A4104"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/44ad6018-2609-4f56-b6b5-f1a95b022f28/relationships/node_type?resourceVersion=id%3A4104"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/44ad6018-2609-4f56-b6b5-f1a95b022f28/revision_uid?resourceVersion=id%3A4104"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/44ad6018-2609-4f56-b6b5-f1a95b022f28/relationships/revision_uid?resourceVersion=id%3A4104"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/44ad6018-2609-4f56-b6b5-f1a95b022f28/uid?resourceVersion=id%3A4104"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/44ad6018-2609-4f56-b6b5-f1a95b022f28/relationships/uid?resourceVersion=id%3A4104"
+        }
+      }
+    }
+  }
+}

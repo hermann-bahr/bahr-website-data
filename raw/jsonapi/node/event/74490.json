@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "e1af9055-5ded-41ac-b7e3-facd65737fbf",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/e1af9055-5ded-41ac-b7e3-facd65737fbf?resourceVersion=id%3A3801"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/e1af9055-5ded-41ac-b7e3-facd65737fbf?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74490,
+    "drupal_internal__vid": 3801,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Bad Gastein, Tölz",
+    "created": "2013-03-20T13:11:13+00:00",
+    "changed": "2013-03-20T13:11:13+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/74490",
+      "pid": 1864,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Auf die Frage, wo er den Sommer verbringen werde, antwortet Bahr am 7. Juni 1931:<blockquote>Voraussichtlich wieder in Badgastein und Tölz.</blockquote>",
+      "format": "full_html",
+      "processed": "Auf die Frage, wo er den Sommer verbringen werde, antwortet Bahr am 7. Juni 1931:<blockquote>Voraussichtlich wieder in Badgastein und Tölz.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1931-06-07",
+      "end_value": "1931-06-07"
+    },
+    "field_sources": [
+      "Wie verbringen Sie den Sommer? Eine Rundfrage des \"Neuen Wiener Journals\" an prominente Schriftsteller, Musiker und Bühnenkünstler. Neues Wiener Journal, 39 (1931) #13485, 9. (7.6.1931)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e1af9055-5ded-41ac-b7e3-facd65737fbf/node_type?resourceVersion=id%3A3801"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e1af9055-5ded-41ac-b7e3-facd65737fbf/relationships/node_type?resourceVersion=id%3A3801"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e1af9055-5ded-41ac-b7e3-facd65737fbf/revision_uid?resourceVersion=id%3A3801"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e1af9055-5ded-41ac-b7e3-facd65737fbf/relationships/revision_uid?resourceVersion=id%3A3801"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e1af9055-5ded-41ac-b7e3-facd65737fbf/uid?resourceVersion=id%3A3801"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e1af9055-5ded-41ac-b7e3-facd65737fbf/relationships/uid?resourceVersion=id%3A3801"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e1af9055-5ded-41ac-b7e3-facd65737fbf/field_event_type?resourceVersion=id%3A3801"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e1af9055-5ded-41ac-b7e3-facd65737fbf/relationships/field_event_type?resourceVersion=id%3A3801"
+        }
+      }
+    }
+  }
+}

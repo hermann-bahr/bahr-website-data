@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "714f4b59-4ada-48cc-976f-5618fd6a28e9",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/714f4b59-4ada-48cc-976f-5618fd6a28e9?resourceVersion=id%3A3723"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/714f4b59-4ada-48cc-976f-5618fd6a28e9?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74395,
+    "drupal_internal__vid": 3723,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Krank",
+    "created": "2012-10-22T19:17:31+00:00",
+    "changed": "2013-09-14T11:54:40+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/74395",
+      "pid": 1769,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 20. Mai 1899 berichtet Bahr Gerty Schlesinger, bereits seit zehn Tagen krank zu sein und <blockquote>den halben Tag mit Massiert- und Elektrisiertwerden und solchen schönen Sachen zubringen muß</blockquote>",
+      "format": "full_html",
+      "processed": "Am 20. Mai 1899 berichtet Bahr Gerty Schlesinger, bereits seit zehn Tagen krank zu sein und <blockquote>den halben Tag mit Massiert- und Elektrisiertwerden und solchen schönen Sachen zubringen muß</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1899-05-10",
+      "end_value": "1899-05-20"
+    },
+    "field_sources": [
+      "Briefwechsel Bahr/Hofmannsthal. Hg. Elsbeth Dangel-Pelloquin. Göttingen: Wallstein. (In Vorbereitung)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/714f4b59-4ada-48cc-976f-5618fd6a28e9/node_type?resourceVersion=id%3A3723"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/714f4b59-4ada-48cc-976f-5618fd6a28e9/relationships/node_type?resourceVersion=id%3A3723"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/714f4b59-4ada-48cc-976f-5618fd6a28e9/revision_uid?resourceVersion=id%3A3723"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/714f4b59-4ada-48cc-976f-5618fd6a28e9/relationships/revision_uid?resourceVersion=id%3A3723"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/714f4b59-4ada-48cc-976f-5618fd6a28e9/uid?resourceVersion=id%3A3723"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/714f4b59-4ada-48cc-976f-5618fd6a28e9/relationships/uid?resourceVersion=id%3A3723"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/714f4b59-4ada-48cc-976f-5618fd6a28e9/field_event_type?resourceVersion=id%3A3723"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/714f4b59-4ada-48cc-976f-5618fd6a28e9/relationships/field_event_type?resourceVersion=id%3A3723"
+        }
+      }
+    }
+  }
+}

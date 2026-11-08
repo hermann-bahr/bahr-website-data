@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "2296899f-1ac9-4228-8f8b-d08c3a38ccd7",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/2296899f-1ac9-4228-8f8b-d08c3a38ccd7?resourceVersion=id%3A2957"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/2296899f-1ac9-4228-8f8b-d08c3a38ccd7?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44037,
+    "drupal_internal__vid": 2957,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Großmutter mütterlicherseits †",
+    "created": "2011-08-30T10:40:00+00:00",
+    "changed": "2011-11-14T22:27:51+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44037",
+      "pid": 935,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Marie Weidlich, geb. Rosner, Bahrs Großmutter mütterlicherseits, stirbt am 27. Juli 1866. Geboren ist sie 1802. Ihr Ehemann, Franz Weidlich stirbt zwei Jahre später. Sie haben zwei Töchter, Marie, später mit Franz Mattanovich verheiratet, und Bahrs Mutter Wilhelmine.",
+      "format": "full_html",
+      "processed": "Marie Weidlich, geb. Rosner, Bahrs Großmutter mütterlicherseits, stirbt am 27. Juli 1866. Geboren ist sie 1802. Ihr Ehemann, Franz Weidlich stirbt zwei Jahre später. Sie haben zwei Töchter, Marie, später mit Franz Mattanovich verheiratet, und Bahrs Mutter Wilhelmine.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1866-07-27",
+      "end_value": "1866-07-27"
+    },
+    "field_sources": [
+      "Tagebücher (Csàky), III, 257.",
+      "Nachlass Mildenburg, Kiste Ariernachweis"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2296899f-1ac9-4228-8f8b-d08c3a38ccd7/node_type?resourceVersion=id%3A2957"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2296899f-1ac9-4228-8f8b-d08c3a38ccd7/relationships/node_type?resourceVersion=id%3A2957"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2296899f-1ac9-4228-8f8b-d08c3a38ccd7/revision_uid?resourceVersion=id%3A2957"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2296899f-1ac9-4228-8f8b-d08c3a38ccd7/relationships/revision_uid?resourceVersion=id%3A2957"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2296899f-1ac9-4228-8f8b-d08c3a38ccd7/uid?resourceVersion=id%3A2957"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2296899f-1ac9-4228-8f8b-d08c3a38ccd7/relationships/uid?resourceVersion=id%3A2957"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2296899f-1ac9-4228-8f8b-d08c3a38ccd7/field_event_type?resourceVersion=id%3A2957"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2296899f-1ac9-4228-8f8b-d08c3a38ccd7/relationships/field_event_type?resourceVersion=id%3A2957"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "69646063-80a3-46a2-8e0b-ba375db9c94c",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/69646063-80a3-46a2-8e0b-ba375db9c94c?resourceVersion=id%3A3542"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/69646063-80a3-46a2-8e0b-ba375db9c94c?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49771,
+    "drupal_internal__vid": 3542,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Idee für \"Konzert\"",
+    "created": "2012-01-12T14:34:37+00:00",
+    "changed": "2012-01-26T14:14:37+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49771",
+      "pid": 1583,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Im März 1909 will Bahr den Einfall für sein Lustspiel \"Das Konzert\" gehabt haben.[1] Das ist eine ungenaue Erinnerung, Bahr hat in den Jahren davor schon als der \"Schöne Mann\" einen ähnlichen Einfall kontempliert und zumindest im Februar 1909 geistert die Idee der \"Hütte\" durch sein Tagebuch.",
+      "format": "full_html",
+      "processed": "Im März 1909 will Bahr den Einfall für sein Lustspiel \"Das Konzert\" gehabt haben.[1] Das ist eine ungenaue Erinnerung, Bahr hat in den Jahren davor schon als der \"Schöne Mann\" einen ähnlichen Einfall kontempliert und zumindest im Februar 1909 geistert die Idee der \"Hütte\" durch sein Tagebuch.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1909-03-01",
+      "end_value": "1909-03-01"
+    },
+    "field_sources": [
+      "Liebe der Lebenden, II, 63. (2.3.1922)",
+      "Hermann Bahr: Aufzeichnungen 1909-1911. Ausgabe in Vorbereitung von Kurt Ifkovits\r\n",
+      "(Hier 1.3.1909)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/69646063-80a3-46a2-8e0b-ba375db9c94c/node_type?resourceVersion=id%3A3542"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/69646063-80a3-46a2-8e0b-ba375db9c94c/relationships/node_type?resourceVersion=id%3A3542"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/69646063-80a3-46a2-8e0b-ba375db9c94c/revision_uid?resourceVersion=id%3A3542"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/69646063-80a3-46a2-8e0b-ba375db9c94c/relationships/revision_uid?resourceVersion=id%3A3542"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/69646063-80a3-46a2-8e0b-ba375db9c94c/uid?resourceVersion=id%3A3542"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/69646063-80a3-46a2-8e0b-ba375db9c94c/relationships/uid?resourceVersion=id%3A3542"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/69646063-80a3-46a2-8e0b-ba375db9c94c/field_event_type?resourceVersion=id%3A3542"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/69646063-80a3-46a2-8e0b-ba375db9c94c/relationships/field_event_type?resourceVersion=id%3A3542"
+        }
+      }
+    }
+  }
+}

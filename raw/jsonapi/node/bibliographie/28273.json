@@ -1,0 +1,109 @@
+{
+  "type": "node--bibliographie",
+  "id": "3ed4f5f0-f3e1-4124-a654-a011a22d1d82",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/3ed4f5f0-f3e1-4124-a654-a011a22d1d82?resourceVersion=id%3A3820"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/3ed4f5f0-f3e1-4124-a654-a011a22d1d82?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28273,
+    "drupal_internal__vid": 3820,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:44:00+00:00",
+    "status": true,
+    "title": "Individualism och Socialism (1886)",
+    "created": "2010-11-24T14:22:29+00:00",
+    "changed": "2011-11-21T14:13:41+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/bibliografie/28273",
+      "pid": 405,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<h3 id=\"bib\">Bibliografie</h3>\r\n<table class=\"bibliografie\">\r\n<tr><td>Autor:</td><td>Hermann Bahr</td></tr>\r\n<tr><td>Titel:</td><td>Individualism och Socialism</td></tr>\r\n<tr><td> </td><td>En framställning af den socialistika verldsåskådningen i hennes förhallånde till den bestående. Bemindigad svensk öfversättning af G. F. S. (= G. F. Steffen)</td></tr>\r\n<tr><td>Ort:</td><td>Stockholm</td></tr>\r\n<tr><td>Verlag:</td><td>Carl Suneson</td></tr>\r\n<tr><td>Jahr:</td><td>1886</td></tr>\r\n<tr><td>Seiten:</td><td>31</td></tr>\r\n<tr><td>Anm.:</td><td>Am 4.7.1886 fragt Bahr seinen Vater brieflich an, ob dieser diese \"Broschüre\" schon erhalten habe. Es handelt sich um einen Auszug aus \"Die Einsichtslosigkeit des Herrn Schäffle\".</td></tr></table>",
+      "format": "full_html",
+      "processed": "<h3 id=\"bib\">Bibliografie</h3>\n<table class=\"bibliografie\">\n<tr><td>Autor:</td><td>Hermann Bahr</td></tr>\n<tr><td>Titel:</td><td>Individualism och Socialism</td></tr>\n<tr><td> </td><td>En framställning af den socialistika verldsåskådningen i hennes förhallånde till den bestående. Bemindigad svensk öfversättning af G. F. S. (= G. F. Steffen)</td></tr>\n<tr><td>Ort:</td><td>Stockholm</td></tr>\n<tr><td>Verlag:</td><td>Carl Suneson</td></tr>\n<tr><td>Jahr:</td><td>1886</td></tr>\n<tr><td>Seiten:</td><td>31</td></tr>\n<tr><td>Anm.:</td><td>Am 4.7.1886 fragt Bahr seinen Vater brieflich an, ob dieser diese \"Broschüre\" schon erhalten habe. Es handelt sich um einen Auszug aus \"Die Einsichtslosigkeit des Herrn Schäffle\".</td></tr></table>",
+      "summary": null
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "c4d97a7b-20a3-4a00-9858-72c5abf35af3",
+        "meta": {
+          "drupal_internal__target_id": "bibliographie"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/3ed4f5f0-f3e1-4124-a654-a011a22d1d82/node_type?resourceVersion=id%3A3820"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/3ed4f5f0-f3e1-4124-a654-a011a22d1d82/relationships/node_type?resourceVersion=id%3A3820"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/3ed4f5f0-f3e1-4124-a654-a011a22d1d82/revision_uid?resourceVersion=id%3A3820"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/3ed4f5f0-f3e1-4124-a654-a011a22d1d82/relationships/revision_uid?resourceVersion=id%3A3820"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/3ed4f5f0-f3e1-4124-a654-a011a22d1d82/uid?resourceVersion=id%3A3820"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/3ed4f5f0-f3e1-4124-a654-a011a22d1d82/relationships/uid?resourceVersion=id%3A3820"
+        }
+      }
+    },
+    "field_bibliographie_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--bibliografie_type",
+          "id": "7918c4ca-8976-4b38-be44-298fcc23a3ab",
+          "meta": {
+            "drupal_internal__target_id": 10
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/3ed4f5f0-f3e1-4124-a654-a011a22d1d82/field_bibliographie_type?resourceVersion=id%3A3820"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/3ed4f5f0-f3e1-4124-a654-a011a22d1d82/relationships/field_bibliographie_type?resourceVersion=id%3A3820"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "type": "node--page",
+  "id": "b3aba9e2-4155-47e7-9d61-63ed8627cd15",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/page/b3aba9e2-4155-47e7-9d61-63ed8627cd15?resourceVersion=id%3A4026"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/page/b3aba9e2-4155-47e7-9d61-63ed8627cd15?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 3080,
+    "drupal_internal__vid": 4026,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T17:01:03+00:00",
+    "status": true,
+    "title": "Texte",
+    "created": "2009-12-22T17:43:10+00:00",
+    "changed": "2009-12-22T17:43:31+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/texte",
+      "pid": 4,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Hierher kommen Ordner. Und damit die nicht ungefüllt in der Internetlandschaft stehen, kommen PDFs mit Scans rein. Für den Zusammenhalt sorgt dabei, dass es Bahrs Texte sein werden.",
+      "format": "full_html",
+      "processed": "Hierher kommen Ordner. Und damit die nicht ungefüllt in der Internetlandschaft stehen, kommen PDFs mit Scans rein. Für den Zusammenhalt sorgt dabei, dass es Bahrs Texte sein werden.",
+      "summary": null
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "016d417b-5c75-4303-8420-18e221e9e269",
+        "meta": {
+          "drupal_internal__target_id": "page"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/b3aba9e2-4155-47e7-9d61-63ed8627cd15/node_type?resourceVersion=id%3A4026"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/b3aba9e2-4155-47e7-9d61-63ed8627cd15/relationships/node_type?resourceVersion=id%3A4026"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/b3aba9e2-4155-47e7-9d61-63ed8627cd15/revision_uid?resourceVersion=id%3A4026"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/b3aba9e2-4155-47e7-9d61-63ed8627cd15/relationships/revision_uid?resourceVersion=id%3A4026"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/b3aba9e2-4155-47e7-9d61-63ed8627cd15/uid?resourceVersion=id%3A4026"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/b3aba9e2-4155-47e7-9d61-63ed8627cd15/relationships/uid?resourceVersion=id%3A4026"
+        }
+      }
+    }
+  }
+}

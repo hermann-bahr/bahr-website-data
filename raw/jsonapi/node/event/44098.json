@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "bef0b9a3-9909-4b0c-99b4-117d3b0a8ec1",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/bef0b9a3-9909-4b0c-99b4-117d3b0a8ec1?resourceVersion=id%3A3015"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/bef0b9a3-9909-4b0c-99b4-117d3b0a8ec1?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44098,
+    "drupal_internal__vid": 3015,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "\"Sanna\" in Wien",
+    "created": "2011-09-12T13:49:16+00:00",
+    "changed": "2011-09-15T09:28:34+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44098",
+      "pid": 993,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<blockquote>Zu der Première von Hermann Bahrs \"Sanna\", welche für Montag den 5. d. M. im Theater an der Wien angesetzt ist, finden täglich unter der Leitung Max Reinhar[d]ts Proben statt, an denen der Autor Hermann Bahr teilnimmt. Hans Pagay ist aus Berlin eingetroffen, um die von ihm kreiierte Rolle des Hofrates in Bahrs Schauspiel darzustellen.</blockquote>Zur Première in Wien geht Bahr nicht:<blockquote>Am 5. meine Sanna starken Erfolg. Ich nicht in der Vorstellung, Ekel vor den Wienern zu groß;</blockquote>Am 8. schaut er die Inszenierung an.\r\n",
+      "format": "full_html",
+      "processed": "<blockquote>Zu der Première von Hermann Bahrs \"Sanna\", welche für Montag den 5. d. M. im Theater an der Wien angesetzt ist, finden täglich unter der Leitung Max Reinhar[d]ts Proben statt, an denen der Autor Hermann Bahr teilnimmt. Hans Pagay ist aus Berlin eingetroffen, um die von ihm kreiierte Rolle des Hofrates in Bahrs Schauspiel darzustellen.</blockquote>Zur Première in Wien geht Bahr nicht:<blockquote>Am 5. meine Sanna starken Erfolg. Ich nicht in der Vorstellung, Ekel vor den Wienern zu groß;</blockquote>Am 8. schaut er die Inszenierung an.\n",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1905-06-03",
+      "end_value": "1905-06-05"
+    },
+    "field_sources": [
+      "Österreichichische Volks-Zeitung, 51 (1905) #152, 6. (3.6.1905)",
+      "Tagebücher (Csàky), IV, 422."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bef0b9a3-9909-4b0c-99b4-117d3b0a8ec1/node_type?resourceVersion=id%3A3015"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bef0b9a3-9909-4b0c-99b4-117d3b0a8ec1/relationships/node_type?resourceVersion=id%3A3015"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bef0b9a3-9909-4b0c-99b4-117d3b0a8ec1/revision_uid?resourceVersion=id%3A3015"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bef0b9a3-9909-4b0c-99b4-117d3b0a8ec1/relationships/revision_uid?resourceVersion=id%3A3015"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bef0b9a3-9909-4b0c-99b4-117d3b0a8ec1/uid?resourceVersion=id%3A3015"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bef0b9a3-9909-4b0c-99b4-117d3b0a8ec1/relationships/uid?resourceVersion=id%3A3015"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bef0b9a3-9909-4b0c-99b4-117d3b0a8ec1/field_event_type?resourceVersion=id%3A3015"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bef0b9a3-9909-4b0c-99b4-117d3b0a8ec1/relationships/field_event_type?resourceVersion=id%3A3015"
+        }
+      }
+    }
+  }
+}

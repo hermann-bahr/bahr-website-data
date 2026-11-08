@@ -1,0 +1,109 @@
+{
+  "type": "node--bibliographie",
+  "id": "a6a9f760-6a3a-47b6-99d9-e48675a95249",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/a6a9f760-6a3a-47b6-99d9-e48675a95249?resourceVersion=id%3A3938"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/a6a9f760-6a3a-47b6-99d9-e48675a95249?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49684,
+    "drupal_internal__vid": 3938,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:44:00+00:00",
+    "status": true,
+    "title": "Aus der Vorstadt (1893)",
+    "created": "2011-11-23T13:50:55+00:00",
+    "changed": "2011-11-23T13:50:55+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/bibliografie/49684",
+      "pid": 1499,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<h3 id=\"bib\">Bibliografie</h3>\r\n<table class=\"bibliografie\">\r\n<tr><td>Autor:</td><td>Hermann Bahr and Carl Karlweis</td></tr>\r\n<tr><td>Titel:</td><td>Aus der Vorstadt</td></tr>\r\n<tr><td> </td><td>Volksstück in drei Akten von Hermann Bahr und Carl Karlweis</td></tr>\r\n<tr><td>Ort:</td><td>Wien </td></tr>\r\n<tr><td>Verlag:</td><td>C. Konegen</td></tr>\r\n<tr><td>Jahr:</td><td>1893</td></tr>\r\n<tr><td>Seiten:</td><td>?</td>\r\n\r\n\r\n<tr><td>Anm.:</td><td>Thomasberger vermerkt, dass ihm kein Nachweis des Drucks geglückt ist; das trifft auch gegenwärtig zu.</td></tr>\r\n</table>\r\n<h3 id=\"auff\">Inszenierungen</h3>11.3.1893 Deutsches Volkstheater, Wien, mit Musik von Franz Roth\r\n\r\n<h3 id=\"rezens\">Rezensionen</h3>\r\n\r\n<p>Karl Kraus: Wiener Theater. In: Das Magazin für Litteratur, 62 (1893) #13, 209. (1.4.1893)</p>",
+      "format": "full_html",
+      "processed": "<h3 id=\"bib\">Bibliografie</h3>\n<table class=\"bibliografie\">\n<tr><td>Autor:</td><td>Hermann Bahr and Carl Karlweis</td></tr>\n<tr><td>Titel:</td><td>Aus der Vorstadt</td></tr>\n<tr><td> </td><td>Volksstück in drei Akten von Hermann Bahr und Carl Karlweis</td></tr>\n<tr><td>Ort:</td><td>Wien </td></tr>\n<tr><td>Verlag:</td><td>C. Konegen</td></tr>\n<tr><td>Jahr:</td><td>1893</td></tr>\n<tr><td>Seiten:</td><td>?</td>\n\n\n</tr><tr><td>Anm.:</td><td>Thomasberger vermerkt, dass ihm kein Nachweis des Drucks geglückt ist; das trifft auch gegenwärtig zu.</td></tr>\n</table>\n<h3 id=\"auff\">Inszenierungen</h3>11.3.1893 Deutsches Volkstheater, Wien, mit Musik von Franz Roth\n\n<h3 id=\"rezens\">Rezensionen</h3>\n\n<p>Karl Kraus: Wiener Theater. In: Das Magazin für Litteratur, 62 (1893) #13, 209. (1.4.1893)</p>",
+      "summary": null
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "c4d97a7b-20a3-4a00-9858-72c5abf35af3",
+        "meta": {
+          "drupal_internal__target_id": "bibliographie"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/a6a9f760-6a3a-47b6-99d9-e48675a95249/node_type?resourceVersion=id%3A3938"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/a6a9f760-6a3a-47b6-99d9-e48675a95249/relationships/node_type?resourceVersion=id%3A3938"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/a6a9f760-6a3a-47b6-99d9-e48675a95249/revision_uid?resourceVersion=id%3A3938"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/a6a9f760-6a3a-47b6-99d9-e48675a95249/relationships/revision_uid?resourceVersion=id%3A3938"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/a6a9f760-6a3a-47b6-99d9-e48675a95249/uid?resourceVersion=id%3A3938"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/a6a9f760-6a3a-47b6-99d9-e48675a95249/relationships/uid?resourceVersion=id%3A3938"
+        }
+      }
+    },
+    "field_bibliographie_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--bibliografie_type",
+          "id": "2729bfe4-73cf-46a1-8929-a36c1cba2af6",
+          "meta": {
+            "drupal_internal__target_id": 13
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/a6a9f760-6a3a-47b6-99d9-e48675a95249/field_bibliographie_type?resourceVersion=id%3A3938"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/a6a9f760-6a3a-47b6-99d9-e48675a95249/relationships/field_bibliographie_type?resourceVersion=id%3A3938"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "type": "node--event",
+  "id": "f26daaa4-f674-45c5-878d-45678ed93d64",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f26daaa4-f674-45c5-878d-45678ed93d64?resourceVersion=id%3A2485"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f26daaa4-f674-45c5-878d-45678ed93d64?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28176,
+    "drupal_internal__vid": 2485,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Linzer Sonntagsblatt",
+    "created": "2010-09-02T08:27:19+00:00",
+    "changed": "2011-01-19T17:54:43+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28176",
+      "pid": 322,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Vom 24. September 1882 bis zum 2. September des Folgejahres sind Beiträge Bahrs für das \"Linzer Sonntagsblatt\" nachweisbar. Neben seinen Initialen \"H. B.\" benützte Bahr vor allem das Pseudonym \"Kieselak\" um aus deutschnationaler Sicht den Liberalen in Linz, zu deren Proponenten sein Vater gehörte, zuzusetzen. Werden in Folge des Skandals um den Wagner-Kommers (und ein vom Vater erlassenes Schreibverbot) seine Text weniger, hören sie mit der Übersiedlung nach Czernowitz völlig auf. Interessanterweise taucht dafür sein Vater, in den Finanzausschuss des Landtags gewählt, immer öfter in der Berichterstattung auf. \r\nDass der wenige Jahre später als \"Judenfreund\" bei Burschenschaftern verrufene Bahr anders konnte, beweist er vor allem in der Kolumne \"Freie Gedanken\", die viele Register zieht, um Antisemitismus zu rechtfertigen.\r\nEinen kurzen, geglätteten Bericht gibt Bahr im \"Tagebuch\" vom 1. März 1924 (Zauberstab, 52-53).",
+      "format": "full_html",
+      "processed": "Vom 24. September 1882 bis zum 2. September des Folgejahres sind Beiträge Bahrs für das \"Linzer Sonntagsblatt\" nachweisbar. Neben seinen Initialen \"H. B.\" benützte Bahr vor allem das Pseudonym \"Kieselak\" um aus deutschnationaler Sicht den Liberalen in Linz, zu deren Proponenten sein Vater gehörte, zuzusetzen. Werden in Folge des Skandals um den Wagner-Kommers (und ein vom Vater erlassenes Schreibverbot) seine Text weniger, hören sie mit der Übersiedlung nach Czernowitz völlig auf. Interessanterweise taucht dafür sein Vater, in den Finanzausschuss des Landtags gewählt, immer öfter in der Berichterstattung auf. \nDass der wenige Jahre später als \"Judenfreund\" bei Burschenschaftern verrufene Bahr anders konnte, beweist er vor allem in der Kolumne \"Freie Gedanken\", die viele Register zieht, um Antisemitismus zu rechtfertigen.\nEinen kurzen, geglätteten Bericht gibt Bahr im \"Tagebuch\" vom 1. März 1924 (Zauberstab, 52-53).",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1882-09-24",
+      "end_value": "1883-09-02"
+    },
+    "field_sources": []
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f26daaa4-f674-45c5-878d-45678ed93d64/node_type?resourceVersion=id%3A2485"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f26daaa4-f674-45c5-878d-45678ed93d64/relationships/node_type?resourceVersion=id%3A2485"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f26daaa4-f674-45c5-878d-45678ed93d64/revision_uid?resourceVersion=id%3A2485"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f26daaa4-f674-45c5-878d-45678ed93d64/relationships/revision_uid?resourceVersion=id%3A2485"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f26daaa4-f674-45c5-878d-45678ed93d64/uid?resourceVersion=id%3A2485"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f26daaa4-f674-45c5-878d-45678ed93d64/relationships/uid?resourceVersion=id%3A2485"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "d579e54c-64dd-4193-a9ef-da87efb3ed16",
+          "meta": {
+            "drupal_internal__target_id": 8
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f26daaa4-f674-45c5-878d-45678ed93d64/field_event_type?resourceVersion=id%3A2485"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f26daaa4-f674-45c5-878d-45678ed93d64/relationships/field_event_type?resourceVersion=id%3A2485"
+        }
+      }
+    }
+  }
+}

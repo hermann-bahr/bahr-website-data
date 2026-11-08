@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "d46578f0-222e-4ee6-8b73-57548320256c",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/d46578f0-222e-4ee6-8b73-57548320256c?resourceVersion=id%3A2229"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/d46578f0-222e-4ee6-8b73-57548320256c?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27878,
+    "drupal_internal__vid": 2229,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Secessionisten",
+    "created": "2010-06-21T14:10:07+00:00",
+    "changed": "2011-07-13T15:55:55+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/27878",
+      "pid": 62,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Im Mai 1897 lösten sich die \"Secessionisten\" vom Künstlerhaus. Aus Anlass der ersten Ausstellungseröffnung blickt Bahr in einem Brief an seinen Vater  auf seinen Anteil an dem Auszug zurück: <blockquote>als ich vor einem Jahre die jungen Maler aus der Genossenschaft hinaus hetzte, hieß ich in ganz Wien ein Narr und wie diese Ausstellung angekündigt wurde, hofften meine Feinde, dass ich mich damit einmal gründlich blamieren würde.</blockquote> Im Herbst intensivierte Bahr seine Beratertätigkeit, die auch durch seinen programmatischen Einfluss in \"Ver Sacrum\" Ausdruck fand. ",
+      "format": "full_html",
+      "processed": "Im Mai 1897 lösten sich die \"Secessionisten\" vom Künstlerhaus. Aus Anlass der ersten Ausstellungseröffnung blickt Bahr in einem Brief an seinen Vater  auf seinen Anteil an dem Auszug zurück: <blockquote>als ich vor einem Jahre die jungen Maler aus der Genossenschaft hinaus hetzte, hieß ich in ganz Wien ein Narr und wie diese Ausstellung angekündigt wurde, hofften meine Feinde, dass ich mich damit einmal gründlich blamieren würde.</blockquote> Im Herbst intensivierte Bahr seine Beratertätigkeit, die auch durch seinen programmatischen Einfluss in \"Ver Sacrum\" Ausdruck fand. ",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1897-05-01",
+      "end_value": "1897-05-01"
+    },
+    "field_sources": [
+      "Vgl. Hermann Bahr: Unsere Secession. Die Zeit, 11 (1897) #139, 139-140. (29.5.1897) Buchausgabe: Secession, 6-10.",
+      "Brief an den Vater, 5.4.1898"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d46578f0-222e-4ee6-8b73-57548320256c/node_type?resourceVersion=id%3A2229"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d46578f0-222e-4ee6-8b73-57548320256c/relationships/node_type?resourceVersion=id%3A2229"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d46578f0-222e-4ee6-8b73-57548320256c/revision_uid?resourceVersion=id%3A2229"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d46578f0-222e-4ee6-8b73-57548320256c/relationships/revision_uid?resourceVersion=id%3A2229"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d46578f0-222e-4ee6-8b73-57548320256c/uid?resourceVersion=id%3A2229"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d46578f0-222e-4ee6-8b73-57548320256c/relationships/uid?resourceVersion=id%3A2229"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d46578f0-222e-4ee6-8b73-57548320256c/field_event_type?resourceVersion=id%3A2229"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d46578f0-222e-4ee6-8b73-57548320256c/relationships/field_event_type?resourceVersion=id%3A2229"
+        }
+      }
+    }
+  }
+}

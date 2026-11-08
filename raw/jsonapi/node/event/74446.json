@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "8ca24e5e-114d-439c-8579-1ae2f2293f84",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/8ca24e5e-114d-439c-8579-1ae2f2293f84?resourceVersion=id%3A3764"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/8ca24e5e-114d-439c-8579-1ae2f2293f84?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74446,
+    "drupal_internal__vid": 3764,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Honorar N.W.J.",
+    "created": "2012-11-29T16:12:29+00:00",
+    "changed": "2012-11-29T16:12:29+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/74446",
+      "pid": 1820,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Für den 7. November 1918 notiert sich Schnitzler in sein Tagebuch:<blockquote>Lippowitz N.W.J. will wöchentliche tagebuchartige Beiträge;- zahlt für Vorabdruck und Verlagsrecht auf 3 Jahre sofort 60.000.- Nein.-</blockquote>Wenngleich Schnitzler betreffend, dürfte das Angebot durchaus in Referenz zu dem bestehenden Vertrag mit Bahr gebildet sein.",
+      "format": "full_html",
+      "processed": "Für den 7. November 1918 notiert sich Schnitzler in sein Tagebuch:<blockquote>Lippowitz N.W.J. will wöchentliche tagebuchartige Beiträge;- zahlt für Vorabdruck und Verlagsrecht auf 3 Jahre sofort 60.000.- Nein.-</blockquote>Wenngleich Schnitzler betreffend, dürfte das Angebot durchaus in Referenz zu dem bestehenden Vertrag mit Bahr gebildet sein.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1918-12-07",
+      "end_value": "1918-12-07"
+    },
+    "field_sources": [
+      "Schnitzler: Tagebücher, VI, 207."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8ca24e5e-114d-439c-8579-1ae2f2293f84/node_type?resourceVersion=id%3A3764"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8ca24e5e-114d-439c-8579-1ae2f2293f84/relationships/node_type?resourceVersion=id%3A3764"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8ca24e5e-114d-439c-8579-1ae2f2293f84/revision_uid?resourceVersion=id%3A3764"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8ca24e5e-114d-439c-8579-1ae2f2293f84/relationships/revision_uid?resourceVersion=id%3A3764"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8ca24e5e-114d-439c-8579-1ae2f2293f84/uid?resourceVersion=id%3A3764"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8ca24e5e-114d-439c-8579-1ae2f2293f84/relationships/uid?resourceVersion=id%3A3764"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "b7b074bd-6489-4a96-84e9-9c8184cda171",
+          "meta": {
+            "drupal_internal__target_id": 7
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8ca24e5e-114d-439c-8579-1ae2f2293f84/field_event_type?resourceVersion=id%3A3764"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8ca24e5e-114d-439c-8579-1ae2f2293f84/relationships/field_event_type?resourceVersion=id%3A3764"
+        }
+      }
+    }
+  }
+}

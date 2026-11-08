@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "2d0d64e8-3c45-4c2a-82dd-1ea6b3ab5de6",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/2d0d64e8-3c45-4c2a-82dd-1ea6b3ab5de6?resourceVersion=id%3A2819"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/2d0d64e8-3c45-4c2a-82dd-1ea6b3ab5de6?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39044,
+    "drupal_internal__vid": 2819,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Deutschland und Österreich",
+    "created": "2011-04-13T14:43:59+00:00",
+    "changed": "2011-07-11T14:29:28+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39044",
+      "pid": 776,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 15. Februar 1916 hält Bahr im Hotel zu den \"Vier Jahreszeiten\" in München einen Vortrag über \"Deutschland und Österreich\". In Buchform erschien er auf den Seiten 9-29 von \"Schwarzgelb\".",
+      "format": "full_html",
+      "processed": "Am 15. Februar 1916 hält Bahr im Hotel zu den \"Vier Jahreszeiten\" in München einen Vortrag über \"Deutschland und Österreich\". In Buchform erschien er auf den Seiten 9-29 von \"Schwarzgelb\".",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1916-02-15",
+      "end_value": "1916-02-15"
+    },
+    "field_sources": [
+      "Ein Vortrag Hermann Bahrs in München. Über Deutschland und Österreich. Neues Wiener Journal, 24 (1916) #8018, 6-7. (25.2.1916)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2d0d64e8-3c45-4c2a-82dd-1ea6b3ab5de6/node_type?resourceVersion=id%3A2819"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2d0d64e8-3c45-4c2a-82dd-1ea6b3ab5de6/relationships/node_type?resourceVersion=id%3A2819"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2d0d64e8-3c45-4c2a-82dd-1ea6b3ab5de6/revision_uid?resourceVersion=id%3A2819"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2d0d64e8-3c45-4c2a-82dd-1ea6b3ab5de6/relationships/revision_uid?resourceVersion=id%3A2819"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2d0d64e8-3c45-4c2a-82dd-1ea6b3ab5de6/uid?resourceVersion=id%3A2819"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2d0d64e8-3c45-4c2a-82dd-1ea6b3ab5de6/relationships/uid?resourceVersion=id%3A2819"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2d0d64e8-3c45-4c2a-82dd-1ea6b3ab5de6/field_event_type?resourceVersion=id%3A2819"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2d0d64e8-3c45-4c2a-82dd-1ea6b3ab5de6/relationships/field_event_type?resourceVersion=id%3A2819"
+        }
+      }
+    }
+  }
+}

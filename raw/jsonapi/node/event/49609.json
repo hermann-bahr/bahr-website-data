@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "e937e8ad-92e7-46ea-8f5f-993ef63f2e94",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/e937e8ad-92e7-46ea-8f5f-993ef63f2e94?resourceVersion=id%3A3435"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/e937e8ad-92e7-46ea-8f5f-993ef63f2e94?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49609,
+    "drupal_internal__vid": 3435,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Lemberg, Krakau",
+    "created": "2011-11-16T12:17:59+00:00",
+    "changed": "2013-03-12T11:26:03+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49609",
+      "pid": 1425,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Die Heimreise aus Czernowitz  Anfang März 1884 läuft über Lemberg und Krakau.",
+      "format": "full_html",
+      "processed": "Die Heimreise aus Czernowitz  Anfang März 1884 läuft über Lemberg und Krakau.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1884-03-03",
+      "end_value": "1884-03-03"
+    },
+    "field_sources": [
+      "Selbstbildnis, 165"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e937e8ad-92e7-46ea-8f5f-993ef63f2e94/node_type?resourceVersion=id%3A3435"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e937e8ad-92e7-46ea-8f5f-993ef63f2e94/relationships/node_type?resourceVersion=id%3A3435"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e937e8ad-92e7-46ea-8f5f-993ef63f2e94/revision_uid?resourceVersion=id%3A3435"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e937e8ad-92e7-46ea-8f5f-993ef63f2e94/relationships/revision_uid?resourceVersion=id%3A3435"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e937e8ad-92e7-46ea-8f5f-993ef63f2e94/uid?resourceVersion=id%3A3435"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e937e8ad-92e7-46ea-8f5f-993ef63f2e94/relationships/uid?resourceVersion=id%3A3435"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e937e8ad-92e7-46ea-8f5f-993ef63f2e94/field_event_type?resourceVersion=id%3A3435"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e937e8ad-92e7-46ea-8f5f-993ef63f2e94/relationships/field_event_type?resourceVersion=id%3A3435"
+        }
+      }
+    }
+  }
+}

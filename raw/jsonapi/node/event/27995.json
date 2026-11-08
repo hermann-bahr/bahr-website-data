@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "5e8a4518-fd02-4881-840e-9968e98334ae",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/5e8a4518-fd02-4881-840e-9968e98334ae?resourceVersion=id%3A2328"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/5e8a4518-fd02-4881-840e-9968e98334ae?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27995,
+    "drupal_internal__vid": 2328,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Salesianergasse 12",
+    "created": "2010-07-27T14:22:04+00:00",
+    "changed": "2011-11-21T10:30:22+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/27995",
+      "pid": 162,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Seit November 1892 bis zum 7. Mai 1894 bewohnt Bahr eine Wohnung in der Salesianergasse 12, im dritten Wiener Gemeindebezirk. Im selben Haus wohnt zu der Zeit auch die Familie Hofmannsthal, über die auch die Vermittlung gelaufen ist. An seinen Vater schreibt er:<blockquote>Ich wohne jetzt III Salesianergasse 12, ein riesig nettes, sehr aristokratisches Haus, ein grosses Zimmer u. daneben ein kleines Schlafzimmer, auf die sehr ruhige Gasse hinaus, hell u. still - der Kammerdiener eines Grafen, dem die Wohnung gehört, ist nie zu Haus. Die Bedienung besorgt die Hausmeisterin. Im selben Hause wohnen Hofmannsthals, mit denen ich befreundet bin.</blockquote>\r\nLehmanns Adressbuch von Wien, 1894, II, 29 (gedruckt August 1893) enthält die neue Adresse:<blockquote>Bahr Hermann, Red. d. \"Deutschen Zeitung\", III. Salesianerg. 12.</blockquote>",
+      "format": "full_html",
+      "processed": "Seit November 1892 bis zum 7. Mai 1894 bewohnt Bahr eine Wohnung in der Salesianergasse 12, im dritten Wiener Gemeindebezirk. Im selben Haus wohnt zu der Zeit auch die Familie Hofmannsthal, über die auch die Vermittlung gelaufen ist. An seinen Vater schreibt er:<blockquote>Ich wohne jetzt III Salesianergasse 12, ein riesig nettes, sehr aristokratisches Haus, ein grosses Zimmer u. daneben ein kleines Schlafzimmer, auf die sehr ruhige Gasse hinaus, hell u. still - der Kammerdiener eines Grafen, dem die Wohnung gehört, ist nie zu Haus. Die Bedienung besorgt die Hausmeisterin. Im selben Hause wohnen Hofmannsthals, mit denen ich befreundet bin.</blockquote>\nLehmanns Adressbuch von Wien, 1894, II, 29 (gedruckt August 1893) enthält die neue Adresse:<blockquote>Bahr Hermann, Red. d. \"Deutschen Zeitung\", III. Salesianerg. 12.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1892-11-01",
+      "end_value": "1892-11-01"
+    },
+    "field_sources": [
+      "Brief an den Vater, 333. (3. November 1892)",
+      "Vgl. auch Selbstbildnis, 283."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5e8a4518-fd02-4881-840e-9968e98334ae/node_type?resourceVersion=id%3A2328"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5e8a4518-fd02-4881-840e-9968e98334ae/relationships/node_type?resourceVersion=id%3A2328"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5e8a4518-fd02-4881-840e-9968e98334ae/revision_uid?resourceVersion=id%3A2328"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5e8a4518-fd02-4881-840e-9968e98334ae/relationships/revision_uid?resourceVersion=id%3A2328"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5e8a4518-fd02-4881-840e-9968e98334ae/uid?resourceVersion=id%3A2328"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5e8a4518-fd02-4881-840e-9968e98334ae/relationships/uid?resourceVersion=id%3A2328"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5e8a4518-fd02-4881-840e-9968e98334ae/field_event_type?resourceVersion=id%3A2328"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5e8a4518-fd02-4881-840e-9968e98334ae/relationships/field_event_type?resourceVersion=id%3A2328"
+        }
+      }
+    }
+  }
+}

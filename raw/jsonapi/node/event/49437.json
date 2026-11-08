@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "6111763f-c373-4a9e-83b1-c70fbd4642a4",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/6111763f-c373-4a9e-83b1-c70fbd4642a4?resourceVersion=id%3A3280"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/6111763f-c373-4a9e-83b1-c70fbd4642a4?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49437,
+    "drupal_internal__vid": 3280,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Zahnschmerzen",
+    "created": "2011-10-19T14:38:23+00:00",
+    "changed": "2011-10-19T14:48:26+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49437",
+      "pid": 1261,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bei seinem Aufenthalt in München um den 10. März 1920 bekommt Bahrs Zahnschmerzen, die verhindern, dass er nach Beuron weiterreist. Stattdessen liegt er noch am 26. März im Bett, am 26. April hat er immer noch die letzten Wochen vorwiegend beim Zahnarzt verbracht.",
+      "format": "full_html",
+      "processed": "Bei seinem Aufenthalt in München um den 10. März 1920 bekommt Bahrs Zahnschmerzen, die verhindern, dass er nach Beuron weiterreist. Stattdessen liegt er noch am 26. März im Bett, am 26. April hat er immer noch die letzten Wochen vorwiegend beim Zahnarzt verbracht.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1920-03-10",
+      "end_value": "1920-04-26"
+    },
+    "field_sources": [
+      "Bahr/Redlich, 402-405."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6111763f-c373-4a9e-83b1-c70fbd4642a4/node_type?resourceVersion=id%3A3280"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6111763f-c373-4a9e-83b1-c70fbd4642a4/relationships/node_type?resourceVersion=id%3A3280"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6111763f-c373-4a9e-83b1-c70fbd4642a4/revision_uid?resourceVersion=id%3A3280"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6111763f-c373-4a9e-83b1-c70fbd4642a4/relationships/revision_uid?resourceVersion=id%3A3280"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6111763f-c373-4a9e-83b1-c70fbd4642a4/uid?resourceVersion=id%3A3280"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6111763f-c373-4a9e-83b1-c70fbd4642a4/relationships/uid?resourceVersion=id%3A3280"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6111763f-c373-4a9e-83b1-c70fbd4642a4/field_event_type?resourceVersion=id%3A3280"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6111763f-c373-4a9e-83b1-c70fbd4642a4/relationships/field_event_type?resourceVersion=id%3A3280"
+        }
+      }
+    }
+  }
+}

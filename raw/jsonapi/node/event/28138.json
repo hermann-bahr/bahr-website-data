@@ -1,0 +1,114 @@
+{
+  "type": "node--event",
+  "id": "70a5a63b-0075-41c3-91d6-1526e8af09cb",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/70a5a63b-0075-41c3-91d6-1526e8af09cb?resourceVersion=id%3A2456"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/70a5a63b-0075-41c3-91d6-1526e8af09cb?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28138,
+    "drupal_internal__vid": 2456,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Liliencron-Feier",
+    "created": "2010-08-24T11:36:37+00:00",
+    "changed": "2010-08-24T11:36:37+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28138",
+      "pid": 292,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 24.10.1909 tritt Hermann Bahr auf der Freien Volksbühne in Wien bei der Liliencron-Feier auf.",
+      "format": "full_html",
+      "processed": "Am 24.10.1909 tritt Hermann Bahr auf der Freien Volksbühne in Wien bei der Liliencron-Feier auf.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1909-10-24",
+      "end_value": "1909-10-24"
+    },
+    "field_sources": []
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/70a5a63b-0075-41c3-91d6-1526e8af09cb/node_type?resourceVersion=id%3A2456"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/70a5a63b-0075-41c3-91d6-1526e8af09cb/relationships/node_type?resourceVersion=id%3A2456"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/70a5a63b-0075-41c3-91d6-1526e8af09cb/revision_uid?resourceVersion=id%3A2456"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/70a5a63b-0075-41c3-91d6-1526e8af09cb/relationships/revision_uid?resourceVersion=id%3A2456"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/70a5a63b-0075-41c3-91d6-1526e8af09cb/uid?resourceVersion=id%3A2456"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/70a5a63b-0075-41c3-91d6-1526e8af09cb/relationships/uid?resourceVersion=id%3A2456"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/70a5a63b-0075-41c3-91d6-1526e8af09cb/field_event_type?resourceVersion=id%3A2456"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/70a5a63b-0075-41c3-91d6-1526e8af09cb/relationships/field_event_type?resourceVersion=id%3A2456"
+        }
+      }
+    }
+  }
+}

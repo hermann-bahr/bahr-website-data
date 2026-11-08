@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "48b81d7f-c269-4ae6-b01a-30371db2b26f",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/48b81d7f-c269-4ae6-b01a-30371db2b26f?resourceVersion=id%3A3447"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/48b81d7f-c269-4ae6-b01a-30371db2b26f?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49621,
+    "drupal_internal__vid": 3447,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Ibsen: Die Gespenster",
+    "created": "2011-11-17T11:14:10+00:00",
+    "changed": "2011-11-17T11:14:10+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49621",
+      "pid": 1437,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Die Inszenierung der \"Gespenster\" am 15. April 1886 am Ausgsburger Stadt-Theater leitete in Deutschland die Welle der Ibsen-Begeisterung ein. Bahr kannte Ibsen schon längst, hatte er doch als einer seiner ersten publizierten Texte einer Rezension der Nora widersprochen, doch fing er durch die Aufmerksamkeit für den Norweger nun wieder an, Theater zu besuchen.",
+      "format": "full_html",
+      "processed": "Die Inszenierung der \"Gespenster\" am 15. April 1886 am Ausgsburger Stadt-Theater leitete in Deutschland die Welle der Ibsen-Begeisterung ein. Bahr kannte Ibsen schon längst, hatte er doch als einer seiner ersten publizierten Texte einer Rezension der Nora widersprochen, doch fing er durch die Aufmerksamkeit für den Norweger nun wieder an, Theater zu besuchen.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1886-04-16",
+      "end_value": "1886-04-16"
+    },
+    "field_sources": [
+      "Selbstbildnis, 193"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/48b81d7f-c269-4ae6-b01a-30371db2b26f/node_type?resourceVersion=id%3A3447"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/48b81d7f-c269-4ae6-b01a-30371db2b26f/relationships/node_type?resourceVersion=id%3A3447"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/48b81d7f-c269-4ae6-b01a-30371db2b26f/revision_uid?resourceVersion=id%3A3447"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/48b81d7f-c269-4ae6-b01a-30371db2b26f/relationships/revision_uid?resourceVersion=id%3A3447"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/48b81d7f-c269-4ae6-b01a-30371db2b26f/uid?resourceVersion=id%3A3447"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/48b81d7f-c269-4ae6-b01a-30371db2b26f/relationships/uid?resourceVersion=id%3A3447"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/48b81d7f-c269-4ae6-b01a-30371db2b26f/field_event_type?resourceVersion=id%3A3447"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/48b81d7f-c269-4ae6-b01a-30371db2b26f/relationships/field_event_type?resourceVersion=id%3A3447"
+        }
+      }
+    }
+  }
+}

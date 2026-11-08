@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "0d350738-7333-43f7-973d-3f43452d2b49",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/0d350738-7333-43f7-973d-3f43452d2b49?resourceVersion=id%3A2841"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/0d350738-7333-43f7-973d-3f43452d2b49?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39066,
+    "drupal_internal__vid": 2841,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Wien-Pläne",
+    "created": "2011-05-05T20:11:19+00:00",
+    "changed": "2011-10-28T13:17:40+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39066",
+      "pid": 798,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Im Herbst 1923 hofft Bahr noch einmal nach Wien übersiedeln zu können, sowohl er als auch seine Frau wollen „heim“. Vermittlerin ist Berta Zuckerkandl, im September reist Bahr sogar nach Wien zu Seipl. Werden tut daraus nichts, nachdem ein \"dummes kleines Montagsblatt“ die Berufung Anna Bahrs nach Wien ausplaudert hatte und durch das Gefühl angewidert, sie bekomme die Stelle nur durch sein Renommé, beschließen die beiden, in München zu bleiben, wo wiederum aus Furcht, sie könnte absiedeln, ihre Arbeitsbedingungen deutlich verbessert wurden. Am 22. Dezember vermittelt Bahr Redlich, dass er begriffen habe, dass daraus nichts werde.",
+      "format": "full_html",
+      "processed": "Im Herbst 1923 hofft Bahr noch einmal nach Wien übersiedeln zu können, sowohl er als auch seine Frau wollen „heim“. Vermittlerin ist Berta Zuckerkandl, im September reist Bahr sogar nach Wien zu Seipl. Werden tut daraus nichts, nachdem ein \"dummes kleines Montagsblatt“ die Berufung Anna Bahrs nach Wien ausplaudert hatte und durch das Gefühl angewidert, sie bekomme die Stelle nur durch sein Renommé, beschließen die beiden, in München zu bleiben, wo wiederum aus Furcht, sie könnte absiedeln, ihre Arbeitsbedingungen deutlich verbessert wurden. Am 22. Dezember vermittelt Bahr Redlich, dass er begriffen habe, dass daraus nichts werde.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1923-09-14",
+      "end_value": "1923-12-22"
+    },
+    "field_sources": [
+      "Briefe an Berta Zuckerkandl, 14., 15.9., 23.10.1923 und 27.3.1924, in Abschrift im Nachlass erhalten\r\n",
+      "Bahr/Redlich, 497-511."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0d350738-7333-43f7-973d-3f43452d2b49/node_type?resourceVersion=id%3A2841"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0d350738-7333-43f7-973d-3f43452d2b49/relationships/node_type?resourceVersion=id%3A2841"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0d350738-7333-43f7-973d-3f43452d2b49/revision_uid?resourceVersion=id%3A2841"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0d350738-7333-43f7-973d-3f43452d2b49/relationships/revision_uid?resourceVersion=id%3A2841"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0d350738-7333-43f7-973d-3f43452d2b49/uid?resourceVersion=id%3A2841"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0d350738-7333-43f7-973d-3f43452d2b49/relationships/uid?resourceVersion=id%3A2841"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0d350738-7333-43f7-973d-3f43452d2b49/field_event_type?resourceVersion=id%3A2841"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0d350738-7333-43f7-973d-3f43452d2b49/relationships/field_event_type?resourceVersion=id%3A2841"
+        }
+      }
+    }
+  }
+}

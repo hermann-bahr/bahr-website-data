@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bibliografie__theaterstuecke__juana-1896" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Juana (1896)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">49683</idno>
+        <idno type="drupal-alias">/bibliografie/49683</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bibliografie/49683">https://bahr.univie.ac.at/bibliografie/49683</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+        <bibl type="beschriebene-ausgabe">
+          <author>Alejandro Lanza</author>
+          <title type="main">Juana</title>
+          <title type="sub">Drama</title>
+          <pubPlace>München</pubPlace>
+          <publisher>Brakl's Rubinverlag</publisher>
+          <date>1896</date>
+          <extent>52</extent>
+          <note>Der ursprüngliche Titel war "Esther" und wurde von Max Burckhard für das Burgtheater abgelehnt (Neues Wiener Tagblatt, 35 (1901) #54, 8. (24.2.1901)).</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="1" key="bibliografie">Bibliografie</term>
+          <term n="2" key="theaterstuecke">Theaterstücke</term>
+          <term n="34" key="juana-1896" type="eintrag">Juana (1896)</term>
+        </keywords>
+        <classCode scheme="drupal-type">bibliographie</classCode>
+        <keywords scheme="bibliografie_type">
+          <term>Theaterstücke</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2011-11-23T13:47:57+00:00" type="created">angelegt in Drupal</change>
+      <change when="2011-11-25T13:53:02+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="bib">
+        <head>Bibliografie</head>
+        <table type="bibliografie">
+          <row>
+            <cell>Autor:</cell>
+            <cell>Alejandro Lanza</cell>
+          </row>
+          <row>
+            <cell>Titel:</cell>
+            <cell>Juana</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>Drama</cell>
+          </row>
+          <row>
+            <cell>Ort:</cell>
+            <cell>München</cell>
+          </row>
+          <row>
+            <cell>Verlag:</cell>
+            <cell>Brakl's Rubinverlag</cell>
+          </row>
+          <row>
+            <cell>Jahr:</cell>
+            <cell>1896</cell>
+          </row>
+          <row>
+            <cell>Seiten:</cell>
+            <cell>52</cell>
+          </row>
+          <row>
+            <cell>Anm.:</cell>
+            <cell>Der ursprüngliche Titel war "Esther" und wurde von Max Burckhard für das Burgtheater abgelehnt (Neues Wiener Tagblatt, 35 (1901) #54, 8. (24.2.1901)).</cell>
+          </row>
+        </table>
+      </div>
+      <div>
+        <head>Inhalt</head>
+        <p>Juana, die Gattin eines Generals, hat eine Affaire mit einem von diesem bevorzugten Leutnant. Als der Leutnant sie verlassen will, um die Nichte des Generals zu heiraten, tut Juana alles, das zu verhindern. Letzten Endes erschießt sich der um seine Ehre gebrachte Leutnant, die Nichte geht ins Kloster und Juana wird wahnsinnig.</p>
+      </div>
+      <div xml:id="auff">
+        <head>Inszenierungen</head>
+        <p>22. September 1896 Neues Theater Berlin 12. Dezember 1896 Brünn 25. Februar 1897 Brünn 18. November 1898 Raimundtheater, Wien</p>
+      </div>
+      <div xml:id="rezens">
+        <head>Rezensionen</head>
+        <p>Vorwärts, Berlin, 24.9.1896. Die Presse, 49 (1896) #262, Morgen-Presse, 6. (23.9.1896) o.N.? : Dramatische Aufführungen. („Das Einmaleins“ von Blumenthal, „Juana“ von Alessandro Lanza, „Die officielle Frau“ von Hans Olden). In: Die Gegenwart, 50 (1896), 223. Deutsche Zeitung, 19.11.1898. Sport und Salon, 1 (1898) #25, 5-6. (25.11.1898)</p>
+      </div>
+      <div xml:id="www">
+        <head>Digitalisate</head>
+        <p>
+          <ref target="https://bahr.univie.ac.at/sites/all/txt/buch/1896_juana.pdf" type="sites-all">Link</ref>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

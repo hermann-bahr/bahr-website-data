@@ -1,0 +1,109 @@
+{
+  "type": "node--bibliographie",
+  "id": "bfb10816-9e80-4a5a-b979-4e053c4e29d8",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/bfb10816-9e80-4a5a-b979-4e053c4e29d8?resourceVersion=id%3A3883"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/bfb10816-9e80-4a5a-b979-4e053c4e29d8?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38900,
+    "drupal_internal__vid": 3883,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:44:00+00:00",
+    "status": true,
+    "title": "Der inwendige Garten (1927)",
+    "created": "2011-03-04T13:33:37+00:00",
+    "changed": "2012-10-22T09:30:45+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/bibliografie/38900",
+      "pid": 643,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<h3 id=\"bib\">Bibliografie</h3>\r\n<table class=\"bibliografie\">\r\n<tr><td>Autor:</td><td>Hermann Bahr</td></tr>\r\n<tr><td>Titel:</td><td>Der inwendige Garten</td></tr>\r\n<tr><td> </td><td>Roman</td></tr>\r\n<tr><td>Ort:</td><td>Hildesheim</td></tr>\r\n<tr><td>Verlag:</td><td>F. Borgmeyer</td></tr>\r\n<tr><td>Jahr:</td><td>1927</td></tr>\r\n<tr><td>Seiten:</td><td>194</td></tr>\r\n<tr><td>Aufl.:</td><td>1.-3. Aufl</td></tr>\r\n\r\n<tr><td>Anm.:</td><td>Bahr kündigt in einer Umfrage von Reclams Universum (Dichter und ihre Werke. Reclams Universum, 44 (1927) #2, 33-35, hier: 34. (6.10.1927)) an, dass es noch im Oktober erscheine. Tags darauf, am 7.10.1927 und in den folgenden Tagen bringen einige Zeitungen die Meldung, dass der Roman noch im Oktober erscheinen soll. Die Rezensionen beginnen dann mit dem 1.12.1927. </td></table>\r\n\r\n<h3 id=\"rezens\">Rezensionen</h3>\r\n<p>Else Kolliner in: Frankfurter Zeitung, 29.4.1928 (2. Morgenblatt, Literaturbeilage)\r\nL.P.M.: Neue Bücher von Hermann Bahr: „Der Zauberstab“. Tagebücher aus den Jahren 1924/26; „Der inwendige Garten“. Roman. In: Danziger Neueste Nachrichten, 35 (1928) #30, 10. (4.2.1928)\r\nO. N.: Hermann Bahr: Der inwendige Garten; Hermann Bahr: Der Zauberstab. In: Die Moderne Welt. Illustrierte Halbmonatsschrift für Kunst, Literatur, Mode,  4 (1928) #28 (Erstes Augustheft 1928), 45.</p>\r\n\r\n<h3 id=\"digit\">Digitalisate</h3>\r\n<ul>\r\n<li>-\r\n</ul>",
+      "format": "full_html",
+      "processed": "<h3 id=\"bib\">Bibliografie</h3>\n<table class=\"bibliografie\">\n<tr><td>Autor:</td><td>Hermann Bahr</td></tr>\n<tr><td>Titel:</td><td>Der inwendige Garten</td></tr>\n<tr><td> </td><td>Roman</td></tr>\n<tr><td>Ort:</td><td>Hildesheim</td></tr>\n<tr><td>Verlag:</td><td>F. Borgmeyer</td></tr>\n<tr><td>Jahr:</td><td>1927</td></tr>\n<tr><td>Seiten:</td><td>194</td></tr>\n<tr><td>Aufl.:</td><td>1.-3. Aufl</td></tr>\n\n<tr><td>Anm.:</td><td>Bahr kündigt in einer Umfrage von Reclams Universum (Dichter und ihre Werke. Reclams Universum, 44 (1927) #2, 33-35, hier: 34. (6.10.1927)) an, dass es noch im Oktober erscheine. Tags darauf, am 7.10.1927 und in den folgenden Tagen bringen einige Zeitungen die Meldung, dass der Roman noch im Oktober erscheinen soll. Die Rezensionen beginnen dann mit dem 1.12.1927. </td></tr></table>\n\n<h3 id=\"rezens\">Rezensionen</h3>\n<p>Else Kolliner in: Frankfurter Zeitung, 29.4.1928 (2. Morgenblatt, Literaturbeilage)\nL.P.M.: Neue Bücher von Hermann Bahr: „Der Zauberstab“. Tagebücher aus den Jahren 1924/26; „Der inwendige Garten“. Roman. In: Danziger Neueste Nachrichten, 35 (1928) #30, 10. (4.2.1928)\nO. N.: Hermann Bahr: Der inwendige Garten; Hermann Bahr: Der Zauberstab. In: Die Moderne Welt. Illustrierte Halbmonatsschrift für Kunst, Literatur, Mode,  4 (1928) #28 (Erstes Augustheft 1928), 45.</p>\n\n<h3 id=\"digit\">Digitalisate</h3>\n<ul>\n<li>-\n</li></ul>",
+      "summary": null
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "c4d97a7b-20a3-4a00-9858-72c5abf35af3",
+        "meta": {
+          "drupal_internal__target_id": "bibliographie"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/bfb10816-9e80-4a5a-b979-4e053c4e29d8/node_type?resourceVersion=id%3A3883"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/bfb10816-9e80-4a5a-b979-4e053c4e29d8/relationships/node_type?resourceVersion=id%3A3883"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/bfb10816-9e80-4a5a-b979-4e053c4e29d8/revision_uid?resourceVersion=id%3A3883"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/bfb10816-9e80-4a5a-b979-4e053c4e29d8/relationships/revision_uid?resourceVersion=id%3A3883"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/bfb10816-9e80-4a5a-b979-4e053c4e29d8/uid?resourceVersion=id%3A3883"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/bfb10816-9e80-4a5a-b979-4e053c4e29d8/relationships/uid?resourceVersion=id%3A3883"
+        }
+      }
+    },
+    "field_bibliographie_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--bibliografie_type",
+          "id": "658fcc4a-c5e5-437c-8354-4db6f74be99f",
+          "meta": {
+            "drupal_internal__target_id": 12
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/bfb10816-9e80-4a5a-b979-4e053c4e29d8/field_bibliographie_type?resourceVersion=id%3A3883"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/bfb10816-9e80-4a5a-b979-4e053c4e29d8/relationships/field_bibliographie_type?resourceVersion=id%3A3883"
+        }
+      }
+    }
+  }
+}

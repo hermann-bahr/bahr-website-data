@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "ebfb5d33-0cf8-43fa-a34f-1db8afe8b06f",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/ebfb5d33-0cf8-43fa-a34f-1db8afe8b06f?resourceVersion=id%3A2563"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/ebfb5d33-0cf8-43fa-a34f-1db8afe8b06f?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38705,
+    "drupal_internal__vid": 2563,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Dalmatien",
+    "created": "2010-12-30T12:35:10+00:00",
+    "changed": "2012-01-26T14:18:20+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38705",
+      "pid": 454,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahrs \"Dalmatinische Reise\", eine Auftragsarbeit für S. Fischer beginnt am 14. Februar 1909.  Er besteigt am Südbahnhof den Zug nach Triest, nimmt dort den Dampfer \"Baron Gautsch\" und fährt südlich bis Split, Kotor, Dubrovnik und auf die Insel Lakroma. Der Landweg nach Cetinje ist zu, er reist mit dem Schiff zurück nach Split, dann weiter nach Triest und von dort mit dem Zug am 26. nach Wien. ",
+      "format": "full_html",
+      "processed": "Bahrs \"Dalmatinische Reise\", eine Auftragsarbeit für S. Fischer beginnt am 14. Februar 1909.  Er besteigt am Südbahnhof den Zug nach Triest, nimmt dort den Dampfer \"Baron Gautsch\" und fährt südlich bis Split, Kotor, Dubrovnik und auf die Insel Lakroma. Der Landweg nach Cetinje ist zu, er reist mit dem Schiff zurück nach Split, dann weiter nach Triest und von dort mit dem Zug am 26. nach Wien. ",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1909-02-14",
+      "end_value": "1909-02-26"
+    },
+    "field_sources": [
+      "Bahr/Kvapil, 92-93.",
+      "Hermann Bahr: Aufzeichnungen 1909-1911. Ausgabe in Vorbereitung von Kurt Ifkovits\r\n"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ebfb5d33-0cf8-43fa-a34f-1db8afe8b06f/node_type?resourceVersion=id%3A2563"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ebfb5d33-0cf8-43fa-a34f-1db8afe8b06f/relationships/node_type?resourceVersion=id%3A2563"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ebfb5d33-0cf8-43fa-a34f-1db8afe8b06f/revision_uid?resourceVersion=id%3A2563"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ebfb5d33-0cf8-43fa-a34f-1db8afe8b06f/relationships/revision_uid?resourceVersion=id%3A2563"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ebfb5d33-0cf8-43fa-a34f-1db8afe8b06f/uid?resourceVersion=id%3A2563"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ebfb5d33-0cf8-43fa-a34f-1db8afe8b06f/relationships/uid?resourceVersion=id%3A2563"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ebfb5d33-0cf8-43fa-a34f-1db8afe8b06f/field_event_type?resourceVersion=id%3A2563"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ebfb5d33-0cf8-43fa-a34f-1db8afe8b06f/relationships/field_event_type?resourceVersion=id%3A2563"
+        }
+      }
+    }
+  }
+}

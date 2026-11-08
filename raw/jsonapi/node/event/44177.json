@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "25fd9c7c-1ae0-4c45-84e9-be608a8e5d40",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/25fd9c7c-1ae0-4c45-84e9-be608a8e5d40?resourceVersion=id%3A3091"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/25fd9c7c-1ae0-4c45-84e9-be608a8e5d40?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44177,
+    "drupal_internal__vid": 3091,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "\"Kinder\" fertig",
+    "created": "2011-09-15T16:58:37+00:00",
+    "changed": "2011-09-15T16:58:37+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44177",
+      "pid": 1070,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 3. Mai 1910 schreibt Bahr an Kvapil, sein neuestes Stück, das er nach der Heimkehr als London begonnen habe, werde nun in ein paar Tagen fertig sein.",
+      "format": "full_html",
+      "processed": "Am 3. Mai 1910 schreibt Bahr an Kvapil, sein neuestes Stück, das er nach der Heimkehr als London begonnen habe, werde nun in ein paar Tagen fertig sein.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1910-05-03",
+      "end_value": "1910-05-03"
+    },
+    "field_sources": [
+      "Bahr/Kvapil, 119."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/25fd9c7c-1ae0-4c45-84e9-be608a8e5d40/node_type?resourceVersion=id%3A3091"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/25fd9c7c-1ae0-4c45-84e9-be608a8e5d40/relationships/node_type?resourceVersion=id%3A3091"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/25fd9c7c-1ae0-4c45-84e9-be608a8e5d40/revision_uid?resourceVersion=id%3A3091"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/25fd9c7c-1ae0-4c45-84e9-be608a8e5d40/relationships/revision_uid?resourceVersion=id%3A3091"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/25fd9c7c-1ae0-4c45-84e9-be608a8e5d40/uid?resourceVersion=id%3A3091"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/25fd9c7c-1ae0-4c45-84e9-be608a8e5d40/relationships/uid?resourceVersion=id%3A3091"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/25fd9c7c-1ae0-4c45-84e9-be608a8e5d40/field_event_type?resourceVersion=id%3A3091"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/25fd9c7c-1ae0-4c45-84e9-be608a8e5d40/relationships/field_event_type?resourceVersion=id%3A3091"
+        }
+      }
+    }
+  }
+}

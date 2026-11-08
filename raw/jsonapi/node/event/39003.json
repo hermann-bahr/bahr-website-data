@@ -1,0 +1,120 @@
+{
+  "type": "node--event",
+  "id": "b64dca90-ff7f-4b80-97d6-741d9a476fa5",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b64dca90-ff7f-4b80-97d6-741d9a476fa5?resourceVersion=id%3A2784"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b64dca90-ff7f-4b80-97d6-741d9a476fa5?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39003,
+    "drupal_internal__vid": 2784,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Umzug nach Berlin?",
+    "created": "2011-03-24T09:36:11+00:00",
+    "changed": "2014-04-03T08:56:29+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39003",
+      "pid": 739,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Anfang des Jahres 1927 melden Zeitungen, dass Bahr und seine Frau nach Berlin übersiedeln würden. Hintergrund bildet eine mögliche Berufung Anna Bahr-Mildenburgs an die Berliner Hochschule. Bahr ist gegenüber Redlich unentschieden, ob sie gehen sollen. Sie übersiedeln nicht.",
+      "format": "full_html",
+      "processed": "Anfang des Jahres 1927 melden Zeitungen, dass Bahr und seine Frau nach Berlin übersiedeln würden. Hintergrund bildet eine mögliche Berufung Anna Bahr-Mildenburgs an die Berliner Hochschule. Bahr ist gegenüber Redlich unentschieden, ob sie gehen sollen. Sie übersiedeln nicht.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1927-01-12",
+      "end_value": "1927-01-12"
+    },
+    "field_sources": [
+      "Bahr-Mildenburg u. Hermann Bahr verlegen ihren Wohnsitz nach Berlin. In: Münchner Zeitung, Jg. 36, 12.01.1927, Nr. 10, S. 3",
+      "Hermann Bahr, Brief (Dementi) an die Redaktion der Münchner Zeitung. In: Münchner Zeitung, Jg. 36, 13.01.1927, Nr. 11, S. 3",
+      "Prager Tagblatt, 1927 #9, 6. (12.1.1927)",
+      "Bahr/Redlich, 554.",
+      "Brief Lou Brions an Bahr, Nachlass [A16196 BaM], 19.4.1927"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b64dca90-ff7f-4b80-97d6-741d9a476fa5/node_type?resourceVersion=id%3A2784"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b64dca90-ff7f-4b80-97d6-741d9a476fa5/relationships/node_type?resourceVersion=id%3A2784"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b64dca90-ff7f-4b80-97d6-741d9a476fa5/revision_uid?resourceVersion=id%3A2784"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b64dca90-ff7f-4b80-97d6-741d9a476fa5/relationships/revision_uid?resourceVersion=id%3A2784"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b64dca90-ff7f-4b80-97d6-741d9a476fa5/uid?resourceVersion=id%3A2784"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b64dca90-ff7f-4b80-97d6-741d9a476fa5/relationships/uid?resourceVersion=id%3A2784"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b64dca90-ff7f-4b80-97d6-741d9a476fa5/field_event_type?resourceVersion=id%3A2784"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b64dca90-ff7f-4b80-97d6-741d9a476fa5/relationships/field_event_type?resourceVersion=id%3A2784"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "3a42ff1f-c926-4f53-8a97-141c04282173",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/3a42ff1f-c926-4f53-8a97-141c04282173?resourceVersion=id%3A2793"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/3a42ff1f-c926-4f53-8a97-141c04282173?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39012,
+    "drupal_internal__vid": 2793,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Rüge für \"Michl\"",
+    "created": "2011-03-24T12:10:34+00:00",
+    "changed": "2012-10-24T13:12:13+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39012",
+      "pid": 748,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Im Nachlass findet sich ein Brief der Burschenschaft Albia \"an ihren inactiven Burschen Michl\" [Bahrs Burschenschaftername] vom 15.10.1884, demzufolge ihm eine Rüge erteilt wird, weil er eine Erklärung gegenüber des Antisemitismus der Prager Burschenschaft Teutonia getätigt habe, die zu diplomatischen Verwicklungen führte. Aus der Sicht der \"Albia\":<blockquote>Nun hatte, nachdem zwischen den akademischen Zeitungen Deutsche Hochschule und Kyffhäuser-Zeitung ein Streit über die Frage entbrannt war, ob die Prager Burschenschaft Teutonia antisemitisch gesinnt sei, der schriftstellerisch tätige Albe Bahr, der nur mit zwei oder drei aktiven Teutonen gesprochen hatte, in einer in die Kyffhäuser-Zeitung gesendeten Erklärung die Teutonia als antisemitische Burschenschaft bezeichnet. Über diese Erklärung entstand bei der Kartellschwester Teutonia, beziehungsweise ihrer Altherrenschaft, weil sie Bahrs Erklärung als eine Schädigung ihrer politischen Stellung ansah, ziemlich große Erregung und der gemeinsame Alte Herr Gröling brachte nach Wien die Nachricht, die Alten Herren Teutonias hätten die Veröffentlichung einer Gegenerklärung beschlossen. Der Albenconvent erteilte dem inaktiven Burschen Bahr wegen der begangenen Inkommentmäßigkeit eine scharfe Rüge, war aber der Ansicht, daß eine Fortsetzung der Sache in Zeitungspolemik unangängig sei, da Albia die Kartellschwester in der Tat als antisemitsch oder höchstens noch als schwankend ansah. […] Der Grund hierfür war die Gefahr, daß Teutonia, wenn sie die Erklärung Bahrs bestätigte, aufgelöst werde</blockquote>",
+      "format": "full_html",
+      "processed": "Im Nachlass findet sich ein Brief der Burschenschaft Albia \"an ihren inactiven Burschen Michl\" [Bahrs Burschenschaftername] vom 15.10.1884, demzufolge ihm eine Rüge erteilt wird, weil er eine Erklärung gegenüber des Antisemitismus der Prager Burschenschaft Teutonia getätigt habe, die zu diplomatischen Verwicklungen führte. Aus der Sicht der \"Albia\":<blockquote>Nun hatte, nachdem zwischen den akademischen Zeitungen Deutsche Hochschule und Kyffhäuser-Zeitung ein Streit über die Frage entbrannt war, ob die Prager Burschenschaft Teutonia antisemitisch gesinnt sei, der schriftstellerisch tätige Albe Bahr, der nur mit zwei oder drei aktiven Teutonen gesprochen hatte, in einer in die Kyffhäuser-Zeitung gesendeten Erklärung die Teutonia als antisemitische Burschenschaft bezeichnet. Über diese Erklärung entstand bei der Kartellschwester Teutonia, beziehungsweise ihrer Altherrenschaft, weil sie Bahrs Erklärung als eine Schädigung ihrer politischen Stellung ansah, ziemlich große Erregung und der gemeinsame Alte Herr Gröling brachte nach Wien die Nachricht, die Alten Herren Teutonias hätten die Veröffentlichung einer Gegenerklärung beschlossen. Der Albenconvent erteilte dem inaktiven Burschen Bahr wegen der begangenen Inkommentmäßigkeit eine scharfe Rüge, war aber der Ansicht, daß eine Fortsetzung der Sache in Zeitungspolemik unangängig sei, da Albia die Kartellschwester in der Tat als antisemitsch oder höchstens noch als schwankend ansah. […] Der Grund hierfür war die Gefahr, daß Teutonia, wenn sie die Erklärung Bahrs bestätigte, aufgelöst werde</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1884-10-15",
+      "end_value": "1884-10-15"
+    },
+    "field_sources": [
+      "Kiste 77",
+      "Karl Becke: Wiener Burschenschaft \"Albia\" 1870-1930. Wien: Selbstverlag 1930, 53-55."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3a42ff1f-c926-4f53-8a97-141c04282173/node_type?resourceVersion=id%3A2793"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3a42ff1f-c926-4f53-8a97-141c04282173/relationships/node_type?resourceVersion=id%3A2793"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3a42ff1f-c926-4f53-8a97-141c04282173/revision_uid?resourceVersion=id%3A2793"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3a42ff1f-c926-4f53-8a97-141c04282173/relationships/revision_uid?resourceVersion=id%3A2793"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3a42ff1f-c926-4f53-8a97-141c04282173/uid?resourceVersion=id%3A2793"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3a42ff1f-c926-4f53-8a97-141c04282173/relationships/uid?resourceVersion=id%3A2793"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3a42ff1f-c926-4f53-8a97-141c04282173/field_event_type?resourceVersion=id%3A2793"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3a42ff1f-c926-4f53-8a97-141c04282173/relationships/field_event_type?resourceVersion=id%3A2793"
+        }
+      }
+    }
+  }
+}

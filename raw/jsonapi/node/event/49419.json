@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "703f4323-1516-4efe-8842-f6c7f33eb46b",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/703f4323-1516-4efe-8842-f6c7f33eb46b?resourceVersion=id%3A3262"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/703f4323-1516-4efe-8842-f6c7f33eb46b?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49419,
+    "drupal_internal__vid": 3262,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Andrian",
+    "created": "2011-10-19T10:59:00+00:00",
+    "changed": "2011-10-19T10:59:00+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49419",
+      "pid": 1243,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Die Herausgeber datieren die erste Begegnung Andrians mit Bahr auf das Jahr 1892.",
+      "format": "full_html",
+      "processed": "Die Herausgeber datieren die erste Begegnung Andrians mit Bahr auf das Jahr 1892.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1892-01-01",
+      "end_value": "1892-01-01"
+    },
+    "field_sources": [
+      "Ursula Prutsch, Klaus Zeyringer (Hg.): Leopold von Andrian (1875-1951). Korrespondenzen, Notizen, Essays, Berichte. Wien, Köln, Weimar: Böhlau 2003, 45 Fußnote 46."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/703f4323-1516-4efe-8842-f6c7f33eb46b/node_type?resourceVersion=id%3A3262"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/703f4323-1516-4efe-8842-f6c7f33eb46b/relationships/node_type?resourceVersion=id%3A3262"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/703f4323-1516-4efe-8842-f6c7f33eb46b/revision_uid?resourceVersion=id%3A3262"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/703f4323-1516-4efe-8842-f6c7f33eb46b/relationships/revision_uid?resourceVersion=id%3A3262"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/703f4323-1516-4efe-8842-f6c7f33eb46b/uid?resourceVersion=id%3A3262"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/703f4323-1516-4efe-8842-f6c7f33eb46b/relationships/uid?resourceVersion=id%3A3262"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/703f4323-1516-4efe-8842-f6c7f33eb46b/field_event_type?resourceVersion=id%3A3262"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/703f4323-1516-4efe-8842-f6c7f33eb46b/relationships/field_event_type?resourceVersion=id%3A3262"
+        }
+      }
+    }
+  }
+}

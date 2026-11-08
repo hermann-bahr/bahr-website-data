@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "e2a7b27f-a4f6-42fb-a6af-4238a511d941",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/e2a7b27f-a4f6-42fb-a6af-4238a511d941?resourceVersion=id%3A3689"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/e2a7b27f-a4f6-42fb-a6af-4238a511d941?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74361,
+    "drupal_internal__vid": 3689,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "HvH, Volksgarten",
+    "created": "2012-10-14T19:14:43+00:00",
+    "changed": "2013-09-14T11:54:40+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/74361",
+      "pid": 1735,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 6. Mai 1891 treffen sich Bahr und Hugo von Hofmannsthal im Griensteidl und sie spazierten in Folge 2,5 Stunden im Volksgarten. Gemeinsam mit einem weiteren Treffen am 25. Mai bildete das für beide eine wichtige gemeinsame Erinnerung.",
+      "format": "full_html",
+      "processed": "Am 6. Mai 1891 treffen sich Bahr und Hugo von Hofmannsthal im Griensteidl und sie spazierten in Folge 2,5 Stunden im Volksgarten. Gemeinsam mit einem weiteren Treffen am 25. Mai bildete das für beide eine wichtige gemeinsame Erinnerung.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1891-05-06",
+      "end_value": "1891-05-06"
+    },
+    "field_sources": [
+      "Siehe Briefwechsel Bahr/Hofmannsthal. Hg. Elsbeth Dangel-Pelloquin. Göttingen: Wallstein. (In Vorbereitung), Anm. zu Brief an Bahr, 23.9.1891"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e2a7b27f-a4f6-42fb-a6af-4238a511d941/node_type?resourceVersion=id%3A3689"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e2a7b27f-a4f6-42fb-a6af-4238a511d941/relationships/node_type?resourceVersion=id%3A3689"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e2a7b27f-a4f6-42fb-a6af-4238a511d941/revision_uid?resourceVersion=id%3A3689"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e2a7b27f-a4f6-42fb-a6af-4238a511d941/relationships/revision_uid?resourceVersion=id%3A3689"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e2a7b27f-a4f6-42fb-a6af-4238a511d941/uid?resourceVersion=id%3A3689"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e2a7b27f-a4f6-42fb-a6af-4238a511d941/relationships/uid?resourceVersion=id%3A3689"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e2a7b27f-a4f6-42fb-a6af-4238a511d941/field_event_type?resourceVersion=id%3A3689"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e2a7b27f-a4f6-42fb-a6af-4238a511d941/relationships/field_event_type?resourceVersion=id%3A3689"
+        }
+      }
+    }
+  }
+}

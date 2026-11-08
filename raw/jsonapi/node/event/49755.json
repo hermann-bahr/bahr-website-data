@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "536a105a-abc5-4809-bf19-3e0b29b4b0e0",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/536a105a-abc5-4809-bf19-3e0b29b4b0e0?resourceVersion=id%3A3526"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/536a105a-abc5-4809-bf19-3e0b29b4b0e0?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49755,
+    "drupal_internal__vid": 3526,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "\"Die Göttin\"",
+    "created": "2012-01-03T17:42:17+00:00",
+    "changed": "2012-01-03T17:42:17+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49755",
+      "pid": 1567,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Um viele Ecken muss man denken, um diese Liebschaft Bahrs in seiner Zeit in der Kalkscheunenstraße in Berlin aus seinen Sentenzen zu schälen:<blockquote>Die Bude [Michael Hainischs, Anm.] war in der Schumannstraße, ein paar Schritte vom Deutschen Theater, und wurde von einer typischen Berliner Studentenwirtin regiert; ihre Tochter, das schlanke Fräulein Marie, hatte eine wogende Freundin, die, schlechtweg \"die Göttin\" genannt, meinem Herzen teuer wurde. Ich wohnte gar nicht weit davon, in der Kalkscheunenstraße, während Wolfgang Heine, jetzt preußischer Staatsminister a. D., um die Ecke in der Luisenstraße hauste.</blockquote>",
+      "format": "full_html",
+      "processed": "Um viele Ecken muss man denken, um diese Liebschaft Bahrs in seiner Zeit in der Kalkscheunenstraße in Berlin aus seinen Sentenzen zu schälen:<blockquote>Die Bude [Michael Hainischs, Anm.] war in der Schumannstraße, ein paar Schritte vom Deutschen Theater, und wurde von einer typischen Berliner Studentenwirtin regiert; ihre Tochter, das schlanke Fräulein Marie, hatte eine wogende Freundin, die, schlechtweg \"die Göttin\" genannt, meinem Herzen teuer wurde. Ich wohnte gar nicht weit davon, in der Kalkscheunenstraße, während Wolfgang Heine, jetzt preußischer Staatsminister a. D., um die Ecke in der Luisenstraße hauste.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1884-12-01",
+      "end_value": "1884-12-01"
+    },
+    "field_sources": [
+      "Tagebuch. 10. Dezember. Buchausgabe: Kritik der Gegenwart, 293-296, hier: 293.",
+      "(Hier auf den Monatsersten nach Einzug in der Kalkscheunenstr., 1.12.1884, datiert)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/536a105a-abc5-4809-bf19-3e0b29b4b0e0/node_type?resourceVersion=id%3A3526"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/536a105a-abc5-4809-bf19-3e0b29b4b0e0/relationships/node_type?resourceVersion=id%3A3526"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/536a105a-abc5-4809-bf19-3e0b29b4b0e0/revision_uid?resourceVersion=id%3A3526"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/536a105a-abc5-4809-bf19-3e0b29b4b0e0/relationships/revision_uid?resourceVersion=id%3A3526"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/536a105a-abc5-4809-bf19-3e0b29b4b0e0/uid?resourceVersion=id%3A3526"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/536a105a-abc5-4809-bf19-3e0b29b4b0e0/relationships/uid?resourceVersion=id%3A3526"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/536a105a-abc5-4809-bf19-3e0b29b4b0e0/field_event_type?resourceVersion=id%3A3526"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/536a105a-abc5-4809-bf19-3e0b29b4b0e0/relationships/field_event_type?resourceVersion=id%3A3526"
+        }
+      }
+    }
+  }
+}

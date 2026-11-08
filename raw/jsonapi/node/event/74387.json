@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "32a13f84-5640-4dea-80b7-b68b09817502",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/32a13f84-5640-4dea-80b7-b68b09817502?resourceVersion=id%3A3715"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/32a13f84-5640-4dea-80b7-b68b09817502?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74387,
+    "drupal_internal__vid": 3715,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "\"Star\" fertig",
+    "created": "2012-10-22T12:49:42+00:00",
+    "changed": "2013-09-14T11:54:40+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/74387",
+      "pid": 1761,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 18. Juni 1898 berichtet Bahr Gerty Schlesinger, dass er fleißig war. Sein neues Stück (gemeint ist \"Der Star\") sei fertig und gleich vom Deutschen Volkstheater angenommen worden.",
+      "format": "full_html",
+      "processed": "Am 18. Juni 1898 berichtet Bahr Gerty Schlesinger, dass er fleißig war. Sein neues Stück (gemeint ist \"Der Star\") sei fertig und gleich vom Deutschen Volkstheater angenommen worden.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1898-06-18",
+      "end_value": "1898-06-18"
+    },
+    "field_sources": [
+      "Briefwechsel Bahr/Hofmannsthal. Hg. Elsbeth Dangel-Pelloquin. Göttingen: Wallstein. (In Vorbereitung)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/32a13f84-5640-4dea-80b7-b68b09817502/node_type?resourceVersion=id%3A3715"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/32a13f84-5640-4dea-80b7-b68b09817502/relationships/node_type?resourceVersion=id%3A3715"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/32a13f84-5640-4dea-80b7-b68b09817502/revision_uid?resourceVersion=id%3A3715"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/32a13f84-5640-4dea-80b7-b68b09817502/relationships/revision_uid?resourceVersion=id%3A3715"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/32a13f84-5640-4dea-80b7-b68b09817502/uid?resourceVersion=id%3A3715"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/32a13f84-5640-4dea-80b7-b68b09817502/relationships/uid?resourceVersion=id%3A3715"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/32a13f84-5640-4dea-80b7-b68b09817502/field_event_type?resourceVersion=id%3A3715"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/32a13f84-5640-4dea-80b7-b68b09817502/relationships/field_event_type?resourceVersion=id%3A3715"
+        }
+      }
+    }
+  }
+}

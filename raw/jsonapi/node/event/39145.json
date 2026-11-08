@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "b20a4f47-3232-4dd9-8a2d-ad89436973f2",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b20a4f47-3232-4dd9-8a2d-ad89436973f2?resourceVersion=id%3A2903"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b20a4f47-3232-4dd9-8a2d-ad89436973f2?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39145,
+    "drupal_internal__vid": 2903,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Schauspielerboykott",
+    "created": "2011-07-06T12:19:15+00:00",
+    "changed": "2011-09-01T10:27:46+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39145",
+      "pid": 873,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Die Schauspieler des Volkstheaters weigern sich in einem Brief an den Direktor Bukovics, in Stücken von Bahr aufzutreten, da sie seine Kritiken ungerecht finden. Auslöser: Das Lob auf die Réjane vom 16. Oktober 1901. Der Direktor lehnt ab, da er zwischen dem Kritiker Bahr und dem Autor Bahr unterscheiden könne. (Eigenwilligerweise widerspricht das Kraus' früherem Verdacht, Bahr würde das Volkstheater bevorzugt behandeln.) Trotzdem findet die nächste Inszenierung Bahrs im Burgtheater statt. Der Anführer der Schauspieler, Adolf Weisse, wird sich ziemlich genau ein Jahr später, kurz nach Antritt als Direktor des Volkstheaters, mit Bahr wegen einer Kritik überwerfen.",
+      "format": "full_html",
+      "processed": "Die Schauspieler des Volkstheaters weigern sich in einem Brief an den Direktor Bukovics, in Stücken von Bahr aufzutreten, da sie seine Kritiken ungerecht finden. Auslöser: Das Lob auf die Réjane vom 16. Oktober 1901. Der Direktor lehnt ab, da er zwischen dem Kritiker Bahr und dem Autor Bahr unterscheiden könne. (Eigenwilligerweise widerspricht das Kraus' früherem Verdacht, Bahr würde das Volkstheater bevorzugt behandeln.) Trotzdem findet die nächste Inszenierung Bahrs im Burgtheater statt. Der Anführer der Schauspieler, Adolf Weisse, wird sich ziemlich genau ein Jahr später, kurz nach Antritt als Direktor des Volkstheaters, mit Bahr wegen einer Kritik überwerfen.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1901-10-20",
+      "end_value": "1901-10-20"
+    },
+    "field_sources": [
+      "Eduard Pötzl: Theater!… In: Neues Wiener Tagblatt, 35 (1901) #288, 1-2. (20.10.1901) ",
+      "Neues Wiener Tagblatt, 35 (1901) #288, 9. (20.10.1901) ",
+      "Neues Wiener Tagblatt, 35 (1901) #284, 9. (16.10.1901)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b20a4f47-3232-4dd9-8a2d-ad89436973f2/node_type?resourceVersion=id%3A2903"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b20a4f47-3232-4dd9-8a2d-ad89436973f2/relationships/node_type?resourceVersion=id%3A2903"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b20a4f47-3232-4dd9-8a2d-ad89436973f2/revision_uid?resourceVersion=id%3A2903"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b20a4f47-3232-4dd9-8a2d-ad89436973f2/relationships/revision_uid?resourceVersion=id%3A2903"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b20a4f47-3232-4dd9-8a2d-ad89436973f2/uid?resourceVersion=id%3A2903"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b20a4f47-3232-4dd9-8a2d-ad89436973f2/relationships/uid?resourceVersion=id%3A2903"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b20a4f47-3232-4dd9-8a2d-ad89436973f2/field_event_type?resourceVersion=id%3A2903"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b20a4f47-3232-4dd9-8a2d-ad89436973f2/relationships/field_event_type?resourceVersion=id%3A2903"
+        }
+      }
+    }
+  }
+}

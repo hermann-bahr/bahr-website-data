@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "538230ec-8f3b-470d-b68e-094585d59477",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/538230ec-8f3b-470d-b68e-094585d59477?resourceVersion=id%3A2972"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/538230ec-8f3b-470d-b68e-094585d59477?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44052,
+    "drupal_internal__vid": 2972,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Komödie der Liebe",
+    "created": "2011-09-02T09:46:10+00:00",
+    "changed": "2011-09-02T09:46:10+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44052",
+      "pid": 950,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Als dritte Regie-Arbeit bei Reinhardt brachte nach einem eigenen Stück eine zweite Ibsen-Inszenierung: Die Komödie der Liebe hatte am 25. März 1907 in den Berliner Kammerspielen ihre erste Aufführung, wurde aber nur viermal gegeben.",
+      "format": "full_html",
+      "processed": "Als dritte Regie-Arbeit bei Reinhardt brachte nach einem eigenen Stück eine zweite Ibsen-Inszenierung: Die Komödie der Liebe hatte am 25. März 1907 in den Berliner Kammerspielen ihre erste Aufführung, wurde aber nur viermal gegeben.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1907-03-25",
+      "end_value": "1907-03-25"
+    },
+    "field_sources": [
+      "Tagebücher (Csàky), III, XVI."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/538230ec-8f3b-470d-b68e-094585d59477/node_type?resourceVersion=id%3A2972"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/538230ec-8f3b-470d-b68e-094585d59477/relationships/node_type?resourceVersion=id%3A2972"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/538230ec-8f3b-470d-b68e-094585d59477/revision_uid?resourceVersion=id%3A2972"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/538230ec-8f3b-470d-b68e-094585d59477/relationships/revision_uid?resourceVersion=id%3A2972"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/538230ec-8f3b-470d-b68e-094585d59477/uid?resourceVersion=id%3A2972"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/538230ec-8f3b-470d-b68e-094585d59477/relationships/uid?resourceVersion=id%3A2972"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/538230ec-8f3b-470d-b68e-094585d59477/field_event_type?resourceVersion=id%3A2972"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/538230ec-8f3b-470d-b68e-094585d59477/relationships/field_event_type?resourceVersion=id%3A2972"
+        }
+      }
+    }
+  }
+}

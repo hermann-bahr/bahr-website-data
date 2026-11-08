@@ -1,0 +1,556 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kritische-schriften__secession-1900" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Secession (1900)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">28280</idno>
+        <idno type="drupal-alias">/bibliografie/28280</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bibliografie/28280">https://bahr.univie.ac.at/bibliografie/28280</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+        <bibl type="beschriebene-ausgabe">
+          <author>Hermann Bahr</author>
+          <title type="main">Secession</title>
+          <pubPlace>Wien</pubPlace>
+          <publisher>Wiener Verlag</publisher>
+          <date>1900</date>
+          <extent>VIII, 266</extent>
+          <note>Einbandzeichnung von Josef Olbrich. Die Österreichische Volkszeitung, 46 (1900) #159, 4 meldet am 12. Juni 1900, dass das Buch in 2. Aufl. erschienen ist.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="2" key="kritische-schriften">Kritische Schriften</term>
+          <term n="6" key="secession-1900" type="eintrag">Secession (1900)</term>
+        </keywords>
+        <classCode scheme="drupal-type">bibliographie</classCode>
+        <keywords scheme="bibliografie_type">
+          <term>Schriften in Einzelausgaben</term>
+        </keywords>
+        <keywords scheme="bibliografie_type">
+          <term>Kritische Schriften</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2010-11-25T12:44:00+00:00" type="created">angelegt in Drupal</change>
+      <change when="2013-12-17T21:35:56+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="intro">
+        <head>Einleitung</head>
+        <p>In seinen Aufsätzen aus den Jahren 1897 bis 1900 begleitet Hermann Bahr die Entstehung der Wiener Secession. Ausführlich kommentiert er die ersten sechs Ausstellungen und führt durch das weltberühmte Secessions-Gebäude von Joseph Maria Olbrich. Im internationalen Vergleich mit Jugendstil, Secession und Art Nouveau in München, Berlin und Paris arbeitet Bahr den Eigensinn der österreichischen Secession heraus und versucht ihre Anliegen gegen ihren eigenen Erfolg zu retten. Daneben stehen Aufsätze gegen den Ringstraßen-Historismus und zur erneuten Vereinigung von Kunst und Handwerk im Vorfeld der 'Wiener Werkstätten', sowie längere Auseinandersetzungen mit dem Japonismus und dem ästhetischen Erziehungsprogramm Alfred Lichtwarks.</p>
+      </div>
+      <div xml:id="bib">
+        <head>Bibliografie</head>
+        <table type="bibliografie">
+          <row>
+            <cell>Autor:</cell>
+            <cell>Hermann Bahr</cell>
+          </row>
+          <row>
+            <cell>Titel:</cell>
+            <cell>Secession</cell>
+          </row>
+          <row>
+            <cell>Ort:</cell>
+            <cell>Wien</cell>
+          </row>
+          <row>
+            <cell>Verlag:</cell>
+            <cell>Wiener Verlag</cell>
+          </row>
+          <row>
+            <cell>Jahr:</cell>
+            <cell>1900</cell>
+          </row>
+          <row>
+            <cell>Seiten:</cell>
+            <cell>VIII, 266</cell>
+          </row>
+          <row>
+            <cell>Anm.:</cell>
+            <cell>Einbandzeichnung von Josef Olbrich. Die Österreichische Volkszeitung, 46 (1900) #159, 4 meldet am 12. Juni 1900, dass das Buch in 2. Aufl. erschienen ist.</cell>
+          </row>
+        </table>
+      </div>
+      <div xml:id="ks">
+        <head>Kritische Schriften</head>
+        <div>
+          <head>Band VI</head>
+          <p>Herausgegeben von Claus Pias 2007 ISBN: 978-3-89739-579-4 2. Auflage, durchgesehen und ergänzt von Gottfried Schnödl 2013 ISBN: 978-3-89739-797-2 <ref target="http://www.vdg-weimar.de/katalog/?id=523">VDG Weimar</ref></p>
+        </div>
+      </div>
+      <div xml:id="erstdrucke">
+        <head>Erstdrucke</head>
+        <table>
+          <row>
+            <cell role="label">Seiten</cell>
+            <cell role="label">Titel / Erstdruck</cell>
+          </row>
+          <row>
+            <cell>V-VIII</cell>
+            <cell>
+              <hi rend="bold">Vorwort. Meister Olbrich in froher Bewunderung</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>1-5</cell>
+            <cell><hi rend="bold">Künstlerhaus 1896. </hi><lb/>Als "Malerei" in: Die Zeit, 9 (1896) #114, 159-160. (5.12.1896)</cell>
+          </row>
+          <row>
+            <cell>6-10</cell>
+            <cell><hi rend="bold">Unsere Secession. </hi><lb/>Die Zeit, 11 (1897) #139, 139-40. (29.5.1897)</cell>
+          </row>
+          <row>
+            <cell>11-14</cell>
+            <cell><hi rend="bold">Ver Sacrum. </hi><lb/>Als "Vereinigung Bildender Künstler Österreichs. Secession" in: Ver Sacrum 1 (1898) #1, 8-13</cell>
+          </row>
+          <row>
+            <cell>15-20</cell>
+            <cell><hi rend="bold">Erste Kunstausstellung der Vereinigung bildender Künstler Österreichs. In der Gartenbaugesellschaft am Parkring</hi><lb/>Als "Die Secession" in: Die Zeit, 15 (1898) #183, 11-12. (2.4.1898)</cell>
+          </row>
+          <row>
+            <cell>21-27</cell>
+            <cell><hi rend="bold">Erste Kunstausstellung der Vereinigung bildender Künstler Österreichs. (Meunier, Khnopff)</hi><lb/>Als "Die Secession" in: Die Zeit, 15 (1898) #184, 27-28. (9.4.1898)</cell>
+          </row>
+          <row>
+            <cell>27-32</cell>
+            <cell><hi rend="bold">Erste Kunstausstellung der Vereinigung bildender Künstler Österreichs. (Alexander, Mehoffer, Martin)</hi><lb/>Als "Die Secession" in: Die Zeit, 15 (1898) #185, 44. (16.4.1898)</cell>
+          </row>
+          <row>
+            <cell>32-37</cell>
+            <cell><hi rend="bold">Erste Kunstausstellung der Vereinigung bildender Künstler Österreichs. (Kunstgewerbe)</hi><lb/>Als "Die Secession" in: Die Zeit, 15 (1898) #186, 58-59. (23.4.1898)</cell>
+          </row>
+          <row>
+            <cell>38-42</cell>
+            <cell><hi rend="bold">Architektur. </hi><lb/>Als "Architektur" in: Die Zeit, 15 (1898) #188, 90-91. (7.5.1898)</cell>
+          </row>
+          <row>
+            <cell>43-47</cell>
+            <cell><hi rend="bold">Künstlerhaus 1898. </hi><lb/>Als "Künstlerhaus" in: Die Zeit, 15 (1898) #187, 75-76. (30.4.1898)</cell>
+          </row>
+          <row>
+            <cell>48-53</cell>
+            <cell><hi rend="bold">Das Landhaus. </hi><lb/>Die Zeit, 15 (1898) #191, 139-140. (28.5.1898)</cell>
+          </row>
+          <row>
+            <cell>54-59</cell>
+            <cell><hi rend="bold">Fünfzig Jahre. </hi><lb/>Als "Künstlerhaus" in: Die Zeit, 17 (1898) #213, 73-74. (29.10.1898)</cell>
+          </row>
+          <row>
+            <cell>60-65</cell>
+            <cell><hi rend="bold">Meister Olbrich. </hi><lb/>Die Zeit, 17 (1898) #211, 42-43. (15.10.1898)</cell>
+          </row>
+          <row>
+            <cell>66-70</cell>
+            <cell><hi rend="bold">Im eigenen Hause. Zur Eröffnung der Herbstausstellung am 12. November 1898. I. Zorn</hi><lb/>Als "Die Secession. (Zur Eröffnung der Herbstausstellung 1898)" in: Die Zeit, 17 (1898) #215, 105. (12.11.1898)</cell>
+          </row>
+          <row>
+            <cell>71-77</cell>
+            <cell><hi rend="bold">Im eigenen Hause. II. Klimt, Engelhart, Moll</hi><lb/>Als "Die Secession. (Zur Eröffnung der Herbstausstellung 1898) [II]" in: Die Zeit, 17 (1898) #216, 121-122.</cell>
+          </row>
+          <row>
+            <cell>77-61</cell>
+            <cell><hi rend="bold">Im eigenen Hause. III. Stöhr, Krämer, König</hi><lb/>Als "Die Secession. III" in: Die Zeit, 17 (1898) #220, 185.</cell>
+          </row>
+          <row>
+            <cell>81-87</cell>
+            <cell><hi rend="bold">Im eigenen Hause. IV. Bernatzik, Gurschner, Moser</hi><lb/>Als "Die Secession. IV" in: Die Zeit, 17 (1898) #221, 203-204.</cell>
+          </row>
+          <row>
+            <cell>88-95</cell>
+            <cell><hi rend="bold">Dritte Ausstellung. (Dritte Kunstausstellung der Vereinigung bildender Künstler Österreichs, Wienzeile 1). Rysselberghe</hi><lb/>Als "Secession. (Dritte Kunstausstellung der Vereinigung bildender Künstler Österreichs, Wienzeile 1) [I]" in: Die Zeit, 18 (1899) #225, 41-42. (21.1.1899)</cell>
+          </row>
+          <row>
+            <cell>96-100</cell>
+            <cell><hi rend="bold">Secession. (Zur dritten Kunstausstellung der Vereinigung bildender Künstler Österreichs)</hi><lb/>Als "Secession. (Zur dritten Kunstausstellung der "Vereinigung bildender Künstler Österreichs")" in: Die Zeit, 18 (1899) #227, 74. (4.2.1899)</cell>
+          </row>
+          <row>
+            <cell>101-108</cell>
+            <cell><hi rend="bold">Der erste Secessionist. (Zur Hörmann-Ausstellung in der Secession)</hi><lb/>Die Zeit, 18 (1899) #230, 121-122. (25.2.1899)</cell>
+          </row>
+          <row>
+            <cell>109-116</cell>
+            <cell><hi rend="bold">Otto Wagner. </hi><lb/>Als "Architektur" in: Die Zeit, 18 (1899) #232, 154-155. (11.3.1899)</cell>
+          </row>
+          <row>
+            <cell>117-121</cell>
+            <cell><hi rend="bold">Malerei. (Collectivausstellung von Hans Schwaiger in der Galerie Miethke. Vierte Ausstellung der Vereinigung bildender Künstler Österreichs. Secession Wienzeile 2.)</hi><lb/>Die Zeit, 18 (1899) #233, 170-171. (18.3.1899)</cell>
+          </row>
+          <row>
+            <cell>122-127</cell>
+            <cell><hi rend="bold">Die vierte Ausstellung. Klimt, Engelhart, Andri, Fräulein Ries</hi><lb/>Als "Secession. (Vierte Ausstellung der Vereinigung bildender Künstler Österreichs)" in: Die Zeit, 18 (1899) #234, 184-185. (25.3.1899)</cell>
+          </row>
+          <row>
+            <cell>128-133</cell>
+            <cell><hi rend="bold">Unter Statuen. </hi><lb/>Die Zeit, 19 (1899) #241, 108-109. (13.5.1899)</cell>
+          </row>
+          <row>
+            <cell>134-140</cell>
+            <cell><hi rend="bold">In der Schule. </hi><lb/>Die Zeit, 13 (1897) #167, 172-173. (11.12.1897)</cell>
+          </row>
+          <row>
+            <cell>141-151</cell>
+            <cell><hi rend="bold">Graphische Ausstellung. I</hi><lb/>Als "Sezession. Graphische Ausstellung. [I]" in: Österreichische Volks-Zeitung, 45 (1899) #312, 1-2 (2 Kreuzer-Ausgabe: 1-6). (12.11.1899)</cell>
+          </row>
+          <row>
+            <cell>151-160</cell>
+            <cell><hi rend="bold">Graphische Ausstellung. II</hi><lb/>Als "Sezession. Graphische Ausstellung. [II]" in: Österreichische Volks-Zeitung, 45 (1899) #321, 1-2. (21.11.1899)</cell>
+          </row>
+          <row>
+            <cell>161-168</cell>
+            <cell><hi rend="bold">Der Sessel. </hi><lb/>Neues Wiener Tagblatt, 33 (1899) #276, 1-3. (7.10.1899)</cell>
+          </row>
+          <row>
+            <cell>169-181</cell>
+            <cell><hi rend="bold">Die falsche Secession. </hi><lb/>Neues Wiener Tagblatt, 33 (1899) #301, 1-4. (1.11.1899)</cell>
+          </row>
+          <row>
+            <cell>182-187</cell>
+            <cell><hi rend="bold">Der englische Stil. (Zur Winterausstellung im österreichischen Museum)</hi><lb/>Als "Der englische Styl" in: Österreichische Volks-Zeitung, 45 (1899) #325, 1-2 (2 Kreuzer-Ausgabe: 1-4). (25.11.1899)</cell>
+          </row>
+          <row>
+            <cell>188-198</cell>
+            <cell><hi rend="bold">Contrefaçon. </hi><lb/>Neues Wiener Tagblatt, 34 (1900) #3, 1-3. (4.1.1900)</cell>
+          </row>
+          <row>
+            <cell>199-202</cell>
+            <cell><hi rend="bold">Aquarelle. </hi><lb/>Österreichische Volkszeitung, 46 (1900) #5, 2. (6.1.1900)</cell>
+          </row>
+          <row>
+            <cell>203-208</cell>
+            <cell><hi rend="bold">Kunstchronik. ("Ideen" von Olbrich. – Hans Schlesinger. – Olga Wisinger-Florian) </hi><lb/>Österreichische Volkszeitung, 46 (1900) #8, 1. (10.1.1900)</cell>
+          </row>
+          <row>
+            <cell>209-215</cell>
+            <cell><hi rend="bold">Der Bund "Hagen". </hi><lb/>Österreichische Volks-Zeitung, 46 (1900) #32, 3-4. (3.2.1900)</cell>
+          </row>
+          <row>
+            <cell>216-230</cell>
+            <cell><hi rend="bold">Japanische Ausstellung. (Sechste Ausstellung der Vereinigung bildender Künstler Österreichs, Secession)</hi><lb/>Österreichische Volkszeitung, 46 (1900) #18, 1-2 und #28, 1-2. (20. bzw. 30.1.1900)</cell>
+          </row>
+          <row>
+            <cell>231-243</cell>
+            <cell><hi rend="bold">Alfred Lichtwark. </hi><lb/>Neues Wiener Tagblatt, 34 (1900) #11, 1-4. (13.1.1900)</cell>
+          </row>
+          <row>
+            <cell>244-254</cell>
+            <cell><hi rend="bold">Vier Interieurs. </hi><lb/>Als "Wien von 1800 bis 1900" in: Neues Wiener Tagblatt, 33 (1899) 5-7. (24.12.1899)</cell>
+          </row>
+          <row>
+            <cell>255-259</cell>
+            <cell><hi rend="bold">Antwort. </hi><lb/>Die Zeit, 16 (1898) #199, 58-59. (23.7.1898)</cell>
+          </row>
+        </table>
+      </div>
+      <div xml:id="rezens">
+        <head>Rezensionen</head>
+        <p>F. St.: Kunstliteratur. In: Neues Wiener Abendblatt, 34 (1900) #158, 4. (11.6.1900) L. H–i [=Ludwig Hevesi ?]: Sezessionssachen (Villa Bahr – Aus Darmstadt – Ein Sezessionsbuch). In: Pester Lloyd, 1900 #152, 2. (26.6.1900). L. H–i: Ein Sezessionsbuch. In: Fremden-Blatt, 1900 #183, 13. (6.7.1900). F–l.: Hermann Bahr. In: Sport und Salon, 1900 #31, 9. (2.8.1900) Westermanns Illustrierte Deutsche Monatshefte 92 (1902), 129. Arthur Eloesser in: Neue deutsche Rundschau, 11 (1899) #10, 1119. Richard Muther in: Die Zeit, 26 (1901) #330, 61-62.</p>
+      </div>
+      <div>
+        <head>Inhaltsverzeichnis</head>
+        <table>
+          <row>
+            <cell role="label">Seiten</cell>
+            <cell role="label">Inhalt</cell>
+          </row>
+          <row>
+            <cell>V-VIII</cell>
+            <cell><hi rend="bold">Vorwort.</hi> Meister Olbrich in froher Bewunderung</cell>
+          </row>
+          <row>
+            <cell>1-5</cell>
+            <cell>
+              <hi rend="bold">Künstlerhaus 1896.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>6-10</cell>
+            <cell>
+              <hi rend="bold">Unsere Secession.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>11-14</cell>
+            <cell>
+              <hi rend="bold">Ver Sacrum.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>15-20</cell>
+            <cell><hi rend="bold">Erste Kunstausstellung der Vereinigung bildender Künstler Österreichs.</hi> In der Gartenbaugesellschaft am Parkring</cell>
+          </row>
+          <row>
+            <cell>21-27</cell>
+            <cell><hi rend="bold">Erste Kunstausstellung der Vereinigung bildender Künstler Österreichs.</hi> (Meunier, Khnopff)</cell>
+          </row>
+          <row>
+            <cell>27-32</cell>
+            <cell><hi rend="bold">Erste Kunstausstellung der Vereinigung bildender Künstler Österreichs.</hi> (Alexander, Mehoffer, Martin)</cell>
+          </row>
+          <row>
+            <cell>32-37</cell>
+            <cell><hi rend="bold">Erste Kunstausstellung der Vereinigung bildender Künstler Österreichs.</hi> (Kunstgewerbe)</cell>
+          </row>
+          <row>
+            <cell>38-42</cell>
+            <cell>
+              <hi rend="bold">Architektur.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>43-47</cell>
+            <cell>
+              <hi rend="bold">Künstlerhaus 1898.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>48-53</cell>
+            <cell>
+              <hi rend="bold">Das Landhaus.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>54-59</cell>
+            <cell>
+              <hi rend="bold">Fünfzig Jahre.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>60-65</cell>
+            <cell>
+              <hi rend="bold">Meister Olbrich.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>66-70</cell>
+            <cell><hi rend="bold">Im eigenen Hause.</hi> Zur Eröffnung der Herbstausstellung am 12. November 1898. I. Zorn</cell>
+          </row>
+          <row>
+            <cell>71-77</cell>
+            <cell><hi rend="bold">Im eigenen Hause.</hi> II. Klimt, Engelhart, Moll</cell>
+          </row>
+          <row>
+            <cell>77-61</cell>
+            <cell><hi rend="bold">Im eigenen Hause.</hi> III. Stöhr, Krämer, König</cell>
+          </row>
+          <row>
+            <cell>81-87</cell>
+            <cell><hi rend="bold">Im eigenen Hause.</hi> IV. Bernatzik, Gurschner, Moser</cell>
+          </row>
+          <row>
+            <cell>88-95</cell>
+            <cell><hi rend="bold">Dritte Ausstellung.</hi> (Dritte Kunstausstellung der Vereinigung bildender Künstler Österreichs, Wienzeile 1). Rysselberghe</cell>
+          </row>
+          <row>
+            <cell>96-100</cell>
+            <cell><hi rend="bold">Secession.</hi> (Zur dritten Kunstausstellung der Vereinigung bildender Künstler Österreichs)</cell>
+          </row>
+          <row>
+            <cell>101-108</cell>
+            <cell><hi rend="bold">Der erste Secessionist.</hi> (Zur Hörmann-Ausstellung in der Secession)</cell>
+          </row>
+          <row>
+            <cell>109-116</cell>
+            <cell>
+              <hi rend="bold">Otto Wagner.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>117-121</cell>
+            <cell><hi rend="bold">Malerei.</hi> (Collectivausstellung von Hans Schwaiger in der Galerie Miethke. Vierte Ausstellung der Vereinigung bildender Künstler Österreichs. Secession Wienzeile 2.)</cell>
+          </row>
+          <row>
+            <cell>122-127</cell>
+            <cell><hi rend="bold">Die vierte Ausstellung.</hi> Klimt, Engelhart, Andri, Fräulein Ries</cell>
+          </row>
+          <row>
+            <cell>128-133</cell>
+            <cell>
+              <hi rend="bold">Unter Statuen.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>134-140</cell>
+            <cell>
+              <hi rend="bold">In der Schule.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>141-160</cell>
+            <cell>
+              <hi rend="bold">Graphische Ausstellung.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>161-168</cell>
+            <cell>
+              <hi rend="bold">Der Sessel.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>169-181</cell>
+            <cell>
+              <hi rend="bold">Die falsche Secession.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>182-187</cell>
+            <cell><hi rend="bold">Der englische Stil.</hi> (Zur Winterausstellung im österreichischen Museum)</cell>
+          </row>
+          <row>
+            <cell>188-198</cell>
+            <cell>
+              <hi rend="bold">Contrefaçon.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>199-202</cell>
+            <cell>
+              <hi rend="bold">Aquarelle.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>203-208</cell>
+            <cell><hi rend="bold">Kunstchronik.</hi> ("Ideen" von Olbrich. – Hans Schlesinger. – Olga Wisinger-Florian)</cell>
+          </row>
+          <row>
+            <cell>209-215</cell>
+            <cell>
+              <hi rend="bold">Der Bund "Hagen".</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>216-230</cell>
+            <cell><hi rend="bold">Japanische Ausstellung.</hi> (Sechste Ausstellung der Vereinigung bildender Künstler Österreichs, Secession)</cell>
+          </row>
+          <row>
+            <cell>231-243</cell>
+            <cell>
+              <hi rend="bold">Alfred Lichtwark.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>244-254</cell>
+            <cell>
+              <hi rend="bold">Vier Interieurs.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>255-259</cell>
+            <cell>
+              <hi rend="bold">Antwort.</hi>
+            </cell>
+          </row>
+        </table>
+      </div>
+      <div xml:id="inhaltsvz">
+        <head>Kommentiertes Inhaltsverzeichnis</head>
+        <list type="gloss">
+          <label>Künstlerhaus 1896</label>
+          <item>Bahrs Kritik am Künstlerhaus gründet auf dem Argument, hier würden keine Kunstwerke, sondern im besten Fall schmückende Waren präsentiert.</item>
+          <label>Unsere Secession</label>
+          <item>Anders als in Paris oder München, wo die Secession die Abspaltung der jungen von der alten Kunst bedeutete, stellte sich nach Bahr die Sache in Wien als eine Abspaltung der Kunst von der Fabrikation unkünstlerischer Dekorationen dar.</item>
+          <label>Ver Sacrum</label>
+          <item>Nachdem Bahr eingangs den Maler Theodor von Hörmann als Secessionisten avant la lettre dargestellt hat, kommt er auf die Unterscheidung zwischen Secession und Künstlerhaus zu sprechen, die ihm zur Differenz zwischen Kunst und Nicht-Kunst wird.</item>
+          <label>Erste Kunstausstellung der Vereinigung bildender Künstler Österreichs</label>
+          <item>Eine detaillierte Schilderung der Ausstellung, die als großer Erfolg beschrieben wird. Herausragend seien die Werke Segantinis.</item>
+          <label>Architektur</label>
+          <item>Eine secessionistische Architektur habe sich vom Historismus abzuwenden und vom Bedürfnis des Bewohners auszugehen.</item>
+          <label>Künstlerhaus 1898</label>
+          <item>Bahr prangert die Tendenz im Künstlerhaus an, die Secession zu kopieren. Besonders harsch kritisiert er die Ausstellung von Werken Rodins, Besnards und Puvis des Chavannes, die als korrespondierende Mitglieder der Secession nur dort ausgestellt werden dürften. Bahr wittert eine Intrige.</item>
+          <label>Das Landhaus</label>
+          <item>Die Landhäuser in Ischl werden von Bahr gegen die historistische Architektur der Ringstrasse ins Feld geführt; ihre schnörkellose Funktionalität verweist auf die neue secessionistische Architektur.</item>
+          <label>Fünfzig Jahre</label>
+          <item>Die Ausstellung der Genossenschaft, in der Werke aus den vergangenen fünfzig Jahren österreichischer Malerei zu sehen sind, wird von Bahr als Werbung für die Secession gedeutet: denn neben dem Lichtblick Waldmüller sei hier nur höchst mittelmäßige Kunst ausgestellt.</item>
+          <label>Meister Olbrich</label>
+          <item>Olbrichs Secession wird Bahr zu einem Beispiel gelungener Architektur. Alles sei hier auf konkrete Bedürfnisse ausgelegt, die sich aus der besonderen Nutzung des Gebäudes ergeben, und gerade deshalb auch ästhetisch gelungen.</item>
+          <label>Im eigenen Hause</label>
+          <item>Bahr schildert detailliert die Ausstellung vom Herbst 1898 in der Secession. Dabei konzentriert er sich vor allem auf Zorn, Klimt, Engelhart, Moll, Stöhr, Krämer, König, Bernatzik, Gurschner und Moser.</item>
+          <label>Dritte Ausstellung</label>
+          <item>Die dritte Ausstellung der Secession. Bahr schildert vor allem die Werke Rysselberghes und gibt von hier ausgehend eine kurze Darstellung der Technik des Impressionismus.</item>
+          <label>Secession</label>
+          <item>Ebenfalls zur dritten Ausstellung. In diesem Aufsatz widmet sich Bahr vor allem Max Klinger.</item>
+          <label>Der erste Secessionist</label>
+          <item>Theodor von Hörmann wird von Bahr zum Secessionist avant la lettre stilisiert. Nach einem kurzen biographischen Abriss wendet er sich Hörmanns Maltechnik und seiner Auseinandersetzungen mit und in der Genossenschaft zu.</item>
+          <label>Otto Wagner</label>
+          <item>Wagner wird Bahr zu einem „Führer der Jugend“, der in seiner Broschüre „Moderne Architektur“ die Weichen für die neue Baukunst stellt.</item>
+          <label>Malerei</label>
+          <item>Bahr zum Maler Hans Schwaiger, dessen Werk er aus dem Lebensmilieu des Künstlers erklärt: Mitten im slowakischen Wald malt dieser Hexen, Zwerge und Nixen; seinen Märchen haftet jedoch der Geruch von Wirklichkeit an.</item>
+          <label>Die vierte Ausstellung</label>
+          <item>Die vierte Ausstellung der Secession: Bahr beschäftigt sich vor allem mit Werken von Klimt, Engelhart, Andri und Ries.</item>
+          <label>Unter Statuen</label>
+          <item>Bahr vor griechischen Statuen: diese seien Ausdruck moralischer Vorstellungen, ja ethischer Gewissheiten, die der Künstler zu kommunizieren versucht.</item>
+          <label>In der Schule</label>
+          <item>Unter Anlehnung an Alfred Lichtwark versucht Bahr, für eine bessere künstlerische Erziehung in der Schule zu wirken. Am vordringlichsten scheint ihm die Ausstattung der Schulgebäude mit Kunstwerken.</item>
+          <label>Graphische Ausstellung</label>
+          <item>Bahr geht davon aus, dass das jüngst wieder erstarkte Interesse an Radierungen und Zeichnungen mit der Vorstellung zu tun habe, in diesen flüchtigen und kleinen Werken die Persönlichkeit des Künstlers unverfälschter und unmittelbarer vor sich zu haben als in großen Malereien. Von hier ausgehend wendet er sich den „graphischen“ Werken Klingers, Rops‘, Monvels, Leistikows, Klimts und Wagners zu.</item>
+          <label>Der Sessel</label>
+          <item>Anhand des titelgebenden Möbelstücks reflektiert Bahr über die Möglichkeit einer Kunst der Gebrauchsgegenstände, die sowohl funktional als auch persönlich und national zu sein habe.</item>
+          <label>Die falsche Secession</label>
+          <item>Im großen Erfolg der Secession erkennt Bahr eine Gefahr für die künstlerische Bewegung: durch ihn könnten künstlerische Gesten zur immer wieder wiederholten, bloßen Manier erstarren.</item>
+          <label>Der englische Stil</label>
+          <item>Bahr kritisiert Scalas Einfall, der österreichischen Innenarchitektur ein englisches Vorbild anzuempfehlen und favorisiert eine autonome Entwicklung der „Hauskunst“.</item>
+          <label>Contrefaçon</label>
+          <item>Mit Blick auf die Entwicklung des Kunsthandwerks wiederholt Bahr seine Kritik aus der „falschen Secession“. Dabei stößt er eine Copyright-Diskussion zwischen Niedermoser und Olbrich an.</item>
+          <label>Aquarelle</label>
+          <item>Eine Ausstellung des Aquarellistenclubs bei der Vereinigung österreichischer Künstler nimmt Bahr zum Anlass, wieder vor der Gefahr eines entkontextualisierten Kopierens secessionistisch anmutender Versatzstücke zu warnen.</item>
+          <label>Kunstchronik</label>
+          <item>Bahr lobt das Buch „Ideen“ von Olbrich und berichtet kurz und nicht ohne Vorbehalte von Ausstellungen der Werke Schlesingers und Wisinger-Florians.</item>
+          <label>Der Bund „Hagen“</label>
+          <item>Die Ausstellung des Bundes „Hagen“ im Künstlerhaus erfreut Bahr durch die lockere Hängung der Bilder und die Werke von Wilhelm Hejda und Alfred Zoff, die er als „zwei wirklich bedeutende Künstler“ bezeichnet.</item>
+          <label>Japanische Ausstellung</label>
+          <item>In der japanischen Kunst, die Bahr in der sechsten Ausstellung der Secession begutachten kann, erkennt er die Größe einer Kunst, der es nicht um Illusion zu tun ist.</item>
+          <label>Alfred Lichtwark</label>
+          <item>Bahr schildert das Programm Alfred Lichtwarks, der die Kunst als eine „wirtschaftliche Macht“ beschreibt und stimmt ihm zu, wenn es darum geht, den Staat für das Projekt einer künstlerischen Erziehung der Bevölkerung in die Pflicht zu nehmen.</item>
+          <label>Vier Interieurs</label>
+          <item>Bahr schildert vier Epochen und ihre häuslichen Milieus: 1814, 1844, 1874 und 1899.</item>
+          <label>Antwort</label>
+          <item>Auf einen Brief, der ihm allzu ungerichtete Umtriebigkeit unterstellt, antwortet Bahr, dass es heute in Österreich eher darum gehe, überhaupt tätig zu sein als darum, was man denn genau tue.</item>
+          <label/>
+          <item>
+            <hi rend="h3">Digitalisate</hi>
+          </item>
+          <label/>
+          <item>
+            <hi rend="italic">Kritische Schriften in Einzelausgaben:</hi>
+          </item>
+          <label/>
+          <item>
+            <ref target="https://bahr.univie.ac.at/sites/all/ks/6-secession-2.pdf" type="sites-all">
+              <hi rend="bold">2., durchgesehene Auflage</hi>
+            </ref>
+          </item>
+          <label/>
+          <item>
+            <ref target="https://bahr.univie.ac.at/sites/all/ks/6-secession.pdf" type="sites-all">
+              <hi rend="bold">1. Auflage</hi>
+            </ref>
+          </item>
+          <label/>
+          <item>
+            <hi rend="italic">Faksimile der Erstausgabe:</hi>
+          </item>
+          <label/>
+          <item>
+            <ref target="http://www.archive.org/search.php?query=hermann%20bahr%20secession">Archive.org</ref>
+          </item>
+          <label/>
+          <item>
+            <ref target="http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=55">ÖNB-ANNO</ref>
+          </item>
+        </list>
+      </div>
+    </body>
+  </text>
+</TEI>

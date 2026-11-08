@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "75044c40-c4b9-4230-a019-d596ca6ecf26",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/75044c40-c4b9-4230-a019-d596ca6ecf26?resourceVersion=id%3A3427"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/75044c40-c4b9-4230-a019-d596ca6ecf26?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49600,
+    "drupal_internal__vid": 3427,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Laiendarsteller im Tegetthofsaal",
+    "created": "2011-11-11T14:50:34+00:00",
+    "changed": "2012-09-25T09:56:51+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49600",
+      "pid": 1416,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Im Selbstbildnis berichtet Bahr, wie er als komischer Schauspieler für Laienaufführungen im Tegetthoffsaal engagiert wird, dort zum Leidwesen des \"Regisseurs\" viel improvisiert und in ernsten Rollen durchfällt. Im Zuge dieser Inszenierungen wird zum ersten Mal ein Stück Bahrs aufgeführt, \"Der fixe Punkt\".\r\nEine Satire der Laiendarstellungen bringt Bahr am 1. Jänner 1883 in seinem Text \"Der Dilettirfer\".",
+      "format": "full_html",
+      "processed": "Im Selbstbildnis berichtet Bahr, wie er als komischer Schauspieler für Laienaufführungen im Tegetthoffsaal engagiert wird, dort zum Leidwesen des \"Regisseurs\" viel improvisiert und in ernsten Rollen durchfällt. Im Zuge dieser Inszenierungen wird zum ersten Mal ein Stück Bahrs aufgeführt, \"Der fixe Punkt\".\nEine Satire der Laiendarstellungen bringt Bahr am 1. Jänner 1883 in seinem Text \"Der Dilettirfer\".",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1882-04-01",
+      "end_value": "1882-05-31"
+    },
+    "field_sources": [
+      "Selbstbildnis, 132-133.",
+      "Hermann Bahr: Der Dilettirfer. Eine Decemberstudie. Deutsche Hochschule. Organ der deutschen Studentenschaft, 2 (1883) #44, 1-4. (1.1.1883)",
+      "(Hier etwas willkürlich auf April/Mai 1882 datiert, da die Ereignisse davor im Februar 1882 angesiedelt sind)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/75044c40-c4b9-4230-a019-d596ca6ecf26/node_type?resourceVersion=id%3A3427"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/75044c40-c4b9-4230-a019-d596ca6ecf26/relationships/node_type?resourceVersion=id%3A3427"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/75044c40-c4b9-4230-a019-d596ca6ecf26/revision_uid?resourceVersion=id%3A3427"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/75044c40-c4b9-4230-a019-d596ca6ecf26/relationships/revision_uid?resourceVersion=id%3A3427"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/75044c40-c4b9-4230-a019-d596ca6ecf26/uid?resourceVersion=id%3A3427"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/75044c40-c4b9-4230-a019-d596ca6ecf26/relationships/uid?resourceVersion=id%3A3427"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/75044c40-c4b9-4230-a019-d596ca6ecf26/field_event_type?resourceVersion=id%3A3427"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/75044c40-c4b9-4230-a019-d596ca6ecf26/relationships/field_event_type?resourceVersion=id%3A3427"
+        }
+      }
+    }
+  }
+}

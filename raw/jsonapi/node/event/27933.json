@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "38e71db3-40d8-4ba8-b964-0e77b2a7354d",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/38e71db3-40d8-4ba8-b964-0e77b2a7354d?resourceVersion=id%3A2275"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/38e71db3-40d8-4ba8-b964-0e77b2a7354d?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27933,
+    "drupal_internal__vid": 2275,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Bildung",
+    "created": "2010-07-19T11:05:39+00:00",
+    "changed": "2012-11-13T15:33:40+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/27933",
+      "pid": 109,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Vermutlich im frühen Herbst 1900 erscheint \"Bildung\", eine Sammlung von Aufsätzen, die in der \"Zeit\" und im \"Neuen Wiener Tagblatt\" zuerst abgedruckt waren. Am 6. Dezember 1900 bedankt sich der Unterrichtsminister Wilhelm Ritter von Hartel bei Bahr. Hugo von Hofmannsthal kann erst am 21. Jänner 1901 berichten, ein Exemplar vom Verlag bekommen zu haben. Ob es zu Lieferverzögerungen kam und damit ein Grund vorliegt, warum weite Teile des Buchs 1912 in den \"Essays\" integriert und neu aufgelegt werden?",
+      "format": "full_html",
+      "processed": "Vermutlich im frühen Herbst 1900 erscheint \"Bildung\", eine Sammlung von Aufsätzen, die in der \"Zeit\" und im \"Neuen Wiener Tagblatt\" zuerst abgedruckt waren. Am 6. Dezember 1900 bedankt sich der Unterrichtsminister Wilhelm Ritter von Hartel bei Bahr. Hugo von Hofmannsthal kann erst am 21. Jänner 1901 berichten, ein Exemplar vom Verlag bekommen zu haben. Ob es zu Lieferverzögerungen kam und damit ein Grund vorliegt, warum weite Teile des Buchs 1912 in den \"Essays\" integriert und neu aufgelegt werden?",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1900-10-01",
+      "end_value": "1900-10-01"
+    },
+    "field_sources": [
+      "Hermann Bahr: Bildung. Essays. Leipzig: Schuster & Loeffler, 1900.",
+      "Briefwechsel Bahr/Hofmannsthal. Hg. Elsbeth Dangel-Pelloquin. Göttingen: Wallstein. (In Vorbereitung) Anm. zu an HB, 21.1.1901",
+      "Brief Hartels im Nachlass Bahr"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/38e71db3-40d8-4ba8-b964-0e77b2a7354d/node_type?resourceVersion=id%3A2275"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/38e71db3-40d8-4ba8-b964-0e77b2a7354d/relationships/node_type?resourceVersion=id%3A2275"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/38e71db3-40d8-4ba8-b964-0e77b2a7354d/revision_uid?resourceVersion=id%3A2275"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/38e71db3-40d8-4ba8-b964-0e77b2a7354d/relationships/revision_uid?resourceVersion=id%3A2275"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/38e71db3-40d8-4ba8-b964-0e77b2a7354d/uid?resourceVersion=id%3A2275"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/38e71db3-40d8-4ba8-b964-0e77b2a7354d/relationships/uid?resourceVersion=id%3A2275"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "da42ac4a-f48f-4397-af4d-b66e913825fb",
+          "meta": {
+            "drupal_internal__target_id": 3
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/38e71db3-40d8-4ba8-b964-0e77b2a7354d/field_event_type?resourceVersion=id%3A2275"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/38e71db3-40d8-4ba8-b964-0e77b2a7354d/relationships/field_event_type?resourceVersion=id%3A2275"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "type": "file--file",
+  "id": "e4cdd444-48c1-4547-a982-e60cf6734069",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/file/file/e4cdd444-48c1-4547-a982-e60cf6734069"
+    }
+  },
+  "attributes": {
+    "drupal_internal__fid": 196,
+    "langcode": "de",
+    "filename": "1891_gesellschaft.jpg",
+    "uri": {
+      "value": "public://bahr_bilder/1891_gesellschaft.jpg",
+      "url": "/sites/default/files/bahr_bilder/1891_gesellschaft.jpg"
+    },
+    "filemime": "image/jpeg",
+    "filesize": 421265,
+    "status": true,
+    "created": "2020-02-18T15:00:35+00:00",
+    "changed": "2020-02-18T15:11:43+00:00"
+  },
+  "relationships": {
+    "uid": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/file/file/e4cdd444-48c1-4547-a982-e60cf6734069/uid"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/file/file/e4cdd444-48c1-4547-a982-e60cf6734069/relationships/uid"
+        }
+      }
+    }
+  }
+}

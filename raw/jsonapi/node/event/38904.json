@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "c717f05b-6365-4425-a814-15649b2a626d",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/c717f05b-6365-4425-a814-15649b2a626d?resourceVersion=id%3A2693"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/c717f05b-6365-4425-a814-15649b2a626d?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38904,
+    "drupal_internal__vid": 2693,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Abwehr des Kriegsnotstandes",
+    "created": "2011-03-07T15:11:31+00:00",
+    "changed": "2011-07-18T14:53:39+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38904",
+      "pid": 647,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 5. September 1914 berichtet die \"Salzburger Wacht\" über einen Vortrag, den Bahr in den Tagen zuvor in der Versammlung der Sektion II des Frauen-Kriegshilfe-Komitees gehalten hat und liefert eine Mitschrift im Auszug.",
+      "format": "full_html",
+      "processed": "Am 5. September 1914 berichtet die \"Salzburger Wacht\" über einen Vortrag, den Bahr in den Tagen zuvor in der Versammlung der Sektion II des Frauen-Kriegshilfe-Komitees gehalten hat und liefert eine Mitschrift im Auszug.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1914-09-05",
+      "end_value": "1914-09-05"
+    },
+    "field_sources": [
+      "Salzburger Wacht, 15 (1914) #201, 5. (5.9.1914) "
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c717f05b-6365-4425-a814-15649b2a626d/node_type?resourceVersion=id%3A2693"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c717f05b-6365-4425-a814-15649b2a626d/relationships/node_type?resourceVersion=id%3A2693"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c717f05b-6365-4425-a814-15649b2a626d/revision_uid?resourceVersion=id%3A2693"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c717f05b-6365-4425-a814-15649b2a626d/relationships/revision_uid?resourceVersion=id%3A2693"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c717f05b-6365-4425-a814-15649b2a626d/uid?resourceVersion=id%3A2693"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c717f05b-6365-4425-a814-15649b2a626d/relationships/uid?resourceVersion=id%3A2693"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c717f05b-6365-4425-a814-15649b2a626d/field_event_type?resourceVersion=id%3A2693"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c717f05b-6365-4425-a814-15649b2a626d/relationships/field_event_type?resourceVersion=id%3A2693"
+        }
+      }
+    }
+  }
+}

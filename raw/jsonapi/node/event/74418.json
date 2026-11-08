@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "a4c844e3-267e-4059-8a4b-7534c8b9efda",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/a4c844e3-267e-4059-8a4b-7534c8b9efda?resourceVersion=id%3A3746"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/a4c844e3-267e-4059-8a4b-7534c8b9efda?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74418,
+    "drupal_internal__vid": 3746,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Jacobsohn in Ober St. Veit",
+    "created": "2012-10-30T12:48:36+00:00",
+    "changed": "2012-10-30T12:48:36+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/74418",
+      "pid": 1792,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 8. Januar 1905 notiert sich Siegfried Jacobsohn:<blockquote>Heute, Sonntag, von elf bis vier: Bei Bahr. Wir sind uns einmal in einer berliner Premierenpause vorgestellt worden. Da war ihm Grund genug, mich in einem charmanten Brief zu Essen zu laden. Eine Wonne: weit draußen in Ober-Sankt-Veit, einem ganz dörflichen Vorort, in den man fast eine Stunde hinausfährt, eine ganz moderne Villa, voll der schönsten Möbel, Bilder, Büsten, Bücher, auf einem Hügel gelegen und mit köstlichsten Aussichten nach allen Seiten. […]</blockquote>",
+      "format": "full_html",
+      "processed": "Am 8. Januar 1905 notiert sich Siegfried Jacobsohn:<blockquote>Heute, Sonntag, von elf bis vier: Bei Bahr. Wir sind uns einmal in einer berliner Premierenpause vorgestellt worden. Da war ihm Grund genug, mich in einem charmanten Brief zu Essen zu laden. Eine Wonne: weit draußen in Ober-Sankt-Veit, einem ganz dörflichen Vorort, in den man fast eine Stunde hinausfährt, eine ganz moderne Villa, voll der schönsten Möbel, Bilder, Büsten, Bücher, auf einem Hügel gelegen und mit köstlichsten Aussichten nach allen Seiten. […]</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1905-01-08",
+      "end_value": "1905-01-08"
+    },
+    "field_sources": [
+      "Siegfried Jacobsohn: Gesammelte Schriften. Göttingen: Wallstein 2005, II, 315."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a4c844e3-267e-4059-8a4b-7534c8b9efda/node_type?resourceVersion=id%3A3746"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a4c844e3-267e-4059-8a4b-7534c8b9efda/relationships/node_type?resourceVersion=id%3A3746"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a4c844e3-267e-4059-8a4b-7534c8b9efda/revision_uid?resourceVersion=id%3A3746"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a4c844e3-267e-4059-8a4b-7534c8b9efda/relationships/revision_uid?resourceVersion=id%3A3746"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a4c844e3-267e-4059-8a4b-7534c8b9efda/uid?resourceVersion=id%3A3746"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a4c844e3-267e-4059-8a4b-7534c8b9efda/relationships/uid?resourceVersion=id%3A3746"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a4c844e3-267e-4059-8a4b-7534c8b9efda/field_event_type?resourceVersion=id%3A3746"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a4c844e3-267e-4059-8a4b-7534c8b9efda/relationships/field_event_type?resourceVersion=id%3A3746"
+        }
+      }
+    }
+  }
+}

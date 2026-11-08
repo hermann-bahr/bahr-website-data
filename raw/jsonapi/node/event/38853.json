@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "afb9493d-a2c0-4d64-82c4-a3edb85c9510",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/afb9493d-a2c0-4d64-82c4-a3edb85c9510?resourceVersion=id%3A2669"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/afb9493d-a2c0-4d64-82c4-a3edb85c9510?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38853,
+    "drupal_internal__vid": 2669,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Semmering",
+    "created": "2011-02-15T16:24:10+00:00",
+    "changed": "2011-09-19T12:05:28+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38853",
+      "pid": 597,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Brahm an Hirschfeld, 29.1.1912: <blockquote>mein Aufenthalt „am“ Semmering“, vor drei Wochen anhebend, hat mich merkwürdig erfrischt; […] Die Freunde Arthur, Jakob und Hermann (um mich landsgemäß zu wenden) waren oben und leisteten, nebst Frau Olga, angenehme Gesellschaft;</blockquote>Gemeint sind neben Bahr: Arthur Schnitzler, seine Frau Olga Schnitzler sowie Jakob Wasssermann. Zumindest am 12. Dezember war Bahr nachweislich am Semmering, wo er sich von einer Vortragsreise erholte. Am 22. fand das Treffen mit Landauer statt, war er also nicht mehr in der Villa Mautner.",
+      "format": "full_html",
+      "processed": "Brahm an Hirschfeld, 29.1.1912: <blockquote>mein Aufenthalt „am“ Semmering“, vor drei Wochen anhebend, hat mich merkwürdig erfrischt; […] Die Freunde Arthur, Jakob und Hermann (um mich landsgemäß zu wenden) waren oben und leisteten, nebst Frau Olga, angenehme Gesellschaft;</blockquote>Gemeint sind neben Bahr: Arthur Schnitzler, seine Frau Olga Schnitzler sowie Jakob Wasssermann. Zumindest am 12. Dezember war Bahr nachweislich am Semmering, wo er sich von einer Vortragsreise erholte. Am 22. fand das Treffen mit Landauer statt, war er also nicht mehr in der Villa Mautner.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1911-12-12",
+      "end_value": "1911-12-12"
+    },
+    "field_sources": [
+      "Georg Hirschfeld: Otto Brahm. Briefe und Erinnerungen. Berlin: Stilke 1925, 267-268.",
+      "Bahr/Kvapil, 147. (Brief an Kvapil, 12.12.11)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/afb9493d-a2c0-4d64-82c4-a3edb85c9510/node_type?resourceVersion=id%3A2669"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/afb9493d-a2c0-4d64-82c4-a3edb85c9510/relationships/node_type?resourceVersion=id%3A2669"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/afb9493d-a2c0-4d64-82c4-a3edb85c9510/revision_uid?resourceVersion=id%3A2669"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/afb9493d-a2c0-4d64-82c4-a3edb85c9510/relationships/revision_uid?resourceVersion=id%3A2669"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/afb9493d-a2c0-4d64-82c4-a3edb85c9510/uid?resourceVersion=id%3A2669"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/afb9493d-a2c0-4d64-82c4-a3edb85c9510/relationships/uid?resourceVersion=id%3A2669"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/afb9493d-a2c0-4d64-82c4-a3edb85c9510/field_event_type?resourceVersion=id%3A2669"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/afb9493d-a2c0-4d64-82c4-a3edb85c9510/relationships/field_event_type?resourceVersion=id%3A2669"
+        }
+      }
+    }
+  }
+}

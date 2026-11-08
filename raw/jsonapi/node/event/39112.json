@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "b043af36-838d-4ca0-a413-8286c0f09769",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b043af36-838d-4ca0-a413-8286c0f09769?resourceVersion=id%3A2877"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b043af36-838d-4ca0-a413-8286c0f09769?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39112,
+    "drupal_internal__vid": 2877,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Gastspiel \"Deutsches Theater\"",
+    "created": "2011-05-20T13:21:26+00:00",
+    "changed": "2011-06-27T11:40:44+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39112",
+      "pid": 842,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Nahtlos an das Gastspiel Novellis schließt sich im Mai 1900 in Wien das Gastspiel des Berliner \"Deutschen Theaters\" an (während im Austausch das Wiener \"Deutsche Volkstheater\" in Berlin spielt). Bahrs Besprechungen zwischen dem 10. Mai und dem 9. Juni 1900 wurden als ungerecht und skandallös empfunden, weil er, nachdem er Novelli in den Himmel gelobt hatte, an den Deutschen kein gutes Haar ließ. Die Folge war der Zivilrechtsprozess Bahr/Bukovics gegen Kraus, den Kraus verlor. Kraus schrieb:<blockquote>Aber Herr Bahr hatte nicht einen, er hatte mehrere unsaubere Gründe für sein kritisches Vorgehen. Herr Brahm hat ihm sein Stück \"Josephine\" abgelehnt, und Herrn Bukovics ist er nicht nur für Tantièmen, sondern auch für die Ueberlassung eines Freiplatzes zu Danke verpflichtet. Andere Journalisten lassen sich durch Freiplätze vom Tadeln nicht abhalten; aber ein Kritiker, dem ein Theaterdirector gleich einen Freiplatz\r\nin Unter St. Veit schenkt, hat guten Grund — zum Bau einer Villa.</blockquote>",
+      "format": "full_html",
+      "processed": "Nahtlos an das Gastspiel Novellis schließt sich im Mai 1900 in Wien das Gastspiel des Berliner \"Deutschen Theaters\" an (während im Austausch das Wiener \"Deutsche Volkstheater\" in Berlin spielt). Bahrs Besprechungen zwischen dem 10. Mai und dem 9. Juni 1900 wurden als ungerecht und skandallös empfunden, weil er, nachdem er Novelli in den Himmel gelobt hatte, an den Deutschen kein gutes Haar ließ. Die Folge war der Zivilrechtsprozess Bahr/Bukovics gegen Kraus, den Kraus verlor. Kraus schrieb:<blockquote>Aber Herr Bahr hatte nicht einen, er hatte mehrere unsaubere Gründe für sein kritisches Vorgehen. Herr Brahm hat ihm sein Stück \"Josephine\" abgelehnt, und Herrn Bukovics ist er nicht nur für Tantièmen, sondern auch für die Ueberlassung eines Freiplatzes zu Danke verpflichtet. Andere Journalisten lassen sich durch Freiplätze vom Tadeln nicht abhalten; aber ein Kritiker, dem ein Theaterdirector gleich einen Freiplatz\nin Unter St. Veit schenkt, hat guten Grund — zum Bau einer Villa.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1900-05-10",
+      "end_value": "1900-06-09"
+    },
+    "field_sources": [
+      "Siehe Neues Wiener Tagblatt bzw. die Buchausgabe in den Premièren, 198-226.",
+      "Vgl. Kraus: Fackel, 2 (1900) #43, 16ff, Zitat: 25."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b043af36-838d-4ca0-a413-8286c0f09769/node_type?resourceVersion=id%3A2877"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b043af36-838d-4ca0-a413-8286c0f09769/relationships/node_type?resourceVersion=id%3A2877"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b043af36-838d-4ca0-a413-8286c0f09769/revision_uid?resourceVersion=id%3A2877"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b043af36-838d-4ca0-a413-8286c0f09769/relationships/revision_uid?resourceVersion=id%3A2877"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b043af36-838d-4ca0-a413-8286c0f09769/uid?resourceVersion=id%3A2877"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b043af36-838d-4ca0-a413-8286c0f09769/relationships/uid?resourceVersion=id%3A2877"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b043af36-838d-4ca0-a413-8286c0f09769/field_event_type?resourceVersion=id%3A2877"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b043af36-838d-4ca0-a413-8286c0f09769/relationships/field_event_type?resourceVersion=id%3A2877"
+        }
+      }
+    }
+  }
+}

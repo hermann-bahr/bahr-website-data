@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bilder__fackel-karikatur" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Fackel-Karikatur</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">49753</idno>
+        <idno type="drupal-alias">/bild/49753</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bild/49753">https://bahr.univie.ac.at/bild/49753</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="7" key="bilder">Bilder</term>
+          <term n="47" key="fackel-karikatur" type="eintrag">Fackel-Karikatur</term>
+        </keywords>
+        <classCode scheme="drupal-type">image</classCode>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2012-01-03T11:17:05+00:00" type="created">angelegt in Drupal</change>
+      <change when="2012-01-03T11:21:22+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <figure>
+          <graphic url="files/bahr_bilder/1922_fackel.jpg"/>
+          <figDesc>Fackel-Karikatur</figDesc>
+        </figure>
+        <p>
+          <hi rend="italic">Chr. Dark [=Mechthilde Lichnowsky] als Beilage zur Fackel, 24 (1922) #608-612. (Ende Dezember 1922)</hi>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

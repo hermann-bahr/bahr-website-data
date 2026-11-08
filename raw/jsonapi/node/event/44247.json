@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "dcd56da5-31d0-458a-b88c-7b8e71b1dd17",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/dcd56da5-31d0-458a-b88c-7b8e71b1dd17?resourceVersion=id%3A3161"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/dcd56da5-31d0-458a-b88c-7b8e71b1dd17?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44247,
+    "drupal_internal__vid": 3161,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Harden, JR",
+    "created": "2011-10-03T13:50:06+00:00",
+    "changed": "2011-10-24T14:20:19+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44247",
+      "pid": 1140,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Tagebuch Redlich, 18. November 1904:<blockquote>Lunch mit Maximilian Harden bei Bahr: er gehört zu den Literaten, die als redende Menschen viel von ihrem Einfluß verlieren.</blockquote>",
+      "format": "full_html",
+      "processed": "Tagebuch Redlich, 18. November 1904:<blockquote>Lunch mit Maximilian Harden bei Bahr: er gehört zu den Literaten, die als redende Menschen viel von ihrem Einfluß verlieren.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1904-11-18",
+      "end_value": "1904-11-18"
+    },
+    "field_sources": [
+      "Bahr/Redlich, 39.",
+      "Fritz Fellner und Doris A. Corradini (Hgg.): Schicksalsjahre Österreichs. Die Erinnerungen und Tagebücher Josef Redlichs 1869–1936. Wien: Böhlau 2011, I, 161."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/dcd56da5-31d0-458a-b88c-7b8e71b1dd17/node_type?resourceVersion=id%3A3161"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/dcd56da5-31d0-458a-b88c-7b8e71b1dd17/relationships/node_type?resourceVersion=id%3A3161"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/dcd56da5-31d0-458a-b88c-7b8e71b1dd17/revision_uid?resourceVersion=id%3A3161"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/dcd56da5-31d0-458a-b88c-7b8e71b1dd17/relationships/revision_uid?resourceVersion=id%3A3161"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/dcd56da5-31d0-458a-b88c-7b8e71b1dd17/uid?resourceVersion=id%3A3161"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/dcd56da5-31d0-458a-b88c-7b8e71b1dd17/relationships/uid?resourceVersion=id%3A3161"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/dcd56da5-31d0-458a-b88c-7b8e71b1dd17/field_event_type?resourceVersion=id%3A3161"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/dcd56da5-31d0-458a-b88c-7b8e71b1dd17/relationships/field_event_type?resourceVersion=id%3A3161"
+        }
+      }
+    }
+  }
+}

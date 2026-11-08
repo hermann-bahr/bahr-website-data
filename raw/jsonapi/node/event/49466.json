@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "fa86674a-d07c-4561-9fc1-b450aa61146e",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/fa86674a-d07c-4561-9fc1-b450aa61146e?resourceVersion=id%3A3304"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/fa86674a-d07c-4561-9fc1-b450aa61146e?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49466,
+    "drupal_internal__vid": 3304,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Burckhard",
+    "created": "2011-10-24T10:20:50+00:00",
+    "changed": "2011-10-24T10:20:50+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49466",
+      "pid": 1288,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Ein regelmäßiger Besucher an Bahrs Krankenbett ist auch Max Burckhard, der zumindest am 26. Jänner und am 31. Jänner 1903 vorbeikommt.",
+      "format": "full_html",
+      "processed": "Ein regelmäßiger Besucher an Bahrs Krankenbett ist auch Max Burckhard, der zumindest am 26. Jänner und am 31. Jänner 1903 vorbeikommt.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1903-01-26",
+      "end_value": "1903-01-31"
+    },
+    "field_sources": [
+      "Fritz Fellner und Doris A. Corradini (Hgg.): Schicksalsjahre Österreichs. Die Erinnerungen und Tagebücher Josef Redlichs 1869–1936. Wien: Böhlau 2011, I, 114-115"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fa86674a-d07c-4561-9fc1-b450aa61146e/node_type?resourceVersion=id%3A3304"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fa86674a-d07c-4561-9fc1-b450aa61146e/relationships/node_type?resourceVersion=id%3A3304"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fa86674a-d07c-4561-9fc1-b450aa61146e/revision_uid?resourceVersion=id%3A3304"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fa86674a-d07c-4561-9fc1-b450aa61146e/relationships/revision_uid?resourceVersion=id%3A3304"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fa86674a-d07c-4561-9fc1-b450aa61146e/uid?resourceVersion=id%3A3304"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fa86674a-d07c-4561-9fc1-b450aa61146e/relationships/uid?resourceVersion=id%3A3304"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fa86674a-d07c-4561-9fc1-b450aa61146e/field_event_type?resourceVersion=id%3A3304"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fa86674a-d07c-4561-9fc1-b450aa61146e/relationships/field_event_type?resourceVersion=id%3A3304"
+        }
+      }
+    }
+  }
+}

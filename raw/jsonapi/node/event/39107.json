@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "6ef95ad7-312b-40ae-895d-f9c793b86542",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/6ef95ad7-312b-40ae-895d-f9c793b86542?resourceVersion=id%3A2873"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/6ef95ad7-312b-40ae-895d-f9c793b86542?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39107,
+    "drupal_internal__vid": 2873,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Anzengruber-Denkmal und Antisemitismus",
+    "created": "2011-05-20T12:15:37+00:00",
+    "changed": "2011-12-13T11:42:59+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39107",
+      "pid": 838,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Karl Kraus behauptet 1899 über Bahr:\r\n<blockquote>Dass er einst als antisemitischer Couleurstudent sein Unwesen getrieben, ward ihm dabei nicht angerechnet. Viel mehr Beachtung fand die Thatsache, dass er später sich geweigert hat, einen Aufruf für das Anzengruber-Denkmal zu unterzeichnen, weil — Anzengruber Antisemit gewesen sei.</blockquote>Doch auf dem im Februar 1899 publizierten \"Aufruf\" findet sich Bahrs Name unter den über 150 Namen. Das Denkmal wurde 1905 eingeweiht.",
+      "format": "full_html",
+      "processed": "Karl Kraus behauptet 1899 über Bahr:\n<blockquote>Dass er einst als antisemitischer Couleurstudent sein Unwesen getrieben, ward ihm dabei nicht angerechnet. Viel mehr Beachtung fand die Thatsache, dass er später sich geweigert hat, einen Aufruf für das Anzengruber-Denkmal zu unterzeichnen, weil — Anzengruber Antisemit gewesen sei.</blockquote>Doch auf dem im Februar 1899 publizierten \"Aufruf\" findet sich Bahrs Name unter den über 150 Namen. Das Denkmal wurde 1905 eingeweiht.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1899-02-01",
+      "end_value": "1899-02-01"
+    },
+    "field_sources": [
+      "Die Fackel, 1 (1899) #19, 30.",
+      "Ein Denkmal für Ludwig Anzengruber. Wien: Verlag des Anzengruber-Denkmal-Ausschusses 1899."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6ef95ad7-312b-40ae-895d-f9c793b86542/node_type?resourceVersion=id%3A2873"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6ef95ad7-312b-40ae-895d-f9c793b86542/relationships/node_type?resourceVersion=id%3A2873"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6ef95ad7-312b-40ae-895d-f9c793b86542/revision_uid?resourceVersion=id%3A2873"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6ef95ad7-312b-40ae-895d-f9c793b86542/relationships/revision_uid?resourceVersion=id%3A2873"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6ef95ad7-312b-40ae-895d-f9c793b86542/uid?resourceVersion=id%3A2873"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6ef95ad7-312b-40ae-895d-f9c793b86542/relationships/uid?resourceVersion=id%3A2873"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6ef95ad7-312b-40ae-895d-f9c793b86542/field_event_type?resourceVersion=id%3A2873"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6ef95ad7-312b-40ae-895d-f9c793b86542/relationships/field_event_type?resourceVersion=id%3A2873"
+        }
+      }
+    }
+  }
+}

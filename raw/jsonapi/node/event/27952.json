@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "576e5d17-2140-4075-a851-ce931ff9716b",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/576e5d17-2140-4075-a851-ce931ff9716b?resourceVersion=id%3A2293"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/576e5d17-2140-4075-a851-ce931ff9716b?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27952,
+    "drupal_internal__vid": 2293,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Schwarzgelb",
+    "created": "2010-07-19T14:58:14+00:00",
+    "changed": "2012-10-30T16:02:18+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/27952",
+      "pid": 127,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Im April 1917 gelangt die zweite vorwiegend aus Kriegspublizistik bestehende Textsammlung in den Handel. Hofmannsthal bestätigt Bahr den Erhalt für 19. April, vom folgenden Tag ist bereits eine Rezension im Nachlass Bahrs aufbewahrt.",
+      "format": "full_html",
+      "processed": "Im April 1917 gelangt die zweite vorwiegend aus Kriegspublizistik bestehende Textsammlung in den Handel. Hofmannsthal bestätigt Bahr den Erhalt für 19. April, vom folgenden Tag ist bereits eine Rezension im Nachlass Bahrs aufbewahrt.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1917-04-19",
+      "end_value": "1917-04-19"
+    },
+    "field_sources": [
+      "Hermann Bahr: Schwarzgelb. Berlin: S. Fischer, 1917.",
+      "Von HvH, 20.4.1917. Briefwechsel Bahr/Hofmannsthal. Hg. Elsbeth Dangel-Pelloquin. Göttingen: Wallstein. (In Vorbereitung)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/576e5d17-2140-4075-a851-ce931ff9716b/node_type?resourceVersion=id%3A2293"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/576e5d17-2140-4075-a851-ce931ff9716b/relationships/node_type?resourceVersion=id%3A2293"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/576e5d17-2140-4075-a851-ce931ff9716b/revision_uid?resourceVersion=id%3A2293"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/576e5d17-2140-4075-a851-ce931ff9716b/relationships/revision_uid?resourceVersion=id%3A2293"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/576e5d17-2140-4075-a851-ce931ff9716b/uid?resourceVersion=id%3A2293"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/576e5d17-2140-4075-a851-ce931ff9716b/relationships/uid?resourceVersion=id%3A2293"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "da42ac4a-f48f-4397-af4d-b66e913825fb",
+          "meta": {
+            "drupal_internal__target_id": 3
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/576e5d17-2140-4075-a851-ce931ff9716b/field_event_type?resourceVersion=id%3A2293"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/576e5d17-2140-4075-a851-ce931ff9716b/relationships/field_event_type?resourceVersion=id%3A2293"
+        }
+      }
+    }
+  }
+}

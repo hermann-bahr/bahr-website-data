@@ -1,0 +1,122 @@
+{
+  "type": "node--event",
+  "id": "f36cd9f7-2de3-4ddd-b9c5-5475afd0b231",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f36cd9f7-2de3-4ddd-b9c5-5475afd0b231?resourceVersion=id%3A3001"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f36cd9f7-2de3-4ddd-b9c5-5475afd0b231?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44084,
+    "drupal_internal__vid": 3001,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Eleonora Duse",
+    "created": "2011-09-07T13:09:49+00:00",
+    "changed": "2011-09-08T09:43:28+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44084",
+      "pid": 979,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Fast schon Pflicht ist es, für den \"Erfinder\" <i>der Duse</i>, ihr Gastspiel zu betreuen. Sie gastiert, sich leicht mit Isadora Duncan überlappend, vom 31. März bis zum 8. April 1903. Eingetroffen ist sie zwei Tage vor dem Gastspiel, eine angekündigte Verlängerung wird von der Künstlerin abgeblasen, die sich von einem Katarrh erholen muss.",
+      "format": "full_html",
+      "processed": "Fast schon Pflicht ist es, für den \"Erfinder\" <i>der Duse</i>, ihr Gastspiel zu betreuen. Sie gastiert, sich leicht mit Isadora Duncan überlappend, vom 31. März bis zum 8. April 1903. Eingetroffen ist sie zwei Tage vor dem Gastspiel, eine angekündigte Verlängerung wird von der Künstlerin abgeblasen, die sich von einem Katarrh erholen muss.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1903-03-29",
+      "end_value": "1903-04-08"
+    },
+    "field_sources": [
+      "Hermann Bahr: Die Duse. (Als Gast im Carl-Theater vom 31. März bis 8. April 1903). Neues Wiener Tagblatt, 37 (1903) #89, 1-3. (31.3.1903) Buchausgabe: Glossen, 331-337.",
+      "Ankunft in Wien: Neues Wiener Tagblatt, 37 (1903) #87, 8. (29.3.1903)",
+      "H. B.: Theater, Kunst und Literatur. Carl-Theater. Neues Wiener Tagblatt, 37 (1903) #90, 9-10. (1.4.1903) Buchausgabe: Glossen, 337-339.",
+      "H. B.: Theater, Kunst und Literatur. Carl-Theater. Neues Wiener Tagblatt, 37 (1903) #92, 9-10. (3.4.1903)",
+      "Die abgeblasene Verlängerung: Neues Wiener Tagblatt, 37 (1903) #96, 10. (7.4.1903)",
+      "Und: Neues Wiener Tagblatt, 37 (1903) #97, 9. (8.4.1903)",
+      "Tagebücher (Csàky), III, 278-284."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f36cd9f7-2de3-4ddd-b9c5-5475afd0b231/node_type?resourceVersion=id%3A3001"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f36cd9f7-2de3-4ddd-b9c5-5475afd0b231/relationships/node_type?resourceVersion=id%3A3001"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f36cd9f7-2de3-4ddd-b9c5-5475afd0b231/revision_uid?resourceVersion=id%3A3001"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f36cd9f7-2de3-4ddd-b9c5-5475afd0b231/relationships/revision_uid?resourceVersion=id%3A3001"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f36cd9f7-2de3-4ddd-b9c5-5475afd0b231/uid?resourceVersion=id%3A3001"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f36cd9f7-2de3-4ddd-b9c5-5475afd0b231/relationships/uid?resourceVersion=id%3A3001"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f36cd9f7-2de3-4ddd-b9c5-5475afd0b231/field_event_type?resourceVersion=id%3A3001"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f36cd9f7-2de3-4ddd-b9c5-5475afd0b231/relationships/field_event_type?resourceVersion=id%3A3001"
+        }
+      }
+    }
+  }
+}

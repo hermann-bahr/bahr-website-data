@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "4dc4ce4a-c841-43ea-91a7-95afbda778e8",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/4dc4ce4a-c841-43ea-91a7-95afbda778e8?resourceVersion=id%3A3805"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/4dc4ce4a-c841-43ea-91a7-95afbda778e8?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74494,
+    "drupal_internal__vid": 3805,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Linz",
+    "created": "2013-03-22T10:42:18+00:00",
+    "changed": "2013-03-22T10:42:18+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/74494",
+      "pid": 1868,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 31. August 1883 schreibt Bahr aus Linz an Pernerstorfer, wo er vermutlich die letzten Wochen bis zur Abreise nach Czernowitz bleibt.",
+      "format": "full_html",
+      "processed": "Am 31. August 1883 schreibt Bahr aus Linz an Pernerstorfer, wo er vermutlich die letzten Wochen bis zur Abreise nach Czernowitz bleibt.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1883-08-31",
+      "end_value": "1883-08-31"
+    },
+    "field_sources": [
+      "Günter Cerwinka: Hermann Bahrs Grazer Semester. Mit Briefen Bahrs zur Auseinandersetzung Pernerstorfer – Schönerer. Historisches Jahrbuch der Stadt Graz, 4 (1971), 145."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4dc4ce4a-c841-43ea-91a7-95afbda778e8/node_type?resourceVersion=id%3A3805"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4dc4ce4a-c841-43ea-91a7-95afbda778e8/relationships/node_type?resourceVersion=id%3A3805"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4dc4ce4a-c841-43ea-91a7-95afbda778e8/revision_uid?resourceVersion=id%3A3805"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4dc4ce4a-c841-43ea-91a7-95afbda778e8/relationships/revision_uid?resourceVersion=id%3A3805"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4dc4ce4a-c841-43ea-91a7-95afbda778e8/uid?resourceVersion=id%3A3805"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4dc4ce4a-c841-43ea-91a7-95afbda778e8/relationships/uid?resourceVersion=id%3A3805"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4dc4ce4a-c841-43ea-91a7-95afbda778e8/field_event_type?resourceVersion=id%3A3805"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4dc4ce4a-c841-43ea-91a7-95afbda778e8/relationships/field_event_type?resourceVersion=id%3A3805"
+        }
+      }
+    }
+  }
+}

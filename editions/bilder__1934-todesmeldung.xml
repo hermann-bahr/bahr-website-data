@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bilder__1934-todesmeldung" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">1934 Todesmeldung</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">64295</idno>
+        <idno type="drupal-alias">/bild/64295</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bild/64295">https://bahr.univie.ac.at/bild/64295</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="7" key="bilder">Bilder</term>
+          <term n="43" key="1934-todesmeldung" type="eintrag">1934 Todesmeldung</term>
+        </keywords>
+        <classCode scheme="drupal-type">image</classCode>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2012-10-08T09:25:38+00:00" type="created">angelegt in Drupal</change>
+      <change when="2012-10-08T09:27:01+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <figure>
+          <graphic url="files/bahr_bilder/1934_linzersonntagsblatt.jpg"/>
+          <figDesc>1934 Todesmeldung</figDesc>
+        </figure>
+        <p>
+          <hi rend="italic">Todesmeldung, Linzer Sonntagsblatt, 16. Jänner 1934</hi>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

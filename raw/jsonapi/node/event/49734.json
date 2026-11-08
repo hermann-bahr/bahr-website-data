@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "3aa3f724-a9fb-4931-926c-813630e299d0",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/3aa3f724-a9fb-4931-926c-813630e299d0?resourceVersion=id%3A3507"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/3aa3f724-a9fb-4931-926c-813630e299d0?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49734,
+    "drupal_internal__vid": 3507,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Berlin",
+    "created": "2011-12-20T13:42:20+00:00",
+    "changed": "2012-01-26T14:49:10+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49734",
+      "pid": 1547,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Auf der Reise nach Königsberg ist Bahr vom 28. November 1909, abends, bis 30. in der früh in Berlin und hofft, Richard Strauß sprechen zu können.",
+      "format": "full_html",
+      "processed": "Auf der Reise nach Königsberg ist Bahr vom 28. November 1909, abends, bis 30. in der früh in Berlin und hofft, Richard Strauß sprechen zu können.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1909-11-28",
+      "end_value": "1909-11-30"
+    },
+    "field_sources": [
+      "Brief Kvapils an Bahr, 30. November 1909 in: Bahr/Kvapil, 113. ",
+      "Hermann Bahr: Meister und Meisterbriefe um Hermann Bahr. Aus seinen Entwürfen, Tagebüchern und seinem Briefwechsel. Ausgewählt und eingeleitet von Joseph Gregor. Wien: Hermann Bauer 1947, 77. (An R. Strauß, 23.11.1909)",
+      "Hermann Bahr: Aufzeichnungen 1909-1911. Ausgabe in Vorbereitung von Kurt Ifkovits\r\n"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3aa3f724-a9fb-4931-926c-813630e299d0/node_type?resourceVersion=id%3A3507"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3aa3f724-a9fb-4931-926c-813630e299d0/relationships/node_type?resourceVersion=id%3A3507"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3aa3f724-a9fb-4931-926c-813630e299d0/revision_uid?resourceVersion=id%3A3507"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3aa3f724-a9fb-4931-926c-813630e299d0/relationships/revision_uid?resourceVersion=id%3A3507"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3aa3f724-a9fb-4931-926c-813630e299d0/uid?resourceVersion=id%3A3507"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3aa3f724-a9fb-4931-926c-813630e299d0/relationships/uid?resourceVersion=id%3A3507"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3aa3f724-a9fb-4931-926c-813630e299d0/field_event_type?resourceVersion=id%3A3507"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3aa3f724-a9fb-4931-926c-813630e299d0/relationships/field_event_type?resourceVersion=id%3A3507"
+        }
+      }
+    }
+  }
+}

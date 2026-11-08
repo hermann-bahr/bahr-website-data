@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "1ef32129-f8e9-4d70-b476-5f588747e6a6",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/1ef32129-f8e9-4d70-b476-5f588747e6a6?resourceVersion=id%3A2730"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/1ef32129-f8e9-4d70-b476-5f588747e6a6?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38944,
+    "drupal_internal__vid": 2730,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Salten, HvH, Bératon, B-H, AS",
+    "created": "2011-03-15T17:06:05+00:00",
+    "changed": "2011-11-21T10:07:32+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38944",
+      "pid": 684,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "17.1.1892<blockquote>Nm. Bahr, Bératon, Loris, Salten, Beer-Hofmann. Bératon und B. gingen zur Gel. Bératons.–Mit Salten im Cf. Imperial lang geplaudert.– […] Salten hat bei Bahr und Bér. noch das Gefühl, als hinge ihnen was heraus, das man wegschneiden müsse (geistig natürlich!!).-</blockquote>",
+      "format": "full_html",
+      "processed": "17.1.1892<blockquote>Nm. Bahr, Bératon, Loris, Salten, Beer-Hofmann. Bératon und B. gingen zur Gel. Bératons.–Mit Salten im Cf. Imperial lang geplaudert.– […] Salten hat bei Bahr und Bér. noch das Gefühl, als hinge ihnen was heraus, das man wegschneiden müsse (geistig natürlich!!).-</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1892-01-17",
+      "end_value": "1892-01-17"
+    },
+    "field_sources": [
+      "Schnitzler: Tagebuch, I, 362."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1ef32129-f8e9-4d70-b476-5f588747e6a6/node_type?resourceVersion=id%3A2730"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1ef32129-f8e9-4d70-b476-5f588747e6a6/relationships/node_type?resourceVersion=id%3A2730"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1ef32129-f8e9-4d70-b476-5f588747e6a6/revision_uid?resourceVersion=id%3A2730"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1ef32129-f8e9-4d70-b476-5f588747e6a6/relationships/revision_uid?resourceVersion=id%3A2730"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1ef32129-f8e9-4d70-b476-5f588747e6a6/uid?resourceVersion=id%3A2730"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1ef32129-f8e9-4d70-b476-5f588747e6a6/relationships/uid?resourceVersion=id%3A2730"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1ef32129-f8e9-4d70-b476-5f588747e6a6/field_event_type?resourceVersion=id%3A2730"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1ef32129-f8e9-4d70-b476-5f588747e6a6/relationships/field_event_type?resourceVersion=id%3A2730"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "c61ba3b2-3c2f-4b5b-9416-ba1723be2f2c",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/c61ba3b2-3c2f-4b5b-9416-ba1723be2f2c?resourceVersion=id%3A3429"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/c61ba3b2-3c2f-4b5b-9416-ba1723be2f2c?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49602,
+    "drupal_internal__vid": 3429,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Liebschaft",
+    "created": "2011-11-11T14:56:40+00:00",
+    "changed": "2011-11-11T14:56:40+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49602",
+      "pid": 1418,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "In den Laieninszenierungen im Tegetthoffsaal fiel Bahr durch, wenn er in ernsten Rollen aufzutreten hatte.<blockquote>Nur eine schon eher bejahrte Dame zeigte Verständnis für meinen Ernst und wir trösteten einander.</blockquote>",
+      "format": "full_html",
+      "processed": "In den Laieninszenierungen im Tegetthoffsaal fiel Bahr durch, wenn er in ernsten Rollen aufzutreten hatte.<blockquote>Nur eine schon eher bejahrte Dame zeigte Verständnis für meinen Ernst und wir trösteten einander.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1882-06-01",
+      "end_value": "1882-06-01"
+    },
+    "field_sources": [
+      "Selbstbildnis, 133.",
+      "(Da ohne nähere Hinweise hier auf 1. Juni 1882 datiert)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c61ba3b2-3c2f-4b5b-9416-ba1723be2f2c/node_type?resourceVersion=id%3A3429"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c61ba3b2-3c2f-4b5b-9416-ba1723be2f2c/relationships/node_type?resourceVersion=id%3A3429"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c61ba3b2-3c2f-4b5b-9416-ba1723be2f2c/revision_uid?resourceVersion=id%3A3429"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c61ba3b2-3c2f-4b5b-9416-ba1723be2f2c/relationships/revision_uid?resourceVersion=id%3A3429"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c61ba3b2-3c2f-4b5b-9416-ba1723be2f2c/uid?resourceVersion=id%3A3429"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c61ba3b2-3c2f-4b5b-9416-ba1723be2f2c/relationships/uid?resourceVersion=id%3A3429"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c61ba3b2-3c2f-4b5b-9416-ba1723be2f2c/field_event_type?resourceVersion=id%3A3429"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c61ba3b2-3c2f-4b5b-9416-ba1723be2f2c/relationships/field_event_type?resourceVersion=id%3A3429"
+        }
+      }
+    }
+  }
+}

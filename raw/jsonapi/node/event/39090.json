@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "9716dfcb-5379-45bb-8427-a0517a17c15c",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/9716dfcb-5379-45bb-8427-a0517a17c15c?resourceVersion=id%3A2864"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/9716dfcb-5379-45bb-8427-a0517a17c15c?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39090,
+    "drupal_internal__vid": 2864,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Villach, Krumpendorf, Seckau",
+    "created": "2011-05-16T10:49:20+00:00",
+    "changed": "2011-10-13T16:01:23+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39090",
+      "pid": 821,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "12. Juli:<blockquote>Nach Krumpendorf am Wörthersee, um mit meiner Frau den achtzigsten Geburstag ihrer Mutter zu begehen. </blockquote>Der Aufenthalt dauert vom 11.-14. Juli 1917, wobei er die ersten beiden Tage in Villach (Hotel Mosser), am 13. vermutlich im Kloster Seckau ist.\r\n",
+      "format": "full_html",
+      "processed": "12. Juli:<blockquote>Nach Krumpendorf am Wörthersee, um mit meiner Frau den achtzigsten Geburstag ihrer Mutter zu begehen. </blockquote>Der Aufenthalt dauert vom 11.-14. Juli 1917, wobei er die ersten beiden Tage in Villach (Hotel Mosser), am 13. vermutlich im Kloster Seckau ist.\n",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1917-07-11",
+      "end_value": "1917-07-14"
+    },
+    "field_sources": [
+      "Hermann Bahr: Tagebuch. 12. Juli. Neues Wiener Journal, 25 (1917) #8522, 7. (22.7.1917) ",
+      "Bahr/Redlich, 235-236."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9716dfcb-5379-45bb-8427-a0517a17c15c/node_type?resourceVersion=id%3A2864"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9716dfcb-5379-45bb-8427-a0517a17c15c/relationships/node_type?resourceVersion=id%3A2864"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9716dfcb-5379-45bb-8427-a0517a17c15c/revision_uid?resourceVersion=id%3A2864"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9716dfcb-5379-45bb-8427-a0517a17c15c/relationships/revision_uid?resourceVersion=id%3A2864"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9716dfcb-5379-45bb-8427-a0517a17c15c/uid?resourceVersion=id%3A2864"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9716dfcb-5379-45bb-8427-a0517a17c15c/relationships/uid?resourceVersion=id%3A2864"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9716dfcb-5379-45bb-8427-a0517a17c15c/field_event_type?resourceVersion=id%3A2864"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9716dfcb-5379-45bb-8427-a0517a17c15c/relationships/field_event_type?resourceVersion=id%3A2864"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "type": "node--event",
+  "id": "2bdce2fc-a653-459e-afdd-6a8e53bb84ec",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/2bdce2fc-a653-459e-afdd-6a8e53bb84ec?resourceVersion=id%3A2609"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/2bdce2fc-a653-459e-afdd-6a8e53bb84ec?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38788,
+    "drupal_internal__vid": 2609,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Soirée bei Windisch-Grätz",
+    "created": "2011-02-01T13:31:32+00:00",
+    "changed": "2011-02-01T13:31:48+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38788",
+      "pid": 536,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahr war einer der 1600 Berühmtheiten, die vom Ministerpräsidenten Alfred III. zu Windisch-Grätz für den 19. Februar 1895 zu einer Soirée eingeladen wurden. Diese Soirée ging auf einen Vorschlag Viktor Adlers zurück und wurde wegen des Tods des Erzherzog Albrechts kurzfristig abgesagt. Trotzdem war Bahr stolz darauf, zu den <i>oberen 1600</i> zu gehören.\r\n<i>Brief an den Vater, [18.2.1895]",
+      "format": "full_html",
+      "processed": "Bahr war einer der 1600 Berühmtheiten, die vom Ministerpräsidenten Alfred III. zu Windisch-Grätz für den 19. Februar 1895 zu einer Soirée eingeladen wurden. Diese Soirée ging auf einen Vorschlag Viktor Adlers zurück und wurde wegen des Tods des Erzherzog Albrechts kurzfristig abgesagt. Trotzdem war Bahr stolz darauf, zu den <i>oberen 1600</i> zu gehören.\n<i>Brief an den Vater, [18.2.1895]</i>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1895-02-19",
+      "end_value": "1895-02-19"
+    },
+    "field_sources": []
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2bdce2fc-a653-459e-afdd-6a8e53bb84ec/node_type?resourceVersion=id%3A2609"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2bdce2fc-a653-459e-afdd-6a8e53bb84ec/relationships/node_type?resourceVersion=id%3A2609"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2bdce2fc-a653-459e-afdd-6a8e53bb84ec/revision_uid?resourceVersion=id%3A2609"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2bdce2fc-a653-459e-afdd-6a8e53bb84ec/relationships/revision_uid?resourceVersion=id%3A2609"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2bdce2fc-a653-459e-afdd-6a8e53bb84ec/uid?resourceVersion=id%3A2609"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2bdce2fc-a653-459e-afdd-6a8e53bb84ec/relationships/uid?resourceVersion=id%3A2609"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2bdce2fc-a653-459e-afdd-6a8e53bb84ec/field_event_type?resourceVersion=id%3A2609"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2bdce2fc-a653-459e-afdd-6a8e53bb84ec/relationships/field_event_type?resourceVersion=id%3A2609"
+        }
+      }
+    }
+  }
+}

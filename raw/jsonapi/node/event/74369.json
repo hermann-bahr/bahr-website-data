@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "2aa9c498-e7b2-49f8-a625-d4b6e61f4fa0",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/2aa9c498-e7b2-49f8-a625-d4b6e61f4fa0?resourceVersion=id%3A3697"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/2aa9c498-e7b2-49f8-a625-d4b6e61f4fa0?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74369,
+    "drupal_internal__vid": 3697,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "HvH",
+    "created": "2012-10-16T08:02:35+00:00",
+    "changed": "2012-10-29T09:54:12+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/74369",
+      "pid": 1743,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahr und Hugo von Hofmannsthal treffen sich am 1. und 2. August 1896 in Ebensee.",
+      "format": "full_html",
+      "processed": "Bahr und Hugo von Hofmannsthal treffen sich am 1. und 2. August 1896 in Ebensee.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1896-08-01",
+      "end_value": "1896-08-02"
+    },
+    "field_sources": [
+      "Briefwechsel Bahr/Hofmannsthal. Hg. Elsbeth Dangel-Pelloquin. Göttingen: Wallstein. (In Vorbereitung), Briefe an HvH, 14. und 15. Juli 1896"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2aa9c498-e7b2-49f8-a625-d4b6e61f4fa0/node_type?resourceVersion=id%3A3697"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2aa9c498-e7b2-49f8-a625-d4b6e61f4fa0/relationships/node_type?resourceVersion=id%3A3697"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2aa9c498-e7b2-49f8-a625-d4b6e61f4fa0/revision_uid?resourceVersion=id%3A3697"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2aa9c498-e7b2-49f8-a625-d4b6e61f4fa0/relationships/revision_uid?resourceVersion=id%3A3697"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2aa9c498-e7b2-49f8-a625-d4b6e61f4fa0/uid?resourceVersion=id%3A3697"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2aa9c498-e7b2-49f8-a625-d4b6e61f4fa0/relationships/uid?resourceVersion=id%3A3697"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2aa9c498-e7b2-49f8-a625-d4b6e61f4fa0/field_event_type?resourceVersion=id%3A3697"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2aa9c498-e7b2-49f8-a625-d4b6e61f4fa0/relationships/field_event_type?resourceVersion=id%3A3697"
+        }
+      }
+    }
+  }
+}

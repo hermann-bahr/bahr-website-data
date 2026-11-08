@@ -1,0 +1,36 @@
+{
+  "type": "file--file",
+  "id": "f36cf4d2-9d13-4d0c-be7b-dfec9865505c",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/file/file/f36cf4d2-9d13-4d0c-be7b-dfec9865505c"
+    }
+  },
+  "attributes": {
+    "drupal_internal__fid": 200,
+    "langcode": "de",
+    "filename": "1910_anna.jpg",
+    "uri": {
+      "value": "public://bahr_bilder/1910_anna.jpg",
+      "url": "/sites/default/files/bahr_bilder/1910_anna.jpg"
+    },
+    "filemime": "image/jpeg",
+    "filesize": 319626,
+    "status": true,
+    "created": "2020-02-18T15:00:35+00:00",
+    "changed": "2020-02-18T15:11:43+00:00"
+  },
+  "relationships": {
+    "uid": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/file/file/f36cf4d2-9d13-4d0c-be7b-dfec9865505c/uid"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/file/file/f36cf4d2-9d13-4d0c-be7b-dfec9865505c/relationships/uid"
+        }
+      }
+    }
+  }
+}

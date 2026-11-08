@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "7c4f2de4-5f8a-4fbb-8b50-e57dc285fd2e",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/7c4f2de4-5f8a-4fbb-8b50-e57dc285fd2e?resourceVersion=id%3A2827"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/7c4f2de4-5f8a-4fbb-8b50-e57dc285fd2e?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39052,
+    "drupal_internal__vid": 2827,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Pressecongress, Mainz",
+    "created": "2011-05-03T11:10:10+00:00",
+    "changed": "2012-10-29T09:54:55+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39052",
+      "pid": 784,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahr (als Vizepräsident) und Dr. Gustav Steinbach (als Präsident der Concordia) reisen im Juni 1900 zum 7. Allgemeinen Schriftsteller- und Journalistentag in Mainz, der am 21. Juni 1900 eröffnet wird. Dass Bahr die Nähe zu Darmstadt ausnützte, zeigt sich daran, dass er am 25. mit Joseph Olbrich einen Ausflug nach Rüdesheim unternimmt.",
+      "format": "full_html",
+      "processed": "Bahr (als Vizepräsident) und Dr. Gustav Steinbach (als Präsident der Concordia) reisen im Juni 1900 zum 7. Allgemeinen Schriftsteller- und Journalistentag in Mainz, der am 21. Juni 1900 eröffnet wird. Dass Bahr die Nähe zu Darmstadt ausnützte, zeigt sich daran, dass er am 25. mit Joseph Olbrich einen Ausflug nach Rüdesheim unternimmt.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1900-06-21",
+      "end_value": "1900-06-25"
+    },
+    "field_sources": [
+      "Zum 25.: An Gerty Schlesinger, 25.6.1900. Briefwechsel Bahr/Hofmannsthal. Hg. Elsbeth Dangel-Pelloquin. Göttingen: Wallstein. (In Vorbereitung)",
+      "Tagebücher (Csàky), II, 438-439."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7c4f2de4-5f8a-4fbb-8b50-e57dc285fd2e/node_type?resourceVersion=id%3A2827"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7c4f2de4-5f8a-4fbb-8b50-e57dc285fd2e/relationships/node_type?resourceVersion=id%3A2827"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7c4f2de4-5f8a-4fbb-8b50-e57dc285fd2e/revision_uid?resourceVersion=id%3A2827"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7c4f2de4-5f8a-4fbb-8b50-e57dc285fd2e/relationships/revision_uid?resourceVersion=id%3A2827"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7c4f2de4-5f8a-4fbb-8b50-e57dc285fd2e/uid?resourceVersion=id%3A2827"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7c4f2de4-5f8a-4fbb-8b50-e57dc285fd2e/relationships/uid?resourceVersion=id%3A2827"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7c4f2de4-5f8a-4fbb-8b50-e57dc285fd2e/field_event_type?resourceVersion=id%3A2827"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7c4f2de4-5f8a-4fbb-8b50-e57dc285fd2e/relationships/field_event_type?resourceVersion=id%3A2827"
+        }
+      }
+    }
+  }
+}

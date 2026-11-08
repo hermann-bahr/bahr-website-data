@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "752e97e2-94a0-4889-ba70-811f8ca03e80",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/752e97e2-94a0-4889-ba70-811f8ca03e80?resourceVersion=id%3A2777"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/752e97e2-94a0-4889-ba70-811f8ca03e80?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38994,
+    "drupal_internal__vid": 2777,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Lueger über \"Wien\"",
+    "created": "2011-03-21T15:07:29+00:00",
+    "changed": "2011-09-01T08:48:43+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38994",
+      "pid": 731,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Auf den Vorabdruck von \"Wien\" im Berliner Tagblatt reagiert der Wiener Bürgermeister Karl Lueger\r\n<blockquote>Bürgermeister Dr. Lueger kannte diesen Artikel bereits und äußerte sich freimütig und sehr energisch in einer Abwehr: \"Herr Bahr hat mit jedem Wort  v ö l l i g   U n r e c h t. […] Der Herr Bahr ist vielleicht auf Wien verstimmt und vielleicht erst recht auf München, aber er hat keinen Grund so viel ich weiß, gegen die Wiener so zu schreiben. Er ist ja geradezu verhätschelt worden in Wien. Ich halte sein Vorgehen für eine  U n d a n k b a r k e i t, für eine\" … der Bürgermeister gebrauchte einen recht starken Ausdruck. Übrigens scheint er Hermann Bahrs Schilderung nicht allzu ernst zu nehmen, und hat sich nur in seiner temperamentvollen Art warm geredet.</blockquote>",
+      "format": "full_html",
+      "processed": "Auf den Vorabdruck von \"Wien\" im Berliner Tagblatt reagiert der Wiener Bürgermeister Karl Lueger\n<blockquote>Bürgermeister Dr. Lueger kannte diesen Artikel bereits und äußerte sich freimütig und sehr energisch in einer Abwehr: \"Herr Bahr hat mit jedem Wort  v ö l l i g   U n r e c h t. […] Der Herr Bahr ist vielleicht auf Wien verstimmt und vielleicht erst recht auf München, aber er hat keinen Grund so viel ich weiß, gegen die Wiener so zu schreiben. Er ist ja geradezu verhätschelt worden in Wien. Ich halte sein Vorgehen für eine  U n d a n k b a r k e i t, für eine\" … der Bürgermeister gebrauchte einen recht starken Ausdruck. Übrigens scheint er Hermann Bahrs Schilderung nicht allzu ernst zu nehmen, und hat sich nur in seiner temperamentvollen Art warm geredet.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1907-03-31",
+      "end_value": "1907-03-31"
+    },
+    "field_sources": [
+      "Hermann Bahr: Der Wiener. Berliner Tageblatt, 36 (1907) #108, Abend-Ausgabe, 1-2. (28.2.1907)\r\n",
+      "Max Foges: Gegen Hermann Bahr. In: Neues Wiener Journal, 15 (1907) #4827, 9."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/752e97e2-94a0-4889-ba70-811f8ca03e80/node_type?resourceVersion=id%3A2777"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/752e97e2-94a0-4889-ba70-811f8ca03e80/relationships/node_type?resourceVersion=id%3A2777"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/752e97e2-94a0-4889-ba70-811f8ca03e80/revision_uid?resourceVersion=id%3A2777"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/752e97e2-94a0-4889-ba70-811f8ca03e80/relationships/revision_uid?resourceVersion=id%3A2777"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/752e97e2-94a0-4889-ba70-811f8ca03e80/uid?resourceVersion=id%3A2777"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/752e97e2-94a0-4889-ba70-811f8ca03e80/relationships/uid?resourceVersion=id%3A2777"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/752e97e2-94a0-4889-ba70-811f8ca03e80/field_event_type?resourceVersion=id%3A2777"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/752e97e2-94a0-4889-ba70-811f8ca03e80/relationships/field_event_type?resourceVersion=id%3A2777"
+        }
+      }
+    }
+  }
+}

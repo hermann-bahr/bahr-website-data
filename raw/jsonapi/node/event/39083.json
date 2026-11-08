@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "397be3ae-2404-4a70-a04d-17f97fe70603",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/397be3ae-2404-4a70-a04d-17f97fe70603?resourceVersion=id%3A2857"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/397be3ae-2404-4a70-a04d-17f97fe70603?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39083,
+    "drupal_internal__vid": 2857,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Oberösterreich, Salzburg, Ampezzo",
+    "created": "2011-05-06T11:02:19+00:00",
+    "changed": "2012-10-29T09:55:55+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39083",
+      "pid": 814,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 1. August 1899 will er zusammen mit Max Burckhard nach Oberösterreich (Ried, Piesenham, Henndorf) - Schauplätze seines nächsten Stücks über Franz Stelzhamer – aufsuchen. Dann plant er über Salzburg für drei Wochen in eine Kaltwasserheilanstalt, womöglich Kreuzen zu reisen. Am 8. August reist er aus Ischl ab. Am 15. ist er im Kesselfall Alpenhaus in Kaprun. Am 22. fährt er dann mit Burckhard eine Woche ins Ampezzotal, wo er sich in Landro (25.) und Toblach (26.) aufhält. Danach reist er vermutlich zu seiner Frau, die in Baden kurt.",
+      "format": "full_html",
+      "processed": "Am 1. August 1899 will er zusammen mit Max Burckhard nach Oberösterreich (Ried, Piesenham, Henndorf) - Schauplätze seines nächsten Stücks über Franz Stelzhamer – aufsuchen. Dann plant er über Salzburg für drei Wochen in eine Kaltwasserheilanstalt, womöglich Kreuzen zu reisen. Am 8. August reist er aus Ischl ab. Am 15. ist er im Kesselfall Alpenhaus in Kaprun. Am 22. fährt er dann mit Burckhard eine Woche ins Ampezzotal, wo er sich in Landro (25.) und Toblach (26.) aufhält. Danach reist er vermutlich zu seiner Frau, die in Baden kurt.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1899-08-01",
+      "end_value": "1899-08-30"
+    },
+    "field_sources": [
+      "An HvH, 28.7.1899, von HvH, 8.8.1898, an Gerty Schlesinger, 15.8., 25.8., 26.8.1898. Briefwechsel Bahr/Hofmannsthal. Hg. Elsbeth Dangel-Pelloquin. Göttingen: Wallstein. (In Vorbereitung)",
+      "Tagebücher (Csàky), II, 314-324."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/397be3ae-2404-4a70-a04d-17f97fe70603/node_type?resourceVersion=id%3A2857"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/397be3ae-2404-4a70-a04d-17f97fe70603/relationships/node_type?resourceVersion=id%3A2857"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/397be3ae-2404-4a70-a04d-17f97fe70603/revision_uid?resourceVersion=id%3A2857"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/397be3ae-2404-4a70-a04d-17f97fe70603/relationships/revision_uid?resourceVersion=id%3A2857"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/397be3ae-2404-4a70-a04d-17f97fe70603/uid?resourceVersion=id%3A2857"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/397be3ae-2404-4a70-a04d-17f97fe70603/relationships/uid?resourceVersion=id%3A2857"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/397be3ae-2404-4a70-a04d-17f97fe70603/field_event_type?resourceVersion=id%3A2857"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/397be3ae-2404-4a70-a04d-17f97fe70603/relationships/field_event_type?resourceVersion=id%3A2857"
+        }
+      }
+    }
+  }
+}

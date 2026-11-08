@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "6021d858-72dc-48a9-99b0-646783299a08",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/6021d858-72dc-48a9-99b0-646783299a08?resourceVersion=id%3A3546"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/6021d858-72dc-48a9-99b0-646783299a08?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49775,
+    "drupal_internal__vid": 3546,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Das Salzburger große Welttheater",
+    "created": "2012-01-16T11:54:54+00:00",
+    "changed": "2012-01-16T11:54:54+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49775",
+      "pid": 1587,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 17. August 1922 ist Bahr in Salzburg und sieht sich die Aufführung von Hofmannsthals \"Das Salzburger große Welttheater\" an, bei dem seine Frau Anna Bahr-Mildenburg engagiert ist.",
+      "format": "full_html",
+      "processed": "Am 17. August 1922 ist Bahr in Salzburg und sieht sich die Aufführung von Hofmannsthals \"Das Salzburger große Welttheater\" an, bei dem seine Frau Anna Bahr-Mildenburg engagiert ist.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1922-08-17",
+      "end_value": "1922-08-17"
+    },
+    "field_sources": [
+      "Liebe der Lebenden, II, 212-214. (17.8.1922)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6021d858-72dc-48a9-99b0-646783299a08/node_type?resourceVersion=id%3A3546"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6021d858-72dc-48a9-99b0-646783299a08/relationships/node_type?resourceVersion=id%3A3546"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6021d858-72dc-48a9-99b0-646783299a08/revision_uid?resourceVersion=id%3A3546"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6021d858-72dc-48a9-99b0-646783299a08/relationships/revision_uid?resourceVersion=id%3A3546"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6021d858-72dc-48a9-99b0-646783299a08/uid?resourceVersion=id%3A3546"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6021d858-72dc-48a9-99b0-646783299a08/relationships/uid?resourceVersion=id%3A3546"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6021d858-72dc-48a9-99b0-646783299a08/field_event_type?resourceVersion=id%3A3546"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6021d858-72dc-48a9-99b0-646783299a08/relationships/field_event_type?resourceVersion=id%3A3546"
+        }
+      }
+    }
+  }
+}

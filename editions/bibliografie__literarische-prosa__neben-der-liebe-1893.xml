@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bibliografie__literarische-prosa__neben-der-liebe-1893" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Neben der Liebe (1893)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">38887</idno>
+        <idno type="drupal-alias">/bibliografie/38887</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bibliografie/38887">https://bahr.univie.ac.at/bibliografie/38887</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+        <bibl type="beschriebene-ausgabe">
+          <author>Hermann Bahr</author>
+          <title type="main">Neben der Liebe</title>
+          <title type="sub">Wiener Roman</title>
+          <pubPlace>Berlin</pubPlace>
+          <publisher>S. Fischer</publisher>
+          <date>1893</date>
+          <extent>231</extent>
+          <edition>2. Aufl. 1900</edition>
+          <note>Der Text ist datiert mit "Purkersdorf, 1. Mai 1892". Zur Publikationsgeschichte des ursprünglich "Räthsel" betitelten Textes vgl. Susens Anmerkung in: Wilhem Bölsche: Briefwechsel mit Autoren der Freien Bühne. Berlin: Weidler 2010, 717-727. Nachdem im Herbst 1892 in drei Teilen der Vorabdruck erschien, dürfte das Buch im Februar 1893 vorgelegen haben (Briefwechsel Vater, 328). In "Dora" wird es für Anfang 1893 angekündigt.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="1" key="bibliografie">Bibliografie</term>
+          <term n="3" key="literarische-prosa">Literarische Prosa</term>
+          <term n="12" key="neben-der-liebe-1893" type="eintrag">Neben der Liebe (1893)</term>
+        </keywords>
+        <classCode scheme="drupal-type">bibliographie</classCode>
+        <keywords scheme="bibliografie_type">
+          <term>Literarische Prosa</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2011-03-04T09:36:45+00:00" type="created">angelegt in Drupal</change>
+      <change when="2011-11-21T15:39:48+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="bib">
+        <head>Bibliografie</head>
+        <table type="bibliografie">
+          <row>
+            <cell>Autor:</cell>
+            <cell>Hermann Bahr</cell>
+          </row>
+          <row>
+            <cell>Titel:</cell>
+            <cell>Neben der Liebe</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>Wiener Roman</cell>
+          </row>
+          <row>
+            <cell>Ort:</cell>
+            <cell>Berlin</cell>
+          </row>
+          <row>
+            <cell>Verlag:</cell>
+            <cell>S. Fischer</cell>
+          </row>
+          <row>
+            <cell>Jahr:</cell>
+            <cell>1893</cell>
+          </row>
+          <row>
+            <cell>Seiten:</cell>
+            <cell>231</cell>
+          </row>
+          <row>
+            <cell>Aufl.:</cell>
+            <cell>2. Aufl. 1900</cell>
+          </row>
+          <row>
+            <cell>Anm.:</cell>
+            <cell>Der Text ist datiert mit "Purkersdorf, 1. Mai 1892". Zur Publikationsgeschichte des ursprünglich "Räthsel" betitelten Textes vgl. Susens Anmerkung in: Wilhem Bölsche: Briefwechsel mit Autoren der Freien Bühne. Berlin: Weidler 2010, 717-727. Nachdem im Herbst 1892 in drei Teilen der Vorabdruck erschien, dürfte das Buch im Februar 1893 vorgelegen haben (Briefwechsel Vater, 328). In "Dora" wird es für Anfang 1893 angekündigt.</cell>
+          </row>
+        </table>
+      </div>
+      <div xml:id="erstdrucke">
+        <head>Erstdrucke</head>
+        <p>Freie Bühne für den Entwickelungskampf der Zeit, 3 (1892): #10, 1009-1038 #11, 1121-1154 #12, 1233-1258.</p>
+      </div>
+      <div xml:id="rezens">
+        <head>Rezensionen</head>
+        <p>Die Gesellschaft, 9 (1893) #8 (August), 1071. Felix Hollaender: Von Hermann Bahr und seiner Bücherei. In: Freie Bühne, 4 (1893) #1, 82-89. Wilhelm Bölsche: Neue Romane. In: Freie Bühne, 4 (1893) #5, 590-592. [Sammelrez.] Franz Servaes in: Magazin für Litteratur, 62 (1893) #45, 716-720. (11.11.1893) Henri Albert in einem Brief an Richard Dehmel, 19.1.1893 (Briefwechsel, Hg. Krahmer)</p>
+      </div>
+      <div xml:id="digit">
+        <head>Digitalisate</head>
+        <list rend="bulleted">
+          <item>
+            <ref target="http://www.archive.org/search.php?query=hermann%20bahr%20neben%20liebe">archive.org</ref>
+          </item>
+        </list>
+      </div>
+    </body>
+  </text>
+</TEI>

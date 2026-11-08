@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "faf9b4e2-45cd-4deb-970c-d4c81bd61724",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/faf9b4e2-45cd-4deb-970c-d4c81bd61724?resourceVersion=id%3A3289"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/faf9b4e2-45cd-4deb-970c-d4c81bd61724?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49446,
+    "drupal_internal__vid": 3289,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "W. Heine",
+    "created": "2011-10-20T13:15:23+00:00",
+    "changed": "2011-10-20T13:15:23+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49446",
+      "pid": 1270,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Auch Wolfgang Heine treibt um den 22. August 1920 der \"Jedermann\" nach Salzburg, folgt dann aber Bahr nach Berchtesgaden, der so schöne Tage in Erinnerung an die Berliner Zeit verlebt.",
+      "format": "full_html",
+      "processed": "Auch Wolfgang Heine treibt um den 22. August 1920 der \"Jedermann\" nach Salzburg, folgt dann aber Bahr nach Berchtesgaden, der so schöne Tage in Erinnerung an die Berliner Zeit verlebt.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1920-08-22",
+      "end_value": "1920-08-22"
+    },
+    "field_sources": [
+      "Bahr/Redlich, 424."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/faf9b4e2-45cd-4deb-970c-d4c81bd61724/node_type?resourceVersion=id%3A3289"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/faf9b4e2-45cd-4deb-970c-d4c81bd61724/relationships/node_type?resourceVersion=id%3A3289"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/faf9b4e2-45cd-4deb-970c-d4c81bd61724/revision_uid?resourceVersion=id%3A3289"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/faf9b4e2-45cd-4deb-970c-d4c81bd61724/relationships/revision_uid?resourceVersion=id%3A3289"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/faf9b4e2-45cd-4deb-970c-d4c81bd61724/uid?resourceVersion=id%3A3289"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/faf9b4e2-45cd-4deb-970c-d4c81bd61724/relationships/uid?resourceVersion=id%3A3289"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/faf9b4e2-45cd-4deb-970c-d4c81bd61724/field_event_type?resourceVersion=id%3A3289"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/faf9b4e2-45cd-4deb-970c-d4c81bd61724/relationships/field_event_type?resourceVersion=id%3A3289"
+        }
+      }
+    }
+  }
+}

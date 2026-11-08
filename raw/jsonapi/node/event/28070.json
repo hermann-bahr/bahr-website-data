@@ -1,0 +1,114 @@
+{
+  "type": "node--event",
+  "id": "0011b71b-54f0-42fe-ad18-376c5f59ae13",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/0011b71b-54f0-42fe-ad18-376c5f59ae13?resourceVersion=id%3A2397"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/0011b71b-54f0-42fe-ad18-376c5f59ae13?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28070,
+    "drupal_internal__vid": 2397,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Pläne",
+    "created": "2010-08-09T09:09:05+00:00",
+    "changed": "2011-07-18T14:47:31+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28070",
+      "pid": 231,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 13. August 1923 schreibt Julius Bittner an Joseph Marx aus Bad Ischl: \r\n<blockquote>Hermann Bahr ist in München unzufrieden. Er sucht eine Anstellung für seine Frau in Wien, die die Musik von Richard Wagner unterrichtet.</blockquote>",
+      "format": "full_html",
+      "processed": "Am 13. August 1923 schreibt Julius Bittner an Joseph Marx aus Bad Ischl: \n<blockquote>Hermann Bahr ist in München unzufrieden. Er sucht eine Anstellung für seine Frau in Wien, die die Musik von Richard Wagner unterrichtet.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1923-08-13",
+      "end_value": "1923-08-13"
+    },
+    "field_sources": []
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0011b71b-54f0-42fe-ad18-376c5f59ae13/node_type?resourceVersion=id%3A2397"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0011b71b-54f0-42fe-ad18-376c5f59ae13/relationships/node_type?resourceVersion=id%3A2397"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0011b71b-54f0-42fe-ad18-376c5f59ae13/revision_uid?resourceVersion=id%3A2397"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0011b71b-54f0-42fe-ad18-376c5f59ae13/relationships/revision_uid?resourceVersion=id%3A2397"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0011b71b-54f0-42fe-ad18-376c5f59ae13/uid?resourceVersion=id%3A2397"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0011b71b-54f0-42fe-ad18-376c5f59ae13/relationships/uid?resourceVersion=id%3A2397"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0011b71b-54f0-42fe-ad18-376c5f59ae13/field_event_type?resourceVersion=id%3A2397"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0011b71b-54f0-42fe-ad18-376c5f59ae13/relationships/field_event_type?resourceVersion=id%3A2397"
+        }
+      }
+    }
+  }
+}

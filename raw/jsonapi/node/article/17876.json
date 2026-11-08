@@ -1,0 +1,112 @@
+{
+  "type": "node--article",
+  "id": "7ffcaed4-caca-4910-a100-ba039be0a978",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/article/7ffcaed4-caca-4910-a100-ba039be0a978?resourceVersion=id%3A3999"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/article/7ffcaed4-caca-4910-a100-ba039be0a978?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 17876,
+    "drupal_internal__vid": 3999,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:47:58+00:00",
+    "status": true,
+    "title": "Honoré de Bahr",
+    "created": "2010-02-03T22:39:53+00:00",
+    "changed": "2010-03-26T13:52:21+00:00",
+    "promote": true,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/article/17876",
+      "pid": 24,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Das Bahr-Archiv ist voll mit Kuriosa. So findet sich nicht nur sein letzter Schreibtischinhalt, bestehend aus Entlehnscheinen der bayrischen Staatsbibliothek, erhalten, sondern auch — in einem Goldumschlag aufbewahrt — eine Karte mit seiner letzten Unterschrift. Daneben hat Anna Bahr-Mildenburg das gepresste Blatt eines Baumes geklebt. Man fragt sich, ob das vorbereitet war. Musste er während seiner Krankheit dauernd Unterschriften geben? Apropos Sterben: Die von Anno (Österreichische Nationalbibliothek) online zur Verfügung gestellte Ausgabe von \"Himmel auf Erden\" hat folgende handschriftliche Notiz auf dem Vorsatzblatt mit der gedruckten Widmung für den „hochwürdigen Herrn Pater Willibrord Verkade O.S.B. zum 25jähr. Priesterjubiläum in herzlicher dankbarer Verehrung“:<blockquote><i>„Nicht so war es,\r\n„So muss es gewesen sein.“\r\nNovalis</blockquote>\r\n\r\n<blockquote>15. Jänner 1934 + 6 Uhr Abend\r\nDieses Buch las ich als ich die letzten Stunden an Hermann’s Sterbebett sass. Dabei wurde sein Puls immer schwächer, er war ganz ohne Bewusstsein! Aber sein Geist sollte in mir sein bis aufs Ende und meine Liebe bei ihm bis aufs Ende bis aufs Ende begleitete ich ihn, da ich selbst zum Erliegen war.</blockquote>\r\n\r\n<p>Schön fand ich auch den in einem Leineneinband (es wirkt wie ein Buch) aufbewahrten Stapel mit Fotografien aus Carlsbad, die Bahr bei einem Aufenthalt 1891 handschriftlich mit Liebesschwüren an eine ungenannte Frau versah: \"Auf dieser Brücke habe ich sie zum ersten Mal gesehen\". Etwas anderer Art ist hingegen ein Filmprogramm aus dem Baumgartner Grand-Bio-Theater, das die Neuerscheinung <a href=\"http://www.deutsches-filminstitut.de/f_films/film/f036021.htm\">\"Maskierte Liebe\"</a> nicht Honoré de Balzac zuschreibt, nach dessen Text aus dem Nachlass \"L'Amour masqué\" der Film mit Henny Porten und Fritz Kutschera gedreht wurde, sondern Hermann Bahr.",
+      "format": "full_html",
+      "processed": "Das Bahr-Archiv ist voll mit Kuriosa. So findet sich nicht nur sein letzter Schreibtischinhalt, bestehend aus Entlehnscheinen der bayrischen Staatsbibliothek, erhalten, sondern auch — in einem Goldumschlag aufbewahrt — eine Karte mit seiner letzten Unterschrift. Daneben hat Anna Bahr-Mildenburg das gepresste Blatt eines Baumes geklebt. Man fragt sich, ob das vorbereitet war. Musste er während seiner Krankheit dauernd Unterschriften geben? Apropos Sterben: Die von Anno (Österreichische Nationalbibliothek) online zur Verfügung gestellte Ausgabe von \"Himmel auf Erden\" hat folgende handschriftliche Notiz auf dem Vorsatzblatt mit der gedruckten Widmung für den „hochwürdigen Herrn Pater Willibrord Verkade O.S.B. zum 25jähr. Priesterjubiläum in herzlicher dankbarer Verehrung“:<blockquote><i>„Nicht so war es,\n„So muss es gewesen sein.“\nNovalis</i></blockquote>\n\n<blockquote>15. Jänner 1934 + 6 Uhr Abend\nDieses Buch las ich als ich die letzten Stunden an Hermann’s Sterbebett sass. Dabei wurde sein Puls immer schwächer, er war ganz ohne Bewusstsein! Aber sein Geist sollte in mir sein bis aufs Ende und meine Liebe bei ihm bis aufs Ende bis aufs Ende begleitete ich ihn, da ich selbst zum Erliegen war.</blockquote>\n\n<p>Schön fand ich auch den in einem Leineneinband (es wirkt wie ein Buch) aufbewahrten Stapel mit Fotografien aus Carlsbad, die Bahr bei einem Aufenthalt 1891 handschriftlich mit Liebesschwüren an eine ungenannte Frau versah: \"Auf dieser Brücke habe ich sie zum ersten Mal gesehen\". Etwas anderer Art ist hingegen ein Filmprogramm aus dem Baumgartner Grand-Bio-Theater, das die Neuerscheinung <a href=\"http://www.deutsches-filminstitut.de/f_films/film/f036021.htm\">\"Maskierte Liebe\"</a> nicht Honoré de Balzac zuschreibt, nach dessen Text aus dem Nachlass \"L'Amour masqué\" der Film mit Henny Porten und Fritz Kutschera gedreht wurde, sondern Hermann Bahr.</p>",
+      "summary": null
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "2591b802-2e12-43ea-999f-36ccdccd1176",
+        "meta": {
+          "drupal_internal__target_id": "article"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/7ffcaed4-caca-4910-a100-ba039be0a978/node_type?resourceVersion=id%3A3999"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/7ffcaed4-caca-4910-a100-ba039be0a978/relationships/node_type?resourceVersion=id%3A3999"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/7ffcaed4-caca-4910-a100-ba039be0a978/revision_uid?resourceVersion=id%3A3999"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/7ffcaed4-caca-4910-a100-ba039be0a978/relationships/revision_uid?resourceVersion=id%3A3999"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/7ffcaed4-caca-4910-a100-ba039be0a978/uid?resourceVersion=id%3A3999"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/7ffcaed4-caca-4910-a100-ba039be0a978/relationships/uid?resourceVersion=id%3A3999"
+        }
+      }
+    },
+    "field_image": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/7ffcaed4-caca-4910-a100-ba039be0a978/field_image?resourceVersion=id%3A3999"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/7ffcaed4-caca-4910-a100-ba039be0a978/relationships/field_image?resourceVersion=id%3A3999"
+        }
+      }
+    },
+    "field_tags": {
+      "data": [],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/7ffcaed4-caca-4910-a100-ba039be0a978/field_tags?resourceVersion=id%3A3999"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/7ffcaed4-caca-4910-a100-ba039be0a978/relationships/field_tags?resourceVersion=id%3A3999"
+        }
+      }
+    }
+  }
+}

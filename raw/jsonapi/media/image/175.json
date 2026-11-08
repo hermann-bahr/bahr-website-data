@@ -1,0 +1,118 @@
+{
+  "type": "media--image",
+  "id": "840fc600-4ab0-4a99-a94f-aebc3cb7a892",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/media/image/840fc600-4ab0-4a99-a94f-aebc3cb7a892?resourceVersion=id%3A175"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/media/image/840fc600-4ab0-4a99-a94f-aebc3cb7a892?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__mid": 175,
+    "drupal_internal__vid": 175,
+    "langcode": "de",
+    "revision_created": "2020-02-18T15:16:19+00:00",
+    "status": true,
+    "name": "1934_gedenkbild-1",
+    "created": "2020-02-18T15:16:19+00:00",
+    "changed": "2020-02-18T15:16:19+00:00",
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": null,
+      "pid": null,
+      "langcode": "de"
+    }
+  },
+  "relationships": {
+    "bundle": {
+      "data": {
+        "type": "media_type--media_type",
+        "id": "b82aabb6-e7a1-420d-b98b-5b981c2d920e",
+        "meta": {
+          "drupal_internal__target_id": "image"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/840fc600-4ab0-4a99-a94f-aebc3cb7a892/bundle?resourceVersion=id%3A175"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/840fc600-4ab0-4a99-a94f-aebc3cb7a892/relationships/bundle?resourceVersion=id%3A175"
+        }
+      }
+    },
+    "revision_user": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/840fc600-4ab0-4a99-a94f-aebc3cb7a892/revision_user?resourceVersion=id%3A175"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/840fc600-4ab0-4a99-a94f-aebc3cb7a892/relationships/revision_user?resourceVersion=id%3A175"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/840fc600-4ab0-4a99-a94f-aebc3cb7a892/uid?resourceVersion=id%3A175"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/840fc600-4ab0-4a99-a94f-aebc3cb7a892/relationships/uid?resourceVersion=id%3A175"
+        }
+      }
+    },
+    "thumbnail": {
+      "data": {
+        "type": "file--file",
+        "id": "56303fc7-7327-4b96-af8f-c814179ffb2f",
+        "meta": {
+          "alt": "1934 Gedenkbild",
+          "title": null,
+          "width": 1932,
+          "height": 3114,
+          "drupal_internal__target_id": 236
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/840fc600-4ab0-4a99-a94f-aebc3cb7a892/thumbnail?resourceVersion=id%3A175"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/840fc600-4ab0-4a99-a94f-aebc3cb7a892/relationships/thumbnail?resourceVersion=id%3A175"
+        }
+      }
+    },
+    "field_media_image": {
+      "data": {
+        "type": "file--file",
+        "id": "56303fc7-7327-4b96-af8f-c814179ffb2f",
+        "meta": {
+          "alt": "1934 Gedenkbild",
+          "title": "1934_gedenkbild-1",
+          "width": 1932,
+          "height": 3114,
+          "drupal_internal__target_id": 236
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/840fc600-4ab0-4a99-a94f-aebc3cb7a892/field_media_image?resourceVersion=id%3A175"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/840fc600-4ab0-4a99-a94f-aebc3cb7a892/relationships/field_media_image?resourceVersion=id%3A175"
+        }
+      }
+    }
+  }
+}

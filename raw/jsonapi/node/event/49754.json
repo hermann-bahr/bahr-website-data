@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "660907cd-fc75-447f-b8f7-b8f1a5b3dd96",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/660907cd-fc75-447f-b8f7-b8f1a5b3dd96?resourceVersion=id%3A3525"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/660907cd-fc75-447f-b8f7-b8f1a5b3dd96?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49754,
+    "drupal_internal__vid": 3525,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Helene Odilon",
+    "created": "2012-01-03T16:56:56+00:00",
+    "changed": "2012-01-03T16:56:56+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49754",
+      "pid": 1566,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 30. November 1920 besucht Bahr Helene Odilon in einem Wohnheim (\"Asyl\") in Salzburg. Sie ist verarmt, ihr wurde aber in der Not geholfen, von Gott und von Geldgebern.",
+      "format": "full_html",
+      "processed": "Am 30. November 1920 besucht Bahr Helene Odilon in einem Wohnheim (\"Asyl\") in Salzburg. Sie ist verarmt, ihr wurde aber in der Not geholfen, von Gott und von Geldgebern.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1920-11-30",
+      "end_value": "1920-11-30"
+    },
+    "field_sources": [
+      "Tagebuch. Salzburg, 30. November. Buchausgabe: Kritik der Gegenwart, 287-289"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/660907cd-fc75-447f-b8f7-b8f1a5b3dd96/node_type?resourceVersion=id%3A3525"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/660907cd-fc75-447f-b8f7-b8f1a5b3dd96/relationships/node_type?resourceVersion=id%3A3525"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/660907cd-fc75-447f-b8f7-b8f1a5b3dd96/revision_uid?resourceVersion=id%3A3525"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/660907cd-fc75-447f-b8f7-b8f1a5b3dd96/relationships/revision_uid?resourceVersion=id%3A3525"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/660907cd-fc75-447f-b8f7-b8f1a5b3dd96/uid?resourceVersion=id%3A3525"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/660907cd-fc75-447f-b8f7-b8f1a5b3dd96/relationships/uid?resourceVersion=id%3A3525"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/660907cd-fc75-447f-b8f7-b8f1a5b3dd96/field_event_type?resourceVersion=id%3A3525"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/660907cd-fc75-447f-b8f7-b8f1a5b3dd96/relationships/field_event_type?resourceVersion=id%3A3525"
+        }
+      }
+    }
+  }
+}

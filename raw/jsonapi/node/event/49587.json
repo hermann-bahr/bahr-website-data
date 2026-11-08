@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "6d8cdd47-f43a-473f-aaa2-8c5761dc15ee",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/6d8cdd47-f43a-473f-aaa2-8c5761dc15ee?resourceVersion=id%3A3414"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/6d8cdd47-f43a-473f-aaa2-8c5761dc15ee?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49587,
+    "drupal_internal__vid": 3414,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Erste Verlobung",
+    "created": "2011-11-10T10:31:03+00:00",
+    "changed": "2011-11-28T11:58:58+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49587",
+      "pid": 1403,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Im \"Selbstbildnis\" berichtet Bahr, sich aus seinem Fenster in eine Nachbarin verliebt zu haben und gleich nach dem ersten Beisammensitzen einen Heiratsantrag gemacht zu haben. Sein Vater riet ihm, doch zumindest noch die eineinhalb Jahre zur Matura zu warten und so lange stillschweigen zu bewahren \"um das süße Geheimnis\" nicht zu profanisieren. Bahr weiß rückblickend selbst nicht, ob es Liebe war, oder er die Liebe benötigte, um Liebesgedichte lesen zu können. Er beendete die Beziehung mit seinem Abschied aus Salzburg im Sommer nach der Matura.",
+      "format": "full_html",
+      "processed": "Im \"Selbstbildnis\" berichtet Bahr, sich aus seinem Fenster in eine Nachbarin verliebt zu haben und gleich nach dem ersten Beisammensitzen einen Heiratsantrag gemacht zu haben. Sein Vater riet ihm, doch zumindest noch die eineinhalb Jahre zur Matura zu warten und so lange stillschweigen zu bewahren \"um das süße Geheimnis\" nicht zu profanisieren. Bahr weiß rückblickend selbst nicht, ob es Liebe war, oder er die Liebe benötigte, um Liebesgedichte lesen zu können. Er beendete die Beziehung mit seinem Abschied aus Salzburg im Sommer nach der Matura.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1879-02-01",
+      "end_value": "1879-02-01"
+    },
+    "field_sources": [
+      "Selbstbildnis, 90-94.",
+      "Hermann Bahr: Tagebuch. 1. Mai. In: 1919. Tagebuch, 147-152, hier: 148",
+      "(Im \"Tagebuch\" ist es mit \"1879, nach dem ersten Salzburger Semester datiert, also hier auf 1. Februar 1879)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6d8cdd47-f43a-473f-aaa2-8c5761dc15ee/node_type?resourceVersion=id%3A3414"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6d8cdd47-f43a-473f-aaa2-8c5761dc15ee/relationships/node_type?resourceVersion=id%3A3414"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6d8cdd47-f43a-473f-aaa2-8c5761dc15ee/revision_uid?resourceVersion=id%3A3414"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6d8cdd47-f43a-473f-aaa2-8c5761dc15ee/relationships/revision_uid?resourceVersion=id%3A3414"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6d8cdd47-f43a-473f-aaa2-8c5761dc15ee/uid?resourceVersion=id%3A3414"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6d8cdd47-f43a-473f-aaa2-8c5761dc15ee/relationships/uid?resourceVersion=id%3A3414"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6d8cdd47-f43a-473f-aaa2-8c5761dc15ee/field_event_type?resourceVersion=id%3A3414"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6d8cdd47-f43a-473f-aaa2-8c5761dc15ee/relationships/field_event_type?resourceVersion=id%3A3414"
+        }
+      }
+    }
+  }
+}

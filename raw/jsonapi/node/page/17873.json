@@ -1,0 +1,85 @@
+{
+  "type": "node--page",
+  "id": "47b53a7d-1065-401c-8eb0-d78577c1ee0b",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/page/47b53a7d-1065-401c-8eb0-d78577c1ee0b?resourceVersion=id%3A4196"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/page/47b53a7d-1065-401c-8eb0-d78577c1ee0b?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 17873,
+    "drupal_internal__vid": 4196,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-28T10:02:43+00:00",
+    "status": true,
+    "title": "Forschung",
+    "created": "2010-02-02T22:30:23+00:00",
+    "changed": "2020-02-28T10:02:43+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": null,
+    "path": {
+      "alias": "/forschung",
+      "pid": 21,
+      "langcode": "de"
+    },
+    "body": null
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "016d417b-5c75-4303-8420-18e221e9e269",
+        "meta": {
+          "drupal_internal__target_id": "page"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/47b53a7d-1065-401c-8eb0-d78577c1ee0b/node_type?resourceVersion=id%3A4196"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/47b53a7d-1065-401c-8eb0-d78577c1ee0b/relationships/node_type?resourceVersion=id%3A4196"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/47b53a7d-1065-401c-8eb0-d78577c1ee0b/revision_uid?resourceVersion=id%3A4196"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/47b53a7d-1065-401c-8eb0-d78577c1ee0b/relationships/revision_uid?resourceVersion=id%3A4196"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/47b53a7d-1065-401c-8eb0-d78577c1ee0b/uid?resourceVersion=id%3A4196"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/47b53a7d-1065-401c-8eb0-d78577c1ee0b/relationships/uid?resourceVersion=id%3A4196"
+        }
+      }
+    }
+  }
+}

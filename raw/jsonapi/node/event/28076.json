@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "6132da53-b13e-48fe-8a6e-9447f812089c",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/6132da53-b13e-48fe-8a6e-9447f812089c?resourceVersion=id%3A2403"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/6132da53-b13e-48fe-8a6e-9447f812089c?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28076,
+    "drupal_internal__vid": 2403,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Die gelbe Nachtigall",
+    "created": "2010-08-09T09:36:38+00:00",
+    "changed": "2012-06-13T20:03:57+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28076",
+      "pid": 237,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "10. Dezember 1907 Uraufführung am Berliner Lessingtheater. Die Buchausgabe erschien bei S. Fischer im selben Jahr.\r\n\r\nIm ersten Akt wird mit Albert Korz ein erfolgreicher und kapriziöser Schauspieler vorgeführt, den die unattraktive aber stimmlich begabte Tochter seines ehemaligen Förderers in Ungarn bittet, Zugang zum Theater zu verschaffen. Er sieht darin eine Gelegenheit, seinem Intendanten Jason einen Streich zu spielen. Im zweiten Akt wird Fanny dem Intendanten als die \"gelbe Nachtigall\" aus Japan, die Sängerin Inasa untergejubelt. Der dritte Akt bezeichnet das Ende von Inasa, die seit Monaten erfolgreich war, aber durch eine gezielte Indiskretion an die Presse von Fanny selbst beendet wird. Ihr Auftritt nach dem Skandal ist ein Erfolg.\r\n\r\nVon Zeitgenossen wurde es als \"Schlüsselstück\" über Bahrs Zeit bei Max Reinhardt wahrgenommen.\r\n",
+      "format": "full_html",
+      "processed": "10. Dezember 1907 Uraufführung am Berliner Lessingtheater. Die Buchausgabe erschien bei S. Fischer im selben Jahr.\n\nIm ersten Akt wird mit Albert Korz ein erfolgreicher und kapriziöser Schauspieler vorgeführt, den die unattraktive aber stimmlich begabte Tochter seines ehemaligen Förderers in Ungarn bittet, Zugang zum Theater zu verschaffen. Er sieht darin eine Gelegenheit, seinem Intendanten Jason einen Streich zu spielen. Im zweiten Akt wird Fanny dem Intendanten als die \"gelbe Nachtigall\" aus Japan, die Sängerin Inasa untergejubelt. Der dritte Akt bezeichnet das Ende von Inasa, die seit Monaten erfolgreich war, aber durch eine gezielte Indiskretion an die Presse von Fanny selbst beendet wird. Ihr Auftritt nach dem Skandal ist ein Erfolg.\n\nVon Zeitgenossen wurde es als \"Schlüsselstück\" über Bahrs Zeit bei Max Reinhardt wahrgenommen.\n",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1907-12-10",
+      "end_value": "1907-12-10"
+    },
+    "field_sources": [
+      "Hermann Bahr: Die gelbe Nachtigall. Berlin: S. Fischer, 1907."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6132da53-b13e-48fe-8a6e-9447f812089c/node_type?resourceVersion=id%3A2403"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6132da53-b13e-48fe-8a6e-9447f812089c/relationships/node_type?resourceVersion=id%3A2403"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6132da53-b13e-48fe-8a6e-9447f812089c/revision_uid?resourceVersion=id%3A2403"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6132da53-b13e-48fe-8a6e-9447f812089c/relationships/revision_uid?resourceVersion=id%3A2403"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6132da53-b13e-48fe-8a6e-9447f812089c/uid?resourceVersion=id%3A2403"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6132da53-b13e-48fe-8a6e-9447f812089c/relationships/uid?resourceVersion=id%3A2403"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "27f3d2a4-8970-4726-9ab8-ce37707ec1bc",
+          "meta": {
+            "drupal_internal__target_id": 1
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6132da53-b13e-48fe-8a6e-9447f812089c/field_event_type?resourceVersion=id%3A2403"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6132da53-b13e-48fe-8a6e-9447f812089c/relationships/field_event_type?resourceVersion=id%3A2403"
+        }
+      }
+    }
+  }
+}

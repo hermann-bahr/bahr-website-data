@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "87f89645-62fa-4e63-a5e9-43c8a40e5f07",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/87f89645-62fa-4e63-a5e9-43c8a40e5f07?resourceVersion=id%3A2981"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/87f89645-62fa-4e63-a5e9-43c8a40e5f07?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44061,
+    "drupal_internal__vid": 2981,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Salzburg, Lueg",
+    "created": "2011-09-02T10:25:41+00:00",
+    "changed": "2011-09-02T10:25:41+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44061",
+      "pid": 959,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Vom 14. bis zum 17. Juni 1906 wieder in Salzburg und Lueg.",
+      "format": "full_html",
+      "processed": "Vom 14. bis zum 17. Juni 1906 wieder in Salzburg und Lueg.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1906-06-14",
+      "end_value": "1906-06-17"
+    },
+    "field_sources": [
+      "Tagebücher (Csàky), V, 17."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/87f89645-62fa-4e63-a5e9-43c8a40e5f07/node_type?resourceVersion=id%3A2981"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/87f89645-62fa-4e63-a5e9-43c8a40e5f07/relationships/node_type?resourceVersion=id%3A2981"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/87f89645-62fa-4e63-a5e9-43c8a40e5f07/revision_uid?resourceVersion=id%3A2981"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/87f89645-62fa-4e63-a5e9-43c8a40e5f07/relationships/revision_uid?resourceVersion=id%3A2981"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/87f89645-62fa-4e63-a5e9-43c8a40e5f07/uid?resourceVersion=id%3A2981"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/87f89645-62fa-4e63-a5e9-43c8a40e5f07/relationships/uid?resourceVersion=id%3A2981"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/87f89645-62fa-4e63-a5e9-43c8a40e5f07/field_event_type?resourceVersion=id%3A2981"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/87f89645-62fa-4e63-a5e9-43c8a40e5f07/relationships/field_event_type?resourceVersion=id%3A2981"
+        }
+      }
+    }
+  }
+}

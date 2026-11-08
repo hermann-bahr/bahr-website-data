@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "68c58cad-25be-4acd-b448-fe8d6d79c924",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/68c58cad-25be-4acd-b448-fe8d6d79c924?resourceVersion=id%3A2681"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/68c58cad-25be-4acd-b448-fe8d6d79c924?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38866,
+    "drupal_internal__vid": 2681,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Linz",
+    "created": "2011-02-16T21:39:11+00:00",
+    "changed": "2011-10-04T09:37:11+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38866",
+      "pid": 609,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Vom 14. bis zumindest dem 21.4.1890 ist Bahr in Linz. ",
+      "format": "full_html",
+      "processed": "Vom 14. bis zumindest dem 21.4.1890 ist Bahr in Linz. ",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1890-04-14",
+      "end_value": "1890-04-21"
+    },
+    "field_sources": [
+      "Briefe an Arno Holz, 13. und 16.4.1890, in Abschrift im Nachlass Bahrs.",
+      "Brief an Georg Michael Conrad, 21.4.1890, Monacensia-Bibliothek"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/68c58cad-25be-4acd-b448-fe8d6d79c924/node_type?resourceVersion=id%3A2681"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/68c58cad-25be-4acd-b448-fe8d6d79c924/relationships/node_type?resourceVersion=id%3A2681"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/68c58cad-25be-4acd-b448-fe8d6d79c924/revision_uid?resourceVersion=id%3A2681"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/68c58cad-25be-4acd-b448-fe8d6d79c924/relationships/revision_uid?resourceVersion=id%3A2681"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/68c58cad-25be-4acd-b448-fe8d6d79c924/uid?resourceVersion=id%3A2681"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/68c58cad-25be-4acd-b448-fe8d6d79c924/relationships/uid?resourceVersion=id%3A2681"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/68c58cad-25be-4acd-b448-fe8d6d79c924/field_event_type?resourceVersion=id%3A2681"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/68c58cad-25be-4acd-b448-fe8d6d79c924/relationships/field_event_type?resourceVersion=id%3A2681"
+        }
+      }
+    }
+  }
+}

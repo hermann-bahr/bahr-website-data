@@ -1,0 +1,114 @@
+{
+  "type": "node--event",
+  "id": "4aca74d9-292b-4155-be20-ed8b3ca8937c",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/4aca74d9-292b-4155-be20-ed8b3ca8937c?resourceVersion=id%3A2245"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/4aca74d9-292b-4155-be20-ed8b3ca8937c?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27897,
+    "drupal_internal__vid": 2245,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Bei Max Reinhardt, III",
+    "created": "2010-06-22T17:04:25+00:00",
+    "changed": "2011-09-01T08:47:16+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/27897",
+      "pid": 78,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahrs dritter Aufenthalt am Deutschen Theater in Berlin fand vom 30. September bis zum 30. November 1907 statt.",
+      "format": "full_html",
+      "processed": "Bahrs dritter Aufenthalt am Deutschen Theater in Berlin fand vom 30. September bis zum 30. November 1907 statt.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1907-09-30",
+      "end_value": "1907-11-30"
+    },
+    "field_sources": []
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4aca74d9-292b-4155-be20-ed8b3ca8937c/node_type?resourceVersion=id%3A2245"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4aca74d9-292b-4155-be20-ed8b3ca8937c/relationships/node_type?resourceVersion=id%3A2245"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4aca74d9-292b-4155-be20-ed8b3ca8937c/revision_uid?resourceVersion=id%3A2245"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4aca74d9-292b-4155-be20-ed8b3ca8937c/relationships/revision_uid?resourceVersion=id%3A2245"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4aca74d9-292b-4155-be20-ed8b3ca8937c/uid?resourceVersion=id%3A2245"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4aca74d9-292b-4155-be20-ed8b3ca8937c/relationships/uid?resourceVersion=id%3A2245"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4aca74d9-292b-4155-be20-ed8b3ca8937c/field_event_type?resourceVersion=id%3A2245"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4aca74d9-292b-4155-be20-ed8b3ca8937c/relationships/field_event_type?resourceVersion=id%3A2245"
+        }
+      }
+    }
+  }
+}

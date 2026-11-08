@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "54a16fca-22cf-4bd5-ac32-381657b5157e",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/54a16fca-22cf-4bd5-ac32-381657b5157e?resourceVersion=id%3A3492"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/54a16fca-22cf-4bd5-ac32-381657b5157e?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49717,
+    "drupal_internal__vid": 3492,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Gerücht um vorzeitigen Abgang",
+    "created": "2011-12-14T16:42:55+00:00",
+    "changed": "2011-12-15T11:46:20+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49717",
+      "pid": 1531,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Das Illustrierte Österreichische Journal schreibt am 15. Februar 1919:<blockquote><i>Hermann Bahr verläßt das Burgtheater</i>. Wie in Theaterkreisen mit Bestimmtheit behauptet wurde, verläßt Hermann Bahr mit dem Ende dieser Spielzeit das Burgtheater. Bahr empfindet seinen gegenwärtigen Wirkungskreis im Burgtheater als zu eng. Er wird daher nach Salzburg zurückkehren, um dort ein neues, erzählendes Werk zu beginnen.</blockquote>Ähnliches schrieb schon das Berliner Tageblatt am Vortag. Offiziell wird es erst einen Monat später.",
+      "format": "full_html",
+      "processed": "Das Illustrierte Österreichische Journal schreibt am 15. Februar 1919:<blockquote><i>Hermann Bahr verläßt das Burgtheater</i>. Wie in Theaterkreisen mit Bestimmtheit behauptet wurde, verläßt Hermann Bahr mit dem Ende dieser Spielzeit das Burgtheater. Bahr empfindet seinen gegenwärtigen Wirkungskreis im Burgtheater als zu eng. Er wird daher nach Salzburg zurückkehren, um dort ein neues, erzählendes Werk zu beginnen.</blockquote>Ähnliches schrieb schon das Berliner Tageblatt am Vortag. Offiziell wird es erst einen Monat später.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1919-02-14",
+      "end_value": "1919-02-14"
+    },
+    "field_sources": [
+      "Illustriertes Österreichisches Journal, 45 (1919) #1372, 3. (15.2.1919)",
+      "Berliner Tageblatt, 48 (1919) #70, Morgen-Ausgabe, 2. (14.2.1919)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/54a16fca-22cf-4bd5-ac32-381657b5157e/node_type?resourceVersion=id%3A3492"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/54a16fca-22cf-4bd5-ac32-381657b5157e/relationships/node_type?resourceVersion=id%3A3492"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/54a16fca-22cf-4bd5-ac32-381657b5157e/revision_uid?resourceVersion=id%3A3492"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/54a16fca-22cf-4bd5-ac32-381657b5157e/relationships/revision_uid?resourceVersion=id%3A3492"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/54a16fca-22cf-4bd5-ac32-381657b5157e/uid?resourceVersion=id%3A3492"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/54a16fca-22cf-4bd5-ac32-381657b5157e/relationships/uid?resourceVersion=id%3A3492"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/54a16fca-22cf-4bd5-ac32-381657b5157e/field_event_type?resourceVersion=id%3A3492"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/54a16fca-22cf-4bd5-ac32-381657b5157e/relationships/field_event_type?resourceVersion=id%3A3492"
+        }
+      }
+    }
+  }
+}

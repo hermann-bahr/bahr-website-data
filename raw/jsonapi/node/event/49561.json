@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "d72b91a6-2bd2-4e94-869d-12334c87e04c",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/d72b91a6-2bd2-4e94-869d-12334c87e04c?resourceVersion=id%3A3394"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/d72b91a6-2bd2-4e94-869d-12334c87e04c?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49561,
+    "drupal_internal__vid": 3394,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Schwindelanfälle, Sehstörungen",
+    "created": "2011-11-02T16:20:09+00:00",
+    "changed": "2011-11-02T16:20:09+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49561",
+      "pid": 1378,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Im Jänner 1927 rekapituliert Bahr seine Gesundheit gegenüber Redlich: Der Aufenthalt in Garmisch hat ihm nur wenige Wochen Erleichterung verschafft, dann ging es mit der nun seit zwei Jahren anhaltenden \"Nervenpleite\" weiter. Er beklagt intensive Schwindelanfälle, Drehkrankheit und Sehstörungen.",
+      "format": "full_html",
+      "processed": "Im Jänner 1927 rekapituliert Bahr seine Gesundheit gegenüber Redlich: Der Aufenthalt in Garmisch hat ihm nur wenige Wochen Erleichterung verschafft, dann ging es mit der nun seit zwei Jahren anhaltenden \"Nervenpleite\" weiter. Er beklagt intensive Schwindelanfälle, Drehkrankheit und Sehstörungen.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1927-01-17",
+      "end_value": "1927-01-17"
+    },
+    "field_sources": [
+      "Bahr/Redlich, 554. (An R., 27.1.1927)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d72b91a6-2bd2-4e94-869d-12334c87e04c/node_type?resourceVersion=id%3A3394"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d72b91a6-2bd2-4e94-869d-12334c87e04c/relationships/node_type?resourceVersion=id%3A3394"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d72b91a6-2bd2-4e94-869d-12334c87e04c/revision_uid?resourceVersion=id%3A3394"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d72b91a6-2bd2-4e94-869d-12334c87e04c/relationships/revision_uid?resourceVersion=id%3A3394"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d72b91a6-2bd2-4e94-869d-12334c87e04c/uid?resourceVersion=id%3A3394"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d72b91a6-2bd2-4e94-869d-12334c87e04c/relationships/uid?resourceVersion=id%3A3394"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d72b91a6-2bd2-4e94-869d-12334c87e04c/field_event_type?resourceVersion=id%3A3394"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d72b91a6-2bd2-4e94-869d-12334c87e04c/relationships/field_event_type?resourceVersion=id%3A3394"
+        }
+      }
+    }
+  }
+}

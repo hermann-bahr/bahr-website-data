@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "978f2f91-17f9-4a8b-ab54-8cd2689c9310",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/978f2f91-17f9-4a8b-ab54-8cd2689c9310?resourceVersion=id%3A2300"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/978f2f91-17f9-4a8b-ab54-8cd2689c9310?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27959,
+    "drupal_internal__vid": 2300,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Sendung des Künstlers",
+    "created": "2010-07-19T15:23:13+00:00",
+    "changed": "2012-11-20T12:44:38+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/27959",
+      "pid": 134,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Im Dezember 1922, vordatiert auf 1923 erscheinen Bahrs Studien im Umfeld Glaube/Künstler/Kunst, eine Zusammenstellung von Aufsätzen. Erste Besprechungen erscheinen im Jänner.",
+      "format": "full_html",
+      "processed": "Im Dezember 1922, vordatiert auf 1923 erscheinen Bahrs Studien im Umfeld Glaube/Künstler/Kunst, eine Zusammenstellung von Aufsätzen. Erste Besprechungen erscheinen im Jänner.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1922-12-31",
+      "end_value": "1922-12-31"
+    },
+    "field_sources": [
+      "Hermann Bahr: Sendung des Künstlers. Leipzig: Insel, 1923.",
+      "Als \"eben erschienen\" vermeldet in: Hermann Bahr: Woran arbeiten Sie? Die Rundfrage des \"Neuen Wiener Journals\" bei Schriftstellern und Musikern. Neues Wiener Journal, 30 (1922) #10460, 8-9, hier: 8. (31.12.1922)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/978f2f91-17f9-4a8b-ab54-8cd2689c9310/node_type?resourceVersion=id%3A2300"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/978f2f91-17f9-4a8b-ab54-8cd2689c9310/relationships/node_type?resourceVersion=id%3A2300"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/978f2f91-17f9-4a8b-ab54-8cd2689c9310/revision_uid?resourceVersion=id%3A2300"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/978f2f91-17f9-4a8b-ab54-8cd2689c9310/relationships/revision_uid?resourceVersion=id%3A2300"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/978f2f91-17f9-4a8b-ab54-8cd2689c9310/uid?resourceVersion=id%3A2300"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/978f2f91-17f9-4a8b-ab54-8cd2689c9310/relationships/uid?resourceVersion=id%3A2300"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "da42ac4a-f48f-4397-af4d-b66e913825fb",
+          "meta": {
+            "drupal_internal__target_id": 3
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/978f2f91-17f9-4a8b-ab54-8cd2689c9310/field_event_type?resourceVersion=id%3A2300"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/978f2f91-17f9-4a8b-ab54-8cd2689c9310/relationships/field_event_type?resourceVersion=id%3A2300"
+        }
+      }
+    }
+  }
+}

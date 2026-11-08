@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "8130dbc0-4617-4d83-841c-33fe0c657f86",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/8130dbc0-4617-4d83-841c-33fe0c657f86?resourceVersion=id%3A3452"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/8130dbc0-4617-4d83-841c-33fe0c657f86?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49627,
+    "drupal_internal__vid": 3452,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "M. G. Conrad",
+    "created": "2011-11-17T14:38:38+00:00",
+    "changed": "2011-11-18T13:51:13+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49627",
+      "pid": 1442,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "In München besucht Bahr im November 1888 auch Michael Georg Conrad, in dem er den Heerrufer, Ibsens, Wagners und seiner Generation erkennt.",
+      "format": "full_html",
+      "processed": "In München besucht Bahr im November 1888 auch Michael Georg Conrad, in dem er den Heerrufer, Ibsens, Wagners und seiner Generation erkennt.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1888-11-11",
+      "end_value": "1888-11-11"
+    },
+    "field_sources": [
+      "Selbstbildnis, 216",
+      "Hermann Bahr: Münchener Brief. Deutsche Zeitung, Wien, 18 (1888) #6072, Morgen-Ausgabe, 1-2. (23.11.1888) Buchausgabe: Zur Kritik der Moderne, 125-130"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8130dbc0-4617-4d83-841c-33fe0c657f86/node_type?resourceVersion=id%3A3452"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8130dbc0-4617-4d83-841c-33fe0c657f86/relationships/node_type?resourceVersion=id%3A3452"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8130dbc0-4617-4d83-841c-33fe0c657f86/revision_uid?resourceVersion=id%3A3452"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8130dbc0-4617-4d83-841c-33fe0c657f86/relationships/revision_uid?resourceVersion=id%3A3452"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8130dbc0-4617-4d83-841c-33fe0c657f86/uid?resourceVersion=id%3A3452"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8130dbc0-4617-4d83-841c-33fe0c657f86/relationships/uid?resourceVersion=id%3A3452"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8130dbc0-4617-4d83-841c-33fe0c657f86/field_event_type?resourceVersion=id%3A3452"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8130dbc0-4617-4d83-841c-33fe0c657f86/relationships/field_event_type?resourceVersion=id%3A3452"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "type": "node--event",
+  "id": "2ae91e56-6f18-482b-9949-1d52ae0e1762",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/2ae91e56-6f18-482b-9949-1d52ae0e1762?resourceVersion=id%3A2680"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/2ae91e56-6f18-482b-9949-1d52ae0e1762?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38865,
+    "drupal_internal__vid": 2680,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "London",
+    "created": "2011-02-16T21:36:43+00:00",
+    "changed": "2012-01-26T15:21:07+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38865",
+      "pid": 608,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 11. Februar 1910 kommen Bahr und seine Frau in London an, wo sie vom 19. bis zum 15. März an der Beecham Opera gastiert. Am 20. März reisen sie nach Sandwich.",
+      "format": "full_html",
+      "processed": "Am 11. Februar 1910 kommen Bahr und seine Frau in London an, wo sie vom 19. bis zum 15. März an der Beecham Opera gastiert. Am 20. März reisen sie nach Sandwich.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1910-02-11",
+      "end_value": "1910-03-20"
+    },
+    "field_sources": [
+      "Brief an Konrad Dreher, 16.3.1910 (Monacensia-Bibliothek)",
+      "Empfehlungsschreiben von Redlich für Bahr, Ende Jänner/Anfang Februar 1910, Bahr/Redlich, 70-72.",
+      "Gabriele Parizek: Anna Bahr-Mildenburg [Dissertation], 66.",
+      "Hermann Bahr: Aufzeichnungen 1909-1911. Ausgabe in Vorbereitung von Kurt Ifkovits\r\n"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2ae91e56-6f18-482b-9949-1d52ae0e1762/node_type?resourceVersion=id%3A2680"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2ae91e56-6f18-482b-9949-1d52ae0e1762/relationships/node_type?resourceVersion=id%3A2680"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2ae91e56-6f18-482b-9949-1d52ae0e1762/revision_uid?resourceVersion=id%3A2680"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2ae91e56-6f18-482b-9949-1d52ae0e1762/relationships/revision_uid?resourceVersion=id%3A2680"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2ae91e56-6f18-482b-9949-1d52ae0e1762/uid?resourceVersion=id%3A2680"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2ae91e56-6f18-482b-9949-1d52ae0e1762/relationships/uid?resourceVersion=id%3A2680"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2ae91e56-6f18-482b-9949-1d52ae0e1762/field_event_type?resourceVersion=id%3A2680"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2ae91e56-6f18-482b-9949-1d52ae0e1762/relationships/field_event_type?resourceVersion=id%3A2680"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "type": "node--event",
+  "id": "13ddad3d-f6af-4c27-ab12-2dae53cf7c1a",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/13ddad3d-f6af-4c27-ab12-2dae53cf7c1a?resourceVersion=id%3A2820"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/13ddad3d-f6af-4c27-ab12-2dae53cf7c1a?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39045,
+    "drupal_internal__vid": 2820,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Eröffnung der Darmstädter Künstlerkolonie",
+    "created": "2011-04-14T15:09:41+00:00",
+    "changed": "2012-11-06T11:06:47+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39045",
+      "pid": 777,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Zur am 15. Mai 1901 stattfindenden Eröffnung der Künstlerkolonie reist Bahr nach Darmstadt. Die Heimkehr läuft über München (Treffen mit den Herausgebern der \"Insel\" am 18. oder 19?). Am 21. ist er zurück in Wien.",
+      "format": "full_html",
+      "processed": "Zur am 15. Mai 1901 stattfindenden Eröffnung der Künstlerkolonie reist Bahr nach Darmstadt. Die Heimkehr läuft über München (Treffen mit den Herausgebern der \"Insel\" am 18. oder 19?). Am 21. ist er zurück in Wien.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1901-05-14",
+      "end_value": "1901-05-21"
+    },
+    "field_sources": [
+      "Rückkehr meldet Bahr an HvH, 21.5.1901. Briefwechsel Bahr/Hofmannsthal. Hg. Elsbeth Dangel-Pelloquin. Göttingen: Wallstein. (In Vorbereitung)",
+      "Hermann Bahr: Die Ausstellung in Darmstadt. Österreichische Volks-Zeitung, 47 (1901) #145, 1-2. (29.5.1901) \r\n",
+      "Zur Datierung auch: Zwischen 6. und 22. Mai erschienen keine Theatermeldungen.\r\n",
+      "Zur Datierung vgl. auch den Brief an Bierbaum vom 18.5. (Poststempel), der im Jahr 2000 bei Ingo Nebehay (Liste 123) antiquarisch angeboten wurde, und worin Bahr für das kommende Wochenende seine Rückreise aus Darmstadt und Zwischenhalt in München ankündigt. "
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/13ddad3d-f6af-4c27-ab12-2dae53cf7c1a/node_type?resourceVersion=id%3A2820"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/13ddad3d-f6af-4c27-ab12-2dae53cf7c1a/relationships/node_type?resourceVersion=id%3A2820"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/13ddad3d-f6af-4c27-ab12-2dae53cf7c1a/revision_uid?resourceVersion=id%3A2820"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/13ddad3d-f6af-4c27-ab12-2dae53cf7c1a/relationships/revision_uid?resourceVersion=id%3A2820"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/13ddad3d-f6af-4c27-ab12-2dae53cf7c1a/uid?resourceVersion=id%3A2820"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/13ddad3d-f6af-4c27-ab12-2dae53cf7c1a/relationships/uid?resourceVersion=id%3A2820"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/13ddad3d-f6af-4c27-ab12-2dae53cf7c1a/field_event_type?resourceVersion=id%3A2820"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/13ddad3d-f6af-4c27-ab12-2dae53cf7c1a/relationships/field_event_type?resourceVersion=id%3A2820"
+        }
+      }
+    }
+  }
+}

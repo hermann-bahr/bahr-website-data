@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="forschung__personenregister__tagebuecher-skizzenbuecher-notizhefte-personen-und" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Tagebücher, Skizzenbücher, Notizhefte. Personen- und Werkverzeichnis</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">49702</idno>
+        <idno type="drupal-alias">/liste/49702</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/liste/49702">https://bahr.univie.ac.at/liste/49702</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="6" key="forschung">Forschung</term>
+          <term n="3" key="personenregister">Personenregister</term>
+          <term n="1" key="tagebuecher-skizzenbuecher-notizhefte-personen-und" type="eintrag">Tagebücher, Skizzenbücher, Notizhefte. Personen- und Werkverzeichnis</term>
+        </keywords>
+        <classCode scheme="drupal-type">list</classCode>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2011-11-30T09:37:44+00:00" type="created">angelegt in Drupal</change>
+      <change when="2024-03-07T21:49:34+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <hi rend="bold">Hermann Bahr: Tagebücher, Skizzenbücher, Notizhefte. Hg. Moritz Csáky. Wien, Köln, Weimar: Böhlau 1994-2003</hi>
+        </p>
+        <list rend="bulleted">
+          <item>
+            <hi rend="bold"><hi rend="bold">I</hi> 1885—1890. Bearbeitet von Lottelis Moser und Helene Zand, 1994.</hi>
+          </item>
+          <item>
+            <hi rend="bold"><hi rend="bold">II</hi> 1890–1900. Bearbeitet von Helene Zand, Lukas Mayerhofer und Lottelis Moser, 1996.</hi>
+          </item>
+          <item>
+            <hi rend="bold"><hi rend="bold">III</hi> 1901–1903. Bearbeitet von Helene Zand und Lukas Mayerhofer, 1997.</hi>
+          </item>
+          <item>
+            <hi rend="bold"><hi rend="bold">IV</hi> 1904–1905. Bearbeitet von Lukas Mayerhofer und Helene Zand, 2000.</hi>
+          </item>
+          <item>
+            <hi rend="bold"><hi rend="bold">V</hi> 1906–1908. Bearbeitet von Kurt Ifkovits und Lukas Mayerhofer, 2003.</hi>
+          </item>
+        </list>
+        <p>
+          <hi rend="bold">
+            <hi rend="bold">Eine überarbeitete Fassung findet sich seit Februar 2024 hier: </hi>
+          </hi>
+          <ref target="https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html">
+            <hi rend="bold">
+              <hi rend="bold">https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html</hi>
+            </hi>
+          </ref>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

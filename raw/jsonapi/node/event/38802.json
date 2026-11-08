@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "73be06f9-07ba-4eb3-adb7-159443ade626",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/73be06f9-07ba-4eb3-adb7-159443ade626?resourceVersion=id%3A2623"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/73be06f9-07ba-4eb3-adb7-159443ade626?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38802,
+    "drupal_internal__vid": 2623,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Schliersee, Cortina d'Ampezzo",
+    "created": "2011-02-01T16:01:11+00:00",
+    "changed": "2011-10-04T09:47:08+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38802",
+      "pid": 550,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Den ersten Teil seiner Sommerferien 1896 verbringen er und seine Frau in Schliersee (Ende Juli bis 5. Salzkammergut, dann nach Rosenheim.) Am 11. und 12. nach München, von dort retour nach Schliersee. Am 18. über Innsbruck nach Toblach (Landro) und Ampezzo. 25. Millstätter See. 26. Wörthersee. 27. Semmering. Am 31. August Heimkehr nach Wien.",
+      "format": "full_html",
+      "processed": "Den ersten Teil seiner Sommerferien 1896 verbringen er und seine Frau in Schliersee (Ende Juli bis 5. Salzkammergut, dann nach Rosenheim.) Am 11. und 12. nach München, von dort retour nach Schliersee. Am 18. über Innsbruck nach Toblach (Landro) und Ampezzo. 25. Millstätter See. 26. Wörthersee. 27. Semmering. Am 31. August Heimkehr nach Wien.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1896-08-01",
+      "end_value": "1896-08-31"
+    },
+    "field_sources": [
+      "Briefe an den Vater, 27.7.-1.9.1896.",
+      "Tagebücher (Csàky), II, 224-227."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/73be06f9-07ba-4eb3-adb7-159443ade626/node_type?resourceVersion=id%3A2623"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/73be06f9-07ba-4eb3-adb7-159443ade626/relationships/node_type?resourceVersion=id%3A2623"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/73be06f9-07ba-4eb3-adb7-159443ade626/revision_uid?resourceVersion=id%3A2623"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/73be06f9-07ba-4eb3-adb7-159443ade626/relationships/revision_uid?resourceVersion=id%3A2623"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/73be06f9-07ba-4eb3-adb7-159443ade626/uid?resourceVersion=id%3A2623"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/73be06f9-07ba-4eb3-adb7-159443ade626/relationships/uid?resourceVersion=id%3A2623"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/73be06f9-07ba-4eb3-adb7-159443ade626/field_event_type?resourceVersion=id%3A2623"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/73be06f9-07ba-4eb3-adb7-159443ade626/relationships/field_event_type?resourceVersion=id%3A2623"
+        }
+      }
+    }
+  }
+}

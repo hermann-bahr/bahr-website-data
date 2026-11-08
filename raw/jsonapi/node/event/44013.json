@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "d52faf0f-60c2-4484-bbbc-c2da3f057f2f",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/d52faf0f-60c2-4484-bbbc-c2da3f057f2f?resourceVersion=id%3A2938"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/d52faf0f-60c2-4484-bbbc-c2da3f057f2f?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44013,
+    "drupal_internal__vid": 2938,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Fensterscheibe eingeschlagen?",
+    "created": "2011-07-14T20:48:38+00:00",
+    "changed": "2011-07-14T20:48:38+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44013",
+      "pid": 911,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "In der Nacht vom 26. auf den 27. Oktober 1883 wird die Fensterscheibe eines Schulmanns eingeschlagen und Bahr und seine Zechkumpanen verdächtigt. ",
+      "format": "full_html",
+      "processed": "In der Nacht vom 26. auf den 27. Oktober 1883 wird die Fensterscheibe eines Schulmanns eingeschlagen und Bahr und seine Zechkumpanen verdächtigt. ",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1883-10-26",
+      "end_value": "1883-10-26"
+    },
+    "field_sources": [
+      "Siehe den Prozess am 12.2.1884 der Zeitleiste."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d52faf0f-60c2-4484-bbbc-c2da3f057f2f/node_type?resourceVersion=id%3A2938"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d52faf0f-60c2-4484-bbbc-c2da3f057f2f/relationships/node_type?resourceVersion=id%3A2938"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d52faf0f-60c2-4484-bbbc-c2da3f057f2f/revision_uid?resourceVersion=id%3A2938"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d52faf0f-60c2-4484-bbbc-c2da3f057f2f/relationships/revision_uid?resourceVersion=id%3A2938"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d52faf0f-60c2-4484-bbbc-c2da3f057f2f/uid?resourceVersion=id%3A2938"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d52faf0f-60c2-4484-bbbc-c2da3f057f2f/relationships/uid?resourceVersion=id%3A2938"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d52faf0f-60c2-4484-bbbc-c2da3f057f2f/field_event_type?resourceVersion=id%3A2938"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d52faf0f-60c2-4484-bbbc-c2da3f057f2f/relationships/field_event_type?resourceVersion=id%3A2938"
+        }
+      }
+    }
+  }
+}

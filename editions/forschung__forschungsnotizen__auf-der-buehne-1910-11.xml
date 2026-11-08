@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="forschung__forschungsnotizen__auf-der-buehne-1910-11" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Auf der Bühne 1910/11</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">17875</idno>
+        <idno type="drupal-alias">/article/17875</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/article/17875">https://bahr.univie.ac.at/article/17875</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="6" key="forschung">Forschung</term>
+          <term n="4" key="forschungsnotizen">Forschungsnotizen</term>
+          <term n="24" key="auf-der-buehne-1910-11" type="eintrag">Auf der Bühne 1910/11</term>
+        </keywords>
+        <classCode scheme="drupal-type">article</classCode>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2010-02-03T22:16:10+00:00" type="created">angelegt in Drupal</change>
+      <change when="2010-03-26T13:52:53+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Das Salzburger Volksblatt (3.5.1913) entnimmt dem im Verlage Oesterheld und Co in Berlin erschienenen 16. Jahrgang des "Deutschen Bühnenspielplans" eine Statistik, wie oft welche Autoren auf den 887 deutschsprachigen Bühnen aufgeführt wird. Aufführungen:</p>
+        <table>
+          <row>
+            <cell role="label">Autor</cell>
+            <cell role="label">1910/11</cell>
+            <cell role="label">1911/12</cell>
+          </row>
+          <row>
+            <cell>Schiller</cell>
+            <cell>1526</cell>
+            <cell>1584</cell>
+          </row>
+          <row>
+            <cell>Sudermann</cell>
+            <cell/>
+            <cell>1228</cell>
+          </row>
+          <row>
+            <cell>Schönherr</cell>
+            <cell/>
+            <cell>974</cell>
+          </row>
+          <row>
+            <cell>Kleist</cell>
+            <cell>427</cell>
+            <cell>971</cell>
+          </row>
+          <row>
+            <cell>von Schönthan</cell>
+            <cell/>
+            <cell>905</cell>
+          </row>
+          <row>
+            <cell>Ibsen</cell>
+            <cell/>
+            <cell>832</cell>
+          </row>
+          <row>
+            <cell>Schnitzler</cell>
+            <cell>508</cell>
+            <cell>768</cell>
+          </row>
+          <row>
+            <cell>Goethe</cell>
+            <cell>680</cell>
+            <cell>723</cell>
+          </row>
+          <row>
+            <cell>Hauptmann</cell>
+            <cell>637</cell>
+            <cell>581</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="bold">Bahr</hi>
+            </cell>
+            <cell>
+              <hi rend="bold">896</hi>
+            </cell>
+            <cell>
+              <hi rend="bold">495</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>L‘Arronge</cell>
+            <cell/>
+            <cell>462</cell>
+          </row>
+          <row>
+            <cell>Grillparzer</cell>
+            <cell/>
+            <cell>443</cell>
+          </row>
+          <row>
+            <cell>Hebbel</cell>
+            <cell/>
+            <cell>443</cell>
+          </row>
+          <row>
+            <cell>Lessing</cell>
+            <cell/>
+            <cell>405</cell>
+          </row>
+          <row>
+            <cell>Anzengruber</cell>
+            <cell>297</cell>
+            <cell>346</cell>
+          </row>
+          <row>
+            <cell>Wedekind</cell>
+            <cell/>
+            <cell>214</cell>
+          </row>
+        </table>
+        <p>Wir stellen fest, dass Bahr und Schnitzler ziemlich gleichauf waren.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

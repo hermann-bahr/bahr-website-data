@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "451c678e-c799-4010-8384-acd9aa4dedc0",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/451c678e-c799-4010-8384-acd9aa4dedc0?resourceVersion=id%3A3614"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/451c678e-c799-4010-8384-acd9aa4dedc0?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 64224,
+    "drupal_internal__vid": 3614,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Breslau",
+    "created": "2012-05-23T10:20:24+00:00",
+    "changed": "2012-05-23T10:20:24+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/64224",
+      "pid": 1657,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahr fährt vom 1. zum 2. Dezember 1900 zu Schnitzlers Première von \"Der Schleier der Beatrice\" nach Breslau.",
+      "format": "full_html",
+      "processed": "Bahr fährt vom 1. zum 2. Dezember 1900 zu Schnitzlers Première von \"Der Schleier der Beatrice\" nach Breslau.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1900-12-01",
+      "end_value": "1900-12-02"
+    },
+    "field_sources": [
+      "Schnitzler: Tagebücher, II, 342."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/451c678e-c799-4010-8384-acd9aa4dedc0/node_type?resourceVersion=id%3A3614"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/451c678e-c799-4010-8384-acd9aa4dedc0/relationships/node_type?resourceVersion=id%3A3614"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/451c678e-c799-4010-8384-acd9aa4dedc0/revision_uid?resourceVersion=id%3A3614"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/451c678e-c799-4010-8384-acd9aa4dedc0/relationships/revision_uid?resourceVersion=id%3A3614"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/451c678e-c799-4010-8384-acd9aa4dedc0/uid?resourceVersion=id%3A3614"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/451c678e-c799-4010-8384-acd9aa4dedc0/relationships/uid?resourceVersion=id%3A3614"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/451c678e-c799-4010-8384-acd9aa4dedc0/field_event_type?resourceVersion=id%3A3614"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/451c678e-c799-4010-8384-acd9aa4dedc0/relationships/field_event_type?resourceVersion=id%3A3614"
+        }
+      }
+    }
+  }
+}

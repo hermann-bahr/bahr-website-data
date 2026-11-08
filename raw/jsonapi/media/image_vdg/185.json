@@ -1,0 +1,118 @@
+{
+  "type": "media--image_vdg",
+  "id": "3771987a-e91d-4568-8607-46d1eb6b89e1",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/3771987a-e91d-4568-8607-46d1eb6b89e1?resourceVersion=id%3A186"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/3771987a-e91d-4568-8607-46d1eb6b89e1?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__mid": 185,
+    "drupal_internal__vid": 186,
+    "langcode": "de",
+    "revision_created": "2020-02-27T15:34:09+00:00",
+    "status": true,
+    "name": "Hermann Bahr, Kritische Schriften - 2 - Die Überwindung des Naturalismus",
+    "created": "2020-02-27T15:33:47+00:00",
+    "changed": "2020-02-27T15:34:09+00:00",
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": null,
+      "pid": null,
+      "langcode": "de"
+    }
+  },
+  "relationships": {
+    "bundle": {
+      "data": {
+        "type": "media_type--media_type",
+        "id": "1e270fb0-cbb8-4385-a6d7-69db224c61f7",
+        "meta": {
+          "drupal_internal__target_id": "image_vdg"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/3771987a-e91d-4568-8607-46d1eb6b89e1/bundle?resourceVersion=id%3A186"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/3771987a-e91d-4568-8607-46d1eb6b89e1/relationships/bundle?resourceVersion=id%3A186"
+        }
+      }
+    },
+    "revision_user": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/3771987a-e91d-4568-8607-46d1eb6b89e1/revision_user?resourceVersion=id%3A186"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/3771987a-e91d-4568-8607-46d1eb6b89e1/relationships/revision_user?resourceVersion=id%3A186"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/3771987a-e91d-4568-8607-46d1eb6b89e1/uid?resourceVersion=id%3A186"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/3771987a-e91d-4568-8607-46d1eb6b89e1/relationships/uid?resourceVersion=id%3A186"
+        }
+      }
+    },
+    "thumbnail": {
+      "data": {
+        "type": "file--file",
+        "id": "0574b676-aea4-4899-9250-8e2b40e83246",
+        "meta": {
+          "alt": "Hermann Bahr, Kritische Schriften - 2 - Die Überwindung des Naturalismus",
+          "title": null,
+          "width": 200,
+          "height": 286,
+          "drupal_internal__target_id": 260
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/3771987a-e91d-4568-8607-46d1eb6b89e1/thumbnail?resourceVersion=id%3A186"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/3771987a-e91d-4568-8607-46d1eb6b89e1/relationships/thumbnail?resourceVersion=id%3A186"
+        }
+      }
+    },
+    "field_media_image_1": {
+      "data": {
+        "type": "file--file",
+        "id": "0574b676-aea4-4899-9250-8e2b40e83246",
+        "meta": {
+          "alt": "Hermann Bahr, Kritische Schriften - 2 - Die Überwindung des Naturalismus",
+          "title": "",
+          "width": 200,
+          "height": 286,
+          "drupal_internal__target_id": 260
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/3771987a-e91d-4568-8607-46d1eb6b89e1/field_media_image_1?resourceVersion=id%3A186"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/3771987a-e91d-4568-8607-46d1eb6b89e1/relationships/field_media_image_1?resourceVersion=id%3A186"
+        }
+      }
+    }
+  }
+}

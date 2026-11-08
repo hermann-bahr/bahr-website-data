@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "aa28f331-7992-452d-8027-1be20419184b",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/aa28f331-7992-452d-8027-1be20419184b?resourceVersion=id%3A3736"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/aa28f331-7992-452d-8027-1be20419184b?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74408,
+    "drupal_internal__vid": 3736,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Fiedlers Restauration",
+    "created": "2012-10-24T12:36:59+00:00",
+    "changed": "2012-10-24T12:36:59+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/74408",
+      "pid": 1782,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Im Sommer 1882 wechselt die Burschenschaft \"Albia\" ihr Kneiplokal und trifft sich nunmehr in S. S. Fiedlers Restauration, Johanneshof, Johannesgasse 2 im 1. Bezirk. Das Lokal bleibt für Bahrs aktive Zeit als Burschenschafter der Treffpunkt. (Davor, seit Bahrs Immatrikulation war man in W. S. Haunamanns Restauration in der Heugasse im 4. Bezirk zusammengesessen.) ",
+      "format": "full_html",
+      "processed": "Im Sommer 1882 wechselt die Burschenschaft \"Albia\" ihr Kneiplokal und trifft sich nunmehr in S. S. Fiedlers Restauration, Johanneshof, Johannesgasse 2 im 1. Bezirk. Das Lokal bleibt für Bahrs aktive Zeit als Burschenschafter der Treffpunkt. (Davor, seit Bahrs Immatrikulation war man in W. S. Haunamanns Restauration in der Heugasse im 4. Bezirk zusammengesessen.) ",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1882-07-01",
+      "end_value": "1882-07-01"
+    },
+    "field_sources": [
+      "Karl Becke: Wiener Burschenschaft \"Albia\" 1870-1930. Wien: Selbstverlag 1930, 43 und 231.",
+      "(Hier auf 1.7.1882 datiert)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/aa28f331-7992-452d-8027-1be20419184b/node_type?resourceVersion=id%3A3736"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/aa28f331-7992-452d-8027-1be20419184b/relationships/node_type?resourceVersion=id%3A3736"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/aa28f331-7992-452d-8027-1be20419184b/revision_uid?resourceVersion=id%3A3736"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/aa28f331-7992-452d-8027-1be20419184b/relationships/revision_uid?resourceVersion=id%3A3736"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/aa28f331-7992-452d-8027-1be20419184b/uid?resourceVersion=id%3A3736"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/aa28f331-7992-452d-8027-1be20419184b/relationships/uid?resourceVersion=id%3A3736"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/aa28f331-7992-452d-8027-1be20419184b/field_event_type?resourceVersion=id%3A3736"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/aa28f331-7992-452d-8027-1be20419184b/relationships/field_event_type?resourceVersion=id%3A3736"
+        }
+      }
+    }
+  }
+}

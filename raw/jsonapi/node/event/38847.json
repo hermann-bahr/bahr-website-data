@@ -1,0 +1,114 @@
+{
+  "type": "node--event",
+  "id": "9a5db40b-45b0-48e4-b5ad-4070c21f5414",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/9a5db40b-45b0-48e4-b5ad-4070c21f5414?resourceVersion=id%3A2663"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/9a5db40b-45b0-48e4-b5ad-4070c21f5414?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38847,
+    "drupal_internal__vid": 2663,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Münchner Telegramm-Zeitung",
+    "created": "2011-02-14T17:25:01+00:00",
+    "changed": "2011-02-14T17:25:01+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38847",
+      "pid": 591,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Vom 14. Oktober 1927 weg bis zum 2. Juli 1929 schreibt Bahr neben den Beiträgen für die \"Münchner Neuesten Nachrichten\" auch für das zweite Blatt der \"Knorr & Hirth\"-Gesellschaft, die auf Sensationsmeldungen ausgelegte \"Münchner Telegramm-Zeitung\". Insgesamt knapp über 20 Beiträge lassen auf einen Vertrag schließen, der aus einem Beitrag/Monat bestand.",
+      "format": "full_html",
+      "processed": "Vom 14. Oktober 1927 weg bis zum 2. Juli 1929 schreibt Bahr neben den Beiträgen für die \"Münchner Neuesten Nachrichten\" auch für das zweite Blatt der \"Knorr &amp; Hirth\"-Gesellschaft, die auf Sensationsmeldungen ausgelegte \"Münchner Telegramm-Zeitung\". Insgesamt knapp über 20 Beiträge lassen auf einen Vertrag schließen, der aus einem Beitrag/Monat bestand.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1927-10-14",
+      "end_value": "1929-07-02"
+    },
+    "field_sources": []
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9a5db40b-45b0-48e4-b5ad-4070c21f5414/node_type?resourceVersion=id%3A2663"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9a5db40b-45b0-48e4-b5ad-4070c21f5414/relationships/node_type?resourceVersion=id%3A2663"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9a5db40b-45b0-48e4-b5ad-4070c21f5414/revision_uid?resourceVersion=id%3A2663"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9a5db40b-45b0-48e4-b5ad-4070c21f5414/relationships/revision_uid?resourceVersion=id%3A2663"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9a5db40b-45b0-48e4-b5ad-4070c21f5414/uid?resourceVersion=id%3A2663"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9a5db40b-45b0-48e4-b5ad-4070c21f5414/relationships/uid?resourceVersion=id%3A2663"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "d579e54c-64dd-4193-a9ef-da87efb3ed16",
+          "meta": {
+            "drupal_internal__target_id": 8
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9a5db40b-45b0-48e4-b5ad-4070c21f5414/field_event_type?resourceVersion=id%3A2663"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9a5db40b-45b0-48e4-b5ad-4070c21f5414/relationships/field_event_type?resourceVersion=id%3A2663"
+        }
+      }
+    }
+  }
+}

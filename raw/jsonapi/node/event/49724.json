@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "eb700a39-ee2c-4775-ad4c-41115581d85a",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/eb700a39-ee2c-4775-ad4c-41115581d85a?resourceVersion=id%3A3497"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/eb700a39-ee2c-4775-ad4c-41115581d85a?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49724,
+    "drupal_internal__vid": 3497,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Zweig",
+    "created": "2011-12-19T13:39:07+00:00",
+    "changed": "2011-12-19T13:39:07+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49724",
+      "pid": 1537,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Weihnachten 1913 verbringt Stefan Zweig bei Bahr und Bahr-Mildenburgg.",
+      "format": "full_html",
+      "processed": "Weihnachten 1913 verbringt Stefan Zweig bei Bahr und Bahr-Mildenburgg.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1913-12-25",
+      "end_value": "1913-12-25"
+    },
+    "field_sources": [
+      "Stefan Zweig: Briefe. 1914-1919. Hgg. Knut Beck, Jeffrey B. Berlin und Natascha Weschenbach-Feggeler. Berlin: S. Fischer 1998, 47. (An Bahr, [25.12.1914])"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/eb700a39-ee2c-4775-ad4c-41115581d85a/node_type?resourceVersion=id%3A3497"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/eb700a39-ee2c-4775-ad4c-41115581d85a/relationships/node_type?resourceVersion=id%3A3497"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/eb700a39-ee2c-4775-ad4c-41115581d85a/revision_uid?resourceVersion=id%3A3497"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/eb700a39-ee2c-4775-ad4c-41115581d85a/relationships/revision_uid?resourceVersion=id%3A3497"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/eb700a39-ee2c-4775-ad4c-41115581d85a/uid?resourceVersion=id%3A3497"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/eb700a39-ee2c-4775-ad4c-41115581d85a/relationships/uid?resourceVersion=id%3A3497"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/eb700a39-ee2c-4775-ad4c-41115581d85a/field_event_type?resourceVersion=id%3A3497"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/eb700a39-ee2c-4775-ad4c-41115581d85a/relationships/field_event_type?resourceVersion=id%3A3497"
+        }
+      }
+    }
+  }
+}

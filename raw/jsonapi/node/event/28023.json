@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "477d0518-1dc3-4189-aeb7-16b1af349cb3",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/477d0518-1dc3-4189-aeb7-16b1af349cb3?resourceVersion=id%3A2355"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/477d0518-1dc3-4189-aeb7-16b1af349cb3?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28023,
+    "drupal_internal__vid": 2355,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Drut",
+    "created": "2010-07-28T10:40:29+00:00",
+    "changed": "2011-12-20T13:09:04+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28023",
+      "pid": 189,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 27. Mai 1909 wird Bahrs nächster Roman, \"Drut\", verfügbar, wieder von seinem Stammverleger S. Fischer in Berlin vertrieben. \r\n1929 erreichte eine Neuauflage unter dem Titel \"Die Hexe Drut\" 55.000 Exemplare.",
+      "format": "full_html",
+      "processed": "Am 27. Mai 1909 wird Bahrs nächster Roman, \"Drut\", verfügbar, wieder von seinem Stammverleger S. Fischer in Berlin vertrieben. \n1929 erreichte eine Neuauflage unter dem Titel \"Die Hexe Drut\" 55.000 Exemplare.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1909-05-27",
+      "end_value": "1909-05-27"
+    },
+    "field_sources": [
+      "Hermann Bahr: Drut. Roman.  Berlin: S. Fischer, 1909.",
+      "Bahr/Redlich, 63.",
+      "Hermann Bahr: Meister und Meisterbriefe um Hermann Bahr. Aus seinen Entwürfen, Tagebüchern und seinem Briefwechsel. Ausgewählt und eingeleitet von Joseph Gregor. Wien: Hermann Bauer 1947, 74. (An R. Strauß, 3.6.1909)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/477d0518-1dc3-4189-aeb7-16b1af349cb3/node_type?resourceVersion=id%3A2355"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/477d0518-1dc3-4189-aeb7-16b1af349cb3/relationships/node_type?resourceVersion=id%3A2355"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/477d0518-1dc3-4189-aeb7-16b1af349cb3/revision_uid?resourceVersion=id%3A2355"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/477d0518-1dc3-4189-aeb7-16b1af349cb3/relationships/revision_uid?resourceVersion=id%3A2355"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/477d0518-1dc3-4189-aeb7-16b1af349cb3/uid?resourceVersion=id%3A2355"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/477d0518-1dc3-4189-aeb7-16b1af349cb3/relationships/uid?resourceVersion=id%3A2355"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "2f55ff54-49af-41ba-a2d1-45a7ac71add2",
+          "meta": {
+            "drupal_internal__target_id": 2
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/477d0518-1dc3-4189-aeb7-16b1af349cb3/field_event_type?resourceVersion=id%3A2355"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/477d0518-1dc3-4189-aeb7-16b1af349cb3/relationships/field_event_type?resourceVersion=id%3A2355"
+        }
+      }
+    }
+  }
+}

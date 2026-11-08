@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "3f6030dd-b2e2-4276-8816-da6440fa1b96",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/3f6030dd-b2e2-4276-8816-da6440fa1b96?resourceVersion=id%3A2904"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/3f6030dd-b2e2-4276-8816-da6440fa1b96?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39146,
+    "drupal_internal__vid": 2904,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Theatergesetz",
+    "created": "2011-07-08T08:51:43+00:00",
+    "changed": "2011-07-08T09:19:08+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39146",
+      "pid": 874,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<blockquote>Das vom Österreichischen Bühnenverein zur <i>Reform des Theaterrechtes</i> eingesetzte Comité hielt gestern eine Sitzung ab. Der Präsident des Vereins, Hofopernsänger Ritter, war anwesend, übergab aber den Vorsitz an den Vicepräsidenten, Director Ranzenhofer. Der Sitzung wohnen Hofrath Dr. Burckhard, der Präsident des Journalisten- und Schriftstellervereins \"Concordia\", Edgar v. Spiegl, Abgeordneter Doctor Ofner und Hermann Bahr bei. […]</blockquote>\r\nEs revidierte und segnete einen vier Jahre alten Entwurf Max Burckhards ab und machte Vorbereitungen für die Theatergesetz-Enquete im September 1902.",
+      "format": "full_html",
+      "processed": "<blockquote>Das vom Österreichischen Bühnenverein zur <i>Reform des Theaterrechtes</i> eingesetzte Comité hielt gestern eine Sitzung ab. Der Präsident des Vereins, Hofopernsänger Ritter, war anwesend, übergab aber den Vorsitz an den Vicepräsidenten, Director Ranzenhofer. Der Sitzung wohnen Hofrath Dr. Burckhard, der Präsident des Journalisten- und Schriftstellervereins \"Concordia\", Edgar v. Spiegl, Abgeordneter Doctor Ofner und Hermann Bahr bei. […]</blockquote>\nEs revidierte und segnete einen vier Jahre alten Entwurf Max Burckhards ab und machte Vorbereitungen für die Theatergesetz-Enquete im September 1902.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1902-06-14",
+      "end_value": "1902-06-14"
+    },
+    "field_sources": [
+      "Neues Wiener Tagblatt, 36 (1902) #162, 8. (14.6.1902)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3f6030dd-b2e2-4276-8816-da6440fa1b96/node_type?resourceVersion=id%3A2904"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3f6030dd-b2e2-4276-8816-da6440fa1b96/relationships/node_type?resourceVersion=id%3A2904"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3f6030dd-b2e2-4276-8816-da6440fa1b96/revision_uid?resourceVersion=id%3A2904"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3f6030dd-b2e2-4276-8816-da6440fa1b96/relationships/revision_uid?resourceVersion=id%3A2904"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3f6030dd-b2e2-4276-8816-da6440fa1b96/uid?resourceVersion=id%3A2904"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3f6030dd-b2e2-4276-8816-da6440fa1b96/relationships/uid?resourceVersion=id%3A2904"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3f6030dd-b2e2-4276-8816-da6440fa1b96/field_event_type?resourceVersion=id%3A2904"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3f6030dd-b2e2-4276-8816-da6440fa1b96/relationships/field_event_type?resourceVersion=id%3A2904"
+        }
+      }
+    }
+  }
+}

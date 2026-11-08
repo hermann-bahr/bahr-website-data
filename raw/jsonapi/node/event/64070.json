@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "916f73ae-cafa-4e86-a258-5abbfbd826c2",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/916f73ae-cafa-4e86-a258-5abbfbd826c2?resourceVersion=id%3A3564"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/916f73ae-cafa-4e86-a258-5abbfbd826c2?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 64070,
+    "drupal_internal__vid": 3564,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Hochverratsprozess in Zagreb",
+    "created": "2012-01-26T14:21:16+00:00",
+    "changed": "2012-01-26T14:21:16+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/64070",
+      "pid": 1605,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 21. März 1909 fährt Bahr zum Hochverratsprozess nach Zagreb und schreibt darüber für Maximilian Hardens \"Zukunft\". Kurz darauf Rückfahrt.",
+      "format": "full_html",
+      "processed": "Am 21. März 1909 fährt Bahr zum Hochverratsprozess nach Zagreb und schreibt darüber für Maximilian Hardens \"Zukunft\". Kurz darauf Rückfahrt.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1909-03-21",
+      "end_value": "1909-03-23"
+    },
+    "field_sources": [
+      "Hermann Bahr: Hochverrat in Agram. Die Zukunft, 17 (1909) #67, 343-347. (5.6.1909) Buchausgabe: Austriaca, 136-140",
+      "Hermann Bahr: Aufzeichnungen 1909-1911. Ausgabe in Vorbereitung von Kurt Ifkovits\r\n"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/916f73ae-cafa-4e86-a258-5abbfbd826c2/node_type?resourceVersion=id%3A3564"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/916f73ae-cafa-4e86-a258-5abbfbd826c2/relationships/node_type?resourceVersion=id%3A3564"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/916f73ae-cafa-4e86-a258-5abbfbd826c2/revision_uid?resourceVersion=id%3A3564"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/916f73ae-cafa-4e86-a258-5abbfbd826c2/relationships/revision_uid?resourceVersion=id%3A3564"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/916f73ae-cafa-4e86-a258-5abbfbd826c2/uid?resourceVersion=id%3A3564"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/916f73ae-cafa-4e86-a258-5abbfbd826c2/relationships/uid?resourceVersion=id%3A3564"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/916f73ae-cafa-4e86-a258-5abbfbd826c2/field_event_type?resourceVersion=id%3A3564"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/916f73ae-cafa-4e86-a258-5abbfbd826c2/relationships/field_event_type?resourceVersion=id%3A3564"
+        }
+      }
+    }
+  }
+}

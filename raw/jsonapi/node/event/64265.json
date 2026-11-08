@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "e526d95f-54b6-4339-977f-2db88919b44a",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/e526d95f-54b6-4339-977f-2db88919b44a?resourceVersion=id%3A3655"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/e526d95f-54b6-4339-977f-2db88919b44a?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 64265,
+    "drupal_internal__vid": 3655,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Kyffhäuser-Zeitung",
+    "created": "2012-05-31T19:00:36+00:00",
+    "changed": "2012-05-31T19:00:36+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/64265",
+      "pid": 1698,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Mit einem Artikel über Karl Rodbertus öffnet am 9. Juni 1884 Bahrs Mitarbeit an der Kyffhäuser-Zeitung. Dieses \"Organ der Deutschen Studentenschaft\" wird von A. Freiherr von Henneberg herausgegeben. Als Mitarbeiter hat er Wolfgang Heine, der in den \"Briefkasten\" der Nummer folgendes einrücken lässt:<blockquote><strong>Hermann Bahr, Berlin.</strong> Schönen Dank, wir bitten um Fortsetzung. D. Gr.<br>Würden Sie wohl die Freundlichkeit haben, mir so schnell als möglich Ihre Adresse mitzuteilen? Ich muß Sie in dringenden Angelegenheiten womöglich noch vor Montag sprechen. Wolfgang Heine, Schumannstr. 11.</blockquote>Die so aufgenommene Mitarbeit dauert bis zum 1. Februar 1885, als er, Wolfgang Heine und weitere ihre Mitarbeit an dem Blatt öffentlich aufkündigen. (Danach wird zumindest noch ein Text von ihm nachgedruckt und er als einer \"unserer ältesten Mitarbeiter\" bezeichnet.)",
+      "format": "full_html",
+      "processed": "Mit einem Artikel über Karl Rodbertus öffnet am 9. Juni 1884 Bahrs Mitarbeit an der Kyffhäuser-Zeitung. Dieses \"Organ der Deutschen Studentenschaft\" wird von A. Freiherr von Henneberg herausgegeben. Als Mitarbeiter hat er Wolfgang Heine, der in den \"Briefkasten\" der Nummer folgendes einrücken lässt:<blockquote><strong>Hermann Bahr, Berlin.</strong> Schönen Dank, wir bitten um Fortsetzung. D. Gr.<br>Würden Sie wohl die Freundlichkeit haben, mir so schnell als möglich Ihre Adresse mitzuteilen? Ich muß Sie in dringenden Angelegenheiten womöglich noch vor Montag sprechen. Wolfgang Heine, Schumannstr. 11.</blockquote>Die so aufgenommene Mitarbeit dauert bis zum 1. Februar 1885, als er, Wolfgang Heine und weitere ihre Mitarbeit an dem Blatt öffentlich aufkündigen. (Danach wird zumindest noch ein Text von ihm nachgedruckt und er als einer \"unserer ältesten Mitarbeiter\" bezeichnet.)",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1884-06-09",
+      "end_value": "1885-02-01"
+    },
+    "field_sources": [
+      "Hermann Bahr: Rodbertus Kapital. [I]. Kyffhäuser-Zeitung. Wochenschrift für alle Hochschulen-Angehörige deutschen Stammes und deutscher Zunge, 3.6 (1884) #37, 380-381. (9.6.1884) ",
+      "Erich Hermann Bahr, Karl Beurle, Richard Fellner, Wilhelm Heine, Wolfgang Heine und Theodor Jaensch: Erklärung. Unverfälschte deutsche Worte, 3 (1885) #3, VIII. (1.2.1885)",
+      "Hermann Bahr: Das Grundübel des Journalismus. (Schluß). Kyffhäuser-Zeitung, 4.7 (1885) #18, 150. (2.2.1885)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e526d95f-54b6-4339-977f-2db88919b44a/node_type?resourceVersion=id%3A3655"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e526d95f-54b6-4339-977f-2db88919b44a/relationships/node_type?resourceVersion=id%3A3655"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e526d95f-54b6-4339-977f-2db88919b44a/revision_uid?resourceVersion=id%3A3655"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e526d95f-54b6-4339-977f-2db88919b44a/relationships/revision_uid?resourceVersion=id%3A3655"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e526d95f-54b6-4339-977f-2db88919b44a/uid?resourceVersion=id%3A3655"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e526d95f-54b6-4339-977f-2db88919b44a/relationships/uid?resourceVersion=id%3A3655"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "d579e54c-64dd-4193-a9ef-da87efb3ed16",
+          "meta": {
+            "drupal_internal__target_id": 8
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e526d95f-54b6-4339-977f-2db88919b44a/field_event_type?resourceVersion=id%3A3655"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e526d95f-54b6-4339-977f-2db88919b44a/relationships/field_event_type?resourceVersion=id%3A3655"
+        }
+      }
+    }
+  }
+}

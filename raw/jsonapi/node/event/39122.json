@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "6d1fd09e-ea51-48db-8514-9542faa5e74e",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/6d1fd09e-ea51-48db-8514-9542faa5e74e?resourceVersion=id%3A2887"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/6d1fd09e-ea51-48db-8514-9542faa5e74e?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39122,
+    "drupal_internal__vid": 2887,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Café Griensteidl",
+    "created": "2011-05-24T13:04:49+00:00",
+    "changed": "2011-12-16T14:56:01+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39122",
+      "pid": 852,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Ein frühes Bild Bahr - zeichnet, altersweise - Friedrich Eckstein in seiner Autobiografie \"Alte, unnennbare Tage\" (1936). Darin berichtet er, dass Hugo Wolf seinen ehemaligen Mitbewohner ins Griensteidl mitbrachte. <blockquote>Eines Tages brachte uns Hugo Wolf, heiter lächelnd, einen jungen Freund, dessen stark zur Schau getragenes burschikoses Wesen mir besonders auffiel. Er war mittelgroß, bartlos bis auf einen dunklen Schnurrbart; ein Mensurenschmiß verlieh seinem Gesicht etwas Martialisches, das zu seinem sonstigen gutmütigen Wesen und den schalkhaft blickenden Augen nicht recht passen wollte.</blockquote>\r\nEckstein datiert es mit \"bis vor kurzem\" war Bahr Wolfs Wohnungsgenosse über mehrere Monate gewesen. Das lässt es auf 1884 datieren, wenngleich die Vorbehalte einer so langen Erinnerung gegenüber, ausgesprochen gehören. Kaum zwei Monate haben Bahr und Wolf zusammen gewohnt, danach ging Bahr nach Berlin. \r\nBahr erwähnt Eckstein auch im Zusammenhang mit dem Griensteidl, aber eher im Jahr 1887.",
+      "format": "full_html",
+      "processed": "Ein frühes Bild Bahr - zeichnet, altersweise - Friedrich Eckstein in seiner Autobiografie \"Alte, unnennbare Tage\" (1936). Darin berichtet er, dass Hugo Wolf seinen ehemaligen Mitbewohner ins Griensteidl mitbrachte. <blockquote>Eines Tages brachte uns Hugo Wolf, heiter lächelnd, einen jungen Freund, dessen stark zur Schau getragenes burschikoses Wesen mir besonders auffiel. Er war mittelgroß, bartlos bis auf einen dunklen Schnurrbart; ein Mensurenschmiß verlieh seinem Gesicht etwas Martialisches, das zu seinem sonstigen gutmütigen Wesen und den schalkhaft blickenden Augen nicht recht passen wollte.</blockquote>\nEckstein datiert es mit \"bis vor kurzem\" war Bahr Wolfs Wohnungsgenosse über mehrere Monate gewesen. Das lässt es auf 1884 datieren, wenngleich die Vorbehalte einer so langen Erinnerung gegenüber, ausgesprochen gehören. Kaum zwei Monate haben Bahr und Wolf zusammen gewohnt, danach ging Bahr nach Berlin. \nBahr erwähnt Eckstein auch im Zusammenhang mit dem Griensteidl, aber eher im Jahr 1887.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1884-04-30",
+      "end_value": "1884-04-30"
+    },
+    "field_sources": [
+      "Friedrich Eckstein: Alte, unnennbare Tage. Erinnerungen aus siebzig Lehr- und Wanderjahren. Hamburg: Severus 2010, 121.",
+      "Tagebuch 1919, 305"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6d1fd09e-ea51-48db-8514-9542faa5e74e/node_type?resourceVersion=id%3A2887"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6d1fd09e-ea51-48db-8514-9542faa5e74e/relationships/node_type?resourceVersion=id%3A2887"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6d1fd09e-ea51-48db-8514-9542faa5e74e/revision_uid?resourceVersion=id%3A2887"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6d1fd09e-ea51-48db-8514-9542faa5e74e/relationships/revision_uid?resourceVersion=id%3A2887"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6d1fd09e-ea51-48db-8514-9542faa5e74e/uid?resourceVersion=id%3A2887"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6d1fd09e-ea51-48db-8514-9542faa5e74e/relationships/uid?resourceVersion=id%3A2887"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6d1fd09e-ea51-48db-8514-9542faa5e74e/field_event_type?resourceVersion=id%3A2887"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6d1fd09e-ea51-48db-8514-9542faa5e74e/relationships/field_event_type?resourceVersion=id%3A2887"
+        }
+      }
+    }
+  }
+}

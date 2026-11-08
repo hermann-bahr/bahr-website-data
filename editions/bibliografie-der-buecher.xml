@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bibliografie-der-buecher" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Bibliografie der Bücher</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">9600</idno>
+        <idno type="drupal-alias">/bibliografie-der-buecher</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bibliografie-der-buecher">https://bahr.univie.ac.at/bibliografie-der-buecher</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="none">
+          <term>nicht im Menü</term>
+        </keywords>
+        <classCode scheme="drupal-type">page</classCode>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2010-01-12T14:46:40+00:00" type="created">angelegt in Drupal</change>
+      <change when="2011-01-20T15:05:33+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head>
+          <hi rend="italic">Martin Anton Müller</hi>
+        </head>
+        <p>Das bislang zuverlässigste und ausführlichste Verzeichnis aller Monographien Hermann Bahrs stammt von Kurt Thomasberger. Es erschien 1954 im Anhang einer Bahr-Biographie von Heinz Kindermann. Trotzdem es sich durch hohe Verlässlichkeit auszeichnet, zwingen die seither stattgefundene Forschung, aber auch die fünfzig Jahre später zur Verfügung stehenden bibliografischen Mittel, einige Änderungen im Detail vorzunehmen. So wird die Bibliografie hier in einer überarbeiteten Fassung zur Verfügung gestellt, die, in Anerkennung der Leistung Thomasbergers, bewusst nicht den Anspruch erhebt, eine Neuausgabe zu sein.</p>
+      </div>
+      <div>
+        <head>Einteilung nach Textgruppen</head>
+        <table>
+          <row>
+            <cell role="label">Neu</cell>
+            <cell role="label">Thomasberger</cell>
+          </row>
+          <row>
+            <cell>1. <ref target="https://bahr.univie.ac.at/node/9595" type="legacy">Theaterstücke</ref></cell>
+            <cell>Theaterstücke</cell>
+          </row>
+          <row>
+            <cell>2. <ref target="bibliografie__literarische-prosa.xml">Literarische Prosa</ref></cell>
+            <cell>Romane und Novellen</cell>
+          </row>
+          <row>
+            <cell>3. <ref target="bibliografie__kritische-schriften.xml">Kritische Schriften</ref></cell>
+            <cell>Schriften in Prosa</cell>
+          </row>
+          <row>
+            <cell>4. <ref target="bibliografie__schriften-zum-theater.xml">Schriften für und über das Theater</ref></cell>
+            <cell>Schriften für und über das Theater</cell>
+          </row>
+          <row>
+            <cell>5. <ref target="bibliografie__tagebuch.xml">Tagebücher</ref></cell>
+            <cell>Tagebücher</cell>
+          </row>
+          <row>
+            <cell>6. <ref target="https://bahr.univie.ac.at/node/9601" type="legacy">Posthume Veröffentlichungen</ref></cell>
+            <cell>---</cell>
+          </row>
+          <row>
+            <cell>7. <ref target="bibliografie__herausgaben.xml">Herausgaben</ref></cell>
+            <cell>---</cell>
+          </row>
+          <row>
+            <cell>      ---</cell>
+            <cell>Beiträge (Vorworte etc.) zu Büchern</cell>
+          </row>
+        </table>
+      </div>
+      <div>
+        <head>Die wichtigsten vorgenommenen Änderungen</head>
+        <list rend="bulleted">
+          <item>Nur vier der fünf Gruppen, in die Thomasberger die Bücher einteilt, sind inhaltlich motiviert. Die fünfte, "Schriften in Prosa" bleibt ein Sammelbegriff mit nicht Zugeordnetem. Für eine größere Klarheit soll die Umbenennung in "Kritische Schriften" sorgen. Für "Romane und Novellen" wird "Literarische Prosa" verwendet.</item>
+          <item>Die Gruppen bleiben gleich. Einzig die dezidiert literarische Arbeit "Fin de Siècle" wird nunmehr zu den literarischen Arbeiten geordnet. Eine neue Kategorie "Posthume Veröffentlichungen" erfasst wichtige Editionen nach dem Tod Hermann Bahrs, auch jene, die Thomasberger in den "Schriften in Prosa" aufnahm.</item>
+          <item>Eine neue Kategorie verzeichnet von Bahr herausgegebene Werke</item>
+          <item>Zwei neue Texte, "Das Veilchen" und "Freie Erziehung" wurden aufgenommen</item>
+          <item>Drei Texte, deren Nachweis schon Thomasberger Zweifel an ihrer Existenz äußern ließ und die auch seither nicht nachweisbar sind, wurden gestrichen. Es handelt sich dabei um die letzten beiden Bände "Tagebücher" und den vermuteten Separatdruck "Der neue Stil" aus "Studien zur Kritik der Moderne"</item>
+          <item>Die sechste Kategorie Thomasbergers, die Bahrs Beiträge zu Büchern beinhaltet, wurde aufgegeben. Sie umfassten nur einen Bruchteil der im Zuge des <ref target="https://bahr.univie.ac.at/node/3087" type="legacy">Werkverzeichnisses</ref> auf dieser Website zusammengetragenen Texte.</item>
+          <item>Die von Thomasberger angegebenen Widmungen und Hinweise auf Erstdrucke wurden nur dann übernommen, wenn sie für die Datierung des Buches von Interesse sind. Die Hinweise auf den Satz in Fraktur oder Antiqua gestrichen.</item>
+        </list>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,109 @@
+{
+  "type": "node--image",
+  "id": "ce6e8384-d21e-4ffd-94b2-b6cfe8cbc062",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/image/ce6e8384-d21e-4ffd-94b2-b6cfe8cbc062?resourceVersion=id%3A3976"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/image/ce6e8384-d21e-4ffd-94b2-b6cfe8cbc062?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38884,
+    "drupal_internal__vid": 3976,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:44:08+00:00",
+    "status": true,
+    "title": "1928",
+    "created": "2011-03-02T10:50:09+00:00",
+    "changed": "2011-03-03T13:48:25+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/bild/38884",
+      "pid": 627,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<i>Fotograf: Kester, München. Telegramm-Zeitung, München, 19. Juli 1928. Das Bild in besserer Qualität und nicht beschnitten in: Die Bühne. Zeitschrift für Theater und Gesellschaft, (1934) #368 (2. Jänner-Heft), 32.</i>",
+      "format": "full_html",
+      "processed": "<i>Fotograf: Kester, München. Telegramm-Zeitung, München, 19. Juli 1928. Das Bild in besserer Qualität und nicht beschnitten in: Die Bühne. Zeitschrift für Theater und Gesellschaft, (1934) #368 (2. Jänner-Heft), 32.</i>",
+      "summary": null
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "e2381624-d098-4c5b-bdd7-5dbfd773b84e",
+        "meta": {
+          "drupal_internal__target_id": "image"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/ce6e8384-d21e-4ffd-94b2-b6cfe8cbc062/node_type?resourceVersion=id%3A3976"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/ce6e8384-d21e-4ffd-94b2-b6cfe8cbc062/relationships/node_type?resourceVersion=id%3A3976"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/ce6e8384-d21e-4ffd-94b2-b6cfe8cbc062/revision_uid?resourceVersion=id%3A3976"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/ce6e8384-d21e-4ffd-94b2-b6cfe8cbc062/relationships/revision_uid?resourceVersion=id%3A3976"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/ce6e8384-d21e-4ffd-94b2-b6cfe8cbc062/uid?resourceVersion=id%3A3976"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/ce6e8384-d21e-4ffd-94b2-b6cfe8cbc062/relationships/uid?resourceVersion=id%3A3976"
+        }
+      }
+    },
+    "field_images": {
+      "data": [
+        {
+          "type": "media--image",
+          "id": "4e0db37f-a9b7-45de-88d6-d9663c4a64a8",
+          "meta": {
+            "drupal_internal__target_id": 156
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/ce6e8384-d21e-4ffd-94b2-b6cfe8cbc062/field_images?resourceVersion=id%3A3976"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/ce6e8384-d21e-4ffd-94b2-b6cfe8cbc062/relationships/field_images?resourceVersion=id%3A3976"
+        }
+      }
+    }
+  }
+}

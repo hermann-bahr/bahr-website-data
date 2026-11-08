@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bibliografie__kritische-schriften__der-augenblick-oesterreichs-1918" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Der Augenblick Österreichs (1918)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">38724</idno>
+        <idno type="drupal-alias">/bibliografie/38724</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bibliografie/38724">https://bahr.univie.ac.at/bibliografie/38724</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+        <bibl type="beschriebene-ausgabe">
+          <author>Hermann Bahr</author>
+          <title type="main">Der Augenblick Österreichs</title>
+          <pubPlace>München-Gladbach</pubPlace>
+          <publisher>Volksvereins-Druckerei</publisher>
+          <series>
+            <title level="s">Der Weltkrieg, 77</title>
+          </series>
+          <date>1918</date>
+          <extent>16</extent>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="1" key="bibliografie">Bibliografie</term>
+          <term n="4" key="kritische-schriften">Kritische Schriften</term>
+          <term n="4" key="der-augenblick-oesterreichs-1918" type="eintrag">Der Augenblick Österreichs (1918)</term>
+        </keywords>
+        <classCode scheme="drupal-type">bibliographie</classCode>
+        <keywords scheme="bibliografie_type">
+          <term>Kritische Schriften</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2011-01-19T11:01:15+00:00" type="created">angelegt in Drupal</change>
+      <change when="2012-01-25T16:18:51+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="bib">
+        <head>Bibliografie</head>
+        <table type="bibliografie">
+          <row>
+            <cell>Autor:</cell>
+            <cell>Hermann Bahr</cell>
+          </row>
+          <row>
+            <cell>Titel:</cell>
+            <cell>Der Augenblick Österreichs</cell>
+          </row>
+          <row>
+            <cell>Ort:</cell>
+            <cell>München-Gladbach</cell>
+          </row>
+          <row>
+            <cell>Verlag:</cell>
+            <cell>Volksvereins-Druckerei</cell>
+          </row>
+          <row>
+            <cell>Reihe:</cell>
+            <cell>Der Weltkrieg, 77</cell>
+          </row>
+          <row>
+            <cell>Jahr:</cell>
+            <cell>1918</cell>
+          </row>
+          <row>
+            <cell>Seiten:</cell>
+            <cell>16</cell>
+          </row>
+        </table>
+      </div>
+      <div xml:id="erstdrucke">
+        <head>Erstdrucke</head>
+        <list rend="numbered">
+          <item>Der Augenblick Österreichs. I. Neues Wiener Journal, 24 (1916) #8227, 6-7. (24.9.1916)</item>
+          <item>Der Augenblick Österreichs. II. Neues Wiener Journal, 24 (1916) #8231, 5-6. (28.9.1916)</item>
+          <item>Der Augenblick Österreichs. III. Neues Wiener Journal, 24 (1916) #8234, 6-7. (1.10.1916)</item>
+        </list>
+        <p>
+          <hi rend="small">Alle Texte verifziert, April 2011</hi>
+        </p>
+      </div>
+      <div xml:id="digit">
+        <head>Digitalisate</head>
+        <p>
+          <ref target="http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=88">Anno</ref>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

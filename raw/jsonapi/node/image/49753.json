@@ -1,0 +1,109 @@
+{
+  "type": "node--image",
+  "id": "6c40de87-adc9-4b8f-912b-d0d252efa90d",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/image/6c40de87-adc9-4b8f-912b-d0d252efa90d?resourceVersion=id%3A3979"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/image/6c40de87-adc9-4b8f-912b-d0d252efa90d?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49753,
+    "drupal_internal__vid": 3979,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:44:08+00:00",
+    "status": true,
+    "title": "Fackel-Karikatur",
+    "created": "2012-01-03T11:17:05+00:00",
+    "changed": "2012-01-03T11:21:22+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/bild/49753",
+      "pid": 1565,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<i>Chr. Dark [=Mechthilde Lichnowsky] als Beilage zur Fackel, 24 (1922) #608-612. (Ende Dezember 1922)</i>",
+      "format": "full_html",
+      "processed": "<i>Chr. Dark [=Mechthilde Lichnowsky] als Beilage zur Fackel, 24 (1922) #608-612. (Ende Dezember 1922)</i>",
+      "summary": null
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "e2381624-d098-4c5b-bdd7-5dbfd773b84e",
+        "meta": {
+          "drupal_internal__target_id": "image"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/6c40de87-adc9-4b8f-912b-d0d252efa90d/node_type?resourceVersion=id%3A3979"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/6c40de87-adc9-4b8f-912b-d0d252efa90d/relationships/node_type?resourceVersion=id%3A3979"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/6c40de87-adc9-4b8f-912b-d0d252efa90d/revision_uid?resourceVersion=id%3A3979"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/6c40de87-adc9-4b8f-912b-d0d252efa90d/relationships/revision_uid?resourceVersion=id%3A3979"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/6c40de87-adc9-4b8f-912b-d0d252efa90d/uid?resourceVersion=id%3A3979"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/6c40de87-adc9-4b8f-912b-d0d252efa90d/relationships/uid?resourceVersion=id%3A3979"
+        }
+      }
+    },
+    "field_images": {
+      "data": [
+        {
+          "type": "media--image",
+          "id": "e8f03c29-c38f-427a-ba39-79d914d52f9b",
+          "meta": {
+            "drupal_internal__target_id": 159
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/6c40de87-adc9-4b8f-912b-d0d252efa90d/field_images?resourceVersion=id%3A3979"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/6c40de87-adc9-4b8f-912b-d0d252efa90d/relationships/field_images?resourceVersion=id%3A3979"
+        }
+      }
+    }
+  }
+}

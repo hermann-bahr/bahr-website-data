@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "90a3e8db-64b6-4b6d-8f41-ebded790c1f6",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/90a3e8db-64b6-4b6d-8f41-ebded790c1f6?resourceVersion=id%3A3197"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/90a3e8db-64b6-4b6d-8f41-ebded790c1f6?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49351,
+    "drupal_internal__vid": 3197,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Südtirolerkomitee",
+    "created": "2011-10-13T09:17:31+00:00",
+    "changed": "2011-10-13T09:18:55+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49351",
+      "pid": 1176,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahr leitet zusammen mit Waldemar v. Thienen-Adlerflycht das \"Südtirolerkomitee\". Das geht aus einem Brief vom 24. Oktober 1915 hervor, in dem er erwähnt, weil Thienen auf der Jagd sei, gerade die ganze Verantwortung zu tragen. Worin diese besteht und welches Ansinnen das Komitee verfolgt, ist offen.",
+      "format": "full_html",
+      "processed": "Bahr leitet zusammen mit Waldemar v. Thienen-Adlerflycht das \"Südtirolerkomitee\". Das geht aus einem Brief vom 24. Oktober 1915 hervor, in dem er erwähnt, weil Thienen auf der Jagd sei, gerade die ganze Verantwortung zu tragen. Worin diese besteht und welches Ansinnen das Komitee verfolgt, ist offen.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1915-10-24",
+      "end_value": "1915-10-24"
+    },
+    "field_sources": [
+      "Bahr/Redlich, 132."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/90a3e8db-64b6-4b6d-8f41-ebded790c1f6/node_type?resourceVersion=id%3A3197"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/90a3e8db-64b6-4b6d-8f41-ebded790c1f6/relationships/node_type?resourceVersion=id%3A3197"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/90a3e8db-64b6-4b6d-8f41-ebded790c1f6/revision_uid?resourceVersion=id%3A3197"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/90a3e8db-64b6-4b6d-8f41-ebded790c1f6/relationships/revision_uid?resourceVersion=id%3A3197"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/90a3e8db-64b6-4b6d-8f41-ebded790c1f6/uid?resourceVersion=id%3A3197"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/90a3e8db-64b6-4b6d-8f41-ebded790c1f6/relationships/uid?resourceVersion=id%3A3197"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/90a3e8db-64b6-4b6d-8f41-ebded790c1f6/field_event_type?resourceVersion=id%3A3197"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/90a3e8db-64b6-4b6d-8f41-ebded790c1f6/relationships/field_event_type?resourceVersion=id%3A3197"
+        }
+      }
+    }
+  }
+}

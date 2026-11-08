@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bibliografie__schriften-zum-theater__josef-kainz" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Josef Kainz</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">39099</idno>
+        <idno type="drupal-alias">/bibliografie/39099</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bibliografie/39099">https://bahr.univie.ac.at/bibliografie/39099</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+        <bibl type="beschriebene-ausgabe">
+          <author>Hermann Bahr</author>
+          <title type="main">Josef Kainz</title>
+          <pubPlace>Wien</pubPlace>
+          <publisher>Wiener Verlag</publisher>
+          <date>1906</date>
+          <extent>53</extent>
+          <edition>2. Tsd. 1906</edition>
+          <note>Mit zwei Illustrationen: Rollenfotos von Kainz als Tasso und Kandaules. Die Schaubühne vom 22. Februar 1906 bringt einen Vorabdruck aus dem in den "nächsten Tagen" erscheinenden Buch.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="1" key="bibliografie">Bibliografie</term>
+          <term n="5" key="schriften-zum-theater">Schriften zum Theater</term>
+          <term n="5" key="josef-kainz" type="eintrag">Josef Kainz</term>
+        </keywords>
+        <classCode scheme="drupal-type">bibliographie</classCode>
+        <keywords scheme="bibliografie_type">
+          <term>Schriften für das Theater</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2011-05-18T18:44:20+00:00" type="created">angelegt in Drupal</change>
+      <change when="2013-03-05T10:54:34+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="bib">
+        <head>Bibliografie</head>
+        <table type="bibliografie">
+          <row>
+            <cell>Autor:</cell>
+            <cell>Hermann Bahr</cell>
+          </row>
+          <row>
+            <cell>Titel:</cell>
+            <cell>Josef Kainz</cell>
+          </row>
+          <row>
+            <cell>Ort:</cell>
+            <cell>Wien</cell>
+          </row>
+          <row>
+            <cell>Verlag:</cell>
+            <cell>Wiener Verlag</cell>
+          </row>
+          <row>
+            <cell>Jahr:</cell>
+            <cell>1906</cell>
+          </row>
+          <row>
+            <cell>Seiten:</cell>
+            <cell>53</cell>
+          </row>
+          <row>
+            <cell>Aufl.:</cell>
+            <cell>2. Tsd. 1906</cell>
+          </row>
+          <row>
+            <cell>Anm.:</cell>
+            <cell>Mit zwei Illustrationen: Rollenfotos von Kainz als Tasso und Kandaules. Die Schaubühne vom 22. Februar 1906 bringt einen Vorabdruck aus dem in den "nächsten Tagen" erscheinenden Buch.</cell>
+          </row>
+        </table>
+        <div>
+          <head>Band IX</head>
+          <p>Herausgegeben von Gottfried Schnödl 2010 ISBN: 9783897396166 <ref target="http://www.vdg-weimar.de/katalog/?id=556">VDG Weimar</ref></p>
+        </div>
+      </div>
+      <div xml:id="rezens">
+        <head>Rezensionen</head>
+        <p>-</p>
+      </div>
+      <div xml:id="digit">
+        <head>Digitalisate</head>
+        <p><hi rend="italic">Neusatz:</hi> <ref target="https://bahr.univie.ac.at/sites/all/ks/9-dialog.pdf" type="sites-all"><hi rend="bold">Kritische Schriften in Einzelausgaben</hi></ref> <hi rend="italic">Faksimile der Erstausgabe:</hi></p>
+        <list rend="bulleted">
+          <item>
+            <ref target="http://www.archive.org/search.php?query=hermann%20bahr%20kainz">archive.org</ref>
+          </item>
+          <item>
+            <ref target="http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=62">ÖNB Anno</ref>
+          </item>
+        </list>
+      </div>
+    </body>
+  </text>
+</TEI>

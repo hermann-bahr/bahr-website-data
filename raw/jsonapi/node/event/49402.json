@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "b398d6ba-87e9-4fde-8004-bf4d0069b9fb",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b398d6ba-87e9-4fde-8004-bf4d0069b9fb?resourceVersion=id%3A3245"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b398d6ba-87e9-4fde-8004-bf4d0069b9fb?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49402,
+    "drupal_internal__vid": 3245,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Handekzem",
+    "created": "2011-10-18T11:57:13+00:00",
+    "changed": "2012-10-31T11:51:46+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49402",
+      "pid": 1226,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Zusätzlich zu seinen Augenleiden leidet Bahr Ende Juli 1918 an einem Handekzem, das ihm durch einen Fliegenstich zugefügt wurde. Am 3. August [1918] berichtet er Redlich, dass er von Primar Karajan an der rechten Hand operiert werden musste.",
+      "format": "full_html",
+      "processed": "Zusätzlich zu seinen Augenleiden leidet Bahr Ende Juli 1918 an einem Handekzem, das ihm durch einen Fliegenstich zugefügt wurde. Am 3. August [1918] berichtet er Redlich, dass er von Primar Karajan an der rechten Hand operiert werden musste.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1918-07-26",
+      "end_value": "1918-07-26"
+    },
+    "field_sources": [
+      "Bahr/Redlich, 357.",
+      "An HvH, 26.7.1918. Briefwechsel Bahr/Hofmannsthal. Hg. Elsbeth Dangel-Pelloquin. Göttingen: Wallstein. (In Vorbereitung)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b398d6ba-87e9-4fde-8004-bf4d0069b9fb/node_type?resourceVersion=id%3A3245"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b398d6ba-87e9-4fde-8004-bf4d0069b9fb/relationships/node_type?resourceVersion=id%3A3245"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b398d6ba-87e9-4fde-8004-bf4d0069b9fb/revision_uid?resourceVersion=id%3A3245"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b398d6ba-87e9-4fde-8004-bf4d0069b9fb/relationships/revision_uid?resourceVersion=id%3A3245"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b398d6ba-87e9-4fde-8004-bf4d0069b9fb/uid?resourceVersion=id%3A3245"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b398d6ba-87e9-4fde-8004-bf4d0069b9fb/relationships/uid?resourceVersion=id%3A3245"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b398d6ba-87e9-4fde-8004-bf4d0069b9fb/field_event_type?resourceVersion=id%3A3245"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b398d6ba-87e9-4fde-8004-bf4d0069b9fb/relationships/field_event_type?resourceVersion=id%3A3245"
+        }
+      }
+    }
+  }
+}

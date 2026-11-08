@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bibliografie__schriften-zum-theater__burgtheater-1920" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Burgtheater (1920)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">39095</idno>
+        <idno type="drupal-alias">/bibliografie/39095</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bibliografie/39095">https://bahr.univie.ac.at/bibliografie/39095</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+        <bibl type="beschriebene-ausgabe">
+          <author>Hermann Bahr</author>
+          <title type="main">Burgtheater</title>
+          <series>
+            <title level="s">Theater und Kultur. Hg. von Richard Smekal unter Mitwirkung von H. B. und Hugo von Hofmannsthal</title>
+          </series>
+          <pubPlace>Wien, Berlin</pubPlace>
+          <publisher>Wiener literarische Anstalt</publisher>
+          <date>1920</date>
+          <extent>86</extent>
+          <note>Am 4. März 1920 ist das Buch fertig, gesetzt und korrigiert (Bahr/Nadler, 41). Am 17. Juni 1920 bestätigt Redlich Bahr den Erhalt des "Burgtheaterbüchls" (Bahr/Redlich, 410).</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="1" key="bibliografie">Bibliografie</term>
+          <term n="5" key="schriften-zum-theater">Schriften zum Theater</term>
+          <term n="2" key="burgtheater-1920" type="eintrag">Burgtheater (1920)</term>
+        </keywords>
+        <classCode scheme="drupal-type">bibliographie</classCode>
+        <keywords scheme="bibliografie_type">
+          <term>Schriften für das Theater</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2011-05-18T17:53:28+00:00" type="created">angelegt in Drupal</change>
+      <change when="2013-03-05T10:52:56+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="intro">
+        <head>Einleitung</head>
+        <p>Die Beschäftigung mit dem zeitgenössischen Theater nimmt im kritischen Werk Bahrs einigen Raum ein. Zwei längere Essays verhandeln in seinem Spätwerk diese Thematik vor der Folie des Barocktheaters. Wie zur Zeit des Barock soll, so Bahrs Forderung, Theater auch heute mehr sein als ein der Dichtung nachgeschaltetes Verbreitungsmittel. Dabei pocht Bahr nicht nur auf die Bedeutung von Schauspieler, Regie und Bühnenbild, sondern auch auf die Wichtigkeit des Publikums.</p>
+        <quote>Als ihn [=H.B.] zehn Jahre später, kurz vor dem Zusammenbruch der Monarchie, Kaiser Karl zum heimlichen Direktor des Burgtheaters öffentlich ernannte, war es zu allem zu spät. Der gemalte Barockhimmel stürzte über ihm zusammen und alles, was er für das Burgtheater noch tun konnte, war ein reizendes Buch über das Burgtheater zu schreiben.</quote>
+        <p>
+          <hi rend="italic">Raoul Auernheimer: Das Wirtshaus zur verlorenen Zeit. Erlebnisse und Bekenntnisse. Wien: Ullstein 1948, 114.</hi>
+        </p>
+      </div>
+      <div xml:id="bib">
+        <head>Bibliografie</head>
+        <table type="bibliografie">
+          <row>
+            <cell>Autor:</cell>
+            <cell>Hermann Bahr</cell>
+          </row>
+          <row>
+            <cell>Titel:</cell>
+            <cell>Burgtheater</cell>
+          </row>
+          <row>
+            <cell>Reihe:</cell>
+            <cell>Theater und Kultur. Hg. von Richard Smekal unter Mitwirkung von H. B. und Hugo von Hofmannsthal</cell>
+          </row>
+          <row>
+            <cell>Ort:</cell>
+            <cell>Wien, Berlin</cell>
+          </row>
+          <row>
+            <cell>Verlag:</cell>
+            <cell>Wiener literarische Anstalt</cell>
+          </row>
+          <row>
+            <cell>Jahr:</cell>
+            <cell>1920</cell>
+          </row>
+          <row>
+            <cell>Seiten:</cell>
+            <cell>86</cell>
+          </row>
+          <row>
+            <cell>Anm.:</cell>
+            <cell>Am 4. März 1920 ist das Buch fertig, gesetzt und korrigiert (Bahr/Nadler, 41). Am 17. Juni 1920 bestätigt Redlich Bahr den Erhalt des "Burgtheaterbüchls" (Bahr/Redlich, 410).</cell>
+          </row>
+        </table>
+      </div>
+      <div xml:id="ks">
+        <head>Kritische Schriften</head>
+        <div>
+          <head>Band 16</head>
+          <p/>
+        </div>
+        <div>
+          <head>Burgtheater, Schauspielkunst, Notizen zur neueren spanischen Literatur</head>
+          <p>Herausgegeben von Gottfried Schnödl 2013 ISBN: 9783897396593 <ref target="http://www.vdg-weimar.de/katalog/?id=592">VDG Weimar</ref></p>
+        </div>
+      </div>
+      <div xml:id="erstdrucke">
+        <head>Erstdrucke</head>
+        <table>
+          <row>
+            <cell role="label">Seite</cell>
+            <cell role="label">Kapitelnummer</cell>
+            <cell role="label">Erstdruck</cell>
+          </row>
+          <row>
+            <cell>1-9</cell>
+            <cell>I-II (Anfang)</cell>
+            <cell>Altösterreichische Theaterkultur. [I]. (Geschichtliches und Grundsätzliches). Das Neue Reich. Wochenschrift für Kultur, Politik und Volkswirtschaft, 2 (1919) #11, 173-175. (14.12.1919)</cell>
+          </row>
+          <row>
+            <cell>10-20</cell>
+            <cell>II (Fortsetzung)</cell>
+            <cell>Altösterreichische Theaterkultur. II. (Geschichtliches und Grundsätzliches). Das Neue Reich. Wochenschrift für Kultur, Politik und Volkswirtschaft, 2 (1919) #12, 188-189. (21.12.1919)</cell>
+          </row>
+          <row>
+            <cell>20-23</cell>
+            <cell>II</cell>
+            <cell>nicht erschienen</cell>
+          </row>
+          <row>
+            <cell>23-30</cell>
+            <cell>II (Schluss)</cell>
+            <cell>Altösterreichische Theaterkultur. III. (Geschichtliches und Grundsätzliches). Das Neue Reich. Wochenschrift für Kultur, Politik und Volkswirtschaft, 2 (1919) #13, 205-206. (28.12.1919)</cell>
+          </row>
+          <row>
+            <cell>30-39</cell>
+            <cell>III (Anfang)</cell>
+          </row>
+          <row>
+            <cell>39-47</cell>
+            <cell>III (Schluss)</cell>
+            <cell>Als "Schreyvogel" in: Blätter des Burgtheaters, 1 (1920) #5/6 (Januar/Februar), 38-43.</cell>
+          </row>
+          <row>
+            <cell>47-59</cell>
+            <cell>IV</cell>
+            <cell>Hermann Bahr: Laube. Neue Freie Presse, (1920) #19899, Morgenblatt, 1-4. (20.1.1920)</cell>
+          </row>
+          <row>
+            <cell>59-74</cell>
+            <cell>V</cell>
+            <cell>Teilw.: Hermann Bahr: Dingelstedt. Aufbau. Beiträge zur Arbeit der deutschen Bühne, 1 (1919) #1 (Dezember/Januar), 14-15.</cell>
+          </row>
+          <row>
+            <cell>75-84</cell>
+            <cell>VI</cell>
+            <cell/>
+          </row>
+        </table>
+      </div>
+      <div xml:id="rezens">
+        <head>Rezensionen</head>
+        <p>F. Zw. in: Wiener Zeitung, 1920 #222, 5 (28.9.1920). Monty Jacobs: Theaterbücher. In: Vossische Zeitung, 1921 #37, 1 (23.1.1921).</p>
+      </div>
+      <div>
+        <head>Kommentiertes Inhaltsverzeichnis</head>
+        <list type="gloss">
+          <label>I.</label>
+          <item>Mit Rückgriff auf die eigene Biographie betont Bahr die Bedeutung des Burgtheaters auch für kunstferne gesellschaftliche Schichten. Anschließend stellt er die Behauptung auf, das Burgtheater sei nur dann groß, wenn es sich gegen seine eigenen Wurzeln (die im Liberalismus lägen) wendete.</item>
+          <label>II.</label>
+          <item>Bahr versucht die Entwicklung des Burgtheaters geschichtlich nachzuzeichnen und beginnt beim Barocktheater, das ein Gesamtkunstwerk gewesen wäre, aus dem jedoch allmählich die verschiedenen Künste als autonome hervorgegangen wären. Der eigenständige Schauspieler sei der Hanswurst.</item>
+          <label>III.</label>
+          <item>Bahr lobt Schreyvogel als bedeutendsten Direktor des Burgtheaters; dieser habe in das liberale Burgtheater den Geist des Barock wieder eingeführt.</item>
+          <label>IV.</label>
+          <item>Den Burgtheaterdirektor Laube schildert Bahr als jemanden, der sich bewusst und stolz gegen das Publikum stellt und gerade so die Bedeutung des Publikums für das Gelingen von Theater beweist.</item>
+          <label>V.</label>
+          <item>Bahr schildert den Einzug von Regie und Bühnenbild unter Dingelstedt und die Direktion Burkhards, in der die Erneuerung des Schauspielkunst durch die Stücke Ibsens fällt.</item>
+          <label>VI.</label>
+          <item>Schließlich fokussiert Bahr auf Mahler, den er gerne als Burgtheaterdirektor gesehen hätte. Mahlers Kunst wird hier als eine Wiederaufnahme des Barocks beschrieben. Ein Umstand, der ihn in Bahrs Augen zum Burgtheaterdirektor prädestiniert hätte.</item>
+        </list>
+      </div>
+      <div xml:id="digit">
+        <head>Digitalisate</head>
+        <p><hi rend="italic">Neusatz:</hi> <ref target="https://bahr.univie.ac.at/sites/all/ks/16-burg-schauspiel-spanisch.pdf" type="sites-all"><hi rend="bold">Kritische Schriften in Einzelausgaben</hi></ref> <hi rend="italic">Faksimile der Erstausgabe:</hi> <ref target="http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=94">ÖNB Anno</ref></p>
+      </div>
+    </body>
+  </text>
+</TEI>

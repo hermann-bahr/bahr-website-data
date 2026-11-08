@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "13d7a714-01cb-4abe-9db9-f8b82f62dadf",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/13d7a714-01cb-4abe-9db9-f8b82f62dadf?resourceVersion=id%3A3721"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/13d7a714-01cb-4abe-9db9-f8b82f62dadf?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74393,
+    "drupal_internal__vid": 3721,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Semmering",
+    "created": "2012-10-22T19:03:20+00:00",
+    "changed": "2013-09-14T11:54:40+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/74393",
+      "pid": 1767,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 30. Jänner 1899 sind Bahr und seine Frau am Semmering.",
+      "format": "full_html",
+      "processed": "Am 30. Jänner 1899 sind Bahr und seine Frau am Semmering.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1899-01-30",
+      "end_value": "1899-01-30"
+    },
+    "field_sources": [
+      "An Gerty Schlesinger, 30.1.1899. Briefwechsel Bahr/Hofmannsthal. Hg. Elsbeth Dangel-Pelloquin. Göttingen: Wallstein. (In Vorbereitung)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/13d7a714-01cb-4abe-9db9-f8b82f62dadf/node_type?resourceVersion=id%3A3721"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/13d7a714-01cb-4abe-9db9-f8b82f62dadf/relationships/node_type?resourceVersion=id%3A3721"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/13d7a714-01cb-4abe-9db9-f8b82f62dadf/revision_uid?resourceVersion=id%3A3721"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/13d7a714-01cb-4abe-9db9-f8b82f62dadf/relationships/revision_uid?resourceVersion=id%3A3721"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/13d7a714-01cb-4abe-9db9-f8b82f62dadf/uid?resourceVersion=id%3A3721"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/13d7a714-01cb-4abe-9db9-f8b82f62dadf/relationships/uid?resourceVersion=id%3A3721"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/13d7a714-01cb-4abe-9db9-f8b82f62dadf/field_event_type?resourceVersion=id%3A3721"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/13d7a714-01cb-4abe-9db9-f8b82f62dadf/relationships/field_event_type?resourceVersion=id%3A3721"
+        }
+      }
+    }
+  }
+}

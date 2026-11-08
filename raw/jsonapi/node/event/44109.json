@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "201455a1-0b4d-45ca-bc9d-acfa5f703051",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/201455a1-0b4d-45ca-bc9d-acfa5f703051?resourceVersion=id%3A3025"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/201455a1-0b4d-45ca-bc9d-acfa5f703051?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44109,
+    "drupal_internal__vid": 3025,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "\"Sanna\" beendet",
+    "created": "2011-09-13T17:22:32+00:00",
+    "changed": "2011-09-13T17:22:32+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44109",
+      "pid": 1004,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 5. Juli kann Bahr in seinem Tagebuch vermerken, dass sein Stück \"Sanna\" abgeschlossen ist und nun abgeschrieben wird, um es den Theaterdirektoren zukommen zu lassen.",
+      "format": "full_html",
+      "processed": "Am 5. Juli kann Bahr in seinem Tagebuch vermerken, dass sein Stück \"Sanna\" abgeschlossen ist und nun abgeschrieben wird, um es den Theaterdirektoren zukommen zu lassen.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1904-07-05",
+      "end_value": "1904-07-05"
+    },
+    "field_sources": [
+      "Tagebücher (Csàky), IV, 209."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/201455a1-0b4d-45ca-bc9d-acfa5f703051/node_type?resourceVersion=id%3A3025"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/201455a1-0b4d-45ca-bc9d-acfa5f703051/relationships/node_type?resourceVersion=id%3A3025"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/201455a1-0b4d-45ca-bc9d-acfa5f703051/revision_uid?resourceVersion=id%3A3025"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/201455a1-0b4d-45ca-bc9d-acfa5f703051/relationships/revision_uid?resourceVersion=id%3A3025"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/201455a1-0b4d-45ca-bc9d-acfa5f703051/uid?resourceVersion=id%3A3025"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/201455a1-0b4d-45ca-bc9d-acfa5f703051/relationships/uid?resourceVersion=id%3A3025"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/201455a1-0b4d-45ca-bc9d-acfa5f703051/field_event_type?resourceVersion=id%3A3025"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/201455a1-0b4d-45ca-bc9d-acfa5f703051/relationships/field_event_type?resourceVersion=id%3A3025"
+        }
+      }
+    }
+  }
+}

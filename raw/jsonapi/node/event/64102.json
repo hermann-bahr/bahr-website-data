@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "f73db0f3-9766-4c4e-adcc-af76a2d3d72c",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f73db0f3-9766-4c4e-adcc-af76a2d3d72c?resourceVersion=id%3A3596"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f73db0f3-9766-4c4e-adcc-af76a2d3d72c?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 64102,
+    "drupal_internal__vid": 3596,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Salzburg",
+    "created": "2012-01-27T13:32:25+00:00",
+    "changed": "2012-01-27T13:32:25+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/64102",
+      "pid": 1637,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 10. und 11. August 1923 ist Bahr in Salzburg, mutmaßlich beginnt der Aufenthalt nach seiner Abreise aus Millstatt am 26. Juli. Am 12. ist er wieder in München.",
+      "format": "full_html",
+      "processed": "Am 10. und 11. August 1923 ist Bahr in Salzburg, mutmaßlich beginnt der Aufenthalt nach seiner Abreise aus Millstatt am 26. Juli. Am 12. ist er wieder in München.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1923-07-27",
+      "end_value": "1923-08-11"
+    },
+    "field_sources": [
+      "Liebe der Lebenden, III, 187-192. (11. August [1923])"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f73db0f3-9766-4c4e-adcc-af76a2d3d72c/node_type?resourceVersion=id%3A3596"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f73db0f3-9766-4c4e-adcc-af76a2d3d72c/relationships/node_type?resourceVersion=id%3A3596"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f73db0f3-9766-4c4e-adcc-af76a2d3d72c/revision_uid?resourceVersion=id%3A3596"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f73db0f3-9766-4c4e-adcc-af76a2d3d72c/relationships/revision_uid?resourceVersion=id%3A3596"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f73db0f3-9766-4c4e-adcc-af76a2d3d72c/uid?resourceVersion=id%3A3596"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f73db0f3-9766-4c4e-adcc-af76a2d3d72c/relationships/uid?resourceVersion=id%3A3596"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f73db0f3-9766-4c4e-adcc-af76a2d3d72c/field_event_type?resourceVersion=id%3A3596"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f73db0f3-9766-4c4e-adcc-af76a2d3d72c/relationships/field_event_type?resourceVersion=id%3A3596"
+        }
+      }
+    }
+  }
+}

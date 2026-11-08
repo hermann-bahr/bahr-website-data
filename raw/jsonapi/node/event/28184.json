@@ -1,0 +1,119 @@
+{
+  "type": "node--event",
+  "id": "98f58f9d-f63f-4697-8da8-9b135c3206f7",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/98f58f9d-f63f-4697-8da8-9b135c3206f7?resourceVersion=id%3A2492"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/98f58f9d-f63f-4697-8da8-9b135c3206f7?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28184,
+    "drupal_internal__vid": 2492,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Die katholische Romantik",
+    "created": "2010-09-09T19:03:04+00:00",
+    "changed": "2012-01-17T14:12:52+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28184",
+      "pid": 329,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am \"Verbandstag katholischer Akademiker\" in Heidelberg am 3. September 1922 hält Bahr eine Rede über \"Die katholische Romantik\", die nahezu umgehend von Germania abgedruckt wird und noch 1929 in Buchform in \"Labyrinth der Gegenwart\" erscheint. Ein Entwurf der Rede brachte das \"Tagebuch\" Bahrs bereits im Juni.",
+      "format": "full_html",
+      "processed": "Am \"Verbandstag katholischer Akademiker\" in Heidelberg am 3. September 1922 hält Bahr eine Rede über \"Die katholische Romantik\", die nahezu umgehend von Germania abgedruckt wird und noch 1929 in Buchform in \"Labyrinth der Gegenwart\" erscheint. Ein Entwurf der Rede brachte das \"Tagebuch\" Bahrs bereits im Juni.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1922-09-03",
+      "end_value": "1922-09-03"
+    },
+    "field_sources": [
+      "Hermann Bahr: Katholische Romantik. Festvortrag. Germania, Berlin, 52 (1922) #484, Morgen-Ausgabe, 2. (7.9.1922)",
+      "Hermann Bahr: Katholischer Glaube und Romantik. Eine Rede. Jahrbuch des Verbandes der Vereine katholischer Akademiker zur Pflege der katholischen Weltanschauung, (1922), 32-40.",
+      "Hermann Bahr: Heidelberger Rede. In: Labyrinth der Gegenwart. Hildesheim: F. Borgmeyer 1929, 150-170.",
+      "Tagebuch. 20. Juni [1922] in: Liebe der Lebenden, II, 151-158."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/98f58f9d-f63f-4697-8da8-9b135c3206f7/node_type?resourceVersion=id%3A2492"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/98f58f9d-f63f-4697-8da8-9b135c3206f7/relationships/node_type?resourceVersion=id%3A2492"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/98f58f9d-f63f-4697-8da8-9b135c3206f7/revision_uid?resourceVersion=id%3A2492"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/98f58f9d-f63f-4697-8da8-9b135c3206f7/relationships/revision_uid?resourceVersion=id%3A2492"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/98f58f9d-f63f-4697-8da8-9b135c3206f7/uid?resourceVersion=id%3A2492"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/98f58f9d-f63f-4697-8da8-9b135c3206f7/relationships/uid?resourceVersion=id%3A2492"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/98f58f9d-f63f-4697-8da8-9b135c3206f7/field_event_type?resourceVersion=id%3A2492"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/98f58f9d-f63f-4697-8da8-9b135c3206f7/relationships/field_event_type?resourceVersion=id%3A2492"
+        }
+      }
+    }
+  }
+}

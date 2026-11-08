@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "75eca0da-d332-46e2-b619-e45936f39c6e",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/75eca0da-d332-46e2-b619-e45936f39c6e?resourceVersion=id%3A3744"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/75eca0da-d332-46e2-b619-e45936f39c6e?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74416,
+    "drupal_internal__vid": 3744,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Kessler, Salten, Kainz, Reinhardt, Vandevelde.",
+    "created": "2012-10-30T11:43:10+00:00",
+    "changed": "2012-10-30T11:43:10+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/74416",
+      "pid": 1790,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 10. Juni 1906 frühstückt Bahr bei Harry Graf Kessler in Weimar. Mit dabei: Felix Salten, Josef Kainz, Max Reinhardt und Henry van de Velde. Bahr fällt durch eine wenig cachiert antisemitische Theorie auf.",
+      "format": "full_html",
+      "processed": "Am 10. Juni 1906 frühstückt Bahr bei Harry Graf Kessler in Weimar. Mit dabei: Felix Salten, Josef Kainz, Max Reinhardt und Henry van de Velde. Bahr fällt durch eine wenig cachiert antisemitische Theorie auf.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1906-06-10",
+      "end_value": "1906-06-10"
+    },
+    "field_sources": [
+      "Harry Graf Kessler: Das Tagebuch. Hgg. Roland S. Kamzelak und Ulrich Ott. Stuttgart: Cotta 2005, IV, 149."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/75eca0da-d332-46e2-b619-e45936f39c6e/node_type?resourceVersion=id%3A3744"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/75eca0da-d332-46e2-b619-e45936f39c6e/relationships/node_type?resourceVersion=id%3A3744"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/75eca0da-d332-46e2-b619-e45936f39c6e/revision_uid?resourceVersion=id%3A3744"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/75eca0da-d332-46e2-b619-e45936f39c6e/relationships/revision_uid?resourceVersion=id%3A3744"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/75eca0da-d332-46e2-b619-e45936f39c6e/uid?resourceVersion=id%3A3744"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/75eca0da-d332-46e2-b619-e45936f39c6e/relationships/uid?resourceVersion=id%3A3744"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/75eca0da-d332-46e2-b619-e45936f39c6e/field_event_type?resourceVersion=id%3A3744"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/75eca0da-d332-46e2-b619-e45936f39c6e/relationships/field_event_type?resourceVersion=id%3A3744"
+        }
+      }
+    }
+  }
+}

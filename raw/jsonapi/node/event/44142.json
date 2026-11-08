@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "f8d0ee5a-f0d7-4d3a-98e3-d48b7e6f0372",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f8d0ee5a-f0d7-4d3a-98e3-d48b7e6f0372?resourceVersion=id%3A3058"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f8d0ee5a-f0d7-4d3a-98e3-d48b7e6f0372?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44142,
+    "drupal_internal__vid": 3058,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "AS",
+    "created": "2011-09-14T13:46:44+00:00",
+    "changed": "2011-09-14T13:46:44+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44142",
+      "pid": 1037,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Schnitzler und Bahr unterhalten sich am 8. Oktober 1894 über Gustav Schwarzkopf, der Bahr vorgeworfen hat, in seinen Kritiken einfach das Gegenteil der anderen zu sagen.",
+      "format": "full_html",
+      "processed": "Schnitzler und Bahr unterhalten sich am 8. Oktober 1894 über Gustav Schwarzkopf, der Bahr vorgeworfen hat, in seinen Kritiken einfach das Gegenteil der anderen zu sagen.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1894-10-08",
+      "end_value": "1894-10-08"
+    },
+    "field_sources": [
+      "Schnitzler: Tagebuch, II, 93."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f8d0ee5a-f0d7-4d3a-98e3-d48b7e6f0372/node_type?resourceVersion=id%3A3058"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f8d0ee5a-f0d7-4d3a-98e3-d48b7e6f0372/relationships/node_type?resourceVersion=id%3A3058"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f8d0ee5a-f0d7-4d3a-98e3-d48b7e6f0372/revision_uid?resourceVersion=id%3A3058"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f8d0ee5a-f0d7-4d3a-98e3-d48b7e6f0372/relationships/revision_uid?resourceVersion=id%3A3058"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f8d0ee5a-f0d7-4d3a-98e3-d48b7e6f0372/uid?resourceVersion=id%3A3058"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f8d0ee5a-f0d7-4d3a-98e3-d48b7e6f0372/relationships/uid?resourceVersion=id%3A3058"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f8d0ee5a-f0d7-4d3a-98e3-d48b7e6f0372/field_event_type?resourceVersion=id%3A3058"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f8d0ee5a-f0d7-4d3a-98e3-d48b7e6f0372/relationships/field_event_type?resourceVersion=id%3A3058"
+        }
+      }
+    }
+  }
+}

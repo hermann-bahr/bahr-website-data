@@ -1,0 +1,120 @@
+{
+  "type": "node--event",
+  "id": "02d1a02b-a2ad-46db-8c82-c70a6c1b1eff",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/02d1a02b-a2ad-46db-8c82-c70a6c1b1eff?resourceVersion=id%3A2253"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/02d1a02b-a2ad-46db-8c82-c70a6c1b1eff?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27908,
+    "drupal_internal__vid": 2253,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Kneipschwanz bei der Burschenschaft \"Albia\"",
+    "created": "2010-06-30T10:19:34+00:00",
+    "changed": "2013-03-22T10:30:33+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/27908",
+      "pid": 87,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Während seines Studiums und vermittelt durch Edmund Lang und Paul von Portheim tritt Bahr als Kneipschwanz der Burschenschaft \"Albia\" bei, geht seinem Vater zuliebe jedoch keine nähere Mitgliedschaft ein. Das hindert ihn nicht, sich mit einem Schmiss zu zieren. Als Name trägt er laut Rudolf Holzer \"Michel aus Linz\". Nach seiner Rede am Wagnerkommers und der folgenden Relegierung von der Universität Wien ändert er am 9. April 1883, kurz vor Abreise nach Graz, seine Mitgliedschaft und wird \"Bursche\", um, wie er es begründet, wenn er in der Öffentlichkeit wirke, auch als \"alter Herr\" der Burschenschaft geführt zu werden. Der Austritt erfolgt laut Czerwinka, der keine Quelle angibt, erst 1893.",
+      "format": "full_html",
+      "processed": "Während seines Studiums und vermittelt durch Edmund Lang und Paul von Portheim tritt Bahr als Kneipschwanz der Burschenschaft \"Albia\" bei, geht seinem Vater zuliebe jedoch keine nähere Mitgliedschaft ein. Das hindert ihn nicht, sich mit einem Schmiss zu zieren. Als Name trägt er laut Rudolf Holzer \"Michel aus Linz\". Nach seiner Rede am Wagnerkommers und der folgenden Relegierung von der Universität Wien ändert er am 9. April 1883, kurz vor Abreise nach Graz, seine Mitgliedschaft und wird \"Bursche\", um, wie er es begründet, wenn er in der Öffentlichkeit wirke, auch als \"alter Herr\" der Burschenschaft geführt zu werden. Der Austritt erfolgt laut Czerwinka, der keine Quelle angibt, erst 1893.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1882-01-01",
+      "end_value": "1883-04-18"
+    },
+    "field_sources": [
+      "Selbstbildnis, 136.",
+      "Briefwechsel mit dem Vater",
+      "Rudolf Holzer: An Hermann Bahr. Tagespost, Linz, 35 (1899) #277, 1-2. (3.12.1899)",
+      "Günter Cerwinka: Hermann Bahrs Grazer Semester. Mit Briefen Bahrs zur Auseinandersetzung Pernerstorfer – Schönerer. Historisches Jahrbuch der Stadt Graz, 4 (1971), 143",
+      "(Hier der Beginn mit 1. Jänner 1882 angesetzt)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/02d1a02b-a2ad-46db-8c82-c70a6c1b1eff/node_type?resourceVersion=id%3A2253"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/02d1a02b-a2ad-46db-8c82-c70a6c1b1eff/relationships/node_type?resourceVersion=id%3A2253"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/02d1a02b-a2ad-46db-8c82-c70a6c1b1eff/revision_uid?resourceVersion=id%3A2253"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/02d1a02b-a2ad-46db-8c82-c70a6c1b1eff/relationships/revision_uid?resourceVersion=id%3A2253"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/02d1a02b-a2ad-46db-8c82-c70a6c1b1eff/uid?resourceVersion=id%3A2253"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/02d1a02b-a2ad-46db-8c82-c70a6c1b1eff/relationships/uid?resourceVersion=id%3A2253"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/02d1a02b-a2ad-46db-8c82-c70a6c1b1eff/field_event_type?resourceVersion=id%3A2253"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/02d1a02b-a2ad-46db-8c82-c70a6c1b1eff/relationships/field_event_type?resourceVersion=id%3A2253"
+        }
+      }
+    }
+  }
+}

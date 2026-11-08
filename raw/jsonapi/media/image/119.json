@@ -1,0 +1,118 @@
+{
+  "type": "media--image",
+  "id": "a3c952cf-ca2e-4b74-9c21-721eec016f63",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/media/image/a3c952cf-ca2e-4b74-9c21-721eec016f63?resourceVersion=id%3A119"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/media/image/a3c952cf-ca2e-4b74-9c21-721eec016f63?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__mid": 119,
+    "drupal_internal__vid": 119,
+    "langcode": "de",
+    "revision_created": "2020-02-18T15:16:19+00:00",
+    "status": true,
+    "name": "1894_musenalmanach",
+    "created": "2020-02-18T15:16:19+00:00",
+    "changed": "2020-02-18T15:16:19+00:00",
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": null,
+      "pid": null,
+      "langcode": "de"
+    }
+  },
+  "relationships": {
+    "bundle": {
+      "data": {
+        "type": "media_type--media_type",
+        "id": "b82aabb6-e7a1-420d-b98b-5b981c2d920e",
+        "meta": {
+          "drupal_internal__target_id": "image"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/a3c952cf-ca2e-4b74-9c21-721eec016f63/bundle?resourceVersion=id%3A119"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/a3c952cf-ca2e-4b74-9c21-721eec016f63/relationships/bundle?resourceVersion=id%3A119"
+        }
+      }
+    },
+    "revision_user": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/a3c952cf-ca2e-4b74-9c21-721eec016f63/revision_user?resourceVersion=id%3A119"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/a3c952cf-ca2e-4b74-9c21-721eec016f63/relationships/revision_user?resourceVersion=id%3A119"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/a3c952cf-ca2e-4b74-9c21-721eec016f63/uid?resourceVersion=id%3A119"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/a3c952cf-ca2e-4b74-9c21-721eec016f63/relationships/uid?resourceVersion=id%3A119"
+        }
+      }
+    },
+    "thumbnail": {
+      "data": {
+        "type": "file--file",
+        "id": "62459e2f-e3ae-4274-a158-6924896237e2",
+        "meta": {
+          "alt": "1894 Musenalmanach",
+          "title": null,
+          "width": 1110,
+          "height": 2064,
+          "drupal_internal__target_id": 180
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/a3c952cf-ca2e-4b74-9c21-721eec016f63/thumbnail?resourceVersion=id%3A119"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/a3c952cf-ca2e-4b74-9c21-721eec016f63/relationships/thumbnail?resourceVersion=id%3A119"
+        }
+      }
+    },
+    "field_media_image": {
+      "data": {
+        "type": "file--file",
+        "id": "62459e2f-e3ae-4274-a158-6924896237e2",
+        "meta": {
+          "alt": "1894 Musenalmanach",
+          "title": "1894_musenalmanach",
+          "width": 1110,
+          "height": 2064,
+          "drupal_internal__target_id": 180
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/a3c952cf-ca2e-4b74-9c21-721eec016f63/field_media_image?resourceVersion=id%3A119"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/a3c952cf-ca2e-4b74-9c21-721eec016f63/relationships/field_media_image?resourceVersion=id%3A119"
+        }
+      }
+    }
+  }
+}

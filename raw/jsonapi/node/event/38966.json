@@ -1,0 +1,114 @@
+{
+  "type": "node--event",
+  "id": "010a6c01-4a89-4cb1-9ca8-42e28eabecbf",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/010a6c01-4a89-4cb1-9ca8-42e28eabecbf?resourceVersion=id%3A2751"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/010a6c01-4a89-4cb1-9ca8-42e28eabecbf?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38966,
+    "drupal_internal__vid": 2751,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Frauen-Kongreß",
+    "created": "2011-03-16T14:51:26+00:00",
+    "changed": "2011-03-16T14:51:26+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38966",
+      "pid": 705,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 18. Juni 1913 fand in Budapest ein internationaler Frauenkongress statt. Bei der Sitzung der Männer soll Bahr am 19. der Hauptredner sein. \r\n<i>Berliner Börsen-Courier, 20.6.1913",
+      "format": "full_html",
+      "processed": "Am 18. Juni 1913 fand in Budapest ein internationaler Frauenkongress statt. Bei der Sitzung der Männer soll Bahr am 19. der Hauptredner sein. \n<i>Berliner Börsen-Courier, 20.6.1913</i>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1913-06-19",
+      "end_value": "1913-06-19"
+    },
+    "field_sources": []
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/010a6c01-4a89-4cb1-9ca8-42e28eabecbf/node_type?resourceVersion=id%3A2751"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/010a6c01-4a89-4cb1-9ca8-42e28eabecbf/relationships/node_type?resourceVersion=id%3A2751"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/010a6c01-4a89-4cb1-9ca8-42e28eabecbf/revision_uid?resourceVersion=id%3A2751"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/010a6c01-4a89-4cb1-9ca8-42e28eabecbf/relationships/revision_uid?resourceVersion=id%3A2751"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/010a6c01-4a89-4cb1-9ca8-42e28eabecbf/uid?resourceVersion=id%3A2751"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/010a6c01-4a89-4cb1-9ca8-42e28eabecbf/relationships/uid?resourceVersion=id%3A2751"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/010a6c01-4a89-4cb1-9ca8-42e28eabecbf/field_event_type?resourceVersion=id%3A2751"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/010a6c01-4a89-4cb1-9ca8-42e28eabecbf/relationships/field_event_type?resourceVersion=id%3A2751"
+        }
+      }
+    }
+  }
+}

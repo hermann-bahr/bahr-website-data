@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "424d1248-99a9-4d29-8dd7-aaf97017dd44",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/424d1248-99a9-4d29-8dd7-aaf97017dd44?resourceVersion=id%3A3804"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/424d1248-99a9-4d29-8dd7-aaf97017dd44?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74493,
+    "drupal_internal__vid": 3804,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Deutscher Club, Linz",
+    "created": "2013-03-22T10:39:09+00:00",
+    "changed": "2013-03-22T10:39:09+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/74493",
+      "pid": 1867,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Im September 1883 soll Bahr einen Vortrag im \"Deutschen Club\" in Linz halten, wie er am 31. August 1883 an Pernerstorfer schreibt. Ob dieser stattfand, ist ungewiss.",
+      "format": "full_html",
+      "processed": "Im September 1883 soll Bahr einen Vortrag im \"Deutschen Club\" in Linz halten, wie er am 31. August 1883 an Pernerstorfer schreibt. Ob dieser stattfand, ist ungewiss.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1883-09-15",
+      "end_value": "1883-09-15"
+    },
+    "field_sources": [
+      "Günter Cerwinka: Hermann Bahrs Grazer Semester. Mit Briefen Bahrs zur Auseinandersetzung Pernerstorfer – Schönerer. Historisches Jahrbuch der Stadt Graz, 4 (1971), 146. "
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/424d1248-99a9-4d29-8dd7-aaf97017dd44/node_type?resourceVersion=id%3A3804"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/424d1248-99a9-4d29-8dd7-aaf97017dd44/relationships/node_type?resourceVersion=id%3A3804"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/424d1248-99a9-4d29-8dd7-aaf97017dd44/revision_uid?resourceVersion=id%3A3804"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/424d1248-99a9-4d29-8dd7-aaf97017dd44/relationships/revision_uid?resourceVersion=id%3A3804"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/424d1248-99a9-4d29-8dd7-aaf97017dd44/uid?resourceVersion=id%3A3804"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/424d1248-99a9-4d29-8dd7-aaf97017dd44/relationships/uid?resourceVersion=id%3A3804"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/424d1248-99a9-4d29-8dd7-aaf97017dd44/field_event_type?resourceVersion=id%3A3804"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/424d1248-99a9-4d29-8dd7-aaf97017dd44/relationships/field_event_type?resourceVersion=id%3A3804"
+        }
+      }
+    }
+  }
+}

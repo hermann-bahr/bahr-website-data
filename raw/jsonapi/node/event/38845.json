@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "d21500f9-e738-4932-9a19-29813a5d96bf",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/d21500f9-e738-4932-9a19-29813a5d96bf?resourceVersion=id%3A2661"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/d21500f9-e738-4932-9a19-29813a5d96bf?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38845,
+    "drupal_internal__vid": 2661,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Schauspieler \"Fledermaus\"",
+    "created": "2011-02-11T16:01:14+00:00",
+    "changed": "2011-09-02T10:46:50+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38845",
+      "pid": 589,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Im \"Selbstbildnis\" berichtet Bahr von frühen Ambitionen, Schauspieler zu werden. Am 13. September 1907 berichtet ein Wiener Blatt, dass er im Kabarett Fledermaus auftreten wolle:<blockquote>– Hermann Bahr hat die Absicht, in diesem Winter im Kabarett \"Fledermaus\" aufzutreten, das bekanntlich ein Unternehmen der Wiener Werkstätte sein wird. Bahr will nach Erfüllung seiner zweimonatlichen Vertragsverpflichtung als Regisseur des Berliner Deutschen Theaters in der \"Fledermaus\" in einigen seiner Einakter die Hauptrollen darstellen. Er hat diesbezüglich mit den Leitern des Unternehmens Pourparlers gepflogen, die zu einem vorläufigen Abschlusse geführt haben.\r\n</blockquote>Was daraus wurde, ist offen.\r\n",
+      "format": "full_html",
+      "processed": "Im \"Selbstbildnis\" berichtet Bahr von frühen Ambitionen, Schauspieler zu werden. Am 13. September 1907 berichtet ein Wiener Blatt, dass er im Kabarett Fledermaus auftreten wolle:<blockquote>– Hermann Bahr hat die Absicht, in diesem Winter im Kabarett \"Fledermaus\" aufzutreten, das bekanntlich ein Unternehmen der Wiener Werkstätte sein wird. Bahr will nach Erfüllung seiner zweimonatlichen Vertragsverpflichtung als Regisseur des Berliner Deutschen Theaters in der \"Fledermaus\" in einigen seiner Einakter die Hauptrollen darstellen. Er hat diesbezüglich mit den Leitern des Unternehmens Pourparlers gepflogen, die zu einem vorläufigen Abschlusse geführt haben.\n</blockquote>Was daraus wurde, ist offen.\n",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1907-09-13",
+      "end_value": "1907-09-13"
+    },
+    "field_sources": [
+      "Fremden-Blatt, #251, 10. 13.9.1907\r\n"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d21500f9-e738-4932-9a19-29813a5d96bf/node_type?resourceVersion=id%3A2661"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d21500f9-e738-4932-9a19-29813a5d96bf/relationships/node_type?resourceVersion=id%3A2661"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d21500f9-e738-4932-9a19-29813a5d96bf/revision_uid?resourceVersion=id%3A2661"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d21500f9-e738-4932-9a19-29813a5d96bf/relationships/revision_uid?resourceVersion=id%3A2661"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d21500f9-e738-4932-9a19-29813a5d96bf/uid?resourceVersion=id%3A2661"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d21500f9-e738-4932-9a19-29813a5d96bf/relationships/uid?resourceVersion=id%3A2661"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d21500f9-e738-4932-9a19-29813a5d96bf/field_event_type?resourceVersion=id%3A2661"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d21500f9-e738-4932-9a19-29813a5d96bf/relationships/field_event_type?resourceVersion=id%3A2661"
+        }
+      }
+    }
+  }
+}

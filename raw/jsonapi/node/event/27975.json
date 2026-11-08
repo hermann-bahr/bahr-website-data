@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "5588b9c2-49e5-43fe-8d24-5b17d9867bf8",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/5588b9c2-49e5-43fe-8d24-5b17d9867bf8?resourceVersion=id%3A2314"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/5588b9c2-49e5-43fe-8d24-5b17d9867bf8?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27975,
+    "drupal_internal__vid": 2314,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Burgtheater",
+    "created": "2010-07-20T10:46:26+00:00",
+    "changed": "2011-10-19T15:31:44+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/27975",
+      "pid": 148,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Im Juni 1920 erscheint eine kleine Studie Bahrs über das Burgtheater, im vorigen Herbst abgefasst.",
+      "format": "full_html",
+      "processed": "Im Juni 1920 erscheint eine kleine Studie Bahrs über das Burgtheater, im vorigen Herbst abgefasst.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1920-06-14",
+      "end_value": "1920-06-14"
+    },
+    "field_sources": [
+      "Hermann Bahr: Burgtheater. Hg. von Richard Smekal unter Mitwirkung von H. B. und Hugo von Hofmannsthal. Wien, Berlin: Wiener literarische Anstalt, 1920.",
+      "Bahr/Redlich, 409. (An R., 14.6.1920, ob Buch erhalten)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5588b9c2-49e5-43fe-8d24-5b17d9867bf8/node_type?resourceVersion=id%3A2314"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5588b9c2-49e5-43fe-8d24-5b17d9867bf8/relationships/node_type?resourceVersion=id%3A2314"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5588b9c2-49e5-43fe-8d24-5b17d9867bf8/revision_uid?resourceVersion=id%3A2314"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5588b9c2-49e5-43fe-8d24-5b17d9867bf8/relationships/revision_uid?resourceVersion=id%3A2314"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5588b9c2-49e5-43fe-8d24-5b17d9867bf8/uid?resourceVersion=id%3A2314"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5588b9c2-49e5-43fe-8d24-5b17d9867bf8/relationships/uid?resourceVersion=id%3A2314"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "29eb2d1e-f275-4ca0-a532-a2a05ef92e13",
+          "meta": {
+            "drupal_internal__target_id": 6
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5588b9c2-49e5-43fe-8d24-5b17d9867bf8/field_event_type?resourceVersion=id%3A2314"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5588b9c2-49e5-43fe-8d24-5b17d9867bf8/relationships/field_event_type?resourceVersion=id%3A2314"
+        }
+      }
+    }
+  }
+}

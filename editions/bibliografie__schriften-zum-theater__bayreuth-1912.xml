@@ -1,0 +1,246 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bibliografie__schriften-zum-theater__bayreuth-1912" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Bayreuth (1912)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">38710</idno>
+        <idno type="drupal-alias">/bibliografie/38710</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bibliografie/38710">https://bahr.univie.ac.at/bibliografie/38710</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+        <bibl type="beschriebene-ausgabe">
+          <author>Anna Bahr-Mildenburg und Hermann Bahr</author>
+          <title type="main">Bayreuth</title>
+          <pubPlace>Leipzig</pubPlace>
+          <publisher>E. Rowohlt</publisher>
+          <date>1912</date>
+          <extent>114 [49-114]</extent>
+          <edition>3. Aufl. 1912 4. Aufl. 1913</edition>
+          <editor role="translator">Englisch: Bayreuth and the Wagner Theatre. Transl. by T. W. Makepeace. London: Fisher Unwin 1913.</editor>
+          <note>Erschienen 1911, vordatiert auf 1912. Die Aufsätze 4 bis 9 stammen von Hermann Bahr, die davor von Anna Mildenburg.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="1" key="bibliografie">Bibliografie</term>
+          <term n="5" key="schriften-zum-theater">Schriften zum Theater</term>
+          <term n="1" key="bayreuth-1912" type="eintrag">Bayreuth (1912)</term>
+        </keywords>
+        <classCode scheme="drupal-type">bibliographie</classCode>
+        <keywords scheme="bibliografie_type">
+          <term>Schriften für das Theater</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2010-12-30T13:48:23+00:00" type="created">angelegt in Drupal</change>
+      <change when="2012-12-19T20:15:01+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="intro">
+        <head>Einleitung</head>
+        <p>Zwei Aufenthalte in Bayreuth nutzt Bahr für die Auseinandersetzung mit dem Werk Wagners. Im ersten Aufenthalt im Sommer 1911 zeichnet er ein Stimmungsbild. Das Evozierte ist vielschichtig, nicht zuletzt durch den <hi rend="italic">intimen Blick</hi>, den die gemeinsame Verfasserschaft mit seiner Frau Anna Bahr-Mildenburg nahelegt: Ein Ehepaar, das sich auch künstlerisch trifft. Denn obwohl es die einzige Ko-Produktion bleiben wird, verraten die Erstdrucke doch, dass die beiden in den gleichen Journalen veröffentlichen. Eine weitere Eigenheit des Buches bildet die enge Verknüpfung der Bahrs mit dem lokalen Establishment: Sei es durch die Verwertung des ersten Texts in Niehrenheims Bayreuth-Führer, oder durch den Umstand, dass Anna Mildenburg Teil des Ensembles ist. (Illustrieren lässt sich das schön mit dem Foto der beiden, das Bahrs Text in der Kölnischen Theaterrundschau beigegeben ist.) Im Gegensatz dazu dient Bahr der Aufenthalt im folgenden Jahr für eine politische Kampagne, die Bayreuth das Aufführungsmonopol am "Parsifal" sichern soll. Das Buch "Bayreuth" ist noch vor den "politischen" Texten fertiggestellt, es erscheint im November 1911, auf 1912 vordatiert, und enthält auch drei Texte von Anna Bahr-Mildenburg. Weitere Hinweise zu Texten Anna Bahr-Mildenburgs in Karin Martensens Eintrag auf <ref target="http://mugi.hfmt-hamburg.de/A_lexartikel/lexartikel.php?id=bahr1872">MUGI</ref>, Musik und Gender im Internet.</p>
+      </div>
+      <div xml:id="bib">
+        <head>Bibliografie</head>
+        <table type="bibliografie">
+          <row>
+            <cell>Autor:</cell>
+            <cell>Anna Bahr-Mildenburg und Hermann Bahr</cell>
+          </row>
+          <row>
+            <cell>Titel:</cell>
+            <cell>Bayreuth</cell>
+          </row>
+          <row>
+            <cell>Ort:</cell>
+            <cell>Leipzig</cell>
+          </row>
+          <row>
+            <cell>Verlag:</cell>
+            <cell>E. Rowohlt</cell>
+          </row>
+          <row>
+            <cell>Jahr:</cell>
+            <cell>1912</cell>
+          </row>
+          <row>
+            <cell>Seiten:</cell>
+            <cell>114 [49-114]</cell>
+          </row>
+          <row>
+            <cell>Aufl.:</cell>
+            <cell>3. Aufl. 1912 4. Aufl. 1913</cell>
+          </row>
+          <row>
+            <cell>Übers.:</cell>
+            <cell>Englisch: Bayreuth and the Wagner Theatre. Transl. by T. W. Makepeace. London: Fisher Unwin 1913.</cell>
+          </row>
+          <row>
+            <cell>Anm.:</cell>
+            <cell>Erschienen 1911, vordatiert auf 1912. Die Aufsätze 4 bis 9 stammen von Hermann Bahr, die davor von Anna Mildenburg.</cell>
+          </row>
+        </table>
+      </div>
+      <div xml:id="erstdrucke">
+        <head>Erstdrucke</head>
+        <table>
+          <row>
+            <cell>
+              <hi rend="bold">Mildenburg</hi>
+            </cell>
+            <cell>7-28</cell>
+            <cell><hi rend="bold">Cosima Wagner.</hi><lb/>Neue Freie Presse, (1911) #16804, Morgenblatt, 15-16. (4.6.1911)</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>29-41</cell>
+            <cell><hi rend="bold">Probenzeit in Bayreuth</hi><lb/>Berliner Tageblatt, 40 (1911) #346, Abend-Ausgabe, 1-2. (10.7.1911)</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>43-48</cell>
+            <cell><hi rend="bold">Kapellmeister Müller</hi><lb/>Der Merker, 2 (1911) #20 (2. Juli-Heft), 840-841.</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="bold">Bahr</hi>
+            </cell>
+            <cell>49-62</cell>
+            <cell><hi rend="bold">Bayreuther Stimmung. </hi><lb/>Neue Freie Presse, (1909) #16153, Morgenblatt, 1-3. (10.8.1909)<lb/>Wegweiser für Besucher der Bayreuther Festspiele 1911, 119-124</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>63-72</cell>
+            <cell><hi rend="bold">Das Bayreuther Gespräch. </hi><lb/>Berliner Tageblatt, 38 (1909) #410, Abend-Ausgabe, 1-2. (14.8.1909)<lb/>Kölnische Theater-Rundschau, 2 (1912) #39, 8-11. (17.8.1912)</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>73-83</cell>
+            <cell><hi rend="bold">Das Wunder von Bayreuth. </hi><lb/>Als "Das Wunder von Baireuth" in: Berliner Tageblatt, 38 (1909) #378, Abend-Ausgabe, 1-2. (28.7.1909)</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>85-96</cell>
+            <cell><hi rend="bold">Die Meistersinger. </hi><lb/>Als "Die "Meistersinger" in Bayreuth" in: Neue Freie Presse, (1911) #16854, Morgenblatt, 1-2. (25.7.1911)</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>97-101</cell>
+            <cell><hi rend="bold">Snöbl gegen Wagner. </hi><lb/>Der Merker, 2 (1911) #20 (2. Juli-Heft), 823.</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>103-114</cell>
+            <cell><hi rend="bold">Bayreuth. </hi><lb/>Berliner Tageblatt, 40 (1911) #396, Morgen-Ausgabe, 1. Beilage, 5-6. (6.8.1911)<lb/>Die Heimstatt, 2 (1911) #8, 116-117. (15.8.1911)</cell>
+          </row>
+        </table>
+        <p>
+          <hi rend="small">Alle Texte verifiziert, Oktober 2010</hi>
+        </p>
+      </div>
+      <div xml:id="rezens">
+        <head>Rezensionen</head>
+        <p>Die früheste Besprechung im Archiv stammt aus dem Neuen Wiener Tagblatt, 16.11.1911. Kr. in: Wiener Zeitung, (1911) #281, 11. (8.12.1911) Neues Wiener Journal, 20 (1912) #6743, 10. (2.8.1912) H. B. in: Janus, 1 (1912) #25, 597-598. (1.9.1912)</p>
+      </div>
+      <div xml:id="inhaltsvz">
+        <head>Inhaltsverzeichnis</head>
+        <table>
+          <row>
+            <cell role="label">AutorIn</cell>
+            <cell role="label">Seiten</cell>
+            <cell role="label">Inhalt</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="italic">Anna Bahr-Mildenburg</hi>
+            </cell>
+            <cell>7-28</cell>
+            <cell>Cosima Wagner</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="italic">Anna Bahr-Mildenburg</hi>
+            </cell>
+            <cell>29-41</cell>
+            <cell>Probenzeit in Bayreuth</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="italic">Anna Bahr-Mildenburg</hi>
+            </cell>
+            <cell>43-48</cell>
+            <cell>Kapellmeister Müller</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="italic">Hermann Bahr</hi>
+            </cell>
+            <cell>49-62</cell>
+            <cell>
+              <hi rend="bold">Bayreuther Stimmung.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="italic">Hermann Bahr</hi>
+            </cell>
+            <cell>63-72</cell>
+            <cell>
+              <hi rend="bold">Das Bayreuther Gespräch.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="italic">Hermann Bahr</hi>
+            </cell>
+            <cell>73-83</cell>
+            <cell>
+              <hi rend="bold">Das Wunder von Bayreuth.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="italic">Hermann Bahr</hi>
+            </cell>
+            <cell>85-96</cell>
+            <cell>
+              <hi rend="bold">Die Meistersinger.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="italic">Hermann Bahr</hi>
+            </cell>
+            <cell>97-101</cell>
+            <cell>
+              <hi rend="bold">Snöbl gegen Wagner.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="italic">Hermann Bahr</hi>
+            </cell>
+            <cell>103-114</cell>
+            <cell>
+              <hi rend="bold">Bayreuth.</hi>
+            </cell>
+          </row>
+        </table>
+      </div>
+      <div>
+        <head>Digitalisate</head>
+        <p><ref target="http://archive.org/details/bayreuth00bahrgoog">archive.org</ref> <ref target="http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=107">ÖNB-Anno</ref></p>
+      </div>
+    </body>
+  </text>
+</TEI>

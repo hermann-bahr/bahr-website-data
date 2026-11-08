@@ -1,0 +1,109 @@
+{
+  "type": "node--image",
+  "id": "0cbfe53e-8c05-4517-bece-1d5c0c12c371",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/image/0cbfe53e-8c05-4517-bece-1d5c0c12c371?resourceVersion=id%3A3960"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/image/0cbfe53e-8c05-4517-bece-1d5c0c12c371?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28265,
+    "drupal_internal__vid": 3960,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:44:08+00:00",
+    "status": true,
+    "title": "1910 Mit Anna Bahr-Mildenburg",
+    "created": "2010-11-18T21:47:09+00:00",
+    "changed": "2010-11-18T21:51:29+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/bild/28265",
+      "pid": 397,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Berühmtheiten aus der Musikwelt in Baireuth<br /><i>Die Woche,  1910, #33, 1381.</i>",
+      "format": "full_html",
+      "processed": "Berühmtheiten aus der Musikwelt in Baireuth<br><i>Die Woche,  1910, #33, 1381.</i>",
+      "summary": null
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "e2381624-d098-4c5b-bdd7-5dbfd773b84e",
+        "meta": {
+          "drupal_internal__target_id": "image"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/0cbfe53e-8c05-4517-bece-1d5c0c12c371/node_type?resourceVersion=id%3A3960"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/0cbfe53e-8c05-4517-bece-1d5c0c12c371/relationships/node_type?resourceVersion=id%3A3960"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/0cbfe53e-8c05-4517-bece-1d5c0c12c371/revision_uid?resourceVersion=id%3A3960"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/0cbfe53e-8c05-4517-bece-1d5c0c12c371/relationships/revision_uid?resourceVersion=id%3A3960"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/0cbfe53e-8c05-4517-bece-1d5c0c12c371/uid?resourceVersion=id%3A3960"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/0cbfe53e-8c05-4517-bece-1d5c0c12c371/relationships/uid?resourceVersion=id%3A3960"
+        }
+      }
+    },
+    "field_images": {
+      "data": [
+        {
+          "type": "media--image",
+          "id": "5f995900-e950-4cef-90b3-b3e14bac7f1c",
+          "meta": {
+            "drupal_internal__target_id": 139
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/0cbfe53e-8c05-4517-bece-1d5c0c12c371/field_images?resourceVersion=id%3A3960"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/0cbfe53e-8c05-4517-bece-1d5c0c12c371/relationships/field_images?resourceVersion=id%3A3960"
+        }
+      }
+    }
+  }
+}

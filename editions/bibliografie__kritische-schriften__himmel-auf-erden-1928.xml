@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bibliografie__kritische-schriften__himmel-auf-erden-1928" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Himmel auf Erden (1928)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">38731</idno>
+        <idno type="drupal-alias">/bibliografie/38731</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bibliografie/38731">https://bahr.univie.ac.at/bibliografie/38731</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+        <bibl type="beschriebene-ausgabe">
+          <author>Hermann Bahr</author>
+          <title type="main">Himmel auf Erden</title>
+          <title type="sub">Ein Zwiegespräch. Mit 13 Illustrationen</title>
+          <pubPlace>München</pubPlace>
+          <publisher>Ars Sacra</publisher>
+          <series>
+            <title level="s">Kleine Bücher für besinnliche Menschen, 1</title>
+          </series>
+          <date>1928</date>
+          <extent>45</extent>
+          <note>Vordatiert auf 1928. Am 23. August 1927 wurde dem Verlag von Vik. Gen. abs. C. Degenbeck mitgeteilt, dass es von kirchlicher Seite keine offiziell anzuführende Druckerlaubnis gäbe, aber vom theologischen Standpunkt auch nichts gegen eine Veröffentlichung spräche.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="1" key="bibliografie">Bibliografie</term>
+          <term n="4" key="kritische-schriften">Kritische Schriften</term>
+          <term n="9" key="himmel-auf-erden-1928" type="eintrag">Himmel auf Erden (1928)</term>
+        </keywords>
+        <classCode scheme="drupal-type">bibliographie</classCode>
+        <keywords scheme="bibliografie_type">
+          <term>Kritische Schriften</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2011-01-19T12:08:42+00:00" type="created">angelegt in Drupal</change>
+      <change when="2011-11-21T15:37:51+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="bib">
+        <head>Bibliografie</head>
+        <table type="bibliografie">
+          <row>
+            <cell>Autor:</cell>
+            <cell>Hermann Bahr</cell>
+          </row>
+          <row>
+            <cell>Titel:</cell>
+            <cell>Himmel auf Erden</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>Ein Zwiegespräch. Mit 13 Illustrationen</cell>
+          </row>
+          <row>
+            <cell>Ort:</cell>
+            <cell>München</cell>
+          </row>
+          <row>
+            <cell>Verlag:</cell>
+            <cell>Ars Sacra</cell>
+          </row>
+          <row>
+            <cell>Reihe:</cell>
+            <cell>Kleine Bücher für besinnliche Menschen, 1</cell>
+          </row>
+          <row>
+            <cell>Jahr:</cell>
+            <cell>1928</cell>
+          </row>
+          <row>
+            <cell>Seiten:</cell>
+            <cell>45</cell>
+          </row>
+          <row>
+            <cell>Anm.:</cell>
+            <cell>Vordatiert auf 1928. Am 23. August 1927 wurde dem Verlag von Vik. Gen. abs. C. Degenbeck mitgeteilt, dass es von kirchlicher Seite keine offiziell anzuführende Druckerlaubnis gäbe, aber vom theologischen Standpunkt auch nichts gegen eine Veröffentlichung spräche.</cell>
+          </row>
+        </table>
+      </div>
+      <div xml:id="rezens">
+        <head>Rezensionen</head>
+        <p>Im Archiv aufbewahrte Besprechungen ab dem 30.11.1927<lb/>Müchner Telegramm-Zeitung, 6 (1927) #237, 2. (9.12.1927)</p>
+      </div>
+      <div xml:id="digit">
+        <head>Digitalisate</head>
+        <p><hi rend="italic">Faksimile der Erstausgabe:</hi> <ref target="http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=103">ÖNB-ANNO</ref></p>
+      </div>
+    </body>
+  </text>
+</TEI>

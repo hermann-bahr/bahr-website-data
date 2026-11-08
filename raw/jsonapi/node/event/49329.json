@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "b9946e74-87b8-4e00-b562-e410d3a3ca94",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b9946e74-87b8-4e00-b562-e410d3a3ca94?resourceVersion=id%3A3176"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b9946e74-87b8-4e00-b562-e410d3a3ca94?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49329,
+    "drupal_internal__vid": 3176,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Duse",
+    "created": "2011-10-10T15:03:43+00:00",
+    "changed": "2011-10-10T15:03:43+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49329",
+      "pid": 1155,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 27. und am 28. Oktober 1904 soll Eleonora Duse noch zweimal auf der Durchreise von Budapest nach Berlin im Theater an der Wien auftreten.[1] Die erste Vorstellung wird aber wegen Erkältung abgesagt.[2] Bahr bespricht folglich nur \"Hedda Gabler\".",
+      "format": "full_html",
+      "processed": "Am 27. und am 28. Oktober 1904 soll Eleonora Duse noch zweimal auf der Durchreise von Budapest nach Berlin im Theater an der Wien auftreten.[1] Die erste Vorstellung wird aber wegen Erkältung abgesagt.[2] Bahr bespricht folglich nur \"Hedda Gabler\".",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1904-10-27",
+      "end_value": "1904-10-28"
+    },
+    "field_sources": [
+      "[1] Neues Wiener Tagblatt, 38 (1904) #289, 10. (18.10.1904)",
+      "[2] Neues Wiener Tagblatt, 38 (1904) #298, 10. (27.10.1904)",
+      "H. B.: Theater, Kunst und Literatur. Theater an der Wien. Neues Wiener Tagblatt, 38 (1904) #300, 11. (29.10.1904)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b9946e74-87b8-4e00-b562-e410d3a3ca94/node_type?resourceVersion=id%3A3176"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b9946e74-87b8-4e00-b562-e410d3a3ca94/relationships/node_type?resourceVersion=id%3A3176"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b9946e74-87b8-4e00-b562-e410d3a3ca94/revision_uid?resourceVersion=id%3A3176"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b9946e74-87b8-4e00-b562-e410d3a3ca94/relationships/revision_uid?resourceVersion=id%3A3176"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b9946e74-87b8-4e00-b562-e410d3a3ca94/uid?resourceVersion=id%3A3176"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b9946e74-87b8-4e00-b562-e410d3a3ca94/relationships/uid?resourceVersion=id%3A3176"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b9946e74-87b8-4e00-b562-e410d3a3ca94/field_event_type?resourceVersion=id%3A3176"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b9946e74-87b8-4e00-b562-e410d3a3ca94/relationships/field_event_type?resourceVersion=id%3A3176"
+        }
+      }
+    }
+  }
+}

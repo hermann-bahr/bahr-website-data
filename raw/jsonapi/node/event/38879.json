@@ -1,0 +1,114 @@
+{
+  "type": "node--event",
+  "id": "cf1271c4-8be8-4c70-b271-7ab422371ef9",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/cf1271c4-8be8-4c70-b271-7ab422371ef9?resourceVersion=id%3A2689"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/cf1271c4-8be8-4c70-b271-7ab422371ef9?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38879,
+    "drupal_internal__vid": 2689,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Leo Berg",
+    "created": "2011-02-22T12:31:11+00:00",
+    "changed": "2011-02-22T12:31:11+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38879",
+      "pid": 622,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 18. Mai 1890 bedauert Bahr, dass er Leo Berg verpasst hätte.\r\n<i>Brief an Leo Berg in: Im Netzwerk der Moderne, 150.",
+      "format": "full_html",
+      "processed": "Am 18. Mai 1890 bedauert Bahr, dass er Leo Berg verpasst hätte.\n<i>Brief an Leo Berg in: Im Netzwerk der Moderne, 150.</i>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1890-05-18",
+      "end_value": "1890-05-18"
+    },
+    "field_sources": []
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cf1271c4-8be8-4c70-b271-7ab422371ef9/node_type?resourceVersion=id%3A2689"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cf1271c4-8be8-4c70-b271-7ab422371ef9/relationships/node_type?resourceVersion=id%3A2689"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cf1271c4-8be8-4c70-b271-7ab422371ef9/revision_uid?resourceVersion=id%3A2689"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cf1271c4-8be8-4c70-b271-7ab422371ef9/relationships/revision_uid?resourceVersion=id%3A2689"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cf1271c4-8be8-4c70-b271-7ab422371ef9/uid?resourceVersion=id%3A2689"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cf1271c4-8be8-4c70-b271-7ab422371ef9/relationships/uid?resourceVersion=id%3A2689"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cf1271c4-8be8-4c70-b271-7ab422371ef9/field_event_type?resourceVersion=id%3A2689"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cf1271c4-8be8-4c70-b271-7ab422371ef9/relationships/field_event_type?resourceVersion=id%3A2689"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "2d5d2504-5002-4861-a961-253cd06fa21f",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/2d5d2504-5002-4861-a961-253cd06fa21f?resourceVersion=id%3A2816"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/2d5d2504-5002-4861-a961-253cd06fa21f?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39041,
+    "drupal_internal__vid": 2816,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Berlin",
+    "created": "2011-04-11T09:15:50+00:00",
+    "changed": "2013-03-01T11:28:44+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39041",
+      "pid": 773,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 22. Jänner 1916 langt Bahr in Berlin an, wo er in den kommenden Tagen mehrfach Hugo von Hofmannsthal begegnet und kurze Reisen unternimmt (u.a. nach Breslau und Danzig). Am Abend des 9. Februar reist er nach Augsburg.",
+      "format": "full_html",
+      "processed": "Am 22. Jänner 1916 langt Bahr in Berlin an, wo er in den kommenden Tagen mehrfach Hugo von Hofmannsthal begegnet und kurze Reisen unternimmt (u.a. nach Breslau und Danzig). Am Abend des 9. Februar reist er nach Augsburg.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1916-01-22",
+      "end_value": "1916-02-09"
+    },
+    "field_sources": [
+      "Bahr/Redlich, 152. (9.2.1916)",
+      "Bahr/Kvapil, 188-191, 390.",
+      "Vgl. Tagebücher (Csàky), V, 83: Berlin Breslau 4.2.16"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2d5d2504-5002-4861-a961-253cd06fa21f/node_type?resourceVersion=id%3A2816"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2d5d2504-5002-4861-a961-253cd06fa21f/relationships/node_type?resourceVersion=id%3A2816"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2d5d2504-5002-4861-a961-253cd06fa21f/revision_uid?resourceVersion=id%3A2816"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2d5d2504-5002-4861-a961-253cd06fa21f/relationships/revision_uid?resourceVersion=id%3A2816"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2d5d2504-5002-4861-a961-253cd06fa21f/uid?resourceVersion=id%3A2816"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2d5d2504-5002-4861-a961-253cd06fa21f/relationships/uid?resourceVersion=id%3A2816"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2d5d2504-5002-4861-a961-253cd06fa21f/field_event_type?resourceVersion=id%3A2816"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2d5d2504-5002-4861-a961-253cd06fa21f/relationships/field_event_type?resourceVersion=id%3A2816"
+        }
+      }
+    }
+  }
+}

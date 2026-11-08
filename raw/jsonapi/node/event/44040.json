@@ -1,0 +1,119 @@
+{
+  "type": "node--event",
+  "id": "40fe5d2d-db3f-4dc9-8cf3-8b244c2483c9",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/40fe5d2d-db3f-4dc9-8cf3-8b244c2483c9?resourceVersion=id%3A2960"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/40fe5d2d-db3f-4dc9-8cf3-8b244c2483c9?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44040,
+    "drupal_internal__vid": 2960,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Edlach",
+    "created": "2011-08-30T12:49:50+00:00",
+    "changed": "2011-09-12T10:28:36+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44040",
+      "pid": 938,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahr fährt vom 18. bis zum 25. Mai 1903 zur Kur in die Anstalt Dr. Konried in Edlach.",
+      "format": "full_html",
+      "processed": "Bahr fährt vom 18. bis zum 25. Mai 1903 zur Kur in die Anstalt Dr. Konried in Edlach.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1903-05-18",
+      "end_value": "1903-05-25"
+    },
+    "field_sources": [
+      "Tagebücher (Csàky), III, 311-312.",
+      "Briefwechsel mit Redlich, 14. ",
+      "An Gertrud Eysoldt, 25.5.1903, in Abschrift im Nachlass Bahrs",
+      "Hermann Bahr: Erdulin. Neues Wiener Tagblatt, 37 (1903) #161, 1-2. (13.6.1903)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/40fe5d2d-db3f-4dc9-8cf3-8b244c2483c9/node_type?resourceVersion=id%3A2960"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/40fe5d2d-db3f-4dc9-8cf3-8b244c2483c9/relationships/node_type?resourceVersion=id%3A2960"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/40fe5d2d-db3f-4dc9-8cf3-8b244c2483c9/revision_uid?resourceVersion=id%3A2960"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/40fe5d2d-db3f-4dc9-8cf3-8b244c2483c9/relationships/revision_uid?resourceVersion=id%3A2960"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/40fe5d2d-db3f-4dc9-8cf3-8b244c2483c9/uid?resourceVersion=id%3A2960"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/40fe5d2d-db3f-4dc9-8cf3-8b244c2483c9/relationships/uid?resourceVersion=id%3A2960"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/40fe5d2d-db3f-4dc9-8cf3-8b244c2483c9/field_event_type?resourceVersion=id%3A2960"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/40fe5d2d-db3f-4dc9-8cf3-8b244c2483c9/relationships/field_event_type?resourceVersion=id%3A2960"
+        }
+      }
+    }
+  }
+}

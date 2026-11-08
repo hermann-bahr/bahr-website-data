@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "da49f821-00ed-47bf-a85e-656240bfa64d",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/da49f821-00ed-47bf-a85e-656240bfa64d?resourceVersion=id%3A2852"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/da49f821-00ed-47bf-a85e-656240bfa64d?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39078,
+    "drupal_internal__vid": 2852,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Mit Hofmannsthals",
+    "created": "2011-05-05T21:23:21+00:00",
+    "changed": "2012-10-29T09:59:18+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39078",
+      "pid": 809,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 24. Juli [1901] schreibt er seiner Mutter:\r\n<blockquote>Wir sind viel bei Hofmannsthals, welche, in Rodaun ein entzückendes altes Haus bewohnend, sozusagen unsere nächsten Nachbarn sind. Für mich ist, dass sich gerade diese zwei Leute, die ich so gern habe, geheiratet haben, eine Quelle der reinsten und herzlichsten Freude.</blockquote>",
+      "format": "full_html",
+      "processed": "Am 24. Juli [1901] schreibt er seiner Mutter:\n<blockquote>Wir sind viel bei Hofmannsthals, welche, in Rodaun ein entzückendes altes Haus bewohnend, sozusagen unsere nächsten Nachbarn sind. Für mich ist, dass sich gerade diese zwei Leute, die ich so gern habe, geheiratet haben, eine Quelle der reinsten und herzlichsten Freude.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1901-07-24",
+      "end_value": "1901-07-24"
+    },
+    "field_sources": [
+      "Vgl. Briefwechsel Bahr/Hofmannsthal. Hg. Elsbeth Dangel-Pelloquin. Göttingen: Wallstein. (In Vorbereitung), Sommer 1901"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/da49f821-00ed-47bf-a85e-656240bfa64d/node_type?resourceVersion=id%3A2852"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/da49f821-00ed-47bf-a85e-656240bfa64d/relationships/node_type?resourceVersion=id%3A2852"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/da49f821-00ed-47bf-a85e-656240bfa64d/revision_uid?resourceVersion=id%3A2852"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/da49f821-00ed-47bf-a85e-656240bfa64d/relationships/revision_uid?resourceVersion=id%3A2852"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/da49f821-00ed-47bf-a85e-656240bfa64d/uid?resourceVersion=id%3A2852"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/da49f821-00ed-47bf-a85e-656240bfa64d/relationships/uid?resourceVersion=id%3A2852"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/da49f821-00ed-47bf-a85e-656240bfa64d/field_event_type?resourceVersion=id%3A2852"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/da49f821-00ed-47bf-a85e-656240bfa64d/relationships/field_event_type?resourceVersion=id%3A2852"
+        }
+      }
+    }
+  }
+}

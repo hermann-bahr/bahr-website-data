@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "68a642a9-810e-4680-bff8-4bf73658fa48",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/68a642a9-810e-4680-bff8-4bf73658fa48?resourceVersion=id%3A2930"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/68a642a9-810e-4680-bff8-4bf73658fa48?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44004,
+    "drupal_internal__vid": 2930,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Gaea-Gesellschaft",
+    "created": "2011-07-13T15:33:24+00:00",
+    "changed": "2011-07-13T15:42:15+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44004",
+      "pid": 903,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Im Februar 1896 wurde Bahr Führer der Gaea-Gesellschaft, die für Inszenierung und Verbreitung von Adalbert von Goldschmidts \"Opern-Oratorien-Trilogie\" eintrat. Bahr inszenierte diese 1897 in München und plante sie noch 1898 in Hamburg, von wo aus eine Welttournee hätte starten sollen. ",
+      "format": "full_html",
+      "processed": "Im Februar 1896 wurde Bahr Führer der Gaea-Gesellschaft, die für Inszenierung und Verbreitung von Adalbert von Goldschmidts \"Opern-Oratorien-Trilogie\" eintrat. Bahr inszenierte diese 1897 in München und plante sie noch 1898 in Hamburg, von wo aus eine Welttournee hätte starten sollen. ",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1896-02-01",
+      "end_value": "1896-02-01"
+    },
+    "field_sources": [
+      "Tagebuch (Csàky), II, XXI-XXII.",
+      "Cf. 26. November 1897."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/68a642a9-810e-4680-bff8-4bf73658fa48/node_type?resourceVersion=id%3A2930"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/68a642a9-810e-4680-bff8-4bf73658fa48/relationships/node_type?resourceVersion=id%3A2930"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/68a642a9-810e-4680-bff8-4bf73658fa48/revision_uid?resourceVersion=id%3A2930"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/68a642a9-810e-4680-bff8-4bf73658fa48/relationships/revision_uid?resourceVersion=id%3A2930"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/68a642a9-810e-4680-bff8-4bf73658fa48/uid?resourceVersion=id%3A2930"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/68a642a9-810e-4680-bff8-4bf73658fa48/relationships/uid?resourceVersion=id%3A2930"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/68a642a9-810e-4680-bff8-4bf73658fa48/field_event_type?resourceVersion=id%3A2930"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/68a642a9-810e-4680-bff8-4bf73658fa48/relationships/field_event_type?resourceVersion=id%3A2930"
+        }
+      }
+    }
+  }
+}

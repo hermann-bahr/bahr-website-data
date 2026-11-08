@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="forschung__forschungsnotizen__was-blinde-lasen-eine-statistik-fuer-1910" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Was Blinde lasen. Eine Statistik für 1910</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">17879</idno>
+        <idno type="drupal-alias">/article/17879</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/article/17879">https://bahr.univie.ac.at/article/17879</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="6" key="forschung">Forschung</term>
+          <term n="4" key="forschungsnotizen">Forschungsnotizen</term>
+          <term n="21" key="was-blinde-lasen-eine-statistik-fuer-1910" type="eintrag">Was Blinde lasen. Eine Statistik für 1910</term>
+        </keywords>
+        <classCode scheme="drupal-type">article</classCode>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2010-02-07T14:38:48+00:00" type="created">angelegt in Drupal</change>
+      <change when="2010-03-26T13:49:55+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Die Wiener Zeitung veröffentlichte am 27. Jänner 1911 eine Statistik der Entlehnungen des abgelaufenen Jahres in der "Leihbibliothek für Blinde" im "Blinden-Erziehungsinstitut im Prater". Die Bibliothek zählt nahezu 8000 Bände, durch freiwillige Helfer kommen im Jahr 400 Bände dazu 2377 Werke mit 6207 Bänden wurden ausgeliehen, eine Steigerung um 1500 gegenüber dem Vorjahr</p>
+        <table>
+          <row>
+            <cell role="label">Name</cell>
+            <cell role="label">Was nachgefragt wird</cell>
+            <cell role="label">Wieviele Bände entliehen wurden</cell>
+          </row>
+          <row>
+            <cell>Anzengruber</cell>
+            <cell>47</cell>
+          </row>
+          <row>
+            <cell>Ganghofer</cell>
+            <cell>35</cell>
+            <cell>251</cell>
+          </row>
+          <row>
+            <cell>Dahn</cell>
+            <cell>33</cell>
+            <cell>263</cell>
+          </row>
+          <row>
+            <cell>Schiller</cell>
+            <cell>33</cell>
+            <cell>über 100</cell>
+          </row>
+          <row>
+            <cell>Heyse</cell>
+            <cell>29</cell>
+          </row>
+          <row>
+            <cell>Grillparzer</cell>
+            <cell>25</cell>
+          </row>
+          <row>
+            <cell>Frenssen</cell>
+            <cell>25</cell>
+            <cell>über 100</cell>
+          </row>
+          <row>
+            <cell>Ibsen</cell>
+            <cell>23</cell>
+          </row>
+          <row>
+            <cell>Goethe</cell>
+            <cell>22</cell>
+          </row>
+          <row>
+            <cell>Hesse</cell>
+            <cell>22</cell>
+          </row>
+          <row>
+            <cell>Wildenbruch</cell>
+            <cell>22</cell>
+          </row>
+          <row>
+            <cell>Freytag</cell>
+            <cell/>
+            <cell>153</cell>
+          </row>
+          <row>
+            <cell>Wolff</cell>
+            <cell/>
+            <cell>über 100</cell>
+          </row>
+          <row>
+            <cell>Ebner-Eschenbach</cell>
+            <cell/>
+            <cell>18</cell>
+          </row>
+          <row>
+            <cell>Rosegger</cell>
+            <cell/>
+            <cell>16</cell>
+          </row>
+          <row>
+            <cell>Hauptmann</cell>
+            <cell/>
+            <cell>14</cell>
+          </row>
+          <row>
+            <cell>Bartsch</cell>
+            <cell/>
+            <cell>12</cell>
+          </row>
+          <row>
+            <cell>Frenssen</cell>
+            <cell/>
+            <cell>12</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="bold">Bahr</hi>
+            </cell>
+            <cell/>
+            <cell>
+              <hi rend="bold">6</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>Schönherr</cell>
+            <cell/>
+            <cell>6</cell>
+          </row>
+          <row>
+            <cell>Rostand</cell>
+            <cell/>
+            <cell>5</cell>
+          </row>
+          <row>
+            <cell>delle Grazie</cell>
+            <cell/>
+            <cell>5</cell>
+          </row>
+          <row>
+            <cell>Hofmannsthal</cell>
+            <cell/>
+            <cell>2</cell>
+          </row>
+          <row>
+            <cell>Schnitzler</cell>
+            <cell/>
+            <cell>2</cell>
+          </row>
+          <row>
+            <cell>Tolstoi</cell>
+            <cell/>
+            <cell>2</cell>
+          </row>
+          <row>
+            <cell>Lagerlöf</cell>
+            <cell/>
+            <cell>1</cell>
+          </row>
+          <row>
+            <cell>Fulda</cell>
+            <cell/>
+            <cell>1</cell>
+          </row>
+        </table>
+        <p>Eine Unklarheit der Statistik dürfte in der Verwechslung eines Autornamens bestehen: Frenssen taucht zweimal auf, einmal in der ab Ebner-Eschenbach beginnenden Liste mit "modernen Autoren".</p>
+      </div>
+    </body>
+  </text>
+</TEI>

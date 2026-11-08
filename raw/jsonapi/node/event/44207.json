@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "23a4b1b0-37e1-424f-bfac-c45457f1c2df",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/23a4b1b0-37e1-424f-bfac-c45457f1c2df?resourceVersion=id%3A3121"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/23a4b1b0-37e1-424f-bfac-c45457f1c2df?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44207,
+    "drupal_internal__vid": 3121,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Coquelin cadet",
+    "created": "2011-09-20T14:14:37+00:00",
+    "changed": "2011-09-20T14:15:08+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44207",
+      "pid": 1100,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Wenige Tage nach seinem älteren Bruder gastiert am 25. und 26. November 1903 Coquelin cadet im Jantsch-Theater. Bahr berichtet.",
+      "format": "full_html",
+      "processed": "Wenige Tage nach seinem älteren Bruder gastiert am 25. und 26. November 1903 Coquelin cadet im Jantsch-Theater. Bahr berichtet.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1903-11-25",
+      "end_value": "1903-11-26"
+    },
+    "field_sources": [
+      "H. B.: Theater, Kunst und Literatur. Jantsch-Theater. Neues Wiener Tagblatt, 37 (1903) #325, 10-11. (26.11.1903)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/23a4b1b0-37e1-424f-bfac-c45457f1c2df/node_type?resourceVersion=id%3A3121"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/23a4b1b0-37e1-424f-bfac-c45457f1c2df/relationships/node_type?resourceVersion=id%3A3121"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/23a4b1b0-37e1-424f-bfac-c45457f1c2df/revision_uid?resourceVersion=id%3A3121"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/23a4b1b0-37e1-424f-bfac-c45457f1c2df/relationships/revision_uid?resourceVersion=id%3A3121"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/23a4b1b0-37e1-424f-bfac-c45457f1c2df/uid?resourceVersion=id%3A3121"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/23a4b1b0-37e1-424f-bfac-c45457f1c2df/relationships/uid?resourceVersion=id%3A3121"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/23a4b1b0-37e1-424f-bfac-c45457f1c2df/field_event_type?resourceVersion=id%3A3121"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/23a4b1b0-37e1-424f-bfac-c45457f1c2df/relationships/field_event_type?resourceVersion=id%3A3121"
+        }
+      }
+    }
+  }
+}

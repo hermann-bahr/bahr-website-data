@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "1137e2c5-79a0-4309-b043-2679e825eeb1",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/1137e2c5-79a0-4309-b043-2679e825eeb1?resourceVersion=id%3A3335"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/1137e2c5-79a0-4309-b043-2679e825eeb1?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49501,
+    "drupal_internal__vid": 3335,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Ernüchterung",
+    "created": "2011-10-27T08:37:38+00:00",
+    "changed": "2012-11-29T15:14:17+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49501",
+      "pid": 1319,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Nach einem Besuch Bahrs notiert sich Redlich am 20. Oktober 1920 ins Tagebuch:<blockquote>Nachmittag Bahr bei mir. Sein Verhältnis zu Andrian ist so, dass er meint, er werde in acht Tagen den ganzen Burgtheater-Krempel hinwerfen! Andrian enthüllt sich als Bürokrat von reinstem Wassser, ist ganz in den Händen der Hofräte! Bahr ist darüber empört, dass man den Arbeitern statt 16 Kronen nur 7 Kronen zahlt, infolgedessen nur Krüppel beschäftigt, die jeden Augenblick mit einem Unglück auf der Bühne drohen; gestern wurde einer lebensgefährlich verletzt! Dann tobt Bahr auch dagegen, dass man Schauspielerinnen mit einer Gage von 240 Kronen monatlich beibehält, was Bahr für unmoralisch erklärt. Ich glaube, Bahr hat von der ganzen Dramaturgerei übergenug! Ich fürchte, die Sache endet mit einem Krach!</blockquote>\r\nUmgekehrt schildert Andrian seine Unzufriedenheit mit Bahr Schnitzler, der das unter \"absolutem Stillschweigen\" geführte Gespräch seinem Tagebuch anvertraut.",
+      "format": "full_html",
+      "processed": "Nach einem Besuch Bahrs notiert sich Redlich am 20. Oktober 1920 ins Tagebuch:<blockquote>Nachmittag Bahr bei mir. Sein Verhältnis zu Andrian ist so, dass er meint, er werde in acht Tagen den ganzen Burgtheater-Krempel hinwerfen! Andrian enthüllt sich als Bürokrat von reinstem Wassser, ist ganz in den Händen der Hofräte! Bahr ist darüber empört, dass man den Arbeitern statt 16 Kronen nur 7 Kronen zahlt, infolgedessen nur Krüppel beschäftigt, die jeden Augenblick mit einem Unglück auf der Bühne drohen; gestern wurde einer lebensgefährlich verletzt! Dann tobt Bahr auch dagegen, dass man Schauspielerinnen mit einer Gage von 240 Kronen monatlich beibehält, was Bahr für unmoralisch erklärt. Ich glaube, Bahr hat von der ganzen Dramaturgerei übergenug! Ich fürchte, die Sache endet mit einem Krach!</blockquote>\nUmgekehrt schildert Andrian seine Unzufriedenheit mit Bahr Schnitzler, der das unter \"absolutem Stillschweigen\" geführte Gespräch seinem Tagebuch anvertraut.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1918-10-20",
+      "end_value": "1918-10-20"
+    },
+    "field_sources": [
+      "Fritz Fellner und Doris A. Corradini (Hgg.): Schicksalsjahre Österreichs. Die Erinnerungen und Tagebücher Josef Redlichs 1869–1936. Wien: Böhlau 2011, II, 450-451.",
+      "Schnitzler: Tagebücher, VI, 193. (24.10.1918)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1137e2c5-79a0-4309-b043-2679e825eeb1/node_type?resourceVersion=id%3A3335"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1137e2c5-79a0-4309-b043-2679e825eeb1/relationships/node_type?resourceVersion=id%3A3335"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1137e2c5-79a0-4309-b043-2679e825eeb1/revision_uid?resourceVersion=id%3A3335"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1137e2c5-79a0-4309-b043-2679e825eeb1/relationships/revision_uid?resourceVersion=id%3A3335"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1137e2c5-79a0-4309-b043-2679e825eeb1/uid?resourceVersion=id%3A3335"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1137e2c5-79a0-4309-b043-2679e825eeb1/relationships/uid?resourceVersion=id%3A3335"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1137e2c5-79a0-4309-b043-2679e825eeb1/field_event_type?resourceVersion=id%3A3335"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1137e2c5-79a0-4309-b043-2679e825eeb1/relationships/field_event_type?resourceVersion=id%3A3335"
+        }
+      }
+    }
+  }
+}

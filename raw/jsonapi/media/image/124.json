@@ -1,0 +1,118 @@
+{
+  "type": "media--image",
+  "id": "b87bf0f1-fe6d-4681-b1fe-6813588470ac",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/media/image/b87bf0f1-fe6d-4681-b1fe-6813588470ac?resourceVersion=id%3A124"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/media/image/b87bf0f1-fe6d-4681-b1fe-6813588470ac?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__mid": 124,
+    "drupal_internal__vid": 124,
+    "langcode": "de",
+    "revision_created": "2020-02-18T15:16:19+00:00",
+    "status": true,
+    "name": "1912_bahr-schnitzler",
+    "created": "2020-02-18T15:16:19+00:00",
+    "changed": "2020-02-18T15:16:19+00:00",
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": null,
+      "pid": null,
+      "langcode": "de"
+    }
+  },
+  "relationships": {
+    "bundle": {
+      "data": {
+        "type": "media_type--media_type",
+        "id": "b82aabb6-e7a1-420d-b98b-5b981c2d920e",
+        "meta": {
+          "drupal_internal__target_id": "image"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/b87bf0f1-fe6d-4681-b1fe-6813588470ac/bundle?resourceVersion=id%3A124"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/b87bf0f1-fe6d-4681-b1fe-6813588470ac/relationships/bundle?resourceVersion=id%3A124"
+        }
+      }
+    },
+    "revision_user": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/b87bf0f1-fe6d-4681-b1fe-6813588470ac/revision_user?resourceVersion=id%3A124"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/b87bf0f1-fe6d-4681-b1fe-6813588470ac/relationships/revision_user?resourceVersion=id%3A124"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/b87bf0f1-fe6d-4681-b1fe-6813588470ac/uid?resourceVersion=id%3A124"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/b87bf0f1-fe6d-4681-b1fe-6813588470ac/relationships/uid?resourceVersion=id%3A124"
+        }
+      }
+    },
+    "thumbnail": {
+      "data": {
+        "type": "file--file",
+        "id": "4d31a290-fdc3-46c8-97f2-6f9b2a13772c",
+        "meta": {
+          "alt": "1912 Bahr und Schnitzler",
+          "title": null,
+          "width": 1760,
+          "height": 2332,
+          "drupal_internal__target_id": 185
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/b87bf0f1-fe6d-4681-b1fe-6813588470ac/thumbnail?resourceVersion=id%3A124"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/b87bf0f1-fe6d-4681-b1fe-6813588470ac/relationships/thumbnail?resourceVersion=id%3A124"
+        }
+      }
+    },
+    "field_media_image": {
+      "data": {
+        "type": "file--file",
+        "id": "4d31a290-fdc3-46c8-97f2-6f9b2a13772c",
+        "meta": {
+          "alt": "1912 Bahr und Schnitzler",
+          "title": "1912_bahr-schnitzler",
+          "width": 1760,
+          "height": 2332,
+          "drupal_internal__target_id": 185
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/b87bf0f1-fe6d-4681-b1fe-6813588470ac/field_media_image?resourceVersion=id%3A124"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/b87bf0f1-fe6d-4681-b1fe-6813588470ac/relationships/field_media_image?resourceVersion=id%3A124"
+        }
+      }
+    }
+  }
+}

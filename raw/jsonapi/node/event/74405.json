@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "c071e00f-81ba-40b3-853a-f839e1289f37",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/c071e00f-81ba-40b3-853a-f839e1289f37?resourceVersion=id%3A3733"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/c071e00f-81ba-40b3-853a-f839e1289f37?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74405,
+    "drupal_internal__vid": 3733,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Salzburg",
+    "created": "2012-10-23T13:39:41+00:00",
+    "changed": "2013-09-14T11:54:38+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/74405",
+      "pid": 1779,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Von 13. bis zum 16. April 1903 plant Bahr, nach Salzburg zu reisen.",
+      "format": "full_html",
+      "processed": "Von 13. bis zum 16. April 1903 plant Bahr, nach Salzburg zu reisen.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1903-04-13",
+      "end_value": "1903-04-16"
+    },
+    "field_sources": [
+      "An HvH, 9.4.1903. Briefwechsel Bahr/Hofmannsthal. Hg. Elsbeth Dangel-Pelloquin. Göttingen: Wallstein. (In Vorbereitung)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c071e00f-81ba-40b3-853a-f839e1289f37/node_type?resourceVersion=id%3A3733"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c071e00f-81ba-40b3-853a-f839e1289f37/relationships/node_type?resourceVersion=id%3A3733"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c071e00f-81ba-40b3-853a-f839e1289f37/revision_uid?resourceVersion=id%3A3733"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c071e00f-81ba-40b3-853a-f839e1289f37/relationships/revision_uid?resourceVersion=id%3A3733"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c071e00f-81ba-40b3-853a-f839e1289f37/uid?resourceVersion=id%3A3733"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c071e00f-81ba-40b3-853a-f839e1289f37/relationships/uid?resourceVersion=id%3A3733"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c071e00f-81ba-40b3-853a-f839e1289f37/field_event_type?resourceVersion=id%3A3733"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c071e00f-81ba-40b3-853a-f839e1289f37/relationships/field_event_type?resourceVersion=id%3A3733"
+        }
+      }
+    }
+  }
+}

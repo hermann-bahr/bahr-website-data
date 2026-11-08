@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "6f1175d8-1bff-4e6c-8fa4-69f339ea4869",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/6f1175d8-1bff-4e6c-8fa4-69f339ea4869?resourceVersion=id%3A2260"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/6f1175d8-1bff-4e6c-8fa4-69f339ea4869?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27915,
+    "drupal_internal__vid": 2260,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "† Otto Bahr",
+    "created": "2010-06-30T16:37:30+00:00",
+    "changed": "2013-01-08T15:09:03+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/27915",
+      "pid": 94,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Otto Bahr, drei Jahre jüngerer Bruder, stirbt am 12. Juli 1927 in Linz an einem Gehirnschlag. Er war Finanzbeamter und nach seiner Frühpensionierung Zeit seines Lebens Musikkritiker für das Linzer Volksblatt. Das Verhältnis zwischen den beiden Brüdern war zeitlebens angespannt. ",
+      "format": "full_html",
+      "processed": "Otto Bahr, drei Jahre jüngerer Bruder, stirbt am 12. Juli 1927 in Linz an einem Gehirnschlag. Er war Finanzbeamter und nach seiner Frühpensionierung Zeit seines Lebens Musikkritiker für das Linzer Volksblatt. Das Verhältnis zwischen den beiden Brüdern war zeitlebens angespannt. ",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1927-07-12",
+      "end_value": "1927-07-12"
+    },
+    "field_sources": [
+      "Richard Kutschera: Zwei Brüder – so sehr verschieden. In: Oberösterreichische Heimatblätter, 17 (1963) #1/2, 49-54.",
+      "Richard Kutschera: Ein Mann im Schatten. Dr. Otto Bahr, der Bruder des Dichters Hermann Bahr – seit 1903 Musikkritiker des \"Linzer Volksblattes\". In: Linzer Volksblatt, 1963, #173."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6f1175d8-1bff-4e6c-8fa4-69f339ea4869/node_type?resourceVersion=id%3A2260"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6f1175d8-1bff-4e6c-8fa4-69f339ea4869/relationships/node_type?resourceVersion=id%3A2260"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6f1175d8-1bff-4e6c-8fa4-69f339ea4869/revision_uid?resourceVersion=id%3A2260"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6f1175d8-1bff-4e6c-8fa4-69f339ea4869/relationships/revision_uid?resourceVersion=id%3A2260"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6f1175d8-1bff-4e6c-8fa4-69f339ea4869/uid?resourceVersion=id%3A2260"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6f1175d8-1bff-4e6c-8fa4-69f339ea4869/relationships/uid?resourceVersion=id%3A2260"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6f1175d8-1bff-4e6c-8fa4-69f339ea4869/field_event_type?resourceVersion=id%3A2260"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6f1175d8-1bff-4e6c-8fa4-69f339ea4869/relationships/field_event_type?resourceVersion=id%3A2260"
+        }
+      }
+    }
+  }
+}

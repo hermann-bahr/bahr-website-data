@@ -1,0 +1,114 @@
+{
+  "type": "node--event",
+  "id": "11e6699a-b496-45ee-b6a9-ee3208cb494e",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/11e6699a-b496-45ee-b6a9-ee3208cb494e?resourceVersion=id%3A2452"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/11e6699a-b496-45ee-b6a9-ee3208cb494e?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28133,
+    "drupal_internal__vid": 2452,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Mitherausgeber",
+    "created": "2010-08-23T14:08:42+00:00",
+    "changed": "2010-11-17T17:48:33+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28133",
+      "pid": 288,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 6. November 1893 schreibt Bahr seinem Vater, nunmehr seit einer Woche Mitherausgeber der \"Deutschen Zeitung\" zu sein, nicht aber für die Schulden zu haften. Diese Klausel war nicht nötig, im folgenden Monat endet Bahr seine Tätigkeit für das Blatt.",
+      "format": "full_html",
+      "processed": "Am 6. November 1893 schreibt Bahr seinem Vater, nunmehr seit einer Woche Mitherausgeber der \"Deutschen Zeitung\" zu sein, nicht aber für die Schulden zu haften. Diese Klausel war nicht nötig, im folgenden Monat endet Bahr seine Tätigkeit für das Blatt.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1893-11-06",
+      "end_value": "1893-11-06"
+    },
+    "field_sources": []
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/11e6699a-b496-45ee-b6a9-ee3208cb494e/node_type?resourceVersion=id%3A2452"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/11e6699a-b496-45ee-b6a9-ee3208cb494e/relationships/node_type?resourceVersion=id%3A2452"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/11e6699a-b496-45ee-b6a9-ee3208cb494e/revision_uid?resourceVersion=id%3A2452"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/11e6699a-b496-45ee-b6a9-ee3208cb494e/relationships/revision_uid?resourceVersion=id%3A2452"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/11e6699a-b496-45ee-b6a9-ee3208cb494e/uid?resourceVersion=id%3A2452"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/11e6699a-b496-45ee-b6a9-ee3208cb494e/relationships/uid?resourceVersion=id%3A2452"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "d579e54c-64dd-4193-a9ef-da87efb3ed16",
+          "meta": {
+            "drupal_internal__target_id": 8
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/11e6699a-b496-45ee-b6a9-ee3208cb494e/field_event_type?resourceVersion=id%3A2452"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/11e6699a-b496-45ee-b6a9-ee3208cb494e/relationships/field_event_type?resourceVersion=id%3A2452"
+        }
+      }
+    }
+  }
+}

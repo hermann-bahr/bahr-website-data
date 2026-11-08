@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "80c2ea08-dadd-4d28-af63-43c0d8174a20",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/80c2ea08-dadd-4d28-af63-43c0d8174a20?resourceVersion=id%3A2436"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/80c2ea08-dadd-4d28-af63-43c0d8174a20?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28115,
+    "drupal_internal__vid": 2436,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Bad Tölz",
+    "created": "2010-08-18T13:48:07+00:00",
+    "changed": "2013-02-21T10:14:18+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28115",
+      "pid": 271,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 12.4.1929 leitet Hermann Bahr sein \"Tagebuch\" im Neuen Wiener Journal damit ein, dass er gerade vom Urlaub in Bad Tölz zurückgekehrt ist.",
+      "format": "full_html",
+      "processed": "Am 12.4.1929 leitet Hermann Bahr sein \"Tagebuch\" im Neuen Wiener Journal damit ein, dass er gerade vom Urlaub in Bad Tölz zurückgekehrt ist.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1929-04-12",
+      "end_value": "1929-04-12"
+    },
+    "field_sources": [
+      "Hermann Bahr: Tagebuch. 12. April. Neues Wiener Journal, 37 (1929) #12720, 14. (21.4.1929)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/80c2ea08-dadd-4d28-af63-43c0d8174a20/node_type?resourceVersion=id%3A2436"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/80c2ea08-dadd-4d28-af63-43c0d8174a20/relationships/node_type?resourceVersion=id%3A2436"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/80c2ea08-dadd-4d28-af63-43c0d8174a20/revision_uid?resourceVersion=id%3A2436"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/80c2ea08-dadd-4d28-af63-43c0d8174a20/relationships/revision_uid?resourceVersion=id%3A2436"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/80c2ea08-dadd-4d28-af63-43c0d8174a20/uid?resourceVersion=id%3A2436"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/80c2ea08-dadd-4d28-af63-43c0d8174a20/relationships/uid?resourceVersion=id%3A2436"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/80c2ea08-dadd-4d28-af63-43c0d8174a20/field_event_type?resourceVersion=id%3A2436"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/80c2ea08-dadd-4d28-af63-43c0d8174a20/relationships/field_event_type?resourceVersion=id%3A2436"
+        }
+      }
+    }
+  }
+}

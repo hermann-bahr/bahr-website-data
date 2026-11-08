@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "fe89aaa7-1528-405f-9e6b-25df51e1371c",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/fe89aaa7-1528-405f-9e6b-25df51e1371c?resourceVersion=id%3A2304"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/fe89aaa7-1528-405f-9e6b-25df51e1371c?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27963,
+    "drupal_internal__vid": 2304,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Mensch, werde wesentlich",
+    "created": "2010-07-19T15:35:05+00:00",
+    "changed": "2011-11-03T10:24:32+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/27963",
+      "pid": 138,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Im Herbst 1933, auf 1934 vordatiert, erscheint Bahrs letztes Buch zu Lebzeiten, \"Mensch, werde wesentlich\". Selbst durch die Krankheit bereits nicht mehr in der Lage, diese Aphorismensammlung aus seinem Werk zu betreuen, schickt sich seine Frau Anna Bahr-Mildenburg in die Rolle der Herausgeberin, die sie auch nach seinem Tod einnehmen wird. Im Nachlass ist ein von Bahr mit zittriger Hand unterschriebenes Exemplar erhalten.",
+      "format": "full_html",
+      "processed": "Im Herbst 1933, auf 1934 vordatiert, erscheint Bahrs letztes Buch zu Lebzeiten, \"Mensch, werde wesentlich\". Selbst durch die Krankheit bereits nicht mehr in der Lage, diese Aphorismensammlung aus seinem Werk zu betreuen, schickt sich seine Frau Anna Bahr-Mildenburg in die Rolle der Herausgeberin, die sie auch nach seinem Tod einnehmen wird. Im Nachlass ist ein von Bahr mit zittriger Hand unterschriebenes Exemplar erhalten.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1933-12-24",
+      "end_value": "1933-12-24"
+    },
+    "field_sources": [
+      "Hermann Bahr: Mensch, werde wesentlich. Gedanken aus seinen Werken. Auswahl von Anna Bahr-Mildenburg. Anordnung von Paul Graf Thun-Hohenstein. Mit einem Vorwort von Dr. Josef Nadler. Graz: Styria, 1934."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fe89aaa7-1528-405f-9e6b-25df51e1371c/node_type?resourceVersion=id%3A2304"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fe89aaa7-1528-405f-9e6b-25df51e1371c/relationships/node_type?resourceVersion=id%3A2304"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fe89aaa7-1528-405f-9e6b-25df51e1371c/revision_uid?resourceVersion=id%3A2304"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fe89aaa7-1528-405f-9e6b-25df51e1371c/relationships/revision_uid?resourceVersion=id%3A2304"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fe89aaa7-1528-405f-9e6b-25df51e1371c/uid?resourceVersion=id%3A2304"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fe89aaa7-1528-405f-9e6b-25df51e1371c/relationships/uid?resourceVersion=id%3A2304"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "da42ac4a-f48f-4397-af4d-b66e913825fb",
+          "meta": {
+            "drupal_internal__target_id": 3
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fe89aaa7-1528-405f-9e6b-25df51e1371c/field_event_type?resourceVersion=id%3A2304"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fe89aaa7-1528-405f-9e6b-25df51e1371c/relationships/field_event_type?resourceVersion=id%3A2304"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "45c25b85-38f6-43a1-862d-fc9963c23bf5",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/45c25b85-38f6-43a1-862d-fc9963c23bf5?resourceVersion=id%3A2410"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/45c25b85-38f6-43a1-862d-fc9963c23bf5?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28083,
+    "drupal_internal__vid": 2410,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Der muntere Seifensieder",
+    "created": "2010-08-09T09:53:51+00:00",
+    "changed": "2011-12-15T11:31:31+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28083",
+      "pid": 244,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahrs dreiaktiger \"Schwank aus der deutschen Mobilmachung\" wird am 18. Jänner 1915 am Stuttgarter Hoftheater uraufgeführt. Die Buchausgabe erscheint im selben Jahr, wiederum mit einer Dekorationsskizze von Koloman Moser, bei S. Fischer in Berlin.\r\n\r\nInhalt: Ein Millionär, der als Seifensieder begonnen hat, lädt zu seinem 70. Geburtstag seine in der ganzen Welt verstreute Nachkommenschaft auf ein Landgut ein. Das wird gestört durch den Kriegsausbruch, der für Verwirrungen und Verwechslungen führt, letztlich aber tritt der Autor selber auf und zeigt: Deutschland hat sich erst mit dem Krieg selbst erkannt.",
+      "format": "full_html",
+      "processed": "Bahrs dreiaktiger \"Schwank aus der deutschen Mobilmachung\" wird am 18. Jänner 1915 am Stuttgarter Hoftheater uraufgeführt. Die Buchausgabe erscheint im selben Jahr, wiederum mit einer Dekorationsskizze von Koloman Moser, bei S. Fischer in Berlin.\n\nInhalt: Ein Millionär, der als Seifensieder begonnen hat, lädt zu seinem 70. Geburtstag seine in der ganzen Welt verstreute Nachkommenschaft auf ein Landgut ein. Das wird gestört durch den Kriegsausbruch, der für Verwirrungen und Verwechslungen führt, letztlich aber tritt der Autor selber auf und zeigt: Deutschland hat sich erst mit dem Krieg selbst erkannt.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1915-01-18",
+      "end_value": "1915-01-18"
+    },
+    "field_sources": [
+      "Hermann Bahr: Der muntere Seifensieder. Ein Schwank aus der deutschen Mobilmachung. Berlin: S. Fischer, 1915."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/45c25b85-38f6-43a1-862d-fc9963c23bf5/node_type?resourceVersion=id%3A2410"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/45c25b85-38f6-43a1-862d-fc9963c23bf5/relationships/node_type?resourceVersion=id%3A2410"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/45c25b85-38f6-43a1-862d-fc9963c23bf5/revision_uid?resourceVersion=id%3A2410"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/45c25b85-38f6-43a1-862d-fc9963c23bf5/relationships/revision_uid?resourceVersion=id%3A2410"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/45c25b85-38f6-43a1-862d-fc9963c23bf5/uid?resourceVersion=id%3A2410"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/45c25b85-38f6-43a1-862d-fc9963c23bf5/relationships/uid?resourceVersion=id%3A2410"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "27f3d2a4-8970-4726-9ab8-ce37707ec1bc",
+          "meta": {
+            "drupal_internal__target_id": 1
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/45c25b85-38f6-43a1-862d-fc9963c23bf5/field_event_type?resourceVersion=id%3A2410"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/45c25b85-38f6-43a1-862d-fc9963c23bf5/relationships/field_event_type?resourceVersion=id%3A2410"
+        }
+      }
+    }
+  }
+}

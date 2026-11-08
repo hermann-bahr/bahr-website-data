@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "7c05ab11-ff97-40b5-99f9-7725b4b52146",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/7c05ab11-ff97-40b5-99f9-7725b4b52146?resourceVersion=id%3A3509"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/7c05ab11-ff97-40b5-99f9-7725b4b52146?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49736,
+    "drupal_internal__vid": 3509,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Italienische Flüchtlingshilfe",
+    "created": "2011-12-20T15:08:23+00:00",
+    "changed": "2012-12-10T10:25:22+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49736",
+      "pid": 1549,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "In Briefen vom Juni und Juli 1915 begründet Bahr, warum er immer nicht dazu kommt, nach Elmau zu Johannes Müller zu fahren, damit, dass zur Zeit jene mit Italienischkenntnissen angestellt sind, um Flüchtlinge aus Italien in den Dörfern unterzubringen. Bahr hat schon im Oktober auf die Situation der Flüchtlinge in Salzburg aufmerksam gemacht, möglicherweise mit ein Grund für seine Beschäftigung.",
+      "format": "full_html",
+      "processed": "In Briefen vom Juni und Juli 1915 begründet Bahr, warum er immer nicht dazu kommt, nach Elmau zu Johannes Müller zu fahren, damit, dass zur Zeit jene mit Italienischkenntnissen angestellt sind, um Flüchtlinge aus Italien in den Dörfern unterzubringen. Bahr hat schon im Oktober auf die Situation der Flüchtlinge in Salzburg aufmerksam gemacht, möglicherweise mit ein Grund für seine Beschäftigung.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1915-06-04",
+      "end_value": "1915-06-04"
+    },
+    "field_sources": [
+      "Hermann Bahr: Meister und Meisterbriefe um Hermann Bahr. Aus seinen Entwürfen, Tagebüchern und seinem Briefwechsel. Ausgewählt und eingeleitet von Joseph Gregor. Wien: Hermann Bauer 1947, 89-90. (An Richard Strauß, 4.6.1915, 8.7.1915)",
+      "Hermann Bahr: Die flüchtigen Polen. Salzburger Volksblatt, 44 (1914) #224, 6-7. (4.10.1914) Buchausgabe als \"Flüchtlinge\" in: Kriegssegen, 63-67"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7c05ab11-ff97-40b5-99f9-7725b4b52146/node_type?resourceVersion=id%3A3509"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7c05ab11-ff97-40b5-99f9-7725b4b52146/relationships/node_type?resourceVersion=id%3A3509"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7c05ab11-ff97-40b5-99f9-7725b4b52146/revision_uid?resourceVersion=id%3A3509"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7c05ab11-ff97-40b5-99f9-7725b4b52146/relationships/revision_uid?resourceVersion=id%3A3509"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7c05ab11-ff97-40b5-99f9-7725b4b52146/uid?resourceVersion=id%3A3509"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7c05ab11-ff97-40b5-99f9-7725b4b52146/relationships/uid?resourceVersion=id%3A3509"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7c05ab11-ff97-40b5-99f9-7725b4b52146/field_event_type?resourceVersion=id%3A3509"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7c05ab11-ff97-40b5-99f9-7725b4b52146/relationships/field_event_type?resourceVersion=id%3A3509"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "type": "node--event",
+  "id": "883b90d5-6bf8-4670-a621-7a3774479afc",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/883b90d5-6bf8-4670-a621-7a3774479afc?resourceVersion=id%3A2218"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/883b90d5-6bf8-4670-a621-7a3774479afc?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27866,
+    "drupal_internal__vid": 2218,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Wagner-Trauerkommers",
+    "created": "2010-06-21T08:42:19+00:00",
+    "changed": "2011-11-11T15:35:31+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/27866",
+      "pid": 51,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 5. März 1883 hält Bahr beim Wagner-Festkommers der Burschenschaft \"Albia\" eine Rede vor 3000 Anwesenden in den Sophiensälen. Das deutschnationale \"Linzer Sonntagsblatt\", für das Bahr gerade schreibt, berichtet: <blockquote>Stud. phil. Hermann Bahr betonte sodann die Bedeutung Wagners als Politiker; er sei nicht blos mit Phrasen, sondern auch mit Thaten für seine politische Anschauung eingetreten. Im Jahre 1848 habe er muthig, ohne alle Rücksichten gekämpft, und dies ehren wir an ihm. Redner wies auf Wagner's Schrift: \"Die deutsche Kunst und die deutsche Republik\" hin. (Mahnung des Polizei-Commissärs zur Mäßigung.[)] Doch sei die Zeit Richard Wagner's noch nicht reif gewesen, er habe sich vornehmlich darauf beschränken müssen, in Tönen zu seinem Volke zu sprechen, und nur manchmal konnte er in Worten reden. Redner ging auf das Jahr 1870 über und auf dessen Bedeutung für das deutsche Volk. Richard Wagner habe auch nicht vergessen, daß acht Millionen deutscher Brüder hart an der Grenze des deutschen Reiches……… Redner schließt mit der Aufforderung zu schwören, daß …… unter stürmischen Acclamationen und \"Prositrufen\" der ganzen Versammlung.</blockquote> In Folge wurden vom anwesenden Regierungsvertreter alle weiteren Reden verboten, doch die Teilnehmer klatschen Schönerer auf die Bühne, die Versammlung wird dann gewaltsam geschlossen.",
+      "format": "full_html",
+      "processed": "Am 5. März 1883 hält Bahr beim Wagner-Festkommers der Burschenschaft \"Albia\" eine Rede vor 3000 Anwesenden in den Sophiensälen. Das deutschnationale \"Linzer Sonntagsblatt\", für das Bahr gerade schreibt, berichtet: <blockquote>Stud. phil. Hermann Bahr betonte sodann die Bedeutung Wagners als Politiker; er sei nicht blos mit Phrasen, sondern auch mit Thaten für seine politische Anschauung eingetreten. Im Jahre 1848 habe er muthig, ohne alle Rücksichten gekämpft, und dies ehren wir an ihm. Redner wies auf Wagner's Schrift: \"Die deutsche Kunst und die deutsche Republik\" hin. (Mahnung des Polizei-Commissärs zur Mäßigung.[)] Doch sei die Zeit Richard Wagner's noch nicht reif gewesen, er habe sich vornehmlich darauf beschränken müssen, in Tönen zu seinem Volke zu sprechen, und nur manchmal konnte er in Worten reden. Redner ging auf das Jahr 1870 über und auf dessen Bedeutung für das deutsche Volk. Richard Wagner habe auch nicht vergessen, daß acht Millionen deutscher Brüder hart an der Grenze des deutschen Reiches……… Redner schließt mit der Aufforderung zu schwören, daß …… unter stürmischen Acclamationen und \"Prositrufen\" der ganzen Versammlung.</blockquote> In Folge wurden vom anwesenden Regierungsvertreter alle weiteren Reden verboten, doch die Teilnehmer klatschen Schönerer auf die Bühne, die Versammlung wird dann gewaltsam geschlossen.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1883-03-05",
+      "end_value": "1883-03-05"
+    },
+    "field_sources": [
+      "Linzer Sonntagsblatt, 4 (1883) #11, 3. (11.3.1883)",
+      "Ebd. #14, 8. (1.4.1883) bringt einen Auszug zum Commers aus dem Schlesischen Morgenblatt vom 14.3.1883, das der Darstellung der Kreuzzeitung in Wien widerspricht.",
+      "Briefwechsel mit dem Vater, 14. (11.3.1881)",
+      "Selbstbildnis, 140-143.",
+      "Hermann Bahr: Vierzig. Neues Wiener Tagblatt, 37 (1903) #195, 1-2. (18.7.1903) "
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/883b90d5-6bf8-4670-a621-7a3774479afc/node_type?resourceVersion=id%3A2218"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/883b90d5-6bf8-4670-a621-7a3774479afc/relationships/node_type?resourceVersion=id%3A2218"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/883b90d5-6bf8-4670-a621-7a3774479afc/revision_uid?resourceVersion=id%3A2218"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/883b90d5-6bf8-4670-a621-7a3774479afc/relationships/revision_uid?resourceVersion=id%3A2218"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/883b90d5-6bf8-4670-a621-7a3774479afc/uid?resourceVersion=id%3A2218"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/883b90d5-6bf8-4670-a621-7a3774479afc/relationships/uid?resourceVersion=id%3A2218"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/883b90d5-6bf8-4670-a621-7a3774479afc/field_event_type?resourceVersion=id%3A2218"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/883b90d5-6bf8-4670-a621-7a3774479afc/relationships/field_event_type?resourceVersion=id%3A2218"
+        }
+      }
+    }
+  }
+}

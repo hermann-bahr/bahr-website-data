@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "54b34317-9294-4be9-a152-8630116c765a",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/54b34317-9294-4be9-a152-8630116c765a?resourceVersion=id%3A2802"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/54b34317-9294-4be9-a152-8630116c765a?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39024,
+    "drupal_internal__vid": 2802,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Duse",
+    "created": "2011-04-04T11:16:49+00:00",
+    "changed": "2012-11-06T14:45:11+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39024",
+      "pid": 758,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Eleonora Duse, von Bahr aus St. Petersburg im deutschen Feuilleton berühmt gemacht, beginnt ihr erstes Gastspiel in einen deutschsprachigen Theater am 20. Februar 1892. Bis zum 27. Februar 1892 gibt sie mit ihrer Truppe im Carl-Theater: Feodora, Nora und die Kameliendame. Der resultierende Erfolg wird Bahr zugeschrieben, der auch für das in Berlin gedruckte Programmbuch sein erstes Duse-Feuilleton zur Verfügung stellt. Sichtbar wird der Einfluss Bahrs in der Rezension, die die Wiener Allgemeine Zeitung abdruckt, worin sich der Rezensent so ungeniert bei Bahr bedient, dass dieser seinem Vater gegenüber behaupten kann: \"Die Wiener Allgemeine Zeitung hat mein Feuilleton aus der 'Russischen Reise' nachgedruckt.\" Das Carl-Theater sichert sich für ein Jahr die Exklusivität bei den Wiener Auftritten der Duse. Ihr nächster Besuch wird für Mai angekündigt. ",
+      "format": "full_html",
+      "processed": "Eleonora Duse, von Bahr aus St. Petersburg im deutschen Feuilleton berühmt gemacht, beginnt ihr erstes Gastspiel in einen deutschsprachigen Theater am 20. Februar 1892. Bis zum 27. Februar 1892 gibt sie mit ihrer Truppe im Carl-Theater: Feodora, Nora und die Kameliendame. Der resultierende Erfolg wird Bahr zugeschrieben, der auch für das in Berlin gedruckte Programmbuch sein erstes Duse-Feuilleton zur Verfügung stellt. Sichtbar wird der Einfluss Bahrs in der Rezension, die die Wiener Allgemeine Zeitung abdruckt, worin sich der Rezensent so ungeniert bei Bahr bedient, dass dieser seinem Vater gegenüber behaupten kann: \"Die Wiener Allgemeine Zeitung hat mein Feuilleton aus der 'Russischen Reise' nachgedruckt.\" Das Carl-Theater sichert sich für ein Jahr die Exklusivität bei den Wiener Auftritten der Duse. Ihr nächster Besuch wird für Mai angekündigt. ",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1892-02-20",
+      "end_value": "1892-02-27"
+    },
+    "field_sources": [
+      "Hermann Bahr: Eleonora Duse. Eine Studie. In: Führer durch das Gastspiel von Eleonore Duse. Mit einer einleitenden Studie von Hermann Bahr. Berlin: A. H. Fried 1892, 1-10.",
+      "Heinrich Osten: Eleonora Duse. (Erstes Auftreten im Carl-Theater als \"Cameliendame\" Samstag den 20. Februar). Wiener Allgemeine Zeitung, 13 (1892) #4155, Beilage, 7. (23.2.1892)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/54b34317-9294-4be9-a152-8630116c765a/node_type?resourceVersion=id%3A2802"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/54b34317-9294-4be9-a152-8630116c765a/relationships/node_type?resourceVersion=id%3A2802"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/54b34317-9294-4be9-a152-8630116c765a/revision_uid?resourceVersion=id%3A2802"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/54b34317-9294-4be9-a152-8630116c765a/relationships/revision_uid?resourceVersion=id%3A2802"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/54b34317-9294-4be9-a152-8630116c765a/uid?resourceVersion=id%3A2802"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/54b34317-9294-4be9-a152-8630116c765a/relationships/uid?resourceVersion=id%3A2802"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/54b34317-9294-4be9-a152-8630116c765a/field_event_type?resourceVersion=id%3A2802"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/54b34317-9294-4be9-a152-8630116c765a/relationships/field_event_type?resourceVersion=id%3A2802"
+        }
+      }
+    }
+  }
+}

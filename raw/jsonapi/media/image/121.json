@@ -1,0 +1,118 @@
+{
+  "type": "media--image",
+  "id": "c5959eaf-8c3e-4e95-ae73-9046896cad76",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/media/image/c5959eaf-8c3e-4e95-ae73-9046896cad76?resourceVersion=id%3A121"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/media/image/c5959eaf-8c3e-4e95-ae73-9046896cad76?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__mid": 121,
+    "drupal_internal__vid": 121,
+    "langcode": "de",
+    "revision_created": "2020-02-18T15:16:19+00:00",
+    "status": true,
+    "name": "1908_kolo-moser-bahr",
+    "created": "2020-02-18T15:16:19+00:00",
+    "changed": "2020-02-18T15:16:19+00:00",
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": null,
+      "pid": null,
+      "langcode": "de"
+    }
+  },
+  "relationships": {
+    "bundle": {
+      "data": {
+        "type": "media_type--media_type",
+        "id": "b82aabb6-e7a1-420d-b98b-5b981c2d920e",
+        "meta": {
+          "drupal_internal__target_id": "image"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/c5959eaf-8c3e-4e95-ae73-9046896cad76/bundle?resourceVersion=id%3A121"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/c5959eaf-8c3e-4e95-ae73-9046896cad76/relationships/bundle?resourceVersion=id%3A121"
+        }
+      }
+    },
+    "revision_user": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/c5959eaf-8c3e-4e95-ae73-9046896cad76/revision_user?resourceVersion=id%3A121"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/c5959eaf-8c3e-4e95-ae73-9046896cad76/relationships/revision_user?resourceVersion=id%3A121"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/c5959eaf-8c3e-4e95-ae73-9046896cad76/uid?resourceVersion=id%3A121"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/c5959eaf-8c3e-4e95-ae73-9046896cad76/relationships/uid?resourceVersion=id%3A121"
+        }
+      }
+    },
+    "thumbnail": {
+      "data": {
+        "type": "file--file",
+        "id": "e3b6f50b-b6f0-493d-845f-af8f32712213",
+        "meta": {
+          "alt": "1908 Lido",
+          "title": null,
+          "width": 1986,
+          "height": 2712,
+          "drupal_internal__target_id": 182
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/c5959eaf-8c3e-4e95-ae73-9046896cad76/thumbnail?resourceVersion=id%3A121"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/c5959eaf-8c3e-4e95-ae73-9046896cad76/relationships/thumbnail?resourceVersion=id%3A121"
+        }
+      }
+    },
+    "field_media_image": {
+      "data": {
+        "type": "file--file",
+        "id": "e3b6f50b-b6f0-493d-845f-af8f32712213",
+        "meta": {
+          "alt": "1908 Lido",
+          "title": "1908_kolo-moser-bahr",
+          "width": 1986,
+          "height": 2712,
+          "drupal_internal__target_id": 182
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/c5959eaf-8c3e-4e95-ae73-9046896cad76/field_media_image?resourceVersion=id%3A121"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/c5959eaf-8c3e-4e95-ae73-9046896cad76/relationships/field_media_image?resourceVersion=id%3A121"
+        }
+      }
+    }
+  }
+}

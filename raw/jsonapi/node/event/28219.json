@@ -1,0 +1,119 @@
+{
+  "type": "node--event",
+  "id": "a1760aee-c7ed-462d-a68f-7dabe1f387fa",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/a1760aee-c7ed-462d-a68f-7dabe1f387fa?resourceVersion=id%3A2522"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/a1760aee-c7ed-462d-a68f-7dabe1f387fa?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28219,
+    "drupal_internal__vid": 2522,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Karl Kraus",
+    "created": "2010-10-14T19:08:55+00:00",
+    "changed": "2011-09-14T13:11:21+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28219",
+      "pid": 360,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Keine Frage, Karl Kraus war Hermann Bahr als Hassfigur ein Leben lang treu. Eine frühe Positionierung ist die \"Überwindung des Hermann Bahr\" im Mai-Heft der Gesellschaft 1893. Dass dem noch nicht abschließend so war, beweisen zwei Besprechungen, die Kraus 1894 im Jänner und im Februar in der Monatsschrift \"Der Zuschauer\" veröffentlichte: Eine Rezension des \"Modernen Musenalmanachs\" mit besonderer Würdigung von \"Bonaparte/Josephine\" [2] - und ein Verriss der Nachahmer Bahrs als \"Vom jüngsten Wien\" [3]. Diese beiden Texte dürften die Datierung der Eintragung anders als von den Herausgebern der Tagebücher, die das Vorjahr annehmen, auf 1894 treffen lassen: <blockquote>18.2.<br>Von dem kleinen Kraus.<br>Er hört gut zu.<br>Die wunderlichen Gelenke, wie nicht vom Körper aus, sondern am Körper durch eine fremde Maschinerie von außen beweglich [4]</blockquote>Kraus hat auch einige, wenige Texte für \"Die Zeit\" beigesteuert, musste aber, wie Bahr bei seiner Stellungnahme im Prozess Kraus/Bahr/Bukovics behauptete, aufgrund von Singer und Kanners Aufforderung entlassen werden.",
+      "format": "full_html",
+      "processed": "Keine Frage, Karl Kraus war Hermann Bahr als Hassfigur ein Leben lang treu. Eine frühe Positionierung ist die \"Überwindung des Hermann Bahr\" im Mai-Heft der Gesellschaft 1893. Dass dem noch nicht abschließend so war, beweisen zwei Besprechungen, die Kraus 1894 im Jänner und im Februar in der Monatsschrift \"Der Zuschauer\" veröffentlichte: Eine Rezension des \"Modernen Musenalmanachs\" mit besonderer Würdigung von \"Bonaparte/Josephine\" [2] - und ein Verriss der Nachahmer Bahrs als \"Vom jüngsten Wien\" [3]. Diese beiden Texte dürften die Datierung der Eintragung anders als von den Herausgebern der Tagebücher, die das Vorjahr annehmen, auf 1894 treffen lassen: <blockquote>18.2.<br>Von dem kleinen Kraus.<br>Er hört gut zu.<br>Die wunderlichen Gelenke, wie nicht vom Körper aus, sondern am Körper durch eine fremde Maschinerie von außen beweglich [4]</blockquote>Kraus hat auch einige, wenige Texte für \"Die Zeit\" beigesteuert, musste aber, wie Bahr bei seiner Stellungnahme im Prozess Kraus/Bahr/Bukovics behauptete, aufgrund von Singer und Kanners Aufforderung entlassen werden.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1893-05-01",
+      "end_value": "1893-05-01"
+    },
+    "field_sources": [
+      "[1] Karl Kraus: Die Überwindung des Hermann Bahr. Die Gesellschaft, 9 (1893) #Mai, 627-636.",
+      "[2] Der Zuschauer, 2 (1894) #1, 33-36. (1.1.1894)",
+      "[3] Der Zuschauer 2 (1894) #3, 128-131. (1.2.1894)",
+      "[4] Tagebuch (Csàky), II, 43. "
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a1760aee-c7ed-462d-a68f-7dabe1f387fa/node_type?resourceVersion=id%3A2522"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a1760aee-c7ed-462d-a68f-7dabe1f387fa/relationships/node_type?resourceVersion=id%3A2522"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a1760aee-c7ed-462d-a68f-7dabe1f387fa/revision_uid?resourceVersion=id%3A2522"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a1760aee-c7ed-462d-a68f-7dabe1f387fa/relationships/revision_uid?resourceVersion=id%3A2522"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a1760aee-c7ed-462d-a68f-7dabe1f387fa/uid?resourceVersion=id%3A2522"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a1760aee-c7ed-462d-a68f-7dabe1f387fa/relationships/uid?resourceVersion=id%3A2522"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a1760aee-c7ed-462d-a68f-7dabe1f387fa/field_event_type?resourceVersion=id%3A2522"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a1760aee-c7ed-462d-a68f-7dabe1f387fa/relationships/field_event_type?resourceVersion=id%3A2522"
+        }
+      }
+    }
+  }
+}

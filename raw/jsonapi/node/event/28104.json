@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "6de4a85f-c71e-43cf-b87c-b3182287f1eb",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/6de4a85f-c71e-43cf-b87c-b3182287f1eb?resourceVersion=id%3A2427"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/6de4a85f-c71e-43cf-b87c-b3182287f1eb?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28104,
+    "drupal_internal__vid": 2427,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Semmering",
+    "created": "2010-08-11T19:49:04+00:00",
+    "changed": "2011-09-02T11:59:35+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28104",
+      "pid": 262,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Vom 2. bis zum 4. Januar 1907 hält sich Bahr am Semmering auf.",
+      "format": "full_html",
+      "processed": "Vom 2. bis zum 4. Januar 1907 hält sich Bahr am Semmering auf.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1907-01-02",
+      "end_value": "1907-01-04"
+    },
+    "field_sources": [
+      "Tagebücher (Csàky), V, 201."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6de4a85f-c71e-43cf-b87c-b3182287f1eb/node_type?resourceVersion=id%3A2427"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6de4a85f-c71e-43cf-b87c-b3182287f1eb/relationships/node_type?resourceVersion=id%3A2427"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6de4a85f-c71e-43cf-b87c-b3182287f1eb/revision_uid?resourceVersion=id%3A2427"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6de4a85f-c71e-43cf-b87c-b3182287f1eb/relationships/revision_uid?resourceVersion=id%3A2427"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6de4a85f-c71e-43cf-b87c-b3182287f1eb/uid?resourceVersion=id%3A2427"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6de4a85f-c71e-43cf-b87c-b3182287f1eb/relationships/uid?resourceVersion=id%3A2427"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6de4a85f-c71e-43cf-b87c-b3182287f1eb/field_event_type?resourceVersion=id%3A2427"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6de4a85f-c71e-43cf-b87c-b3182287f1eb/relationships/field_event_type?resourceVersion=id%3A2427"
+        }
+      }
+    }
+  }
+}

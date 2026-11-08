@@ -1,0 +1,90 @@
+{
+  "type": "node--page",
+  "id": "6231faa9-55e2-4969-a12c-ae5646f79e5d",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/page/6231faa9-55e2-4969-a12c-ae5646f79e5d?resourceVersion=id%3A4089"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/page/6231faa9-55e2-4969-a12c-ae5646f79e5d?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 81341,
+    "drupal_internal__vid": 4089,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T17:01:03+00:00",
+    "status": true,
+    "title": "Zeitleiste",
+    "created": "2014-06-30T08:29:46+00:00",
+    "changed": "2014-06-30T08:29:46+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/zeitleiste",
+      "pid": 1880,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Aufgrund von technischen Problemen ist die Zeitleiste derzeit ausgelagert und hier bzw. über den Menüpunkt \"Leben\" zugänglich:\r\n\r\n<a href=\"http://homepage.univie.ac.at/martin.anton.mueller/?q=zeittafel\">Zeittafel</a> (ausgelagert)\r\n\r\nBitte beachten Sie die Wartezeit, die durch die 2000 Einträge, die geladen werden müssen, bedingt ist!\r\n\r\n",
+      "format": "full_html",
+      "processed": "Aufgrund von technischen Problemen ist die Zeitleiste derzeit ausgelagert und hier bzw. über den Menüpunkt \"Leben\" zugänglich:\n\n<a href=\"http://homepage.univie.ac.at/martin.anton.mueller/?q=zeittafel\">Zeittafel</a> (ausgelagert)\n\nBitte beachten Sie die Wartezeit, die durch die 2000 Einträge, die geladen werden müssen, bedingt ist!\n\n",
+      "summary": null
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "016d417b-5c75-4303-8420-18e221e9e269",
+        "meta": {
+          "drupal_internal__target_id": "page"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/6231faa9-55e2-4969-a12c-ae5646f79e5d/node_type?resourceVersion=id%3A4089"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/6231faa9-55e2-4969-a12c-ae5646f79e5d/relationships/node_type?resourceVersion=id%3A4089"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/6231faa9-55e2-4969-a12c-ae5646f79e5d/revision_uid?resourceVersion=id%3A4089"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/6231faa9-55e2-4969-a12c-ae5646f79e5d/relationships/revision_uid?resourceVersion=id%3A4089"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/6231faa9-55e2-4969-a12c-ae5646f79e5d/uid?resourceVersion=id%3A4089"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/6231faa9-55e2-4969-a12c-ae5646f79e5d/relationships/uid?resourceVersion=id%3A4089"
+        }
+      }
+    }
+  }
+}

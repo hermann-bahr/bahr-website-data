@@ -1,0 +1,114 @@
+{
+  "type": "node--event",
+  "id": "72fa41c9-edbd-4dbd-bcf2-980e3b4fb718",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/72fa41c9-edbd-4dbd-bcf2-980e3b4fb718?resourceVersion=id%3A2551"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/72fa41c9-edbd-4dbd-bcf2-980e3b4fb718?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38685,
+    "drupal_internal__vid": 2551,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "1. Internationale Kunstausstellung in Wien",
+    "created": "2010-12-21T16:26:41+00:00",
+    "changed": "2010-12-22T16:22:12+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38685",
+      "pid": 437,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahr berichtet vom 6. Mai bis zum 16. Juni 1882 für das Salzburger Volksblatt in \"Wiener Kunstbriefen\" von der 1.Internationalen Ausstellung, die vom 1. April bis zum 20. September 1882 lief. Wobei er die österreichische Kunst nicht gelten lassen will, Deutschland den ersten und Frankreich den zweiten Platz einräumt.",
+      "format": "full_html",
+      "processed": "Bahr berichtet vom 6. Mai bis zum 16. Juni 1882 für das Salzburger Volksblatt in \"Wiener Kunstbriefen\" von der 1.Internationalen Ausstellung, die vom 1. April bis zum 20. September 1882 lief. Wobei er die österreichische Kunst nicht gelten lassen will, Deutschland den ersten und Frankreich den zweiten Platz einräumt.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1882-05-06",
+      "end_value": "1882-06-16"
+    },
+    "field_sources": []
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/72fa41c9-edbd-4dbd-bcf2-980e3b4fb718/node_type?resourceVersion=id%3A2551"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/72fa41c9-edbd-4dbd-bcf2-980e3b4fb718/relationships/node_type?resourceVersion=id%3A2551"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/72fa41c9-edbd-4dbd-bcf2-980e3b4fb718/revision_uid?resourceVersion=id%3A2551"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/72fa41c9-edbd-4dbd-bcf2-980e3b4fb718/relationships/revision_uid?resourceVersion=id%3A2551"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/72fa41c9-edbd-4dbd-bcf2-980e3b4fb718/uid?resourceVersion=id%3A2551"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/72fa41c9-edbd-4dbd-bcf2-980e3b4fb718/relationships/uid?resourceVersion=id%3A2551"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "d579e54c-64dd-4193-a9ef-da87efb3ed16",
+          "meta": {
+            "drupal_internal__target_id": 8
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/72fa41c9-edbd-4dbd-bcf2-980e3b4fb718/field_event_type?resourceVersion=id%3A2551"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/72fa41c9-edbd-4dbd-bcf2-980e3b4fb718/relationships/field_event_type?resourceVersion=id%3A2551"
+        }
+      }
+    }
+  }
+}

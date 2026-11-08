@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "a1626070-f1c5-4dc4-aa59-ae7118c21799",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/a1626070-f1c5-4dc4-aa59-ae7118c21799?resourceVersion=id%3A2531"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/a1626070-f1c5-4dc4-aa59-ae7118c21799?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28233,
+    "drupal_internal__vid": 2531,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Der Stürmer",
+    "created": "2010-11-06T20:33:13+00:00",
+    "changed": "2011-07-08T09:33:03+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28233",
+      "pid": 369,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Im Juni 1933 publiziert der \"Stürmer\" einen anonymen Angriff auf die als Professorin in München tätige Anna Bahr-Mildenburg, worin auch versucht wird, Bahr als \"Judenfreund\" verächtlich zu machen. Ausdrücklich erwähnt wird sein Einsatz für Toller und die Beziehung Anna Mildenburgs mit Gustav Mahler, die ihn dem jüdischen Volk verpflichte. \r\nDer Angriff wird spätestens eine Grenze zu den Nationalsozialisten gezogen haben, die Bahr im zurückliegenden Jahrzehnt gelegentlich in die Nähe kam, zu überschreiten. Es überrascht nicht, dass es besonders die Jugendbewegung der NS war, die es ihm angetan hatte. ",
+      "format": "full_html",
+      "processed": "Im Juni 1933 publiziert der \"Stürmer\" einen anonymen Angriff auf die als Professorin in München tätige Anna Bahr-Mildenburg, worin auch versucht wird, Bahr als \"Judenfreund\" verächtlich zu machen. Ausdrücklich erwähnt wird sein Einsatz für Toller und die Beziehung Anna Mildenburgs mit Gustav Mahler, die ihn dem jüdischen Volk verpflichte. \nDer Angriff wird spätestens eine Grenze zu den Nationalsozialisten gezogen haben, die Bahr im zurückliegenden Jahrzehnt gelegentlich in die Nähe kam, zu überschreiten. Es überrascht nicht, dass es besonders die Jugendbewegung der NS war, die es ihm angetan hatte. ",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1933-06-01",
+      "end_value": "1933-06-01"
+    },
+    "field_sources": [
+      "[O. N.]: Anna Bahr Mildenburg. Die große Täuscherin an der Akademie für Schauspielkunst in München. In: Der Stürmer, 1933, #25."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a1626070-f1c5-4dc4-aa59-ae7118c21799/node_type?resourceVersion=id%3A2531"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a1626070-f1c5-4dc4-aa59-ae7118c21799/relationships/node_type?resourceVersion=id%3A2531"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a1626070-f1c5-4dc4-aa59-ae7118c21799/revision_uid?resourceVersion=id%3A2531"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a1626070-f1c5-4dc4-aa59-ae7118c21799/relationships/revision_uid?resourceVersion=id%3A2531"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a1626070-f1c5-4dc4-aa59-ae7118c21799/uid?resourceVersion=id%3A2531"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a1626070-f1c5-4dc4-aa59-ae7118c21799/relationships/uid?resourceVersion=id%3A2531"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a1626070-f1c5-4dc4-aa59-ae7118c21799/field_event_type?resourceVersion=id%3A2531"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a1626070-f1c5-4dc4-aa59-ae7118c21799/relationships/field_event_type?resourceVersion=id%3A2531"
+        }
+      }
+    }
+  }
+}

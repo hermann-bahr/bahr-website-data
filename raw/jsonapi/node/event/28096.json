@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "094fc348-476c-41da-a814-22d7857bdb0a",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/094fc348-476c-41da-a814-22d7857bdb0a?resourceVersion=id%3A2421"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/094fc348-476c-41da-a814-22d7857bdb0a?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28096,
+    "drupal_internal__vid": 2421,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Levetzow",
+    "created": "2010-08-11T19:32:32+00:00",
+    "changed": "2011-09-02T12:23:52+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28096",
+      "pid": 256,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "11. April 1908: Bahr liest im Kunstsalon Heller in Wien: Karl von Levetzows „Der Bogen des Philoktet“.",
+      "format": "full_html",
+      "processed": "11. April 1908: Bahr liest im Kunstsalon Heller in Wien: Karl von Levetzows „Der Bogen des Philoktet“.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1908-04-11",
+      "end_value": "1908-04-11"
+    },
+    "field_sources": [
+      "Neue Freie Presse, #15677, 15. (12.4.1908)",
+      "\"Tagebuch\" in: Morgen. Wochenschrift für deutsche Kultur, 2 (1908) #34, 1095. (21.8.1908)",
+      "Tagebücher (Csàky), V, 375."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/094fc348-476c-41da-a814-22d7857bdb0a/node_type?resourceVersion=id%3A2421"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/094fc348-476c-41da-a814-22d7857bdb0a/relationships/node_type?resourceVersion=id%3A2421"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/094fc348-476c-41da-a814-22d7857bdb0a/revision_uid?resourceVersion=id%3A2421"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/094fc348-476c-41da-a814-22d7857bdb0a/relationships/revision_uid?resourceVersion=id%3A2421"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/094fc348-476c-41da-a814-22d7857bdb0a/uid?resourceVersion=id%3A2421"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/094fc348-476c-41da-a814-22d7857bdb0a/relationships/uid?resourceVersion=id%3A2421"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/094fc348-476c-41da-a814-22d7857bdb0a/field_event_type?resourceVersion=id%3A2421"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/094fc348-476c-41da-a814-22d7857bdb0a/relationships/field_event_type?resourceVersion=id%3A2421"
+        }
+      }
+    }
+  }
+}

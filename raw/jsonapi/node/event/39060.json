@@ -1,0 +1,121 @@
+{
+  "type": "node--event",
+  "id": "262830c9-3270-477d-b946-5b24f9feee70",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/262830c9-3270-477d-b946-5b24f9feee70?resourceVersion=id%3A2835"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/262830c9-3270-477d-b946-5b24f9feee70?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39060,
+    "drupal_internal__vid": 2835,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Bauernfeld-Preis",
+    "created": "2011-05-03T19:47:11+00:00",
+    "changed": "2012-11-13T15:35:47+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39060",
+      "pid": 792,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Für sein Stück \"Der Meister\" bekommt Bahr den mit 1000 Kronen dotierten Bauernfeld-Preis 1904. Mit ihm ausgezeichnet werden: Joseph Werkmann (Liebessünden), Karl Spitteler d.i. Felix Tandem (Olympischer Frühling), Thomas Mann (Buddenbrooks), Hermann Hesse (Peter Camenzind), Wilhelm Hegeler (Pastor Klinghammer) und Marie Herzfeld für ihr gesamtes Schaffen.",
+      "format": "full_html",
+      "processed": "Für sein Stück \"Der Meister\" bekommt Bahr den mit 1000 Kronen dotierten Bauernfeld-Preis 1904. Mit ihm ausgezeichnet werden: Joseph Werkmann (Liebessünden), Karl Spitteler d.i. Felix Tandem (Olympischer Frühling), Thomas Mann (Buddenbrooks), Hermann Hesse (Peter Camenzind), Wilhelm Hegeler (Pastor Klinghammer) und Marie Herzfeld für ihr gesamtes Schaffen.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1904-11-09",
+      "end_value": "1904-11-09"
+    },
+    "field_sources": [
+      "Brief von Wilhelm Hartel (Curatorium der Bauernfeld-Stiftung) an Bahr, 12.11.1904, Nachlass Bahr.",
+      "Rigasche Rundschau, 38 (1904) #255, 3. (9.11.1904)",
+      "Neues Wiener Tagblatt, 38 (1904) #314, 3. (12.11.1904)",
+      "Österreichische Volks-Zeitung, 50 (1904) #315, 7. (13.11.1904)",
+      "Tagebücher (Csàky), IV, 307.",
+      "Falsch datiert: Bahr/Redlich, 36-38. (Deswegen fehlt auch die Antwort auf Brief #66)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/262830c9-3270-477d-b946-5b24f9feee70/node_type?resourceVersion=id%3A2835"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/262830c9-3270-477d-b946-5b24f9feee70/relationships/node_type?resourceVersion=id%3A2835"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/262830c9-3270-477d-b946-5b24f9feee70/revision_uid?resourceVersion=id%3A2835"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/262830c9-3270-477d-b946-5b24f9feee70/relationships/revision_uid?resourceVersion=id%3A2835"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/262830c9-3270-477d-b946-5b24f9feee70/uid?resourceVersion=id%3A2835"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/262830c9-3270-477d-b946-5b24f9feee70/relationships/uid?resourceVersion=id%3A2835"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/262830c9-3270-477d-b946-5b24f9feee70/field_event_type?resourceVersion=id%3A2835"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/262830c9-3270-477d-b946-5b24f9feee70/relationships/field_event_type?resourceVersion=id%3A2835"
+        }
+      }
+    }
+  }
+}

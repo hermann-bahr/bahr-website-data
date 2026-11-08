@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "5a810838-dbc7-4b03-90a8-0a03600f8de6",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/5a810838-dbc7-4b03-90a8-0a03600f8de6?resourceVersion=id%3A2839"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/5a810838-dbc7-4b03-90a8-0a03600f8de6?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39064,
+    "drupal_internal__vid": 2839,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Olbrich-Haus Verkauf",
+    "created": "2011-05-05T20:06:03+00:00",
+    "changed": "2011-10-11T10:14:22+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39064",
+      "pid": 796,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Im September 1912 fragt Bahr Redlich, ob er einen Hausagenten für den Verkauf des Hauses wisse.[1] In einem Aufsatz erzählt Bahr im März 1913:<blockquote>Und jemand hatte Lust, das Haus zu kaufen, das mir Olbrich erbaut hat; er fand es wunderschön, sein Bedenken war nur, wie man denn wohl daraus den Olbrich wieder \"wegbringen\" könnte.[2]</blockquote> Am 8. August 1913 schreibt Bahr an Ludwig Karpath, dass er sein Olbrich-Haus nur verkaufe, nicht vermiete. Der Interessent heißt Oskar Straus.[3] Wer das Haus letztendlich kaufte, ist noch zu erforschen, er hat jedenfalls in den Grundriss eingegriffen und das Haus gleich um zwei Meter verlängert.",
+      "format": "full_html",
+      "processed": "Im September 1912 fragt Bahr Redlich, ob er einen Hausagenten für den Verkauf des Hauses wisse.[1] In einem Aufsatz erzählt Bahr im März 1913:<blockquote>Und jemand hatte Lust, das Haus zu kaufen, das mir Olbrich erbaut hat; er fand es wunderschön, sein Bedenken war nur, wie man denn wohl daraus den Olbrich wieder \"wegbringen\" könnte.[2]</blockquote> Am 8. August 1913 schreibt Bahr an Ludwig Karpath, dass er sein Olbrich-Haus nur verkaufe, nicht vermiete. Der Interessent heißt Oskar Straus.[3] Wer das Haus letztendlich kaufte, ist noch zu erforschen, er hat jedenfalls in den Grundriss eingegriffen und das Haus gleich um zwei Meter verlängert.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1913-08-08",
+      "end_value": "1913-08-08"
+    },
+    "field_sources": [
+      "[1] Bahr/Redlich, 83. (17.9.1912)",
+      "[2] Hermann Bahr: Arno Holz. (Zum fünfzigsten Geburtstage). Neue Freie Presse, (1913) #17483, Morgenblatt, 1-3. (26.4.1913) \r\nBuchausgabe: Bilderbuch, 78-87\r\n",
+      "[3] Nachlass, Kiste 56, Abschriften."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5a810838-dbc7-4b03-90a8-0a03600f8de6/node_type?resourceVersion=id%3A2839"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5a810838-dbc7-4b03-90a8-0a03600f8de6/relationships/node_type?resourceVersion=id%3A2839"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5a810838-dbc7-4b03-90a8-0a03600f8de6/revision_uid?resourceVersion=id%3A2839"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5a810838-dbc7-4b03-90a8-0a03600f8de6/relationships/revision_uid?resourceVersion=id%3A2839"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5a810838-dbc7-4b03-90a8-0a03600f8de6/uid?resourceVersion=id%3A2839"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5a810838-dbc7-4b03-90a8-0a03600f8de6/relationships/uid?resourceVersion=id%3A2839"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5a810838-dbc7-4b03-90a8-0a03600f8de6/field_event_type?resourceVersion=id%3A2839"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5a810838-dbc7-4b03-90a8-0a03600f8de6/relationships/field_event_type?resourceVersion=id%3A2839"
+        }
+      }
+    }
+  }
+}

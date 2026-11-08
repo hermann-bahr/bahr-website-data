@@ -1,0 +1,118 @@
+{
+  "type": "media--image",
+  "id": "ad5885c7-58ea-439d-a76a-72bd8bb59eef",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/media/image/ad5885c7-58ea-439d-a76a-72bd8bb59eef?resourceVersion=id%3A166"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/media/image/ad5885c7-58ea-439d-a76a-72bd8bb59eef?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__mid": 166,
+    "drupal_internal__vid": 166,
+    "langcode": "de",
+    "revision_created": "2020-02-18T15:16:19+00:00",
+    "status": true,
+    "name": "1926_dolbin",
+    "created": "2020-02-18T15:16:19+00:00",
+    "changed": "2020-02-18T15:16:19+00:00",
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": null,
+      "pid": null,
+      "langcode": "de"
+    }
+  },
+  "relationships": {
+    "bundle": {
+      "data": {
+        "type": "media_type--media_type",
+        "id": "b82aabb6-e7a1-420d-b98b-5b981c2d920e",
+        "meta": {
+          "drupal_internal__target_id": "image"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/ad5885c7-58ea-439d-a76a-72bd8bb59eef/bundle?resourceVersion=id%3A166"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/ad5885c7-58ea-439d-a76a-72bd8bb59eef/relationships/bundle?resourceVersion=id%3A166"
+        }
+      }
+    },
+    "revision_user": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/ad5885c7-58ea-439d-a76a-72bd8bb59eef/revision_user?resourceVersion=id%3A166"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/ad5885c7-58ea-439d-a76a-72bd8bb59eef/relationships/revision_user?resourceVersion=id%3A166"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/ad5885c7-58ea-439d-a76a-72bd8bb59eef/uid?resourceVersion=id%3A166"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/ad5885c7-58ea-439d-a76a-72bd8bb59eef/relationships/uid?resourceVersion=id%3A166"
+        }
+      }
+    },
+    "thumbnail": {
+      "data": {
+        "type": "file--file",
+        "id": "a4863a3b-f7ac-46f8-80f3-1de44e773e2f",
+        "meta": {
+          "alt": "1926 Als Mönch",
+          "title": null,
+          "width": 1446,
+          "height": 1654,
+          "drupal_internal__target_id": 227
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/ad5885c7-58ea-439d-a76a-72bd8bb59eef/thumbnail?resourceVersion=id%3A166"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/ad5885c7-58ea-439d-a76a-72bd8bb59eef/relationships/thumbnail?resourceVersion=id%3A166"
+        }
+      }
+    },
+    "field_media_image": {
+      "data": {
+        "type": "file--file",
+        "id": "a4863a3b-f7ac-46f8-80f3-1de44e773e2f",
+        "meta": {
+          "alt": "1926 Als Mönch",
+          "title": "1926_dolbin",
+          "width": 1446,
+          "height": 1654,
+          "drupal_internal__target_id": 227
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/ad5885c7-58ea-439d-a76a-72bd8bb59eef/field_media_image?resourceVersion=id%3A166"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/ad5885c7-58ea-439d-a76a-72bd8bb59eef/relationships/field_media_image?resourceVersion=id%3A166"
+        }
+      }
+    }
+  }
+}

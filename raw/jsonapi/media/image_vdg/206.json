@@ -1,0 +1,118 @@
+{
+  "type": "media--image_vdg",
+  "id": "a83ec8f9-5f5c-4b30-82ee-7f709c9a2f79",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/a83ec8f9-5f5c-4b30-82ee-7f709c9a2f79?resourceVersion=id%3A207"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/a83ec8f9-5f5c-4b30-82ee-7f709c9a2f79?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__mid": 206,
+    "drupal_internal__vid": 207,
+    "langcode": "de",
+    "revision_created": "2020-02-27T15:48:26+00:00",
+    "status": true,
+    "name": "23.jpg",
+    "created": "2020-02-27T15:48:15+00:00",
+    "changed": "2020-02-27T15:48:15+00:00",
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": null,
+      "pid": null,
+      "langcode": "de"
+    }
+  },
+  "relationships": {
+    "bundle": {
+      "data": {
+        "type": "media_type--media_type",
+        "id": "1e270fb0-cbb8-4385-a6d7-69db224c61f7",
+        "meta": {
+          "drupal_internal__target_id": "image_vdg"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/a83ec8f9-5f5c-4b30-82ee-7f709c9a2f79/bundle?resourceVersion=id%3A207"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/a83ec8f9-5f5c-4b30-82ee-7f709c9a2f79/relationships/bundle?resourceVersion=id%3A207"
+        }
+      }
+    },
+    "revision_user": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/a83ec8f9-5f5c-4b30-82ee-7f709c9a2f79/revision_user?resourceVersion=id%3A207"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/a83ec8f9-5f5c-4b30-82ee-7f709c9a2f79/relationships/revision_user?resourceVersion=id%3A207"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/a83ec8f9-5f5c-4b30-82ee-7f709c9a2f79/uid?resourceVersion=id%3A207"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/a83ec8f9-5f5c-4b30-82ee-7f709c9a2f79/relationships/uid?resourceVersion=id%3A207"
+        }
+      }
+    },
+    "thumbnail": {
+      "data": {
+        "type": "file--file",
+        "id": "35692314-bd1b-4cf3-b132-ca868bb8cb7f",
+        "meta": {
+          "alt": "Hermann Bahr, Kritische Schriften - 23 - Dalmatinische Reise",
+          "title": null,
+          "width": 202,
+          "height": 286,
+          "drupal_internal__target_id": 284
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/a83ec8f9-5f5c-4b30-82ee-7f709c9a2f79/thumbnail?resourceVersion=id%3A207"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/a83ec8f9-5f5c-4b30-82ee-7f709c9a2f79/relationships/thumbnail?resourceVersion=id%3A207"
+        }
+      }
+    },
+    "field_media_image_1": {
+      "data": {
+        "type": "file--file",
+        "id": "35692314-bd1b-4cf3-b132-ca868bb8cb7f",
+        "meta": {
+          "alt": "Hermann Bahr, Kritische Schriften - 23 - Dalmatinische Reise",
+          "title": "",
+          "width": 202,
+          "height": 286,
+          "drupal_internal__target_id": 284
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/a83ec8f9-5f5c-4b30-82ee-7f709c9a2f79/field_media_image_1?resourceVersion=id%3A207"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/a83ec8f9-5f5c-4b30-82ee-7f709c9a2f79/relationships/field_media_image_1?resourceVersion=id%3A207"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "d95228dc-ca20-4b6c-9f8f-1cd8fe6caee2",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/d95228dc-ca20-4b6c-9f8f-1cd8fe6caee2?resourceVersion=id%3A3018"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/d95228dc-ca20-4b6c-9f8f-1cd8fe6caee2?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44102,
+    "drupal_internal__vid": 3018,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Berlin",
+    "created": "2011-09-13T15:34:54+00:00",
+    "changed": "2011-09-13T15:34:54+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44102",
+      "pid": 997,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Von 19. bis zum 21. Februar 1905 ist Bahr bei den Proben zur \"Sanna\" in Berlin. Nachdem Anna Mildenburg erkrankt, kehrt er zurück und verzichtet auch auf die Teilnahme an der Uraufführung.",
+      "format": "full_html",
+      "processed": "Von 19. bis zum 21. Februar 1905 ist Bahr bei den Proben zur \"Sanna\" in Berlin. Nachdem Anna Mildenburg erkrankt, kehrt er zurück und verzichtet auch auf die Teilnahme an der Uraufführung.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1905-02-19",
+      "end_value": "1905-02-21"
+    },
+    "field_sources": [
+      "Tagebücher (Csàky), IV, XIV und 417."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d95228dc-ca20-4b6c-9f8f-1cd8fe6caee2/node_type?resourceVersion=id%3A3018"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d95228dc-ca20-4b6c-9f8f-1cd8fe6caee2/relationships/node_type?resourceVersion=id%3A3018"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d95228dc-ca20-4b6c-9f8f-1cd8fe6caee2/revision_uid?resourceVersion=id%3A3018"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d95228dc-ca20-4b6c-9f8f-1cd8fe6caee2/relationships/revision_uid?resourceVersion=id%3A3018"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d95228dc-ca20-4b6c-9f8f-1cd8fe6caee2/uid?resourceVersion=id%3A3018"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d95228dc-ca20-4b6c-9f8f-1cd8fe6caee2/relationships/uid?resourceVersion=id%3A3018"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d95228dc-ca20-4b6c-9f8f-1cd8fe6caee2/field_event_type?resourceVersion=id%3A3018"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d95228dc-ca20-4b6c-9f8f-1cd8fe6caee2/relationships/field_event_type?resourceVersion=id%3A3018"
+        }
+      }
+    }
+  }
+}

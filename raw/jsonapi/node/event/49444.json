@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "8845b6a0-0557-45ff-a7df-c687fd7bae5b",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/8845b6a0-0557-45ff-a7df-c687fd7bae5b?resourceVersion=id%3A3287"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/8845b6a0-0557-45ff-a7df-c687fd7bae5b?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49444,
+    "drupal_internal__vid": 3287,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Berchtesgaden statt \"Jedermann\"",
+    "created": "2011-10-20T13:04:36+00:00",
+    "changed": "2011-10-20T13:05:52+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49444",
+      "pid": 1268,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Von 22. bis zum 26. August 1920 finden vier Aufführungen von Hofmannsthals \"Jedermann\" auf dem Salzburger Domplatz statt. Regie: Max Reinhardt. Bahr, am 14. August:<blockquote>Hier ist es jetzt scheußlich, man kann vor Bekannten nicht mehr ausgehen. Salzburg wird aufatmen, wenn \"Jedermann\" vorüber ist.</blockquote>Und am 26. September rekapituliert er:<blockquote>dann trieb die mit ungestümer Macht auf \"Jedermanns\" Ruf über unsere unglückliche Stadt hereinbrechende Hebräerflut (da selbst ihr es nicht gelang, mich zum Antisemiten zu machen, gab ich das definitiv auf) uns weg, wir flohen nach Berchtesgaden […] dort war's sehr schön. […] (wenn Hugo fromm wird, kommt dabei nichts als Herr Glöckel heraus)</blockquote>",
+      "format": "full_html",
+      "processed": "Von 22. bis zum 26. August 1920 finden vier Aufführungen von Hofmannsthals \"Jedermann\" auf dem Salzburger Domplatz statt. Regie: Max Reinhardt. Bahr, am 14. August:<blockquote>Hier ist es jetzt scheußlich, man kann vor Bekannten nicht mehr ausgehen. Salzburg wird aufatmen, wenn \"Jedermann\" vorüber ist.</blockquote>Und am 26. September rekapituliert er:<blockquote>dann trieb die mit ungestümer Macht auf \"Jedermanns\" Ruf über unsere unglückliche Stadt hereinbrechende Hebräerflut (da selbst ihr es nicht gelang, mich zum Antisemiten zu machen, gab ich das definitiv auf) uns weg, wir flohen nach Berchtesgaden […] dort war's sehr schön. […] (wenn Hugo fromm wird, kommt dabei nichts als Herr Glöckel heraus)</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1920-08-22",
+      "end_value": "1920-08-26"
+    },
+    "field_sources": [
+      "Bahr/Redlich, 421 und 423-424."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8845b6a0-0557-45ff-a7df-c687fd7bae5b/node_type?resourceVersion=id%3A3287"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8845b6a0-0557-45ff-a7df-c687fd7bae5b/relationships/node_type?resourceVersion=id%3A3287"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8845b6a0-0557-45ff-a7df-c687fd7bae5b/revision_uid?resourceVersion=id%3A3287"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8845b6a0-0557-45ff-a7df-c687fd7bae5b/relationships/revision_uid?resourceVersion=id%3A3287"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8845b6a0-0557-45ff-a7df-c687fd7bae5b/uid?resourceVersion=id%3A3287"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8845b6a0-0557-45ff-a7df-c687fd7bae5b/relationships/uid?resourceVersion=id%3A3287"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8845b6a0-0557-45ff-a7df-c687fd7bae5b/field_event_type?resourceVersion=id%3A3287"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8845b6a0-0557-45ff-a7df-c687fd7bae5b/relationships/field_event_type?resourceVersion=id%3A3287"
+        }
+      }
+    }
+  }
+}

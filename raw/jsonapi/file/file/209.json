@@ -1,0 +1,36 @@
+{
+  "type": "file--file",
+  "id": "51d2d18b-ae50-4d54-9741-5a20bc6b4bb3",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/file/file/51d2d18b-ae50-4d54-9741-5a20bc6b4bb3"
+    }
+  },
+  "attributes": {
+    "drupal_internal__fid": 209,
+    "langcode": "de",
+    "filename": "1928_neueste.jpg",
+    "uri": {
+      "value": "public://bahr_bilder/1928_neueste.jpg",
+      "url": "/sites/default/files/bahr_bilder/1928_neueste.jpg"
+    },
+    "filemime": "image/jpeg",
+    "filesize": 380940,
+    "status": true,
+    "created": "2020-02-18T15:00:35+00:00",
+    "changed": "2020-02-18T15:11:43+00:00"
+  },
+  "relationships": {
+    "uid": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/file/file/51d2d18b-ae50-4d54-9741-5a20bc6b4bb3/uid"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/file/file/51d2d18b-ae50-4d54-9741-5a20bc6b4bb3/relationships/uid"
+        }
+      }
+    }
+  }
+}

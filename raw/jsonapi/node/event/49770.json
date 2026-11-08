@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "595076dd-ae06-4649-8cb3-06741e4dd7d2",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/595076dd-ae06-4649-8cb3-06741e4dd7d2?resourceVersion=id%3A3541"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/595076dd-ae06-4649-8cb3-06741e4dd7d2?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49770,
+    "drupal_internal__vid": 3541,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Zusammenfassung Burgtheater",
+    "created": "2012-01-12T10:25:37+00:00",
+    "changed": "2012-01-12T10:25:37+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49770",
+      "pid": 1582,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "1922 fasst Bahr kurz zusammen, was er in seiner dramaturgischen Leitung des Burgtheaters geleistet hat:<blockquote>[Paul Kornfeld: Himmel und Hölle] Daß ich dieses Stück zur Aufführung im Burgtheater annahm, gehört zu den Aktiven des halben Jahrs, das ich dort verlor, und ich sage mir, wenn ich jenes Abenteuers, selten genug, zuweilen gedenke, zur Beschwichtigung des aufsteigenden Ärgers heute noch: Erinner dich der Vorstellungen der Antigone, der natürlichen Tochter, der Phädra, von Dies irae und Jaákobs Traum und erinner dich, daß du Kornfelds \"Himmel und Hölle\" dem Burgtheater gesichert hast, das ergibt zusammen immerhin mehr, als mancher Burgtheaterdirektor in fünf Jahren geleistet hat.</blockquote>",
+      "format": "full_html",
+      "processed": "1922 fasst Bahr kurz zusammen, was er in seiner dramaturgischen Leitung des Burgtheaters geleistet hat:<blockquote>[Paul Kornfeld: Himmel und Hölle] Daß ich dieses Stück zur Aufführung im Burgtheater annahm, gehört zu den Aktiven des halben Jahrs, das ich dort verlor, und ich sage mir, wenn ich jenes Abenteuers, selten genug, zuweilen gedenke, zur Beschwichtigung des aufsteigenden Ärgers heute noch: Erinner dich der Vorstellungen der Antigone, der natürlichen Tochter, der Phädra, von Dies irae und Jaákobs Traum und erinner dich, daß du Kornfelds \"Himmel und Hölle\" dem Burgtheater gesichert hast, das ergibt zusammen immerhin mehr, als mancher Burgtheaterdirektor in fünf Jahren geleistet hat.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1919-04-01",
+      "end_value": "1919-04-01"
+    },
+    "field_sources": [
+      "Liebe der Lebenden, II, 49.",
+      "(Auf 1. April 1919 datiert)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/595076dd-ae06-4649-8cb3-06741e4dd7d2/node_type?resourceVersion=id%3A3541"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/595076dd-ae06-4649-8cb3-06741e4dd7d2/relationships/node_type?resourceVersion=id%3A3541"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/595076dd-ae06-4649-8cb3-06741e4dd7d2/revision_uid?resourceVersion=id%3A3541"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/595076dd-ae06-4649-8cb3-06741e4dd7d2/relationships/revision_uid?resourceVersion=id%3A3541"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/595076dd-ae06-4649-8cb3-06741e4dd7d2/uid?resourceVersion=id%3A3541"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/595076dd-ae06-4649-8cb3-06741e4dd7d2/relationships/uid?resourceVersion=id%3A3541"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/595076dd-ae06-4649-8cb3-06741e4dd7d2/field_event_type?resourceVersion=id%3A3541"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/595076dd-ae06-4649-8cb3-06741e4dd7d2/relationships/field_event_type?resourceVersion=id%3A3541"
+        }
+      }
+    }
+  }
+}

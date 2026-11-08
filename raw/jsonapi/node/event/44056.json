@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "e86b4d12-fbc8-4b0e-a3ae-d265d8310574",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/e86b4d12-fbc8-4b0e-a3ae-d265d8310574?resourceVersion=id%3A2976"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/e86b4d12-fbc8-4b0e-a3ae-d265d8310574?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44056,
+    "drupal_internal__vid": 2976,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Semmering",
+    "created": "2011-09-02T10:10:32+00:00",
+    "changed": "2011-09-02T10:10:32+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44056",
+      "pid": 954,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Vom 9. bis zum 20. April 1906 auf den Semmering.",
+      "format": "full_html",
+      "processed": "Vom 9. bis zum 20. April 1906 auf den Semmering.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1906-04-09",
+      "end_value": "1906-04-20"
+    },
+    "field_sources": [
+      "Tagebücher (Csàky), V, 13-14."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e86b4d12-fbc8-4b0e-a3ae-d265d8310574/node_type?resourceVersion=id%3A2976"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e86b4d12-fbc8-4b0e-a3ae-d265d8310574/relationships/node_type?resourceVersion=id%3A2976"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e86b4d12-fbc8-4b0e-a3ae-d265d8310574/revision_uid?resourceVersion=id%3A2976"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e86b4d12-fbc8-4b0e-a3ae-d265d8310574/relationships/revision_uid?resourceVersion=id%3A2976"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e86b4d12-fbc8-4b0e-a3ae-d265d8310574/uid?resourceVersion=id%3A2976"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e86b4d12-fbc8-4b0e-a3ae-d265d8310574/relationships/uid?resourceVersion=id%3A2976"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e86b4d12-fbc8-4b0e-a3ae-d265d8310574/field_event_type?resourceVersion=id%3A2976"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e86b4d12-fbc8-4b0e-a3ae-d265d8310574/relationships/field_event_type?resourceVersion=id%3A2976"
+        }
+      }
+    }
+  }
+}

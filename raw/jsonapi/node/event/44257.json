@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "283e94e4-010e-4495-9992-c1f213f8921a",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/283e94e4-010e-4495-9992-c1f213f8921a?resourceVersion=id%3A3170"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/283e94e4-010e-4495-9992-c1f213f8921a?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44257,
+    "drupal_internal__vid": 3170,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "\"Die gute Schule\", Linz",
+    "created": "2011-10-04T09:43:40+00:00",
+    "changed": "2011-10-04T14:18:55+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44257",
+      "pid": 1149,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 3. April 1890 schreibt Bahr an Arno Holz aus Linz über \"Die gute Schule\", die bei Schabelitz verlegt werden soll und deren ganzer Titel so lauten soll<blockquote>Romane und Novellen<br>von<br>Hermann Bahr<br><br>I<br><br><strong>Gradus ad Virtutem<br></strong>États d'Âme</strong></blockquote>Er feilt noch am letzten Kapitel. Am 5. April weist er auf die Änderung des Namens der Hauptfigur von \"Nini\" zu \"Fifi\" hin.",
+      "format": "full_html",
+      "processed": "Am 3. April 1890 schreibt Bahr an Arno Holz aus Linz über \"Die gute Schule\", die bei Schabelitz verlegt werden soll und deren ganzer Titel so lauten soll<blockquote>Romane und Novellen<br>von<br>Hermann Bahr<br><br>I<br><br><strong>Gradus ad Virtutem<br></strong>États d'Âme</blockquote>Er feilt noch am letzten Kapitel. Am 5. April weist er auf die Änderung des Namens der Hauptfigur von \"Nini\" zu \"Fifi\" hin.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1890-04-03",
+      "end_value": "1890-04-05"
+    },
+    "field_sources": [
+      "Briefe in Abschrift im Nachlass Bahr, Kiste 56, An Holz, 3.4.1890 und An Holz, 5.4.1890"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/283e94e4-010e-4495-9992-c1f213f8921a/node_type?resourceVersion=id%3A3170"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/283e94e4-010e-4495-9992-c1f213f8921a/relationships/node_type?resourceVersion=id%3A3170"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/283e94e4-010e-4495-9992-c1f213f8921a/revision_uid?resourceVersion=id%3A3170"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/283e94e4-010e-4495-9992-c1f213f8921a/relationships/revision_uid?resourceVersion=id%3A3170"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/283e94e4-010e-4495-9992-c1f213f8921a/uid?resourceVersion=id%3A3170"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/283e94e4-010e-4495-9992-c1f213f8921a/relationships/uid?resourceVersion=id%3A3170"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/283e94e4-010e-4495-9992-c1f213f8921a/field_event_type?resourceVersion=id%3A3170"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/283e94e4-010e-4495-9992-c1f213f8921a/relationships/field_event_type?resourceVersion=id%3A3170"
+        }
+      }
+    }
+  }
+}

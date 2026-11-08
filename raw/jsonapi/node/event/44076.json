@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "0c541f3a-5516-4a7c-a95a-35e40b0967ca",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/0c541f3a-5516-4a7c-a95a-35e40b0967ca?resourceVersion=id%3A2993"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/0c541f3a-5516-4a7c-a95a-35e40b0967ca?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44076,
+    "drupal_internal__vid": 2993,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Hamburg",
+    "created": "2011-09-05T09:12:49+00:00",
+    "changed": "2011-09-05T09:13:45+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44076",
+      "pid": 971,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Vom 22. bis zum 23. November 1908 hält sich Bahr in Hamburg auf. Am zweiten Tag beendet er seine Deutschland-Tournee mit einer Lesung in der \"Literarischen Gesellschaft\". Unmittelbar danach besteigt er den Nachtzug und fährt über Berlin nach Wien.\r\n",
+      "format": "full_html",
+      "processed": "Vom 22. bis zum 23. November 1908 hält sich Bahr in Hamburg auf. Am zweiten Tag beendet er seine Deutschland-Tournee mit einer Lesung in der \"Literarischen Gesellschaft\". Unmittelbar danach besteigt er den Nachtzug und fährt über Berlin nach Wien.\n",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1908-11-22",
+      "end_value": "1908-11-23"
+    },
+    "field_sources": [
+      "Hamburger Zeitung, 24.11.1908.",
+      "Tagebücher (Csàky), V, 392-393."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0c541f3a-5516-4a7c-a95a-35e40b0967ca/node_type?resourceVersion=id%3A2993"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0c541f3a-5516-4a7c-a95a-35e40b0967ca/relationships/node_type?resourceVersion=id%3A2993"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0c541f3a-5516-4a7c-a95a-35e40b0967ca/revision_uid?resourceVersion=id%3A2993"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0c541f3a-5516-4a7c-a95a-35e40b0967ca/relationships/revision_uid?resourceVersion=id%3A2993"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0c541f3a-5516-4a7c-a95a-35e40b0967ca/uid?resourceVersion=id%3A2993"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0c541f3a-5516-4a7c-a95a-35e40b0967ca/relationships/uid?resourceVersion=id%3A2993"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0c541f3a-5516-4a7c-a95a-35e40b0967ca/field_event_type?resourceVersion=id%3A2993"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0c541f3a-5516-4a7c-a95a-35e40b0967ca/relationships/field_event_type?resourceVersion=id%3A2993"
+        }
+      }
+    }
+  }
+}

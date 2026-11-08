@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "df3da113-c462-4fb0-97c8-42b16019cd76",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/df3da113-c462-4fb0-97c8-42b16019cd76?resourceVersion=id%3A3532"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/df3da113-c462-4fb0-97c8-42b16019cd76?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49761,
+    "drupal_internal__vid": 3532,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Feuilletonhonorar",
+    "created": "2012-01-09T12:16:45+00:00",
+    "changed": "2012-01-09T12:16:45+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49761",
+      "pid": 1573,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "In seiner \"Tagebuch\"-Kolumne schreibt Bahr zum 1. Juni 1921:<blockquote>Vor zwanzig Jahren wurde mir jedes Feuilleton mit fünfzig Gulden bezahlt. Wenn ich im Matschakerhof aß, gab ich einen Gulden aus. Ich konnte für ein Feuilleton also fünfzigmal essen. Jetzt kostet ein Essen zweihundert Kronen, der Preis eines Feuilletons wäre folglich zweihundert mal fünfzig gleich zehntausend Kronen. Den Preissturz des Feuilletons kann ich mir nicht erklären.</blockquote>Die Angaben zum Honorar dürften sich also auf seine Anstellung beim Steyrermühl-Konzern beziehen. ",
+      "format": "full_html",
+      "processed": "In seiner \"Tagebuch\"-Kolumne schreibt Bahr zum 1. Juni 1921:<blockquote>Vor zwanzig Jahren wurde mir jedes Feuilleton mit fünfzig Gulden bezahlt. Wenn ich im Matschakerhof aß, gab ich einen Gulden aus. Ich konnte für ein Feuilleton also fünfzigmal essen. Jetzt kostet ein Essen zweihundert Kronen, der Preis eines Feuilletons wäre folglich zweihundert mal fünfzig gleich zehntausend Kronen. Den Preissturz des Feuilletons kann ich mir nicht erklären.</blockquote>Die Angaben zum Honorar dürften sich also auf seine Anstellung beim Steyrermühl-Konzern beziehen. ",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1901-06-01",
+      "end_value": "1901-06-01"
+    },
+    "field_sources": [
+      "Liebe der Lebenden, I, 176.",
+      "(Hier auf 1.6.1901 datiert)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/df3da113-c462-4fb0-97c8-42b16019cd76/node_type?resourceVersion=id%3A3532"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/df3da113-c462-4fb0-97c8-42b16019cd76/relationships/node_type?resourceVersion=id%3A3532"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/df3da113-c462-4fb0-97c8-42b16019cd76/revision_uid?resourceVersion=id%3A3532"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/df3da113-c462-4fb0-97c8-42b16019cd76/relationships/revision_uid?resourceVersion=id%3A3532"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/df3da113-c462-4fb0-97c8-42b16019cd76/uid?resourceVersion=id%3A3532"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/df3da113-c462-4fb0-97c8-42b16019cd76/relationships/uid?resourceVersion=id%3A3532"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "d579e54c-64dd-4193-a9ef-da87efb3ed16",
+          "meta": {
+            "drupal_internal__target_id": 8
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/df3da113-c462-4fb0-97c8-42b16019cd76/field_event_type?resourceVersion=id%3A3532"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/df3da113-c462-4fb0-97c8-42b16019cd76/relationships/field_event_type?resourceVersion=id%3A3532"
+        }
+      }
+    }
+  }
+}

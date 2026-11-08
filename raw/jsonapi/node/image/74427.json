@@ -1,0 +1,109 @@
+{
+  "type": "node--image",
+  "id": "2c7c60cf-e432-48af-ba13-d83db813fe1f",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/image/2c7c60cf-e432-48af-ba13-d83db813fe1f?resourceVersion=id%3A3984"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/image/2c7c60cf-e432-48af-ba13-d83db813fe1f?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74427,
+    "drupal_internal__vid": 3984,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:44:08+00:00",
+    "status": true,
+    "title": "1913 Karikatur",
+    "created": "2012-11-06T12:50:46+00:00",
+    "changed": "2012-11-06T12:53:05+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/bild/74427",
+      "pid": 1801,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<i>Josef Danilowatz. In: Die Muskete, 16 (1913) #407, 6. (17.7.1913)</i>",
+      "format": "full_html",
+      "processed": "<i>Josef Danilowatz. In: Die Muskete, 16 (1913) #407, 6. (17.7.1913)</i>",
+      "summary": null
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "e2381624-d098-4c5b-bdd7-5dbfd773b84e",
+        "meta": {
+          "drupal_internal__target_id": "image"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/2c7c60cf-e432-48af-ba13-d83db813fe1f/node_type?resourceVersion=id%3A3984"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/2c7c60cf-e432-48af-ba13-d83db813fe1f/relationships/node_type?resourceVersion=id%3A3984"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/2c7c60cf-e432-48af-ba13-d83db813fe1f/revision_uid?resourceVersion=id%3A3984"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/2c7c60cf-e432-48af-ba13-d83db813fe1f/relationships/revision_uid?resourceVersion=id%3A3984"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/2c7c60cf-e432-48af-ba13-d83db813fe1f/uid?resourceVersion=id%3A3984"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/2c7c60cf-e432-48af-ba13-d83db813fe1f/relationships/uid?resourceVersion=id%3A3984"
+        }
+      }
+    },
+    "field_images": {
+      "data": [
+        {
+          "type": "media--image",
+          "id": "9ce562a6-1121-4d80-b572-5dbffa7a2d24",
+          "meta": {
+            "drupal_internal__target_id": 164
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/2c7c60cf-e432-48af-ba13-d83db813fe1f/field_images?resourceVersion=id%3A3984"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/2c7c60cf-e432-48af-ba13-d83db813fe1f/relationships/field_images?resourceVersion=id%3A3984"
+        }
+      }
+    }
+  }
+}

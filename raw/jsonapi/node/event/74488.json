@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "a99e0bb9-d9af-4c91-94d7-ee6b92c7f38f",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/a99e0bb9-d9af-4c91-94d7-ee6b92c7f38f?resourceVersion=id%3A3799"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/a99e0bb9-d9af-4c91-94d7-ee6b92c7f38f?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74488,
+    "drupal_internal__vid": 3799,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Bad Gastein",
+    "created": "2013-03-18T11:43:39+00:00",
+    "changed": "2013-03-18T12:35:44+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/74488",
+      "pid": 1862,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Auf die Frage, wo er den Sommer 1930 verbringen werde, sagt Bahr Mitte Juni 1930, er verbringe ihn in Bad Gastein und Bad Tölz. Am 25. Juli verabschiedet er sich von Bad Gastein.",
+      "format": "full_html",
+      "processed": "Auf die Frage, wo er den Sommer 1930 verbringen werde, sagt Bahr Mitte Juni 1930, er verbringe ihn in Bad Gastein und Bad Tölz. Am 25. Juli verabschiedet er sich von Bad Gastein.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1930-07-06",
+      "end_value": "1930-07-25"
+    },
+    "field_sources": [
+      "Hermann Bahr: Wo verbringen Sie den Sommer? Eine Rundfrage des \"Neuen Wiener Journals\" an prominente Schriftsteller, Musiker und Bühnenkünstler. Neues Wiener Journal, 38 (1930) #13134, 13. (15.6.1930)",
+      "Hermann Bahr: Tagebuch. 25. Juli. Neues Wiener Journal, 38 (1930) #13183, 12-13. (3.8.1930) "
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a99e0bb9-d9af-4c91-94d7-ee6b92c7f38f/node_type?resourceVersion=id%3A3799"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a99e0bb9-d9af-4c91-94d7-ee6b92c7f38f/relationships/node_type?resourceVersion=id%3A3799"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a99e0bb9-d9af-4c91-94d7-ee6b92c7f38f/revision_uid?resourceVersion=id%3A3799"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a99e0bb9-d9af-4c91-94d7-ee6b92c7f38f/relationships/revision_uid?resourceVersion=id%3A3799"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a99e0bb9-d9af-4c91-94d7-ee6b92c7f38f/uid?resourceVersion=id%3A3799"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a99e0bb9-d9af-4c91-94d7-ee6b92c7f38f/relationships/uid?resourceVersion=id%3A3799"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a99e0bb9-d9af-4c91-94d7-ee6b92c7f38f/field_event_type?resourceVersion=id%3A3799"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a99e0bb9-d9af-4c91-94d7-ee6b92c7f38f/relationships/field_event_type?resourceVersion=id%3A3799"
+        }
+      }
+    }
+  }
+}

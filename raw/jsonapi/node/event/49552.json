@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "6cc15ea9-9022-4b35-ba90-52659ddbac79",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/6cc15ea9-9022-4b35-ba90-52659ddbac79?resourceVersion=id%3A3385"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/6cc15ea9-9022-4b35-ba90-52659ddbac79?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49552,
+    "drupal_internal__vid": 3385,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Radium Trinkkur",
+    "created": "2011-11-02T10:43:56+00:00",
+    "changed": "2011-11-02T10:43:56+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49552",
+      "pid": 1369,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "In einem Brief an Redlich teilt Bahr diesem am 22. Dezember 1924 mit, dass er gerade eine Radium-Trinkkur mache und am 26. nach Salzburg gehe, um sich zu erholen.",
+      "format": "full_html",
+      "processed": "In einem Brief an Redlich teilt Bahr diesem am 22. Dezember 1924 mit, dass er gerade eine Radium-Trinkkur mache und am 26. nach Salzburg gehe, um sich zu erholen.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1924-12-22",
+      "end_value": "1924-12-22"
+    },
+    "field_sources": [
+      "Bahr/Redlich, 536."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6cc15ea9-9022-4b35-ba90-52659ddbac79/node_type?resourceVersion=id%3A3385"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6cc15ea9-9022-4b35-ba90-52659ddbac79/relationships/node_type?resourceVersion=id%3A3385"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6cc15ea9-9022-4b35-ba90-52659ddbac79/revision_uid?resourceVersion=id%3A3385"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6cc15ea9-9022-4b35-ba90-52659ddbac79/relationships/revision_uid?resourceVersion=id%3A3385"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6cc15ea9-9022-4b35-ba90-52659ddbac79/uid?resourceVersion=id%3A3385"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6cc15ea9-9022-4b35-ba90-52659ddbac79/relationships/uid?resourceVersion=id%3A3385"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6cc15ea9-9022-4b35-ba90-52659ddbac79/field_event_type?resourceVersion=id%3A3385"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6cc15ea9-9022-4b35-ba90-52659ddbac79/relationships/field_event_type?resourceVersion=id%3A3385"
+        }
+      }
+    }
+  }
+}

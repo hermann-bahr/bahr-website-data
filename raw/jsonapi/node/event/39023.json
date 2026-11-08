@@ -1,0 +1,119 @@
+{
+  "type": "node--event",
+  "id": "726626ee-6e68-4aad-b566-67a00e584957",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/726626ee-6e68-4aad-b566-67a00e584957?resourceVersion=id%3A2801"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/726626ee-6e68-4aad-b566-67a00e584957?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39023,
+    "drupal_internal__vid": 2801,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Juden in Österreich",
+    "created": "2011-04-01T13:42:16+00:00",
+    "changed": "2011-09-15T17:17:24+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39023",
+      "pid": 757,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Das Neue Wiener Journal kommentiert in seiner Einleitung zum Abdruck der Rede den Vortrag vom 19. Februar 1911 in Prag:\r\n<blockquote>Hermann Bahr hat am Sonntag im Saal des jüdischen Rathauses in Prag über Einladung der Rede- und Lesehalle jüdischer Hochschüler einen Vortrag über dieses Thema gehalten. Wenn wir uns auch nicht mit allen Details des Ausführungen des temperamentvollen Schriftstellers identifizieren, halten wir sie doch für so interessant, daß wir sie unseren Lesern vermitteln zu sollen glauben. (D. Red.)</blockquote>\r\n",
+      "format": "full_html",
+      "processed": "Das Neue Wiener Journal kommentiert in seiner Einleitung zum Abdruck der Rede den Vortrag vom 19. Februar 1911 in Prag:\n<blockquote>Hermann Bahr hat am Sonntag im Saal des jüdischen Rathauses in Prag über Einladung der Rede- und Lesehalle jüdischer Hochschüler einen Vortrag über dieses Thema gehalten. Wenn wir uns auch nicht mit allen Details des Ausführungen des temperamentvollen Schriftstellers identifizieren, halten wir sie doch für so interessant, daß wir sie unseren Lesern vermitteln zu sollen glauben. (D. Red.)</blockquote>\n",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1911-02-19",
+      "end_value": "1911-02-19"
+    },
+    "field_sources": [
+      "Hermann Bahr: Die Juden in Österreich. Neues Wiener Journal, 19 (1911) #6227, 1-3. (21.2.1911)",
+      "Hermann Bahr über die Judenfrage. Prager Tagblatt, 36 (1911) #51, 2. (20.2.1911)",
+      "Hermann Bahr: Die Juden in Österreich. Vortrag. Dr. Bloch's österreichische Wochenschrift, 28 (1911) #10, 163-165. (10.3.1911)",
+      "Hermann Bahr: Die Juden. Selbstwehr, 5 (1911) #8, 1-4. (24.2.1911) "
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/726626ee-6e68-4aad-b566-67a00e584957/node_type?resourceVersion=id%3A2801"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/726626ee-6e68-4aad-b566-67a00e584957/relationships/node_type?resourceVersion=id%3A2801"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/726626ee-6e68-4aad-b566-67a00e584957/revision_uid?resourceVersion=id%3A2801"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/726626ee-6e68-4aad-b566-67a00e584957/relationships/revision_uid?resourceVersion=id%3A2801"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/726626ee-6e68-4aad-b566-67a00e584957/uid?resourceVersion=id%3A2801"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/726626ee-6e68-4aad-b566-67a00e584957/relationships/uid?resourceVersion=id%3A2801"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/726626ee-6e68-4aad-b566-67a00e584957/field_event_type?resourceVersion=id%3A2801"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/726626ee-6e68-4aad-b566-67a00e584957/relationships/field_event_type?resourceVersion=id%3A2801"
+        }
+      }
+    }
+  }
+}

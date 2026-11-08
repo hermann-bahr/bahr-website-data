@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "83ca3ada-1ab6-4b73-ac65-5e52b70470d1",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/83ca3ada-1ab6-4b73-ac65-5e52b70470d1?resourceVersion=id%3A3527"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/83ca3ada-1ab6-4b73-ac65-5e52b70470d1?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49756,
+    "drupal_internal__vid": 3527,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Richard Fellner",
+    "created": "2012-01-03T17:49:29+00:00",
+    "changed": "2012-01-03T17:49:29+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49756",
+      "pid": 1568,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Richard Fellner stellt einer der österreichischen Freunde Bahrs in Berlin zu seiner Studienzeit dar. Bahr erwähnt in in einem \"Tagebuch\" zu Michael Hainisch:<blockquote>Er bezog die Bude Richard Fellners, seines Vetters, wenn mich mein Gedächtnis nicht täuscht, der damals als Burschenschafter, ganz wie ich, in Oesterreich für gemeingefährlich galt, später aber ein sehr braver Dramaturg des Wiener Deutschen Volkstheaters wurde. Die Bude war in der Schumannstraße, ein paar Schritte vom Deutschen Theater, und wurde von einer typischen Berliner Studentenwirtin regiert;</blockquote>\r\nAm 1. Februar 1885 treten die beiden öffentlich von der Mitarbeit an der Kyffhäuser-Zeitung zurück, was zumindest eine nachweisbare Nähe postuliert.",
+      "format": "full_html",
+      "processed": "Richard Fellner stellt einer der österreichischen Freunde Bahrs in Berlin zu seiner Studienzeit dar. Bahr erwähnt in in einem \"Tagebuch\" zu Michael Hainisch:<blockquote>Er bezog die Bude Richard Fellners, seines Vetters, wenn mich mein Gedächtnis nicht täuscht, der damals als Burschenschafter, ganz wie ich, in Oesterreich für gemeingefährlich galt, später aber ein sehr braver Dramaturg des Wiener Deutschen Volkstheaters wurde. Die Bude war in der Schumannstraße, ein paar Schritte vom Deutschen Theater, und wurde von einer typischen Berliner Studentenwirtin regiert;</blockquote>\nAm 1. Februar 1885 treten die beiden öffentlich von der Mitarbeit an der Kyffhäuser-Zeitung zurück, was zumindest eine nachweisbare Nähe postuliert.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1885-02-01",
+      "end_value": "1885-02-01"
+    },
+    "field_sources": [
+      " Tagebuch. 10. Dezember. Buchausgabe: Kritik der Gegenwart, 293-296, hier: 293.",
+      "Erich Hermann Bahr, Karl Beurle, Richard Fellner, Wilhelm Heine, Wolfgang Heine und Theodor Jaensch: Erklärung. Unverfälschte deutsche Worte, 3 (1885) #3, VIII. (1.2.1885)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/83ca3ada-1ab6-4b73-ac65-5e52b70470d1/node_type?resourceVersion=id%3A3527"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/83ca3ada-1ab6-4b73-ac65-5e52b70470d1/relationships/node_type?resourceVersion=id%3A3527"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/83ca3ada-1ab6-4b73-ac65-5e52b70470d1/revision_uid?resourceVersion=id%3A3527"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/83ca3ada-1ab6-4b73-ac65-5e52b70470d1/relationships/revision_uid?resourceVersion=id%3A3527"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/83ca3ada-1ab6-4b73-ac65-5e52b70470d1/uid?resourceVersion=id%3A3527"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/83ca3ada-1ab6-4b73-ac65-5e52b70470d1/relationships/uid?resourceVersion=id%3A3527"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/83ca3ada-1ab6-4b73-ac65-5e52b70470d1/field_event_type?resourceVersion=id%3A3527"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/83ca3ada-1ab6-4b73-ac65-5e52b70470d1/relationships/field_event_type?resourceVersion=id%3A3527"
+        }
+      }
+    }
+  }
+}

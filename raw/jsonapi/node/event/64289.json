@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "26c0590a-0ffb-4bbb-a550-1e3175619f1f",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/26c0590a-0ffb-4bbb-a550-1e3175619f1f?resourceVersion=id%3A3679"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/26c0590a-0ffb-4bbb-a550-1e3175619f1f?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 64289,
+    "drupal_internal__vid": 3679,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Mara „Mizi“ Herwirsch",
+    "created": "2012-09-26T17:14:34+00:00",
+    "changed": "2013-02-19T14:12:27+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/64289",
+      "pid": 1722,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "In einem undatierten Brief - vermutlich zu einem runden Geburtstag Bahrs - 55? 60? - schreibt Mara Firbas, wohnhaft in der Währingerstraße 56, mittlerweile verheiratet mit Kind über ihre lange Freundschaft zu Bahr: <blockquote>Warst doch Du – der stets geistreich-amüsante Hermann, in der feschen Einjährigenuniform - das Ideal meiner Backfischschwärmerei!</blockquote>Die Briefe Bahrs an Mara Herwirsch sind im Nachlass in Kopie ebenfalls aufbewahrt, die Freundschaft dürfte aus der Linzer Zeit herrühren. (Vgl. auch die anderen Briefe von der Famile Herwirsch!)",
+      "format": "full_html",
+      "processed": "In einem undatierten Brief - vermutlich zu einem runden Geburtstag Bahrs - 55? 60? - schreibt Mara Firbas, wohnhaft in der Währingerstraße 56, mittlerweile verheiratet mit Kind über ihre lange Freundschaft zu Bahr: <blockquote>Warst doch Du – der stets geistreich-amüsante Hermann, in der feschen Einjährigenuniform - das Ideal meiner Backfischschwärmerei!</blockquote>Die Briefe Bahrs an Mara Herwirsch sind im Nachlass in Kopie ebenfalls aufbewahrt, die Freundschaft dürfte aus der Linzer Zeit herrühren. (Vgl. auch die anderen Briefe von der Famile Herwirsch!)",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1887-10-01",
+      "end_value": "1887-10-01"
+    },
+    "field_sources": [
+      "Brief im Nachlass A 17539 BaM",
+      "(Da auch ein weiterer zum 50. Geburtstag Bahrs)",
+      "(Hier auf Oktober 1887 datiert)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/26c0590a-0ffb-4bbb-a550-1e3175619f1f/node_type?resourceVersion=id%3A3679"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/26c0590a-0ffb-4bbb-a550-1e3175619f1f/relationships/node_type?resourceVersion=id%3A3679"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/26c0590a-0ffb-4bbb-a550-1e3175619f1f/revision_uid?resourceVersion=id%3A3679"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/26c0590a-0ffb-4bbb-a550-1e3175619f1f/relationships/revision_uid?resourceVersion=id%3A3679"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/26c0590a-0ffb-4bbb-a550-1e3175619f1f/uid?resourceVersion=id%3A3679"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/26c0590a-0ffb-4bbb-a550-1e3175619f1f/relationships/uid?resourceVersion=id%3A3679"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/26c0590a-0ffb-4bbb-a550-1e3175619f1f/field_event_type?resourceVersion=id%3A3679"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/26c0590a-0ffb-4bbb-a550-1e3175619f1f/relationships/field_event_type?resourceVersion=id%3A3679"
+        }
+      }
+    }
+  }
+}

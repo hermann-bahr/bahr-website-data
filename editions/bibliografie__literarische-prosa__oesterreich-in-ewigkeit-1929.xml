@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bibliografie__literarische-prosa__oesterreich-in-ewigkeit-1929" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Österreich in Ewigkeit (1929)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">38901</idno>
+        <idno type="drupal-alias">/bibliografie/38901</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bibliografie/38901">https://bahr.univie.ac.at/bibliografie/38901</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+        <bibl type="beschriebene-ausgabe">
+          <author>Hermann Bahr</author>
+          <title type="main">Österreich in Ewigkeit</title>
+          <title type="sub">Roman</title>
+          <pubPlace>Hildesheim</pubPlace>
+          <publisher>F. Borgmeyer</publisher>
+          <date>1929</date>
+          <extent>194</extent>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="1" key="bibliografie">Bibliografie</term>
+          <term n="3" key="literarische-prosa">Literarische Prosa</term>
+          <term n="14" key="oesterreich-in-ewigkeit-1929" type="eintrag">Österreich in Ewigkeit (1929)</term>
+        </keywords>
+        <classCode scheme="drupal-type">bibliographie</classCode>
+        <keywords scheme="bibliografie_type">
+          <term>Literarische Prosa</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2011-03-04T13:36:22+00:00" type="created">angelegt in Drupal</change>
+      <change when="2011-11-21T15:42:35+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="bib">
+        <head>Bibliografie</head>
+        <table type="bibliografie">
+          <row>
+            <cell>Autor:</cell>
+            <cell>Hermann Bahr</cell>
+          </row>
+          <row>
+            <cell>Titel:</cell>
+            <cell>Österreich in Ewigkeit</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>Roman</cell>
+          </row>
+          <row>
+            <cell>Ort:</cell>
+            <cell>Hildesheim</cell>
+          </row>
+          <row>
+            <cell>Verlag:</cell>
+            <cell>F. Borgmeyer</cell>
+          </row>
+          <row>
+            <cell>Jahr:</cell>
+            <cell>1929</cell>
+          </row>
+          <row>
+            <cell>Seiten:</cell>
+            <cell>194</cell>
+          </row>
+        </table>
+      </div>
+      <div xml:id="rezens">
+        <head>Rezensionen</head>
+        <p>Im Archiv ab dem 11.12.1929. Hü. in: Münchner Neueste Nachrichten, 82 (1929) #349, 7 (23.12.1929) [zusammen mit "Labyrinth der Gegenwart"] Kurt Lachmann in: Frankfurter Zeitung, 18.5.1930. Martin Rockenbach in: Das deutsche Buch, 10 (1930) #3/4 (März/April), 118.</p>
+      </div>
+      <div xml:id="digit">
+        <head>Digitalisate</head>
+        <list rend="bulleted">
+          <item>
+            <ref target="http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=104">ÖNB Anno</ref>
+          </item>
+        </list>
+      </div>
+    </body>
+  </text>
+</TEI>

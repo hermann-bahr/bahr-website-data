@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "38e65c8a-f203-4c81-aa44-4d7626e8cd1f",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/38e65c8a-f203-4c81-aa44-4d7626e8cd1f?resourceVersion=id%3A3768"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/38e65c8a-f203-4c81-aa44-4d7626e8cd1f?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74451,
+    "drupal_internal__vid": 3768,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Görlitz",
+    "created": "2012-12-11T13:38:41+00:00",
+    "changed": "2012-12-11T13:38:41+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/74451",
+      "pid": 1825,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 30. Jänner 1913 ist Bahr in Görlitz.",
+      "format": "full_html",
+      "processed": "Am 30. Jänner 1913 ist Bahr in Görlitz.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1913-01-30",
+      "end_value": "1913-01-30"
+    },
+    "field_sources": [
+      "Nachlass Schachtel 104: Varia, Auszüge aus einer Zitatzusammestellung über Natur (aus Briefen an Anna BM)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/38e65c8a-f203-4c81-aa44-4d7626e8cd1f/node_type?resourceVersion=id%3A3768"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/38e65c8a-f203-4c81-aa44-4d7626e8cd1f/relationships/node_type?resourceVersion=id%3A3768"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/38e65c8a-f203-4c81-aa44-4d7626e8cd1f/revision_uid?resourceVersion=id%3A3768"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/38e65c8a-f203-4c81-aa44-4d7626e8cd1f/relationships/revision_uid?resourceVersion=id%3A3768"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/38e65c8a-f203-4c81-aa44-4d7626e8cd1f/uid?resourceVersion=id%3A3768"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/38e65c8a-f203-4c81-aa44-4d7626e8cd1f/relationships/uid?resourceVersion=id%3A3768"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/38e65c8a-f203-4c81-aa44-4d7626e8cd1f/field_event_type?resourceVersion=id%3A3768"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/38e65c8a-f203-4c81-aa44-4d7626e8cd1f/relationships/field_event_type?resourceVersion=id%3A3768"
+        }
+      }
+    }
+  }
+}

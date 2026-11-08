@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "f1507fd6-35e5-48cc-808a-7a9e044d2458",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f1507fd6-35e5-48cc-808a-7a9e044d2458?resourceVersion=id%3A3151"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f1507fd6-35e5-48cc-808a-7a9e044d2458?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44237,
+    "drupal_internal__vid": 3151,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Linkes Ohr taub",
+    "created": "2011-10-03T10:10:23+00:00",
+    "changed": "2011-10-20T14:38:45+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44237",
+      "pid": 1130,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 9. März 1921 schreibt Bahr Kvapil, dass er am linken Ohr taub werde und dies von Störungen der Gleichgewichtsnerven begleitet werde. An Redlich wird er am 8. August deutlicher:<blockquote>Ich bin krank, auf eine erträgliche, doch höchst lästige Art: die seit 1919 mich heimsuchende Menière tritt nämlich, während sie sich 1919 und 1920 in unangenehmen, aber nach drei Tagen vollendeten heftigen Anfällen austobte, heuer schleichend auf: Ich hatte nur einen einzigen deutlichen Anfall heuer und auch der dauerte kaum drei Stunden, aber dafür hab ich seit Monaten täglich allerliebste harmlose Duodezmenièren, die kaum länger als zwei drei Minuten dauern, aber dafür an manchen Tagen sich jede halbe Stunde wiederholen, es ist kein Vergnügen.</blockquote>",
+      "format": "full_html",
+      "processed": "Am 9. März 1921 schreibt Bahr Kvapil, dass er am linken Ohr taub werde und dies von Störungen der Gleichgewichtsnerven begleitet werde. An Redlich wird er am 8. August deutlicher:<blockquote>Ich bin krank, auf eine erträgliche, doch höchst lästige Art: die seit 1919 mich heimsuchende Menière tritt nämlich, während sie sich 1919 und 1920 in unangenehmen, aber nach drei Tagen vollendeten heftigen Anfällen austobte, heuer schleichend auf: Ich hatte nur einen einzigen deutlichen Anfall heuer und auch der dauerte kaum drei Stunden, aber dafür hab ich seit Monaten täglich allerliebste harmlose Duodezmenièren, die kaum länger als zwei drei Minuten dauern, aber dafür an manchen Tagen sich jede halbe Stunde wiederholen, es ist kein Vergnügen.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1921-03-09",
+      "end_value": "1921-03-09"
+    },
+    "field_sources": [
+      "Bahr/Kvapil, 245.",
+      "Bahr/Redlich, 458."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f1507fd6-35e5-48cc-808a-7a9e044d2458/node_type?resourceVersion=id%3A3151"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f1507fd6-35e5-48cc-808a-7a9e044d2458/relationships/node_type?resourceVersion=id%3A3151"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f1507fd6-35e5-48cc-808a-7a9e044d2458/revision_uid?resourceVersion=id%3A3151"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f1507fd6-35e5-48cc-808a-7a9e044d2458/relationships/revision_uid?resourceVersion=id%3A3151"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f1507fd6-35e5-48cc-808a-7a9e044d2458/uid?resourceVersion=id%3A3151"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f1507fd6-35e5-48cc-808a-7a9e044d2458/relationships/uid?resourceVersion=id%3A3151"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f1507fd6-35e5-48cc-808a-7a9e044d2458/field_event_type?resourceVersion=id%3A3151"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f1507fd6-35e5-48cc-808a-7a9e044d2458/relationships/field_event_type?resourceVersion=id%3A3151"
+        }
+      }
+    }
+  }
+}

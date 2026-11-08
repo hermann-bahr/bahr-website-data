@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "773a5f77-81e5-4345-89ef-4d9afba94f4d",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/773a5f77-81e5-4345-89ef-4d9afba94f4d?resourceVersion=id%3A3442"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/773a5f77-81e5-4345-89ef-4d9afba94f4d?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49616,
+    "drupal_internal__vid": 3442,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Letzter Artikel \"Deutsche Worte\"",
+    "created": "2011-11-16T15:35:15+00:00",
+    "changed": "2011-11-16T15:35:15+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49616",
+      "pid": 1432,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Im Mai-Heft 1889 erscheint Bahrs letzter Artikel für die \"Deutschen Worte\", für die er mit Unterbrechungen seit 1882 Beiträge verfasst hat.",
+      "format": "full_html",
+      "processed": "Im Mai-Heft 1889 erscheint Bahrs letzter Artikel für die \"Deutschen Worte\", für die er mit Unterbrechungen seit 1882 Beiträge verfasst hat.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1889-05-01",
+      "end_value": "1889-05-01"
+    },
+    "field_sources": [
+      "Hermann Bahr: Von deutscher Literatur. Deutsche Worte, Wien, 9 (1889) #5 (Mai), 200-203."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/773a5f77-81e5-4345-89ef-4d9afba94f4d/node_type?resourceVersion=id%3A3442"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/773a5f77-81e5-4345-89ef-4d9afba94f4d/relationships/node_type?resourceVersion=id%3A3442"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/773a5f77-81e5-4345-89ef-4d9afba94f4d/revision_uid?resourceVersion=id%3A3442"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/773a5f77-81e5-4345-89ef-4d9afba94f4d/relationships/revision_uid?resourceVersion=id%3A3442"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/773a5f77-81e5-4345-89ef-4d9afba94f4d/uid?resourceVersion=id%3A3442"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/773a5f77-81e5-4345-89ef-4d9afba94f4d/relationships/uid?resourceVersion=id%3A3442"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "d579e54c-64dd-4193-a9ef-da87efb3ed16",
+          "meta": {
+            "drupal_internal__target_id": 8
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/773a5f77-81e5-4345-89ef-4d9afba94f4d/field_event_type?resourceVersion=id%3A3442"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/773a5f77-81e5-4345-89ef-4d9afba94f4d/relationships/field_event_type?resourceVersion=id%3A3442"
+        }
+      }
+    }
+  }
+}

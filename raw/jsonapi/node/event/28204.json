@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "a60e9b7a-f149-4b9e-befc-2feef0810352",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/a60e9b7a-f149-4b9e-befc-2feef0810352?resourceVersion=id%3A2509"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/a60e9b7a-f149-4b9e-befc-2feef0810352?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28204,
+    "drupal_internal__vid": 2509,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Österreich über alles",
+    "created": "2010-10-09T10:35:11+00:00",
+    "changed": "2012-11-27T16:24:03+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28204",
+      "pid": 347,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 28. April 1917 wiederum spricht Bahr im Palais Harrach \"zugunsten des Piusvereins und der Verbreitung guter Soldatenlektüre\". Der Titel lautet: \"Österreich über alles\". Der Vortrag ist überlaufen, anwesend sind mehrere Mitglieder des Kaiserhauses und des Hochadels. Gegenüber Schnitzler kommentiert Salten, dass Gerty den Vortrag überzeugend fand.",
+      "format": "full_html",
+      "processed": "Am 28. April 1917 wiederum spricht Bahr im Palais Harrach \"zugunsten des Piusvereins und der Verbreitung guter Soldatenlektüre\". Der Titel lautet: \"Österreich über alles\". Der Vortrag ist überlaufen, anwesend sind mehrere Mitglieder des Kaiserhauses und des Hochadels. Gegenüber Schnitzler kommentiert Salten, dass Gerty den Vortrag überzeugend fand.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1917-04-28",
+      "end_value": "1917-04-28"
+    },
+    "field_sources": [
+      "Eberle, Josef: Hermann Bahr. Zu seinen Vorträgen in Wien. In: Reichspost, 24 (1917) #194, 2-3. (27.4.1917)",
+      "Hermann Bahrs Vortrag im Palais Harrach. In: Reichspost, 24 (1917) #198, 7. (29.4.1917)",
+      "Schnitzler: Tagebücher, VI, 47. (19.5.1917)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a60e9b7a-f149-4b9e-befc-2feef0810352/node_type?resourceVersion=id%3A2509"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a60e9b7a-f149-4b9e-befc-2feef0810352/relationships/node_type?resourceVersion=id%3A2509"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a60e9b7a-f149-4b9e-befc-2feef0810352/revision_uid?resourceVersion=id%3A2509"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a60e9b7a-f149-4b9e-befc-2feef0810352/relationships/revision_uid?resourceVersion=id%3A2509"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a60e9b7a-f149-4b9e-befc-2feef0810352/uid?resourceVersion=id%3A2509"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a60e9b7a-f149-4b9e-befc-2feef0810352/relationships/uid?resourceVersion=id%3A2509"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a60e9b7a-f149-4b9e-befc-2feef0810352/field_event_type?resourceVersion=id%3A2509"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a60e9b7a-f149-4b9e-befc-2feef0810352/relationships/field_event_type?resourceVersion=id%3A2509"
+        }
+      }
+    }
+  }
+}

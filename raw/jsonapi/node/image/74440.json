@@ -1,0 +1,109 @@
+{
+  "type": "node--image",
+  "id": "9f624ce0-466d-4316-a369-bed11fba254b",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/image/9f624ce0-466d-4316-a369-bed11fba254b?resourceVersion=id%3A3990"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/image/9f624ce0-466d-4316-a369-bed11fba254b?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74440,
+    "drupal_internal__vid": 3990,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:44:08+00:00",
+    "status": true,
+    "title": "1934 Todesmeldung",
+    "created": "2012-11-15T08:40:01+00:00",
+    "changed": "2012-11-15T08:40:38+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/bild/74440",
+      "pid": 1814,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<i>Das interessante Blatt, 57 (1934) #4, 2. (25.1.1934)</i>",
+      "format": "full_html",
+      "processed": "<i>Das interessante Blatt, 57 (1934) #4, 2. (25.1.1934)</i>",
+      "summary": null
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "e2381624-d098-4c5b-bdd7-5dbfd773b84e",
+        "meta": {
+          "drupal_internal__target_id": "image"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/9f624ce0-466d-4316-a369-bed11fba254b/node_type?resourceVersion=id%3A3990"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/9f624ce0-466d-4316-a369-bed11fba254b/relationships/node_type?resourceVersion=id%3A3990"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/9f624ce0-466d-4316-a369-bed11fba254b/revision_uid?resourceVersion=id%3A3990"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/9f624ce0-466d-4316-a369-bed11fba254b/relationships/revision_uid?resourceVersion=id%3A3990"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/9f624ce0-466d-4316-a369-bed11fba254b/uid?resourceVersion=id%3A3990"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/9f624ce0-466d-4316-a369-bed11fba254b/relationships/uid?resourceVersion=id%3A3990"
+        }
+      }
+    },
+    "field_images": {
+      "data": [
+        {
+          "type": "media--image",
+          "id": "9e133ce1-bb0a-4b6f-8c5b-2fb79140787f",
+          "meta": {
+            "drupal_internal__target_id": 170
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/9f624ce0-466d-4316-a369-bed11fba254b/field_images?resourceVersion=id%3A3990"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/9f624ce0-466d-4316-a369-bed11fba254b/relationships/field_images?resourceVersion=id%3A3990"
+        }
+      }
+    }
+  }
+}

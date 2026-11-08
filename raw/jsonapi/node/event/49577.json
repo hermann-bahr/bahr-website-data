@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "fa896d0d-d15d-4976-b71d-699c005199db",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/fa896d0d-d15d-4976-b71d-699c005199db?resourceVersion=id%3A3407"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/fa896d0d-d15d-4976-b71d-699c005199db?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49577,
+    "drupal_internal__vid": 3407,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Erste dichterische Versuche",
+    "created": "2011-11-07T10:38:35+00:00",
+    "changed": "2011-11-08T12:31:43+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49577",
+      "pid": 1393,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<blockquote>Und was ich las, schrieb ich dann aber auch selber gleich: das Lesen wurde dem Buben unter der Hand zum Dichten. Ich schrieb mit dreizehn Jahren einen shakespearisierenden, fürchterlich blutrünstigen Tilli voll Hexen aus dem Macbeth und geschändeten Nonnen, aber um dieselbe Zeit schrieb ich ein heiteres Spiel in Versen, den lieben guten alten Notar Pröll mit seiner gestrengen Frau Julie, die besten Freunde meiner Eltern, gutmütig verspottend, schon ganz in dem Bauernfeldton des späteren „Tschaperl“ oder der „Wienerinnen“, den ja schließlich auch das „Konzert“ noch hat, wenn auch um eine Oktave heller. Diese Dichtelei des Knaben war übrigens gar nicht so harmlos, als sie den Bewunderern schien. Denn indem er sich dichtend etwas aussann, gefiel es ihm so, daß er dabei Lust bekam, das nun doch aber auch wirklich erleben zu wollen. Ich machte ja Liebesgedichte, bevor ich verliebt war. So geriet ich in Gefahr, das Verhältnis ganz\r\nzu verkehren und Ersonnenes zu leben, statt Erlebtes zu formen.</blockquote>Man vergleiche dazu Bahrs Wiedergabe in einer Theaterrezension 1906:<blockquote>Eben war ich elf Jahre geworden, da fiel mich's an, und ich schrieb, traun!, auch ein solches Stück. Ich auch. Es hieß Tilly, und viele Nonnen kamen vor, und alle wurden geschändet, worauf sich der Held zu den Hexen des Macbeth begab, aus welchem schließlich sogar der Wald herangerückt kam. Ich meinte nämlich damals, es genügte, recht gegen Rom zu sein.</blockquote>",
+      "format": "full_html",
+      "processed": "<blockquote>Und was ich las, schrieb ich dann aber auch selber gleich: das Lesen wurde dem Buben unter der Hand zum Dichten. Ich schrieb mit dreizehn Jahren einen shakespearisierenden, fürchterlich blutrünstigen Tilli voll Hexen aus dem Macbeth und geschändeten Nonnen, aber um dieselbe Zeit schrieb ich ein heiteres Spiel in Versen, den lieben guten alten Notar Pröll mit seiner gestrengen Frau Julie, die besten Freunde meiner Eltern, gutmütig verspottend, schon ganz in dem Bauernfeldton des späteren „Tschaperl“ oder der „Wienerinnen“, den ja schließlich auch das „Konzert“ noch hat, wenn auch um eine Oktave heller. Diese Dichtelei des Knaben war übrigens gar nicht so harmlos, als sie den Bewunderern schien. Denn indem er sich dichtend etwas aussann, gefiel es ihm so, daß er dabei Lust bekam, das nun doch aber auch wirklich erleben zu wollen. Ich machte ja Liebesgedichte, bevor ich verliebt war. So geriet ich in Gefahr, das Verhältnis ganz\nzu verkehren und Ersonnenes zu leben, statt Erlebtes zu formen.</blockquote>Man vergleiche dazu Bahrs Wiedergabe in einer Theaterrezension 1906:<blockquote>Eben war ich elf Jahre geworden, da fiel mich's an, und ich schrieb, traun!, auch ein solches Stück. Ich auch. Es hieß Tilly, und viele Nonnen kamen vor, und alle wurden geschändet, worauf sich der Held zu den Hexen des Macbeth begab, aus welchem schließlich sogar der Wald herangerückt kam. Ich meinte nämlich damals, es genügte, recht gegen Rom zu sein.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1875-07-19",
+      "end_value": "1875-07-19"
+    },
+    "field_sources": [
+      "Selbstbildnis, 75.",
+      "H. B.: Theater, Kunst und Literatur. Deutsches Volkstheater. Neues Wiener Tagblatt, 40 (1906) #109, 9. (21.4.1906)",
+      "(Hier - also - auf sein 12. Lebensjahr datiert)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fa896d0d-d15d-4976-b71d-699c005199db/node_type?resourceVersion=id%3A3407"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fa896d0d-d15d-4976-b71d-699c005199db/relationships/node_type?resourceVersion=id%3A3407"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fa896d0d-d15d-4976-b71d-699c005199db/revision_uid?resourceVersion=id%3A3407"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fa896d0d-d15d-4976-b71d-699c005199db/relationships/revision_uid?resourceVersion=id%3A3407"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fa896d0d-d15d-4976-b71d-699c005199db/uid?resourceVersion=id%3A3407"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fa896d0d-d15d-4976-b71d-699c005199db/relationships/uid?resourceVersion=id%3A3407"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fa896d0d-d15d-4976-b71d-699c005199db/field_event_type?resourceVersion=id%3A3407"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fa896d0d-d15d-4976-b71d-699c005199db/relationships/field_event_type?resourceVersion=id%3A3407"
+        }
+      }
+    }
+  }
+}

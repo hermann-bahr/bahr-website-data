@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "a3ad467a-f301-466e-9b1e-ed8fc3b7e3dd",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/a3ad467a-f301-466e-9b1e-ed8fc3b7e3dd?resourceVersion=id%3A3264"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/a3ad467a-f301-466e-9b1e-ed8fc3b7e3dd?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49421,
+    "drupal_internal__vid": 3264,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Kündigung",
+    "created": "2011-10-19T11:16:54+00:00",
+    "changed": "2011-10-19T11:49:00+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49421",
+      "pid": 1245,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<blockquote>Am 4. November 1918 legte Hermann Bahr seine Funktionen zurück; der konkrete Anlaß war Andrians Weigerung, die Opernsängerin Anna Bahr-Mildenburg wiedereinzustellen. (HvH/Redlich, S. 40)</blockquote>",
+      "format": "full_html",
+      "processed": "<blockquote>Am 4. November 1918 legte Hermann Bahr seine Funktionen zurück; der konkrete Anlaß war Andrians Weigerung, die Opernsängerin Anna Bahr-Mildenburg wiedereinzustellen. (HvH/Redlich, S. 40)</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1918-11-04",
+      "end_value": "1918-11-04"
+    },
+    "field_sources": [
+      "Ursula Prutsch, Klaus Zeyringer (Hg.): Leopold von Andrian (1875-1951). Korrespondenzen, Notizen, Essays, Berichte. Wien, Köln, Weimar: Böhlau 2003, 248.",
+      "B. Z. [=Bertha Zuckerkandl]: Epilog. Zur Demission Hermann Bahrs. In: Wiener Allgemeine Zeitung, 6 Uhr Blatt,1918 #12163, 3. (5.11.1918)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a3ad467a-f301-466e-9b1e-ed8fc3b7e3dd/node_type?resourceVersion=id%3A3264"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a3ad467a-f301-466e-9b1e-ed8fc3b7e3dd/relationships/node_type?resourceVersion=id%3A3264"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a3ad467a-f301-466e-9b1e-ed8fc3b7e3dd/revision_uid?resourceVersion=id%3A3264"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a3ad467a-f301-466e-9b1e-ed8fc3b7e3dd/relationships/revision_uid?resourceVersion=id%3A3264"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a3ad467a-f301-466e-9b1e-ed8fc3b7e3dd/uid?resourceVersion=id%3A3264"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a3ad467a-f301-466e-9b1e-ed8fc3b7e3dd/relationships/uid?resourceVersion=id%3A3264"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a3ad467a-f301-466e-9b1e-ed8fc3b7e3dd/field_event_type?resourceVersion=id%3A3264"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a3ad467a-f301-466e-9b1e-ed8fc3b7e3dd/relationships/field_event_type?resourceVersion=id%3A3264"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "f191c6ac-5170-4f42-80c2-87cb1e524c91",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f191c6ac-5170-4f42-80c2-87cb1e524c91?resourceVersion=id%3A3506"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f191c6ac-5170-4f42-80c2-87cb1e524c91?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49733,
+    "drupal_internal__vid": 3506,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Gicht",
+    "created": "2011-12-20T13:36:37+00:00",
+    "changed": "2012-01-26T14:41:20+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49733",
+      "pid": 1546,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Nach dem 2. November 1909 legt sich Bahr mit Gicht ins Bett, wo er bis 12. bleibt.",
+      "format": "full_html",
+      "processed": "Nach dem 2. November 1909 legt sich Bahr mit Gicht ins Bett, wo er bis 12. bleibt.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1909-11-03",
+      "end_value": "1909-11-12"
+    },
+    "field_sources": [
+      "Hermann Bahr: Meister und Meisterbriefe um Hermann Bahr. Aus seinen Entwürfen, Tagebüchern und seinem Briefwechsel. Ausgewählt und eingeleitet von Joseph Gregor. Wien: Hermann Bauer 1947, 77. (An R. Strauß, 11.11.1909)",
+      "Hermann Bahr: Aufzeichnungen 1909-1911. Ausgabe in Vorbereitung von Kurt Ifkovits\r\n"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f191c6ac-5170-4f42-80c2-87cb1e524c91/node_type?resourceVersion=id%3A3506"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f191c6ac-5170-4f42-80c2-87cb1e524c91/relationships/node_type?resourceVersion=id%3A3506"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f191c6ac-5170-4f42-80c2-87cb1e524c91/revision_uid?resourceVersion=id%3A3506"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f191c6ac-5170-4f42-80c2-87cb1e524c91/relationships/revision_uid?resourceVersion=id%3A3506"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f191c6ac-5170-4f42-80c2-87cb1e524c91/uid?resourceVersion=id%3A3506"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f191c6ac-5170-4f42-80c2-87cb1e524c91/relationships/uid?resourceVersion=id%3A3506"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f191c6ac-5170-4f42-80c2-87cb1e524c91/field_event_type?resourceVersion=id%3A3506"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f191c6ac-5170-4f42-80c2-87cb1e524c91/relationships/field_event_type?resourceVersion=id%3A3506"
+        }
+      }
+    }
+  }
+}

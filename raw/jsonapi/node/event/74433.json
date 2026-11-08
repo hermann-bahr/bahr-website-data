@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "ffd3900b-1a8b-4f01-99eb-61fb4052a8d6",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/ffd3900b-1a8b-4f01-99eb-61fb4052a8d6?resourceVersion=id%3A3756"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/ffd3900b-1a8b-4f01-99eb-61fb4052a8d6?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74433,
+    "drupal_internal__vid": 3756,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Bahr-Feier, Linz",
+    "created": "2012-11-12T13:39:46+00:00",
+    "changed": "2012-11-12T13:39:46+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/74433",
+      "pid": 1807,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Die Bahr-Feier, die am 29. September 1913 aus Anlass des 50. Geburtstags im Linzer Schauspielhaus stattfand, war schlecht besucht. Gegeben wurde sein Stück \"Der Meister\". ",
+      "format": "full_html",
+      "processed": "Die Bahr-Feier, die am 29. September 1913 aus Anlass des 50. Geburtstags im Linzer Schauspielhaus stattfand, war schlecht besucht. Gegeben wurde sein Stück \"Der Meister\". ",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1913-09-29",
+      "end_value": "1913-09-29"
+    },
+    "field_sources": [
+      "Salzburger Volksblatt, 43 (1913) #224, 9. (2.10.1913)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ffd3900b-1a8b-4f01-99eb-61fb4052a8d6/node_type?resourceVersion=id%3A3756"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ffd3900b-1a8b-4f01-99eb-61fb4052a8d6/relationships/node_type?resourceVersion=id%3A3756"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ffd3900b-1a8b-4f01-99eb-61fb4052a8d6/revision_uid?resourceVersion=id%3A3756"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ffd3900b-1a8b-4f01-99eb-61fb4052a8d6/relationships/revision_uid?resourceVersion=id%3A3756"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ffd3900b-1a8b-4f01-99eb-61fb4052a8d6/uid?resourceVersion=id%3A3756"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ffd3900b-1a8b-4f01-99eb-61fb4052a8d6/relationships/uid?resourceVersion=id%3A3756"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ffd3900b-1a8b-4f01-99eb-61fb4052a8d6/field_event_type?resourceVersion=id%3A3756"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ffd3900b-1a8b-4f01-99eb-61fb4052a8d6/relationships/field_event_type?resourceVersion=id%3A3756"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="forschung__forschungsnotizen__selbstbildnis-selbstplagiat" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Selbstbildnis, Selbstplagiat</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">38689</idno>
+        <idno type="drupal-alias">/article/38689</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/article/38689">https://bahr.univie.ac.at/article/38689</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="6" key="forschung">Forschung</term>
+          <term n="4" key="forschungsnotizen">Forschungsnotizen</term>
+          <term n="13" key="selbstbildnis-selbstplagiat" type="eintrag">Selbstbildnis, Selbstplagiat</term>
+        </keywords>
+        <classCode scheme="drupal-type">article</classCode>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2010-12-22T16:45:21+00:00" type="created">angelegt in Drupal</change>
+      <change when="2012-01-02T15:04:36+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Die Schwierigkeit bei Bahr und seinen Anekdoten besteht darin: Einige werden von ihm so oft erzählt, dass man zwangsläufig den Überblick verliert und dabei sich nur das Gefühl einstellt, diese schon zu kennen. Ein etwas weitergehendes Detail sei hier aber für das "Selbstbildnis" angeführt: Und zwar berichtet Bahr auf den Seiten 211-212 seiner Erinnerungen die ersten Begegnungen mit Viktor Adler. Das ist eine leicht überarbeitete Fassung seines im Neuen Wiener Journal publizierten "Tagebuchs" vom 15. November 1918, einem Nachruf auf Adler (Buchfassung S. 278-280). Anders verhält es sich mit einem Eintrag im "Tagebuch" vom 12. Juni 1918, der Bahrs erste Lektüre und den Kuraufenthalt in Kreuzen referiert: Hier stellt das "Tagebuch" eine Entwurfskizze für das "Selbstbildnis" dar.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

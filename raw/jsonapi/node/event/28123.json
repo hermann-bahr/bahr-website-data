@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "cc273884-1609-4897-9d28-eb8b9cd54be2",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/cc273884-1609-4897-9d28-eb8b9cd54be2?resourceVersion=id%3A2443"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/cc273884-1609-4897-9d28-eb8b9cd54be2?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28123,
+    "drupal_internal__vid": 2443,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Semmering",
+    "created": "2010-08-18T14:43:30+00:00",
+    "changed": "2011-09-15T13:01:03+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28123",
+      "pid": 278,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 13. April 1908 fährt Bahr auf den Semmering und beginnt mit der Arbeit an seinem neuen Roman \"Bettina Rahl\", aus dem \"Die Rahl\" wird. Er bleibt bis mindestens 16.",
+      "format": "full_html",
+      "processed": "Am 13. April 1908 fährt Bahr auf den Semmering und beginnt mit der Arbeit an seinem neuen Roman \"Bettina Rahl\", aus dem \"Die Rahl\" wird. Er bleibt bis mindestens 16.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1908-04-13",
+      "end_value": "1908-04-16"
+    },
+    "field_sources": [
+      "Tagebücher (Csàky), V, 376.",
+      "Brief von Kvapil an Bahr, Bahr/Kvapil, 80. (16.4.1908)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cc273884-1609-4897-9d28-eb8b9cd54be2/node_type?resourceVersion=id%3A2443"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cc273884-1609-4897-9d28-eb8b9cd54be2/relationships/node_type?resourceVersion=id%3A2443"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cc273884-1609-4897-9d28-eb8b9cd54be2/revision_uid?resourceVersion=id%3A2443"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cc273884-1609-4897-9d28-eb8b9cd54be2/relationships/revision_uid?resourceVersion=id%3A2443"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cc273884-1609-4897-9d28-eb8b9cd54be2/uid?resourceVersion=id%3A2443"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cc273884-1609-4897-9d28-eb8b9cd54be2/relationships/uid?resourceVersion=id%3A2443"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cc273884-1609-4897-9d28-eb8b9cd54be2/field_event_type?resourceVersion=id%3A2443"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cc273884-1609-4897-9d28-eb8b9cd54be2/relationships/field_event_type?resourceVersion=id%3A2443"
+        }
+      }
+    }
+  }
+}

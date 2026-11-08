@@ -1,0 +1,114 @@
+{
+  "type": "node--event",
+  "id": "4d22b5c9-74ec-4369-b0d2-72002ff0fdfa",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/4d22b5c9-74ec-4369-b0d2-72002ff0fdfa?resourceVersion=id%3A2510"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/4d22b5c9-74ec-4369-b0d2-72002ff0fdfa?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28205,
+    "drupal_internal__vid": 2510,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Der Strom",
+    "created": "2010-10-09T10:41:05+00:00",
+    "changed": "2010-10-09T10:59:12+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28205",
+      "pid": 348,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Im September-Heft der Zeitschrift \"Der Strom\" erscheint der zweite und letzte \"Tagebuch\"-Eintrag bis zur Wiederaufnahme im Neuen Wiener Journal 1916.",
+      "format": "full_html",
+      "processed": "Im September-Heft der Zeitschrift \"Der Strom\" erscheint der zweite und letzte \"Tagebuch\"-Eintrag bis zur Wiederaufnahme im Neuen Wiener Journal 1916.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1911-09-01",
+      "end_value": "1911-09-01"
+    },
+    "field_sources": []
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4d22b5c9-74ec-4369-b0d2-72002ff0fdfa/node_type?resourceVersion=id%3A2510"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4d22b5c9-74ec-4369-b0d2-72002ff0fdfa/relationships/node_type?resourceVersion=id%3A2510"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4d22b5c9-74ec-4369-b0d2-72002ff0fdfa/revision_uid?resourceVersion=id%3A2510"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4d22b5c9-74ec-4369-b0d2-72002ff0fdfa/relationships/revision_uid?resourceVersion=id%3A2510"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4d22b5c9-74ec-4369-b0d2-72002ff0fdfa/uid?resourceVersion=id%3A2510"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4d22b5c9-74ec-4369-b0d2-72002ff0fdfa/relationships/uid?resourceVersion=id%3A2510"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "b7b074bd-6489-4a96-84e9-9c8184cda171",
+          "meta": {
+            "drupal_internal__target_id": 7
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4d22b5c9-74ec-4369-b0d2-72002ff0fdfa/field_event_type?resourceVersion=id%3A2510"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4d22b5c9-74ec-4369-b0d2-72002ff0fdfa/relationships/field_event_type?resourceVersion=id%3A2510"
+        }
+      }
+    }
+  }
+}

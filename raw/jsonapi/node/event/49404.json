@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "b90a94c8-732e-49ec-b4ad-b192fb855c6c",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b90a94c8-732e-49ec-b4ad-b192fb855c6c?resourceVersion=id%3A3247"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b90a94c8-732e-49ec-b4ad-b192fb855c6c?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49404,
+    "drupal_internal__vid": 3247,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Wien",
+    "created": "2011-10-18T12:01:26+00:00",
+    "changed": "2011-10-18T12:01:26+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49404",
+      "pid": 1228,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 13. August 1918 konferiert Bahr mit Leopold Andrian in Wien, am 14. fährt er wieder nach Salzburg.",
+      "format": "full_html",
+      "processed": "Am 13. August 1918 konferiert Bahr mit Leopold Andrian in Wien, am 14. fährt er wieder nach Salzburg.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1918-08-13",
+      "end_value": "1918-08-13"
+    },
+    "field_sources": [
+      "Bahr/Redlich, 359."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b90a94c8-732e-49ec-b4ad-b192fb855c6c/node_type?resourceVersion=id%3A3247"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b90a94c8-732e-49ec-b4ad-b192fb855c6c/relationships/node_type?resourceVersion=id%3A3247"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b90a94c8-732e-49ec-b4ad-b192fb855c6c/revision_uid?resourceVersion=id%3A3247"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b90a94c8-732e-49ec-b4ad-b192fb855c6c/relationships/revision_uid?resourceVersion=id%3A3247"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b90a94c8-732e-49ec-b4ad-b192fb855c6c/uid?resourceVersion=id%3A3247"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b90a94c8-732e-49ec-b4ad-b192fb855c6c/relationships/uid?resourceVersion=id%3A3247"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b90a94c8-732e-49ec-b4ad-b192fb855c6c/field_event_type?resourceVersion=id%3A3247"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b90a94c8-732e-49ec-b4ad-b192fb855c6c/relationships/field_event_type?resourceVersion=id%3A3247"
+        }
+      }
+    }
+  }
+}

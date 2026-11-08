@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "6951f0ae-5845-45b8-beb9-d22f821af774",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/6951f0ae-5845-45b8-beb9-d22f821af774?resourceVersion=id%3A3691"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/6951f0ae-5845-45b8-beb9-d22f821af774?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74363,
+    "drupal_internal__vid": 3691,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Reitstunden",
+    "created": "2012-10-14T20:17:52+00:00",
+    "changed": "2013-09-14T11:54:40+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/74363",
+      "pid": 1737,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Um den 20. Oktober 1891 kann Bahr, der sich in Linz aufhält, Hofmannsthal berichten, dass er gerade Reiten lernt.",
+      "format": "full_html",
+      "processed": "Um den 20. Oktober 1891 kann Bahr, der sich in Linz aufhält, Hofmannsthal berichten, dass er gerade Reiten lernt.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1891-10-20",
+      "end_value": "1891-10-20"
+    },
+    "field_sources": [
+      "Briefwechsel Bahr/Hofmannsthal. Hg. Elsbeth Dangel-Pelloquin. Göttingen: Wallstein. (In Vorbereitung), HvH an Bahr, um den 20.10.1891"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6951f0ae-5845-45b8-beb9-d22f821af774/node_type?resourceVersion=id%3A3691"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6951f0ae-5845-45b8-beb9-d22f821af774/relationships/node_type?resourceVersion=id%3A3691"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6951f0ae-5845-45b8-beb9-d22f821af774/revision_uid?resourceVersion=id%3A3691"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6951f0ae-5845-45b8-beb9-d22f821af774/relationships/revision_uid?resourceVersion=id%3A3691"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6951f0ae-5845-45b8-beb9-d22f821af774/uid?resourceVersion=id%3A3691"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6951f0ae-5845-45b8-beb9-d22f821af774/relationships/uid?resourceVersion=id%3A3691"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6951f0ae-5845-45b8-beb9-d22f821af774/field_event_type?resourceVersion=id%3A3691"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6951f0ae-5845-45b8-beb9-d22f821af774/relationships/field_event_type?resourceVersion=id%3A3691"
+        }
+      }
+    }
+  }
+}

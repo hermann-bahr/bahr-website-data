@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bibliografie__herausgaben" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Bibliografie der Herausgaben</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">22102</idno>
+        <idno type="drupal-alias">/bibliografie-der-herausgaben</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bibliografie-der-herausgaben">https://bahr.univie.ac.at/bibliografie-der-herausgaben</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="1" key="bibliografie">Bibliografie</term>
+          <term n="7" key="herausgaben">Herausgaben</term>
+        </keywords>
+        <classCode scheme="drupal-type">page</classCode>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2010-04-20T09:34:17+00:00" type="created">angelegt in Drupal</change>
+      <change when="2020-02-27T15:25:23+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Bahr wird als Herausgeber einiger Bücher genannt – oder, in einem Fall- stillschweigend und zu Recht angenommen. Bislang nicht untersucht ist, welche Aufgaben er dabei erledigte oder ob die Herausgeberschaft eine nominelle Schirmherrschaft bedeutete. Ebenfalls zu untersuchen wäre, wie sich die Herausgaben in Bahrs publizistische Programm einfügen.</p>
+      </div>
+      <divGen type="eintraege"/>
+    </body>
+  </text>
+</TEI>

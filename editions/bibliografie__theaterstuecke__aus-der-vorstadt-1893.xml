@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bibliografie__theaterstuecke__aus-der-vorstadt-1893" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Aus der Vorstadt (1893)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">49684</idno>
+        <idno type="drupal-alias">/bibliografie/49684</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bibliografie/49684">https://bahr.univie.ac.at/bibliografie/49684</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+        <bibl type="beschriebene-ausgabe">
+          <author>Hermann Bahr and Carl Karlweis</author>
+          <title type="main">Aus der Vorstadt</title>
+          <title type="sub">Volksstück in drei Akten von Hermann Bahr und Carl Karlweis</title>
+          <pubPlace>Wien</pubPlace>
+          <publisher>C. Konegen</publisher>
+          <date>1893</date>
+          <extent>?</extent>
+          <note>Thomasberger vermerkt, dass ihm kein Nachweis des Drucks geglückt ist; das trifft auch gegenwärtig zu.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="1" key="bibliografie">Bibliografie</term>
+          <term n="2" key="theaterstuecke">Theaterstücke</term>
+          <term n="2" key="aus-der-vorstadt-1893" type="eintrag">Aus der Vorstadt (1893)</term>
+        </keywords>
+        <classCode scheme="drupal-type">bibliographie</classCode>
+        <keywords scheme="bibliografie_type">
+          <term>Theaterstücke</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2011-11-23T13:50:55+00:00" type="created">angelegt in Drupal</change>
+      <change when="2011-11-23T13:50:55+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="bib">
+        <head>Bibliografie</head>
+        <table type="bibliografie">
+          <row>
+            <cell>Autor:</cell>
+            <cell>Hermann Bahr and Carl Karlweis</cell>
+          </row>
+          <row>
+            <cell>Titel:</cell>
+            <cell>Aus der Vorstadt</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>Volksstück in drei Akten von Hermann Bahr und Carl Karlweis</cell>
+          </row>
+          <row>
+            <cell>Ort:</cell>
+            <cell>Wien</cell>
+          </row>
+          <row>
+            <cell>Verlag:</cell>
+            <cell>C. Konegen</cell>
+          </row>
+          <row>
+            <cell>Jahr:</cell>
+            <cell>1893</cell>
+          </row>
+          <row>
+            <cell>Seiten:</cell>
+            <cell>?</cell>
+          </row>
+          <row>
+            <cell>Anm.:</cell>
+            <cell>Thomasberger vermerkt, dass ihm kein Nachweis des Drucks geglückt ist; das trifft auch gegenwärtig zu.</cell>
+          </row>
+        </table>
+      </div>
+      <div xml:id="auff">
+        <head>Inszenierungen</head>
+        <p>11.3.1893 Deutsches Volkstheater, Wien, mit Musik von Franz Roth</p>
+      </div>
+      <div xml:id="rezens">
+        <head>Rezensionen</head>
+        <p>Karl Kraus: Wiener Theater. In: Das Magazin für Litteratur, 62 (1893) #13, 209. (1.4.1893)</p>
+      </div>
+    </body>
+  </text>
+</TEI>

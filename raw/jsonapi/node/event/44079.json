@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "fc211eab-ea57-4962-a3f7-8a4c31b6ad62",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/fc211eab-ea57-4962-a3f7-8a4c31b6ad62?resourceVersion=id%3A2996"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/fc211eab-ea57-4962-a3f7-8a4c31b6ad62?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44079,
+    "drupal_internal__vid": 2996,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Theatergesetz",
+    "created": "2011-09-05T11:21:39+00:00",
+    "changed": "2011-09-05T11:47:48+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44079",
+      "pid": 974,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 3. und 6. September 1902 finden letzte Treffen des Bühnenvereins in Vorbereitung der Theatergesetz-Enquete statt. Die Anwesenheit Bahrs ist zumindest für den 6. angekündigt.",
+      "format": "full_html",
+      "processed": "Am 3. und 6. September 1902 finden letzte Treffen des Bühnenvereins in Vorbereitung der Theatergesetz-Enquete statt. Die Anwesenheit Bahrs ist zumindest für den 6. angekündigt.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1902-09-06",
+      "end_value": "1902-09-06"
+    },
+    "field_sources": [
+      "Neues Wiener Tagblatt, 36 (1902) #243, 8. (3.9.1902)",
+      "Tagesbote aus Schlesien und Mähren, 2.9.1902, 4."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fc211eab-ea57-4962-a3f7-8a4c31b6ad62/node_type?resourceVersion=id%3A2996"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fc211eab-ea57-4962-a3f7-8a4c31b6ad62/relationships/node_type?resourceVersion=id%3A2996"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fc211eab-ea57-4962-a3f7-8a4c31b6ad62/revision_uid?resourceVersion=id%3A2996"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fc211eab-ea57-4962-a3f7-8a4c31b6ad62/relationships/revision_uid?resourceVersion=id%3A2996"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fc211eab-ea57-4962-a3f7-8a4c31b6ad62/uid?resourceVersion=id%3A2996"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fc211eab-ea57-4962-a3f7-8a4c31b6ad62/relationships/uid?resourceVersion=id%3A2996"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fc211eab-ea57-4962-a3f7-8a4c31b6ad62/field_event_type?resourceVersion=id%3A2996"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fc211eab-ea57-4962-a3f7-8a4c31b6ad62/relationships/field_event_type?resourceVersion=id%3A2996"
+        }
+      }
+    }
+  }
+}

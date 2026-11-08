@@ -1,0 +1,120 @@
+{
+  "type": "node--event",
+  "id": "079ddcfd-8fcf-4806-a624-07dde729fd38",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/079ddcfd-8fcf-4806-a624-07dde729fd38?resourceVersion=id%3A3485"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/079ddcfd-8fcf-4806-a624-07dde729fd38?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49709,
+    "drupal_internal__vid": 3485,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Rosa Waniczek",
+    "created": "2011-12-05T21:09:26+00:00",
+    "changed": "2011-12-05T21:09:26+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49709",
+      "pid": 1523,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Wenn die verschiedenen Texte Bahrs über seine erste Begegnung mit Bruckner zusammengelesen werden, ergeben sich daraus einige Details über seine jüngere Tante väterlicherseits, Rosa Waniczek. Alois Bahrs Mutter, Maria Rosina Reisinger heiratete nach dem Tod Engelbert Bahrs (1842) ein zweites Mal, diesmal einen Postmeister namens Karl Waniczek. Mit diesem bekam sie zwei Töchter, Anna (*1849) und Rosa. Über Anna sind zumindest ein paar Details aus dem \"Selbstbildnis\" bekannt, wo sie als Tante Anna Robicsek Bahrs erste Unterkunft als Student in Wien darstellt.\r\nDie Ereignisse mit Bruckner:<blockquote>Das war 1866, nach Sadowa, in Österreich brach eine Panik aus, man wähnte die Preußen würden schnurstracks auf Wien losgehen. Die jungste Schwester meines Vaters, ein bildschönes Mädchen, eilte zu uns. Meine Mutter schien von der unerwarteten Einquartierung nicht allzusehr entzückt [1]</blockquote>Nachdem Bruckner als ihr Klavierlehrer angeheuert war, kokettiert das Mädchen aber lieber mit dem Lehrer, als zu spielen:<blockquote>das allerliebste Tantchen war faul [2]</blockquote>Im \"Selbstbildnis\" spricht er in dem Zusammenhang von einem \"losen Tantchen\"[3]. Was aus ihr wurde, ist unbekannt. Im Selbstbildnis taucht sie einmal mit einem Sohn Viktor auf.[4]\r\nAuch wenn es sich statt um Rosa, um die zu dem Zeitpunkt vierzehnjährige Anna handeln könnte, so ist der Umstand, dass Bahr Anna in seiner Autobiografie näher ausführt, als Hinweis auf Rosa zu werten.",
+      "format": "full_html",
+      "processed": "Wenn die verschiedenen Texte Bahrs über seine erste Begegnung mit Bruckner zusammengelesen werden, ergeben sich daraus einige Details über seine jüngere Tante väterlicherseits, Rosa Waniczek. Alois Bahrs Mutter, Maria Rosina Reisinger heiratete nach dem Tod Engelbert Bahrs (1842) ein zweites Mal, diesmal einen Postmeister namens Karl Waniczek. Mit diesem bekam sie zwei Töchter, Anna (*1849) und Rosa. Über Anna sind zumindest ein paar Details aus dem \"Selbstbildnis\" bekannt, wo sie als Tante Anna Robicsek Bahrs erste Unterkunft als Student in Wien darstellt.\nDie Ereignisse mit Bruckner:<blockquote>Das war 1866, nach Sadowa, in Österreich brach eine Panik aus, man wähnte die Preußen würden schnurstracks auf Wien losgehen. Die jungste Schwester meines Vaters, ein bildschönes Mädchen, eilte zu uns. Meine Mutter schien von der unerwarteten Einquartierung nicht allzusehr entzückt&nbsp;[1]</blockquote>Nachdem Bruckner als ihr Klavierlehrer angeheuert war, kokettiert das Mädchen aber lieber mit dem Lehrer, als zu spielen:<blockquote>das allerliebste Tantchen war faul [2]</blockquote>Im \"Selbstbildnis\" spricht er in dem Zusammenhang von einem \"losen Tantchen\"[3]. Was aus ihr wurde, ist unbekannt. Im Selbstbildnis taucht sie einmal mit einem Sohn Viktor auf.[4]\nAuch wenn es sich statt um Rosa, um die zu dem Zeitpunkt vierzehnjährige Anna handeln könnte, so ist der Umstand, dass Bahr Anna in seiner Autobiografie näher ausführt, als Hinweis auf Rosa zu werten.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1866-07-03",
+      "end_value": "1866-07-03"
+    },
+    "field_sources": [
+      "[1] Hermann Bahr: Erste Begegnung mit Eleonora Duse und mit Anton Bruckner. Aus meinen Erinnerungen. Neues Wiener Journal, 40 (1932) #13689, 12. (1.1.1932) ",
+      "[2] Hermann Bahr: Der Widersacher. Neue Freie Presse, (1929) #23244, Morgenblatt, 1-3. (1.6.1929) ",
+      "[3] Selbstbildnis, 19",
+      "[4] Selbstbildnis, 58",
+      "(Auf die Schlacht bei Königgrätz datiert)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/079ddcfd-8fcf-4806-a624-07dde729fd38/node_type?resourceVersion=id%3A3485"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/079ddcfd-8fcf-4806-a624-07dde729fd38/relationships/node_type?resourceVersion=id%3A3485"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/079ddcfd-8fcf-4806-a624-07dde729fd38/revision_uid?resourceVersion=id%3A3485"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/079ddcfd-8fcf-4806-a624-07dde729fd38/relationships/revision_uid?resourceVersion=id%3A3485"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/079ddcfd-8fcf-4806-a624-07dde729fd38/uid?resourceVersion=id%3A3485"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/079ddcfd-8fcf-4806-a624-07dde729fd38/relationships/uid?resourceVersion=id%3A3485"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/079ddcfd-8fcf-4806-a624-07dde729fd38/field_event_type?resourceVersion=id%3A3485"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/079ddcfd-8fcf-4806-a624-07dde729fd38/relationships/field_event_type?resourceVersion=id%3A3485"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "type": "node--event",
+  "id": "13871fce-f249-4bac-8bc1-253c051ff4f3",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/13871fce-f249-4bac-8bc1-253c051ff4f3?resourceVersion=id%3A2346"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/13871fce-f249-4bac-8bc1-253c051ff4f3?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28014,
+    "drupal_internal__vid": 2346,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Fin de Siècle",
+    "created": "2010-07-27T16:48:30+00:00",
+    "changed": "2010-10-28T11:24:57+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28014",
+      "pid": 180,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahrs erste Sammlung von literarischen Erzählungen, die bereits in den Jahren zuvor an verschiedenen Orten publiziert worden war, erschien Ende 1890 bei Adolf Zoberbier in Berlin und wurde am 3. Jänner 1891 verboten, die 2. Auflage wurde eingestampft.",
+      "format": "full_html",
+      "processed": "Bahrs erste Sammlung von literarischen Erzählungen, die bereits in den Jahren zuvor an verschiedenen Orten publiziert worden war, erschien Ende 1890 bei Adolf Zoberbier in Berlin und wurde am 3. Jänner 1891 verboten, die 2. Auflage wurde eingestampft.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1890-11-01",
+      "end_value": "1890-11-01"
+    },
+    "field_sources": []
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/13871fce-f249-4bac-8bc1-253c051ff4f3/node_type?resourceVersion=id%3A2346"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/13871fce-f249-4bac-8bc1-253c051ff4f3/relationships/node_type?resourceVersion=id%3A2346"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/13871fce-f249-4bac-8bc1-253c051ff4f3/revision_uid?resourceVersion=id%3A2346"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/13871fce-f249-4bac-8bc1-253c051ff4f3/relationships/revision_uid?resourceVersion=id%3A2346"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/13871fce-f249-4bac-8bc1-253c051ff4f3/uid?resourceVersion=id%3A2346"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/13871fce-f249-4bac-8bc1-253c051ff4f3/relationships/uid?resourceVersion=id%3A2346"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "2f55ff54-49af-41ba-a2d1-45a7ac71add2",
+          "meta": {
+            "drupal_internal__target_id": 2
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/13871fce-f249-4bac-8bc1-253c051ff4f3/field_event_type?resourceVersion=id%3A2346"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/13871fce-f249-4bac-8bc1-253c051ff4f3/relationships/field_event_type?resourceVersion=id%3A2346"
+        }
+      }
+    }
+  }
+}

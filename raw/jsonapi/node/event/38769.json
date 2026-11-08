@@ -1,0 +1,119 @@
+{
+  "type": "node--event",
+  "id": "41a443d8-6d1a-4c39-a61d-5b92a3197b2d",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/41a443d8-6d1a-4c39-a61d-5b92a3197b2d?resourceVersion=id%3A2590"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/41a443d8-6d1a-4c39-a61d-5b92a3197b2d?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38769,
+    "drupal_internal__vid": 2590,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Rom, Neapel",
+    "created": "2011-01-28T14:39:31+00:00",
+    "changed": "2011-11-28T12:24:25+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38769",
+      "pid": 517,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahrs erste Reise nach Rom findet im April 1899 statt [1]. An seine Mutter, Wien, 30. März 1899:<blockquote>Ich fahre Sonntag direkt nach Rom, mache dort den Congress mit, treffe dann in Neapel mit Burckhard und Karlweis zusammen und wir gehen entweder nach Sicilien oder nach Amalfi, um uns am Meer gründlich auszufaulenzen. […] Kommt nichts dazwischen, so will ich bis zum 1. Mai unten bleiben.</blockquote>Am 2. April 1899 geht es nach Rom, der Kongress dauert vom 3. zum 10., dann weiter nach Neapel und Capri. Am 22.4. schreibt er seiner Mutter aus Neapel, wo er seit acht Tagen ist und plant am Mittwoch von hier an den Semmering zu fahren, noch ein paar Tage Luft kneipen. Nachdem während Bahrs Abwesenheit in \"Der Zeit\" seine Erzählung \"Leander\" in sechs Fortsetzungen publiziert wird, meldet sich Bahr Anfang Mai mit einem Bericht von seinem d'Annunzio-Treffen zurück.[2]\r\n",
+      "format": "full_html",
+      "processed": "Bahrs erste Reise nach Rom findet im April 1899 statt [1]. An seine Mutter, Wien, 30. März 1899:<blockquote>Ich fahre Sonntag direkt nach Rom, mache dort den Congress mit, treffe dann in Neapel mit Burckhard und Karlweis zusammen und wir gehen entweder nach Sicilien oder nach Amalfi, um uns am Meer gründlich auszufaulenzen. […] Kommt nichts dazwischen, so will ich bis zum 1. Mai unten bleiben.</blockquote>Am 2. April 1899 geht es nach Rom, der Kongress dauert vom 3. zum 10., dann weiter nach Neapel und Capri. Am 22.4. schreibt er seiner Mutter aus Neapel, wo er seit acht Tagen ist und plant am Mittwoch von hier an den Semmering zu fahren, noch ein paar Tage Luft kneipen. Nachdem während Bahrs Abwesenheit in \"Der Zeit\" seine Erzählung \"Leander\" in sechs Fortsetzungen publiziert wird, meldet sich Bahr Anfang Mai mit einem Bericht von seinem d'Annunzio-Treffen zurück.[2]\n",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1899-04-02",
+      "end_value": "1899-04-26"
+    },
+    "field_sources": [
+      "[2] Hermann Bahr: Bei d'Annunzio. Die Zeit, 19 (1899) #240, 91-93. (6.5.1899)",
+      "Tagebücher (Csàky), II, 309-314.",
+      "Die Wienbibliothek besitzt einen Brief Bahrs (H.I.N. 113.054), vermutlich an Speidel, der am 4.5.1899 mit: \"Eben aus Italien zurück, wo ich\" beginnt.",
+      "[1] Hermann Bahr: Tagebuch. 1. Mai. In: 1919. Tagebuch, 147-152, hier: 152."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/41a443d8-6d1a-4c39-a61d-5b92a3197b2d/node_type?resourceVersion=id%3A2590"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/41a443d8-6d1a-4c39-a61d-5b92a3197b2d/relationships/node_type?resourceVersion=id%3A2590"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/41a443d8-6d1a-4c39-a61d-5b92a3197b2d/revision_uid?resourceVersion=id%3A2590"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/41a443d8-6d1a-4c39-a61d-5b92a3197b2d/relationships/revision_uid?resourceVersion=id%3A2590"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/41a443d8-6d1a-4c39-a61d-5b92a3197b2d/uid?resourceVersion=id%3A2590"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/41a443d8-6d1a-4c39-a61d-5b92a3197b2d/relationships/uid?resourceVersion=id%3A2590"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/41a443d8-6d1a-4c39-a61d-5b92a3197b2d/field_event_type?resourceVersion=id%3A2590"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/41a443d8-6d1a-4c39-a61d-5b92a3197b2d/relationships/field_event_type?resourceVersion=id%3A2590"
+        }
+      }
+    }
+  }
+}

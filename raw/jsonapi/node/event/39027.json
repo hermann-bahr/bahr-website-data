@@ -1,0 +1,119 @@
+{
+  "type": "node--event",
+  "id": "30e2c269-4fcf-4e39-b64a-1f99331ec878",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/30e2c269-4fcf-4e39-b64a-1f99331ec878?resourceVersion=id%3A2804"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/30e2c269-4fcf-4e39-b64a-1f99331ec878?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39027,
+    "drupal_internal__vid": 2804,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Siedelt nach Salzburg",
+    "created": "2011-04-06T13:22:43+00:00",
+    "changed": "2011-12-15T10:55:28+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39027",
+      "pid": 760,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Parallel zu seinem Vortrag über das Leben in der Großstadt berichten die Zeitungen über seine bevorstehende Übersiedlung von Wien nach Salzburg:\r\n<blockquote><strong>Hermann Bahr</strong> beabsichtigt, wie er unserem -ll-Korrespondenten mitteilte, sich in der nächsten Zeit mit seiner Gattin, der k. u. k. Kammersängerin Anna Bahr-Mildenburg, dauernd in Salzburg niederzulassen. Die Stätte der ferneren Schaffenswirksamkeit soll vermutlich das wunderbar hübsche, in einem weiten Parke gelegene Ahrenberg-Schlößchen [!] am Fuße des Kapuzinerberges werden. Mannigfache Erinnerungen verbinden den Dichter mit der altehrwürdigen Bischofsstadt an der Salzach; so hat er dort die Schule des Gymnasiums durchgemacht; auch seine beiden Eltern und sein Großvater ruhen in Salzburgischer Bischofserde. [1]</blockquote>\r\nBis 1922 wird Bahr den Hauptwohnsitz in Salzburg haben, dann folgt er seiner Frau nach München, die dort berufliche Verpflichtungen eingeht.",
+      "format": "full_html",
+      "processed": "Parallel zu seinem Vortrag über das Leben in der Großstadt berichten die Zeitungen über seine bevorstehende Übersiedlung von Wien nach Salzburg:\n<blockquote><strong>Hermann Bahr</strong> beabsichtigt, wie er unserem -ll-Korrespondenten mitteilte, sich in der nächsten Zeit mit seiner Gattin, der k. u. k. Kammersängerin Anna Bahr-Mildenburg, dauernd in Salzburg niederzulassen. Die Stätte der ferneren Schaffenswirksamkeit soll vermutlich das wunderbar hübsche, in einem weiten Parke gelegene Ahrenberg-Schlößchen [!] am Fuße des Kapuzinerberges werden. Mannigfache Erinnerungen verbinden den Dichter mit der altehrwürdigen Bischofsstadt an der Salzach; so hat er dort die Schule des Gymnasiums durchgemacht; auch seine beiden Eltern und sein Großvater ruhen in Salzburgischer Bischofserde. [1]</blockquote>\nBis 1922 wird Bahr den Hauptwohnsitz in Salzburg haben, dann folgt er seiner Frau nach München, die dort berufliche Verpflichtungen eingeht.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1912-02-01",
+      "end_value": "1912-02-01"
+    },
+    "field_sources": [
+      "[1] Münchner Neueste Nachrichten, 65 (1912) #54, 3. (1.2.1912)",
+      "Salzburger Volksblatt, 42 (1912) #26, 8. (2.2.1912)",
+      "Neues Wiener Journal, 20 (1912) #6565, 5. (2.2.1912)",
+      "Prager Tagblatt, 37 (1912) #62, 7. (3.2.1912)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/30e2c269-4fcf-4e39-b64a-1f99331ec878/node_type?resourceVersion=id%3A2804"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/30e2c269-4fcf-4e39-b64a-1f99331ec878/relationships/node_type?resourceVersion=id%3A2804"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/30e2c269-4fcf-4e39-b64a-1f99331ec878/revision_uid?resourceVersion=id%3A2804"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/30e2c269-4fcf-4e39-b64a-1f99331ec878/relationships/revision_uid?resourceVersion=id%3A2804"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/30e2c269-4fcf-4e39-b64a-1f99331ec878/uid?resourceVersion=id%3A2804"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/30e2c269-4fcf-4e39-b64a-1f99331ec878/relationships/uid?resourceVersion=id%3A2804"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/30e2c269-4fcf-4e39-b64a-1f99331ec878/field_event_type?resourceVersion=id%3A2804"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/30e2c269-4fcf-4e39-b64a-1f99331ec878/relationships/field_event_type?resourceVersion=id%3A2804"
+        }
+      }
+    }
+  }
+}

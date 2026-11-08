@@ -1,0 +1,90 @@
+{
+  "type": "node--page",
+  "id": "d40d9bf2-8382-4fac-b0fd-dd8daaccbb10",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/page/d40d9bf2-8382-4fac-b0fd-dd8daaccbb10?resourceVersion=id%3A4076"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/page/d40d9bf2-8382-4fac-b0fd-dd8daaccbb10?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49398,
+    "drupal_internal__vid": 4076,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T17:01:03+00:00",
+    "status": true,
+    "title": "Über die Zeitleiste",
+    "created": "2011-10-18T10:35:14+00:00",
+    "changed": "2011-10-18T10:49:32+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ueber-die-zeitleiste",
+      "pid": 1222,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Mangels Veröffentlichungen zu Bahr sind viele der existierenden Zeittafeln zu Bahr mit Vorbehalt zu verwenden. Besonders die einflussreiche Zeittafel Daviaus ist großteils fehlerhaft und sollte nicht mehr herangezogen werden. Häufige Fehler, die sich durch Abschreiben exponentiell vermehrt haben: Bahr wäre ab 1908 Burgtheaterkritiker beim Neuen Wiener Journal, die Bekehrung zum Glauben wäre 1914 oder 1916 erfolgt und er wäre im Juli 1934 gestorben.\r\n\r\nAus diesem Mangel heraus entstand im Laufe des Projekts das Bedürfnis auf verlässliche Angaben. Im Zuge der Arbeit daran wurde aber die Detailtiefe immer größer, so dass nunmehr teilweise ein Zwitter entstanden ist. Denn auch wenn nie \"Hermann Bahr-Tag für Tag\" geplant war, sind manche Angaben nur in einem solchen Kontext sinnvoll. Das zeigt sich sehr einfach an den unterschiedlichen Arten, wie Personen ausgewiesen sind: Manchmal sind einzelne Begegnungen verzeichnet, manchmal dient eine Begegnung für zusammenfassende Erläuterungen zu Bahr und dieser Person. \r\n\r\nUmgekehrt heißt das für die Benützung, dass die Zeitleiste Orientierungen schafft, aber nicht notwendigerweise alle Hinweise aus der Sekundärliteratur ausweist. Wer etwa wissen will, wann Bahr Burckhard begegnete, wird weiterhin zu den Tagebüchern greifen müssen.\r\n\r\nDie hier gesammelten Daten versuchen, im Zweifelsfall lieber auf exakte Angaben zu verzichten und die Quellen auszuweisen. Als Referenzwerke dienen der Briefwechsel mit dem Vater (mit Vorbehalt), jener mit Redlich, mit Kvapil, sowie jener mit Schnitzler (mit Vorbehalt) und vor allem die unter Aufsicht von Moritz Csàky edierten Tagebücher. Einzelne Angaben stammen aus der Sekundärliteratur, aus Angaben im Nachlass und unveröffentlichten, laufenden Forschungen.</div>",
+      "format": "full_html",
+      "processed": "Mangels Veröffentlichungen zu Bahr sind viele der existierenden Zeittafeln zu Bahr mit Vorbehalt zu verwenden. Besonders die einflussreiche Zeittafel Daviaus ist großteils fehlerhaft und sollte nicht mehr herangezogen werden. Häufige Fehler, die sich durch Abschreiben exponentiell vermehrt haben: Bahr wäre ab 1908 Burgtheaterkritiker beim Neuen Wiener Journal, die Bekehrung zum Glauben wäre 1914 oder 1916 erfolgt und er wäre im Juli 1934 gestorben.\n\nAus diesem Mangel heraus entstand im Laufe des Projekts das Bedürfnis auf verlässliche Angaben. Im Zuge der Arbeit daran wurde aber die Detailtiefe immer größer, so dass nunmehr teilweise ein Zwitter entstanden ist. Denn auch wenn nie \"Hermann Bahr-Tag für Tag\" geplant war, sind manche Angaben nur in einem solchen Kontext sinnvoll. Das zeigt sich sehr einfach an den unterschiedlichen Arten, wie Personen ausgewiesen sind: Manchmal sind einzelne Begegnungen verzeichnet, manchmal dient eine Begegnung für zusammenfassende Erläuterungen zu Bahr und dieser Person. \n\nUmgekehrt heißt das für die Benützung, dass die Zeitleiste Orientierungen schafft, aber nicht notwendigerweise alle Hinweise aus der Sekundärliteratur ausweist. Wer etwa wissen will, wann Bahr Burckhard begegnete, wird weiterhin zu den Tagebüchern greifen müssen.\n\nDie hier gesammelten Daten versuchen, im Zweifelsfall lieber auf exakte Angaben zu verzichten und die Quellen auszuweisen. Als Referenzwerke dienen der Briefwechsel mit dem Vater (mit Vorbehalt), jener mit Redlich, mit Kvapil, sowie jener mit Schnitzler (mit Vorbehalt) und vor allem die unter Aufsicht von Moritz Csàky edierten Tagebücher. Einzelne Angaben stammen aus der Sekundärliteratur, aus Angaben im Nachlass und unveröffentlichten, laufenden Forschungen.",
+      "summary": null
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "016d417b-5c75-4303-8420-18e221e9e269",
+        "meta": {
+          "drupal_internal__target_id": "page"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/d40d9bf2-8382-4fac-b0fd-dd8daaccbb10/node_type?resourceVersion=id%3A4076"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/d40d9bf2-8382-4fac-b0fd-dd8daaccbb10/relationships/node_type?resourceVersion=id%3A4076"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/d40d9bf2-8382-4fac-b0fd-dd8daaccbb10/revision_uid?resourceVersion=id%3A4076"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/d40d9bf2-8382-4fac-b0fd-dd8daaccbb10/relationships/revision_uid?resourceVersion=id%3A4076"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/d40d9bf2-8382-4fac-b0fd-dd8daaccbb10/uid?resourceVersion=id%3A4076"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/d40d9bf2-8382-4fac-b0fd-dd8daaccbb10/relationships/uid?resourceVersion=id%3A4076"
+        }
+      }
+    }
+  }
+}

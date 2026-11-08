@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "92f09651-91a8-4f5d-a15f-b70420f0d816",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/92f09651-91a8-4f5d-a15f-b70420f0d816?resourceVersion=id%3A3693"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/92f09651-91a8-4f5d-a15f-b70420f0d816?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74365,
+    "drupal_internal__vid": 3693,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Liebesbeziehung",
+    "created": "2012-10-15T14:33:01+00:00",
+    "changed": "2013-09-14T11:54:40+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/74365",
+      "pid": 1739,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahr an Hugo von Hofmannsthal, 18. Juli 1893:<blockquote>Bleibe also hier bis 15. August. Und dann wahrscheinlich weiblich in einen versteckten Winkel der Alpen, ein paar Wochen nichts als glücklich sein, was ich seit einem Monate das erste Mal in meinem Leben rein und voll bin – man sagt u glaubt das nemlich nimmer.</blockquote>Am 2. August sieht er erste \"tragische Wölkchen\" in der Beziehung auftauchen. ",
+      "format": "full_html",
+      "processed": "Bahr an Hugo von Hofmannsthal, 18. Juli 1893:<blockquote>Bleibe also hier bis 15. August. Und dann wahrscheinlich weiblich in einen versteckten Winkel der Alpen, ein paar Wochen nichts als glücklich sein, was ich seit einem Monate das erste Mal in meinem Leben rein und voll bin – man sagt u glaubt das nemlich nimmer.</blockquote>Am 2. August sieht er erste \"tragische Wölkchen\" in der Beziehung auftauchen. ",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1893-06-18",
+      "end_value": "1893-06-18"
+    },
+    "field_sources": [
+      "Briefwechsel Bahr/Hofmannsthal. Hg. Elsbeth Dangel-Pelloquin. Göttingen: Wallstein. (In Vorbereitung), An HvH, 18. Juli 1893 und an HvH, 2.8.1893",
+      "(Hier 18. Juni 1893)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/92f09651-91a8-4f5d-a15f-b70420f0d816/node_type?resourceVersion=id%3A3693"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/92f09651-91a8-4f5d-a15f-b70420f0d816/relationships/node_type?resourceVersion=id%3A3693"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/92f09651-91a8-4f5d-a15f-b70420f0d816/revision_uid?resourceVersion=id%3A3693"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/92f09651-91a8-4f5d-a15f-b70420f0d816/relationships/revision_uid?resourceVersion=id%3A3693"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/92f09651-91a8-4f5d-a15f-b70420f0d816/uid?resourceVersion=id%3A3693"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/92f09651-91a8-4f5d-a15f-b70420f0d816/relationships/uid?resourceVersion=id%3A3693"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/92f09651-91a8-4f5d-a15f-b70420f0d816/field_event_type?resourceVersion=id%3A3693"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/92f09651-91a8-4f5d-a15f-b70420f0d816/relationships/field_event_type?resourceVersion=id%3A3693"
+        }
+      }
+    }
+  }
+}

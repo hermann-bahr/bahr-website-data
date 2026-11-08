@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "280f44aa-fe15-4216-8e0e-d5e5346ee595",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/280f44aa-fe15-4216-8e0e-d5e5346ee595?resourceVersion=id%3A2366"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/280f44aa-fe15-4216-8e0e-d5e5346ee595?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28034,
+    "drupal_internal__vid": 2366,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Die Mutter",
+    "created": "2010-07-28T11:05:42+00:00",
+    "changed": "2011-11-21T14:11:49+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28034",
+      "pid": 200,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahrs Dekadenz-Stück \"Die Mutter\" kommt Ende Jänner 1891 im Sallis'schen Verlag in Berlin aus dem Druck.\r\n\r\nEs handelt von der Mutter, einer alternden Schauspielerin, die verhindern will, dass ihr zwanzigjähriger Sohn Edi sich in Terka verliebt, mit der sie selbst zuvor in einer leidenschaftlichen Beziehung gestanden ist. Als die Mutter im Hause Terkas bei einem Treffen auftaucht, verletzt sich Edi durch eine herunterfallende Vorhangsstange. Im letzten Akt versucht die Mutter, Edi zu pflegen, sei es, indem sie sich als Geliebte anbietet, sei es, dass sie verrät, den Vater aus Liebe umgebracht zu haben. Die Aufregung lässt Edi sterben und die Mutter, von einem alternden Clown getröstet, in wahnsinniges Gelächter ausbrechen.",
+      "format": "full_html",
+      "processed": "Bahrs Dekadenz-Stück \"Die Mutter\" kommt Ende Jänner 1891 im Sallis'schen Verlag in Berlin aus dem Druck.\n\nEs handelt von der Mutter, einer alternden Schauspielerin, die verhindern will, dass ihr zwanzigjähriger Sohn Edi sich in Terka verliebt, mit der sie selbst zuvor in einer leidenschaftlichen Beziehung gestanden ist. Als die Mutter im Hause Terkas bei einem Treffen auftaucht, verletzt sich Edi durch eine herunterfallende Vorhangsstange. Im letzten Akt versucht die Mutter, Edi zu pflegen, sei es, indem sie sich als Geliebte anbietet, sei es, dass sie verrät, den Vater aus Liebe umgebracht zu haben. Die Aufregung lässt Edi sterben und die Mutter, von einem alternden Clown getröstet, in wahnsinniges Gelächter ausbrechen.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1891-01-25",
+      "end_value": "1891-01-25"
+    },
+    "field_sources": [
+      "Hermann Bahr: Die Mutter. Drama in drei Akten. Berlin: Sallis'scher Verlag, 1891.",
+      "Hermann Bahr: Die Mutter. Die Moderne, 1 (1891) #2/3, 31-40. (8.2.1891)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/280f44aa-fe15-4216-8e0e-d5e5346ee595/node_type?resourceVersion=id%3A2366"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/280f44aa-fe15-4216-8e0e-d5e5346ee595/relationships/node_type?resourceVersion=id%3A2366"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/280f44aa-fe15-4216-8e0e-d5e5346ee595/revision_uid?resourceVersion=id%3A2366"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/280f44aa-fe15-4216-8e0e-d5e5346ee595/relationships/revision_uid?resourceVersion=id%3A2366"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/280f44aa-fe15-4216-8e0e-d5e5346ee595/uid?resourceVersion=id%3A2366"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/280f44aa-fe15-4216-8e0e-d5e5346ee595/relationships/uid?resourceVersion=id%3A2366"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "27f3d2a4-8970-4726-9ab8-ce37707ec1bc",
+          "meta": {
+            "drupal_internal__target_id": 1
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/280f44aa-fe15-4216-8e0e-d5e5346ee595/field_event_type?resourceVersion=id%3A2366"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/280f44aa-fe15-4216-8e0e-d5e5346ee595/relationships/field_event_type?resourceVersion=id%3A2366"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "536b7b69-20de-4229-bd72-d946800b6499",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/536b7b69-20de-4229-bd72-d946800b6499?resourceVersion=id%3A4174"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/536b7b69-20de-4229-bd72-d946800b6499?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27845,
+    "drupal_internal__vid": 4174,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-28T08:52:29+00:00",
+    "status": true,
+    "title": "Geburt",
+    "created": "2010-05-27T09:50:00+00:00",
+    "changed": "2020-02-28T08:52:29+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/27845",
+      "pid": 43,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<p>Auszug aus dem Geburts-Taufbuch Stadtpfarramt St. Matthias, Tom V. fol. 2428</p>\r\n\r\n<blockquote>Am 19. Juli 1863, 1/2 6 Uhr abends geboren, Herrengasse 815, und am 21. Juli 1863, 3 1/4 Uhr abends getauft; von P. Laurenz Mayer, Coop. H e r m a n n Anastasius Alois B a h r . Vater: Dr. Alois Bahr, k.k. Notar in Linz. Mutter: Wilhelmine, geb. Weidlich, geb. in Johannesberg in k.k. Schlesien […] Pate: Anastasius Ritter von Weidlich, k.k. Hofrat in Temesvar, Stellvertreter: Dr. Eduard Benoni, Finanz-Prokuraturs-Beamter in Linz.</blockquote>\r\n\r\n<p>Das Haus seiner Kindheit steht in der Herrenstraße 12, Ecke Steingasse. Die Familie wohnt im ersten Stock. So auch die Angabe der Adresse zur Geburt des Bruders Robert. Auf Webseiten der Stadt Linz wird die Meinung vertreten, Bahrs Geburtshaus wäre die heutige Herrengasse 18. Inwieweit das zutrifft, wurde bislang nicht verifiziert.</p>\r\n",
+      "format": "full_html",
+      "processed": "<p>Auszug aus dem Geburts-Taufbuch Stadtpfarramt St. Matthias, Tom V. fol. 2428</p>\n\n<blockquote>Am 19. Juli 1863, 1/2 6 Uhr abends geboren, Herrengasse 815, und am 21. Juli 1863, 3 1/4 Uhr abends getauft; von P. Laurenz Mayer, Coop. H e r m a n n Anastasius Alois B a h r . Vater: Dr. Alois Bahr, k.k. Notar in Linz. Mutter: Wilhelmine, geb. Weidlich, geb. in Johannesberg in k.k. Schlesien […] Pate: Anastasius Ritter von Weidlich, k.k. Hofrat in Temesvar, Stellvertreter: Dr. Eduard Benoni, Finanz-Prokuraturs-Beamter in Linz.</blockquote>\n\n<p>Das Haus seiner Kindheit steht in der Herrenstraße 12, Ecke Steingasse. Die Familie wohnt im ersten Stock. So auch die Angabe der Adresse zur Geburt des Bruders Robert. Auf Webseiten der Stadt Linz wird die Meinung vertreten, Bahrs Geburtshaus wäre die heutige Herrengasse 18. Inwieweit das zutrifft, wurde bislang nicht verifiziert.</p>\n",
+      "summary": ""
+    },
+    "field_event_date": {
+      "value": "1863-07-19",
+      "end_value": "1863-07-19"
+    },
+    "field_sources": [
+      "Selbstbildnis, 11 und 24.",
+      "Nachlass Kiste 104: Varia, Antwort der Stadtpfarre an Rudolf Holzer"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/536b7b69-20de-4229-bd72-d946800b6499/node_type?resourceVersion=id%3A4174"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/536b7b69-20de-4229-bd72-d946800b6499/relationships/node_type?resourceVersion=id%3A4174"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/536b7b69-20de-4229-bd72-d946800b6499/revision_uid?resourceVersion=id%3A4174"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/536b7b69-20de-4229-bd72-d946800b6499/relationships/revision_uid?resourceVersion=id%3A4174"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/536b7b69-20de-4229-bd72-d946800b6499/uid?resourceVersion=id%3A4174"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/536b7b69-20de-4229-bd72-d946800b6499/relationships/uid?resourceVersion=id%3A4174"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/536b7b69-20de-4229-bd72-d946800b6499/field_event_type?resourceVersion=id%3A4174"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/536b7b69-20de-4229-bd72-d946800b6499/relationships/field_event_type?resourceVersion=id%3A4174"
+        }
+      }
+    }
+  }
+}

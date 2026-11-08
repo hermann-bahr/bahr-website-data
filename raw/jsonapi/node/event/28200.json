@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "ca6ad377-20e0-4edd-b491-15e7743cd82a",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/ca6ad377-20e0-4edd-b491-15e7743cd82a?resourceVersion=id%3A2506"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/ca6ad377-20e0-4edd-b491-15e7743cd82a?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28200,
+    "drupal_internal__vid": 2506,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Hugo Wolf",
+    "created": "2010-10-08T22:24:50+00:00",
+    "changed": "2013-03-07T13:23:49+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28200",
+      "pid": 344,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Im Sommer 1883 lernt Bahr am Traunsee Hugo Wolf kennen, mit dem er im darauffolgenden Frühjahr auch in einer WG wohnt. ",
+      "format": "full_html",
+      "processed": "Im Sommer 1883 lernt Bahr am Traunsee Hugo Wolf kennen, mit dem er im darauffolgenden Frühjahr auch in einer WG wohnt. ",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1883-07-01",
+      "end_value": "1883-07-01"
+    },
+    "field_sources": [
+      "Selbstbildnis, 153.",
+      "Hermann Bahr: Brahms von Klinger. Neue Freie Presse, (1909) #15990, Morgenblatt, 1-2. (25.2.1909) Buchausgabe: Essays (1912), 40-46.\r\n"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ca6ad377-20e0-4edd-b491-15e7743cd82a/node_type?resourceVersion=id%3A2506"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ca6ad377-20e0-4edd-b491-15e7743cd82a/relationships/node_type?resourceVersion=id%3A2506"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ca6ad377-20e0-4edd-b491-15e7743cd82a/revision_uid?resourceVersion=id%3A2506"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ca6ad377-20e0-4edd-b491-15e7743cd82a/relationships/revision_uid?resourceVersion=id%3A2506"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ca6ad377-20e0-4edd-b491-15e7743cd82a/uid?resourceVersion=id%3A2506"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ca6ad377-20e0-4edd-b491-15e7743cd82a/relationships/uid?resourceVersion=id%3A2506"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ca6ad377-20e0-4edd-b491-15e7743cd82a/field_event_type?resourceVersion=id%3A2506"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ca6ad377-20e0-4edd-b491-15e7743cd82a/relationships/field_event_type?resourceVersion=id%3A2506"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "3ad2077b-8f33-4d82-b953-524b89933332",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/3ad2077b-8f33-4d82-b953-524b89933332?resourceVersion=id%3A3008"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/3ad2077b-8f33-4d82-b953-524b89933332?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44091,
+    "drupal_internal__vid": 3008,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Mildenburg im Querulant",
+    "created": "2011-09-08T10:59:26+00:00",
+    "changed": "2011-12-20T15:42:55+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44091",
+      "pid": 986,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 12. und am 15. November 1915 tritt Bahrs Frau in ihrer ersten Sprechrolle als Fürstentochter Marie in Bahrs \"Querulant\" im Darmstädter Hoftheater auf. ",
+      "format": "full_html",
+      "processed": "Am 12. und am 15. November 1915 tritt Bahrs Frau in ihrer ersten Sprechrolle als Fürstentochter Marie in Bahrs \"Querulant\" im Darmstädter Hoftheater auf. ",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1915-11-12",
+      "end_value": "1915-11-15"
+    },
+    "field_sources": [
+      "Gabriele Parizek: Anna Bahr-Mildenburg [Dissertation], 74.",
+      "Neue Freie Presse, 1915 #18403, 10-11. (16.11.1915)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3ad2077b-8f33-4d82-b953-524b89933332/node_type?resourceVersion=id%3A3008"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3ad2077b-8f33-4d82-b953-524b89933332/relationships/node_type?resourceVersion=id%3A3008"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3ad2077b-8f33-4d82-b953-524b89933332/revision_uid?resourceVersion=id%3A3008"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3ad2077b-8f33-4d82-b953-524b89933332/relationships/revision_uid?resourceVersion=id%3A3008"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3ad2077b-8f33-4d82-b953-524b89933332/uid?resourceVersion=id%3A3008"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3ad2077b-8f33-4d82-b953-524b89933332/relationships/uid?resourceVersion=id%3A3008"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3ad2077b-8f33-4d82-b953-524b89933332/field_event_type?resourceVersion=id%3A3008"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3ad2077b-8f33-4d82-b953-524b89933332/relationships/field_event_type?resourceVersion=id%3A3008"
+        }
+      }
+    }
+  }
+}

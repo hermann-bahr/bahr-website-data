@@ -1,0 +1,122 @@
+{
+  "type": "node--event",
+  "id": "a9510a12-fc14-48da-af14-9f3a63e5ae23",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/a9510a12-fc14-48da-af14-9f3a63e5ae23?resourceVersion=id%3A2968"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/a9510a12-fc14-48da-af14-9f3a63e5ae23?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44048,
+    "drupal_internal__vid": 2968,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Prozess \"Eipeldauen\"",
+    "created": "2011-08-31T14:59:15+00:00",
+    "changed": "2011-12-14T12:21:35+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44048",
+      "pid": 946,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 19. Februar 1913 geht der Prozess weiter in der Klage Gabor Steiners gegen Bahr. Bahr hatte 1910 für die Eröffnung des Ronachers ein Stück geschrieben – \"Die Reise nach Eipeldau\" – das von der Zensur nicht zugelassen wurde. Steiner, mittlerweile in Konkurs, fordert den Vorschuss von 7000 Kronen zurück. Bahr hingegen will Steiner auf das Risiko aufmerksam gemacht haben und sieht deshalb die Forderung als unrechtmäßig an. Nach einem langwierigen Prozess wird im Juni zugunsten Bahrs entschieden.",
+      "format": "full_html",
+      "processed": "Am 19. Februar 1913 geht der Prozess weiter in der Klage Gabor Steiners gegen Bahr. Bahr hatte 1910 für die Eröffnung des Ronachers ein Stück geschrieben – \"Die Reise nach Eipeldau\" – das von der Zensur nicht zugelassen wurde. Steiner, mittlerweile in Konkurs, fordert den Vorschuss von 7000 Kronen zurück. Bahr hingegen will Steiner auf das Risiko aufmerksam gemacht haben und sieht deshalb die Forderung als unrechtmäßig an. Nach einem langwierigen Prozess wird im Juni zugunsten Bahrs entschieden.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1913-02-19",
+      "end_value": "1913-02-19"
+    },
+    "field_sources": [
+      "Neue Freie Presse, 1913 #17420, 14. (20.2.1913)",
+      " Illustriertes Wiener Extrablatt: Der 7000-Kronen-Vorschuß für die 'Reise nach Eipeldauen', 20.2.1913, 11.",
+      "Berliner Tageblatt, 42 (1913) #95, Abend-Ausgabe, 2. (21.2.1913)",
+      "Kraus' Kommentar: Fackel, 15 (1913) #381-383, 33-36.",
+      "[O.N.:] Der Theoretiker Hermann Bahr. In: Die Aktion, 3 (1913) #10, 297. (5.3.1913)",
+      "Reiter, Ilse: Gustav Harpner (1864-1924). Vom Anarchistenverteidiger zum Anwalt der Republik. Wien: Böhlau 2008.",
+      "Briefe Gustav Harpners an Bahr, im Nachlass Bahrs"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a9510a12-fc14-48da-af14-9f3a63e5ae23/node_type?resourceVersion=id%3A2968"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a9510a12-fc14-48da-af14-9f3a63e5ae23/relationships/node_type?resourceVersion=id%3A2968"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a9510a12-fc14-48da-af14-9f3a63e5ae23/revision_uid?resourceVersion=id%3A2968"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a9510a12-fc14-48da-af14-9f3a63e5ae23/relationships/revision_uid?resourceVersion=id%3A2968"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a9510a12-fc14-48da-af14-9f3a63e5ae23/uid?resourceVersion=id%3A2968"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a9510a12-fc14-48da-af14-9f3a63e5ae23/relationships/uid?resourceVersion=id%3A2968"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a9510a12-fc14-48da-af14-9f3a63e5ae23/field_event_type?resourceVersion=id%3A2968"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a9510a12-fc14-48da-af14-9f3a63e5ae23/relationships/field_event_type?resourceVersion=id%3A2968"
+        }
+      }
+    }
+  }
+}

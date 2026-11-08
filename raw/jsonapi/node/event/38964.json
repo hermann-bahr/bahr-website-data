@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "8e94c713-c173-43aa-ae94-8f4619b3be2e",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/8e94c713-c173-43aa-ae94-8f4619b3be2e?resourceVersion=id%3A2749"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/8e94c713-c173-43aa-ae94-8f4619b3be2e?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38964,
+    "drupal_internal__vid": 2749,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Schauspielkunst",
+    "created": "2011-03-16T12:02:45+00:00",
+    "changed": "2011-10-20T14:57:42+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38964",
+      "pid": 703,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "11. Dezember 1921: Bahr spricht im Residenztheater in München über \"Schauspielkunst\".",
+      "format": "full_html",
+      "processed": "11. Dezember 1921: Bahr spricht im Residenztheater in München über \"Schauspielkunst\".",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1921-12-11",
+      "end_value": "1921-12-11"
+    },
+    "field_sources": [
+      "Rezension durch Josef M. Jurinek in: Neues Wiener Journal, 14.12.1921",
+      "Bahr/Redlich, 467-468."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8e94c713-c173-43aa-ae94-8f4619b3be2e/node_type?resourceVersion=id%3A2749"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8e94c713-c173-43aa-ae94-8f4619b3be2e/relationships/node_type?resourceVersion=id%3A2749"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8e94c713-c173-43aa-ae94-8f4619b3be2e/revision_uid?resourceVersion=id%3A2749"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8e94c713-c173-43aa-ae94-8f4619b3be2e/relationships/revision_uid?resourceVersion=id%3A2749"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8e94c713-c173-43aa-ae94-8f4619b3be2e/uid?resourceVersion=id%3A2749"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8e94c713-c173-43aa-ae94-8f4619b3be2e/relationships/uid?resourceVersion=id%3A2749"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8e94c713-c173-43aa-ae94-8f4619b3be2e/field_event_type?resourceVersion=id%3A2749"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8e94c713-c173-43aa-ae94-8f4619b3be2e/relationships/field_event_type?resourceVersion=id%3A2749"
+        }
+      }
+    }
+  }
+}

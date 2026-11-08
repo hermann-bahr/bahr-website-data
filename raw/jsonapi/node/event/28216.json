@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "c37db128-b89a-42d3-bf9c-5b66c2fb9dff",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/c37db128-b89a-42d3-bf9c-5b66c2fb9dff?resourceVersion=id%3A2521"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/c37db128-b89a-42d3-bf9c-5b66c2fb9dff?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28216,
+    "drupal_internal__vid": 2521,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Der Unmensch, Regie Mildenburg",
+    "created": "2010-10-09T19:47:51+00:00",
+    "changed": "2011-10-17T08:29:28+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28216",
+      "pid": 359,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 10. Februar 1920 bringen die Kammerspiele in Berlin Bahrs \"Der Unmensch\" in der Regie von Anna Bahr-Mildenburg. (Parizek gibt die Première fälschlich mit 3. Dezember 1919 an.)",
+      "format": "full_html",
+      "processed": "Am 10. Februar 1920 bringen die Kammerspiele in Berlin Bahrs \"Der Unmensch\" in der Regie von Anna Bahr-Mildenburg. (Parizek gibt die Première fälschlich mit 3. Dezember 1919 an.)",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1920-02-10",
+      "end_value": "1920-02-10"
+    },
+    "field_sources": [
+      "Gabriele Parizek: Anna Bahr-Mildenburg [Dissertation], 96-97.",
+      "Alfred Kerr im Berliner Tageblatt, 49 (1920) #76, Morgen-Ausgabe, 2. (12.2.1920)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c37db128-b89a-42d3-bf9c-5b66c2fb9dff/node_type?resourceVersion=id%3A2521"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c37db128-b89a-42d3-bf9c-5b66c2fb9dff/relationships/node_type?resourceVersion=id%3A2521"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c37db128-b89a-42d3-bf9c-5b66c2fb9dff/revision_uid?resourceVersion=id%3A2521"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c37db128-b89a-42d3-bf9c-5b66c2fb9dff/relationships/revision_uid?resourceVersion=id%3A2521"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c37db128-b89a-42d3-bf9c-5b66c2fb9dff/uid?resourceVersion=id%3A2521"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c37db128-b89a-42d3-bf9c-5b66c2fb9dff/relationships/uid?resourceVersion=id%3A2521"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c37db128-b89a-42d3-bf9c-5b66c2fb9dff/field_event_type?resourceVersion=id%3A2521"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c37db128-b89a-42d3-bf9c-5b66c2fb9dff/relationships/field_event_type?resourceVersion=id%3A2521"
+        }
+      }
+    }
+  }
+}

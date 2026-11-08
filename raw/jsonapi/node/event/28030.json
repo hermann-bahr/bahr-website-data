@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "ad8a52f3-7a35-4258-a17a-71956e265b3a",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/ad8a52f3-7a35-4258-a17a-71956e265b3a?resourceVersion=id%3A2362"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/ad8a52f3-7a35-4258-a17a-71956e265b3a?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28030,
+    "drupal_internal__vid": 2362,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Die neuen Menschen",
+    "created": "2010-07-28T10:57:20+00:00",
+    "changed": "2012-01-04T12:17:28+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28030",
+      "pid": 196,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "In Berlin schreibt Bahr \"in einer Woche\" sein dreiaktiges Theaterstück \"Die neuen Menschen\".  Im Februar 1887 verfügt er über gedruckte Exemplare. Die Uraufführung ist die erste Aufführung eines Stückes Bahrs in Berlin und erfolgt am 18. Januar 1891 in Berlin durch den \"Verein 'Deutsche Bühne'\" mit Emanuel Reicher und Marie Conrad-Ramlo.\r\n\r\nDas Stück handelt von den beiden sozialistischen Agitatoren Georg und Anne, die Hedwig von der Straße aufgenommen haben. Als Anne merkt, dass Georg sich in Hedwig verliebt hat, fordert sie ihn auf, diese im Sinne der Arbeit für die neue Menschheit aus dem Haus zu weisen. Georg scheitert aber an seinen Idealen und geht mit Hedwig fort. Im dritten Akt leben die beiden am Gardasee, wo sich Hedwig in einen Dritten verliebt hat. Anne, die ebenfalls zu kämpfen aufgehört hat, trifft zum ersten Mal wieder auf Georg, der in der Situation nur mehr Suizid als Weg zum Glück Hedwigs sieht, wobei ihm Anne verspricht zu helfen.",
+      "format": "full_html",
+      "processed": "In Berlin schreibt Bahr \"in einer Woche\" sein dreiaktiges Theaterstück \"Die neuen Menschen\".  Im Februar 1887 verfügt er über gedruckte Exemplare. Die Uraufführung ist die erste Aufführung eines Stückes Bahrs in Berlin und erfolgt am 18. Januar 1891 in Berlin durch den \"Verein 'Deutsche Bühne'\" mit Emanuel Reicher und Marie Conrad-Ramlo.\n\nDas Stück handelt von den beiden sozialistischen Agitatoren Georg und Anne, die Hedwig von der Straße aufgenommen haben. Als Anne merkt, dass Georg sich in Hedwig verliebt hat, fordert sie ihn auf, diese im Sinne der Arbeit für die neue Menschheit aus dem Haus zu weisen. Georg scheitert aber an seinen Idealen und geht mit Hedwig fort. Im dritten Akt leben die beiden am Gardasee, wo sich Hedwig in einen Dritten verliebt hat. Anne, die ebenfalls zu kämpfen aufgehört hat, trifft zum ersten Mal wieder auf Georg, der in der Situation nur mehr Suizid als Weg zum Glück Hedwigs sieht, wobei ihm Anne verspricht zu helfen.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1891-01-18",
+      "end_value": "1891-01-18"
+    },
+    "field_sources": [
+      "Hermann Bahr: Die neuen Menschen. Ein Schauspiel. Zürich: Verlags-Magazin (J. Schabelitz), 1887.",
+      "Selbstbildnis, 199-200",
+      "Liebe der Lebenden, I, 15-16. "
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ad8a52f3-7a35-4258-a17a-71956e265b3a/node_type?resourceVersion=id%3A2362"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ad8a52f3-7a35-4258-a17a-71956e265b3a/relationships/node_type?resourceVersion=id%3A2362"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ad8a52f3-7a35-4258-a17a-71956e265b3a/revision_uid?resourceVersion=id%3A2362"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ad8a52f3-7a35-4258-a17a-71956e265b3a/relationships/revision_uid?resourceVersion=id%3A2362"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ad8a52f3-7a35-4258-a17a-71956e265b3a/uid?resourceVersion=id%3A2362"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ad8a52f3-7a35-4258-a17a-71956e265b3a/relationships/uid?resourceVersion=id%3A2362"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "27f3d2a4-8970-4726-9ab8-ce37707ec1bc",
+          "meta": {
+            "drupal_internal__target_id": 1
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ad8a52f3-7a35-4258-a17a-71956e265b3a/field_event_type?resourceVersion=id%3A2362"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ad8a52f3-7a35-4258-a17a-71956e265b3a/relationships/field_event_type?resourceVersion=id%3A2362"
+        }
+      }
+    }
+  }
+}

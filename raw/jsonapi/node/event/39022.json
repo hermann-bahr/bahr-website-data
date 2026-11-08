@@ -1,0 +1,119 @@
+{
+  "type": "node--event",
+  "id": "6a68e0c0-85c2-4d43-9d4a-143121c56913",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/6a68e0c0-85c2-4d43-9d4a-143121c56913?resourceVersion=id%3A2800"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/6a68e0c0-85c2-4d43-9d4a-143121c56913?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39022,
+    "drupal_internal__vid": 2800,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "London",
+    "created": "2011-04-01T13:16:27+00:00",
+    "changed": "2012-01-26T16:02:24+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39022",
+      "pid": 756,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Auch im Herbst 1910 hält sich Bahr in London auf, wieder zur Begleitung eines Engagements von Gattin Anna Bahr-Mildenburg. Die Reise beginnt am 1. Oktober, am 2. in der früh sind sie in Brüssel und am Abend im Hotel in London. Am 26. Reise nach Dover, von dort weiter nach Ostende, Nürnberg, Passau. Am 28. ist er wieder in Wien.",
+      "format": "full_html",
+      "processed": "Auch im Herbst 1910 hält sich Bahr in London auf, wieder zur Begleitung eines Engagements von Gattin Anna Bahr-Mildenburg. Die Reise beginnt am 1. Oktober, am 2. in der früh sind sie in Brüssel und am Abend im Hotel in London. Am 26. Reise nach Dover, von dort weiter nach Ostende, Nürnberg, Passau. Am 28. ist er wieder in Wien.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1910-10-01",
+      "end_value": "1910-10-28"
+    },
+    "field_sources": [
+      "Hermann Bahr: Aufzeichnungen 1909-1911. Ausgabe in Vorbereitung von Kurt Ifkovits\r\n",
+      "Schnitzler/Bahr, 106. An Bahr, 27.9.1910 und Anm. S. 154.",
+      "Brief Bahrs an Redlich, London, 21. Oktober [1910] in: Redlich/Bahr, 73. ",
+      "Hermann Bahr: Meister und Meisterbriefe um Hermann Bahr. Aus seinen Entwürfen, Tagebüchern und seinem Briefwechsel. Ausgewählt und eingeleitet von Joseph Gregor. Wien: Hermann Bauer 1947, 82. (An R. Strauß, 1.11.1910)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6a68e0c0-85c2-4d43-9d4a-143121c56913/node_type?resourceVersion=id%3A2800"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6a68e0c0-85c2-4d43-9d4a-143121c56913/relationships/node_type?resourceVersion=id%3A2800"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6a68e0c0-85c2-4d43-9d4a-143121c56913/revision_uid?resourceVersion=id%3A2800"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6a68e0c0-85c2-4d43-9d4a-143121c56913/relationships/revision_uid?resourceVersion=id%3A2800"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6a68e0c0-85c2-4d43-9d4a-143121c56913/uid?resourceVersion=id%3A2800"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6a68e0c0-85c2-4d43-9d4a-143121c56913/relationships/uid?resourceVersion=id%3A2800"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6a68e0c0-85c2-4d43-9d4a-143121c56913/field_event_type?resourceVersion=id%3A2800"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6a68e0c0-85c2-4d43-9d4a-143121c56913/relationships/field_event_type?resourceVersion=id%3A2800"
+        }
+      }
+    }
+  }
+}

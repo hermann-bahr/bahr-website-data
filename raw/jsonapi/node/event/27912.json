@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "1439f4ee-b815-4743-934b-fe4092fe0098",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/1439f4ee-b815-4743-934b-fe4092fe0098?resourceVersion=id%3A2257"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/1439f4ee-b815-4743-934b-fe4092fe0098?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27912,
+    "drupal_internal__vid": 2257,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Dresden, Aussig, Leitmeritz und Prag",
+    "created": "2010-06-30T13:38:04+00:00",
+    "changed": "2013-03-12T13:20:02+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/27912",
+      "pid": 91,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Nach dem Semesterschluss (inoffiziell, durch Adolf Wagner am 2. August 1884) besucht Bahr nach seiner Abreise am 9. zuerst Dresden, dann einen Prager Kartellbruder in Aussig (Ústí nad Labem) und reist dann weiter nach Leitmeritz (Litoměřice), wo sich irgend etwas mit den österreichischen Behörden ereignet, die ihm Probleme machen. (Genaueres Unklar, aber häufige Anspielung in den kommenden Jahren in den Briefen an den Vater. Schließlich will er zwei Tage in Prag verbringen. Danach reist er nach Linz. Seine Verbindungen zu deutschnationalen Burschenschaftern sind zu dem Zeitpunkt also noch aufrecht. Es ist Bahrs erster Aufenthalt in Prag.",
+      "format": "full_html",
+      "processed": "Nach dem Semesterschluss (inoffiziell, durch Adolf Wagner am 2. August 1884) besucht Bahr nach seiner Abreise am 9. zuerst Dresden, dann einen Prager Kartellbruder in Aussig (Ústí nad Labem) und reist dann weiter nach Leitmeritz (Litoměřice), wo sich irgend etwas mit den österreichischen Behörden ereignet, die ihm Probleme machen. (Genaueres Unklar, aber häufige Anspielung in den kommenden Jahren in den Briefen an den Vater. Schließlich will er zwei Tage in Prag verbringen. Danach reist er nach Linz. Seine Verbindungen zu deutschnationalen Burschenschaftern sind zu dem Zeitpunkt also noch aufrecht. Es ist Bahrs erster Aufenthalt in Prag.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1884-08-09",
+      "end_value": "1884-08-14"
+    },
+    "field_sources": [
+      "Zu letzterem vgl. Tagesbote aus Mähren und Schlesien, 15.4.1908, 3, das sich auf ein Interview im Neuen Wiener Journal wenige Wochen zuvor bezieht.",
+      "Biografische Angaben aus dem Nachlass",
+      "Briefe an den Vater, 27.7.1884-11.8.1884"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1439f4ee-b815-4743-934b-fe4092fe0098/node_type?resourceVersion=id%3A2257"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1439f4ee-b815-4743-934b-fe4092fe0098/relationships/node_type?resourceVersion=id%3A2257"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1439f4ee-b815-4743-934b-fe4092fe0098/revision_uid?resourceVersion=id%3A2257"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1439f4ee-b815-4743-934b-fe4092fe0098/relationships/revision_uid?resourceVersion=id%3A2257"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1439f4ee-b815-4743-934b-fe4092fe0098/uid?resourceVersion=id%3A2257"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1439f4ee-b815-4743-934b-fe4092fe0098/relationships/uid?resourceVersion=id%3A2257"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1439f4ee-b815-4743-934b-fe4092fe0098/field_event_type?resourceVersion=id%3A2257"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1439f4ee-b815-4743-934b-fe4092fe0098/relationships/field_event_type?resourceVersion=id%3A2257"
+        }
+      }
+    }
+  }
+}

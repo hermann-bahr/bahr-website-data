@@ -1,0 +1,36 @@
+{
+  "type": "file--file",
+  "id": "fc7f3402-0809-4f03-a5e4-ef537eab7fdb",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/file/file/fc7f3402-0809-4f03-a5e4-ef537eab7fdb"
+    }
+  },
+  "attributes": {
+    "drupal_internal__fid": 229,
+    "langcode": "de",
+    "filename": "1890_postkarte.jpg",
+    "uri": {
+      "value": "public://bahr_bilder/1890_postkarte.jpg",
+      "url": "/sites/default/files/bahr_bilder/1890_postkarte.jpg"
+    },
+    "filemime": "image/jpeg",
+    "filesize": 2804494,
+    "status": true,
+    "created": "2020-02-18T15:00:35+00:00",
+    "changed": "2020-02-18T15:11:43+00:00"
+  },
+  "relationships": {
+    "uid": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/file/file/fc7f3402-0809-4f03-a5e4-ef537eab7fdb/uid"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/file/file/fc7f3402-0809-4f03-a5e4-ef537eab7fdb/relationships/uid"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bilder__1934-gedenkbild" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">1934 Gedenkbild</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">74460</idno>
+        <idno type="drupal-alias">/bild/74460</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bild/74460">https://bahr.univie.ac.at/bild/74460</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="7" key="bilder">Bilder</term>
+          <term n="42" key="1934-gedenkbild" type="eintrag">1934 Gedenkbild</term>
+        </keywords>
+        <classCode scheme="drupal-type">image</classCode>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013-01-28T10:20:22+00:00" type="created">angelegt in Drupal</change>
+      <change when="2013-01-28T10:20:22+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <figure>
+          <graphic url="files/bahr_bilder/1934_gedenkbild-1.jpg"/>
+          <figDesc>1934 Gedenkbild</figDesc>
+        </figure>
+        <figure>
+          <graphic url="files/bahr_bilder/1934_gedenkbild-2-3.jpg"/>
+          <figDesc>1934 Gedenkbild</figDesc>
+        </figure>
+        <figure>
+          <graphic url="files/bahr_bilder/1934_gedenkbild-4.jpg"/>
+          <figDesc>1934 Gedenkbild</figDesc>
+        </figure>
+        <p>
+          <hi rend="italic">Vorderseite</hi>
+        </p>
+        <p>
+          <hi rend="italic">Innenseite</hi>
+        </p>
+        <p>
+          <hi rend="italic">Rückseite</hi>
+        </p>
+        <p>
+          <hi rend="italic">Nach Hermann Bahrs Tod ließ seine Witwe dieses Gedenkbild drucken und an seine Freunde verteilen</hi>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

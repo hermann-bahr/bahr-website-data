@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "457d1265-7ed0-4bbd-8cf4-dc2743a42d3e",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/457d1265-7ed0-4bbd-8cf4-dc2743a42d3e?resourceVersion=id%3A3128"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/457d1265-7ed0-4bbd-8cf4-dc2743a42d3e?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44214,
+    "drupal_internal__vid": 3128,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "AS, Sandrock",
+    "created": "2011-09-22T10:30:54+00:00",
+    "changed": "2011-09-22T10:30:54+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44214",
+      "pid": 1107,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "24. Februar 1895: Einmal mehr versuchte Adele Sandrock, Schnitzler durch Bahrs Vermittlung zurückzugewinnen. Bahr von der einen zum anderen.",
+      "format": "full_html",
+      "processed": "24. Februar 1895: Einmal mehr versuchte Adele Sandrock, Schnitzler durch Bahrs Vermittlung zurückzugewinnen. Bahr von der einen zum anderen.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1895-02-24",
+      "end_value": "1895-02-24"
+    },
+    "field_sources": [
+      "Schnitzler: Tagebuch, II, 126-127."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/457d1265-7ed0-4bbd-8cf4-dc2743a42d3e/node_type?resourceVersion=id%3A3128"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/457d1265-7ed0-4bbd-8cf4-dc2743a42d3e/relationships/node_type?resourceVersion=id%3A3128"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/457d1265-7ed0-4bbd-8cf4-dc2743a42d3e/revision_uid?resourceVersion=id%3A3128"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/457d1265-7ed0-4bbd-8cf4-dc2743a42d3e/relationships/revision_uid?resourceVersion=id%3A3128"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/457d1265-7ed0-4bbd-8cf4-dc2743a42d3e/uid?resourceVersion=id%3A3128"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/457d1265-7ed0-4bbd-8cf4-dc2743a42d3e/relationships/uid?resourceVersion=id%3A3128"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/457d1265-7ed0-4bbd-8cf4-dc2743a42d3e/field_event_type?resourceVersion=id%3A3128"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/457d1265-7ed0-4bbd-8cf4-dc2743a42d3e/relationships/field_event_type?resourceVersion=id%3A3128"
+        }
+      }
+    }
+  }
+}

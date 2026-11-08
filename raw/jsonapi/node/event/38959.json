@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "f744ede0-acb3-4186-af7b-abae914bfe4f",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f744ede0-acb3-4186-af7b-abae914bfe4f?resourceVersion=id%3A2745"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f744ede0-acb3-4186-af7b-abae914bfe4f?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38959,
+    "drupal_internal__vid": 2745,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Prozess \"Wien\"",
+    "created": "2011-03-16T11:00:05+00:00",
+    "changed": "2011-11-03T10:57:54+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38959",
+      "pid": 699,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 12. Juli findet am Landesgericht für Strafsachen in Wien der Prozess wegen der Zensur von Bahrs \"Wien\" und der Konfiskation des \"Neuen Wiener Journals\" statt, das daraus abdruckte. Bahr verliert; das Neue Wiener Journal kann am 14. Juli 1907 titeln:\r\n<blockquote><h4>Unterlegener Polizeigeist.</h4><h5>Die Konfiskation des \"Neuen Wiener Journals\" aufgehoben.</h5></blockquote>\r\nDie abgedruckten Stellen aus Bahrs \"Wien\" enthalten keine Verletzung der schuldigen Ehrfurcht gegen das Kaiserhaus. ",
+      "format": "full_html",
+      "processed": "Am 12. Juli findet am Landesgericht für Strafsachen in Wien der Prozess wegen der Zensur von Bahrs \"Wien\" und der Konfiskation des \"Neuen Wiener Journals\" statt, das daraus abdruckte. Bahr verliert; das Neue Wiener Journal kann am 14. Juli 1907 titeln:\n<blockquote><h4>Unterlegener Polizeigeist.</h4><h5>Die Konfiskation des \"Neuen Wiener Journals\" aufgehoben.</h5></blockquote>\nDie abgedruckten Stellen aus Bahrs \"Wien\" enthalten keine Verletzung der schuldigen Ehrfurcht gegen das Kaiserhaus. ",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1907-07-12",
+      "end_value": "1907-07-14"
+    },
+    "field_sources": [
+      "Neues Wiener Journal, 15 (1907) #4928, 3 und #4929, 1. (13. und 14.7.1907)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f744ede0-acb3-4186-af7b-abae914bfe4f/node_type?resourceVersion=id%3A2745"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f744ede0-acb3-4186-af7b-abae914bfe4f/relationships/node_type?resourceVersion=id%3A2745"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f744ede0-acb3-4186-af7b-abae914bfe4f/revision_uid?resourceVersion=id%3A2745"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f744ede0-acb3-4186-af7b-abae914bfe4f/relationships/revision_uid?resourceVersion=id%3A2745"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f744ede0-acb3-4186-af7b-abae914bfe4f/uid?resourceVersion=id%3A2745"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f744ede0-acb3-4186-af7b-abae914bfe4f/relationships/uid?resourceVersion=id%3A2745"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f744ede0-acb3-4186-af7b-abae914bfe4f/field_event_type?resourceVersion=id%3A2745"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f744ede0-acb3-4186-af7b-abae914bfe4f/relationships/field_event_type?resourceVersion=id%3A2745"
+        }
+      }
+    }
+  }
+}

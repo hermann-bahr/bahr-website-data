@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bibliografie__literarische-prosa__theater-1897" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Theater (1897)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">38890</idno>
+        <idno type="drupal-alias">/bibliografie/38890</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bibliografie/38890">https://bahr.univie.ac.at/bibliografie/38890</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+        <bibl type="beschriebene-ausgabe">
+          <author>Hermann Bahr</author>
+          <title type="main">Theater</title>
+          <title type="sub">Ein Wiener Roman</title>
+          <pubPlace>Berlin</pubPlace>
+          <publisher>S. Fischer</publisher>
+          <date>1897</date>
+          <extent>224</extent>
+          <edition>2. Aufl 1897, 227 S. 3. Aufl. 1904, 231 S.</edition>
+          <edition>1911, 157 S. [Fischers Bibliothek zeitgenössischer Romane, III.7] Wien: H. Bauer 1948, 226 S.</edition>
+          <editor role="translator">Russisch: Teatr. Übersetzt von P. Bronstein. 1914; 2. Aufl. 1918 Schwedisch: Teater. En Wienroman. Übers. Karin Allardt. Helsingfors : Schildt, 1919</editor>
+          <note>Erschienen am 20. März 1897. "Der Roman brachte es bis 1904 nur auf das 3. Tausend; erst in der 'Bibliothek zeitgenössischer Romane' wurde er erfolgreich: dort erschienen bis 1918 weitere 65.000 Exemplare." S. und H. Fischer: Briefwechsel mit den Autoren (1989), Anm. S. 894.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="1" key="bibliografie">Bibliografie</term>
+          <term n="3" key="literarische-prosa">Literarische Prosa</term>
+          <term n="16" key="theater-1897" type="eintrag">Theater (1897)</term>
+        </keywords>
+        <classCode scheme="drupal-type">bibliographie</classCode>
+        <keywords scheme="bibliografie_type">
+          <term>Literarische Prosa</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2011-03-04T09:53:56+00:00" type="created">angelegt in Drupal</change>
+      <change when="2012-05-24T20:28:56+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="bib">
+        <head>Bibliografie</head>
+        <table type="bibliografie">
+          <row>
+            <cell>Autor:</cell>
+            <cell>Hermann Bahr</cell>
+          </row>
+          <row>
+            <cell>Titel:</cell>
+            <cell>Theater</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>Ein Wiener Roman</cell>
+          </row>
+          <row>
+            <cell>Ort:</cell>
+            <cell>Berlin</cell>
+          </row>
+          <row>
+            <cell>Verlag:</cell>
+            <cell>S. Fischer</cell>
+          </row>
+          <row>
+            <cell>Jahr:</cell>
+            <cell>1897</cell>
+          </row>
+          <row>
+            <cell>Seiten:</cell>
+            <cell>224</cell>
+          </row>
+          <row>
+            <cell>Aufl.:</cell>
+            <cell>2. Aufl 1897, 227 S. 3. Aufl. 1904, 231 S.</cell>
+          </row>
+          <row>
+            <cell>Ausg.</cell>
+            <cell>1911, 157 S. [Fischers Bibliothek zeitgenössischer Romane, III.7] Wien: H. Bauer 1948, 226 S.</cell>
+          </row>
+          <row>
+            <cell>Übers.:</cell>
+            <cell>Russisch: Teatr. Übersetzt von P. Bronstein. 1914; 2. Aufl. 1918 Schwedisch: Teater. En Wienroman. Übers. Karin Allardt. Helsingfors : Schildt, 1919</cell>
+          </row>
+          <row>
+            <cell>Anm.:</cell>
+            <cell>Erschienen am 20. März 1897. "Der Roman brachte es bis 1904 nur auf das 3. Tausend; erst in der 'Bibliothek zeitgenössischer Romane' wurde er erfolgreich: dort erschienen bis 1918 weitere 65.000 Exemplare." S. und H. Fischer: Briefwechsel mit den Autoren (1989), Anm. S. 894.</cell>
+          </row>
+        </table>
+      </div>
+      <div xml:id="rezens">
+        <head>Rezensionen</head>
+        <p>Neuland, 1.2 (1897) Juni, 190-192. L. Hevesi in: Fremdenblatt, 1.6.1897 Die Aktion, 1 (1911) #8, 247. (10.4.1911) [Kurzrezension der Neuausg.] Das freie Volk. Demokratisches Wochenblatt, 2 (1911) #16. (22.4.1911)</p>
+      </div>
+      <div xml:id="digit">
+        <head>Digitalisate</head>
+        <list rend="bulleted">
+          <item>
+            <ref target="http://www.archive.org/search.php?query=hermann%20bahr%20theater">archive.org</ref>
+          </item>
+        </list>
+      </div>
+    </body>
+  </text>
+</TEI>

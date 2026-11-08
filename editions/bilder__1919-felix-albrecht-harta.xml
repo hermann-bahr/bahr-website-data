@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bilder__1919-felix-albrecht-harta" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">1919 Felix Albrecht Harta</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">28306</idno>
+        <idno type="drupal-alias">/bild/28306</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bild/28306">https://bahr.univie.ac.at/bild/28306</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="7" key="bilder">Bilder</term>
+          <term n="31" key="1919-felix-albrecht-harta" type="eintrag">1919 Felix Albrecht Harta</term>
+        </keywords>
+        <classCode scheme="drupal-type">image</classCode>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2010-12-15T16:14:18+00:00" type="created">angelegt in Drupal</change>
+      <change when="2012-11-19T16:59:59+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <figure>
+          <graphic url="files/bahr_bilder/1919_harta.jpg"/>
+          <figDesc>1919 Felix Albrecht Harta</figDesc>
+        </figure>
+        <p>Die Widmung auf der Seite:</p>
+        <quote>Hermann Bahr<lb/>zur Erinnerung an<lb/>[Unleserlich]<lb/>[Unleserlich]<lb/>6.3 [?].1919 Harta</quote>
+        <p>
+          <hi rend="italic">Das Blatt illustriert den 1. Teil des Abdrucks von Bahrs "Der Selige" in: Moderne Welt. Kunst-Literatur-Mode, 2 (1920) #1, 1-5. Original im Nachlass Bahrs, siehe Bilddatenbank des KHM</hi>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

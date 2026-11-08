@@ -1,0 +1,125 @@
+{
+  "type": "node--event",
+  "id": "e1fa1963-8025-4cf9-aedb-f0e688934248",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/e1fa1963-8025-4cf9-aedb-f0e688934248?resourceVersion=id%3A2769"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/e1fa1963-8025-4cf9-aedb-f0e688934248?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38986,
+    "drupal_internal__vid": 2769,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Reigen",
+    "created": "2011-03-17T11:30:58+00:00",
+    "changed": "2011-09-20T13:15:40+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38986",
+      "pid": 723,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahr bemühte sich im Oktober 1903, eine Erlaubnis für die Lesung von Schnitzlers \"Reigen\" zu bekommen, die ihm aber behördlich verboten wird. Stattdessen liest er am 8. November im Bösendorfersaal seine eigene Novelle \"Wirkung in die Ferne\", Verse von Hartleben, die Humoreske \"Cicero und Horaz\" von Max Burckhard, Carl Karlweis \"Die Packerln\" und \"Exzentrik\" von Schnitzler.",
+      "format": "full_html",
+      "processed": "Bahr bemühte sich im Oktober 1903, eine Erlaubnis für die Lesung von Schnitzlers \"Reigen\" zu bekommen, die ihm aber behördlich verboten wird. Stattdessen liest er am 8. November im Bösendorfersaal seine eigene Novelle \"Wirkung in die Ferne\", Verse von Hartleben, die Humoreske \"Cicero und Horaz\" von Max Burckhard, Carl Karlweis \"Die Packerln\" und \"Exzentrik\" von Schnitzler.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1903-10-25",
+      "end_value": "1903-11-08"
+    },
+    "field_sources": [
+      "Ankündigung der Kartenausgabe: Neues Wiener Tagblatt, 37 (1903) #300, 11. (1.11.1903)",
+      "Tagebücher (Csàky), III, 404-405.",
+      "Ankündigung: Neues Wiener Tagblatt, 37 (1903) #293, 11. (25.10.1903)",
+      "Briefe im Nachlass",
+      " Briefe Schnitzlers an Bahr, 80-81. (10.11.1903) S.a. Brief Bahrs an Schnitzler, 9.11.1903 (Anm. Daviau)",
+      "Otto P. Schinnerer: The History of Schnitzler's Reigen. In: PMLA, 46 (1931) #3, 844.",
+      "Verbot der Vorlesung:  Neues Wiener Tagblatt, 37 (1903) #302, 8. (3.11.1903)",
+      "Hermann Bahr über Arthur Schnitzler. Berliner Tageblatt, 32 (1903) #634, Abend-Ausgabe, 2. (14.12.1903) ",
+      "Schnitzler: Tagebuch, 1.11.1903 und 10.11.1903",
+      "Das Programm: Neues Wiener Tagblatt, 37 (1903) #307, 11. (8.11.1903)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e1fa1963-8025-4cf9-aedb-f0e688934248/node_type?resourceVersion=id%3A2769"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e1fa1963-8025-4cf9-aedb-f0e688934248/relationships/node_type?resourceVersion=id%3A2769"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e1fa1963-8025-4cf9-aedb-f0e688934248/revision_uid?resourceVersion=id%3A2769"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e1fa1963-8025-4cf9-aedb-f0e688934248/relationships/revision_uid?resourceVersion=id%3A2769"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e1fa1963-8025-4cf9-aedb-f0e688934248/uid?resourceVersion=id%3A2769"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e1fa1963-8025-4cf9-aedb-f0e688934248/relationships/uid?resourceVersion=id%3A2769"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e1fa1963-8025-4cf9-aedb-f0e688934248/field_event_type?resourceVersion=id%3A2769"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e1fa1963-8025-4cf9-aedb-f0e688934248/relationships/field_event_type?resourceVersion=id%3A2769"
+        }
+      }
+    }
+  }
+}

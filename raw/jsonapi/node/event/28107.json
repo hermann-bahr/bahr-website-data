@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "285b7420-f967-4f8c-aeb5-67e9bed633b6",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/285b7420-f967-4f8c-aeb5-67e9bed633b6?resourceVersion=id%3A2430"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/285b7420-f967-4f8c-aeb5-67e9bed633b6?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28107,
+    "drupal_internal__vid": 2430,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Triest, Grado, Abbazia",
+    "created": "2010-08-11T19:56:11+00:00",
+    "changed": "2011-09-02T12:03:13+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28107",
+      "pid": 265,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Vom 3. bis zum 8. Mai 1907 weilt Bahr zuerst in Triest, dann in Grado und schließlich in Abbazia.",
+      "format": "full_html",
+      "processed": "Vom 3. bis zum 8. Mai 1907 weilt Bahr zuerst in Triest, dann in Grado und schließlich in Abbazia.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1907-05-03",
+      "end_value": "1907-05-08"
+    },
+    "field_sources": [
+      "Tagebücher (Csàky), V, 203 und 285-290."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/285b7420-f967-4f8c-aeb5-67e9bed633b6/node_type?resourceVersion=id%3A2430"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/285b7420-f967-4f8c-aeb5-67e9bed633b6/relationships/node_type?resourceVersion=id%3A2430"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/285b7420-f967-4f8c-aeb5-67e9bed633b6/revision_uid?resourceVersion=id%3A2430"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/285b7420-f967-4f8c-aeb5-67e9bed633b6/relationships/revision_uid?resourceVersion=id%3A2430"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/285b7420-f967-4f8c-aeb5-67e9bed633b6/uid?resourceVersion=id%3A2430"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/285b7420-f967-4f8c-aeb5-67e9bed633b6/relationships/uid?resourceVersion=id%3A2430"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/285b7420-f967-4f8c-aeb5-67e9bed633b6/field_event_type?resourceVersion=id%3A2430"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/285b7420-f967-4f8c-aeb5-67e9bed633b6/relationships/field_event_type?resourceVersion=id%3A2430"
+        }
+      }
+    }
+  }
+}

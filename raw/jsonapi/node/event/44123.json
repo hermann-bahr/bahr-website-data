@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "9c78c751-2085-44f1-a055-cbada2257410",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/9c78c751-2085-44f1-a055-cbada2257410?resourceVersion=id%3A3039"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/9c78c751-2085-44f1-a055-cbada2257410?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44123,
+    "drupal_internal__vid": 3039,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "AS, Kraus, B.-H., HvH, Schik, Horn",
+    "created": "2011-09-14T12:22:13+00:00",
+    "changed": "2011-09-14T12:37:27+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44123",
+      "pid": 1018,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 18. Februar 1894 treffen sich bei Schnitzler Beer-Hofmann, Hugo von Hofmannsthal, Friedrich Schik und Paul Horn sowie Bahr und Karl Kraus.",
+      "format": "full_html",
+      "processed": "Am 18. Februar 1894 treffen sich bei Schnitzler Beer-Hofmann, Hugo von Hofmannsthal, Friedrich Schik und Paul Horn sowie Bahr und Karl Kraus.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1894-02-18",
+      "end_value": "1894-02-18"
+    },
+    "field_sources": [
+      "Schnitzler: Tagebuch, II, 70."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9c78c751-2085-44f1-a055-cbada2257410/node_type?resourceVersion=id%3A3039"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9c78c751-2085-44f1-a055-cbada2257410/relationships/node_type?resourceVersion=id%3A3039"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9c78c751-2085-44f1-a055-cbada2257410/revision_uid?resourceVersion=id%3A3039"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9c78c751-2085-44f1-a055-cbada2257410/relationships/revision_uid?resourceVersion=id%3A3039"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9c78c751-2085-44f1-a055-cbada2257410/uid?resourceVersion=id%3A3039"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9c78c751-2085-44f1-a055-cbada2257410/relationships/uid?resourceVersion=id%3A3039"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9c78c751-2085-44f1-a055-cbada2257410/field_event_type?resourceVersion=id%3A3039"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9c78c751-2085-44f1-a055-cbada2257410/relationships/field_event_type?resourceVersion=id%3A3039"
+        }
+      }
+    }
+  }
+}

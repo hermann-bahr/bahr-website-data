@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "381557c0-13b4-4726-9257-706b1da33a55",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/381557c0-13b4-4726-9257-706b1da33a55?resourceVersion=id%3A2886"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/381557c0-13b4-4726-9257-706b1da33a55?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39121,
+    "drupal_internal__vid": 2886,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Euripides",
+    "created": "2011-05-24T12:15:44+00:00",
+    "changed": "2011-09-13T17:26:33+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39121",
+      "pid": 851,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bei Schuster & Löffler wird von Paul Remer die Reihe \"Die Dichtung. Eine Sammlung von Monographien\" herausgegeben. Band XLII erscheint 1905 und enthält einen Ausblick auf die kommenden Bände: In Vorbereitung befindet sich ein nie realisierter Band \"Euripides\" von Hermann Bahr. Womöglich beziehen sich darauf die Notizen vom 11. Juli 1904 in Bahrs Tagebüchern.",
+      "format": "full_html",
+      "processed": "Bei Schuster &amp; Löffler wird von Paul Remer die Reihe \"Die Dichtung. Eine Sammlung von Monographien\" herausgegeben. Band XLII erscheint 1905 und enthält einen Ausblick auf die kommenden Bände: In Vorbereitung befindet sich ein nie realisierter Band \"Euripides\" von Hermann Bahr. Womöglich beziehen sich darauf die Notizen vom 11. Juli 1904 in Bahrs Tagebüchern.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1905-01-01",
+      "end_value": "1905-01-01"
+    },
+    "field_sources": [
+      "Hanns Heinz Ewers: Edgar Allan Poe. Berlin: Schuster & Löffler 1905.",
+      "Tagebücher (Csàky), IV, 213."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/381557c0-13b4-4726-9257-706b1da33a55/node_type?resourceVersion=id%3A2886"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/381557c0-13b4-4726-9257-706b1da33a55/relationships/node_type?resourceVersion=id%3A2886"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/381557c0-13b4-4726-9257-706b1da33a55/revision_uid?resourceVersion=id%3A2886"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/381557c0-13b4-4726-9257-706b1da33a55/relationships/revision_uid?resourceVersion=id%3A2886"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/381557c0-13b4-4726-9257-706b1da33a55/uid?resourceVersion=id%3A2886"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/381557c0-13b4-4726-9257-706b1da33a55/relationships/uid?resourceVersion=id%3A2886"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/381557c0-13b4-4726-9257-706b1da33a55/field_event_type?resourceVersion=id%3A2886"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/381557c0-13b4-4726-9257-706b1da33a55/relationships/field_event_type?resourceVersion=id%3A2886"
+        }
+      }
+    }
+  }
+}

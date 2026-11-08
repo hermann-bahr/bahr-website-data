@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "7981a8c6-6045-4f1c-800a-053ae0e625a2",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/7981a8c6-6045-4f1c-800a-053ae0e625a2?resourceVersion=id%3A3772"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/7981a8c6-6045-4f1c-800a-053ae0e625a2?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74456,
+    "drupal_internal__vid": 3772,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Budapest",
+    "created": "2013-01-14T09:22:44+00:00",
+    "changed": "2013-01-14T09:22:44+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/74456",
+      "pid": 1830,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahr ist für die Première von \"A Star\", der ungarischen Inszenierung von \"Der Star\", für den 28. November 1900 nach Budapest gereist, wo er mehrfach vor den Vorhang treten muss.",
+      "format": "full_html",
+      "processed": "Bahr ist für die Première von \"A Star\", der ungarischen Inszenierung von \"Der Star\", für den 28. November 1900 nach Budapest gereist, wo er mehrfach vor den Vorhang treten muss.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1900-11-28",
+      "end_value": "1900-11-28"
+    },
+    "field_sources": [
+      "Max Rothauser: Der Star. In: Pester Lloyd, 47 (1900) #286, 2. (29.11.1900)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7981a8c6-6045-4f1c-800a-053ae0e625a2/node_type?resourceVersion=id%3A3772"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7981a8c6-6045-4f1c-800a-053ae0e625a2/relationships/node_type?resourceVersion=id%3A3772"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7981a8c6-6045-4f1c-800a-053ae0e625a2/revision_uid?resourceVersion=id%3A3772"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7981a8c6-6045-4f1c-800a-053ae0e625a2/relationships/revision_uid?resourceVersion=id%3A3772"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7981a8c6-6045-4f1c-800a-053ae0e625a2/uid?resourceVersion=id%3A3772"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7981a8c6-6045-4f1c-800a-053ae0e625a2/relationships/uid?resourceVersion=id%3A3772"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7981a8c6-6045-4f1c-800a-053ae0e625a2/field_event_type?resourceVersion=id%3A3772"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/7981a8c6-6045-4f1c-800a-053ae0e625a2/relationships/field_event_type?resourceVersion=id%3A3772"
+        }
+      }
+    }
+  }
+}

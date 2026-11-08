@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "92170189-669f-43b7-ada4-ba8d5252af9f",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/92170189-669f-43b7-ada4-ba8d5252af9f?resourceVersion=id%3A2619"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/92170189-669f-43b7-ada4-ba8d5252af9f?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38798,
+    "drupal_internal__vid": 2619,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Duell",
+    "created": "2011-02-01T15:30:01+00:00",
+    "changed": "2012-05-22T20:04:02+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38798",
+      "pid": 546,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<blockquote>Lieber Vater!<br> Ich bin die ganze Woche nicht dazu gekommen, Dir zu schreiben, weil ich sehr viel zu tun hat und überdies noch einen Krawall mit antisemitischen Studenten hatte, der heute durch einen Säbelduell erledigt wurde. Glücklicherweise ist mir gar nichts geschehen bis auf ein paar Kratzer an der Hand, die mich am Schreiben hindern. <br>In Eile herzlich grüßend<br>\r\nHermann</blockquote>Bahr dürfte für seinen Redaktionskollegen Alfred Gold eingetreten sein, der - wie Schnitzler in seinem Tagebuch andeutet - nunmehr nicht mehr satisfaktionsfähig war.\r\n\r\n",
+      "format": "full_html",
+      "processed": "<blockquote>Lieber Vater!<br> Ich bin die ganze Woche nicht dazu gekommen, Dir zu schreiben, weil ich sehr viel zu tun hat und überdies noch einen Krawall mit antisemitischen Studenten hatte, der heute durch einen Säbelduell erledigt wurde. Glücklicherweise ist mir gar nichts geschehen bis auf ein paar Kratzer an der Hand, die mich am Schreiben hindern. <br>In Eile herzlich grüßend<br>\nHermann</blockquote>Bahr dürfte für seinen Redaktionskollegen Alfred Gold eingetreten sein, der - wie Schnitzler in seinem Tagebuch andeutet - nunmehr nicht mehr satisfaktionsfähig war.\n\n",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1896-03-28",
+      "end_value": "1896-03-28"
+    },
+    "field_sources": [
+      "Brief an den Vater, 382. [28.3.1896, wobei das Duell am 28. stattfand]",
+      "Vgl. Schnitzler: Tagebuch, II, 180-181. (30.3.1896)",
+      "Tagebücher (Csàky), II, 218. (28.3.1896)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/92170189-669f-43b7-ada4-ba8d5252af9f/node_type?resourceVersion=id%3A2619"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/92170189-669f-43b7-ada4-ba8d5252af9f/relationships/node_type?resourceVersion=id%3A2619"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/92170189-669f-43b7-ada4-ba8d5252af9f/revision_uid?resourceVersion=id%3A2619"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/92170189-669f-43b7-ada4-ba8d5252af9f/relationships/revision_uid?resourceVersion=id%3A2619"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/92170189-669f-43b7-ada4-ba8d5252af9f/uid?resourceVersion=id%3A2619"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/92170189-669f-43b7-ada4-ba8d5252af9f/relationships/uid?resourceVersion=id%3A2619"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/92170189-669f-43b7-ada4-ba8d5252af9f/field_event_type?resourceVersion=id%3A2619"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/92170189-669f-43b7-ada4-ba8d5252af9f/relationships/field_event_type?resourceVersion=id%3A2619"
+        }
+      }
+    }
+  }
+}

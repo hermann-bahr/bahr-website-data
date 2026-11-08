@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "9504cbce-859e-4910-a1bd-bb1436577608",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/9504cbce-859e-4910-a1bd-bb1436577608?resourceVersion=id%3A2652"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/9504cbce-859e-4910-a1bd-bb1436577608?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38834,
+    "drupal_internal__vid": 2652,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "München",
+    "created": "2011-02-04T14:25:18+00:00",
+    "changed": "2011-11-03T11:35:15+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38834",
+      "pid": 579,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Im August 1881 hält sich Bahr ein paar Tage in München auf, wie aus zwei unter Pseudonym veröffentlichten Berichten in den \"Salzburger Nachrichten\" hervorgeht.",
+      "format": "full_html",
+      "processed": "Im August 1881 hält sich Bahr ein paar Tage in München auf, wie aus zwei unter Pseudonym veröffentlichten Berichten in den \"Salzburger Nachrichten\" hervorgeht.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1881-08-10",
+      "end_value": "1881-08-17"
+    },
+    "field_sources": [
+      "Hermann von Kürenberg: Reisebriefe eines lachenden Philosophen.",
+      "I. München im August 1881. Salzburger Nachrichten, 1 (1881) #106, 2. (4.9.1881)",
+      "II. München im August 1881. Salzburger Nachrichten, 1 (1881) #109, 2. (11.9.1881)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9504cbce-859e-4910-a1bd-bb1436577608/node_type?resourceVersion=id%3A2652"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9504cbce-859e-4910-a1bd-bb1436577608/relationships/node_type?resourceVersion=id%3A2652"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9504cbce-859e-4910-a1bd-bb1436577608/revision_uid?resourceVersion=id%3A2652"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9504cbce-859e-4910-a1bd-bb1436577608/relationships/revision_uid?resourceVersion=id%3A2652"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9504cbce-859e-4910-a1bd-bb1436577608/uid?resourceVersion=id%3A2652"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9504cbce-859e-4910-a1bd-bb1436577608/relationships/uid?resourceVersion=id%3A2652"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9504cbce-859e-4910-a1bd-bb1436577608/field_event_type?resourceVersion=id%3A2652"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9504cbce-859e-4910-a1bd-bb1436577608/relationships/field_event_type?resourceVersion=id%3A2652"
+        }
+      }
+    }
+  }
+}

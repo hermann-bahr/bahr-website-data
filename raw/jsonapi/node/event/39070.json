@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "406b40cf-4b22-4680-af1f-0397d76971ae",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/406b40cf-4b22-4680-af1f-0397d76971ae?resourceVersion=id%3A2844"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/406b40cf-4b22-4680-af1f-0397d76971ae?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39070,
+    "drupal_internal__vid": 2844,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Fremdenblatt",
+    "created": "2011-05-05T20:27:06+00:00",
+    "changed": "2011-07-13T13:05:25+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39070",
+      "pid": 801,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahr erhält am 14. März 1910 in London, Keyser Hotel ein Telegramm des Fremdenblatts:\r\n<blockquote>= BESTEHT PRINZIPIELLE GENEIGTHEIT STELLE HEVESY IM FREMDEN BLATT ZU ÜBERNEHMEN ANTWORT ERBETEN CHEFREDAKTION FREMDEN BLATT</blockquote>Bahr dürfte sich aber nicht interessiert gezeigt haben, in die Fußstapfen von Ludwig Hevesi zu treten, der am 27. Februar gestorben war.",
+      "format": "full_html",
+      "processed": "Bahr erhält am 14. März 1910 in London, Keyser Hotel ein Telegramm des Fremdenblatts:\n<blockquote>= BESTEHT PRINZIPIELLE GENEIGTHEIT STELLE HEVESY IM FREMDEN BLATT ZU ÜBERNEHMEN ANTWORT ERBETEN CHEFREDAKTION FREMDEN BLATT</blockquote>Bahr dürfte sich aber nicht interessiert gezeigt haben, in die Fußstapfen von Ludwig Hevesi zu treten, der am 27. Februar gestorben war.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1910-03-14",
+      "end_value": "1910-03-14"
+    },
+    "field_sources": [
+      "Nachlass, A Ba M, Kiste 11: Fremdenblatt."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/406b40cf-4b22-4680-af1f-0397d76971ae/node_type?resourceVersion=id%3A2844"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/406b40cf-4b22-4680-af1f-0397d76971ae/relationships/node_type?resourceVersion=id%3A2844"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/406b40cf-4b22-4680-af1f-0397d76971ae/revision_uid?resourceVersion=id%3A2844"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/406b40cf-4b22-4680-af1f-0397d76971ae/relationships/revision_uid?resourceVersion=id%3A2844"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/406b40cf-4b22-4680-af1f-0397d76971ae/uid?resourceVersion=id%3A2844"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/406b40cf-4b22-4680-af1f-0397d76971ae/relationships/uid?resourceVersion=id%3A2844"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "d579e54c-64dd-4193-a9ef-da87efb3ed16",
+          "meta": {
+            "drupal_internal__target_id": 8
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/406b40cf-4b22-4680-af1f-0397d76971ae/field_event_type?resourceVersion=id%3A2844"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/406b40cf-4b22-4680-af1f-0397d76971ae/relationships/field_event_type?resourceVersion=id%3A2844"
+        }
+      }
+    }
+  }
+}

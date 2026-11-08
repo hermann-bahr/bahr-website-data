@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bilder__1900-rosa-bahr-von-albert-von-keller" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">1900 Rosa Bahr von Albert von Keller</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">38875</idno>
+        <idno type="drupal-alias">/bild/38875</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bild/38875">https://bahr.univie.ac.at/bild/38875</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="7" key="bilder">Bilder</term>
+          <term n="8" key="1900-rosa-bahr-von-albert-von-keller" type="eintrag">1900 Rosa Bahr von Albert von Keller</term>
+        </keywords>
+        <classCode scheme="drupal-type">image</classCode>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2011-02-21T17:08:19+00:00" type="created">angelegt in Drupal</change>
+      <change when="2011-02-21T17:20:14+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <figure>
+          <graphic url="files/bahr_bilder/1900_keller-1.jpg"/>
+          <figDesc>1900 Rosa Bahr von Albert von Keller</figDesc>
+        </figure>
+        <figure>
+          <graphic url="files/bahr_bilder/1900_keller-2.jpg"/>
+          <figDesc>1900 Rosa Bahr von Albert von Keller</figDesc>
+        </figure>
+        <p>
+          <hi rend="italic">Die Abbildung Rosa Bahrs, das ist Rosa Jokl bzw. Rosa Joel, mit der Bahr seit 1895 verheiratet war, stammt aus Albert von Keller: Zwanzig Photogravüren nach Werken seiner Hand. Vom Künstler autor. Ausg. München: F. Bruckmann, [1900]. <hi rend="italic">Im Briefwechsel mit dem Vater schreibt Bahr, dass Keller sie öfter malte (S. 407). Parallel zur Ausgabe der "Photogravüren" erschien ein Band "Urteile der Presse", die folgende Kommentare zu dem Bild liefert:<lb/><lb/>Darmstädter Zeitung, 13.12.1899:<lb/><quote>Frau H. B. [?] Phantasie-Bildnis der Gattin des Wiener Schriftstellers Hermann Bahr</quote><lb/><lb/>---<lb/>Münchener Zeitung, 8.12.1899:<lb/>Eduard Engels<lb/>Im Atelier Albert von Kellers<lb/><quote>Ich betrachte die Bilder. Nächst dem Fenster, lebensgross, eine Dame in antikem, rothem Gewande, rothe Blumen im Haar, eine volle, üppige Gestalt, eine Beauté, Frau Hermann Bahr aus Wien.</quote><lb/>---<lb/>Leipziger Illustrierte Ztg, 14.12.1899:<lb/>Fendler <lb/><quote>Auf der anderen Seite aber leitet ein Bild wie das der ?Frau H. B.?, deren schlanke Glieder ein leichtes Schleiergewand kaum verhüllt, zu jenen Studien pikantesten weiblichen Wesens hinüber</quote><lb/>---<lb/>Frankfurter Zeitung, 20.12.1899:<lb/><quote>Unter den Porträts ist das als Bild einer ?Frau H. B.? bezeichnete deshalb erwähnenswerth, weil es zeigt, dass zwischen Modellen und Mondänen manchmal keinerlei Unterschied ist, wenn es sich darum handelt, ihren Wuchs dem Künstlerauge zu enthüllen.</quote></hi></hi>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

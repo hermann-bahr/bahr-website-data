@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "4b2e5ff4-7c4a-408b-af7b-05cb9a25ef29",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/4b2e5ff4-7c4a-408b-af7b-05cb9a25ef29?resourceVersion=id%3A3234"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/4b2e5ff4-7c4a-408b-af7b-05cb9a25ef29?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49389,
+    "drupal_internal__vid": 3234,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Klimt †",
+    "created": "2011-10-17T10:35:00+00:00",
+    "changed": "2011-10-17T10:35:00+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49389",
+      "pid": 1213,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 6. Februar 1918 stirbt Gustav Klimt. Bahr an Redlich:<blockquote>Ich bin noch sehr müd und dazu hat mich der Verlust Klimts furchtbar hergenommen. Seit Burckhards Tod ist mir nichts so nahe gegangen. Eine der schönsten reinsten Stücke meiner Jugend ist da weg. Hugo Wolf, Olbrich, Burckhard, Mahler, Kainz. Da müssen halt die paar, die noch übrig sind, dichter aneinander rücken, sonst wird ihnen zu kalt. –––</blockquote>",
+      "format": "full_html",
+      "processed": "Am 6. Februar 1918 stirbt Gustav Klimt. Bahr an Redlich:<blockquote>Ich bin noch sehr müd und dazu hat mich der Verlust Klimts furchtbar hergenommen. Seit Burckhards Tod ist mir nichts so nahe gegangen. Eine der schönsten reinsten Stücke meiner Jugend ist da weg. Hugo Wolf, Olbrich, Burckhard, Mahler, Kainz. Da müssen halt die paar, die noch übrig sind, dichter aneinander rücken, sonst wird ihnen zu kalt. –––</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1918-02-06",
+      "end_value": "1918-02-06"
+    },
+    "field_sources": [
+      "Bahr/Redlich, 305. (An R., 9.2.1918)",
+      "Hermann Bahr: Tagebuch. 7. Februar. Neues Wiener Journal, 26 (1918) #8726, 4-5. (17.2.1918) "
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4b2e5ff4-7c4a-408b-af7b-05cb9a25ef29/node_type?resourceVersion=id%3A3234"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4b2e5ff4-7c4a-408b-af7b-05cb9a25ef29/relationships/node_type?resourceVersion=id%3A3234"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4b2e5ff4-7c4a-408b-af7b-05cb9a25ef29/revision_uid?resourceVersion=id%3A3234"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4b2e5ff4-7c4a-408b-af7b-05cb9a25ef29/relationships/revision_uid?resourceVersion=id%3A3234"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4b2e5ff4-7c4a-408b-af7b-05cb9a25ef29/uid?resourceVersion=id%3A3234"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4b2e5ff4-7c4a-408b-af7b-05cb9a25ef29/relationships/uid?resourceVersion=id%3A3234"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4b2e5ff4-7c4a-408b-af7b-05cb9a25ef29/field_event_type?resourceVersion=id%3A3234"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4b2e5ff4-7c4a-408b-af7b-05cb9a25ef29/relationships/field_event_type?resourceVersion=id%3A3234"
+        }
+      }
+    }
+  }
+}

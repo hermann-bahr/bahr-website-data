@@ -1,0 +1,119 @@
+{
+  "type": "node--event",
+  "id": "97636e60-10be-4c76-a52a-9082afb158bf",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/97636e60-10be-4c76-a52a-9082afb158bf?resourceVersion=id%3A2922"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/97636e60-10be-4c76-a52a-9082afb158bf?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 43995,
+    "drupal_internal__vid": 2922,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Vortragsreise Deutschland",
+    "created": "2011-07-13T09:10:57+00:00",
+    "changed": "2013-01-08T09:29:22+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/43995",
+      "pid": 895,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 17. November 1910 reist Bahr über München nach Bonn.\r\n<table>\r\n<tr><th>November</th><th>Ort</th><th>Thema</th></tr>\r\n<tr><td>19.</td><td>Bonn</td><td>Whitman, Thoreau</td></tr>\r\n<tr><td>20. (Matinée)</td><td>Elberfeld</td><td>Eigenes</td></tr>\r\n<tr><td>21.</td><td>Koblenz</td><td>O Mensch, Schöne Frau</td></tr>\r\n<tr><td>22.</td><td>Barmen</td><td>Eigenes</td></tr>\r\n<tr><td>23.</td><td>Darmstadt</td><td>Das Künstlerische Jung-Österreich</td></tr>\r\n<tr><td>24.</td><td>Karlsruhe</td><td>30 Jahre deutsche Literatur</td></tr>\r\n<tr><td>25.</td><td>Strassburg</td><td>Eigenes</td></tr>\r\n<tr><td>26.</td><td>Stuttgart</td><td>Eigenes und Schnitzler</td></tr>\r\n<tr><td>28.</td><td>Baden-Baden</td><td>Schauspielkunst</td></tr>\r\n<tr><td>29.</td><td>Fürth</td><td>30 Jahre deutsche Literatur</td></tr>\r\n<tr><td>30.</td><td>Nürnberg</td><td>30 Jahre deutsche Literatur</td></tr>\r\n<tr><th>Dezember</th></tr>\r\n<tr><td>2.</td><td>Weimar</td><td>Österreichischer Abend</td></tr>\r\n</table>\r\n\r\nIn Stuttgart bleibt er bis zum 27. 1. Dezember Reise nach Weimar, wo er am 2. vorliest. Am 3. Rückreise nach Wien.",
+      "format": "full_html",
+      "processed": "Am 17. November 1910 reist Bahr über München nach Bonn.\n<table>\n<tr><th>November</th><th>Ort</th><th>Thema</th></tr>\n<tr><td>19.</td><td>Bonn</td><td>Whitman, Thoreau</td></tr>\n<tr><td>20. (Matinée)</td><td>Elberfeld</td><td>Eigenes</td></tr>\n<tr><td>21.</td><td>Koblenz</td><td>O Mensch, Schöne Frau</td></tr>\n<tr><td>22.</td><td>Barmen</td><td>Eigenes</td></tr>\n<tr><td>23.</td><td>Darmstadt</td><td>Das Künstlerische Jung-Österreich</td></tr>\n<tr><td>24.</td><td>Karlsruhe</td><td>30 Jahre deutsche Literatur</td></tr>\n<tr><td>25.</td><td>Strassburg</td><td>Eigenes</td></tr>\n<tr><td>26.</td><td>Stuttgart</td><td>Eigenes und Schnitzler</td></tr>\n<tr><td>28.</td><td>Baden-Baden</td><td>Schauspielkunst</td></tr>\n<tr><td>29.</td><td>Fürth</td><td>30 Jahre deutsche Literatur</td></tr>\n<tr><td>30.</td><td>Nürnberg</td><td>30 Jahre deutsche Literatur</td></tr>\n<tr><th>Dezember</th></tr>\n<tr><td>2.</td><td>Weimar</td><td>Österreichischer Abend</td></tr>\n</table>\n\nIn Stuttgart bleibt er bis zum 27. 1. Dezember Reise nach Weimar, wo er am 2. vorliest. Am 3. Rückreise nach Wien.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1910-11-17",
+      "end_value": "1910-12-03"
+    },
+    "field_sources": [
+      "Nachlass ZMBa 29: Vorträge, Tourneeplan 1910 (2 Stück)",
+      "Bahr/Kvapil, 129.",
+      "Hermann Bahr: Aufzeichnungen 1909-1911. Ausgabe in Vorbereitung von Kurt Ifkovits\r\n",
+      "Zu Straßburg: Ein Abend von Hermann Bahr. In: Straßburger Post,  1910 #1330, 2. (26.11.1910)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/97636e60-10be-4c76-a52a-9082afb158bf/node_type?resourceVersion=id%3A2922"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/97636e60-10be-4c76-a52a-9082afb158bf/relationships/node_type?resourceVersion=id%3A2922"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/97636e60-10be-4c76-a52a-9082afb158bf/revision_uid?resourceVersion=id%3A2922"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/97636e60-10be-4c76-a52a-9082afb158bf/relationships/revision_uid?resourceVersion=id%3A2922"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/97636e60-10be-4c76-a52a-9082afb158bf/uid?resourceVersion=id%3A2922"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/97636e60-10be-4c76-a52a-9082afb158bf/relationships/uid?resourceVersion=id%3A2922"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/97636e60-10be-4c76-a52a-9082afb158bf/field_event_type?resourceVersion=id%3A2922"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/97636e60-10be-4c76-a52a-9082afb158bf/relationships/field_event_type?resourceVersion=id%3A2922"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "1438eb3f-6084-469e-8acc-2d183916bfe8",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/1438eb3f-6084-469e-8acc-2d183916bfe8?resourceVersion=id%3A3386"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/1438eb3f-6084-469e-8acc-2d183916bfe8?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49553,
+    "drupal_internal__vid": 3386,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Salzburg",
+    "created": "2011-11-02T10:45:13+00:00",
+    "changed": "2011-12-19T14:26:55+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49553",
+      "pid": 1370,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 26. Dezember 1924 will Bahr für ein paar Tage nach Salzburg - \"zur Erholung\". Am 3. Jänner ist er immer noch da.",
+      "format": "full_html",
+      "processed": "Am 26. Dezember 1924 will Bahr für ein paar Tage nach Salzburg - \"zur Erholung\". Am 3. Jänner ist er immer noch da.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1924-12-26",
+      "end_value": "1925-01-03"
+    },
+    "field_sources": [
+      "Bahr/Redlich, 536. (An R., 22.12.1924)",
+      "Romain Rolland - Stefan Zweig: Briefwechsel. Berlin: Rütten & Loening 1987, II, 64."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1438eb3f-6084-469e-8acc-2d183916bfe8/node_type?resourceVersion=id%3A3386"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1438eb3f-6084-469e-8acc-2d183916bfe8/relationships/node_type?resourceVersion=id%3A3386"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1438eb3f-6084-469e-8acc-2d183916bfe8/revision_uid?resourceVersion=id%3A3386"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1438eb3f-6084-469e-8acc-2d183916bfe8/relationships/revision_uid?resourceVersion=id%3A3386"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1438eb3f-6084-469e-8acc-2d183916bfe8/uid?resourceVersion=id%3A3386"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1438eb3f-6084-469e-8acc-2d183916bfe8/relationships/uid?resourceVersion=id%3A3386"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1438eb3f-6084-469e-8acc-2d183916bfe8/field_event_type?resourceVersion=id%3A3386"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1438eb3f-6084-469e-8acc-2d183916bfe8/relationships/field_event_type?resourceVersion=id%3A3386"
+        }
+      }
+    }
+  }
+}

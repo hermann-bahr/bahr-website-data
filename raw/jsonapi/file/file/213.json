@@ -1,0 +1,36 @@
+{
+  "type": "file--file",
+  "id": "1c74b34e-d60e-4dee-b584-3a8d366490e4",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/file/file/1c74b34e-d60e-4dee-b584-3a8d366490e4"
+    }
+  },
+  "attributes": {
+    "drupal_internal__fid": 213,
+    "langcode": "de",
+    "filename": "1906_rosa-jokl.jpg",
+    "uri": {
+      "value": "public://bahr_bilder/1906_rosa-jokl.jpg",
+      "url": "/sites/default/files/bahr_bilder/1906_rosa-jokl.jpg"
+    },
+    "filemime": "image/jpeg",
+    "filesize": 154055,
+    "status": true,
+    "created": "2020-02-18T15:00:35+00:00",
+    "changed": "2020-02-18T15:11:43+00:00"
+  },
+  "relationships": {
+    "uid": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/file/file/1c74b34e-d60e-4dee-b584-3a8d366490e4/uid"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/file/file/1c74b34e-d60e-4dee-b584-3a8d366490e4/relationships/uid"
+        }
+      }
+    }
+  }
+}

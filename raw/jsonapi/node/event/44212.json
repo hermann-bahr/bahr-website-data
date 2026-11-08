@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "5de6ed04-657f-44dc-bf7b-0a7766ca5ff9",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/5de6ed04-657f-44dc-bf7b-0a7766ca5ff9?resourceVersion=id%3A3126"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/5de6ed04-657f-44dc-bf7b-0a7766ca5ff9?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44212,
+    "drupal_internal__vid": 3126,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "AS, Sandrock",
+    "created": "2011-09-22T10:12:30+00:00",
+    "changed": "2011-09-22T10:19:41+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44212",
+      "pid": 1105,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 29. Jänner 1895 ist Schnitzler bei Bahr, am 30. Bahr bei Schnitzler und einige Telefonate später sehen sie sich am 1. Februar wieder, stets im Austausch über Adele Sandrock, mit der sich Bahr öfter trifft und die in der \"Liebelei\" spielen soll. ",
+      "format": "full_html",
+      "processed": "Am 29. Jänner 1895 ist Schnitzler bei Bahr, am 30. Bahr bei Schnitzler und einige Telefonate später sehen sie sich am 1. Februar wieder, stets im Austausch über Adele Sandrock, mit der sich Bahr öfter trifft und die in der \"Liebelei\" spielen soll. ",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1895-01-29",
+      "end_value": "1895-02-01"
+    },
+    "field_sources": [
+      "Schnitzler: Tagebuch, II, 117-120."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5de6ed04-657f-44dc-bf7b-0a7766ca5ff9/node_type?resourceVersion=id%3A3126"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5de6ed04-657f-44dc-bf7b-0a7766ca5ff9/relationships/node_type?resourceVersion=id%3A3126"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5de6ed04-657f-44dc-bf7b-0a7766ca5ff9/revision_uid?resourceVersion=id%3A3126"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5de6ed04-657f-44dc-bf7b-0a7766ca5ff9/relationships/revision_uid?resourceVersion=id%3A3126"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5de6ed04-657f-44dc-bf7b-0a7766ca5ff9/uid?resourceVersion=id%3A3126"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5de6ed04-657f-44dc-bf7b-0a7766ca5ff9/relationships/uid?resourceVersion=id%3A3126"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5de6ed04-657f-44dc-bf7b-0a7766ca5ff9/field_event_type?resourceVersion=id%3A3126"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5de6ed04-657f-44dc-bf7b-0a7766ca5ff9/relationships/field_event_type?resourceVersion=id%3A3126"
+        }
+      }
+    }
+  }
+}

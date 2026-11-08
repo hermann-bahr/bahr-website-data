@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "3550ac9b-0e8d-415b-987d-08a729de1918",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/3550ac9b-0e8d-415b-987d-08a729de1918?resourceVersion=id%3A2704"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/3550ac9b-0e8d-415b-987d-08a729de1918?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38916,
+    "drupal_internal__vid": 2704,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Linz",
+    "created": "2011-03-09T11:57:55+00:00",
+    "changed": "2011-11-03T11:33:44+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38916",
+      "pid": 658,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Erich Hermann Bahr schreibt am 13. April 1884 aus Linz an Marie Eugenie delle Grazie, um sich vorzustellen.",
+      "format": "full_html",
+      "processed": "Erich Hermann Bahr schreibt am 13. April 1884 aus Linz an Marie Eugenie delle Grazie, um sich vorzustellen.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1884-04-13",
+      "end_value": "1884-04-13"
+    },
+    "field_sources": [
+      "Wienbibliothek, H.I.N. 89416"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3550ac9b-0e8d-415b-987d-08a729de1918/node_type?resourceVersion=id%3A2704"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3550ac9b-0e8d-415b-987d-08a729de1918/relationships/node_type?resourceVersion=id%3A2704"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3550ac9b-0e8d-415b-987d-08a729de1918/revision_uid?resourceVersion=id%3A2704"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3550ac9b-0e8d-415b-987d-08a729de1918/relationships/revision_uid?resourceVersion=id%3A2704"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3550ac9b-0e8d-415b-987d-08a729de1918/uid?resourceVersion=id%3A2704"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3550ac9b-0e8d-415b-987d-08a729de1918/relationships/uid?resourceVersion=id%3A2704"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3550ac9b-0e8d-415b-987d-08a729de1918/field_event_type?resourceVersion=id%3A2704"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3550ac9b-0e8d-415b-987d-08a729de1918/relationships/field_event_type?resourceVersion=id%3A2704"
+        }
+      }
+    }
+  }
+}

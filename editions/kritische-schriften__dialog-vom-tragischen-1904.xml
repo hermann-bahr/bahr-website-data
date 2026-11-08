@@ -1,0 +1,164 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kritische-schriften__dialog-vom-tragischen-1904" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Dialog vom Tragischen (1904)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">28284</idno>
+        <idno type="drupal-alias">/bibliografie/28284</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bibliografie/28284">https://bahr.univie.ac.at/bibliografie/28284</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+        <bibl type="beschriebene-ausgabe">
+          <author>Hermann Bahr</author>
+          <title type="main">Dialog vom Tragischen</title>
+          <pubPlace>Berlin</pubPlace>
+          <publisher>S. Fischer</publisher>
+          <date>1904</date>
+          <extent>151</extent>
+          <note>Laut Tagebücher (Csàky), III, XII im Oktober 1903, auf 1904 vordatiert, erschienen.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="2" key="kritische-schriften">Kritische Schriften</term>
+          <term n="9" key="dialog-vom-tragischen-1904" type="eintrag">Dialog vom Tragischen (1904)</term>
+        </keywords>
+        <classCode scheme="drupal-type">bibliographie</classCode>
+        <keywords scheme="bibliografie_type">
+          <term>Schriften in Einzelausgaben</term>
+        </keywords>
+        <keywords scheme="bibliografie_type">
+          <term>Kritische Schriften</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2010-11-30T06:33:37+00:00" type="created">angelegt in Drupal</change>
+      <change when="2013-03-05T10:23:23+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="intro">
+        <head>Einleitung</head>
+        <p>Ein "Meister", ein Jüngling, ein Arzt, ein Grammatiker und ein Künstler sprechen im "Dialog vom Tragischen" über die Zukunft der tragischen Kunst. Nach Reflexionen über die Geschichte des tragischen Dramas, die als Eingang zu einer Kulturgeschichte der Menschheit verwendet wird (insofern die jeweilige Relevanz des tragischen Dramas auf Charakteristika des Gesellschaftssystems rückschließen ließe) setzt sich die Meinung des "Meisters" durch, der davon ausgeht, dass das Tragische überholt sei. Als neuer Ausdruck der Zeit gelte nun der "Schauspieler", da die Wandelbarkeit, die sich in ihm ausdrücke, bereits alle Bereiche der Gesellschaft durchziehe.</p>
+      </div>
+      <div xml:id="bib">
+        <head>Bibliografie</head>
+        <table type="bibliografie">
+          <row>
+            <cell>Autor:</cell>
+            <cell>Hermann Bahr</cell>
+          </row>
+          <row>
+            <cell>Titel:</cell>
+            <cell>Dialog vom Tragischen</cell>
+          </row>
+          <row>
+            <cell>Ort:</cell>
+            <cell>Berlin</cell>
+          </row>
+          <row>
+            <cell>Verlag:</cell>
+            <cell>S. Fischer</cell>
+          </row>
+          <row>
+            <cell>Jahr:</cell>
+            <cell>1904</cell>
+          </row>
+          <row>
+            <cell>Seiten:</cell>
+            <cell>151</cell>
+          </row>
+          <row>
+            <cell>Anm.:</cell>
+            <cell>Laut Tagebücher (Csàky), III, XII im Oktober 1903, auf 1904 vordatiert, erschienen.</cell>
+          </row>
+        </table>
+      </div>
+      <div xml:id="ks">
+        <head>Kritische Schriften</head>
+        <div>
+          <head>Dialog vom Tragischen (1904), Dialog vom Marsyas (1905), Josef Kainz (1906)</head>
+          <div>
+            <head>Band IX</head>
+            <p>Herausgegeben von Gottfried Schnödl 2010 ISBN: 9783897396166 <ref target="http://www.vdg-weimar.de/katalog/?id=556">VDG Weimar</ref></p>
+          </div>
+        </div>
+      </div>
+      <div xml:id="erstdrucke">
+        <head>Erstdrucke</head>
+        <table>
+          <row>
+            <cell role="label">Seiten</cell>
+            <cell role="label">Titel / Erstdruck</cell>
+          </row>
+          <row>
+            <cell>9-78</cell>
+            <cell><hi rend="bold">Dialog vom Tragischen. </hi><lb/>Neue deutsche Rundschau, 14 (1903) #7, 716-736</cell>
+          </row>
+          <row>
+            <cell>79-101</cell>
+            <cell><hi rend="bold">Das unrettbare Ich. </hi><lb/>Neues Wiener Tagblatt, 37 (1903) #99, 1-4. (10.4.1903)</cell>
+          </row>
+          <row>
+            <cell>102-114</cell>
+            <cell><hi rend="bold">Philosophie des Impressionismus. </hi><lb/>Der Tag, Berlin, (1903) #193, Illustrierte Zeitung, 1-3. (26.4.1903)</cell>
+          </row>
+          <row>
+            <cell>115-119</cell>
+            <cell>
+              <hi rend="bold">Maximen. </hi>
+            </cell>
+          </row>
+          <row>
+            <cell>120-130</cell>
+            <cell><hi rend="bold">Kolonien. </hi><lb/>Südwestdeutsche Rundschau, 1 (1901) #6 (2. März-Heft), 163-169. Als "О Колоніяхъ [O kolonijach]" in: Мир иску́сства [Mir iskusstva], St. Petersburg, 6 (1901), 140-142.</cell>
+          </row>
+          <row>
+            <cell>131-139</cell>
+            <cell><hi rend="bold">Ekstase. </hi><lb/>Neues Wiener Tagblatt, 36 (1902) #186, 1-2. (8.7.1902)</cell>
+          </row>
+          <row>
+            <cell>140-151</cell>
+            <cell><hi rend="bold">Der böse Goethe. </hi><lb/>Neues Wiener Tagblatt, 37 (1903) #199, 1-2. (22.7.1903)</cell>
+          </row>
+        </table>
+      </div>
+      <div xml:id="rezens">
+        <head>Rezensionen</head>
+        <p>Rezensionen: Im Nachlass eine datiert am 5.6.1904. Von Max Burckhard in der Zeit, #770 und 778.</p>
+      </div>
+      <div xml:id="inhaltsvz">
+        <head>Inhaltsverzeichnis</head>
+        <list type="gloss">
+          <label>Dialog vom Tragischen</label>
+          <item>Ein "Meister", ein Jüngling, ein Arzt, ein Grammatiker und ein Künstler sprechen über die Zukunft der tragischen Kunst. Nach Reflexionen über die Geschichte des tragischen Dramas, die als Eingang zu einer Kulturgeschichte der Menschheit verwendet wird (insofern die jeweilige Relevanz des tragischen Dramas auf Charakteristika des Gesellschaftssystems rückschließen ließe) setzt sich die Meinung des "Meisters" durch, der davon ausgeht, dass das Tragische überholt sei. Als neuer Ausdruck der Zeit gelte nun der "Schauspieler", da die Wandelbarkeit, die sich in ihm ausdrücke, bereits alle Bereiche der Gesellschaft durchziehe.</item>
+          <label>Das unrettbare Ich</label>
+          <item>Jugenderlebnisse, die Lektüre Kants und an Nietzsche gemahnende Selbstexperimente führen Bahr direkt zu Mach und dessen Befund, dass das "Ich unrettbar" sei.</item>
+          <label>Philosophie des Impressionismus</label>
+          <item>Der Impressionismus sei bei weitem nicht nur eine bestimmte "Technik", sondern drücke eine ganz besondere und historisch junge Form der Wahrnehmung aus.</item>
+          <label>Maximen</label>
+          <item>Bahr unterscheidet zwei Lebensentwürfe: Der eine hält sich von einschneidenden Erlebnissen fern; aus Angst vor tiefen Depressionen. Der andere bindet den Wert des Menschen an die Intensität von Emotionen; seien diese auch noch so kurz. Bahr zieht die zweite Möglichkeit vor.</item>
+          <label>Kolonien</label>
+          <item>In Bereich der Kunst und Wissenschaft stifte "Wahlverwandtschaft" Kollektive, die Bahr hier als wünschenswerte Alternative zu 'älteren' Zusammenschlüssen wie der Familie oder um einen Führer gescharter Bünde beschreibt.</item>
+          <label>Ekstase</label>
+          <item>In Abgrenzung zu Achelis' Konzept der Ekstase meint Bahr, dass zu dem charakteristischen Gefühl, aus sich herausgetreten zu sein, im Falle der Ekstase noch die absolute Sicherheit kommen müsse, gerade dieser Zustand sei der "wahre".</item>
+          <label>Der böse Goethe</label>
+          <item>Bahr schildert Goethe als oftmals melancholischen, launischen und meist unglücklichen Menschen. Gerade darin sieht Bahr jedoch nicht nur die Möglichkeit sich dem sonst oft olympisch überhöhten und damit unnahbaren Goethe zu nähern, sondern auch eine Voraussetzung für das künstlerische Schaffen Goethes.</item>
+        </list>
+      </div>
+      <div xml:id="digit">
+        <head>Digitalisate</head>
+        <p><hi rend="italic">Neusatz:</hi> <ref target="https://bahr.univie.ac.at/sites/all/ks/9-dialog.pdf" type="sites-all"><hi rend="bold">Kritische Schriften in Einzelausgaben</hi></ref> <hi rend="italic">Faksimile der Erstausgabe:</hi> <ref target="http://www.archive.org/search.php?query=hermann%20bahr%20tragischen">Archive.org</ref> <ref target="http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=60">ÖNB-ANNO</ref></p>
+      </div>
+    </body>
+  </text>
+</TEI>

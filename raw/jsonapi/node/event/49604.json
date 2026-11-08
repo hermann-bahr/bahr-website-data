@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "3415cdba-616a-48ca-a762-7883ef1fe88f",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/3415cdba-616a-48ca-a762-7883ef1fe88f?resourceVersion=id%3A3431"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/3415cdba-616a-48ca-a762-7883ef1fe88f?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49604,
+    "drupal_internal__vid": 3431,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Richard Wagner †",
+    "created": "2011-11-11T15:28:49+00:00",
+    "changed": "2011-11-11T15:28:49+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49604",
+      "pid": 1420,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 13. Februar 1883 stirbt Richard Wagner. <blockquote>Nur als Vorspiel zum Ernst des Daseins, als Anweisung unserer sittlichen Pflichten, als Einübung unserer Kräfte zum Kampf ließen wir die Kunst noch allenfalls gelten. Und wir wollten uns ihrer bedienen, um die alte Menschheit, die vorwissenschaftliche Menschheit, mit ihren eigenen Waffen zu schlagen. Nur im Dienste der Wissenschaft, nur als Hilfe zur Wissenschaft, nur durch ihren Gehalt an den Sinn erweckender oder die Tat erregender, an intellektueller oder emotioneller Kraft allein schien uns die Kunst berechtigt. Nur Ibsen und Wagner blieben uns.\r\nIn diese Stimmung fiel die Nachricht von Wagners Tod. Die Wirkung war unbeschreiblich. Seit Schiller hatte die deutsche Jugend keinen mehr so stark als die symbolische Gestalt deutschen Wesens, als Erscheinung unseres geheimsten Willens, empfunden. Bismarck und Wagner waren die Zeichen der deutschen Macht über die Welt. Wir erinnerten uns aus unserer Kindheit, daß Ehen, alte Freundschaften, treue Nachbarschaften zerbrochen waren durch den bloßen Namen Wagners, der den einen als Verheißung aller Seligkeiten, den anderen als Aufruhr aller bösen Geister klang. Und nun hatten wir diesen geächteten, landflüchtigen, gehaßten, verlachten, arm durch die Welt irrenden Mann jeden Widerstand niederringen, alle Niedertracht bezwingen, sein Werk vollenden, seinen Traum erleben und auf grünender Höhe sein Volk um sich zur Andacht versammeln sehen: dies hatte gar nichts mehr von eines einzelnen persönlichem Erlebnis, es schien ein Symbol für das Dasein des Genius auf Erden.\r\nJeder junge Mensch war damals Wagnerianer. Er war es, bevor er noch einen einzigen Takt seiner Musik gehört hatte.</blockquote>",
+      "format": "full_html",
+      "processed": "Am 13. Februar 1883 stirbt Richard Wagner. <blockquote>Nur als Vorspiel zum Ernst des Daseins, als Anweisung unserer sittlichen Pflichten, als Einübung unserer Kräfte zum Kampf ließen wir die Kunst noch allenfalls gelten. Und wir wollten uns ihrer bedienen, um die alte Menschheit, die vorwissenschaftliche Menschheit, mit ihren eigenen Waffen zu schlagen. Nur im Dienste der Wissenschaft, nur als Hilfe zur Wissenschaft, nur durch ihren Gehalt an den Sinn erweckender oder die Tat erregender, an intellektueller oder emotioneller Kraft allein schien uns die Kunst berechtigt. Nur Ibsen und Wagner blieben uns.\nIn diese Stimmung fiel die Nachricht von Wagners Tod. Die Wirkung war unbeschreiblich. Seit Schiller hatte die deutsche Jugend keinen mehr so stark als die symbolische Gestalt deutschen Wesens, als Erscheinung unseres geheimsten Willens, empfunden. Bismarck und Wagner waren die Zeichen der deutschen Macht über die Welt. Wir erinnerten uns aus unserer Kindheit, daß Ehen, alte Freundschaften, treue Nachbarschaften zerbrochen waren durch den bloßen Namen Wagners, der den einen als Verheißung aller Seligkeiten, den anderen als Aufruhr aller bösen Geister klang. Und nun hatten wir diesen geächteten, landflüchtigen, gehaßten, verlachten, arm durch die Welt irrenden Mann jeden Widerstand niederringen, alle Niedertracht bezwingen, sein Werk vollenden, seinen Traum erleben und auf grünender Höhe sein Volk um sich zur Andacht versammeln sehen: dies hatte gar nichts mehr von eines einzelnen persönlichem Erlebnis, es schien ein Symbol für das Dasein des Genius auf Erden.\nJeder junge Mensch war damals Wagnerianer. Er war es, bevor er noch einen einzigen Takt seiner Musik gehört hatte.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1883-02-13",
+      "end_value": "1883-02-13"
+    },
+    "field_sources": [
+      "Selbstbildnis, 139."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3415cdba-616a-48ca-a762-7883ef1fe88f/node_type?resourceVersion=id%3A3431"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3415cdba-616a-48ca-a762-7883ef1fe88f/relationships/node_type?resourceVersion=id%3A3431"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3415cdba-616a-48ca-a762-7883ef1fe88f/revision_uid?resourceVersion=id%3A3431"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3415cdba-616a-48ca-a762-7883ef1fe88f/relationships/revision_uid?resourceVersion=id%3A3431"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3415cdba-616a-48ca-a762-7883ef1fe88f/uid?resourceVersion=id%3A3431"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3415cdba-616a-48ca-a762-7883ef1fe88f/relationships/uid?resourceVersion=id%3A3431"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3415cdba-616a-48ca-a762-7883ef1fe88f/field_event_type?resourceVersion=id%3A3431"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3415cdba-616a-48ca-a762-7883ef1fe88f/relationships/field_event_type?resourceVersion=id%3A3431"
+        }
+      }
+    }
+  }
+}

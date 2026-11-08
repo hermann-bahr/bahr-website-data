@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "96d7133b-3530-4ccb-915d-71d836b60275",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/96d7133b-3530-4ccb-915d-71d836b60275?resourceVersion=id%3A2989"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/96d7133b-3530-4ccb-915d-71d836b60275?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44070,
+    "drupal_internal__vid": 2989,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Düsseldorf, Mannheim",
+    "created": "2011-09-05T08:55:43+00:00",
+    "changed": "2012-10-16T12:13:11+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44070",
+      "pid": 967,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Vermutlich geht am 11. November 1908 in Düsseldorf seine Vortragsreise weiter, wenngleich die Aufzeichnung dazu unklar ist. Tags darauf liest er in Mannheim.",
+      "format": "full_html",
+      "processed": "Vermutlich geht am 11. November 1908 in Düsseldorf seine Vortragsreise weiter, wenngleich die Aufzeichnung dazu unklar ist. Tags darauf liest er in Mannheim.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1908-11-11",
+      "end_value": "1908-11-12"
+    },
+    "field_sources": [
+      "Tagebücher (Csàky), V, 391."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/96d7133b-3530-4ccb-915d-71d836b60275/node_type?resourceVersion=id%3A2989"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/96d7133b-3530-4ccb-915d-71d836b60275/relationships/node_type?resourceVersion=id%3A2989"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/96d7133b-3530-4ccb-915d-71d836b60275/revision_uid?resourceVersion=id%3A2989"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/96d7133b-3530-4ccb-915d-71d836b60275/relationships/revision_uid?resourceVersion=id%3A2989"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/96d7133b-3530-4ccb-915d-71d836b60275/uid?resourceVersion=id%3A2989"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/96d7133b-3530-4ccb-915d-71d836b60275/relationships/uid?resourceVersion=id%3A2989"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/96d7133b-3530-4ccb-915d-71d836b60275/field_event_type?resourceVersion=id%3A2989"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/96d7133b-3530-4ccb-915d-71d836b60275/relationships/field_event_type?resourceVersion=id%3A2989"
+        }
+      }
+    }
+  }
+}

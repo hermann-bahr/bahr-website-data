@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "1f73dcc5-ac4c-4607-8ab8-e33c271cdad8",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/1f73dcc5-ac4c-4607-8ab8-e33c271cdad8?resourceVersion=id%3A3372"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/1f73dcc5-ac4c-4607-8ab8-e33c271cdad8?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49539,
+    "drupal_internal__vid": 3372,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Romanprojekt und Journalismus",
+    "created": "2011-10-28T13:27:53+00:00",
+    "changed": "2011-10-28T13:27:53+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49539",
+      "pid": 1356,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "An Redlich, 8.1.1924:<blockquote>Mich quält zur Zeit ein Roman, der mir neulich einfiel und in meiner unvollendeten und wohl zur Unvollendung bestimmten Serie sehr gute Figur machen würde. Er geht mir nicht aus dem Kopf und das ist sehr dumm, denn schreiben kann ich ihn doch nicht, ich bin zu alt, um noch die Spannkraft zu haben, so was neben den journalistischen Arbeiten her zu machen. Ich müßte mich zwei, drei Monate ganz verkriechen, allen Journalismus lassen und mich nur meiner Vision […] überlassen, aber leider bin ich in journalistische Verpflichtungen so verknüpft, daß mir kaum gelingen wird, mich auch nur für kurze Zeit herauszuwuzzeln […]</blockquote>Bahr spielt auf seine \"Reihe österreichischer Romane\" an, in der seine Romane seit den späten Nullerjahren stehen.",
+      "format": "full_html",
+      "processed": "An Redlich, 8.1.1924:<blockquote>Mich quält zur Zeit ein Roman, der mir neulich einfiel und in meiner unvollendeten und wohl zur Unvollendung bestimmten Serie sehr gute Figur machen würde. Er geht mir nicht aus dem Kopf und das ist sehr dumm, denn schreiben kann ich ihn doch nicht, ich bin zu alt, um noch die Spannkraft zu haben, so was neben den journalistischen Arbeiten her zu machen. Ich müßte mich zwei, drei Monate ganz verkriechen, allen Journalismus lassen und mich nur meiner Vision […] überlassen, aber leider bin ich in journalistische Verpflichtungen so verknüpft, daß mir kaum gelingen wird, mich auch nur für kurze Zeit herauszuwuzzeln […]</blockquote>Bahr spielt auf seine \"Reihe österreichischer Romane\" an, in der seine Romane seit den späten Nullerjahren stehen.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1924-01-08",
+      "end_value": "1924-01-08"
+    },
+    "field_sources": [
+      "Bahr/Redlich, 513-514."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1f73dcc5-ac4c-4607-8ab8-e33c271cdad8/node_type?resourceVersion=id%3A3372"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1f73dcc5-ac4c-4607-8ab8-e33c271cdad8/relationships/node_type?resourceVersion=id%3A3372"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1f73dcc5-ac4c-4607-8ab8-e33c271cdad8/revision_uid?resourceVersion=id%3A3372"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1f73dcc5-ac4c-4607-8ab8-e33c271cdad8/relationships/revision_uid?resourceVersion=id%3A3372"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1f73dcc5-ac4c-4607-8ab8-e33c271cdad8/uid?resourceVersion=id%3A3372"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1f73dcc5-ac4c-4607-8ab8-e33c271cdad8/relationships/uid?resourceVersion=id%3A3372"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1f73dcc5-ac4c-4607-8ab8-e33c271cdad8/field_event_type?resourceVersion=id%3A3372"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1f73dcc5-ac4c-4607-8ab8-e33c271cdad8/relationships/field_event_type?resourceVersion=id%3A3372"
+        }
+      }
+    }
+  }
+}

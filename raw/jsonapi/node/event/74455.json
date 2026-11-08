@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "895c906d-0509-4326-9a54-1eda81d4390a",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/895c906d-0509-4326-9a54-1eda81d4390a?resourceVersion=id%3A3771"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/895c906d-0509-4326-9a54-1eda81d4390a?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74455,
+    "drupal_internal__vid": 3771,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "J. V. Krämer",
+    "created": "2013-01-10T12:32:15+00:00",
+    "changed": "2013-01-10T12:32:15+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/74455",
+      "pid": 1829,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Auf einem Dampfer in Venedig, zwölf Jahre vor 1923, sahen sich Bahr und Johann Viktor Krämer zum (aller?-)letzten Mal.",
+      "format": "full_html",
+      "processed": "Auf einem Dampfer in Venedig, zwölf Jahre vor 1923, sahen sich Bahr und Johann Viktor Krämer zum (aller?-)letzten Mal.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1923-06-01",
+      "end_value": "1923-06-01"
+    },
+    "field_sources": [
+      "Brief Krämers an Bahr, 29.7.1923, Nachlass Bahr, unsigniert",
+      "(Hier auf 1.6.1911 datiert)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/895c906d-0509-4326-9a54-1eda81d4390a/node_type?resourceVersion=id%3A3771"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/895c906d-0509-4326-9a54-1eda81d4390a/relationships/node_type?resourceVersion=id%3A3771"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/895c906d-0509-4326-9a54-1eda81d4390a/revision_uid?resourceVersion=id%3A3771"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/895c906d-0509-4326-9a54-1eda81d4390a/relationships/revision_uid?resourceVersion=id%3A3771"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/895c906d-0509-4326-9a54-1eda81d4390a/uid?resourceVersion=id%3A3771"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/895c906d-0509-4326-9a54-1eda81d4390a/relationships/uid?resourceVersion=id%3A3771"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/895c906d-0509-4326-9a54-1eda81d4390a/field_event_type?resourceVersion=id%3A3771"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/895c906d-0509-4326-9a54-1eda81d4390a/relationships/field_event_type?resourceVersion=id%3A3771"
+        }
+      }
+    }
+  }
+}

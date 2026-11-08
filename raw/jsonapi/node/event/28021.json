@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "9fccc432-c9bd-490f-bfcc-7c8663d8b2e5",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/9fccc432-c9bd-490f-bfcc-7c8663d8b2e5?resourceVersion=id%3A2353"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/9fccc432-c9bd-490f-bfcc-7c8663d8b2e5?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28021,
+    "drupal_internal__vid": 2353,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Rahl",
+    "created": "2010-07-28T10:36:35+00:00",
+    "changed": "2012-10-16T11:29:29+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28021",
+      "pid": 187,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Im November 1908 verschickt S. Fischer die Belegsexemplare von Bahrs neuem Roman \"Die Rahl\". Er stellt die Eröffnung von Bahrs \"österreichischen Romanen\" dar, die er in Nacheiferung von Balzacs Comédie humaine als Bild Österreichs anlegt.\r\n(Schnitzler liest's am 22. November 1908.)",
+      "format": "full_html",
+      "processed": "Im November 1908 verschickt S. Fischer die Belegsexemplare von Bahrs neuem Roman \"Die Rahl\". Er stellt die Eröffnung von Bahrs \"österreichischen Romanen\" dar, die er in Nacheiferung von Balzacs Comédie humaine als Bild Österreichs anlegt.\n(Schnitzler liest's am 22. November 1908.)",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1908-11-01",
+      "end_value": "1908-11-01"
+    },
+    "field_sources": [
+      "Hermann Bahr: Die Rahl. Roman. Berlin: S. Fischer, 1908.",
+      "Schnitzler: Tagebücher, III, 369. "
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9fccc432-c9bd-490f-bfcc-7c8663d8b2e5/node_type?resourceVersion=id%3A2353"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9fccc432-c9bd-490f-bfcc-7c8663d8b2e5/relationships/node_type?resourceVersion=id%3A2353"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9fccc432-c9bd-490f-bfcc-7c8663d8b2e5/revision_uid?resourceVersion=id%3A2353"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9fccc432-c9bd-490f-bfcc-7c8663d8b2e5/relationships/revision_uid?resourceVersion=id%3A2353"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9fccc432-c9bd-490f-bfcc-7c8663d8b2e5/uid?resourceVersion=id%3A2353"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9fccc432-c9bd-490f-bfcc-7c8663d8b2e5/relationships/uid?resourceVersion=id%3A2353"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "2f55ff54-49af-41ba-a2d1-45a7ac71add2",
+          "meta": {
+            "drupal_internal__target_id": 2
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9fccc432-c9bd-490f-bfcc-7c8663d8b2e5/field_event_type?resourceVersion=id%3A2353"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9fccc432-c9bd-490f-bfcc-7c8663d8b2e5/relationships/field_event_type?resourceVersion=id%3A2353"
+        }
+      }
+    }
+  }
+}

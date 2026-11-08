@@ -1,0 +1,112 @@
+{
+  "type": "node--article",
+  "id": "2ea65904-5d13-495d-b5da-2150e1b0ec2f",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/article/2ea65904-5d13-495d-b5da-2150e1b0ec2f?resourceVersion=id%3A4001"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/article/2ea65904-5d13-495d-b5da-2150e1b0ec2f?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 17879,
+    "drupal_internal__vid": 4001,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:47:58+00:00",
+    "status": true,
+    "title": "Was Blinde lasen. Eine Statistik für 1910",
+    "created": "2010-02-07T14:38:48+00:00",
+    "changed": "2010-03-26T13:49:55+00:00",
+    "promote": true,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/article/17879",
+      "pid": 27,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Die Wiener Zeitung veröffentlichte am 27. Jänner 1911 eine Statistik der Entlehnungen des abgelaufenen Jahres in der \"Leihbibliothek für Blinde\" im \"Blinden-Erziehungsinstitut im Prater\". \r\n\r\nDie Bibliothek zählt nahezu 8000 Bände, durch freiwillige Helfer kommen im Jahr 400 Bände dazu\r\n2377 Werke mit 6207 Bänden wurden ausgeliehen, eine Steigerung um 1500 gegenüber dem Vorjahr\r\n\r\n<table>\r\n<th>Name</th><th>Was nachgefragt wird</th><th>Wieviele Bände entliehen wurden</th></tr><tr>\r\n<td>Anzengruber<td>47<tr>\r\n<td>Ganghofer<td>35<td>251<tr>\r\n<td>Dahn</td><td>33</td><td>263</tr><tr>\r\n<td>Schiller<td>33</td><td>über 100</td><tr>\r\n<td>Heyse</td><td>29</td></tr><tr>\r\n<td>Grillparzer</td><td>25</td></tr><tr>\r\n<td>Frenssen</td><td>25</td><td>über 100</td></tr><tr>\r\n<td>Ibsen</td><td>23</td></tr><tr>\r\n<td>Goethe</td><td>22</td></tr><tr>\r\n<td>Hesse</td><td>22</td></tr><tr>\r\n<td>Wildenbruch</td><td>22</td></tr><tr>\r\n<td>Freytag</td><td></td><td>153</tr><tr>\r\n<td>Wolff</td><td></td><td>über 100</td></tr><tr>\r\n<td>Ebner-Eschenbach</td><td></td><td>18</td></tr><tr>\r\n<td>Rosegger</td><td></td><td>16</td></tr><tr>\r\n<td>Hauptmann</td><td></td><td>14</td></tr><tr>\r\n<td>Bartsch</td><td></td><td>12</td></tr><tr>\r\n<td>Frenssen</td><td></td><td>12</td></tr><tr>\r\n<td><strong>Bahr</strong></td><td></td><td><strong>6</strong></td></tr><tr>\r\n<td>Schönherr</td><td></td><td>6</td></tr><tr>\r\n<td>Rostand</td><td></td><td>5</td></tr><tr>\r\n<td>delle Grazie</td><td></td><td>5</td></tr><tr>\r\n<td>Hofmannsthal</td><td></td><td>2</td></tr><tr>\r\n<td>Schnitzler</td><td></td><td>2</td></tr><tr>\r\n<td>Tolstoi</td><td></td><td>2</td></tr><tr>\r\n<td>Lagerlöf</td><td></td><td>1</td></tr><tr>\r\n<td>Fulda</td><td></td><td>1</td></tr><tr>\r\n</table>\r\n\r\nEine Unklarheit der Statistik dürfte in der Verwechslung eines Autornamens bestehen: Frenssen taucht zweimal auf, einmal in der ab Ebner-Eschenbach beginnenden Liste mit \"modernen Autoren\".",
+      "format": "full_html",
+      "processed": "Die Wiener Zeitung veröffentlichte am 27. Jänner 1911 eine Statistik der Entlehnungen des abgelaufenen Jahres in der \"Leihbibliothek für Blinde\" im \"Blinden-Erziehungsinstitut im Prater\". \n\nDie Bibliothek zählt nahezu 8000 Bände, durch freiwillige Helfer kommen im Jahr 400 Bände dazu\n2377 Werke mit 6207 Bänden wurden ausgeliehen, eine Steigerung um 1500 gegenüber dem Vorjahr\n\n<table>\n<th>Name</th><th>Was nachgefragt wird</th><th>Wieviele Bände entliehen wurden</th><tr>\n<td>Anzengruber</td><td>47</td></tr><tr>\n<td>Ganghofer</td><td>35</td><td>251</td></tr><tr>\n<td>Dahn</td><td>33</td><td>263</td></tr><tr>\n<td>Schiller</td><td>33</td><td>über 100</td></tr><tr>\n<td>Heyse</td><td>29</td></tr><tr>\n<td>Grillparzer</td><td>25</td></tr><tr>\n<td>Frenssen</td><td>25</td><td>über 100</td></tr><tr>\n<td>Ibsen</td><td>23</td></tr><tr>\n<td>Goethe</td><td>22</td></tr><tr>\n<td>Hesse</td><td>22</td></tr><tr>\n<td>Wildenbruch</td><td>22</td></tr><tr>\n<td>Freytag</td><td></td><td>153</td></tr><tr>\n<td>Wolff</td><td></td><td>über 100</td></tr><tr>\n<td>Ebner-Eschenbach</td><td></td><td>18</td></tr><tr>\n<td>Rosegger</td><td></td><td>16</td></tr><tr>\n<td>Hauptmann</td><td></td><td>14</td></tr><tr>\n<td>Bartsch</td><td></td><td>12</td></tr><tr>\n<td>Frenssen</td><td></td><td>12</td></tr><tr>\n<td><strong>Bahr</strong></td><td></td><td><strong>6</strong></td></tr><tr>\n<td>Schönherr</td><td></td><td>6</td></tr><tr>\n<td>Rostand</td><td></td><td>5</td></tr><tr>\n<td>delle Grazie</td><td></td><td>5</td></tr><tr>\n<td>Hofmannsthal</td><td></td><td>2</td></tr><tr>\n<td>Schnitzler</td><td></td><td>2</td></tr><tr>\n<td>Tolstoi</td><td></td><td>2</td></tr><tr>\n<td>Lagerlöf</td><td></td><td>1</td></tr><tr>\n<td>Fulda</td><td></td><td>1</td></tr><tr>\n</tr></table>\n\nEine Unklarheit der Statistik dürfte in der Verwechslung eines Autornamens bestehen: Frenssen taucht zweimal auf, einmal in der ab Ebner-Eschenbach beginnenden Liste mit \"modernen Autoren\".",
+      "summary": null
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "2591b802-2e12-43ea-999f-36ccdccd1176",
+        "meta": {
+          "drupal_internal__target_id": "article"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/2ea65904-5d13-495d-b5da-2150e1b0ec2f/node_type?resourceVersion=id%3A4001"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/2ea65904-5d13-495d-b5da-2150e1b0ec2f/relationships/node_type?resourceVersion=id%3A4001"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/2ea65904-5d13-495d-b5da-2150e1b0ec2f/revision_uid?resourceVersion=id%3A4001"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/2ea65904-5d13-495d-b5da-2150e1b0ec2f/relationships/revision_uid?resourceVersion=id%3A4001"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/2ea65904-5d13-495d-b5da-2150e1b0ec2f/uid?resourceVersion=id%3A4001"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/2ea65904-5d13-495d-b5da-2150e1b0ec2f/relationships/uid?resourceVersion=id%3A4001"
+        }
+      }
+    },
+    "field_image": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/2ea65904-5d13-495d-b5da-2150e1b0ec2f/field_image?resourceVersion=id%3A4001"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/2ea65904-5d13-495d-b5da-2150e1b0ec2f/relationships/field_image?resourceVersion=id%3A4001"
+        }
+      }
+    },
+    "field_tags": {
+      "data": [],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/2ea65904-5d13-495d-b5da-2150e1b0ec2f/field_tags?resourceVersion=id%3A4001"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/2ea65904-5d13-495d-b5da-2150e1b0ec2f/relationships/field_tags?resourceVersion=id%3A4001"
+        }
+      }
+    }
+  }
+}

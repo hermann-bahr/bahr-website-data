@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "74166767-52d8-49d1-83d8-72080b7067b2",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/74166767-52d8-49d1-83d8-72080b7067b2?resourceVersion=id%3A3384"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/74166767-52d8-49d1-83d8-72080b7067b2?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49551,
+    "drupal_internal__vid": 3384,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Hauslehrer",
+    "created": "2011-11-02T10:31:50+00:00",
+    "changed": "2011-11-02T10:31:50+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49551",
+      "pid": 1368,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "1869 lernt Bahr lesen, in der Folge liest er sich durch Kotzebues Sämtliche Werke, die im Regal des zu seiner Ausbildung neu angestellten Herrn von Wolbach befinden. Letztlich wird Wolbach entlassen, weil er sich in die Köchin verliebt.",
+      "format": "full_html",
+      "processed": "1869 lernt Bahr lesen, in der Folge liest er sich durch Kotzebues Sämtliche Werke, die im Regal des zu seiner Ausbildung neu angestellten Herrn von Wolbach befinden. Letztlich wird Wolbach entlassen, weil er sich in die Köchin verliebt.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1870-01-01",
+      "end_value": "1870-01-01"
+    },
+    "field_sources": [
+      "Selbstbildnis, 53-56."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/74166767-52d8-49d1-83d8-72080b7067b2/node_type?resourceVersion=id%3A3384"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/74166767-52d8-49d1-83d8-72080b7067b2/relationships/node_type?resourceVersion=id%3A3384"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/74166767-52d8-49d1-83d8-72080b7067b2/revision_uid?resourceVersion=id%3A3384"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/74166767-52d8-49d1-83d8-72080b7067b2/relationships/revision_uid?resourceVersion=id%3A3384"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/74166767-52d8-49d1-83d8-72080b7067b2/uid?resourceVersion=id%3A3384"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/74166767-52d8-49d1-83d8-72080b7067b2/relationships/uid?resourceVersion=id%3A3384"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/74166767-52d8-49d1-83d8-72080b7067b2/field_event_type?resourceVersion=id%3A3384"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/74166767-52d8-49d1-83d8-72080b7067b2/relationships/field_event_type?resourceVersion=id%3A3384"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "181b1d9f-e33e-4b0a-872d-ecd579ee0693",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/181b1d9f-e33e-4b0a-872d-ecd579ee0693?resourceVersion=id%3A3623"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/181b1d9f-e33e-4b0a-872d-ecd579ee0693?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 64233,
+    "drupal_internal__vid": 3623,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "AS",
+    "created": "2012-05-23T10:45:21+00:00",
+    "changed": "2012-05-23T10:45:21+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/64233",
+      "pid": 1666,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 9. Jänner 1902, dem Tag, an dem ihm der Grillparzerpreis zuerkannt wird, ist Schnitzler bei Bahr auf Besuch.",
+      "format": "full_html",
+      "processed": "Am 9. Jänner 1902, dem Tag, an dem ihm der Grillparzerpreis zuerkannt wird, ist Schnitzler bei Bahr auf Besuch.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1902-01-09",
+      "end_value": "1902-01-09"
+    },
+    "field_sources": [
+      "Schnitzler: Tagebücher, II, 362."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/181b1d9f-e33e-4b0a-872d-ecd579ee0693/node_type?resourceVersion=id%3A3623"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/181b1d9f-e33e-4b0a-872d-ecd579ee0693/relationships/node_type?resourceVersion=id%3A3623"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/181b1d9f-e33e-4b0a-872d-ecd579ee0693/revision_uid?resourceVersion=id%3A3623"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/181b1d9f-e33e-4b0a-872d-ecd579ee0693/relationships/revision_uid?resourceVersion=id%3A3623"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/181b1d9f-e33e-4b0a-872d-ecd579ee0693/uid?resourceVersion=id%3A3623"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/181b1d9f-e33e-4b0a-872d-ecd579ee0693/relationships/uid?resourceVersion=id%3A3623"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/181b1d9f-e33e-4b0a-872d-ecd579ee0693/field_event_type?resourceVersion=id%3A3623"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/181b1d9f-e33e-4b0a-872d-ecd579ee0693/relationships/field_event_type?resourceVersion=id%3A3623"
+        }
+      }
+    }
+  }
+}

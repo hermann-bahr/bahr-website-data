@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "937cc82d-4c7e-4ce1-a8c1-a323670d4471",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/937cc82d-4c7e-4ce1-a8c1-a323670d4471?resourceVersion=id%3A3255"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/937cc82d-4c7e-4ce1-a8c1-a323670d4471?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49412,
+    "drupal_internal__vid": 3255,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Buschbeck",
+    "created": "2011-10-19T09:15:58+00:00",
+    "changed": "2011-10-19T09:16:53+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49412",
+      "pid": 1236,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 9. Juni 1919 wandet Bahr mit Buschbeck auf den Untersberg. Auf dem Berggipfel empfindet er auch seine ganzen Leiden, wie Schwindelanfälle, Gleichgewichtsstörungen etc. nicht.",
+      "format": "full_html",
+      "processed": "Am 9. Juni 1919 wandet Bahr mit Buschbeck auf den Untersberg. Auf dem Berggipfel empfindet er auch seine ganzen Leiden, wie Schwindelanfälle, Gleichgewichtsstörungen etc. nicht.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1919-06-09",
+      "end_value": "1919-06-09"
+    },
+    "field_sources": [
+      "Bahr/Redlich, 366."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/937cc82d-4c7e-4ce1-a8c1-a323670d4471/node_type?resourceVersion=id%3A3255"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/937cc82d-4c7e-4ce1-a8c1-a323670d4471/relationships/node_type?resourceVersion=id%3A3255"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/937cc82d-4c7e-4ce1-a8c1-a323670d4471/revision_uid?resourceVersion=id%3A3255"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/937cc82d-4c7e-4ce1-a8c1-a323670d4471/relationships/revision_uid?resourceVersion=id%3A3255"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/937cc82d-4c7e-4ce1-a8c1-a323670d4471/uid?resourceVersion=id%3A3255"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/937cc82d-4c7e-4ce1-a8c1-a323670d4471/relationships/uid?resourceVersion=id%3A3255"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/937cc82d-4c7e-4ce1-a8c1-a323670d4471/field_event_type?resourceVersion=id%3A3255"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/937cc82d-4c7e-4ce1-a8c1-a323670d4471/relationships/field_event_type?resourceVersion=id%3A3255"
+        }
+      }
+    }
+  }
+}

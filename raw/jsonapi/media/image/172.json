@@ -1,0 +1,118 @@
+{
+  "type": "media--image",
+  "id": "4cd81655-2e54-4089-a466-6cd1bac3fffd",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/media/image/4cd81655-2e54-4089-a466-6cd1bac3fffd?resourceVersion=id%3A172"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/media/image/4cd81655-2e54-4089-a466-6cd1bac3fffd?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__mid": 172,
+    "drupal_internal__vid": 172,
+    "langcode": "de",
+    "revision_created": "2020-02-18T15:16:19+00:00",
+    "status": true,
+    "name": "1902_lechner",
+    "created": "2020-02-18T15:16:19+00:00",
+    "changed": "2020-02-18T15:16:19+00:00",
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": null,
+      "pid": null,
+      "langcode": "de"
+    }
+  },
+  "relationships": {
+    "bundle": {
+      "data": {
+        "type": "media_type--media_type",
+        "id": "b82aabb6-e7a1-420d-b98b-5b981c2d920e",
+        "meta": {
+          "drupal_internal__target_id": "image"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/4cd81655-2e54-4089-a466-6cd1bac3fffd/bundle?resourceVersion=id%3A172"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/4cd81655-2e54-4089-a466-6cd1bac3fffd/relationships/bundle?resourceVersion=id%3A172"
+        }
+      }
+    },
+    "revision_user": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/4cd81655-2e54-4089-a466-6cd1bac3fffd/revision_user?resourceVersion=id%3A172"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/4cd81655-2e54-4089-a466-6cd1bac3fffd/relationships/revision_user?resourceVersion=id%3A172"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/4cd81655-2e54-4089-a466-6cd1bac3fffd/uid?resourceVersion=id%3A172"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/4cd81655-2e54-4089-a466-6cd1bac3fffd/relationships/uid?resourceVersion=id%3A172"
+        }
+      }
+    },
+    "thumbnail": {
+      "data": {
+        "type": "file--file",
+        "id": "cbe0c048-d34c-444f-b66f-d15a0df0364a",
+        "meta": {
+          "alt": "1902 Lechner's Mittheilungen",
+          "title": null,
+          "width": 1856,
+          "height": 2061,
+          "drupal_internal__target_id": 233
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/4cd81655-2e54-4089-a466-6cd1bac3fffd/thumbnail?resourceVersion=id%3A172"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/4cd81655-2e54-4089-a466-6cd1bac3fffd/relationships/thumbnail?resourceVersion=id%3A172"
+        }
+      }
+    },
+    "field_media_image": {
+      "data": {
+        "type": "file--file",
+        "id": "cbe0c048-d34c-444f-b66f-d15a0df0364a",
+        "meta": {
+          "alt": "1902 Lechner's Mittheilungen",
+          "title": "1902_lechner",
+          "width": 1856,
+          "height": 2061,
+          "drupal_internal__target_id": 233
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/4cd81655-2e54-4089-a466-6cd1bac3fffd/field_media_image?resourceVersion=id%3A172"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/4cd81655-2e54-4089-a466-6cd1bac3fffd/relationships/field_media_image?resourceVersion=id%3A172"
+        }
+      }
+    }
+  }
+}

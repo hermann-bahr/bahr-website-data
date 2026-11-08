@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "775a7afa-fb4e-4baf-a458-8f84da2ad49c",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/775a7afa-fb4e-4baf-a458-8f84da2ad49c?resourceVersion=id%3A2679"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/775a7afa-fb4e-4baf-a458-8f84da2ad49c?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38864,
+    "drupal_internal__vid": 2679,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Bad Gastein",
+    "created": "2011-02-16T21:33:05+00:00",
+    "changed": "2011-10-28T11:01:50+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38864",
+      "pid": 607,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 21. Juli 1928 schreibt Bahr aus Bad Gastein an Max Halbe, am 25. an Hans Brandenburg.",
+      "format": "full_html",
+      "processed": "Am 21. Juli 1928 schreibt Bahr aus Bad Gastein an Max Halbe, am 25. an Hans Brandenburg.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1928-07-21",
+      "end_value": "1928-07-25"
+    },
+    "field_sources": [
+      "Vgl. Monacensia-Bibliothek "
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/775a7afa-fb4e-4baf-a458-8f84da2ad49c/node_type?resourceVersion=id%3A2679"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/775a7afa-fb4e-4baf-a458-8f84da2ad49c/relationships/node_type?resourceVersion=id%3A2679"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/775a7afa-fb4e-4baf-a458-8f84da2ad49c/revision_uid?resourceVersion=id%3A2679"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/775a7afa-fb4e-4baf-a458-8f84da2ad49c/relationships/revision_uid?resourceVersion=id%3A2679"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/775a7afa-fb4e-4baf-a458-8f84da2ad49c/uid?resourceVersion=id%3A2679"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/775a7afa-fb4e-4baf-a458-8f84da2ad49c/relationships/uid?resourceVersion=id%3A2679"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/775a7afa-fb4e-4baf-a458-8f84da2ad49c/field_event_type?resourceVersion=id%3A2679"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/775a7afa-fb4e-4baf-a458-8f84da2ad49c/relationships/field_event_type?resourceVersion=id%3A2679"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "type": "node--article",
+  "id": "69710160-0e02-49f1-9c61-98eedf1f92cd",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/article/69710160-0e02-49f1-9c61-98eedf1f92cd?resourceVersion=id%3A4023"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/article/69710160-0e02-49f1-9c61-98eedf1f92cd?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 90883,
+    "drupal_internal__vid": 4023,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:47:58+00:00",
+    "status": true,
+    "title": "Hermann Bahr – Arno Holz: Briefwechsel 1887-1923 erschienen",
+    "created": "2015-10-05T11:18:39+00:00",
+    "changed": "2015-10-05T11:20:02+00:00",
+    "promote": true,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/article/90883",
+      "pid": 1882,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<img src=\"http://www.univie.ac.at/bahr/sites/all/bilder/bahrholz.jpg\" width=\"200px\" align=\"right\">Im Wallstein-Verlag in Göttingen erschien im August 2015 der Briefwechsel zwischen Hermann Bahr und Arno Holz, herausgegeben von Gerd-Hermann Susen und Martin Anton Müller.  \r\n\r\n<quote>Die einzige lebensumspannende und nahezu vollständig überlieferte Korrespondenz von Arno Holz - erstmalig veröffentlicht.\r\n\r\nHermann Bahr und Arno Holz zählen zu den bekanntesten Autoren des Naturalismus in seiner Berliner Eigenart. Legendär ist ihre gemeinsame Initiative zur Entmachtung von Otto Brahm als Herausgeber der Zeitschrift »Freie Bühne für modernes Leben«. Anders als bislang angenommen ist ihre Verbindung damit aber keineswegs erschöpfend dargestellt. Die hier erstmals edierte Korrespondenz mit gut 100 Briefen birgt nicht nur neue Erkenntnisse über die kurzzeitige Zusammenarbeit für die Zeitschrift, sondern erzählt auch von den vereinten Bemühungen, zum Vorreiter der »Moderne« zu werden - und damit ihre eigene Spielart der neuen Literatur und Kunst einem großen Publikum nahezubringen.\r\nNach einem kurzen Intermezzo zwischen den beiden mündet der Briefwechsel in eine zweite intensive, bislang unbekannt gebliebene Phase der Kooperation: der am »Deutschem Theater« engagierte Bahr müht sich mehr recht als schlecht, Holz` »Sonnenfinsternis« gegen die Widerstände des Autors wie der Schauspieler zu inszenieren.\r\nDie Kommentare erzählen ausführlich vom persönlichen und literarischen Umfeld der Protagonisten und bieten vor allem neues Material.\r\n</quote>\r\n\r\n<a href=\"http://www.wallstein-verlag.de/9783835317192-hermann-bahr-arno-holz-briefwechsel-1887-1923.html\">Verlagswebsite</a>",
+      "format": "full_html",
+      "processed": "<img src=\"http://www.univie.ac.at/bahr/sites/all/bilder/bahrholz.jpg\" width=\"200px\" align=\"right\">Im Wallstein-Verlag in Göttingen erschien im August 2015 der Briefwechsel zwischen Hermann Bahr und Arno Holz, herausgegeben von Gerd-Hermann Susen und Martin Anton Müller.  \n\n<quote>Die einzige lebensumspannende und nahezu vollständig überlieferte Korrespondenz von Arno Holz - erstmalig veröffentlicht.\n\nHermann Bahr und Arno Holz zählen zu den bekanntesten Autoren des Naturalismus in seiner Berliner Eigenart. Legendär ist ihre gemeinsame Initiative zur Entmachtung von Otto Brahm als Herausgeber der Zeitschrift »Freie Bühne für modernes Leben«. Anders als bislang angenommen ist ihre Verbindung damit aber keineswegs erschöpfend dargestellt. Die hier erstmals edierte Korrespondenz mit gut 100 Briefen birgt nicht nur neue Erkenntnisse über die kurzzeitige Zusammenarbeit für die Zeitschrift, sondern erzählt auch von den vereinten Bemühungen, zum Vorreiter der »Moderne« zu werden - und damit ihre eigene Spielart der neuen Literatur und Kunst einem großen Publikum nahezubringen.\nNach einem kurzen Intermezzo zwischen den beiden mündet der Briefwechsel in eine zweite intensive, bislang unbekannt gebliebene Phase der Kooperation: der am »Deutschem Theater« engagierte Bahr müht sich mehr recht als schlecht, Holz` »Sonnenfinsternis« gegen die Widerstände des Autors wie der Schauspieler zu inszenieren.\nDie Kommentare erzählen ausführlich vom persönlichen und literarischen Umfeld der Protagonisten und bieten vor allem neues Material.\n</quote>\n\n<a href=\"http://www.wallstein-verlag.de/9783835317192-hermann-bahr-arno-holz-briefwechsel-1887-1923.html\">Verlagswebsite</a>",
+      "summary": null
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "2591b802-2e12-43ea-999f-36ccdccd1176",
+        "meta": {
+          "drupal_internal__target_id": "article"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/69710160-0e02-49f1-9c61-98eedf1f92cd/node_type?resourceVersion=id%3A4023"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/69710160-0e02-49f1-9c61-98eedf1f92cd/relationships/node_type?resourceVersion=id%3A4023"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/69710160-0e02-49f1-9c61-98eedf1f92cd/revision_uid?resourceVersion=id%3A4023"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/69710160-0e02-49f1-9c61-98eedf1f92cd/relationships/revision_uid?resourceVersion=id%3A4023"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/69710160-0e02-49f1-9c61-98eedf1f92cd/uid?resourceVersion=id%3A4023"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/69710160-0e02-49f1-9c61-98eedf1f92cd/relationships/uid?resourceVersion=id%3A4023"
+        }
+      }
+    },
+    "field_image": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/69710160-0e02-49f1-9c61-98eedf1f92cd/field_image?resourceVersion=id%3A4023"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/69710160-0e02-49f1-9c61-98eedf1f92cd/relationships/field_image?resourceVersion=id%3A4023"
+        }
+      }
+    },
+    "field_tags": {
+      "data": [],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/69710160-0e02-49f1-9c61-98eedf1f92cd/field_tags?resourceVersion=id%3A4023"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/69710160-0e02-49f1-9c61-98eedf1f92cd/relationships/field_tags?resourceVersion=id%3A4023"
+        }
+      }
+    }
+  }
+}

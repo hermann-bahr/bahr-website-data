@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "05fec0e1-484d-4af9-bc35-958d12a6be90",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/05fec0e1-484d-4af9-bc35-958d12a6be90?resourceVersion=id%3A2493"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/05fec0e1-484d-4af9-bc35-958d12a6be90?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28185,
+    "drupal_internal__vid": 2493,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Moissi",
+    "created": "2010-09-09T19:05:01+00:00",
+    "changed": "2011-12-15T16:29:31+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28185",
+      "pid": 330,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bei seinem Berlin-Aufenthalt Anfang Oktober verpflichtet Bahr Alexander Moissi für den darauffolgenden April bis inklusive des Juni ans Hofburgtheater. Die Vossische Zeitung erfährt die Nachricht aus Wien und bringt sie am 23. Oktober 1918.",
+      "format": "full_html",
+      "processed": "Bei seinem Berlin-Aufenthalt Anfang Oktober verpflichtet Bahr Alexander Moissi für den darauffolgenden April bis inklusive des Juni ans Hofburgtheater. Die Vossische Zeitung erfährt die Nachricht aus Wien und bringt sie am 23. Oktober 1918.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1918-10-01",
+      "end_value": "1918-10-01"
+    },
+    "field_sources": [
+      "Tagebuch 1919, 289",
+      "Vossische Zeitung, 1918 #542, Morgen-Ausgabe, 2. (23.10.1918)",
+      "Ursula Prutsch, Klaus Zeyringer (Hg.): Leopold von Andrian (1875-1951). Korrespondenzen, Notizen, Essays, Berichte. Wien, Köln, Weimar: Böhlau 2003, 248."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/05fec0e1-484d-4af9-bc35-958d12a6be90/node_type?resourceVersion=id%3A2493"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/05fec0e1-484d-4af9-bc35-958d12a6be90/relationships/node_type?resourceVersion=id%3A2493"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/05fec0e1-484d-4af9-bc35-958d12a6be90/revision_uid?resourceVersion=id%3A2493"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/05fec0e1-484d-4af9-bc35-958d12a6be90/relationships/revision_uid?resourceVersion=id%3A2493"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/05fec0e1-484d-4af9-bc35-958d12a6be90/uid?resourceVersion=id%3A2493"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/05fec0e1-484d-4af9-bc35-958d12a6be90/relationships/uid?resourceVersion=id%3A2493"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/05fec0e1-484d-4af9-bc35-958d12a6be90/field_event_type?resourceVersion=id%3A2493"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/05fec0e1-484d-4af9-bc35-958d12a6be90/relationships/field_event_type?resourceVersion=id%3A2493"
+        }
+      }
+    }
+  }
+}

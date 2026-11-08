@@ -1,0 +1,114 @@
+{
+  "type": "node--event",
+  "id": "0360d8cf-aaca-4c91-a0e6-6aaab98d9455",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/0360d8cf-aaca-4c91-a0e6-6aaab98d9455?resourceVersion=id%3A3797"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/0360d8cf-aaca-4c91-a0e6-6aaab98d9455?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74486,
+    "drupal_internal__vid": 3797,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Studienabbruch",
+    "created": "2013-03-13T09:22:57+00:00",
+    "changed": "2013-03-13T09:22:57+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/74486",
+      "pid": 1860,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Anfang Mai 1887 wird deutlich, dass Bahr in diesem Semester das Studium nicht beenden wird können. Die beiden aufeinanderfolgenden Krankheiten haben ihn in der Arbeit an seiner zweiten Dissertation zurückgeworfen. Die erste ist zu interdisziplinär gewesen, dass zu viele Professoren zur Begutachtung hinzugezogen hätten werden müssen und die Aussicht auf Approbierung gering. Deshalb wird im Einvernehmen mit dem Vater das Studium für beendet erklärt und Bahr zur Kur in die Nähe von Salzburg befohlen.",
+      "format": "full_html",
+      "processed": "Anfang Mai 1887 wird deutlich, dass Bahr in diesem Semester das Studium nicht beenden wird können. Die beiden aufeinanderfolgenden Krankheiten haben ihn in der Arbeit an seiner zweiten Dissertation zurückgeworfen. Die erste ist zu interdisziplinär gewesen, dass zu viele Professoren zur Begutachtung hinzugezogen hätten werden müssen und die Aussicht auf Approbierung gering. Deshalb wird im Einvernehmen mit dem Vater das Studium für beendet erklärt und Bahr zur Kur in die Nähe von Salzburg befohlen.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1887-05-01",
+      "end_value": "1887-05-01"
+    },
+    "field_sources": []
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0360d8cf-aaca-4c91-a0e6-6aaab98d9455/node_type?resourceVersion=id%3A3797"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0360d8cf-aaca-4c91-a0e6-6aaab98d9455/relationships/node_type?resourceVersion=id%3A3797"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0360d8cf-aaca-4c91-a0e6-6aaab98d9455/revision_uid?resourceVersion=id%3A3797"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0360d8cf-aaca-4c91-a0e6-6aaab98d9455/relationships/revision_uid?resourceVersion=id%3A3797"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0360d8cf-aaca-4c91-a0e6-6aaab98d9455/uid?resourceVersion=id%3A3797"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0360d8cf-aaca-4c91-a0e6-6aaab98d9455/relationships/uid?resourceVersion=id%3A3797"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0360d8cf-aaca-4c91-a0e6-6aaab98d9455/field_event_type?resourceVersion=id%3A3797"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0360d8cf-aaca-4c91-a0e6-6aaab98d9455/relationships/field_event_type?resourceVersion=id%3A3797"
+        }
+      }
+    }
+  }
+}

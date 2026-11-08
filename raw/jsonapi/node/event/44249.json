@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "6c4ba4b6-53e1-4803-abe3-0aa1e4e1b3ab",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/6c4ba4b6-53e1-4803-abe3-0aa1e4e1b3ab?resourceVersion=id%3A3163"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/6c4ba4b6-53e1-4803-abe3-0aa1e4e1b3ab?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44249,
+    "drupal_internal__vid": 3163,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "\"Wien\" fertig",
+    "created": "2011-10-03T14:14:30+00:00",
+    "changed": "2011-10-03T14:14:30+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44249",
+      "pid": 1142,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 16. Oktober 1906 kann Bahr Redlich berichten, er hätte \"Wien\" fertiggeschrieben und es solle im Frühjahr erscheinen.",
+      "format": "full_html",
+      "processed": "Am 16. Oktober 1906 kann Bahr Redlich berichten, er hätte \"Wien\" fertiggeschrieben und es solle im Frühjahr erscheinen.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1906-10-16",
+      "end_value": "1906-10-16"
+    },
+    "field_sources": [
+      "Bahr/Redlich, 47-48."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6c4ba4b6-53e1-4803-abe3-0aa1e4e1b3ab/node_type?resourceVersion=id%3A3163"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6c4ba4b6-53e1-4803-abe3-0aa1e4e1b3ab/relationships/node_type?resourceVersion=id%3A3163"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6c4ba4b6-53e1-4803-abe3-0aa1e4e1b3ab/revision_uid?resourceVersion=id%3A3163"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6c4ba4b6-53e1-4803-abe3-0aa1e4e1b3ab/relationships/revision_uid?resourceVersion=id%3A3163"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6c4ba4b6-53e1-4803-abe3-0aa1e4e1b3ab/uid?resourceVersion=id%3A3163"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6c4ba4b6-53e1-4803-abe3-0aa1e4e1b3ab/relationships/uid?resourceVersion=id%3A3163"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6c4ba4b6-53e1-4803-abe3-0aa1e4e1b3ab/field_event_type?resourceVersion=id%3A3163"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6c4ba4b6-53e1-4803-abe3-0aa1e4e1b3ab/relationships/field_event_type?resourceVersion=id%3A3163"
+        }
+      }
+    }
+  }
+}

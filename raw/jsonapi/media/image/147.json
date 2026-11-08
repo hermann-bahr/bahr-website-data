@@ -1,0 +1,118 @@
+{
+  "type": "media--image",
+  "id": "3c8901ab-7dca-45dc-909f-91d2942a1d6a",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/media/image/3c8901ab-7dca-45dc-909f-91d2942a1d6a?resourceVersion=id%3A147"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/media/image/3c8901ab-7dca-45dc-909f-91d2942a1d6a?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__mid": 147,
+    "drupal_internal__vid": 147,
+    "langcode": "de",
+    "revision_created": "2020-02-18T15:16:19+00:00",
+    "status": true,
+    "name": "1923_garten",
+    "created": "2020-02-18T15:16:19+00:00",
+    "changed": "2020-02-18T15:16:19+00:00",
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": null,
+      "pid": null,
+      "langcode": "de"
+    }
+  },
+  "relationships": {
+    "bundle": {
+      "data": {
+        "type": "media_type--media_type",
+        "id": "b82aabb6-e7a1-420d-b98b-5b981c2d920e",
+        "meta": {
+          "drupal_internal__target_id": "image"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/3c8901ab-7dca-45dc-909f-91d2942a1d6a/bundle?resourceVersion=id%3A147"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/3c8901ab-7dca-45dc-909f-91d2942a1d6a/relationships/bundle?resourceVersion=id%3A147"
+        }
+      }
+    },
+    "revision_user": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/3c8901ab-7dca-45dc-909f-91d2942a1d6a/revision_user?resourceVersion=id%3A147"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/3c8901ab-7dca-45dc-909f-91d2942a1d6a/relationships/revision_user?resourceVersion=id%3A147"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/3c8901ab-7dca-45dc-909f-91d2942a1d6a/uid?resourceVersion=id%3A147"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/3c8901ab-7dca-45dc-909f-91d2942a1d6a/relationships/uid?resourceVersion=id%3A147"
+        }
+      }
+    },
+    "thumbnail": {
+      "data": {
+        "type": "file--file",
+        "id": "eb129a70-5cb1-4798-bf7a-73cc9fe8a490",
+        "meta": {
+          "alt": "Bahr und Anna Bahr-Mildenburg",
+          "title": null,
+          "width": 400,
+          "height": 657,
+          "drupal_internal__target_id": 208
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/3c8901ab-7dca-45dc-909f-91d2942a1d6a/thumbnail?resourceVersion=id%3A147"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/3c8901ab-7dca-45dc-909f-91d2942a1d6a/relationships/thumbnail?resourceVersion=id%3A147"
+        }
+      }
+    },
+    "field_media_image": {
+      "data": {
+        "type": "file--file",
+        "id": "eb129a70-5cb1-4798-bf7a-73cc9fe8a490",
+        "meta": {
+          "alt": "Bahr und Anna Bahr-Mildenburg",
+          "title": "1923_garten",
+          "width": 400,
+          "height": 657,
+          "drupal_internal__target_id": 208
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/3c8901ab-7dca-45dc-909f-91d2942a1d6a/field_media_image?resourceVersion=id%3A147"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/3c8901ab-7dca-45dc-909f-91d2942a1d6a/relationships/field_media_image?resourceVersion=id%3A147"
+        }
+      }
+    }
+  }
+}

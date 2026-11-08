@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "73bdb842-6a0f-4634-b40b-85f0b403dfac",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/73bdb842-6a0f-4634-b40b-85f0b403dfac?resourceVersion=id%3A3668"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/73bdb842-6a0f-4634-b40b-85f0b403dfac?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 64278,
+    "drupal_internal__vid": 3668,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "AS, Brahm, Reicher",
+    "created": "2012-08-08T14:40:22+00:00",
+    "changed": "2012-08-08T14:40:22+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/64278",
+      "pid": 1711,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 15. Mai 1906, Schnitzlers 44. Geburtstag, isst der Jubilar gemeinsam mit seiner Frau Olga, Bahr und Rosa Bahr, Emanuel Reicher und dessen Sohn, Otto Brahm, seinem Bruder Julius und dessen Frau Helene sowie Siegfried Trebitsch im Restaurant Meissl.",
+      "format": "full_html",
+      "processed": "Am 15. Mai 1906, Schnitzlers 44. Geburtstag, isst der Jubilar gemeinsam mit seiner Frau Olga, Bahr und Rosa Bahr, Emanuel Reicher und dessen Sohn, Otto Brahm, seinem Bruder Julius und dessen Frau Helene sowie Siegfried Trebitsch im Restaurant Meissl.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1906-05-15",
+      "end_value": "1906-05-15"
+    },
+    "field_sources": [
+      "Schnitzler: Tagebücher, III, 201."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/73bdb842-6a0f-4634-b40b-85f0b403dfac/node_type?resourceVersion=id%3A3668"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/73bdb842-6a0f-4634-b40b-85f0b403dfac/relationships/node_type?resourceVersion=id%3A3668"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/73bdb842-6a0f-4634-b40b-85f0b403dfac/revision_uid?resourceVersion=id%3A3668"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/73bdb842-6a0f-4634-b40b-85f0b403dfac/relationships/revision_uid?resourceVersion=id%3A3668"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/73bdb842-6a0f-4634-b40b-85f0b403dfac/uid?resourceVersion=id%3A3668"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/73bdb842-6a0f-4634-b40b-85f0b403dfac/relationships/uid?resourceVersion=id%3A3668"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/73bdb842-6a0f-4634-b40b-85f0b403dfac/field_event_type?resourceVersion=id%3A3668"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/73bdb842-6a0f-4634-b40b-85f0b403dfac/relationships/field_event_type?resourceVersion=id%3A3668"
+        }
+      }
+    }
+  }
+}

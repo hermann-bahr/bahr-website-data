@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "089661a6-9a73-43fd-9730-f59d97a76040",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/089661a6-9a73-43fd-9730-f59d97a76040?resourceVersion=id%3A3410"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/089661a6-9a73-43fd-9730-f59d97a76040?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49583,
+    "drupal_internal__vid": 3410,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Keine Burgtheaterwürde",
+    "created": "2011-11-09T08:46:22+00:00",
+    "changed": "2012-10-17T15:33:33+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49583",
+      "pid": 1399,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 31. Dezember 1907 schreibt der Ministerpräsident Baron Beck als Antwort auf die Frage, ob ein Stück Bahrs am Burgtheater aufgeführt werden dürfe, dass er sich nach Rücksprache mit dem Innenminister dagegen ausspreche, nicht zuletzt wegen der in diesem Jahr erfolgten Konfiskation von \"Wien\".[1] Schnitzler weiß noch 1914 zu berichten, dass Bahr \"oben\" verhasst sei und nicht gespielt werden dürfe. Wegen \"Wien\" und weil er für ein großserbisches Reich einträte.[2] Bahr ist zwar früher schon gespielt worden und 1918, bei seiner Bestellung an die Spitze des Burgtheaters wurde der Brief zwar berücksichtigt, aber nicht gegen ihn verwandt.",
+      "format": "full_html",
+      "processed": "Am 31. Dezember 1907 schreibt der Ministerpräsident Baron Beck als Antwort auf die Frage, ob ein Stück Bahrs am Burgtheater aufgeführt werden dürfe, dass er sich nach Rücksprache mit dem Innenminister dagegen ausspreche, nicht zuletzt wegen der in diesem Jahr erfolgten Konfiskation von \"Wien\".[1] Schnitzler weiß noch 1914 zu berichten, dass Bahr \"oben\" verhasst sei und nicht gespielt werden dürfe. Wegen \"Wien\" und weil er für ein großserbisches Reich einträte.[2] Bahr ist zwar früher schon gespielt worden und 1918, bei seiner Bestellung an die Spitze des Burgtheaters wurde der Brief zwar berücksichtigt, aber nicht gegen ihn verwandt.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1907-12-31",
+      "end_value": "1907-12-31"
+    },
+    "field_sources": [
+      "[1] Brief abgedruckt in: Kindermann: Bahr, 270.",
+      "[2] Schnitzler: Tagebücher, V, 92. (13.1.1914)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/089661a6-9a73-43fd-9730-f59d97a76040/node_type?resourceVersion=id%3A3410"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/089661a6-9a73-43fd-9730-f59d97a76040/relationships/node_type?resourceVersion=id%3A3410"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/089661a6-9a73-43fd-9730-f59d97a76040/revision_uid?resourceVersion=id%3A3410"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/089661a6-9a73-43fd-9730-f59d97a76040/relationships/revision_uid?resourceVersion=id%3A3410"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/089661a6-9a73-43fd-9730-f59d97a76040/uid?resourceVersion=id%3A3410"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/089661a6-9a73-43fd-9730-f59d97a76040/relationships/uid?resourceVersion=id%3A3410"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/089661a6-9a73-43fd-9730-f59d97a76040/field_event_type?resourceVersion=id%3A3410"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/089661a6-9a73-43fd-9730-f59d97a76040/relationships/field_event_type?resourceVersion=id%3A3410"
+        }
+      }
+    }
+  }
+}

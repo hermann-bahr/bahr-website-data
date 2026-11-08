@@ -1,0 +1,114 @@
+{
+  "type": "node--event",
+  "id": "ddc435f5-6887-4fa4-a1de-e989d43cc269",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/ddc435f5-6887-4fa4-a1de-e989d43cc269?resourceVersion=id%3A2225"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/ddc435f5-6887-4fa4-a1de-e989d43cc269?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27873,
+    "drupal_internal__vid": 2225,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Freie Bühne, Berlin",
+    "created": "2010-06-21T13:48:12+00:00",
+    "changed": "2010-11-17T17:54:05+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/27873",
+      "pid": 58,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 30. April 1890 reist Bahr nach Berlin, um mit Otto Brahm und Arno Holz in der Redaktion der von seinem neuen Verleger Samuel Fischer gegründeten Wochenschrift \"Die Freie Bühne für modernes Leben\" zu arbeiten. Schon am 23. Juli, nachdem er vergeblich versuchte, die Leitung des Blattes zu übernehmen, erscheint sein letzter Artikel und er verlässt mit anderen die Redaktion unter (in Zeitungen publiziertem) Protest. 1892, nach Brahms Ausscheiden aus der Redaktion, nimmt Bahr für kurze Zeit seine Tätigkeit als Autor noch einmal auf.",
+      "format": "full_html",
+      "processed": "Am 30. April 1890 reist Bahr nach Berlin, um mit Otto Brahm und Arno Holz in der Redaktion der von seinem neuen Verleger Samuel Fischer gegründeten Wochenschrift \"Die Freie Bühne für modernes Leben\" zu arbeiten. Schon am 23. Juli, nachdem er vergeblich versuchte, die Leitung des Blattes zu übernehmen, erscheint sein letzter Artikel und er verlässt mit anderen die Redaktion unter (in Zeitungen publiziertem) Protest. 1892, nach Brahms Ausscheiden aus der Redaktion, nimmt Bahr für kurze Zeit seine Tätigkeit als Autor noch einmal auf.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1890-04-30",
+      "end_value": "1890-07-23"
+    },
+    "field_sources": []
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ddc435f5-6887-4fa4-a1de-e989d43cc269/node_type?resourceVersion=id%3A2225"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ddc435f5-6887-4fa4-a1de-e989d43cc269/relationships/node_type?resourceVersion=id%3A2225"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ddc435f5-6887-4fa4-a1de-e989d43cc269/revision_uid?resourceVersion=id%3A2225"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ddc435f5-6887-4fa4-a1de-e989d43cc269/relationships/revision_uid?resourceVersion=id%3A2225"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ddc435f5-6887-4fa4-a1de-e989d43cc269/uid?resourceVersion=id%3A2225"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ddc435f5-6887-4fa4-a1de-e989d43cc269/relationships/uid?resourceVersion=id%3A2225"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "d579e54c-64dd-4193-a9ef-da87efb3ed16",
+          "meta": {
+            "drupal_internal__target_id": 8
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ddc435f5-6887-4fa4-a1de-e989d43cc269/field_event_type?resourceVersion=id%3A2225"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ddc435f5-6887-4fa4-a1de-e989d43cc269/relationships/field_event_type?resourceVersion=id%3A2225"
+        }
+      }
+    }
+  }
+}

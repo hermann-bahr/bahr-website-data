@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "4b0100af-7a26-4d55-af82-a0f1e1da00ff",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/4b0100af-7a26-4d55-af82-a0f1e1da00ff?resourceVersion=id%3A2779"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/4b0100af-7a26-4d55-af82-a0f1e1da00ff?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38997,
+    "drupal_internal__vid": 2779,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Julius Ofner",
+    "created": "2011-03-21T22:40:43+00:00",
+    "changed": "2011-10-06T12:48:39+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38997",
+      "pid": 733,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahr begrüßte 1911, dass Julius Ofner für die bevorstehende Reichsrathswahl kandidierte. Er tat es öffentlich am 17. oder 18. Mai, als er im \"Intimen Theater\" bei einer \"Wählerversammlung der Bühnenangestellten\" das Wort ergriff.",
+      "format": "full_html",
+      "processed": "Bahr begrüßte 1911, dass Julius Ofner für die bevorstehende Reichsrathswahl kandidierte. Er tat es öffentlich am 17. oder 18. Mai, als er im \"Intimen Theater\" bei einer \"Wählerversammlung der Bühnenangestellten\" das Wort ergriff.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1911-05-17",
+      "end_value": "1911-05-17"
+    },
+    "field_sources": [
+      "Neue Freie Presse, 1911 #16788, 3. (19.5.1911)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4b0100af-7a26-4d55-af82-a0f1e1da00ff/node_type?resourceVersion=id%3A2779"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4b0100af-7a26-4d55-af82-a0f1e1da00ff/relationships/node_type?resourceVersion=id%3A2779"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4b0100af-7a26-4d55-af82-a0f1e1da00ff/revision_uid?resourceVersion=id%3A2779"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4b0100af-7a26-4d55-af82-a0f1e1da00ff/relationships/revision_uid?resourceVersion=id%3A2779"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4b0100af-7a26-4d55-af82-a0f1e1da00ff/uid?resourceVersion=id%3A2779"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4b0100af-7a26-4d55-af82-a0f1e1da00ff/relationships/uid?resourceVersion=id%3A2779"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4b0100af-7a26-4d55-af82-a0f1e1da00ff/field_event_type?resourceVersion=id%3A2779"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4b0100af-7a26-4d55-af82-a0f1e1da00ff/relationships/field_event_type?resourceVersion=id%3A2779"
+        }
+      }
+    }
+  }
+}

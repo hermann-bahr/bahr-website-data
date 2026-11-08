@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "bf3ab170-a3cd-49e3-9e2a-a982b33f6ddb",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/bf3ab170-a3cd-49e3-9e2a-a982b33f6ddb?resourceVersion=id%3A3555"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/bf3ab170-a3cd-49e3-9e2a-a982b33f6ddb?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49784,
+    "drupal_internal__vid": 3555,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Nachbesetzt bei \"Steyrermühl\"",
+    "created": "2012-01-17T13:20:51+00:00",
+    "changed": "2012-01-17T13:22:04+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49784",
+      "pid": 1596,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahrs Version 1922, warum seine Mitarbeit beim \"Neuen Wiener Tagblatt\" 1906 endete: <blockquote>bis mich Wilhelm Singer ins \"Neue Wiener Tagblatt\" nahm, der aber auch aufatmete, als mich 1905 Baron Speidel ans Münchener Hoftheater berief. Er atmete mit solcher Entschiedenheit auf, daß ich, als sich die Verhandlungen mit München zerschlugen, meinen Posten im \"Tagblatt\" bereits von einem Nachfolger besetzt fand. Ich war unmöglich geworden.</blockquote>",
+      "format": "full_html",
+      "processed": "Bahrs Version 1922, warum seine Mitarbeit beim \"Neuen Wiener Tagblatt\" 1906 endete: <blockquote>bis mich Wilhelm Singer ins \"Neue Wiener Tagblatt\" nahm, der aber auch aufatmete, als mich 1905 Baron Speidel ans Münchener Hoftheater berief. Er atmete mit solcher Entschiedenheit auf, daß ich, als sich die Verhandlungen mit München zerschlugen, meinen Posten im \"Tagblatt\" bereits von einem Nachfolger besetzt fand. Ich war unmöglich geworden.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1906-01-07",
+      "end_value": "1906-01-07"
+    },
+    "field_sources": [
+      "Liebe der Lebenden, II, 286. (3. Dezember [1922])",
+      "(Hier auf 7.1.1906 datiert)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bf3ab170-a3cd-49e3-9e2a-a982b33f6ddb/node_type?resourceVersion=id%3A3555"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bf3ab170-a3cd-49e3-9e2a-a982b33f6ddb/relationships/node_type?resourceVersion=id%3A3555"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bf3ab170-a3cd-49e3-9e2a-a982b33f6ddb/revision_uid?resourceVersion=id%3A3555"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bf3ab170-a3cd-49e3-9e2a-a982b33f6ddb/relationships/revision_uid?resourceVersion=id%3A3555"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bf3ab170-a3cd-49e3-9e2a-a982b33f6ddb/uid?resourceVersion=id%3A3555"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bf3ab170-a3cd-49e3-9e2a-a982b33f6ddb/relationships/uid?resourceVersion=id%3A3555"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "d579e54c-64dd-4193-a9ef-da87efb3ed16",
+          "meta": {
+            "drupal_internal__target_id": 8
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bf3ab170-a3cd-49e3-9e2a-a982b33f6ddb/field_event_type?resourceVersion=id%3A3555"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bf3ab170-a3cd-49e3-9e2a-a982b33f6ddb/relationships/field_event_type?resourceVersion=id%3A3555"
+        }
+      }
+    }
+  }
+}

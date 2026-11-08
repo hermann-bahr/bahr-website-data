@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "4123665e-eb34-4a44-bef7-5f5469e668b9",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/4123665e-eb34-4a44-bef7-5f5469e668b9?resourceVersion=id%3A2374"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/4123665e-eb34-4a44-bef7-5f5469e668b9?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28042,
+    "drupal_internal__vid": 2374,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Wenn es euch gefällt",
+    "created": "2010-07-28T22:08:46+00:00",
+    "changed": "2011-07-08T12:54:12+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28042",
+      "pid": 208,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "\"Wenn es euch gefällt. Wiener Revue in drei Bildern und einem Vorspiel\", hat im März 1899 am Deutschen Volkstheater Première. \r\nDie zweite Zusammenarbeit von Bahr mit Carl Karlweis handelt von einem Herrn Schwammel aus Wels, der in Wien eine Arbeit sucht und nach verschiedenen Erfahrungen, unter anderem mit einer berühmten Schauspielerin, am Ende beschließt, wieder nach Wels zurückzugehen. \r\nDie Buchfassung wird von Karl Konegen in Wien gedruckt. Die erste Rezension der Buchfassung wird  25. Mai 1899 besprochen.",
+      "format": "full_html",
+      "processed": "\"Wenn es euch gefällt. Wiener Revue in drei Bildern und einem Vorspiel\", hat im März 1899 am Deutschen Volkstheater Première. \nDie zweite Zusammenarbeit von Bahr mit Carl Karlweis handelt von einem Herrn Schwammel aus Wels, der in Wien eine Arbeit sucht und nach verschiedenen Erfahrungen, unter anderem mit einer berühmten Schauspielerin, am Ende beschließt, wieder nach Wels zurückzugehen. \nDie Buchfassung wird von Karl Konegen in Wien gedruckt. Die erste Rezension der Buchfassung wird  25. Mai 1899 besprochen.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1899-03-30",
+      "end_value": "1899-03-30"
+    },
+    "field_sources": [
+      "F–: Politik-Secession-Theater. In: Sport und Salon, 2 (1899) #13, 7. (30.3.1899)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4123665e-eb34-4a44-bef7-5f5469e668b9/node_type?resourceVersion=id%3A2374"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4123665e-eb34-4a44-bef7-5f5469e668b9/relationships/node_type?resourceVersion=id%3A2374"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4123665e-eb34-4a44-bef7-5f5469e668b9/revision_uid?resourceVersion=id%3A2374"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4123665e-eb34-4a44-bef7-5f5469e668b9/relationships/revision_uid?resourceVersion=id%3A2374"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4123665e-eb34-4a44-bef7-5f5469e668b9/uid?resourceVersion=id%3A2374"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4123665e-eb34-4a44-bef7-5f5469e668b9/relationships/uid?resourceVersion=id%3A2374"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "27f3d2a4-8970-4726-9ab8-ce37707ec1bc",
+          "meta": {
+            "drupal_internal__target_id": 1
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4123665e-eb34-4a44-bef7-5f5469e668b9/field_event_type?resourceVersion=id%3A2374"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4123665e-eb34-4a44-bef7-5f5469e668b9/relationships/field_event_type?resourceVersion=id%3A2374"
+        }
+      }
+    }
+  }
+}

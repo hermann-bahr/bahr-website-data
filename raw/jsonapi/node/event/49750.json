@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "4f31c0a1-58ec-4bdc-a6d8-94fca551222f",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/4f31c0a1-58ec-4bdc-a6d8-94fca551222f?resourceVersion=id%3A3522"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/4f31c0a1-58ec-4bdc-a6d8-94fca551222f?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49750,
+    "drupal_internal__vid": 3522,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Schabelitz",
+    "created": "2012-01-02T13:06:30+00:00",
+    "changed": "2012-01-02T13:06:30+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49750",
+      "pid": 1562,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Die Heimreise von Paris am 28. März 1890 geht über Zürich:<blockquote>daß ich mich, wie grausam schwer mir das auch fiel, am Ende doch meinem geliebten Paris entriß, zwei Tage noch in Zürich beim guten alten Schabelitz blieb, dessen Verlag damals das Asyl aller unterstandslosen Dichtung, auch meiner ersten Werke war,</blockquote>",
+      "format": "full_html",
+      "processed": "Die Heimreise von Paris am 28. März 1890 geht über Zürich:<blockquote>daß ich mich, wie grausam schwer mir das auch fiel, am Ende doch meinem geliebten Paris entriß, zwei Tage noch in Zürich beim guten alten Schabelitz blieb, dessen Verlag damals das Asyl aller unterstandslosen Dichtung, auch meiner ersten Werke war,</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1890-03-28",
+      "end_value": "1890-03-29"
+    },
+    "field_sources": [
+      "Tagebuch. 1. Mai. In: Kritik der Gegenwart, 127-134, hier: 132"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4f31c0a1-58ec-4bdc-a6d8-94fca551222f/node_type?resourceVersion=id%3A3522"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4f31c0a1-58ec-4bdc-a6d8-94fca551222f/relationships/node_type?resourceVersion=id%3A3522"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4f31c0a1-58ec-4bdc-a6d8-94fca551222f/revision_uid?resourceVersion=id%3A3522"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4f31c0a1-58ec-4bdc-a6d8-94fca551222f/relationships/revision_uid?resourceVersion=id%3A3522"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4f31c0a1-58ec-4bdc-a6d8-94fca551222f/uid?resourceVersion=id%3A3522"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4f31c0a1-58ec-4bdc-a6d8-94fca551222f/relationships/uid?resourceVersion=id%3A3522"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4f31c0a1-58ec-4bdc-a6d8-94fca551222f/field_event_type?resourceVersion=id%3A3522"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4f31c0a1-58ec-4bdc-a6d8-94fca551222f/relationships/field_event_type?resourceVersion=id%3A3522"
+        }
+      }
+    }
+  }
+}

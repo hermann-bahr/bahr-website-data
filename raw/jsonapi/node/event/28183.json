@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "158e0983-5d66-4e69-bcef-5f8dfbd08766",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/158e0983-5d66-4e69-bcef-5f8dfbd08766?resourceVersion=id%3A2491"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/158e0983-5d66-4e69-bcef-5f8dfbd08766?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28183,
+    "drupal_internal__vid": 2491,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Maria und das katholische Volk",
+    "created": "2010-09-09T19:00:29+00:00",
+    "changed": "2012-12-07T09:36:16+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28183",
+      "pid": 328,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Die Vossische Zeitung kündigt am 25. August 1925 an, dass bei der Fünfhundertjahrfeier des Wallfahrtsorts Mariaschein (Bohosudov) ein Marianischer Kongress stattfinden werde, an dem neben Ignaz Seipel auch Hermann Bahr sprechen wird. Thema: „Maria und das katholische Volk“. Der Kongress ist vom 10. bis zum 12. September anberaumt. Bahr tatsächliche Teilnahme offen.\r\n",
+      "format": "full_html",
+      "processed": "Die Vossische Zeitung kündigt am 25. August 1925 an, dass bei der Fünfhundertjahrfeier des Wallfahrtsorts Mariaschein (Bohosudov) ein Marianischer Kongress stattfinden werde, an dem neben Ignaz Seipel auch Hermann Bahr sprechen wird. Thema: „Maria und das katholische Volk“. Der Kongress ist vom 10. bis zum 12. September anberaumt. Bahr tatsächliche Teilnahme offen.\n",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1925-09-10",
+      "end_value": "1925-09-12"
+    },
+    "field_sources": [
+      "Vossische Zeitung, 1925 #400, Morgenausgabe, 3. (25.8.1925)",
+      "Im Nachlass Bahrs auch ein Programmentwurf mit händischen Ergänzungen, welches Referat Bahr zufällt (Kiste 104: Varia)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/158e0983-5d66-4e69-bcef-5f8dfbd08766/node_type?resourceVersion=id%3A2491"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/158e0983-5d66-4e69-bcef-5f8dfbd08766/relationships/node_type?resourceVersion=id%3A2491"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/158e0983-5d66-4e69-bcef-5f8dfbd08766/revision_uid?resourceVersion=id%3A2491"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/158e0983-5d66-4e69-bcef-5f8dfbd08766/relationships/revision_uid?resourceVersion=id%3A2491"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/158e0983-5d66-4e69-bcef-5f8dfbd08766/uid?resourceVersion=id%3A2491"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/158e0983-5d66-4e69-bcef-5f8dfbd08766/relationships/uid?resourceVersion=id%3A2491"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/158e0983-5d66-4e69-bcef-5f8dfbd08766/field_event_type?resourceVersion=id%3A2491"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/158e0983-5d66-4e69-bcef-5f8dfbd08766/relationships/field_event_type?resourceVersion=id%3A2491"
+        }
+      }
+    }
+  }
+}

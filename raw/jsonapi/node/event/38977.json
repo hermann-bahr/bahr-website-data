@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "eb5ee19e-d7f8-4355-9719-19428d7644b8",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/eb5ee19e-d7f8-4355-9719-19428d7644b8?resourceVersion=id%3A2760"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/eb5ee19e-d7f8-4355-9719-19428d7644b8?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38977,
+    "drupal_internal__vid": 2760,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Das Tschaperl",
+    "created": "2011-03-16T16:05:48+00:00",
+    "changed": "2012-10-16T09:27:44+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38977",
+      "pid": 714,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 27. Februar 1897 hatte Bahrs \"Tschaperl\" im Carl-Theater Wien seine Uraufführung mit einem gegenüber der Textfassung ergänzten Happy End. Die Buchausgabe erscheint 1898 bei S. Fischer.\r\n\r\n\"Das Tschaperl\" bezeichnet Fanny Lampl, die eine Oper komponiert und durch Zutun ihres Mannes Alois Lampl Erfolg hat. Mit dem Erfolg kommen die Beziehungsprobleme und die Schwierigkeiten Lampls, der Mann einer erfolgreichen Frau zu sein. Am Ende verlässt sie ihn, während Lampl alleine zurückbleibt.\r\n\r\nDas Stück dürfte sich an Ereignissen des Ehepaars Langkammer orientiert zu haben, zumindest legen das Eintragungen in Bahrs Tagebuch nahe (Tagebücher (Csàky), II, 232). Hinweise zur Entschlüsselung liefert die Neue Freie Presse am 16. November 1896 (#11578, 3), als sie von einem Gerichtsverfahren berichtet, weil Karl Langkammer gegen Adam Müller-Guttenbrunn geklagt hat. Der Direktor des Raimund-Theaters hat in einer Artikelserie in der \"Neuen Revue\" behauptet, er hätte Karl Langkammer nur als Regisseur engagiert, um dessen Frau als Autorin an sein Theater zu binden.\r\n",
+      "format": "full_html",
+      "processed": "Am 27. Februar 1897 hatte Bahrs \"Tschaperl\" im Carl-Theater Wien seine Uraufführung mit einem gegenüber der Textfassung ergänzten Happy End. Die Buchausgabe erscheint 1898 bei S. Fischer.\n\n\"Das Tschaperl\" bezeichnet Fanny Lampl, die eine Oper komponiert und durch Zutun ihres Mannes Alois Lampl Erfolg hat. Mit dem Erfolg kommen die Beziehungsprobleme und die Schwierigkeiten Lampls, der Mann einer erfolgreichen Frau zu sein. Am Ende verlässt sie ihn, während Lampl alleine zurückbleibt.\n\nDas Stück dürfte sich an Ereignissen des Ehepaars Langkammer orientiert zu haben, zumindest legen das Eintragungen in Bahrs Tagebuch nahe (Tagebücher (Csàky), II, 232). Hinweise zur Entschlüsselung liefert die Neue Freie Presse am 16. November 1896 (#11578, 3), als sie von einem Gerichtsverfahren berichtet, weil Karl Langkammer gegen Adam Müller-Guttenbrunn geklagt hat. Der Direktor des Raimund-Theaters hat in einer Artikelserie in der \"Neuen Revue\" behauptet, er hätte Karl Langkammer nur als Regisseur engagiert, um dessen Frau als Autorin an sein Theater zu binden.\n",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1897-02-27",
+      "end_value": "1897-02-27"
+    },
+    "field_sources": [
+      "Hermann Bahr: Das Tschaperl. Ein Wiener Stück in vier Aufzügen. Berlin: S. Fischer, 1898."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/eb5ee19e-d7f8-4355-9719-19428d7644b8/node_type?resourceVersion=id%3A2760"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/eb5ee19e-d7f8-4355-9719-19428d7644b8/relationships/node_type?resourceVersion=id%3A2760"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/eb5ee19e-d7f8-4355-9719-19428d7644b8/revision_uid?resourceVersion=id%3A2760"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/eb5ee19e-d7f8-4355-9719-19428d7644b8/relationships/revision_uid?resourceVersion=id%3A2760"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/eb5ee19e-d7f8-4355-9719-19428d7644b8/uid?resourceVersion=id%3A2760"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/eb5ee19e-d7f8-4355-9719-19428d7644b8/relationships/uid?resourceVersion=id%3A2760"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "27f3d2a4-8970-4726-9ab8-ce37707ec1bc",
+          "meta": {
+            "drupal_internal__target_id": 1
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/eb5ee19e-d7f8-4355-9719-19428d7644b8/field_event_type?resourceVersion=id%3A2760"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/eb5ee19e-d7f8-4355-9719-19428d7644b8/relationships/field_event_type?resourceVersion=id%3A2760"
+        }
+      }
+    }
+  }
+}

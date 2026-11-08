@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "1949e3f3-f7c3-4504-b0be-b4248ab6eb1f",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/1949e3f3-f7c3-4504-b0be-b4248ab6eb1f?resourceVersion=id%3A2678"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/1949e3f3-f7c3-4504-b0be-b4248ab6eb1f?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38863,
+    "drupal_internal__vid": 2678,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Décadence",
+    "created": "2011-02-16T12:51:04+00:00",
+    "changed": "2011-09-05T09:38:01+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38863",
+      "pid": 606,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Dass Bahrs Novellensammlung \"Fin de siècle\" ursprünglich \"Décadence\" heißen hätte sollen, geht aus dem Magazin für Litteratur hervor:<blockquote>Die seltsame, pessimistisch-jugendliche Litteraturrichtung, die in Frankreich unter dem Namen der \"Décadence\", freilich meist nur in litterarischen Fachkreisen, ein gewisses Aufsehen gemacht hat, das nicht einer leisen melancholischen Komik entbehrt, hat auch bei uns einige Pioniere gefunden, an der Spitze Hermann Bahr, unseren geschätzten Mitarbeiter, \"den Mann von übermorgen\". Er wird dem deutschen Lesepublikum in einer Novellensammlung \"Décadence\", die am Ende des Winters herauskommen soll, die Seele dieser französischen Tagesrichtung – eine echte fin de siècle-Seele - offenbaren. Die dekadenten Richtungen an der Seine entwickeln sich übrigens so schnell, daß wir fürchten, Bahrs \"Décadence\" wird, wenn sie herauskommt, bereits schon ein wenig \"von gestern\" sein.</blockquote>",
+      "format": "full_html",
+      "processed": "Dass Bahrs Novellensammlung \"Fin de siècle\" ursprünglich \"Décadence\" heißen hätte sollen, geht aus dem Magazin für Litteratur hervor:<blockquote>Die seltsame, pessimistisch-jugendliche Litteraturrichtung, die in Frankreich unter dem Namen der \"Décadence\", freilich meist nur in litterarischen Fachkreisen, ein gewisses Aufsehen gemacht hat, das nicht einer leisen melancholischen Komik entbehrt, hat auch bei uns einige Pioniere gefunden, an der Spitze Hermann Bahr, unseren geschätzten Mitarbeiter, \"den Mann von übermorgen\". Er wird dem deutschen Lesepublikum in einer Novellensammlung \"Décadence\", die am Ende des Winters herauskommen soll, die Seele dieser französischen Tagesrichtung – eine echte fin de siècle-Seele - offenbaren. Die dekadenten Richtungen an der Seine entwickeln sich übrigens so schnell, daß wir fürchten, Bahrs \"Décadence\" wird, wenn sie herauskommt, bereits schon ein wenig \"von gestern\" sein.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1890-10-11",
+      "end_value": "1890-10-11"
+    },
+    "field_sources": [
+      "Das Magazin für Litteratur, 59 (1890) #41, 648. (11.10.1890)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1949e3f3-f7c3-4504-b0be-b4248ab6eb1f/node_type?resourceVersion=id%3A2678"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1949e3f3-f7c3-4504-b0be-b4248ab6eb1f/relationships/node_type?resourceVersion=id%3A2678"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1949e3f3-f7c3-4504-b0be-b4248ab6eb1f/revision_uid?resourceVersion=id%3A2678"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1949e3f3-f7c3-4504-b0be-b4248ab6eb1f/relationships/revision_uid?resourceVersion=id%3A2678"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1949e3f3-f7c3-4504-b0be-b4248ab6eb1f/uid?resourceVersion=id%3A2678"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1949e3f3-f7c3-4504-b0be-b4248ab6eb1f/relationships/uid?resourceVersion=id%3A2678"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1949e3f3-f7c3-4504-b0be-b4248ab6eb1f/field_event_type?resourceVersion=id%3A2678"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1949e3f3-f7c3-4504-b0be-b4248ab6eb1f/relationships/field_event_type?resourceVersion=id%3A2678"
+        }
+      }
+    }
+  }
+}

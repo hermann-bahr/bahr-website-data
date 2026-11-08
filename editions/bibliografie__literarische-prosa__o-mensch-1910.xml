@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bibliografie__literarische-prosa__o-mensch-1910" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">O Mensch (1910)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">38893</idno>
+        <idno type="drupal-alias">/bibliografie/38893</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bibliografie/38893">https://bahr.univie.ac.at/bibliografie/38893</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+        <bibl type="beschriebene-ausgabe">
+          <author>Hermann Bahr</author>
+          <title type="main">O Mensch</title>
+          <title type="sub">Roman</title>
+          <pubPlace>Berlin</pubPlace>
+          <publisher>S. Fischer</publisher>
+          <date>1910</date>
+          <extent>316</extent>
+          <edition>3. Aufl. 1910 [Titelauflage] 4., 5. und 6. Aufl. 1910 7. und 8. Aufl. 1911 10.-12. Aufl. 1923 Neuausg. Wien: H. Bauer 1946, 307</edition>
+          <note>Schnitzler dürfte eines der ersten Exemplare erhalten haben, er beginnt es am 27. September 1910 zu lesen. (Schnitzler: Tagebuch, 1909-1912, 179).</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="1" key="bibliografie">Bibliografie</term>
+          <term n="3" key="literarische-prosa">Literarische Prosa</term>
+          <term n="13" key="o-mensch-1910" type="eintrag">O Mensch (1910)</term>
+        </keywords>
+        <classCode scheme="drupal-type">bibliographie</classCode>
+        <keywords scheme="bibliografie_type">
+          <term>Literarische Prosa</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2011-03-04T11:06:43+00:00" type="created">angelegt in Drupal</change>
+      <change when="2012-06-13T19:30:33+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="bib">
+        <head>Bibliografie</head>
+        <table type="bibliografie">
+          <row>
+            <cell>Autor:</cell>
+            <cell>Hermann Bahr</cell>
+          </row>
+          <row>
+            <cell>Titel:</cell>
+            <cell>O Mensch</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>Roman</cell>
+          </row>
+          <row>
+            <cell>Ort:</cell>
+            <cell>Berlin</cell>
+          </row>
+          <row>
+            <cell>Verlag:</cell>
+            <cell>S. Fischer</cell>
+          </row>
+          <row>
+            <cell>Jahr:</cell>
+            <cell>1910</cell>
+          </row>
+          <row>
+            <cell>Seiten:</cell>
+            <cell>316</cell>
+          </row>
+          <row>
+            <cell>Aufl.:</cell>
+            <cell>3. Aufl. 1910 [Titelauflage] 4., 5. und 6. Aufl. 1910 7. und 8. Aufl. 1911 10.-12. Aufl. 1923 Neuausg. Wien: H. Bauer 1946, 307</cell>
+          </row>
+          <row>
+            <cell>Anm.:</cell>
+            <cell>Schnitzler dürfte eines der ersten Exemplare erhalten haben, er beginnt es am 27. September 1910 zu lesen. (Schnitzler: Tagebuch, 1909-1912, 179).</cell>
+          </row>
+        </table>
+      </div>
+      <div xml:id="rezens">
+        <head>Rezensionen</head>
+        <p>Stefan Zweig im Berliner Tageblatt, 39 (1910) #492, Morgen-Ausgabe, 4. Beiblatt. (28.9.1910) st–g [=Stefan Zweig ?]: "Hermann Bahrs 'O Mensch!'" in: Neue Freie Presse, 1910 #16570, 32-33. (9.10.1910) Hans Wantoch: O Mensch! Roman von Hermann Bahr. In: National-Zeitung (Berlin), 63 (1910) #402, Literarische Beilage. (30.10.1910) Ernst Goth im Pester Lloyd, 57 (1910) #258, Morgenblatt, 34. (30.10.1910) [O. N.]: Aus der Erzählwelt. "O Mensch" von Hermann Bahr - "Kubinke" von Georg Hermann. In: Vossische Zeitung,1910 #567, MA, 2-4. (3.12.1910) F. Stein in: Der Tag, Berlin, 10.12.1910 Walter K. Nehl: Ein neuer Roman von Hermann Bahr. In: Der Demokrat, 2 (1910) #39, Beilage, 2. Westermanns Monatshefte 109 (1910) #2, 620. Ludwig Ullmann: Hermann Bahrs neuer Roman. In: Der Merker, 2 (1911) #8, 367-368. (15.1.1911) Max Brod: Hermann Bahr: O Mensch! In: Die Gegenwart. Zeitschrift für Literatur, Wirtschaftsleben und Kunst, 40 (1911) #42, 716.</p>
+      </div>
+      <div xml:id="digit">
+        <head>Digitalisate</head>
+        <list rend="bulleted">
+          <item>
+            <ref target="http://www.archive.org/search.php?query=hermann%20bahr%20mensch">archive.org</ref>
+          </item>
+          <item><ref target="http://www.literaturdownload.at/bahr.html">Literaturdownload.at</ref> <hi rend="italic">Neusatz als PDF und Epub</hi></item>
+        </list>
+      </div>
+    </body>
+  </text>
+</TEI>

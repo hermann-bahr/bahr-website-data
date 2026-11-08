@@ -1,0 +1,36 @@
+{
+  "type": "file--file",
+  "id": "b46b46f8-0cbe-4281-b2a4-d336a0c4dd4a",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/file/file/b46b46f8-0cbe-4281-b2a4-d336a0c4dd4a"
+    }
+  },
+  "attributes": {
+    "drupal_internal__fid": 217,
+    "langcode": "de",
+    "filename": "1928-7-19_telegrammzeitung.jpg",
+    "uri": {
+      "value": "public://bahr_bilder/1928-7-19_telegrammzeitung.jpg",
+      "url": "/sites/default/files/bahr_bilder/1928-7-19_telegrammzeitung.jpg"
+    },
+    "filemime": "image/jpeg",
+    "filesize": 220015,
+    "status": true,
+    "created": "2020-02-18T15:00:35+00:00",
+    "changed": "2020-02-18T15:11:43+00:00"
+  },
+  "relationships": {
+    "uid": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/file/file/b46b46f8-0cbe-4281-b2a4-d336a0c4dd4a/uid"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/file/file/b46b46f8-0cbe-4281-b2a4-d336a0c4dd4a/relationships/uid"
+        }
+      }
+    }
+  }
+}

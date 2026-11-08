@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "e0df451d-2178-4c55-819d-ada3ea5bd8b9",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/e0df451d-2178-4c55-819d-ada3ea5bd8b9?resourceVersion=id%3A3337"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/e0df451d-2178-4c55-819d-ada3ea5bd8b9?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49503,
+    "drupal_internal__vid": 3337,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "JR, über Andrian",
+    "created": "2011-10-27T08:50:46+00:00",
+    "changed": "2011-10-27T08:50:46+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49503",
+      "pid": 1321,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 26. Oktober 1918, Redlichs Nominierung zum Finanzminister ist gerade verlautbart worden, kommt Bahr vorbei:<blockquote>Nachmittag Bahr bei mir, der mir seine Auffassung von Andrian ausfs schärfste pointiert mitteilt: ich habe ihn nie über einen Menschen so vernichtend reden hören! Und das nach 25-jähriger anhimmelnder Freundschaft! Höchst betrübend!</blockquote>",
+      "format": "full_html",
+      "processed": "Am 26. Oktober 1918, Redlichs Nominierung zum Finanzminister ist gerade verlautbart worden, kommt Bahr vorbei:<blockquote>Nachmittag Bahr bei mir, der mir seine Auffassung von Andrian ausfs schärfste pointiert mitteilt: ich habe ihn nie über einen Menschen so vernichtend reden hören! Und das nach 25-jähriger anhimmelnder Freundschaft! Höchst betrübend!</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1918-10-26",
+      "end_value": "1918-10-26"
+    },
+    "field_sources": [
+      "Fritz Fellner und Doris A. Corradini (Hgg.): Schicksalsjahre Österreichs. Die Erinnerungen und Tagebücher Josef Redlichs 1869–1936. Wien: Böhlau 2011, II, 456."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e0df451d-2178-4c55-819d-ada3ea5bd8b9/node_type?resourceVersion=id%3A3337"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e0df451d-2178-4c55-819d-ada3ea5bd8b9/relationships/node_type?resourceVersion=id%3A3337"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e0df451d-2178-4c55-819d-ada3ea5bd8b9/revision_uid?resourceVersion=id%3A3337"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e0df451d-2178-4c55-819d-ada3ea5bd8b9/relationships/revision_uid?resourceVersion=id%3A3337"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e0df451d-2178-4c55-819d-ada3ea5bd8b9/uid?resourceVersion=id%3A3337"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e0df451d-2178-4c55-819d-ada3ea5bd8b9/relationships/uid?resourceVersion=id%3A3337"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e0df451d-2178-4c55-819d-ada3ea5bd8b9/field_event_type?resourceVersion=id%3A3337"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e0df451d-2178-4c55-819d-ada3ea5bd8b9/relationships/field_event_type?resourceVersion=id%3A3337"
+        }
+      }
+    }
+  }
+}

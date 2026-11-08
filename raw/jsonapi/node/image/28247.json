@@ -1,0 +1,109 @@
+{
+  "type": "node--image",
+  "id": "395b82bf-c7d2-47a7-ad61-32261434ff5c",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/image/395b82bf-c7d2-47a7-ad61-32261434ff5c?resourceVersion=id%3A3949"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/image/395b82bf-c7d2-47a7-ad61-32261434ff5c?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28247,
+    "drupal_internal__vid": 3949,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:44:08+00:00",
+    "status": true,
+    "title": "1903 Duncan-Duse",
+    "created": "2010-11-09T17:09:58+00:00",
+    "changed": "2011-08-31T11:23:48+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/bild/28247",
+      "pid": 380,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<i>Wiener Caricaturen, 23 (1903) #15, 12. (12.4.1903)</i>",
+      "format": "full_html",
+      "processed": "<i>Wiener Caricaturen, 23 (1903) #15, 12. (12.4.1903)</i>",
+      "summary": null
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "e2381624-d098-4c5b-bdd7-5dbfd773b84e",
+        "meta": {
+          "drupal_internal__target_id": "image"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/395b82bf-c7d2-47a7-ad61-32261434ff5c/node_type?resourceVersion=id%3A3949"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/395b82bf-c7d2-47a7-ad61-32261434ff5c/relationships/node_type?resourceVersion=id%3A3949"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/395b82bf-c7d2-47a7-ad61-32261434ff5c/revision_uid?resourceVersion=id%3A3949"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/395b82bf-c7d2-47a7-ad61-32261434ff5c/relationships/revision_uid?resourceVersion=id%3A3949"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/395b82bf-c7d2-47a7-ad61-32261434ff5c/uid?resourceVersion=id%3A3949"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/395b82bf-c7d2-47a7-ad61-32261434ff5c/relationships/uid?resourceVersion=id%3A3949"
+        }
+      }
+    },
+    "field_images": {
+      "data": [
+        {
+          "type": "media--image",
+          "id": "2e7f8049-bbc2-43bc-b77e-b807fa05e6e4",
+          "meta": {
+            "drupal_internal__target_id": 128
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/395b82bf-c7d2-47a7-ad61-32261434ff5c/field_images?resourceVersion=id%3A3949"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/395b82bf-c7d2-47a7-ad61-32261434ff5c/relationships/field_images?resourceVersion=id%3A3949"
+        }
+      }
+    }
+  }
+}

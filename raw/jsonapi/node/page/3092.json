@@ -1,0 +1,90 @@
+{
+  "type": "node--page",
+  "id": "5155e2c2-8c8d-4344-806a-7a7f268e2dd2",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/page/5155e2c2-8c8d-4344-806a-7a7f268e2dd2?resourceVersion=id%3A4161"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/page/5155e2c2-8c8d-4344-806a-7a7f268e2dd2?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 3092,
+    "drupal_internal__vid": 4161,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-27T15:33:39+00:00",
+    "status": true,
+    "title": "Hinweise zur Verwendung",
+    "created": "2010-01-04T11:57:49+00:00",
+    "changed": "2020-02-27T15:33:39+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/hinweise-zur-verwendung",
+      "pid": 8,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<h4>Martin Anton Müller</h4>\r\n\r\n<p>Ein Textverzeichnis hat notwendigerweise editorische Prinzipien, die sich nicht immer von selbst ergeben. Diese Hinweise sollen das Verständnis erleichtern und die Handhabung vereinfachen.</p>\r\n\r\n<h2>Allgemeines</h2>\r\n\r\n<h2>Autorschaft</h2>\r\n\r\n<dl>\r\n\t<dt>Wer ist Bahr?</dt>\r\n\t<dd>Es handelt sich bei allen Texten um Werke von Hermann Bahr, gelegentlich auch um gemeinsam mit anderen verfasste Arbeiten. Sollte durch die Aufzählung der Autorennamen der Beitrag Bahrs nicht ersichtlich sein, empfiehlt sich ein Blick in das Verzeichnis der von Bahr verwendeten <a href=\"/bahr/node/3093\">Pseudonyme</a>.</dd>\r\n\t<dd>&nbsp;</dd>\r\n\t<dt>Anonymes</dt>\r\n\t<dd>Das Verzeichnis unterscheidet bei Veröffentlichung ohne Autornennung zwei Varianten. Wenn der Autor zwar nicht ober- oder unterhalb des Textes namentlich genannt wird, aber im Fließtext, wird trotzdem Bahr als Verfasser geführt. Das ist etwa der Fall, wenn eine Zeitung einen Leserbrief abdruckt: \"Der Wiener Dichter Hermann Bahr bittet uns um die Aufnahme folgender Worte\". Hier ist die Zuschreibung an den Autor aus dem Text eindeutig ersichtlich.<br />\r\n\tIm anderen Fall, wenn ein Text zwar eindeutig Bahr zuzuschreiben ist, aber für die zeitgenössische Leserschar eine solche Zuordnung nicht direkt möglich war, bleibt das Feld mit dem Autorennamen leer. In den Anmerkungen wird dafür begründet, warum der Text Bahr zuzuschreiben ist. Beispielhaft genannt seien viele Texte in der 2 Kreuzer-Ausgabe der Österreichischen Volkszeitung, die aus dem Feuilleton der Hauptausgabe nur einen Absatz herausnehmen. Die Zuschreibung an Bahr ist in solchen Fällen gesichert, zugleich aber für den ausschließlichen Leser der 2 Kreuzer-Ausgabe nicht nachvollziehbar.</dd>\r\n\t<dt>Als Autor der Theatermeldungen der \"Zeit\"</dt>\r\n\t<dd>Eine Unterform des vorigen Punktes stellen Theatermeldungen dar, die Bahr in der Wochenschrift \"Die Zeit\" abdruckte. Da er im Unterschied zur Arbeit in Tageszeitungen häufig mehrere Aufführungen besprach, der Autor aber mit Kürzel erst am Ende der letzten Besprechung genannt wird, wird das Kürzel trotzdem bei jedem Text als Autor gesetzt.</dd>\r\n\t<dt>Titellose Texte</dt>\r\n\t<dd>Im Fall von Texten ohne Titel, was gerade bei Nachtkritiken öfters der Fall ist, wird in eckigen Klammern entweder ein erklärender Titel gegeben oder zumindest eine grobe Einordnung vorgenommen, etwa [Burgtheater].</dd>\r\n\t<dd>&nbsp;</dd>\r\n\t<dt>Datentypen</dt>\r\n\t<dd>Sechs verschiedene Kategorien kommen zur Anwendung:\r\n\t<table>\r\n\t\t<tbody>\r\n\t\t\t<tr>\r\n\t\t\t\t<td>Artikel</td>\r\n\t\t\t\t<td>Alle Organe mit periodischem Erscheinen, sei es Tageszeitung, Wochenschrift, Monatsheft, Zweimonatsheft bis zur jährlichen Form in Gestalt von Jahrbuch, Almanach und Kalender.</td>\r\n\t\t\t</tr>\r\n\t\t\t<tr>\r\n\t\t\t\t<td>Buch</td>\r\n\t\t\t\t<td>Alle unter dem Namen Bahrs erschienene Monographien.</td>\r\n\t\t\t</tr>\r\n\t\t\t<tr>\r\n\t\t\t\t<td>Buchabschnitt</td>\r\n\t\t\t\t<td>Alle Aufsätze und Beiträge, die als Teil eines Sammelwerks erschienen sind. Auch Bahrs eigene Sammelwerke werden zusätzlich zum Eintrag als Buch so aufgelöst.</td>\r\n\t\t\t</tr>\r\n\t\t\t<tr>\r\n\t\t\t\t<td>Verschiedenes</td>\r\n\t\t\t\t<td>Ein Sammeltyp für verschiedene Drucke, die als Einzeldrucke aufgelegt sind, seien es Werbeprospekte, Handreichungen, Flugblätter etc.</td>\r\n\t\t\t</tr>\r\n\t\t\t<tr>\r\n\t\t\t\t<td>Unveröffentlicht</td>\r\n\t\t\t\t<td>Damit werden Theaterstücke Bahrs gesammelt, die zwar aufgeführt, aber nicht gedruckt wurden. Unpublizierte Manuskripte aus dem Nachlass werden nicht berücksichtigt.</td>\r\n\t\t\t</tr>\r\n\t\t\t<tr>\r\n\t\t\t\t<td>Film</td>\r\n\t\t\t\t<td>Auf Grundlage von Stücken Bahrs gedrehte Filme, wobei sich der Erfassungszeitraum auf die zu Lebzeiten erschienenen Filme beschränkt.</td>\r\n\t\t\t</tr>\r\n\t\t</tbody>\r\n\t</table>\r\n\t</dd>\r\n</dl>\r\n\r\n<h2>Weitere Angaben</h2>\r\n\r\n<dl>\r\n\t<dt>Jahrgangsübergreifende Publikationen</dt>\r\n\t<dd>Das Jahr wird möglichst genau eingegrenzt. Auch bei über den Jahreswechsel hinausreichenden Jahrgängen wird versucht, das Jahr, in dem das jeweilige Heft erschienen ist, zu ermitteln.</dd>\r\n\t<dt>Unsichere Erscheinungsjahre</dt>\r\n\t<dd>Aus technischen Gründen ist es nicht möglich, Jahreszahlen in \"[\" und \"]\" zu setzen. In Fällen, wo das Jahr eindeutig ermittelt werden kann, werden die Klammern stillschweigend weggelassen. In anderen Fällen wird auf die unsichere Datierung in den Anmerkungen eingegangen.</dd>\r\n\t<dt>Band/Jahrgang</dt>\r\n\t<dd>Die Zählung des jeweiligen Periodikums wird stillschweigend übernommen.</dd>\r\n\t<dt>Art</dt>\r\n\t<dd>Gibt eine grobe Einordnung in die Textsorte. So lassen sich zum Beispiel alle Stellungnahmen Bahrs im Zuge von Umfragen filtern, wenn man \"Umfrage\" sucht.</dd>\r\n\t<dt>Alternativ (Periodika)</dt>\r\n\t<dd>Gibt Abdrucke in Periodika an. Über die verwandtschaftlichen Verhältnisse (Vorabdruck, Wiederabdruck etc.) der Drucke wird nichts ausgesagt.</dd>\r\n\t<dt>Alternativ (Buch)</dt>\r\n\t<dd>Gibt Buchausgaben an. Kurztitel verweisen auf Werke Hermann Bahrs.</dd>\r\n\t<dt>Incipit</dt>\r\n\t<dd>Gibt den Anfang des Textes wieder. Kursivstellungen etc. werden nicht übernommen. In seltenen Fällen markiert ein \"|\" am Ende, dass der ganze Text abgedruckt ist.</dd>\r\n</dl>\r\n\r\n<h4>Sonstiges</h4>\r\n\r\n<ul>\r\n\t<li>Der Erfassungszeitraum beträgt 1863-1934, das heißt: Angaben, die sich außerhalb dieses Zeitraums befinden, werden zwar aufgenommen, sind aber nicht überprüft.</li>\r\n</ul>\r\n\r\n<dl>\r\n\t<dt>Was ist ein im \"Textverzeichnis\" zu findender \"Text\"?</dt>\r\n\t<dd>Das Textverständnis, das dem Verzeichnis zugrunde liegt, versteht unter einem Text die kleinste präsentierte publizistische Einheit. Begreifen lässt sich das beispielhaft an den \"Tagebüchern\": Am 24. Dezember 1916 erscheint das erste im Neuen Wiener Journal. Es umfasst Einträge zu den Tagen 5., 7., 8., 9. und 14 Dezember 1916. In der Buchausgabe wird der Block aber nicht gemeinsam kenntlich gemacht, sondern einzig eine chronologische Reihenfolge gewählt. Ein etwaiger Abdruck in anderen Tageszeitungen konzentriert sich üblicherweise auf einen Tag, so dass letztlich das \"Tagebuch\" vom 24. Dezember als fünf Texte gewertet werden müssen. Das ermöglicht erst, eine Datenbank nach den ersten Sätzen suchbar zu machen. Umgekehrt wird aber ein Zitat aus einem Text Bahrs nicht als eigener Text gewertet, wenn im Zusammenhang auf seine Unvollständigkeit verwiesen wird, etwa durch eine editorische Einleitung.</dd>\r\n\t<dt>Wie werden Bahrs Sammelwerke erfasst?</dt>\r\n\t<dd>Da ein Großteil von Bahrs kritischem Oeuvre in Sammelwerken zusammengestellt sind, werden entsprechend dem vorigen Punkt neben diesen selbst auch die einzelnen \"Kapitel\" aufgeführt. Ausgenommen davon sind Romane, die nicht in Kapitel, und Theaterstücke, die nicht in Akte aufgelöst werden.</dd>\r\n\t<dt>Eindeutigkeit</dt>\r\n\t<dd>Bei allen Einträgen wird versucht, Eindeutigkeit herzustellen. Wenn das nicht durch den Titel geschieht, sei es, weil Bahr den selben Titel mehrfach verwendet hat, sei es überhaupt mangels Titels, so werden sekundäre Angaben wie \"Besprochenes Werk\" gemacht. Diese sekundären Angaben dienen weiters dazu, die Suchergebnisse zu verbessern, indem etwa falsche Schreibweisen von Namen oder Originaltitel aufgeführt werden. Sie werden aber dort nicht eingesetzt, wo schon durch den Titel bzw. Untertitel die entsprechende Information zu gewinnen ist.</dd>\r\n</dl>\r\n",
+      "format": "full_html",
+      "processed": "<h4>Martin Anton Müller</h4>\n\n<p>Ein Textverzeichnis hat notwendigerweise editorische Prinzipien, die sich nicht immer von selbst ergeben. Diese Hinweise sollen das Verständnis erleichtern und die Handhabung vereinfachen.</p>\n\n<h2>Allgemeines</h2>\n\n<h2>Autorschaft</h2>\n\n<dl>\n\t<dt>Wer ist Bahr?</dt>\n\t<dd>Es handelt sich bei allen Texten um Werke von Hermann Bahr, gelegentlich auch um gemeinsam mit anderen verfasste Arbeiten. Sollte durch die Aufzählung der Autorennamen der Beitrag Bahrs nicht ersichtlich sein, empfiehlt sich ein Blick in das Verzeichnis der von Bahr verwendeten <a href=\"/bahr/node/3093\">Pseudonyme</a>.</dd>\n\t<dd>&nbsp;</dd>\n\t<dt>Anonymes</dt>\n\t<dd>Das Verzeichnis unterscheidet bei Veröffentlichung ohne Autornennung zwei Varianten. Wenn der Autor zwar nicht ober- oder unterhalb des Textes namentlich genannt wird, aber im Fließtext, wird trotzdem Bahr als Verfasser geführt. Das ist etwa der Fall, wenn eine Zeitung einen Leserbrief abdruckt: \"Der Wiener Dichter Hermann Bahr bittet uns um die Aufnahme folgender Worte\". Hier ist die Zuschreibung an den Autor aus dem Text eindeutig ersichtlich.<br>\n\tIm anderen Fall, wenn ein Text zwar eindeutig Bahr zuzuschreiben ist, aber für die zeitgenössische Leserschar eine solche Zuordnung nicht direkt möglich war, bleibt das Feld mit dem Autorennamen leer. In den Anmerkungen wird dafür begründet, warum der Text Bahr zuzuschreiben ist. Beispielhaft genannt seien viele Texte in der 2 Kreuzer-Ausgabe der Österreichischen Volkszeitung, die aus dem Feuilleton der Hauptausgabe nur einen Absatz herausnehmen. Die Zuschreibung an Bahr ist in solchen Fällen gesichert, zugleich aber für den ausschließlichen Leser der 2 Kreuzer-Ausgabe nicht nachvollziehbar.</dd>\n\t<dt>Als Autor der Theatermeldungen der \"Zeit\"</dt>\n\t<dd>Eine Unterform des vorigen Punktes stellen Theatermeldungen dar, die Bahr in der Wochenschrift \"Die Zeit\" abdruckte. Da er im Unterschied zur Arbeit in Tageszeitungen häufig mehrere Aufführungen besprach, der Autor aber mit Kürzel erst am Ende der letzten Besprechung genannt wird, wird das Kürzel trotzdem bei jedem Text als Autor gesetzt.</dd>\n\t<dt>Titellose Texte</dt>\n\t<dd>Im Fall von Texten ohne Titel, was gerade bei Nachtkritiken öfters der Fall ist, wird in eckigen Klammern entweder ein erklärender Titel gegeben oder zumindest eine grobe Einordnung vorgenommen, etwa [Burgtheater].</dd>\n\t<dd>&nbsp;</dd>\n\t<dt>Datentypen</dt>\n\t<dd>Sechs verschiedene Kategorien kommen zur Anwendung:\n\t<table>\n\t\t<tbody>\n\t\t\t<tr>\n\t\t\t\t<td>Artikel</td>\n\t\t\t\t<td>Alle Organe mit periodischem Erscheinen, sei es Tageszeitung, Wochenschrift, Monatsheft, Zweimonatsheft bis zur jährlichen Form in Gestalt von Jahrbuch, Almanach und Kalender.</td>\n\t\t\t</tr>\n\t\t\t<tr>\n\t\t\t\t<td>Buch</td>\n\t\t\t\t<td>Alle unter dem Namen Bahrs erschienene Monographien.</td>\n\t\t\t</tr>\n\t\t\t<tr>\n\t\t\t\t<td>Buchabschnitt</td>\n\t\t\t\t<td>Alle Aufsätze und Beiträge, die als Teil eines Sammelwerks erschienen sind. Auch Bahrs eigene Sammelwerke werden zusätzlich zum Eintrag als Buch so aufgelöst.</td>\n\t\t\t</tr>\n\t\t\t<tr>\n\t\t\t\t<td>Verschiedenes</td>\n\t\t\t\t<td>Ein Sammeltyp für verschiedene Drucke, die als Einzeldrucke aufgelegt sind, seien es Werbeprospekte, Handreichungen, Flugblätter etc.</td>\n\t\t\t</tr>\n\t\t\t<tr>\n\t\t\t\t<td>Unveröffentlicht</td>\n\t\t\t\t<td>Damit werden Theaterstücke Bahrs gesammelt, die zwar aufgeführt, aber nicht gedruckt wurden. Unpublizierte Manuskripte aus dem Nachlass werden nicht berücksichtigt.</td>\n\t\t\t</tr>\n\t\t\t<tr>\n\t\t\t\t<td>Film</td>\n\t\t\t\t<td>Auf Grundlage von Stücken Bahrs gedrehte Filme, wobei sich der Erfassungszeitraum auf die zu Lebzeiten erschienenen Filme beschränkt.</td>\n\t\t\t</tr>\n\t\t</tbody>\n\t</table>\n\t</dd>\n</dl>\n\n<h2>Weitere Angaben</h2>\n\n<dl>\n\t<dt>Jahrgangsübergreifende Publikationen</dt>\n\t<dd>Das Jahr wird möglichst genau eingegrenzt. Auch bei über den Jahreswechsel hinausreichenden Jahrgängen wird versucht, das Jahr, in dem das jeweilige Heft erschienen ist, zu ermitteln.</dd>\n\t<dt>Unsichere Erscheinungsjahre</dt>\n\t<dd>Aus technischen Gründen ist es nicht möglich, Jahreszahlen in \"[\" und \"]\" zu setzen. In Fällen, wo das Jahr eindeutig ermittelt werden kann, werden die Klammern stillschweigend weggelassen. In anderen Fällen wird auf die unsichere Datierung in den Anmerkungen eingegangen.</dd>\n\t<dt>Band/Jahrgang</dt>\n\t<dd>Die Zählung des jeweiligen Periodikums wird stillschweigend übernommen.</dd>\n\t<dt>Art</dt>\n\t<dd>Gibt eine grobe Einordnung in die Textsorte. So lassen sich zum Beispiel alle Stellungnahmen Bahrs im Zuge von Umfragen filtern, wenn man \"Umfrage\" sucht.</dd>\n\t<dt>Alternativ (Periodika)</dt>\n\t<dd>Gibt Abdrucke in Periodika an. Über die verwandtschaftlichen Verhältnisse (Vorabdruck, Wiederabdruck etc.) der Drucke wird nichts ausgesagt.</dd>\n\t<dt>Alternativ (Buch)</dt>\n\t<dd>Gibt Buchausgaben an. Kurztitel verweisen auf Werke Hermann Bahrs.</dd>\n\t<dt>Incipit</dt>\n\t<dd>Gibt den Anfang des Textes wieder. Kursivstellungen etc. werden nicht übernommen. In seltenen Fällen markiert ein \"|\" am Ende, dass der ganze Text abgedruckt ist.</dd>\n</dl>\n\n<h4>Sonstiges</h4>\n\n<ul>\n\t<li>Der Erfassungszeitraum beträgt 1863-1934, das heißt: Angaben, die sich außerhalb dieses Zeitraums befinden, werden zwar aufgenommen, sind aber nicht überprüft.</li>\n</ul>\n\n<dl>\n\t<dt>Was ist ein im \"Textverzeichnis\" zu findender \"Text\"?</dt>\n\t<dd>Das Textverständnis, das dem Verzeichnis zugrunde liegt, versteht unter einem Text die kleinste präsentierte publizistische Einheit. Begreifen lässt sich das beispielhaft an den \"Tagebüchern\": Am 24. Dezember 1916 erscheint das erste im Neuen Wiener Journal. Es umfasst Einträge zu den Tagen 5., 7., 8., 9. und 14 Dezember 1916. In der Buchausgabe wird der Block aber nicht gemeinsam kenntlich gemacht, sondern einzig eine chronologische Reihenfolge gewählt. Ein etwaiger Abdruck in anderen Tageszeitungen konzentriert sich üblicherweise auf einen Tag, so dass letztlich das \"Tagebuch\" vom 24. Dezember als fünf Texte gewertet werden müssen. Das ermöglicht erst, eine Datenbank nach den ersten Sätzen suchbar zu machen. Umgekehrt wird aber ein Zitat aus einem Text Bahrs nicht als eigener Text gewertet, wenn im Zusammenhang auf seine Unvollständigkeit verwiesen wird, etwa durch eine editorische Einleitung.</dd>\n\t<dt>Wie werden Bahrs Sammelwerke erfasst?</dt>\n\t<dd>Da ein Großteil von Bahrs kritischem Oeuvre in Sammelwerken zusammengestellt sind, werden entsprechend dem vorigen Punkt neben diesen selbst auch die einzelnen \"Kapitel\" aufgeführt. Ausgenommen davon sind Romane, die nicht in Kapitel, und Theaterstücke, die nicht in Akte aufgelöst werden.</dd>\n\t<dt>Eindeutigkeit</dt>\n\t<dd>Bei allen Einträgen wird versucht, Eindeutigkeit herzustellen. Wenn das nicht durch den Titel geschieht, sei es, weil Bahr den selben Titel mehrfach verwendet hat, sei es überhaupt mangels Titels, so werden sekundäre Angaben wie \"Besprochenes Werk\" gemacht. Diese sekundären Angaben dienen weiters dazu, die Suchergebnisse zu verbessern, indem etwa falsche Schreibweisen von Namen oder Originaltitel aufgeführt werden. Sie werden aber dort nicht eingesetzt, wo schon durch den Titel bzw. Untertitel die entsprechende Information zu gewinnen ist.</dd>\n</dl>\n",
+      "summary": ""
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "016d417b-5c75-4303-8420-18e221e9e269",
+        "meta": {
+          "drupal_internal__target_id": "page"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/5155e2c2-8c8d-4344-806a-7a7f268e2dd2/node_type?resourceVersion=id%3A4161"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/5155e2c2-8c8d-4344-806a-7a7f268e2dd2/relationships/node_type?resourceVersion=id%3A4161"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "2ba5c1f1-fadb-4c07-a22f-4a6ddefa93fe",
+        "meta": {
+          "drupal_internal__target_id": 4
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/5155e2c2-8c8d-4344-806a-7a7f268e2dd2/revision_uid?resourceVersion=id%3A4161"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/5155e2c2-8c8d-4344-806a-7a7f268e2dd2/relationships/revision_uid?resourceVersion=id%3A4161"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/5155e2c2-8c8d-4344-806a-7a7f268e2dd2/uid?resourceVersion=id%3A4161"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/5155e2c2-8c8d-4344-806a-7a7f268e2dd2/relationships/uid?resourceVersion=id%3A4161"
+        }
+      }
+    }
+  }
+}

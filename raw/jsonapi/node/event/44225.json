@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "322e0f70-22ab-4af1-b8b5-9fa23ad0ca2b",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/322e0f70-22ab-4af1-b8b5-9fa23ad0ca2b?resourceVersion=id%3A3139"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/322e0f70-22ab-4af1-b8b5-9fa23ad0ca2b?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44225,
+    "drupal_internal__vid": 3139,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Salzburger Kriegsfürsorge",
+    "created": "2011-09-29T08:18:09+00:00",
+    "changed": "2011-09-29T08:28:05+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44225",
+      "pid": 1118,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Eine Karte der \"Salzburger Kriegsfürsorge für südländische Flüchtlinge\" kommentiert Kurt Ifkovits: \"H. B. war während des Ersten Weltkriegs im Salzburger Arbeitsbeschaffungsamt sowie in der Kriegsfürsorge für südländische Flüchtlinge tätig.\"",
+      "format": "full_html",
+      "processed": "Eine Karte der \"Salzburger Kriegsfürsorge für südländische Flüchtlinge\" kommentiert Kurt Ifkovits: \"H. B. war während des Ersten Weltkriegs im Salzburger Arbeitsbeschaffungsamt sowie in der Kriegsfürsorge für südländische Flüchtlinge tätig.\"",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1916-12-26",
+      "end_value": "1916-12-26"
+    },
+    "field_sources": [
+      "Bahr/Kvapil, 411. (Brief vom 26.12.1916)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/322e0f70-22ab-4af1-b8b5-9fa23ad0ca2b/node_type?resourceVersion=id%3A3139"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/322e0f70-22ab-4af1-b8b5-9fa23ad0ca2b/relationships/node_type?resourceVersion=id%3A3139"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/322e0f70-22ab-4af1-b8b5-9fa23ad0ca2b/revision_uid?resourceVersion=id%3A3139"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/322e0f70-22ab-4af1-b8b5-9fa23ad0ca2b/relationships/revision_uid?resourceVersion=id%3A3139"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/322e0f70-22ab-4af1-b8b5-9fa23ad0ca2b/uid?resourceVersion=id%3A3139"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/322e0f70-22ab-4af1-b8b5-9fa23ad0ca2b/relationships/uid?resourceVersion=id%3A3139"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/322e0f70-22ab-4af1-b8b5-9fa23ad0ca2b/field_event_type?resourceVersion=id%3A3139"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/322e0f70-22ab-4af1-b8b5-9fa23ad0ca2b/relationships/field_event_type?resourceVersion=id%3A3139"
+        }
+      }
+    }
+  }
+}

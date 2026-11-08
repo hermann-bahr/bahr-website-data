@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "dec4e3b0-ff4c-4798-962b-c9d77550231b",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/dec4e3b0-ff4c-4798-962b-c9d77550231b?resourceVersion=id%3A2620"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/dec4e3b0-ff4c-4798-962b-c9d77550231b?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38799,
+    "drupal_internal__vid": 2620,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Radfahrunfall",
+    "created": "2011-02-01T15:44:57+00:00",
+    "changed": "2011-07-18T14:49:00+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38799",
+      "pid": 547,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 26. April 1896 radelte Bahr nachts von Klosterneuburg nach Hause, als ihm ein Hund in die Speichen rannte und er sich einige blaue Flecken im Gesicht und an den Knieen holte. Es spricht für seine Begeisterung für das Radfahren, dass er auch weiterhin seinem Vater empfiehlt, damit zu beginnen.",
+      "format": "full_html",
+      "processed": "Am 26. April 1896 radelte Bahr nachts von Klosterneuburg nach Hause, als ihm ein Hund in die Speichen rannte und er sich einige blaue Flecken im Gesicht und an den Knieen holte. Es spricht für seine Begeisterung für das Radfahren, dass er auch weiterhin seinem Vater empfiehlt, damit zu beginnen.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1896-04-26",
+      "end_value": "1896-04-26"
+    },
+    "field_sources": [
+      "Brief an den Vater, 30.4.1896"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/dec4e3b0-ff4c-4798-962b-c9d77550231b/node_type?resourceVersion=id%3A2620"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/dec4e3b0-ff4c-4798-962b-c9d77550231b/relationships/node_type?resourceVersion=id%3A2620"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/dec4e3b0-ff4c-4798-962b-c9d77550231b/revision_uid?resourceVersion=id%3A2620"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/dec4e3b0-ff4c-4798-962b-c9d77550231b/relationships/revision_uid?resourceVersion=id%3A2620"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/dec4e3b0-ff4c-4798-962b-c9d77550231b/uid?resourceVersion=id%3A2620"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/dec4e3b0-ff4c-4798-962b-c9d77550231b/relationships/uid?resourceVersion=id%3A2620"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/dec4e3b0-ff4c-4798-962b-c9d77550231b/field_event_type?resourceVersion=id%3A2620"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/dec4e3b0-ff4c-4798-962b-c9d77550231b/relationships/field_event_type?resourceVersion=id%3A2620"
+        }
+      }
+    }
+  }
+}

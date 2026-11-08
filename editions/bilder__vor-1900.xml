@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bilder__vor-1900" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Vor 1900</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">28303</idno>
+        <idno type="drupal-alias">/bild/28303</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bild/28303">https://bahr.univie.ac.at/bild/28303</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="7" key="bilder">Bilder</term>
+          <term n="56" key="vor-1900" type="eintrag">Vor 1900</term>
+        </keywords>
+        <classCode scheme="drupal-type">image</classCode>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2010-12-14T16:21:05+00:00" type="created">angelegt in Drupal</change>
+      <change when="2010-12-14T16:21:05+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <figure>
+          <graphic url="files/bahr_bilder/1899_sitzend.jpg"/>
+          <figDesc>Vor 1900</figDesc>
+        </figure>
+        <p>
+          <hi rend="italic">Abbildung aus dem Hermann Bahr-Buch, Berlin: Fischer 1913, nach S. 208.</hi>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,90 @@
+{
+  "type": "node--page",
+  "id": "cdc5d88c-1c27-4a02-abc5-0c24b56a9186",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/page/cdc5d88c-1c27-4a02-abc5-0c24b56a9186?resourceVersion=id%3A4040"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/page/cdc5d88c-1c27-4a02-abc5-0c24b56a9186?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 17868,
+    "drupal_internal__vid": 4040,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T17:01:03+00:00",
+    "status": true,
+    "title": "Korrespondenz von und an Bahr",
+    "created": "2010-01-15T11:10:11+00:00",
+    "changed": "2011-11-30T09:16:21+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/korrespondenz-von-und-bahr",
+      "pid": 18,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bislang fehlt eine systematische, gedruckte Aufbereitung der Briefwechsel, die Hermann Bahr mit seinen Zeitgenossen führte. Im Nachlass sind 50 Schachteln mit Briefen aufbewahrt. <strong><a href=\"/bahr/node/49701\">Hier </strong></a> ein Verzeichnis der Korrespondenz, übernommen vom <a href=\"http://www.khm.at/fileadmin/content/OETM/Nachlaesse/Bahr_Korrespondenz.pdf\">Österreichischen Theatermuseum</a>.\r\n\r\nSoweit Briefe von oder an Bahr gedruckt wurden, sowie allgemeine Informationen zu den jeweiligen Briefwechseln, lassen sich die bibliografischen Hinweise <strong><a href=\"/bahr/node/22107\">hier</strong> einsehen.\r\n\r\n",
+      "format": "full_html",
+      "processed": "Bislang fehlt eine systematische, gedruckte Aufbereitung der Briefwechsel, die Hermann Bahr mit seinen Zeitgenossen führte. Im Nachlass sind 50 Schachteln mit Briefen aufbewahrt. <strong><a href=\"/bahr/node/49701\">Hier </a></strong> ein Verzeichnis der Korrespondenz, übernommen vom <a href=\"http://www.khm.at/fileadmin/content/OETM/Nachlaesse/Bahr_Korrespondenz.pdf\">Österreichischen Theatermuseum</a>.\n\nSoweit Briefe von oder an Bahr gedruckt wurden, sowie allgemeine Informationen zu den jeweiligen Briefwechseln, lassen sich die bibliografischen Hinweise <strong><a href=\"/bahr/node/22107\">hier</a></strong> einsehen.\n\n",
+      "summary": null
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "016d417b-5c75-4303-8420-18e221e9e269",
+        "meta": {
+          "drupal_internal__target_id": "page"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/cdc5d88c-1c27-4a02-abc5-0c24b56a9186/node_type?resourceVersion=id%3A4040"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/cdc5d88c-1c27-4a02-abc5-0c24b56a9186/relationships/node_type?resourceVersion=id%3A4040"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/cdc5d88c-1c27-4a02-abc5-0c24b56a9186/revision_uid?resourceVersion=id%3A4040"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/cdc5d88c-1c27-4a02-abc5-0c24b56a9186/relationships/revision_uid?resourceVersion=id%3A4040"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/cdc5d88c-1c27-4a02-abc5-0c24b56a9186/uid?resourceVersion=id%3A4040"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/cdc5d88c-1c27-4a02-abc5-0c24b56a9186/relationships/uid?resourceVersion=id%3A4040"
+        }
+      }
+    }
+  }
+}

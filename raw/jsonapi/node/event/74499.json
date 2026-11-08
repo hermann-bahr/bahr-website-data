@@ -1,0 +1,123 @@
+{
+  "type": "node--event",
+  "id": "54784e87-4f22-4813-bb54-59ace392ca6c",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/54784e87-4f22-4813-bb54-59ace392ca6c?resourceVersion=id%3A3809"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/54784e87-4f22-4813-bb54-59ace392ca6c?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74499,
+    "drupal_internal__vid": 3809,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Hasskampagne",
+    "created": "2013-04-05T10:45:04+00:00",
+    "changed": "2013-04-05T10:45:04+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/74499",
+      "pid": 1872,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Vom 16. April bis zum 1. November 1893 läuft in Georg von Schönerers Halbmonatsschrift \"Unverfälschten deutschen Worten\" eine Kampagne gegen den\" Juden- und Franzosenfreund\" in Auspitzers \"Judenblatt\" Deutsche Zeitung.",
+      "format": "full_html",
+      "processed": "Vom 16. April bis zum 1. November 1893 läuft in Georg von Schönerers Halbmonatsschrift \"Unverfälschten deutschen Worten\" eine Kampagne gegen den\" Juden- und Franzosenfreund\" in Auspitzers \"Judenblatt\" Deutsche Zeitung.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1893-04-16",
+      "end_value": "1893-11-01"
+    },
+    "field_sources": [
+      "[O. V., O. T.] Unverfälschte deutsche Worte, 11 (1893) \\#8, 95. (16. April 1893) ",
+      "K. v. M.O.: Vom Mepherlblatt,  #10, 112-113. (16. Mai 1893)",
+      "K. v. M. O.: Vom Mepherlblatt,  #12, 137. (16. Juni 1893)",
+      "R. [!] v. M. O.: Vom Mepherlblatt,  #13, 153-154. (1. Juli 1893)",
+      "J. C. K. [=Josef Carl Kernreuter]: Erinnerung an die Lieblinge Hermann Bahrs, #16, 187-189. (16. August 1893)",
+      "K. v. M. O.: Vom Mepherlblatt,  #16, 189-190. (16. August 1893)",
+      "K. v. M. O.: Vom Mepherlblatt. Warum Nr. 28 kein Antisemit ist, \\#17, 198-199. (1. September 1893)",
+      "[O.V.]: Vom Mepherlblatt,  #21, 246-247. (1. November 1893)} \r\n"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/54784e87-4f22-4813-bb54-59ace392ca6c/node_type?resourceVersion=id%3A3809"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/54784e87-4f22-4813-bb54-59ace392ca6c/relationships/node_type?resourceVersion=id%3A3809"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/54784e87-4f22-4813-bb54-59ace392ca6c/revision_uid?resourceVersion=id%3A3809"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/54784e87-4f22-4813-bb54-59ace392ca6c/relationships/revision_uid?resourceVersion=id%3A3809"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/54784e87-4f22-4813-bb54-59ace392ca6c/uid?resourceVersion=id%3A3809"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/54784e87-4f22-4813-bb54-59ace392ca6c/relationships/uid?resourceVersion=id%3A3809"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/54784e87-4f22-4813-bb54-59ace392ca6c/field_event_type?resourceVersion=id%3A3809"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/54784e87-4f22-4813-bb54-59ace392ca6c/relationships/field_event_type?resourceVersion=id%3A3809"
+        }
+      }
+    }
+  }
+}

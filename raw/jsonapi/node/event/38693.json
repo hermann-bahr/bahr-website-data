@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "eaa1f036-fdee-4363-bb32-933477cfbef4",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/eaa1f036-fdee-4363-bb32-933477cfbef4?resourceVersion=id%3A2556"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/eaa1f036-fdee-4363-bb32-933477cfbef4?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38693,
+    "drupal_internal__vid": 2556,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Nora",
+    "created": "2010-12-27T15:11:05+00:00",
+    "changed": "2011-11-03T11:36:59+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38693",
+      "pid": 443,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Als letztes Stück bringen die württembergischen Hofschauspieler bei ihrem Gastspiel in Salzburg am 12. Juli 1881 \"Nora\" von Henrik Ibsen. Im Herbst 1881 publiziert Bahr (der eigenen, ungenauen, Erinnerung zufolge) seinen ersten journalistischen Text, eine Replik auf die vernichtende Nora-Kritik von Hugo Wittmann in der Neuen Freien Presse, worin auch die Vorzüglichkeit dieser Aufführung gelobt wird. ",
+      "format": "full_html",
+      "processed": "Als letztes Stück bringen die württembergischen Hofschauspieler bei ihrem Gastspiel in Salzburg am 12. Juli 1881 \"Nora\" von Henrik Ibsen. Im Herbst 1881 publiziert Bahr (der eigenen, ungenauen, Erinnerung zufolge) seinen ersten journalistischen Text, eine Replik auf die vernichtende Nora-Kritik von Hugo Wittmann in der Neuen Freien Presse, worin auch die Vorzüglichkeit dieser Aufführung gelobt wird. ",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1881-07-12",
+      "end_value": "1881-07-12"
+    },
+    "field_sources": [
+      "Salzburger Volksblatt, 11 (1881) #83, 2. (12.7.1881)",
+      "Hermann von Kürenberg: Eine Kritik der Kritik. Ein offener Brief an Herrn H. Wen. Salzburger Nachrichten, 1 (1881) #111, 2-3. (16.9.1881)</i>"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/eaa1f036-fdee-4363-bb32-933477cfbef4/node_type?resourceVersion=id%3A2556"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/eaa1f036-fdee-4363-bb32-933477cfbef4/relationships/node_type?resourceVersion=id%3A2556"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/eaa1f036-fdee-4363-bb32-933477cfbef4/revision_uid?resourceVersion=id%3A2556"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/eaa1f036-fdee-4363-bb32-933477cfbef4/relationships/revision_uid?resourceVersion=id%3A2556"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/eaa1f036-fdee-4363-bb32-933477cfbef4/uid?resourceVersion=id%3A2556"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/eaa1f036-fdee-4363-bb32-933477cfbef4/relationships/uid?resourceVersion=id%3A2556"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/eaa1f036-fdee-4363-bb32-933477cfbef4/field_event_type?resourceVersion=id%3A2556"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/eaa1f036-fdee-4363-bb32-933477cfbef4/relationships/field_event_type?resourceVersion=id%3A2556"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "9936f59e-68f9-4d7e-80aa-8ed41848e2aa",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/9936f59e-68f9-4d7e-80aa-8ed41848e2aa?resourceVersion=id%3A2786"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/9936f59e-68f9-4d7e-80aa-8ed41848e2aa?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39005,
+    "drupal_internal__vid": 2786,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Nini",
+    "created": "2011-03-24T11:34:21+00:00",
+    "changed": "2012-12-07T11:37:10+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39005",
+      "pid": 741,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Während der Weltausstellung lernt Bahr auch ein Ladenmädchen kennen, das nach einiger Zeit bei ihrer Tante aus und bei ihm einzieht. Er weiß sich nur durch Flucht zu helfen.[1] Ab dem Herbst 1889 sind Briefe von Bahrs „kleiner Freundin“ Nini erhalten.[2] Es überwiegen die Klagen, nichts mehr von ihm zu hören. Ein letzter am 23. Mai 1891 wählt einen deutlich distanzierteren Ton und lässt auf die Klage seines Schweigens die Bitte nach Aushilfe in einer finanziellen Verlegenheit folgen. Im Frühling 1890 schreibt er an Arno Holz [3], der Name der Hauptfigur seines ersten Romans \"Die gute Schule\" müsse dringend geändert werden:<blockquote>Die Heldin heißt nicht, wie ich immer schrieb, Nini, sondern Fifi. Das ist keine Caprice warum ich diese Änderung dringend verlange, sondern eine lange Geschichte, die ich Ihnen nicht erzählen kann, die Sie aber später sich bei mir selber erzählen werden, wenn Sie die Widmung des Buches gelesen haben werden. Also, bitte, überall Fifi.</blockquote>",
+      "format": "full_html",
+      "processed": "Während der Weltausstellung lernt Bahr auch ein Ladenmädchen kennen, das nach einiger Zeit bei ihrer Tante aus und bei ihm einzieht. Er weiß sich nur durch Flucht zu helfen.[1] Ab dem Herbst 1889 sind Briefe von Bahrs „kleiner Freundin“ Nini erhalten.[2] Es überwiegen die Klagen, nichts mehr von ihm zu hören. Ein letzter am 23. Mai 1891 wählt einen deutlich distanzierteren Ton und lässt auf die Klage seines Schweigens die Bitte nach Aushilfe in einer finanziellen Verlegenheit folgen. Im Frühling 1890 schreibt er an Arno Holz [3], der Name der Hauptfigur seines ersten Romans \"Die gute Schule\" müsse dringend geändert werden:<blockquote>Die Heldin heißt nicht, wie ich immer schrieb, Nini, sondern Fifi. Das ist keine Caprice warum ich diese Änderung dringend verlange, sondern eine lange Geschichte, die ich Ihnen nicht erzählen kann, die Sie aber später sich bei mir selber erzählen werden, wenn Sie die Widmung des Buches gelesen haben werden. Also, bitte, überall Fifi.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1889-07-01",
+      "end_value": "1889-07-01"
+    },
+    "field_sources": [
+      "[1] Selbstbildnis, 243",
+      "[2] Ihre Briefe im Nachlass, Kiste 78, Biographisches",
+      "[3] An Holz im Nachlass, Kiste 56, Abschriften von Briefen, Linz, 5.4.1890."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9936f59e-68f9-4d7e-80aa-8ed41848e2aa/node_type?resourceVersion=id%3A2786"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9936f59e-68f9-4d7e-80aa-8ed41848e2aa/relationships/node_type?resourceVersion=id%3A2786"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9936f59e-68f9-4d7e-80aa-8ed41848e2aa/revision_uid?resourceVersion=id%3A2786"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9936f59e-68f9-4d7e-80aa-8ed41848e2aa/relationships/revision_uid?resourceVersion=id%3A2786"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9936f59e-68f9-4d7e-80aa-8ed41848e2aa/uid?resourceVersion=id%3A2786"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9936f59e-68f9-4d7e-80aa-8ed41848e2aa/relationships/uid?resourceVersion=id%3A2786"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9936f59e-68f9-4d7e-80aa-8ed41848e2aa/field_event_type?resourceVersion=id%3A2786"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9936f59e-68f9-4d7e-80aa-8ed41848e2aa/relationships/field_event_type?resourceVersion=id%3A2786"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "type": "node--list",
+  "id": "bb4cf1c3-15d6-4452-a5e2-d6bc8cce4ec9",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/list/bb4cf1c3-15d6-4452-a5e2-d6bc8cce4ec9?resourceVersion=id%3A4276"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/list/bb4cf1c3-15d6-4452-a5e2-d6bc8cce4ec9?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49702,
+    "drupal_internal__vid": 4276,
+    "langcode": "de",
+    "revision_timestamp": "2024-03-07T21:49:34+00:00",
+    "status": true,
+    "title": "Tagebücher, Skizzenbücher, Notizhefte. Personen- und Werkverzeichnis",
+    "created": "2011-11-30T09:37:44+00:00",
+    "changed": "2024-03-07T21:49:34+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/liste/49702",
+      "pid": 1516,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<p xmlns:fn=\"http://www.w3.org/2005/xpath-functions\" xmlns:xs=\"http://www.w3.org/2001/XMLSchema\"><strong>Hermann Bahr: Tagebücher, Skizzenbücher, Notizhefte. Hg. Moritz Csáky. Wien, Köln, Weimar: Böhlau 1994-2003</strong></p><ul xmlns:fn=\"http://www.w3.org/2005/xpath-functions\" xmlns:xs=\"http://www.w3.org/2001/XMLSchema\"><li><span class=\"fett\"><strong>I</strong> 1885—1890. Bearbeitet von Lottelis Moser und Helene Zand, 1994.</span></li><li><span class=\"fett\"><strong>II</strong> 1890–1900. Bearbeitet von Helene Zand, Lukas Mayerhofer und Lottelis Moser, 1996.</span></li><li><span class=\"fett\"><strong>III</strong> 1901–1903. Bearbeitet von Helene Zand und Lukas Mayerhofer, 1997.</span></li><li><span class=\"fett\"><strong>IV</strong> 1904–1905. Bearbeitet von Lukas Mayerhofer und Helene Zand, 2000.</span></li><li><span class=\"fett\"><strong>V</strong> 1906–1908. Bearbeitet von Kurt Ifkovits und Lukas Mayerhofer, 2003.</span></li></ul><p><span class=\"fett\"><strong>Eine überarbeitete Fassung findet sich seit Februar 2024 hier: </strong></span><a href=\"https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html\"><span class=\"fett\"><strong>https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html</strong></span></a></p>",
+      "format": "full_html",
+      "processed": "<p xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\"><strong>Hermann Bahr: Tagebücher, Skizzenbücher, Notizhefte. Hg. Moritz Csáky. Wien, Köln, Weimar: Böhlau 1994-2003</strong></p><ul xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\"><li><span class=\"fett\"><strong>I</strong> 1885—1890. Bearbeitet von Lottelis Moser und Helene Zand, 1994.</span></li><li><span class=\"fett\"><strong>II</strong> 1890–1900. Bearbeitet von Helene Zand, Lukas Mayerhofer und Lottelis Moser, 1996.</span></li><li><span class=\"fett\"><strong>III</strong> 1901–1903. Bearbeitet von Helene Zand und Lukas Mayerhofer, 1997.</span></li><li><span class=\"fett\"><strong>IV</strong> 1904–1905. Bearbeitet von Lukas Mayerhofer und Helene Zand, 2000.</span></li><li><span class=\"fett\"><strong>V</strong> 1906–1908. Bearbeitet von Kurt Ifkovits und Lukas Mayerhofer, 2003.</span></li></ul><p><span class=\"fett\"><strong>Eine überarbeitete Fassung findet sich seit Februar 2024 hier: </strong></span><a href=\"https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html\"><span class=\"fett\"><strong>https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html</strong></span></a></p>",
+      "summary": ""
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "0707e5c0-a5c6-4680-819e-15e5c474e651",
+        "meta": {
+          "drupal_internal__target_id": "list"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/list/bb4cf1c3-15d6-4452-a5e2-d6bc8cce4ec9/node_type?resourceVersion=id%3A4276"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/list/bb4cf1c3-15d6-4452-a5e2-d6bc8cce4ec9/relationships/node_type?resourceVersion=id%3A4276"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/list/bb4cf1c3-15d6-4452-a5e2-d6bc8cce4ec9/revision_uid?resourceVersion=id%3A4276"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/list/bb4cf1c3-15d6-4452-a5e2-d6bc8cce4ec9/relationships/revision_uid?resourceVersion=id%3A4276"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/list/bb4cf1c3-15d6-4452-a5e2-d6bc8cce4ec9/uid?resourceVersion=id%3A4276"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/list/bb4cf1c3-15d6-4452-a5e2-d6bc8cce4ec9/relationships/uid?resourceVersion=id%3A4276"
+        }
+      }
+    }
+  }
+}

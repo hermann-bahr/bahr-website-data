@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "dadf238a-c738-407d-9020-bd7de3f79aa4",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/dadf238a-c738-407d-9020-bd7de3f79aa4?resourceVersion=id%3A2654"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/dadf238a-c738-407d-9020-bd7de3f79aa4?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38836,
+    "drupal_internal__vid": 2654,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Salzburger Nachrichten",
+    "created": "2011-02-04T14:47:33+00:00",
+    "changed": "2012-01-04T12:07:51+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38836",
+      "pid": 581,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 4. September 1881 beginnt Bahrs publizistische Laufbahn bei den drei Mal in der Woche erscheinenden, liberal orientierten \"Salzburger Nachrichten\". Die Zeitung war in ihrem ersten (und letzten) Erscheinungsjahr und hatte zuvor positiv über Bahrs Maturarede berichtet. Bahr, der verschiedene Pseudonyme und Kürzel verwendete (\"Hermann von Kürenberg\", \"B.\" und \"Bahr\"), aber nie unter vollem Namen erschien, verfasste Reisebriefe aus München und von seiner Maturareise in die Schweiz, möglicherweise einen Katastrophenbericht vom Felssturz in Elm im Kanton Glarus, vor allem aber eine Kritik der Nora-Kritik in der Neuen Freien Presse. Zuletzt erschien von ihm am 9. November 1881 eine Ausstellungsbesprechung des im Wiener Künstlerhaus ausstellenden Wassili Wassiljewitsch Wereschtschagin.",
+      "format": "full_html",
+      "processed": "Am 4. September 1881 beginnt Bahrs publizistische Laufbahn bei den drei Mal in der Woche erscheinenden, liberal orientierten \"Salzburger Nachrichten\". Die Zeitung war in ihrem ersten (und letzten) Erscheinungsjahr und hatte zuvor positiv über Bahrs Maturarede berichtet. Bahr, der verschiedene Pseudonyme und Kürzel verwendete (\"Hermann von Kürenberg\", \"B.\" und \"Bahr\"), aber nie unter vollem Namen erschien, verfasste Reisebriefe aus München und von seiner Maturareise in die Schweiz, möglicherweise einen Katastrophenbericht vom Felssturz in Elm im Kanton Glarus, vor allem aber eine Kritik der Nora-Kritik in der Neuen Freien Presse. Zuletzt erschien von ihm am 9. November 1881 eine Ausstellungsbesprechung des im Wiener Künstlerhaus ausstellenden Wassili Wassiljewitsch Wereschtschagin.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1881-09-04",
+      "end_value": "1881-11-09"
+    },
+    "field_sources": [
+      "Tagebuch. Berchtesgaden, 1. Januar 1921. In: Liebe der Lebenden, 15-16.",
+      "Selbstbildnis, 193"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/dadf238a-c738-407d-9020-bd7de3f79aa4/node_type?resourceVersion=id%3A2654"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/dadf238a-c738-407d-9020-bd7de3f79aa4/relationships/node_type?resourceVersion=id%3A2654"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/dadf238a-c738-407d-9020-bd7de3f79aa4/revision_uid?resourceVersion=id%3A2654"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/dadf238a-c738-407d-9020-bd7de3f79aa4/relationships/revision_uid?resourceVersion=id%3A2654"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/dadf238a-c738-407d-9020-bd7de3f79aa4/uid?resourceVersion=id%3A2654"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/dadf238a-c738-407d-9020-bd7de3f79aa4/relationships/uid?resourceVersion=id%3A2654"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "d579e54c-64dd-4193-a9ef-da87efb3ed16",
+          "meta": {
+            "drupal_internal__target_id": 8
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/dadf238a-c738-407d-9020-bd7de3f79aa4/field_event_type?resourceVersion=id%3A2654"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/dadf238a-c738-407d-9020-bd7de3f79aa4/relationships/field_event_type?resourceVersion=id%3A2654"
+        }
+      }
+    }
+  }
+}

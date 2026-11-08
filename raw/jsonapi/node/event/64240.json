@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "6ff3b6ed-d740-4c6f-97eb-1fd4aa195fbe",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/6ff3b6ed-d740-4c6f-97eb-1fd4aa195fbe?resourceVersion=id%3A3630"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/6ff3b6ed-d740-4c6f-97eb-1fd4aa195fbe?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 64240,
+    "drupal_internal__vid": 3630,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "AS",
+    "created": "2012-05-23T18:15:32+00:00",
+    "changed": "2012-05-23T18:15:32+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/64240",
+      "pid": 1673,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 4. Februar 1903 ist Schnitzler bei Bahr.",
+      "format": "full_html",
+      "processed": "Am 4. Februar 1903 ist Schnitzler bei Bahr.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1903-02-04",
+      "end_value": "1903-02-04"
+    },
+    "field_sources": [
+      "Schnitzler: Tagebücher, III, 14."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6ff3b6ed-d740-4c6f-97eb-1fd4aa195fbe/node_type?resourceVersion=id%3A3630"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6ff3b6ed-d740-4c6f-97eb-1fd4aa195fbe/relationships/node_type?resourceVersion=id%3A3630"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6ff3b6ed-d740-4c6f-97eb-1fd4aa195fbe/revision_uid?resourceVersion=id%3A3630"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6ff3b6ed-d740-4c6f-97eb-1fd4aa195fbe/relationships/revision_uid?resourceVersion=id%3A3630"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6ff3b6ed-d740-4c6f-97eb-1fd4aa195fbe/uid?resourceVersion=id%3A3630"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6ff3b6ed-d740-4c6f-97eb-1fd4aa195fbe/relationships/uid?resourceVersion=id%3A3630"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6ff3b6ed-d740-4c6f-97eb-1fd4aa195fbe/field_event_type?resourceVersion=id%3A3630"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6ff3b6ed-d740-4c6f-97eb-1fd4aa195fbe/relationships/field_event_type?resourceVersion=id%3A3630"
+        }
+      }
+    }
+  }
+}

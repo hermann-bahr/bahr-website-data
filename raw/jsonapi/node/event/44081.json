@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "31372e5b-1133-4708-b28d-81b7bb82493c",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/31372e5b-1133-4708-b28d-81b7bb82493c?resourceVersion=id%3A2998"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/31372e5b-1133-4708-b28d-81b7bb82493c?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44081,
+    "drupal_internal__vid": 2998,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Theatergesetz",
+    "created": "2011-09-05T14:19:10+00:00",
+    "changed": "2011-09-06T14:53:12+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44081",
+      "pid": 976,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Das Unterfangen des Deutschen Bühnenvereins für ein neues Theatergesetz führte am 6. Oktober 1902 zu einer letzten Sitzung der \"Direktorenkonferenz\", an der sich auch Bahr beteiligte. Die öffentliche Versammlung wird für 18. November angesetzt.",
+      "format": "full_html",
+      "processed": "Das Unterfangen des Deutschen Bühnenvereins für ein neues Theatergesetz führte am 6. Oktober 1902 zu einer letzten Sitzung der \"Direktorenkonferenz\", an der sich auch Bahr beteiligte. Die öffentliche Versammlung wird für 18. November angesetzt.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1902-10-06",
+      "end_value": "1902-10-06"
+    },
+    "field_sources": [
+      "Neues Wiener Tagblatt, 36 (1902) #276, 9. (7.10.1902) und #278, 7. (9.10.1902)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/31372e5b-1133-4708-b28d-81b7bb82493c/node_type?resourceVersion=id%3A2998"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/31372e5b-1133-4708-b28d-81b7bb82493c/relationships/node_type?resourceVersion=id%3A2998"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/31372e5b-1133-4708-b28d-81b7bb82493c/revision_uid?resourceVersion=id%3A2998"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/31372e5b-1133-4708-b28d-81b7bb82493c/relationships/revision_uid?resourceVersion=id%3A2998"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/31372e5b-1133-4708-b28d-81b7bb82493c/uid?resourceVersion=id%3A2998"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/31372e5b-1133-4708-b28d-81b7bb82493c/relationships/uid?resourceVersion=id%3A2998"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/31372e5b-1133-4708-b28d-81b7bb82493c/field_event_type?resourceVersion=id%3A2998"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/31372e5b-1133-4708-b28d-81b7bb82493c/relationships/field_event_type?resourceVersion=id%3A2998"
+        }
+      }
+    }
+  }
+}

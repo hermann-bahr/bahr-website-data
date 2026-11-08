@@ -1,0 +1,109 @@
+{
+  "type": "node--bibliographie",
+  "id": "62fef930-ed38-4811-9dbf-11353516fd60",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/62fef930-ed38-4811-9dbf-11353516fd60?resourceVersion=id%3A3918"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/62fef930-ed38-4811-9dbf-11353516fd60?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49664,
+    "drupal_internal__vid": 3918,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:44:00+00:00",
+    "status": true,
+    "title": "Die Andere (1906)",
+    "created": "2011-11-22T16:47:00+00:00",
+    "changed": "2011-11-23T10:18:37+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/bibliografie/49664",
+      "pid": 1479,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<h3 id=\"bib\">Bibliografie</h3>\r\n<table class=\"bibliografie\">\r\n<tr><td>Autor:</td><td>Hermann Bahr</td></tr>\r\n<tr><td>Titel:</td><td>Die Andere</td></tr>\r\n\r\n<tr><td>Ort:</td><td>Berlin</td></tr>\r\n<tr><td>Verlag:</td><td>S. Fischer</td></tr>\r\n<tr><td>Jahr:</td><td>1906</td></tr>\r\n<tr><td>Seiten:</td><td>139</td></tr>\r\n<tr><td>Anm.:</td><td>Schauspiel in fünf Akten. Thomasberger: \"Bühnenmanuskript Berlin Ahn & Simrock 1905\". Die Widmung \"M. Ndw Juli 1905\" dürfte als \"Mildenburg, Noordwijk aan Zee\" aufzulösen sein, wo Bahr mit seiner späteren Frau im Juli Urlaub machte.</td></tr>\r\n</table>\r\n\r\n\r\n<h3 id=\"auff\">Inszenierungen</h3>4.11.1905 Uraufführung Münchner Schauspielhaus, 7 Aufführungen. \r\n25.11.1905 Erstaufführung im Deutschen Volkstheater in Wien, 2 Aufführungen.\r\n1905/06: Leipzig, München, Wien (11)\r\n\r\n<h3 id=\"rezens\">Rezensionen</h3>\r\n\r\n<p>\r\nBerliner Tageblatt, 34 (1905) #567, Abend-Ausgabe, 2. (6.11.1905)\r\nÖsterreichische Volks-Zeitung, 51 (1903) #308, 6. (7.11.1905) (Nachtkritik)\r\nMarco Brociner in: Neues Wiener Tagblatt, 39 (1905) #327, 11. (26.11.1905)\r\nLudwig Fischl in: Österreichische Volks-Zeitung, 51 (1903) #327, 13 und 21. (26.11.1905)\r\n[O. N.:] Eine stürmische Première. In: Illustriertes Wiener Extrablatt, 26.11.1905, 8-9.\r\nWilli Handl: Bahrs \"Andere\". In: Schaubühne, 1 (1905) #14, 394-396. (7.12.1905)</p>\r\n\r\n<h3 id=\"www\">Digitalisate</h3><a href=\"http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&aid=63&zoom=1\">Link</a>",
+      "format": "full_html",
+      "processed": "<h3 id=\"bib\">Bibliografie</h3>\n<table class=\"bibliografie\">\n<tr><td>Autor:</td><td>Hermann Bahr</td></tr>\n<tr><td>Titel:</td><td>Die Andere</td></tr>\n\n<tr><td>Ort:</td><td>Berlin</td></tr>\n<tr><td>Verlag:</td><td>S. Fischer</td></tr>\n<tr><td>Jahr:</td><td>1906</td></tr>\n<tr><td>Seiten:</td><td>139</td></tr>\n<tr><td>Anm.:</td><td>Schauspiel in fünf Akten. Thomasberger: \"Bühnenmanuskript Berlin Ahn &amp; Simrock 1905\". Die Widmung \"M. Ndw Juli 1905\" dürfte als \"Mildenburg, Noordwijk aan Zee\" aufzulösen sein, wo Bahr mit seiner späteren Frau im Juli Urlaub machte.</td></tr>\n</table>\n\n\n<h3 id=\"auff\">Inszenierungen</h3>4.11.1905 Uraufführung Münchner Schauspielhaus, 7 Aufführungen. \n25.11.1905 Erstaufführung im Deutschen Volkstheater in Wien, 2 Aufführungen.\n1905/06: Leipzig, München, Wien (11)\n\n<h3 id=\"rezens\">Rezensionen</h3>\n\n<p>\nBerliner Tageblatt, 34 (1905) #567, Abend-Ausgabe, 2. (6.11.1905)\nÖsterreichische Volks-Zeitung, 51 (1903) #308, 6. (7.11.1905) (Nachtkritik)\nMarco Brociner in: Neues Wiener Tagblatt, 39 (1905) #327, 11. (26.11.1905)\nLudwig Fischl in: Österreichische Volks-Zeitung, 51 (1903) #327, 13 und 21. (26.11.1905)\n[O. N.:] Eine stürmische Première. In: Illustriertes Wiener Extrablatt, 26.11.1905, 8-9.\nWilli Handl: Bahrs \"Andere\". In: Schaubühne, 1 (1905) #14, 394-396. (7.12.1905)</p>\n\n<h3 id=\"www\">Digitalisate</h3><a href=\"http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=63&amp;zoom=1\">Link</a>",
+      "summary": null
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "c4d97a7b-20a3-4a00-9858-72c5abf35af3",
+        "meta": {
+          "drupal_internal__target_id": "bibliographie"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/62fef930-ed38-4811-9dbf-11353516fd60/node_type?resourceVersion=id%3A3918"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/62fef930-ed38-4811-9dbf-11353516fd60/relationships/node_type?resourceVersion=id%3A3918"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/62fef930-ed38-4811-9dbf-11353516fd60/revision_uid?resourceVersion=id%3A3918"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/62fef930-ed38-4811-9dbf-11353516fd60/relationships/revision_uid?resourceVersion=id%3A3918"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/62fef930-ed38-4811-9dbf-11353516fd60/uid?resourceVersion=id%3A3918"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/62fef930-ed38-4811-9dbf-11353516fd60/relationships/uid?resourceVersion=id%3A3918"
+        }
+      }
+    },
+    "field_bibliographie_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--bibliografie_type",
+          "id": "2729bfe4-73cf-46a1-8929-a36c1cba2af6",
+          "meta": {
+            "drupal_internal__target_id": 13
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/62fef930-ed38-4811-9dbf-11353516fd60/field_bibliographie_type?resourceVersion=id%3A3918"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/62fef930-ed38-4811-9dbf-11353516fd60/relationships/field_bibliographie_type?resourceVersion=id%3A3918"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "bb2030af-0417-4ce4-b714-7df98ac3d81b",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/bb2030af-0417-4ce4-b714-7df98ac3d81b?resourceVersion=id%3A3683"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/bb2030af-0417-4ce4-b714-7df98ac3d81b?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 64293,
+    "drupal_internal__vid": 3683,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Dichter in Zürich",
+    "created": "2012-10-05T12:32:05+00:00",
+    "changed": "2012-10-05T12:32:05+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/64293",
+      "pid": 1726,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Als Bahr 1912 versucht, das starke Generationenbewusstsein bei ihm und seinen Altersgenossen zu beschreiben, erzählt er eine Anekdote aus Zürich, die sich vermutlich bei seiner Heimreise von Paris Ende März 1890  abspielte.<blockquote>So las ich einmal irgendwo in einem längst verschollenen Blatte ein Gedicht mit irgendeinem Namen darunter, den ich noch nie gehört hatte. Ich setzte mich hin und schrieb an den Verleger, der mir alsbald auch Name und Adresse des unbekannten Dichters gab. Ich schrieb dem Autor und dieser antwortete mir prompt und ebenso stürmisch: \"Wir müssen Freunde sein, komme nach Zürich sobald als möglich\". Ich komme an, schaue beim Waggonfenster hinaus und sehe ein Knäuel von Menschen und denke mir gleich, da muß der Freund darunter sein. Ich springe heraus, er und alle anderen, wie ein Freund, auf mich zu, denn alle wirkten mit mir für die große Zukunft. Wir ziehen also durch Zürich. Am Bahnhofe war mein Freund auf zehn Freunde angewachsen und wie wir weiter ziehen, kommen aus allen Seitengassen andere Freunde und als wir beim Hause des Dichters eingelangt waren, war's ein Festzug: die ganze Züricher Jugend marschierte mit. Das war die Kraft. Das Geschlecht von 1889 hatte ein großes leidenschaftliches Wollen</blockquote>",
+      "format": "full_html",
+      "processed": "Als Bahr 1912 versucht, das starke Generationenbewusstsein bei ihm und seinen Altersgenossen zu beschreiben, erzählt er eine Anekdote aus Zürich, die sich vermutlich bei seiner Heimreise von Paris Ende März 1890  abspielte.<blockquote>So las ich einmal irgendwo in einem längst verschollenen Blatte ein Gedicht mit irgendeinem Namen darunter, den ich noch nie gehört hatte. Ich setzte mich hin und schrieb an den Verleger, der mir alsbald auch Name und Adresse des unbekannten Dichters gab. Ich schrieb dem Autor und dieser antwortete mir prompt und ebenso stürmisch: \"Wir müssen Freunde sein, komme nach Zürich sobald als möglich\". Ich komme an, schaue beim Waggonfenster hinaus und sehe ein Knäuel von Menschen und denke mir gleich, da muß der Freund darunter sein. Ich springe heraus, er und alle anderen, wie ein Freund, auf mich zu, denn alle wirkten mit mir für die große Zukunft. Wir ziehen also durch Zürich. Am Bahnhofe war mein Freund auf zehn Freunde angewachsen und wie wir weiter ziehen, kommen aus allen Seitengassen andere Freunde und als wir beim Hause des Dichters eingelangt waren, war's ein Festzug: die ganze Züricher Jugend marschierte mit. Das war die Kraft. Das Geschlecht von 1889 hatte ein großes leidenschaftliches Wollen</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1889-03-31",
+      "end_value": "1889-03-31"
+    },
+    "field_sources": [
+      "Hermann Bahr: Gerhart Hauptmann. Das literarische Deutsch-Österreich, 12 (1912) #11, 4-6, hier: 5. (1.11.1912)",
+      "(Hier auf 31. März 1889 datiert)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bb2030af-0417-4ce4-b714-7df98ac3d81b/node_type?resourceVersion=id%3A3683"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bb2030af-0417-4ce4-b714-7df98ac3d81b/relationships/node_type?resourceVersion=id%3A3683"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bb2030af-0417-4ce4-b714-7df98ac3d81b/revision_uid?resourceVersion=id%3A3683"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bb2030af-0417-4ce4-b714-7df98ac3d81b/relationships/revision_uid?resourceVersion=id%3A3683"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bb2030af-0417-4ce4-b714-7df98ac3d81b/uid?resourceVersion=id%3A3683"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bb2030af-0417-4ce4-b714-7df98ac3d81b/relationships/uid?resourceVersion=id%3A3683"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bb2030af-0417-4ce4-b714-7df98ac3d81b/field_event_type?resourceVersion=id%3A3683"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bb2030af-0417-4ce4-b714-7df98ac3d81b/relationships/field_event_type?resourceVersion=id%3A3683"
+        }
+      }
+    }
+  }
+}

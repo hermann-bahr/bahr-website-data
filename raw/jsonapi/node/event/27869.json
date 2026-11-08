@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "ca9d5373-0fda-4765-be84-633b4d064ed9",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/ca9d5373-0fda-4765-be84-633b4d064ed9?resourceVersion=id%3A2221"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/ca9d5373-0fda-4765-be84-633b4d064ed9?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27869,
+    "drupal_internal__vid": 2221,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Studium der Nationalökonomie in Berlin",
+    "created": "2010-06-21T09:02:20+00:00",
+    "changed": "2013-03-22T10:54:18+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/27869",
+      "pid": 54,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Ab 2. Mai 1884 studiert Bahr Nationalökonomie bei Adolf Wagner an der Friedrich-Wilhelm-Universität in Berlin. Nachdem seine 1886 fertiggestellte Dissertation \"Die Entwicklung vom Individualismus zum Sozialismus\" keine Chance auf Annahme hat, verlaufen Bahrs weitere Versuche einer zweiten Arbeit ohne Erfolg. Nach einer schweren Krankheit kehrt er Ende Mai 1887 nach Linz zurück.",
+      "format": "full_html",
+      "processed": "Ab 2. Mai 1884 studiert Bahr Nationalökonomie bei Adolf Wagner an der Friedrich-Wilhelm-Universität in Berlin. Nachdem seine 1886 fertiggestellte Dissertation \"Die Entwicklung vom Individualismus zum Sozialismus\" keine Chance auf Annahme hat, verlaufen Bahrs weitere Versuche einer zweiten Arbeit ohne Erfolg. Nach einer schweren Krankheit kehrt er Ende Mai 1887 nach Linz zurück.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1884-05-02",
+      "end_value": "1884-05-02"
+    },
+    "field_sources": [
+      "Selbstbildnis, Kapitel XVI",
+      "Inskriptions-Bestätigung. Ebd.",
+      "Anmeldungs-Buch des Studirenden Hermann Bahr im Nachlass, Kiste 98: Biografisches"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ca9d5373-0fda-4765-be84-633b4d064ed9/node_type?resourceVersion=id%3A2221"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ca9d5373-0fda-4765-be84-633b4d064ed9/relationships/node_type?resourceVersion=id%3A2221"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ca9d5373-0fda-4765-be84-633b4d064ed9/revision_uid?resourceVersion=id%3A2221"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ca9d5373-0fda-4765-be84-633b4d064ed9/relationships/revision_uid?resourceVersion=id%3A2221"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ca9d5373-0fda-4765-be84-633b4d064ed9/uid?resourceVersion=id%3A2221"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ca9d5373-0fda-4765-be84-633b4d064ed9/relationships/uid?resourceVersion=id%3A2221"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ca9d5373-0fda-4765-be84-633b4d064ed9/field_event_type?resourceVersion=id%3A2221"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ca9d5373-0fda-4765-be84-633b4d064ed9/relationships/field_event_type?resourceVersion=id%3A2221"
+        }
+      }
+    }
+  }
+}

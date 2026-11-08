@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "705942a8-b488-4693-bc25-9f868a4fdb91",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/705942a8-b488-4693-bc25-9f868a4fdb91?resourceVersion=id%3A2638"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/705942a8-b488-4693-bc25-9f868a4fdb91?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38819,
+    "drupal_internal__vid": 2638,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Graz",
+    "created": "2011-02-02T17:38:36+00:00",
+    "changed": "2012-05-23T10:00:46+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38819",
+      "pid": 565,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 29. November 1897 soll Bahr in Graz sprechen. Für den gleichen Tag notiert sich Schnitzler ein Zusammentreffen mit Bahr im Dampfbad. Überprüfung ausstehend.",
+      "format": "full_html",
+      "processed": "Am 29. November 1897 soll Bahr in Graz sprechen. Für den gleichen Tag notiert sich Schnitzler ein Zusammentreffen mit Bahr im Dampfbad. Überprüfung ausstehend.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1897-11-29",
+      "end_value": "1897-11-29"
+    },
+    "field_sources": [
+      "Vgl. Brief an den Vater, 23.11.1897"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/705942a8-b488-4693-bc25-9f868a4fdb91/node_type?resourceVersion=id%3A2638"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/705942a8-b488-4693-bc25-9f868a4fdb91/relationships/node_type?resourceVersion=id%3A2638"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/705942a8-b488-4693-bc25-9f868a4fdb91/revision_uid?resourceVersion=id%3A2638"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/705942a8-b488-4693-bc25-9f868a4fdb91/relationships/revision_uid?resourceVersion=id%3A2638"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/705942a8-b488-4693-bc25-9f868a4fdb91/uid?resourceVersion=id%3A2638"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/705942a8-b488-4693-bc25-9f868a4fdb91/relationships/uid?resourceVersion=id%3A2638"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/705942a8-b488-4693-bc25-9f868a4fdb91/field_event_type?resourceVersion=id%3A2638"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/705942a8-b488-4693-bc25-9f868a4fdb91/relationships/field_event_type?resourceVersion=id%3A2638"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "470818a5-e071-4aea-a914-31a4a3c1243f",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/470818a5-e071-4aea-a914-31a4a3c1243f?resourceVersion=id%3A3022"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/470818a5-e071-4aea-a914-31a4a3c1243f?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44106,
+    "drupal_internal__vid": 3022,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Duncan zur Kur",
+    "created": "2011-09-13T17:08:13+00:00",
+    "changed": "2011-09-13T17:08:13+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44106",
+      "pid": 1001,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 15. Juni 1904 notiert sich Bahr:<blockquote>Mit Duncan telephoniert, daß sie hier und ins Sanatorium Löw muß. Rendezvous für Freitag vier.</blockquote>Vom 18. bis zu ihrer Abreise am 20. oder 21. besucht er Isadora Duncan täglich.",
+      "format": "full_html",
+      "processed": "Am 15. Juni 1904 notiert sich Bahr:<blockquote>Mit Duncan telephoniert, daß sie hier und ins Sanatorium Löw muß. Rendezvous für Freitag vier.</blockquote>Vom 18. bis zu ihrer Abreise am 20. oder 21. besucht er Isadora Duncan täglich.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1904-06-17",
+      "end_value": "1904-06-20"
+    },
+    "field_sources": [
+      "Tagebücher (Csàky), IV, 183-191."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/470818a5-e071-4aea-a914-31a4a3c1243f/node_type?resourceVersion=id%3A3022"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/470818a5-e071-4aea-a914-31a4a3c1243f/relationships/node_type?resourceVersion=id%3A3022"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/470818a5-e071-4aea-a914-31a4a3c1243f/revision_uid?resourceVersion=id%3A3022"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/470818a5-e071-4aea-a914-31a4a3c1243f/relationships/revision_uid?resourceVersion=id%3A3022"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/470818a5-e071-4aea-a914-31a4a3c1243f/uid?resourceVersion=id%3A3022"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/470818a5-e071-4aea-a914-31a4a3c1243f/relationships/uid?resourceVersion=id%3A3022"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/470818a5-e071-4aea-a914-31a4a3c1243f/field_event_type?resourceVersion=id%3A3022"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/470818a5-e071-4aea-a914-31a4a3c1243f/relationships/field_event_type?resourceVersion=id%3A3022"
+        }
+      }
+    }
+  }
+}

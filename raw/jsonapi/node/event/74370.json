@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "e652347c-1b6b-4a34-bd15-f82d6c58eac8",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/e652347c-1b6b-4a34-bd15-f82d6c58eac8?resourceVersion=id%3A3698"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/e652347c-1b6b-4a34-bd15-f82d6c58eac8?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74370,
+    "drupal_internal__vid": 3698,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "\"Demolirte Literatur\"",
+    "created": "2012-10-16T08:55:33+00:00",
+    "changed": "2012-10-29T09:54:29+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/74370",
+      "pid": 1744,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 15. November 1896 erscheint die erste Nummer der Halbmonatszeitschrift \"Wiener Rundschau\". Darin findet sich auch der Beginn des Abdrucks des \"Die demolirte Literatur\" betitelten Texts von Karl Kraus. In Folge erscheint er bis zum Jänner 1897. Er enthält einen Angriff auf Hermann Bahr, Leopold Andrian und Felix Salten. Macht Kraus aus Bahr den \"Herrn aus Linz\", so stilisiert er ihn auch zum Zentrum Jung Wiens und trägt damit stark dazu bei, dass homogene Schriftsteller als Gruppe wahrgenommen werden. Zugleich ist der Graben zwischen Kraus und den \"modernen Literaten\" der Jahrhundertwende unüberbrückbar. Bahr scheitert darin, Kraus aus der Zeitschrift werfen zu lassen.",
+      "format": "full_html",
+      "processed": "Am 15. November 1896 erscheint die erste Nummer der Halbmonatszeitschrift \"Wiener Rundschau\". Darin findet sich auch der Beginn des Abdrucks des \"Die demolirte Literatur\" betitelten Texts von Karl Kraus. In Folge erscheint er bis zum Jänner 1897. Er enthält einen Angriff auf Hermann Bahr, Leopold Andrian und Felix Salten. Macht Kraus aus Bahr den \"Herrn aus Linz\", so stilisiert er ihn auch zum Zentrum Jung Wiens und trägt damit stark dazu bei, dass homogene Schriftsteller als Gruppe wahrgenommen werden. Zugleich ist der Graben zwischen Kraus und den \"modernen Literaten\" der Jahrhundertwende unüberbrückbar. Bahr scheitert darin, Kraus aus der Zeitschrift werfen zu lassen.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1896-11-15",
+      "end_value": "1896-11-15"
+    },
+    "field_sources": [
+      "Briefwechsel Bahr/Hofmannsthal. Hg. Elsbeth Dangel-Pelloquin. Göttingen: Wallstein. (In Vorbereitung), an Bahr, 15.11.1896 und an HvH, 16.11.1896"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e652347c-1b6b-4a34-bd15-f82d6c58eac8/node_type?resourceVersion=id%3A3698"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e652347c-1b6b-4a34-bd15-f82d6c58eac8/relationships/node_type?resourceVersion=id%3A3698"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e652347c-1b6b-4a34-bd15-f82d6c58eac8/revision_uid?resourceVersion=id%3A3698"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e652347c-1b6b-4a34-bd15-f82d6c58eac8/relationships/revision_uid?resourceVersion=id%3A3698"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e652347c-1b6b-4a34-bd15-f82d6c58eac8/uid?resourceVersion=id%3A3698"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e652347c-1b6b-4a34-bd15-f82d6c58eac8/relationships/uid?resourceVersion=id%3A3698"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e652347c-1b6b-4a34-bd15-f82d6c58eac8/field_event_type?resourceVersion=id%3A3698"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e652347c-1b6b-4a34-bd15-f82d6c58eac8/relationships/field_event_type?resourceVersion=id%3A3698"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "d5f155a8-9752-4519-b234-c1c456f96c77",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/d5f155a8-9752-4519-b234-c1c456f96c77?resourceVersion=id%3A2927"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/d5f155a8-9752-4519-b234-c1c456f96c77?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44000,
+    "drupal_internal__vid": 2927,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Leopold Andrian",
+    "created": "2011-07-13T13:36:03+00:00",
+    "changed": "2011-07-13T13:39:09+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44000",
+      "pid": 900,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Der Anschluss des S. Fischer-Verlags an die Wiener Moderne geschah durch Bahr. Im Jänner 1895 vermittelte er mit Leopold Andrian zum ersten Mal einen Vertreter Jung-Wiens nach Berlin. Im gleichen Jahr wird Schnitzlers Novelle \"Sterben\" folgen.",
+      "format": "full_html",
+      "processed": "Der Anschluss des S. Fischer-Verlags an die Wiener Moderne geschah durch Bahr. Im Jänner 1895 vermittelte er mit Leopold Andrian zum ersten Mal einen Vertreter Jung-Wiens nach Berlin. Im gleichen Jahr wird Schnitzlers Novelle \"Sterben\" folgen.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1895-01-01",
+      "end_value": "1895-01-01"
+    },
+    "field_sources": [
+      "Tagebuch (Csàky), II, XIX.",
+      "Bahr rezensiert das Buch: Hermann Bahr: Der Garten der Erkenntnis. Die Zeit, 2 (1895) #24, 171-172. (16.3.1895)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d5f155a8-9752-4519-b234-c1c456f96c77/node_type?resourceVersion=id%3A2927"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d5f155a8-9752-4519-b234-c1c456f96c77/relationships/node_type?resourceVersion=id%3A2927"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d5f155a8-9752-4519-b234-c1c456f96c77/revision_uid?resourceVersion=id%3A2927"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d5f155a8-9752-4519-b234-c1c456f96c77/relationships/revision_uid?resourceVersion=id%3A2927"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d5f155a8-9752-4519-b234-c1c456f96c77/uid?resourceVersion=id%3A2927"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d5f155a8-9752-4519-b234-c1c456f96c77/relationships/uid?resourceVersion=id%3A2927"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d5f155a8-9752-4519-b234-c1c456f96c77/field_event_type?resourceVersion=id%3A2927"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d5f155a8-9752-4519-b234-c1c456f96c77/relationships/field_event_type?resourceVersion=id%3A2927"
+        }
+      }
+    }
+  }
+}

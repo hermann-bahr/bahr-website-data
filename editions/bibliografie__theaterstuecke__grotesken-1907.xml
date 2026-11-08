@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bibliografie__theaterstuecke__grotesken-1907" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Grotesken (1907)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">49666</idno>
+        <idno type="drupal-alias">/bibliografie/49666</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bibliografie/49666">https://bahr.univie.ac.at/bibliografie/49666</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+        <bibl type="beschriebene-ausgabe">
+          <author>Hermann Bahr</author>
+          <title type="main">Grotesken</title>
+          <title type="sub">Der Klub der Erlöser (Schauspiel in einem Akt) – Der Faun – Die tiefe Natur (Ein Akt)</title>
+          <pubPlace>Wien</pubPlace>
+          <publisher>C. Konegen</publisher>
+          <date>1907</date>
+          <extent>264</extent>
+          <note>1906, vordatiert auf 1907. "Der Klub" ist Felix Salten, "Der Faun" Franz Blei gewidmet, "Die tiefe Natur" "in Erinnerung an meinen lieben Anatol" verfasst. "Der Klub" wurde, wie das Neue Wiener Tagblatt (39 (1905) #331, 10) am 30. November 1905 berichtet, vom Kaiserjubiläums-Stadttheater angenommen, von der Zensur aber nicht freigegeben. Im Nachlass ist ein Brief des Verlags (19.10.1906, A19743BaM) mit den Vertragsbedingungen erhalten. Als Bezahlung erhält Bahr 20% vom Buchhändler-Nettopreis von jedem tatsächlich verkauften Exemplar.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="1" key="bibliografie">Bibliografie</term>
+          <term n="2" key="theaterstuecke">Theaterstücke</term>
+          <term n="32" key="grotesken-1907" type="eintrag">Grotesken (1907)</term>
+        </keywords>
+        <classCode scheme="drupal-type">bibliographie</classCode>
+        <keywords scheme="bibliografie_type">
+          <term>Theaterstücke</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2011-11-22T16:59:39+00:00" type="created">angelegt in Drupal</change>
+      <change when="2013-01-10T11:36:15+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="bib">
+        <head>Bibliografie</head>
+        <table type="bibliografie">
+          <row>
+            <cell>Autor:</cell>
+            <cell>Hermann Bahr</cell>
+          </row>
+          <row>
+            <cell>Titel:</cell>
+            <cell>Grotesken</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>Der Klub der Erlöser (Schauspiel in einem Akt) – Der Faun – Die tiefe Natur (Ein Akt)</cell>
+          </row>
+          <row>
+            <cell>Ort:</cell>
+            <cell>Wien</cell>
+          </row>
+          <row>
+            <cell>Verlag:</cell>
+            <cell>C. Konegen</cell>
+          </row>
+          <row>
+            <cell>Jahr:</cell>
+            <cell>1907</cell>
+          </row>
+          <row>
+            <cell>Seiten:</cell>
+            <cell>264</cell>
+          </row>
+          <row>
+            <cell>Anm.:</cell>
+            <cell>1906, vordatiert auf 1907. "Der Klub" ist Felix Salten, "Der Faun" Franz Blei gewidmet, "Die tiefe Natur" "in Erinnerung an meinen lieben Anatol" verfasst. "Der Klub" wurde, wie das Neue Wiener Tagblatt (39 (1905) #331, 10) am 30. November 1905 berichtet, vom Kaiserjubiläums-Stadttheater angenommen, von der Zensur aber nicht freigegeben. Im Nachlass ist ein Brief des Verlags (19.10.1906, A19743BaM) mit den Vertragsbedingungen erhalten. Als Bezahlung erhält Bahr 20% vom Buchhändler-Nettopreis von jedem tatsächlich verkauften Exemplar.</cell>
+          </row>
+        </table>
+      </div>
+      <div xml:id="auff">
+        <head>Inszenierungen</head>
+        <p>Der Faun: 28. Oktober 1908, Wiener Kammerabende Die tiefe Natur: 21.11.1908 Deutsches Volkstheater, Wien</p>
+      </div>
+      <div xml:id="rezens">
+        <head>Rezensionen</head>
+        <p>Edmund Reimer (S. Edmund Ironside): Grotesken und Wien (Hermann Bahr). In: Das literarische Deutsch-Österreich, 7 (1907) #8, 3-7. E. v. W. [=Eduard von Waclawiczek] in Das literarische Deutsch-Österreich, 8 (1908) #12, 464-465. ["Tiefe Natur" und "Krampus" im Deutschen Volkstheater]</p>
+      </div>
+      <div xml:id="www">
+        <head>Digitalisate</head>
+        <p>
+          <ref target="http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=65">Link</ref>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

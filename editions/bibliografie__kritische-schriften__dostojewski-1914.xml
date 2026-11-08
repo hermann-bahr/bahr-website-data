@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bibliografie__kritische-schriften__dostojewski-1914" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Dostojewski (1914)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">38714</idno>
+        <idno type="drupal-alias">/bibliografie/38714</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bibliografie/38714">https://bahr.univie.ac.at/bibliografie/38714</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+        <bibl type="beschriebene-ausgabe">
+          <author>Hermann Bahr, Dimitri Mereschkowski und Otto Julius Bierbaum</author>
+          <title type="main">Dostojewski</title>
+          <title type="sub">Drei Essays. Mit vier Bildbeigaben</title>
+          <pubPlace>München</pubPlace>
+          <publisher>Piper</publisher>
+          <date>1914</date>
+          <extent>105</extent>
+          <edition>1., 2., 3. Aufl. 1914</edition>
+          <note>Bahrs Aufsatz mit dem Datum 13. August 1913. Im Dezember 1913 erschienen, auf 1914 vordatiert. Im Archiv ist eine Druckfahne erhalten. Zur Einordnung des Textes in Bahrs neugefundenen Glauben vergleiche man das Interview Johannes Müllers mit Bahr, zu dem Bahr auch eine Nachschrift verfasste. (Johannes Müller: Eine Unterhaltung mit Hermann Bahr über die Kirche. Nachschrift von Hermann Bahr. Blätter zur Pflege persönlichen Lebens, 16 (1913) #4, 178-192, hier: 190-192.)</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="1" key="bibliografie">Bibliografie</term>
+          <term n="4" key="kritische-schriften">Kritische Schriften</term>
+          <term n="6" key="dostojewski-1914" type="eintrag">Dostojewski (1914)</term>
+        </keywords>
+        <classCode scheme="drupal-type">bibliographie</classCode>
+        <keywords scheme="bibliografie_type">
+          <term>Kritische Schriften</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2010-12-30T14:25:12+00:00" type="created">angelegt in Drupal</change>
+      <change when="2011-11-21T15:29:43+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="bib">
+        <head>Bibliografie</head>
+        <table type="bibliografie">
+          <row>
+            <cell>Autor:</cell>
+            <cell>Hermann Bahr, Dimitri Mereschkowski und Otto Julius Bierbaum</cell>
+          </row>
+          <row>
+            <cell>Titel:</cell>
+            <cell>Dostojewski</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>Drei Essays. Mit vier Bildbeigaben</cell>
+          </row>
+          <row>
+            <cell>Ort:</cell>
+            <cell>München</cell>
+          </row>
+          <row>
+            <cell>Verlag:</cell>
+            <cell>Piper</cell>
+          </row>
+          <row>
+            <cell>Jahr:</cell>
+            <cell>1914</cell>
+          </row>
+          <row>
+            <cell>Seiten:</cell>
+            <cell>105</cell>
+          </row>
+          <row>
+            <cell>Aufl.:</cell>
+            <cell>1., 2., 3. Aufl. 1914</cell>
+          </row>
+          <row>
+            <cell>Anm.:</cell>
+            <cell>Bahrs Aufsatz mit dem Datum 13. August 1913. Im Dezember 1913 erschienen, auf 1914 vordatiert. Im Archiv ist eine Druckfahne erhalten. Zur Einordnung des Textes in Bahrs neugefundenen Glauben vergleiche man das Interview Johannes Müllers mit Bahr, zu dem Bahr auch eine Nachschrift verfasste. (Johannes Müller: Eine Unterhaltung mit Hermann Bahr über die Kirche. Nachschrift von Hermann Bahr. Blätter zur Pflege persönlichen Lebens, 16 (1913) #4, 178-192, hier: 190-192.)</cell>
+          </row>
+        </table>
+      </div>
+      <div xml:id="rezens">
+        <head>Rezensionen</head>
+        <p>Freie Meinung, Hamburg, 21.3.1914</p>
+      </div>
+      <div xml:id="inhaltsvz">
+        <head>Inhaltsverzeichnis</head>
+        <table>
+          <row>
+            <cell role="label">Seiten</cell>
+            <cell role="label">Autor</cell>
+          </row>
+          <row>
+            <cell>
+              <hi rend="bold">1-26</hi>
+            </cell>
+            <cell>
+              <hi rend="bold">Hermann Bahr</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>27</cell>
+            <cell>Dmitri Mereschkowksi</cell>
+          </row>
+          <row>
+            <cell>75</cell>
+            <cell>Otto Julius Bierbaum</cell>
+          </row>
+          <row>
+            <cell>106</cell>
+            <cell>Bibliographie</cell>
+          </row>
+        </table>
+      </div>
+      <div xml:id="digit">
+        <head>Digitalisate</head>
+        <p>Nachdruck in Summula, 136-150: <hi rend="italic">Neusatz:</hi> <ref target="https://bahr.univie.ac.at/sites/all/ks/17-summula.pdf" type="sites-all"><hi rend="bold">Kritische Schriften in Einzelausgaben</hi></ref> <hi rend="italic">Faksimile der Erstausgabe:</hi> <ref target="http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=96">ÖNB-ANNO</ref></p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,119 @@
+{
+  "type": "node--event",
+  "id": "bf911696-cff7-44f2-b414-0596d8ffcce5",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/bf911696-cff7-44f2-b414-0596d8ffcce5?resourceVersion=id%3A2987"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/bf911696-cff7-44f2-b414-0596d8ffcce5?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44067,
+    "drupal_internal__vid": 2987,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Bonn, Zürich, München",
+    "created": "2011-09-05T08:45:45+00:00",
+    "changed": "2012-10-16T12:10:33+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44067",
+      "pid": 965,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Zweite Station ist am Tag nach Frankfurt, am 6. November 1908, Bonn: Er liest in der Gesellschaft für Literatur und Kunst, Schnitzler und Levetzow.[1] \r\nDritte Station: Am 8. November 1908 liest er in München Schnitzler und Levetzow. Veranstalter ist der \"Deutsche Literatenverein\".\r\nVierte Station: Am 9. November 1908 spricht Bahr beim \"Lesezirkel Hottingen\" in Zürich Schnitzlers \"Die Toten schweigen\".[2], [3]\r\n",
+      "format": "full_html",
+      "processed": "Zweite Station ist am Tag nach Frankfurt, am 6. November 1908, Bonn: Er liest in der Gesellschaft für Literatur und Kunst, Schnitzler und Levetzow.[1] \nDritte Station: Am 8. November 1908 liest er in München Schnitzler und Levetzow. Veranstalter ist der \"Deutsche Literatenverein\".\nVierte Station: Am 9. November 1908 spricht Bahr beim \"Lesezirkel Hottingen\" in Zürich Schnitzlers \"Die Toten schweigen\".[2], [3]\n",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1908-11-06",
+      "end_value": "1908-11-09"
+    },
+    "field_sources": [
+      "Tagebücher (Csàky), 391.",
+      "[1] Bonner Zeitung, 8.11.1908.\r\n",
+      "[2] Neue Zürcher Zeitung, 13.11.1908\r\n",
+      "[3] Zürcher Post, 20.11.1908"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bf911696-cff7-44f2-b414-0596d8ffcce5/node_type?resourceVersion=id%3A2987"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bf911696-cff7-44f2-b414-0596d8ffcce5/relationships/node_type?resourceVersion=id%3A2987"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bf911696-cff7-44f2-b414-0596d8ffcce5/revision_uid?resourceVersion=id%3A2987"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bf911696-cff7-44f2-b414-0596d8ffcce5/relationships/revision_uid?resourceVersion=id%3A2987"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bf911696-cff7-44f2-b414-0596d8ffcce5/uid?resourceVersion=id%3A2987"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bf911696-cff7-44f2-b414-0596d8ffcce5/relationships/uid?resourceVersion=id%3A2987"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bf911696-cff7-44f2-b414-0596d8ffcce5/field_event_type?resourceVersion=id%3A2987"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bf911696-cff7-44f2-b414-0596d8ffcce5/relationships/field_event_type?resourceVersion=id%3A2987"
+        }
+      }
+    }
+  }
+}

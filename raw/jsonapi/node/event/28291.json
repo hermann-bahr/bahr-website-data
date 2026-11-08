@@ -1,0 +1,120 @@
+{
+  "type": "node--event",
+  "id": "fcbdb3dd-005c-4184-8ec6-55796021777a",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/fcbdb3dd-005c-4184-8ec6-55796021777a?resourceVersion=id%3A2541"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/fcbdb3dd-005c-4184-8ec6-55796021777a?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28291,
+    "drupal_internal__vid": 2541,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Maeterlinck",
+    "created": "2010-12-03T15:59:50+00:00",
+    "changed": "2011-11-21T10:18:25+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28291",
+      "pid": 422,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 2. Mai 1892 hält Bahr als Einleitung zur ersten deutschsprachigen Aufführung von Maeterlincks \"L'Intruse\" durch die Freie Bühne Wien eine Confèrence im \"Theater in der Josefstadt\". Es ist sein erstes öffentliches Auftreten in Wien und er verwendet dazu einen schon in \"Überwindung des Naturalismus\" erschienenen Text. Das Stück selbst hat Bahrs Freund, der Maler Ferry Bératon unter dem Titel \"Der Einschleicher\" übersetzt. Es bleibt die einzige Inszenierung der Wiener Freien Bühne. \r\nIn einem Brief an Samuel Fischer schickt Bahr (31. Mai 1892) den Text seiner \"Conférence über Maeterlinck\", die aber nicht in der Freien Bühne erschien. Stattdessen brachte die Zeitschrift unter dem Titel \"Maeterlinck in Wien\" eine Besprechung der Aufführung von \"L'Intruse\", der Bahrs Einführung vorausging. ",
+      "format": "full_html",
+      "processed": "Am 2. Mai 1892 hält Bahr als Einleitung zur ersten deutschsprachigen Aufführung von Maeterlincks \"L'Intruse\" durch die Freie Bühne Wien eine Confèrence im \"Theater in der Josefstadt\". Es ist sein erstes öffentliches Auftreten in Wien und er verwendet dazu einen schon in \"Überwindung des Naturalismus\" erschienenen Text. Das Stück selbst hat Bahrs Freund, der Maler Ferry Bératon unter dem Titel \"Der Einschleicher\" übersetzt. Es bleibt die einzige Inszenierung der Wiener Freien Bühne. \nIn einem Brief an Samuel Fischer schickt Bahr (31. Mai 1892) den Text seiner \"Conférence über Maeterlinck\", die aber nicht in der Freien Bühne erschien. Stattdessen brachte die Zeitschrift unter dem Titel \"Maeterlinck in Wien\" eine Besprechung der Aufführung von \"L'Intruse\", der Bahrs Einführung vorausging. ",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1892-05-02",
+      "end_value": "1892-05-02"
+    },
+    "field_sources": [
+      "Hermann Bahr: Der Symbolismus. Conférence. Wiener Allgemeine Zeitung, 13 (1892) #4217, Beilage, 7. (5.5.1892)",
+      "Zur Textvorlage: Hermann Bahr: Theater-Briefe. Wien. Allgemeine Theater-Revue für Bühne und Welt, 1 (1892) #4, 40-41.",
+      "Zu Fischer siehe: Wilhelm Bölsche: Briefwechsel mit Autoren der Freien Bühne. Hg. Gerd Hermann Susen. Berlin: Weidler 2010, 715.",
+      "Friedrich Michael Fels: Freie Bühne, 3 (1892) #6 (Juni), 671-672.</i>",
+      "Selbstbildnis, 282"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fcbdb3dd-005c-4184-8ec6-55796021777a/node_type?resourceVersion=id%3A2541"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fcbdb3dd-005c-4184-8ec6-55796021777a/relationships/node_type?resourceVersion=id%3A2541"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fcbdb3dd-005c-4184-8ec6-55796021777a/revision_uid?resourceVersion=id%3A2541"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fcbdb3dd-005c-4184-8ec6-55796021777a/relationships/revision_uid?resourceVersion=id%3A2541"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fcbdb3dd-005c-4184-8ec6-55796021777a/uid?resourceVersion=id%3A2541"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fcbdb3dd-005c-4184-8ec6-55796021777a/relationships/uid?resourceVersion=id%3A2541"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fcbdb3dd-005c-4184-8ec6-55796021777a/field_event_type?resourceVersion=id%3A2541"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fcbdb3dd-005c-4184-8ec6-55796021777a/relationships/field_event_type?resourceVersion=id%3A2541"
+        }
+      }
+    }
+  }
+}

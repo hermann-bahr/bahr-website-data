@@ -1,0 +1,119 @@
+{
+  "type": "node--event",
+  "id": "fe9cfc3f-3e48-4feb-be27-fbd682bf719b",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/fe9cfc3f-3e48-4feb-be27-fbd682bf719b?resourceVersion=id%3A2400"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/fe9cfc3f-3e48-4feb-be27-fbd682bf719b?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28073,
+    "drupal_internal__vid": 2400,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Sanna",
+    "created": "2010-08-09T09:21:37+00:00",
+    "changed": "2012-10-24T08:52:46+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28073",
+      "pid": 234,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 10. März 1905 kommt es am Kleinen Theater in Berlin zur Uraufführung von \"Sanna\" unter der Regie von Max Reinhardt. Insgesamt sechs Aufführungen. Die Buchausgabe bringt zeitgleich S. Fischer heraus.\r\n\r\nDas Stück zeigt die Tragödie von Sanna, der von einem Erbonkel die finanziellen Mittel zur Heirat verwehrt werden, und die sich enttäuscht umbringt, als ihr Geliebter aus Pflichtgefühl nicht mit ihr durchbrennen möchte.\r\n\r\nDie Uraufführung dürfte ein Misserfolg gewesen sein, wie Bahr Schnitzler gesteht.",
+      "format": "full_html",
+      "processed": "Am 10. März 1905 kommt es am Kleinen Theater in Berlin zur Uraufführung von \"Sanna\" unter der Regie von Max Reinhardt. Insgesamt sechs Aufführungen. Die Buchausgabe bringt zeitgleich S. Fischer heraus.\n\nDas Stück zeigt die Tragödie von Sanna, der von einem Erbonkel die finanziellen Mittel zur Heirat verwehrt werden, und die sich enttäuscht umbringt, als ihr Geliebter aus Pflichtgefühl nicht mit ihr durchbrennen möchte.\n\nDie Uraufführung dürfte ein Misserfolg gewesen sein, wie Bahr Schnitzler gesteht.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1905-03-10",
+      "end_value": "1905-03-10"
+    },
+    "field_sources": [
+      "L. F.: Ein neues Stück von Hermann Bahr. Österreichische Volks-Zeitung, 51 (1905) #70, 6. (11.3.1905)",
+      "Neues Wiener Tagblatt, 39 (1905) #70, 11. (11.3.1905)",
+      "Schnitzler: Tagebücher, III, 128.",
+      "Hermann Bahr: Sanna. Schauspiel in fünf Akten. Berlin: S. Fischer, 1905."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fe9cfc3f-3e48-4feb-be27-fbd682bf719b/node_type?resourceVersion=id%3A2400"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fe9cfc3f-3e48-4feb-be27-fbd682bf719b/relationships/node_type?resourceVersion=id%3A2400"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fe9cfc3f-3e48-4feb-be27-fbd682bf719b/revision_uid?resourceVersion=id%3A2400"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fe9cfc3f-3e48-4feb-be27-fbd682bf719b/relationships/revision_uid?resourceVersion=id%3A2400"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fe9cfc3f-3e48-4feb-be27-fbd682bf719b/uid?resourceVersion=id%3A2400"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fe9cfc3f-3e48-4feb-be27-fbd682bf719b/relationships/uid?resourceVersion=id%3A2400"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "27f3d2a4-8970-4726-9ab8-ce37707ec1bc",
+          "meta": {
+            "drupal_internal__target_id": 1
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fe9cfc3f-3e48-4feb-be27-fbd682bf719b/field_event_type?resourceVersion=id%3A2400"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fe9cfc3f-3e48-4feb-be27-fbd682bf719b/relationships/field_event_type?resourceVersion=id%3A2400"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="forschung__forschungsnotizen__ein-freund-ein-echter-freund" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Ein Freund, ein echter Freund</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">3078</idno>
+        <idno type="drupal-alias">/article/3078</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/article/3078">https://bahr.univie.ac.at/article/3078</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="6" key="forschung">Forschung</term>
+          <term n="4" key="forschungsnotizen">Forschungsnotizen</term>
+          <term n="26" key="ein-freund-ein-echter-freund" type="eintrag">Ein Freund, ein echter Freund</term>
+        </keywords>
+        <classCode scheme="drupal-type">article</classCode>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2009-12-22T17:07:27+00:00" type="created">angelegt in Drupal</change>
+      <change when="2011-11-03T11:27:39+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Mr. Daviau findet, dass Hermann Bahr nie so richtige Freunde hatte. So richtig Freund' ist man mit ihm auf Facebook auch nicht, kann aber so tun. Ihm gibt das das Gefühl, erinnert zu werden. Und uns stört es nicht. Unnötig ist das in jedem Fall. <ref target="http://www.facebook.com/hermann.bahr1">Hermann Bahr auf Facebook</ref></p>
+      </div>
+    </body>
+  </text>
+</TEI>

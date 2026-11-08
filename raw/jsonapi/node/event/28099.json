@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "813f2949-02e6-49d7-a150-5d30af21702a",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/813f2949-02e6-49d7-a150-5d30af21702a?resourceVersion=id%3A2424"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/813f2949-02e6-49d7-a150-5d30af21702a?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28099,
+    "drupal_internal__vid": 2424,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Kürnberger",
+    "created": "2010-08-11T19:41:33+00:00",
+    "changed": "2011-09-02T12:22:40+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28099",
+      "pid": 259,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "23. April 1908: Kürnberger-Lesung um ½ 8 im Saale des Ingenieur- u. Architektenvereins I, Eschenbachgasse 9 mit Bahr, Otto Erich Deutsch und Olga Bauer.",
+      "format": "full_html",
+      "processed": "23. April 1908: Kürnberger-Lesung um ½ 8 im Saale des Ingenieur- u. Architektenvereins I, Eschenbachgasse 9 mit Bahr, Otto Erich Deutsch und Olga Bauer.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1908-04-23",
+      "end_value": "1908-04-23"
+    },
+    "field_sources": [
+      "Vgl. Neue Freie Presse, 26.4.1908, 14.",
+      "Tagebücher (Csàky), V, 375."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/813f2949-02e6-49d7-a150-5d30af21702a/node_type?resourceVersion=id%3A2424"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/813f2949-02e6-49d7-a150-5d30af21702a/relationships/node_type?resourceVersion=id%3A2424"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/813f2949-02e6-49d7-a150-5d30af21702a/revision_uid?resourceVersion=id%3A2424"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/813f2949-02e6-49d7-a150-5d30af21702a/relationships/revision_uid?resourceVersion=id%3A2424"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/813f2949-02e6-49d7-a150-5d30af21702a/uid?resourceVersion=id%3A2424"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/813f2949-02e6-49d7-a150-5d30af21702a/relationships/uid?resourceVersion=id%3A2424"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/813f2949-02e6-49d7-a150-5d30af21702a/field_event_type?resourceVersion=id%3A2424"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/813f2949-02e6-49d7-a150-5d30af21702a/relationships/field_event_type?resourceVersion=id%3A2424"
+        }
+      }
+    }
+  }
+}

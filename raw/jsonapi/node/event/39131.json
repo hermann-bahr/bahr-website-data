@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "83b33d6e-0a35-4f76-bcf1-43f62afd830c",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/83b33d6e-0a35-4f76-bcf1-43f62afd830c?resourceVersion=id%3A2894"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/83b33d6e-0a35-4f76-bcf1-43f62afd830c?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39131,
+    "drupal_internal__vid": 2894,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Graz",
+    "created": "2011-06-15T09:29:24+00:00",
+    "changed": "2011-06-27T11:30:26+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39131",
+      "pid": 859,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahr erinnert sich in einer Theaterrezension daran, bei der Eröffnung des neuen Grazer Stadttheaters gewesen zu sein und \"Wilhelm Tell\" gesehen zu haben. Das fand am 16. September 1899 statt.",
+      "format": "full_html",
+      "processed": "Bahr erinnert sich in einer Theaterrezension daran, bei der Eröffnung des neuen Grazer Stadttheaters gewesen zu sein und \"Wilhelm Tell\" gesehen zu haben. Das fand am 16. September 1899 statt.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1899-09-16",
+      "end_value": "1899-09-16"
+    },
+    "field_sources": [
+      "H. B.: Theater und Kunst. Burgtheater. Österreichische Volks-Zeitung, 48 (1902) #154, 4. (6.6.1902) "
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/83b33d6e-0a35-4f76-bcf1-43f62afd830c/node_type?resourceVersion=id%3A2894"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/83b33d6e-0a35-4f76-bcf1-43f62afd830c/relationships/node_type?resourceVersion=id%3A2894"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/83b33d6e-0a35-4f76-bcf1-43f62afd830c/revision_uid?resourceVersion=id%3A2894"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/83b33d6e-0a35-4f76-bcf1-43f62afd830c/relationships/revision_uid?resourceVersion=id%3A2894"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/83b33d6e-0a35-4f76-bcf1-43f62afd830c/uid?resourceVersion=id%3A2894"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/83b33d6e-0a35-4f76-bcf1-43f62afd830c/relationships/uid?resourceVersion=id%3A2894"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/83b33d6e-0a35-4f76-bcf1-43f62afd830c/field_event_type?resourceVersion=id%3A2894"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/83b33d6e-0a35-4f76-bcf1-43f62afd830c/relationships/field_event_type?resourceVersion=id%3A2894"
+        }
+      }
+    }
+  }
+}

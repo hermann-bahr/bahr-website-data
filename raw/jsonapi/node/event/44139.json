@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "3d34e905-fa4f-4c54-bd3e-abcedb7ffdca",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/3d34e905-fa4f-4c54-bd3e-abcedb7ffdca?resourceVersion=id%3A3055"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/3d34e905-fa4f-4c54-bd3e-abcedb7ffdca?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44139,
+    "drupal_internal__vid": 3055,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "AS, Graeser",
+    "created": "2011-09-14T13:38:15+00:00",
+    "changed": "2011-09-14T13:38:15+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44139",
+      "pid": 1034,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 30. Juli 1894: Bahr, Schnitzler und Dr. Graeser (Arzt in Neapel) essen im Volksgarten.",
+      "format": "full_html",
+      "processed": "Am 30. Juli 1894: Bahr, Schnitzler und Dr. Graeser (Arzt in Neapel) essen im Volksgarten.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1894-07-30",
+      "end_value": "1894-07-30"
+    },
+    "field_sources": [
+      "Schnitzler: Tagebuch, II, 82."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3d34e905-fa4f-4c54-bd3e-abcedb7ffdca/node_type?resourceVersion=id%3A3055"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3d34e905-fa4f-4c54-bd3e-abcedb7ffdca/relationships/node_type?resourceVersion=id%3A3055"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3d34e905-fa4f-4c54-bd3e-abcedb7ffdca/revision_uid?resourceVersion=id%3A3055"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3d34e905-fa4f-4c54-bd3e-abcedb7ffdca/relationships/revision_uid?resourceVersion=id%3A3055"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3d34e905-fa4f-4c54-bd3e-abcedb7ffdca/uid?resourceVersion=id%3A3055"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3d34e905-fa4f-4c54-bd3e-abcedb7ffdca/relationships/uid?resourceVersion=id%3A3055"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3d34e905-fa4f-4c54-bd3e-abcedb7ffdca/field_event_type?resourceVersion=id%3A3055"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3d34e905-fa4f-4c54-bd3e-abcedb7ffdca/relationships/field_event_type?resourceVersion=id%3A3055"
+        }
+      }
+    }
+  }
+}

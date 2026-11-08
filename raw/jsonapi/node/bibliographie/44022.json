@@ -1,0 +1,109 @@
+{
+  "type": "node--bibliographie",
+  "id": "4228e099-db5b-4e66-921b-3e82711130a7",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/4228e099-db5b-4e66-921b-3e82711130a7?resourceVersion=id%3A3896"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/4228e099-db5b-4e66-921b-3e82711130a7?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44022,
+    "drupal_internal__vid": 3896,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:44:00+00:00",
+    "status": true,
+    "title": "Die Werke von Alessandro Manzoni",
+    "created": "2011-07-21T10:09:20+00:00",
+    "changed": "2012-11-29T16:21:19+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/bibliografie/44022",
+      "pid": 920,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<h3>Bibliografie</h3>\r\n\r\n<table class=\"bibliografie\">\r\n<tr> <td width=\"20\">Hg:<td> Hermann Bahr und Ernst Kamnitzer </tr>\r\n<tr> <td>&nbsp;<td>München: Theatiner-Verlag 1923 </tr>\r\n<tr> <td>Anm.: <td> <i> Von den geplanten 10 Bänden sind nur die Bände 3 - 6 erschienen. Von diesen gibt es jeweils eine numerierte Vorzugsausgabe auf Bütten von 250 Exemplaren.</i><br>\r\n<dl><dt>Band 3: Die Verlobten. I<dt><dd>Eine mailändische Geschichte aus dem 17. Jahrhundert. Ins Deutsche übertragen von Johanna Schuchter.<br>460 Seiten</dd> \r\n<dt>Band 4: Die Verlobten. II<dt><dd>Eine mailändische Geschichte aus dem 17. Jahrhundert. Ins Deutsche übertragen von Johanna Schuchter.<br>465 Seiten</dd>\r\n<dt>Band 5: Schriften zur Philosophie und Ästhetik</dt><dd>Ins Deutsche übertragen von Franz Arens. 614 Seiten</dd>\r\n<dt>Band 6: Betrachtungen über die katholische Moral</dt><dd>Ins Deutsche übertragen von Franz Arens. 544 Seiten</dd></td></tr>\r\n</table>",
+      "format": "full_html",
+      "processed": "<h3>Bibliografie</h3>\n\n<table class=\"bibliografie\">\n<tr> <td width=\"20\">Hg:</td><td> Hermann Bahr und Ernst Kamnitzer </td></tr>\n<tr> <td>&nbsp;</td><td>München: Theatiner-Verlag 1923 </td></tr>\n<tr> <td>Anm.: </td><td> <i> Von den geplanten 10 Bänden sind nur die Bände 3 - 6 erschienen. Von diesen gibt es jeweils eine numerierte Vorzugsausgabe auf Bütten von 250 Exemplaren.</i><br>\n<dl><dt>Band 3: Die Verlobten. I</dt><dt></dt><dd>Eine mailändische Geschichte aus dem 17. Jahrhundert. Ins Deutsche übertragen von Johanna Schuchter.<br>460 Seiten</dd> \n<dt>Band 4: Die Verlobten. II</dt><dt></dt><dd>Eine mailändische Geschichte aus dem 17. Jahrhundert. Ins Deutsche übertragen von Johanna Schuchter.<br>465 Seiten</dd>\n<dt>Band 5: Schriften zur Philosophie und Ästhetik</dt><dd>Ins Deutsche übertragen von Franz Arens. 614 Seiten</dd>\n<dt>Band 6: Betrachtungen über die katholische Moral</dt><dd>Ins Deutsche übertragen von Franz Arens. 544 Seiten</dd></dl></td></tr>\n</table>",
+      "summary": null
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "c4d97a7b-20a3-4a00-9858-72c5abf35af3",
+        "meta": {
+          "drupal_internal__target_id": "bibliographie"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/4228e099-db5b-4e66-921b-3e82711130a7/node_type?resourceVersion=id%3A3896"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/4228e099-db5b-4e66-921b-3e82711130a7/relationships/node_type?resourceVersion=id%3A3896"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/4228e099-db5b-4e66-921b-3e82711130a7/revision_uid?resourceVersion=id%3A3896"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/4228e099-db5b-4e66-921b-3e82711130a7/relationships/revision_uid?resourceVersion=id%3A3896"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/4228e099-db5b-4e66-921b-3e82711130a7/uid?resourceVersion=id%3A3896"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/4228e099-db5b-4e66-921b-3e82711130a7/relationships/uid?resourceVersion=id%3A3896"
+        }
+      }
+    },
+    "field_bibliographie_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--bibliografie_type",
+          "id": "f502c2d3-6460-4f4b-b186-f71e3ca08950",
+          "meta": {
+            "drupal_internal__target_id": 16
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/4228e099-db5b-4e66-921b-3e82711130a7/field_bibliographie_type?resourceVersion=id%3A3896"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/4228e099-db5b-4e66-921b-3e82711130a7/relationships/field_bibliographie_type?resourceVersion=id%3A3896"
+        }
+      }
+    }
+  }
+}

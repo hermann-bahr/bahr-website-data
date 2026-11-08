@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "34c21874-0ff0-43e1-a346-499b6ee0077c",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/34c21874-0ff0-43e1-a346-499b6ee0077c?resourceVersion=id%3A2399"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/34c21874-0ff0-43e1-a346-499b6ee0077c?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28072,
+    "drupal_internal__vid": 2399,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Der Apostel",
+    "created": "2010-08-09T09:17:32+00:00",
+    "changed": "2011-11-29T17:16:35+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28072",
+      "pid": 233,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Das \"Schauspiel in drei Aufzügen\", \"Der Apostel\" feiert am 8. November 1901 am Wiener Burgtheater Première. Anwesend sind die Erzherzogin Isabella, Otto Brahm, Alfred von Berger und im \"Parquet auffallend viele Abgeordnete\". [1]\r\nDie Handlung verfolgt den Aufstieg eines Idealisten vom Oppositionellen zum Ministerpräsidenten, der mitansehen muss, wie seine Mitstreiter von der Macht korrumpiert werden und der über einen von seiner Frau bewirkten Korruptionsskandal zurücktreten muss.\r\nDie Buchausgabe verlegt Albert Langen in München, sie erscheint zeitgleich mit der Uraufführung. [2]",
+      "format": "full_html",
+      "processed": "Das \"Schauspiel in drei Aufzügen\", \"Der Apostel\" feiert am 8. November 1901 am Wiener Burgtheater Première. Anwesend sind die Erzherzogin Isabella, Otto Brahm, Alfred von Berger und im \"Parquet auffallend viele Abgeordnete\". [1]\nDie Handlung verfolgt den Aufstieg eines Idealisten vom Oppositionellen zum Ministerpräsidenten, der mitansehen muss, wie seine Mitstreiter von der Macht korrumpiert werden und der über einen von seiner Frau bewirkten Korruptionsskandal zurücktreten muss.\nDie Buchausgabe verlegt Albert Langen in München, sie erscheint zeitgleich mit der Uraufführung. [2]",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1901-11-08",
+      "end_value": "1901-11-08"
+    },
+    "field_sources": [
+      "[1] M. K. [=Max Kalbeck]: Neues Wiener Tagblatt, 35 (1901) #308, 7. (9.11.1901)",
+      "[2] Neues Wiener Tagblatt, 35 (1901) #309, 9. (10.11.1901)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/34c21874-0ff0-43e1-a346-499b6ee0077c/node_type?resourceVersion=id%3A2399"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/34c21874-0ff0-43e1-a346-499b6ee0077c/relationships/node_type?resourceVersion=id%3A2399"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/34c21874-0ff0-43e1-a346-499b6ee0077c/revision_uid?resourceVersion=id%3A2399"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/34c21874-0ff0-43e1-a346-499b6ee0077c/relationships/revision_uid?resourceVersion=id%3A2399"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/34c21874-0ff0-43e1-a346-499b6ee0077c/uid?resourceVersion=id%3A2399"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/34c21874-0ff0-43e1-a346-499b6ee0077c/relationships/uid?resourceVersion=id%3A2399"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "27f3d2a4-8970-4726-9ab8-ce37707ec1bc",
+          "meta": {
+            "drupal_internal__target_id": 1
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/34c21874-0ff0-43e1-a346-499b6ee0077c/field_event_type?resourceVersion=id%3A2399"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/34c21874-0ff0-43e1-a346-499b6ee0077c/relationships/field_event_type?resourceVersion=id%3A2399"
+        }
+      }
+    }
+  }
+}

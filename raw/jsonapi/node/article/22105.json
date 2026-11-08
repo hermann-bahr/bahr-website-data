@@ -1,0 +1,112 @@
+{
+  "type": "node--article",
+  "id": "c646f070-b00c-41ed-b101-955c15a653e8",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/article/c646f070-b00c-41ed-b101-955c15a653e8?resourceVersion=id%3A4005"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/article/c646f070-b00c-41ed-b101-955c15a653e8?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 22105,
+    "drupal_internal__vid": 4005,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:47:58+00:00",
+    "status": true,
+    "title": "Vater und Sohn in der oberösterreichischen Landespolitik",
+    "created": "2010-04-29T15:25:37+00:00",
+    "changed": "2011-03-30T09:16:01+00:00",
+    "promote": true,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/article/22105",
+      "pid": 36,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Im \"Selbstbildnis\" beschreibt Hermann Bahr die politischen Differenzen, die sich zwischen ihm und seinem Vater auftun. Seine deutschnationale Gesinnung, die er selbst ohne Umschweife als \"Hochverrat\" (Selbstbildnis, 144) bezeichnet, wird von Alois Bahr, dem liberalen Abgeordneten (von 1873-1896 im Linzer Landtag) missbilligt.\r\n<!--break-->\r\nDer Konflikt bleibt jedoch keineswegs privat, die von Hermann Bahr bis zu seinem Tod abgelehnte \"liberale Gesinnung\" weicht in Österreich immer mehr der deutschnationalen. So wird unter dem Druck \"jüngere[r] Kräfte\" (Wimmer 43)  der \"liberal-politische Verein\" für Oberösterreich, dem auch Alois Bahr angehört und in dessen Ausschuss er von 1888-1896 sitzt, 1885 in \"Deutscher Verein\" umbenannt, und das, obwohl bereits seit seiner Gründung der erste Paragraph der Vereinsstatuten die \"nationale\" Gesinnung des Vereins ausdrücklich festgelegt hatte. Neben diesem Verein erstarken radikalere deutschnationale Organisationen, wie beispielsweise der \"Deutsche Klub\", in dem Hermann Bahr zumindest einen Vortrag hielt (1884, vgl. Selbstbildnis 172). Der einstmals liberal-politische Verein und damit peu a peu auch die liberale Partei Oberösterreichs beginnt sich ab Mitte der 1890er aufzulösen, die Deutschnationalen hingegen gewinnen an Zulauf. \r\n\r\n<i>Zur oberösterreichischen Politikgeschichte um 1900:\r\nSlapnicka, Harry: Oberösterreich unter Kaiser Franz Joseph (1861-1918). Linz: OBL, 1982\r\nWimmer, Kurt: Liberalismus in Oberösterreich. Am Beispiel des liberal-politischen Vereins für Oberösterreich in Linz (1869-1909). Linz: OBL, 1979.",
+      "format": "full_html",
+      "processed": "Im \"Selbstbildnis\" beschreibt Hermann Bahr die politischen Differenzen, die sich zwischen ihm und seinem Vater auftun. Seine deutschnationale Gesinnung, die er selbst ohne Umschweife als \"Hochverrat\" (Selbstbildnis, 144) bezeichnet, wird von Alois Bahr, dem liberalen Abgeordneten (von 1873-1896 im Linzer Landtag) missbilligt.\n<!--break-->\nDer Konflikt bleibt jedoch keineswegs privat, die von Hermann Bahr bis zu seinem Tod abgelehnte \"liberale Gesinnung\" weicht in Österreich immer mehr der deutschnationalen. So wird unter dem Druck \"jüngere[r] Kräfte\" (Wimmer 43)  der \"liberal-politische Verein\" für Oberösterreich, dem auch Alois Bahr angehört und in dessen Ausschuss er von 1888-1896 sitzt, 1885 in \"Deutscher Verein\" umbenannt, und das, obwohl bereits seit seiner Gründung der erste Paragraph der Vereinsstatuten die \"nationale\" Gesinnung des Vereins ausdrücklich festgelegt hatte. Neben diesem Verein erstarken radikalere deutschnationale Organisationen, wie beispielsweise der \"Deutsche Klub\", in dem Hermann Bahr zumindest einen Vortrag hielt (1884, vgl. Selbstbildnis 172). Der einstmals liberal-politische Verein und damit peu a peu auch die liberale Partei Oberösterreichs beginnt sich ab Mitte der 1890er aufzulösen, die Deutschnationalen hingegen gewinnen an Zulauf. \n\n<i>Zur oberösterreichischen Politikgeschichte um 1900:\nSlapnicka, Harry: Oberösterreich unter Kaiser Franz Joseph (1861-1918). Linz: OBL, 1982\nWimmer, Kurt: Liberalismus in Oberösterreich. Am Beispiel des liberal-politischen Vereins für Oberösterreich in Linz (1869-1909). Linz: OBL, 1979.</i>",
+      "summary": null
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "2591b802-2e12-43ea-999f-36ccdccd1176",
+        "meta": {
+          "drupal_internal__target_id": "article"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/c646f070-b00c-41ed-b101-955c15a653e8/node_type?resourceVersion=id%3A4005"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/c646f070-b00c-41ed-b101-955c15a653e8/relationships/node_type?resourceVersion=id%3A4005"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/c646f070-b00c-41ed-b101-955c15a653e8/revision_uid?resourceVersion=id%3A4005"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/c646f070-b00c-41ed-b101-955c15a653e8/relationships/revision_uid?resourceVersion=id%3A4005"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/c646f070-b00c-41ed-b101-955c15a653e8/uid?resourceVersion=id%3A4005"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/c646f070-b00c-41ed-b101-955c15a653e8/relationships/uid?resourceVersion=id%3A4005"
+        }
+      }
+    },
+    "field_image": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/c646f070-b00c-41ed-b101-955c15a653e8/field_image?resourceVersion=id%3A4005"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/c646f070-b00c-41ed-b101-955c15a653e8/relationships/field_image?resourceVersion=id%3A4005"
+        }
+      }
+    },
+    "field_tags": {
+      "data": [],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/c646f070-b00c-41ed-b101-955c15a653e8/field_tags?resourceVersion=id%3A4005"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/c646f070-b00c-41ed-b101-955c15a653e8/relationships/field_tags?resourceVersion=id%3A4005"
+        }
+      }
+    }
+  }
+}

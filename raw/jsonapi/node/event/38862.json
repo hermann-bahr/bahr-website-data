@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "2449f445-eb90-445c-8910-4e3fe1d67896",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/2449f445-eb90-445c-8910-4e3fe1d67896?resourceVersion=id%3A2677"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/2449f445-eb90-445c-8910-4e3fe1d67896?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38862,
+    "drupal_internal__vid": 2677,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Freie litterarische Gesellschaft",
+    "created": "2011-02-16T12:43:01+00:00",
+    "changed": "2011-09-01T09:16:30+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38862",
+      "pid": 605,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Das Magazin für Litteratur meldet:<blockquote>Die bisher unter der Leitung des Herrn Leo Berg stehende \"Freie litterarische Gesellschaft\" hat ihr Programm wesentlich erweitert und beabsichtigt hinfort Recititationen und Publikationen moderner Dichtungen zu veranstalten. In einer vorbereitenden Versammlung am 3. Oktober, an welcher u.a. die Herren Fritz Mauthner, Dr. Karpeles, Dr. H. und J. Hart, E. v. Wolzogen, Dr. Frdr. Lange teilnahmen, wurde ein aus den Herren Leo Berg, Frz. Held, Dr. H. Hart, Dr. Karpeles und Herm. Bahr bestehendes Comité gewählt, dem die Ausarbeitungen der Statuten des vergrößerten Vereins aufgetraten wurde.</blockquote> ",
+      "format": "full_html",
+      "processed": "Das Magazin für Litteratur meldet:<blockquote>Die bisher unter der Leitung des Herrn Leo Berg stehende \"Freie litterarische Gesellschaft\" hat ihr Programm wesentlich erweitert und beabsichtigt hinfort Recititationen und Publikationen moderner Dichtungen zu veranstalten. In einer vorbereitenden Versammlung am 3. Oktober, an welcher u.a. die Herren Fritz Mauthner, Dr. Karpeles, Dr. H. und J. Hart, E. v. Wolzogen, Dr. Frdr. Lange teilnahmen, wurde ein aus den Herren Leo Berg, Frz. Held, Dr. H. Hart, Dr. Karpeles und Herm. Bahr bestehendes Comité gewählt, dem die Ausarbeitungen der Statuten des vergrößerten Vereins aufgetraten wurde.</blockquote> ",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1890-10-03",
+      "end_value": "1890-10-03"
+    },
+    "field_sources": [
+      "Das Magazin für Litteratur, 59 (1890) #41, 648. (11.10.1890)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2449f445-eb90-445c-8910-4e3fe1d67896/node_type?resourceVersion=id%3A2677"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2449f445-eb90-445c-8910-4e3fe1d67896/relationships/node_type?resourceVersion=id%3A2677"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2449f445-eb90-445c-8910-4e3fe1d67896/revision_uid?resourceVersion=id%3A2677"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2449f445-eb90-445c-8910-4e3fe1d67896/relationships/revision_uid?resourceVersion=id%3A2677"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2449f445-eb90-445c-8910-4e3fe1d67896/uid?resourceVersion=id%3A2677"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2449f445-eb90-445c-8910-4e3fe1d67896/relationships/uid?resourceVersion=id%3A2677"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2449f445-eb90-445c-8910-4e3fe1d67896/field_event_type?resourceVersion=id%3A2677"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2449f445-eb90-445c-8910-4e3fe1d67896/relationships/field_event_type?resourceVersion=id%3A2677"
+        }
+      }
+    }
+  }
+}

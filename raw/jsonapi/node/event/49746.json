@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "edbda284-8dd8-46c6-8915-fbd349d37416",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/edbda284-8dd8-46c6-8915-fbd349d37416?resourceVersion=id%3A3519"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/edbda284-8dd8-46c6-8915-fbd349d37416?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49746,
+    "drupal_internal__vid": 3519,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "München",
+    "created": "2011-12-21T14:31:01+00:00",
+    "changed": "2011-12-21T14:31:01+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49746",
+      "pid": 1559,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Das \"Tagebuch\" über den Isenheimer Altar vom 15. August 1919 verfasst Bahr in München.",
+      "format": "full_html",
+      "processed": "Das \"Tagebuch\" über den Isenheimer Altar vom 15. August 1919 verfasst Bahr in München.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1919-08-15",
+      "end_value": "1919-08-15"
+    },
+    "field_sources": [
+      "Hermann Bahr: Tagebuch. München, 15. August. Neues Wiener Journal, 27 (1919) #9290, 6. (14.9.1919)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/edbda284-8dd8-46c6-8915-fbd349d37416/node_type?resourceVersion=id%3A3519"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/edbda284-8dd8-46c6-8915-fbd349d37416/relationships/node_type?resourceVersion=id%3A3519"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/edbda284-8dd8-46c6-8915-fbd349d37416/revision_uid?resourceVersion=id%3A3519"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/edbda284-8dd8-46c6-8915-fbd349d37416/relationships/revision_uid?resourceVersion=id%3A3519"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/edbda284-8dd8-46c6-8915-fbd349d37416/uid?resourceVersion=id%3A3519"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/edbda284-8dd8-46c6-8915-fbd349d37416/relationships/uid?resourceVersion=id%3A3519"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/edbda284-8dd8-46c6-8915-fbd349d37416/field_event_type?resourceVersion=id%3A3519"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/edbda284-8dd8-46c6-8915-fbd349d37416/relationships/field_event_type?resourceVersion=id%3A3519"
+        }
+      }
+    }
+  }
+}

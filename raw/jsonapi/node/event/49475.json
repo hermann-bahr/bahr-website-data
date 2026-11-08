@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "cbdf468b-3f9c-4e7a-b07c-64632b93e8ae",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/cbdf468b-3f9c-4e7a-b07c-64632b93e8ae?resourceVersion=id%3A3313"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/cbdf468b-3f9c-4e7a-b07c-64632b93e8ae?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49475,
+    "drupal_internal__vid": 3313,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "JR",
+    "created": "2011-10-24T11:10:50+00:00",
+    "changed": "2011-10-24T14:17:00+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49475",
+      "pid": 1297,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 28. April 1909 essen Bahr und Redlich zu Mittag. Bahr teilt ihm mit, dass er sich von Rosa Jokl scheiden werde.",
+      "format": "full_html",
+      "processed": "Am 28. April 1909 essen Bahr und Redlich zu Mittag. Bahr teilt ihm mit, dass er sich von Rosa Jokl scheiden werde.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1909-04-28",
+      "end_value": "1909-04-28"
+    },
+    "field_sources": [
+      "Fritz Fellner und Doris A. Corradini (Hgg.): Schicksalsjahre Österreichs. Die Erinnerungen und Tagebücher Josef Redlichs 1869–1936. Wien: Böhlau 2011, I, 230."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cbdf468b-3f9c-4e7a-b07c-64632b93e8ae/node_type?resourceVersion=id%3A3313"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cbdf468b-3f9c-4e7a-b07c-64632b93e8ae/relationships/node_type?resourceVersion=id%3A3313"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cbdf468b-3f9c-4e7a-b07c-64632b93e8ae/revision_uid?resourceVersion=id%3A3313"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cbdf468b-3f9c-4e7a-b07c-64632b93e8ae/relationships/revision_uid?resourceVersion=id%3A3313"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cbdf468b-3f9c-4e7a-b07c-64632b93e8ae/uid?resourceVersion=id%3A3313"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cbdf468b-3f9c-4e7a-b07c-64632b93e8ae/relationships/uid?resourceVersion=id%3A3313"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cbdf468b-3f9c-4e7a-b07c-64632b93e8ae/field_event_type?resourceVersion=id%3A3313"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/cbdf468b-3f9c-4e7a-b07c-64632b93e8ae/relationships/field_event_type?resourceVersion=id%3A3313"
+        }
+      }
+    }
+  }
+}

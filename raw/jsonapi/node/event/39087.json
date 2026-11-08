@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "235c83a9-b36f-462c-a9e1-51e6637239f8",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/235c83a9-b36f-462c-a9e1-51e6637239f8?resourceVersion=id%3A2861"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/235c83a9-b36f-462c-a9e1-51e6637239f8?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39087,
+    "drupal_internal__vid": 2861,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Semmering",
+    "created": "2011-05-06T11:19:21+00:00",
+    "changed": "2012-10-22T19:56:12+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39087",
+      "pid": 818,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Von vielem Arbeiten erschöpft, schreibt er am 19. Dezember [1899] an seine Mutter:\r\n<blockquote>bin recht froh, morgen für ein paar Tage auf den Semmering zu kommen</blockquote>\r\nAm Ende wurden es 8 Tage. \r\n",
+      "format": "full_html",
+      "processed": "Von vielem Arbeiten erschöpft, schreibt er am 19. Dezember [1899] an seine Mutter:\n<blockquote>bin recht froh, morgen für ein paar Tage auf den Semmering zu kommen</blockquote>\nAm Ende wurden es 8 Tage. \n",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1899-12-20",
+      "end_value": "1899-12-28"
+    },
+    "field_sources": [
+      "Brief an die Mutter, 30.12.1899."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/235c83a9-b36f-462c-a9e1-51e6637239f8/node_type?resourceVersion=id%3A2861"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/235c83a9-b36f-462c-a9e1-51e6637239f8/relationships/node_type?resourceVersion=id%3A2861"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/235c83a9-b36f-462c-a9e1-51e6637239f8/revision_uid?resourceVersion=id%3A2861"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/235c83a9-b36f-462c-a9e1-51e6637239f8/relationships/revision_uid?resourceVersion=id%3A2861"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/235c83a9-b36f-462c-a9e1-51e6637239f8/uid?resourceVersion=id%3A2861"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/235c83a9-b36f-462c-a9e1-51e6637239f8/relationships/uid?resourceVersion=id%3A2861"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/235c83a9-b36f-462c-a9e1-51e6637239f8/field_event_type?resourceVersion=id%3A2861"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/235c83a9-b36f-462c-a9e1-51e6637239f8/relationships/field_event_type?resourceVersion=id%3A2861"
+        }
+      }
+    }
+  }
+}

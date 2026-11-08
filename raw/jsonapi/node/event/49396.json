@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "c105b74c-a3c9-4449-8711-3a3585d32ecf",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/c105b74c-a3c9-4449-8711-3a3585d32ecf?resourceVersion=id%3A3241"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/c105b74c-a3c9-4449-8711-3a3585d32ecf?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49396,
+    "drupal_internal__vid": 3241,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Dilke",
+    "created": "2011-10-17T16:09:41+00:00",
+    "changed": "2011-10-17T16:09:41+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49396",
+      "pid": 1220,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "In London besucht Bahr Ende Mai/Anfang Juni 1893 für die Antisemitismus-Interviews auch Sir Charles Dilke. 1918 erinnert er sich daran in einem Brief an Redlich.",
+      "format": "full_html",
+      "processed": "In London besucht Bahr Ende Mai/Anfang Juni 1893 für die Antisemitismus-Interviews auch Sir Charles Dilke. 1918 erinnert er sich daran in einem Brief an Redlich.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1893-05-31",
+      "end_value": "1893-05-31"
+    },
+    "field_sources": [
+      "Hermann Bahr: Der Antisemitismus. Ein internationales Interview. 30. Sir Charles Wentworth Dilke. 31. James Arthur Balfour. 32. Henri Labouchère. 33. Annie Besant. 34. Sidney Whitman. 35. Timothy Healy. Deutsche Zeitung, Wien, 23 (1893) #7780, Morgen-Ausgabe, 1-2. (25.8.1893) Buchausgabe: Der Antisemitismus, 188-190",
+      "Bahr/Redlich, 343. (An R., 30.5.1918)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c105b74c-a3c9-4449-8711-3a3585d32ecf/node_type?resourceVersion=id%3A3241"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c105b74c-a3c9-4449-8711-3a3585d32ecf/relationships/node_type?resourceVersion=id%3A3241"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c105b74c-a3c9-4449-8711-3a3585d32ecf/revision_uid?resourceVersion=id%3A3241"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c105b74c-a3c9-4449-8711-3a3585d32ecf/relationships/revision_uid?resourceVersion=id%3A3241"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c105b74c-a3c9-4449-8711-3a3585d32ecf/uid?resourceVersion=id%3A3241"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c105b74c-a3c9-4449-8711-3a3585d32ecf/relationships/uid?resourceVersion=id%3A3241"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c105b74c-a3c9-4449-8711-3a3585d32ecf/field_event_type?resourceVersion=id%3A3241"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c105b74c-a3c9-4449-8711-3a3585d32ecf/relationships/field_event_type?resourceVersion=id%3A3241"
+        }
+      }
+    }
+  }
+}

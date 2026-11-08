@@ -1,0 +1,36 @@
+{
+  "type": "file--file",
+  "id": "d18bc6ab-1873-428a-9c18-c4f1a9f2d934",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/file/file/d18bc6ab-1873-428a-9c18-c4f1a9f2d934"
+    }
+  },
+  "attributes": {
+    "drupal_internal__fid": 226,
+    "langcode": "de",
+    "filename": "1914_muskete.jpeg",
+    "uri": {
+      "value": "public://bahr_bilder/1914_muskete.jpeg",
+      "url": "/sites/default/files/bahr_bilder/1914_muskete.jpeg"
+    },
+    "filemime": "image/jpeg",
+    "filesize": 4315552,
+    "status": true,
+    "created": "2020-02-18T15:00:35+00:00",
+    "changed": "2020-02-18T15:11:43+00:00"
+  },
+  "relationships": {
+    "uid": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/file/file/d18bc6ab-1873-428a-9c18-c4f1a9f2d934/uid"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/file/file/d18bc6ab-1873-428a-9c18-c4f1a9f2d934/relationships/uid"
+        }
+      }
+    }
+  }
+}

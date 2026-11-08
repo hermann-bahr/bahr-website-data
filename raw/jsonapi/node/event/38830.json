@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "fb070272-defc-474e-b341-c83103fb5c11",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/fb070272-defc-474e-b341-c83103fb5c11?resourceVersion=id%3A2649"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/fb070272-defc-474e-b341-c83103fb5c11?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38830,
+    "drupal_internal__vid": 2649,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Secessions-Führer",
+    "created": "2011-02-02T19:00:43+00:00",
+    "changed": "2012-01-10T12:41:00+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38830",
+      "pid": 576,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahr hat im April 1898 ein neues Hobby: Er führt jeden Sonntag von 8 bis 10 Uhr früh durch die Secessions-Ausstellung. Und will nun nach der \"Österreichischen Literatur\" die \"Österreichische Kunst\" international zum Begriff machen. 1921 erinnert er sich:<blockquote>Es wird die erste derartige \"Führung\" von Arbeitern in Österreich gewesen sein. Sie waren voll Vertrauen und horchten gelehrig auf mich, ich aber schämte mich tief, denn alles, was ich sprach, kam mir, angesichts der Bilder, bodenlos albern vor. [2]</blockquote>",
+      "format": "full_html",
+      "processed": "Bahr hat im April 1898 ein neues Hobby: Er führt jeden Sonntag von 8 bis 10 Uhr früh durch die Secessions-Ausstellung. Und will nun nach der \"Österreichischen Literatur\" die \"Österreichische Kunst\" international zum Begriff machen. 1921 erinnert er sich:<blockquote>Es wird die erste derartige \"Führung\" von Arbeitern in Österreich gewesen sein. Sie waren voll Vertrauen und horchten gelehrig auf mich, ich aber schämte mich tief, denn alles, was ich sprach, kam mir, angesichts der Bilder, bodenlos albern vor. [2]</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1898-04-25",
+      "end_value": "1898-04-25"
+    },
+    "field_sources": [
+      "[1] Brief an den Vater, 25.4.1898",
+      "[2] Liebe der Lebenden, I, 331."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fb070272-defc-474e-b341-c83103fb5c11/node_type?resourceVersion=id%3A2649"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fb070272-defc-474e-b341-c83103fb5c11/relationships/node_type?resourceVersion=id%3A2649"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fb070272-defc-474e-b341-c83103fb5c11/revision_uid?resourceVersion=id%3A2649"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fb070272-defc-474e-b341-c83103fb5c11/relationships/revision_uid?resourceVersion=id%3A2649"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fb070272-defc-474e-b341-c83103fb5c11/uid?resourceVersion=id%3A2649"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fb070272-defc-474e-b341-c83103fb5c11/relationships/uid?resourceVersion=id%3A2649"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fb070272-defc-474e-b341-c83103fb5c11/field_event_type?resourceVersion=id%3A2649"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fb070272-defc-474e-b341-c83103fb5c11/relationships/field_event_type?resourceVersion=id%3A2649"
+        }
+      }
+    }
+  }
+}

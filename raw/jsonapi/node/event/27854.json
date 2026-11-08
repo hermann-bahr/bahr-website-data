@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "254ce9e4-53dc-4092-845f-d6e0e1fbdc32",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/254ce9e4-53dc-4092-845f-d6e0e1fbdc32?resourceVersion=id%3A2214"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/254ce9e4-53dc-4092-845f-d6e0e1fbdc32?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27854,
+    "drupal_internal__vid": 2214,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Deutsche Zeitung, Wien",
+    "created": "2010-05-28T10:55:06+00:00",
+    "changed": "2012-01-17T13:26:35+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/27854",
+      "pid": 45,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Nachdem erste Texte Bahrs bereits im November 1882 in der Deutschen Zeitung erschienen waren und ab 1888 ein Jahr lang mehrere Artikel von ihm veröffentlicht wurde, wird im September 1892 das Verhältnis enger: Er tritt in das Redaktionsteam ein. Es folgt eine intensive Phase der Mitarbeit, die vor allem aus Feuilletons, Theatermeldungen und einer wöchentlichen Glosse (\"Mepherl\") besteht. Bahr steigt sogar zum Mitherausgeber auf, bis am 21.12.1893 die Zusammenarbeit beendet wird.",
+      "format": "full_html",
+      "processed": "Nachdem erste Texte Bahrs bereits im November 1882 in der Deutschen Zeitung erschienen waren und ab 1888 ein Jahr lang mehrere Artikel von ihm veröffentlicht wurde, wird im September 1892 das Verhältnis enger: Er tritt in das Redaktionsteam ein. Es folgt eine intensive Phase der Mitarbeit, die vor allem aus Feuilletons, Theatermeldungen und einer wöchentlichen Glosse (\"Mepherl\") besteht. Bahr steigt sogar zum Mitherausgeber auf, bis am 21.12.1893 die Zusammenarbeit beendet wird.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1892-09-06",
+      "end_value": "1892-09-06"
+    },
+    "field_sources": [
+      "Hermann Bahr: Der Paukist. Deutsche Zeitung, Wien, 22 (1892) #7431, Morgen-Ausgabe, 1-3. (6.9.1892)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/254ce9e4-53dc-4092-845f-d6e0e1fbdc32/node_type?resourceVersion=id%3A2214"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/254ce9e4-53dc-4092-845f-d6e0e1fbdc32/relationships/node_type?resourceVersion=id%3A2214"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/254ce9e4-53dc-4092-845f-d6e0e1fbdc32/revision_uid?resourceVersion=id%3A2214"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/254ce9e4-53dc-4092-845f-d6e0e1fbdc32/relationships/revision_uid?resourceVersion=id%3A2214"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/254ce9e4-53dc-4092-845f-d6e0e1fbdc32/uid?resourceVersion=id%3A2214"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/254ce9e4-53dc-4092-845f-d6e0e1fbdc32/relationships/uid?resourceVersion=id%3A2214"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "d579e54c-64dd-4193-a9ef-da87efb3ed16",
+          "meta": {
+            "drupal_internal__target_id": 8
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/254ce9e4-53dc-4092-845f-d6e0e1fbdc32/field_event_type?resourceVersion=id%3A2214"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/254ce9e4-53dc-4092-845f-d6e0e1fbdc32/relationships/field_event_type?resourceVersion=id%3A2214"
+        }
+      }
+    }
+  }
+}

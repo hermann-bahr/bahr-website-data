@@ -1,0 +1,120 @@
+{
+  "type": "node--event",
+  "id": "778c516f-fe17-47c6-8b1e-b55c22a4cb84",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/778c516f-fe17-47c6-8b1e-b55c22a4cb84?resourceVersion=id%3A3552"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/778c516f-fe17-47c6-8b1e-b55c22a4cb84?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49781,
+    "drupal_internal__vid": 3552,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Freie litterarische Gesellschaft, Heinrich Kana †",
+    "created": "2012-01-16T14:29:41+00:00",
+    "changed": "2012-01-18T11:18:32+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49781",
+      "pid": 1593,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "1922 erwähnt Bahr, dass sich Heinrich Kana 1891 in Berlin erschoß:<blockquote>Ein Jugendfreund Herzls, der Dichter Heinrich Kana, erschoß sich 1891 in Berlin nach einer Vorlesung einer Novelle, die von den Zuhörern auf Berliner Art verulkt worden war. Sie hatten das an demselben Abend auch mit mir, der unmittelbar vor Kana las, versucht, aber da sie merkten, welchen Spaß es mir machte und daß ich, je mehr sie zu randalieren begannen, nur desto vergnügter wurde, klein beigegeben, weil Skandal ja dann keinen Sinn hat.[1]</blockquote>In der Zeitungsmeldung über den Tod [2] wird die Lesung mit Kanas Debüt in der 3. Sitzung der Freien litterarischen Gesellschaft auf den 22. Jänner datiert, Bahr nicht erwähnt. Auch nicht in der Freien Bühne[3]. Möglicherweise irrt sich Bahr und bezieht sich auf die Lesung der \"Treuen Adele\" in der zweiten Sitzung? Umgekehrt kann eine Teilnahme Bahrs als Zuseher zumindest als wahrscheinlich gelten.",
+      "format": "full_html",
+      "processed": "1922 erwähnt Bahr, dass sich Heinrich Kana 1891 in Berlin erschoß:<blockquote>Ein Jugendfreund Herzls, der Dichter Heinrich Kana, erschoß sich 1891 in Berlin nach einer Vorlesung einer Novelle, die von den Zuhörern auf Berliner Art verulkt worden war. Sie hatten das an demselben Abend auch mit mir, der unmittelbar vor Kana las, versucht, aber da sie merkten, welchen Spaß es mir machte und daß ich, je mehr sie zu randalieren begannen, nur desto vergnügter wurde, klein beigegeben, weil Skandal ja dann keinen Sinn hat.[1]</blockquote>In der Zeitungsmeldung über den Tod [2] wird die Lesung mit Kanas Debüt in der 3. Sitzung der Freien litterarischen Gesellschaft auf den 22. Jänner datiert, Bahr nicht erwähnt. Auch nicht in der Freien Bühne[3]. Möglicherweise irrt sich Bahr und bezieht sich auf die Lesung der \"Treuen Adele\" in der zweiten Sitzung? Umgekehrt kann eine Teilnahme Bahrs als Zuseher zumindest als wahrscheinlich gelten.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1891-01-22",
+      "end_value": "1891-01-22"
+    },
+    "field_sources": [
+      "Zu Kana: \"Tod eines Satirikers. Heinrich Kana und die 'Freie Bühne'\" in: Peter Sprengel, Gregor Streim: Berliner und Wiener Moderne. Wien: Böhlau 1998, 363-382.",
+      "[1] Liebe der Lebenden, II, 254. ",
+      "[2] Neue Freie Presse, 1891 #9504, Abendausgabe, 1. (10.2.1891)",
+      "[3] Freie Bühne, 2 (1891), 99.",
+      "Wilhelm Bölsche: Werke und Briefe. Hg. Hans-Gert Roloff. Briefe 1. Briefwechsel mit Autoren der Freien Bühne. Transkription und Kommentar Gerd-Hermann Susen. Berlin: Weidler 2010, 956 bis 961"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/778c516f-fe17-47c6-8b1e-b55c22a4cb84/node_type?resourceVersion=id%3A3552"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/778c516f-fe17-47c6-8b1e-b55c22a4cb84/relationships/node_type?resourceVersion=id%3A3552"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/778c516f-fe17-47c6-8b1e-b55c22a4cb84/revision_uid?resourceVersion=id%3A3552"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/778c516f-fe17-47c6-8b1e-b55c22a4cb84/relationships/revision_uid?resourceVersion=id%3A3552"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/778c516f-fe17-47c6-8b1e-b55c22a4cb84/uid?resourceVersion=id%3A3552"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/778c516f-fe17-47c6-8b1e-b55c22a4cb84/relationships/uid?resourceVersion=id%3A3552"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/778c516f-fe17-47c6-8b1e-b55c22a4cb84/field_event_type?resourceVersion=id%3A3552"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/778c516f-fe17-47c6-8b1e-b55c22a4cb84/relationships/field_event_type?resourceVersion=id%3A3552"
+        }
+      }
+    }
+  }
+}

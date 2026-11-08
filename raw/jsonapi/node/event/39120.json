@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "73421e57-5589-4588-b7f1-4cf91e4a72cb",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/73421e57-5589-4588-b7f1-4cf91e4a72cb?resourceVersion=id%3A2885"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/73421e57-5589-4588-b7f1-4cf91e4a72cb?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39120,
+    "drupal_internal__vid": 2885,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Österreichwanderung",
+    "created": "2011-05-24T10:54:08+00:00",
+    "changed": "2011-06-27T11:37:52+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39120",
+      "pid": 850,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "1891 schreibt Bahr:\r\n<blockquote>Ich bin letzten Sommer und Herbst wieder einmal quer durch mein Österreich gewandert, von den galizischen Sümpfen nach dem herzigen Grosstädtchen an der Donau und dann die Alpen hinauf, wo sie am steilsten sind, ein bischen überall schauend, lauschend und genießend.</blockquote>\r\nAls Zeitpunkt ist August 1890 anzunehmen, da für diese Zeit keine Zeugnisse erhalten sind. Von einer früheren Österreichwanderung spricht er 1884 in einem Brief an Marie Eugenie delle Grazie (Wienbibliothek, Signatur: I.N. 89416)",
+      "format": "full_html",
+      "processed": "1891 schreibt Bahr:\n<blockquote>Ich bin letzten Sommer und Herbst wieder einmal quer durch mein Österreich gewandert, von den galizischen Sümpfen nach dem herzigen Grosstädtchen an der Donau und dann die Alpen hinauf, wo sie am steilsten sind, ein bischen überall schauend, lauschend und genießend.</blockquote>\nAls Zeitpunkt ist August 1890 anzunehmen, da für diese Zeit keine Zeugnisse erhalten sind. Von einer früheren Österreichwanderung spricht er 1884 in einem Brief an Marie Eugenie delle Grazie (Wienbibliothek, Signatur: I.N. 89416)",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1890-08-01",
+      "end_value": "1890-08-31"
+    },
+    "field_sources": [
+      "Hermann Bahr: Moderne Kunst in Österreich. Moderne Kunst in Meister-Holzschnitten, 6 (1891) #12, 190-192."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/73421e57-5589-4588-b7f1-4cf91e4a72cb/node_type?resourceVersion=id%3A2885"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/73421e57-5589-4588-b7f1-4cf91e4a72cb/relationships/node_type?resourceVersion=id%3A2885"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/73421e57-5589-4588-b7f1-4cf91e4a72cb/revision_uid?resourceVersion=id%3A2885"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/73421e57-5589-4588-b7f1-4cf91e4a72cb/relationships/revision_uid?resourceVersion=id%3A2885"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/73421e57-5589-4588-b7f1-4cf91e4a72cb/uid?resourceVersion=id%3A2885"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/73421e57-5589-4588-b7f1-4cf91e4a72cb/relationships/uid?resourceVersion=id%3A2885"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/73421e57-5589-4588-b7f1-4cf91e4a72cb/field_event_type?resourceVersion=id%3A2885"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/73421e57-5589-4588-b7f1-4cf91e4a72cb/relationships/field_event_type?resourceVersion=id%3A2885"
+        }
+      }
+    }
+  }
+}

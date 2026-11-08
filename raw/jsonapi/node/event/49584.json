@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "59b36298-4bbe-4425-acb9-8ecae1296c9e",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/59b36298-4bbe-4425-acb9-8ecae1296c9e?resourceVersion=id%3A3411"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/59b36298-4bbe-4425-acb9-8ecae1296c9e?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49584,
+    "drupal_internal__vid": 3411,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Vertrag",
+    "created": "2011-11-09T09:02:00+00:00",
+    "changed": "2011-11-09T09:02:00+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49584",
+      "pid": 1400,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 27. August 1918 erhält Bahr den Vertrag für das Burgtheater. Kindermann zitiert auch einen Akt vom 15. Juli 1919: <blockquote>Hermann Bahr wurde am 1. September 1918 auf ein Jahr mit 6000 Kronen Gehalt, 14.000 Kronen Entschädigung als Entgang für literarische Arbeiten als erster Dramaturg dem Burgtheater verpflichtet. Derselbe scheidet nach Ablauf dieses Vertrags aus dem Verbande des Burgtheaters.</blockquote>",
+      "format": "full_html",
+      "processed": "Am 27. August 1918 erhält Bahr den Vertrag für das Burgtheater. Kindermann zitiert auch einen Akt vom 15. Juli 1919: <blockquote>Hermann Bahr wurde am 1. September 1918 auf ein Jahr mit 6000 Kronen Gehalt, 14.000 Kronen Entschädigung als Entgang für literarische Arbeiten als erster Dramaturg dem Burgtheater verpflichtet. Derselbe scheidet nach Ablauf dieses Vertrags aus dem Verbande des Burgtheaters.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1918-08-27",
+      "end_value": "1918-08-27"
+    },
+    "field_sources": [
+      "Kindermann: Bahr, 271 und 280."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/59b36298-4bbe-4425-acb9-8ecae1296c9e/node_type?resourceVersion=id%3A3411"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/59b36298-4bbe-4425-acb9-8ecae1296c9e/relationships/node_type?resourceVersion=id%3A3411"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/59b36298-4bbe-4425-acb9-8ecae1296c9e/revision_uid?resourceVersion=id%3A3411"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/59b36298-4bbe-4425-acb9-8ecae1296c9e/relationships/revision_uid?resourceVersion=id%3A3411"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/59b36298-4bbe-4425-acb9-8ecae1296c9e/uid?resourceVersion=id%3A3411"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/59b36298-4bbe-4425-acb9-8ecae1296c9e/relationships/uid?resourceVersion=id%3A3411"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/59b36298-4bbe-4425-acb9-8ecae1296c9e/field_event_type?resourceVersion=id%3A3411"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/59b36298-4bbe-4425-acb9-8ecae1296c9e/relationships/field_event_type?resourceVersion=id%3A3411"
+        }
+      }
+    }
+  }
+}

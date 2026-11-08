@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "446f4445-6145-4037-bf32-f9a3a25ccccb",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/446f4445-6145-4037-bf32-f9a3a25ccccb?resourceVersion=id%3A4259"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/446f4445-6145-4037-bf32-f9a3a25ccccb?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44129,
+    "drupal_internal__vid": 4259,
+    "langcode": "de",
+    "revision_timestamp": "2023-08-01T07:27:58+00:00",
+    "status": true,
+    "title": "Photographie im Prater",
+    "created": "2011-09-14T13:04:41+00:00",
+    "changed": "2023-08-01T07:27:58+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44129",
+      "pid": 1024,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<p>Am 1. April 1894 lassen sich Hugo von Hofmannsthal, Schnitzler, Beer-Hofmann und Bahr im Prater fotografieren. Das Bild ist im <a href=\"https://onb.wg.picturemaxx.com\">Bildarchiv</a> der Österreichischen Nationalbibliothek erhalten:</p><blockquote><p>#3778967 Schnellfotografie aus dem Prater Beschreibung Schnellphotographie (Ferrotypie) aus dem Prater. Gruppenbild: Richard Beer-Hofmann und Hermann Bahr stehend, Hugo von Hofmannsthal und Arthur Schnitzler sitzend.</p></blockquote>",
+      "format": "full_html",
+      "processed": "<p>Am 1. April 1894 lassen sich Hugo von Hofmannsthal, Schnitzler, Beer-Hofmann und Bahr im Prater fotografieren. Das Bild ist im <a href=\"https://onb.wg.picturemaxx.com\">Bildarchiv</a> der Österreichischen Nationalbibliothek erhalten:</p><blockquote><p>#3778967 Schnellfotografie aus dem Prater Beschreibung Schnellphotographie (Ferrotypie) aus dem Prater. Gruppenbild: Richard Beer-Hofmann und Hermann Bahr stehend, Hugo von Hofmannsthal und Arthur Schnitzler sitzend.</p></blockquote>",
+      "summary": ""
+    },
+    "field_event_date": {
+      "value": "1894-04-01",
+      "end_value": "1894-04-01"
+    },
+    "field_sources": [
+      "Schnitzler: Tagebuch, II, 73."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/446f4445-6145-4037-bf32-f9a3a25ccccb/node_type?resourceVersion=id%3A4259"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/446f4445-6145-4037-bf32-f9a3a25ccccb/relationships/node_type?resourceVersion=id%3A4259"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/446f4445-6145-4037-bf32-f9a3a25ccccb/revision_uid?resourceVersion=id%3A4259"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/446f4445-6145-4037-bf32-f9a3a25ccccb/relationships/revision_uid?resourceVersion=id%3A4259"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/446f4445-6145-4037-bf32-f9a3a25ccccb/uid?resourceVersion=id%3A4259"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/446f4445-6145-4037-bf32-f9a3a25ccccb/relationships/uid?resourceVersion=id%3A4259"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/446f4445-6145-4037-bf32-f9a3a25ccccb/field_event_type?resourceVersion=id%3A4259"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/446f4445-6145-4037-bf32-f9a3a25ccccb/relationships/field_event_type?resourceVersion=id%3A4259"
+        }
+      }
+    }
+  }
+}

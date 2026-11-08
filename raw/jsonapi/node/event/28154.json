@@ -1,0 +1,119 @@
+{
+  "type": "node--event",
+  "id": "8a281439-5468-461d-bb59-909751ed413b",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/8a281439-5468-461d-bb59-909751ed413b?resourceVersion=id%3A2467"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/8a281439-5468-461d-bb59-909751ed413b?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28154,
+    "drupal_internal__vid": 2467,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Hamburg",
+    "created": "2010-08-25T09:50:25+00:00",
+    "changed": "2011-08-22T09:56:54+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28154",
+      "pid": 303,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am Abend des 9. Januar 1902 fährt Bahr über Berlin nach Hamburg, wo er am 11. ankommt. In dem Aufenthalt von circa einer Woche besucht er Lichtwark in der Kunsthalle und sieht am 14. die Première von \"Herr Hofrat\", wie sein \"Krampus\" hier heißt. Am 15. ist er wieder in Berlin. Am 16. besucht er in Wien die Aufführung der Yvette Guilbert.\r\n",
+      "format": "full_html",
+      "processed": "Am Abend des 9. Januar 1902 fährt Bahr über Berlin nach Hamburg, wo er am 11. ankommt. In dem Aufenthalt von circa einer Woche besucht er Lichtwark in der Kunsthalle und sieht am 14. die Première von \"Herr Hofrat\", wie sein \"Krampus\" hier heißt. Am 15. ist er wieder in Berlin. Am 16. besucht er in Wien die Aufführung der Yvette Guilbert.\n",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1902-01-09",
+      "end_value": "1902-01-15"
+    },
+    "field_sources": [
+      "Vgl. Brief an die Mutter, 24.1.[1902]",
+      "Kurzmeldung der Première: Neues Wiener Tagblatt, 36 (1902) #14, 8. (15.1.1902)",
+      "H. B.: Theater, Kunst und Literatur. Theater an der Wien. Neues Wiener Tagblatt, 36 (1902) #16, 9. (17.1.1902)",
+      "Tagebücher (Csàky), III, 166."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8a281439-5468-461d-bb59-909751ed413b/node_type?resourceVersion=id%3A2467"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8a281439-5468-461d-bb59-909751ed413b/relationships/node_type?resourceVersion=id%3A2467"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8a281439-5468-461d-bb59-909751ed413b/revision_uid?resourceVersion=id%3A2467"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8a281439-5468-461d-bb59-909751ed413b/relationships/revision_uid?resourceVersion=id%3A2467"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8a281439-5468-461d-bb59-909751ed413b/uid?resourceVersion=id%3A2467"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8a281439-5468-461d-bb59-909751ed413b/relationships/uid?resourceVersion=id%3A2467"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8a281439-5468-461d-bb59-909751ed413b/field_event_type?resourceVersion=id%3A2467"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8a281439-5468-461d-bb59-909751ed413b/relationships/field_event_type?resourceVersion=id%3A2467"
+        }
+      }
+    }
+  }
+}

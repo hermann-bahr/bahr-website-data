@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "446e0fcc-9568-452b-ae2f-c80cd4ce31de",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/446e0fcc-9568-452b-ae2f-c80cd4ce31de?resourceVersion=id%3A2377"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/446e0fcc-9568-452b-ae2f-c80cd4ce31de?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28046,
+    "drupal_internal__vid": 2377,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Der Weg",
+    "created": "2010-08-04T14:15:10+00:00",
+    "changed": "2012-10-30T12:26:28+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28046",
+      "pid": 211,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Vom 1. Heft am 1. Oktober 1905 weg bis zur Einstellung nach 27 Heften am 31. März 1906 schreibt Bahr für die Zeitschrift \"Der Weg\" etwas, was anachronistisch als Blog bezeichnet werden kann, eine thematisch offene Reihe von Tagebucheinträgen. Neben drei weiteren kürzeren Gastspielen bei Zeitschriften wird er zehn Jahre später die Textgattung wieder aufnehmen und fortan bis zum Ende seines Lebens als seine zentrale Textsorte behandeln.\r\nSiegfried Jacobsohn:<blockquote>Erst in diesem Winter wieder hat Hermann Bahr für den bloßen Versuch eines solchen \"Tagebuchs\" Spott und Hohn geerntet.</blockquote>",
+      "format": "full_html",
+      "processed": "Vom 1. Heft am 1. Oktober 1905 weg bis zur Einstellung nach 27 Heften am 31. März 1906 schreibt Bahr für die Zeitschrift \"Der Weg\" etwas, was anachronistisch als Blog bezeichnet werden kann, eine thematisch offene Reihe von Tagebucheinträgen. Neben drei weiteren kürzeren Gastspielen bei Zeitschriften wird er zehn Jahre später die Textgattung wieder aufnehmen und fortan bis zum Ende seines Lebens als seine zentrale Textsorte behandeln.\nSiegfried Jacobsohn:<blockquote>Erst in diesem Winter wieder hat Hermann Bahr für den bloßen Versuch eines solchen \"Tagebuchs\" Spott und Hohn geerntet.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1905-10-01",
+      "end_value": "1906-03-31"
+    },
+    "field_sources": [
+      "Siegfried Jacobsohn: Der einsame Weg. In: Schaubühne, 26.4.1906. Nach: Gesammelte Schriften. Göttingen: Wallstein 2005, I, 280."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/446e0fcc-9568-452b-ae2f-c80cd4ce31de/node_type?resourceVersion=id%3A2377"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/446e0fcc-9568-452b-ae2f-c80cd4ce31de/relationships/node_type?resourceVersion=id%3A2377"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/446e0fcc-9568-452b-ae2f-c80cd4ce31de/revision_uid?resourceVersion=id%3A2377"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/446e0fcc-9568-452b-ae2f-c80cd4ce31de/relationships/revision_uid?resourceVersion=id%3A2377"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/446e0fcc-9568-452b-ae2f-c80cd4ce31de/uid?resourceVersion=id%3A2377"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/446e0fcc-9568-452b-ae2f-c80cd4ce31de/relationships/uid?resourceVersion=id%3A2377"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "b7b074bd-6489-4a96-84e9-9c8184cda171",
+          "meta": {
+            "drupal_internal__target_id": 7
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/446e0fcc-9568-452b-ae2f-c80cd4ce31de/field_event_type?resourceVersion=id%3A2377"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/446e0fcc-9568-452b-ae2f-c80cd4ce31de/relationships/field_event_type?resourceVersion=id%3A2377"
+        }
+      }
+    }
+  }
+}

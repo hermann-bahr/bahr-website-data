@@ -1,0 +1,86 @@
+{
+  "type": "taxonomy_term--bibliografie_type",
+  "id": "f5402746-c49e-41be-b7ec-f14b0dba2cc7",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/taxonomy_term/bibliografie_type/f5402746-c49e-41be-b7ec-f14b0dba2cc7?resourceVersion=id%3A11"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/taxonomy_term/bibliografie_type/f5402746-c49e-41be-b7ec-f14b0dba2cc7?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__tid": 11,
+    "drupal_internal__revision_id": 11,
+    "langcode": "de",
+    "revision_created": "2020-02-14T17:10:46+00:00",
+    "status": true,
+    "name": "Schriften für das Theater",
+    "description": null,
+    "weight": 0,
+    "changed": "2020-02-14T17:10:46+00:00",
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/bibliografie-type/schriften-fuer-das-theater",
+      "pid": 1892,
+      "langcode": "de"
+    }
+  },
+  "relationships": {
+    "vid": {
+      "data": {
+        "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+        "id": "206aa5a7-2dc1-4ac9-a930-c6e0c936ba14",
+        "meta": {
+          "drupal_internal__target_id": "bibliografie_type"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/taxonomy_term/bibliografie_type/f5402746-c49e-41be-b7ec-f14b0dba2cc7/vid?resourceVersion=id%3A11"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/taxonomy_term/bibliografie_type/f5402746-c49e-41be-b7ec-f14b0dba2cc7/relationships/vid?resourceVersion=id%3A11"
+        }
+      }
+    },
+    "revision_user": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/taxonomy_term/bibliografie_type/f5402746-c49e-41be-b7ec-f14b0dba2cc7/revision_user?resourceVersion=id%3A11"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/taxonomy_term/bibliografie_type/f5402746-c49e-41be-b7ec-f14b0dba2cc7/relationships/revision_user?resourceVersion=id%3A11"
+        }
+      }
+    },
+    "parent": {
+      "data": [
+        {
+          "type": "taxonomy_term--bibliografie_type",
+          "id": "virtual",
+          "meta": {
+            "links": {
+              "help": {
+                "href": "https://www.drupal.org/docs/8/modules/json-api/core-concepts#virtual",
+                "meta": {
+                  "about": "Usage and meaning of the 'virtual' resource identifier."
+                }
+              }
+            }
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/taxonomy_term/bibliografie_type/f5402746-c49e-41be-b7ec-f14b0dba2cc7/parent?resourceVersion=id%3A11"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/taxonomy_term/bibliografie_type/f5402746-c49e-41be-b7ec-f14b0dba2cc7/relationships/parent?resourceVersion=id%3A11"
+        }
+      }
+    }
+  }
+}

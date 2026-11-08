@@ -1,0 +1,118 @@
+{
+  "type": "media--image",
+  "id": "12fa7d3a-cf52-4d7b-bf34-98f19238117d",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/media/image/12fa7d3a-cf52-4d7b-bf34-98f19238117d?resourceVersion=id%3A133"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/media/image/12fa7d3a-cf52-4d7b-bf34-98f19238117d?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__mid": 133,
+    "drupal_internal__vid": 133,
+    "langcode": "de",
+    "revision_created": "2020-02-18T15:16:19+00:00",
+    "status": true,
+    "name": "1905_jugend",
+    "created": "2020-02-18T15:16:19+00:00",
+    "changed": "2020-02-18T15:16:19+00:00",
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": null,
+      "pid": null,
+      "langcode": "de"
+    }
+  },
+  "relationships": {
+    "bundle": {
+      "data": {
+        "type": "media_type--media_type",
+        "id": "b82aabb6-e7a1-420d-b98b-5b981c2d920e",
+        "meta": {
+          "drupal_internal__target_id": "image"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/12fa7d3a-cf52-4d7b-bf34-98f19238117d/bundle?resourceVersion=id%3A133"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/12fa7d3a-cf52-4d7b-bf34-98f19238117d/relationships/bundle?resourceVersion=id%3A133"
+        }
+      }
+    },
+    "revision_user": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/12fa7d3a-cf52-4d7b-bf34-98f19238117d/revision_user?resourceVersion=id%3A133"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/12fa7d3a-cf52-4d7b-bf34-98f19238117d/relationships/revision_user?resourceVersion=id%3A133"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/12fa7d3a-cf52-4d7b-bf34-98f19238117d/uid?resourceVersion=id%3A133"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/12fa7d3a-cf52-4d7b-bf34-98f19238117d/relationships/uid?resourceVersion=id%3A133"
+        }
+      }
+    },
+    "thumbnail": {
+      "data": {
+        "type": "file--file",
+        "id": "cd56d5f5-8b1e-4ec9-8b05-e5953d07b372",
+        "meta": {
+          "alt": "1905 Jugend",
+          "title": null,
+          "width": 1158,
+          "height": 1563,
+          "drupal_internal__target_id": 194
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/12fa7d3a-cf52-4d7b-bf34-98f19238117d/thumbnail?resourceVersion=id%3A133"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/12fa7d3a-cf52-4d7b-bf34-98f19238117d/relationships/thumbnail?resourceVersion=id%3A133"
+        }
+      }
+    },
+    "field_media_image": {
+      "data": {
+        "type": "file--file",
+        "id": "cd56d5f5-8b1e-4ec9-8b05-e5953d07b372",
+        "meta": {
+          "alt": "1905 Jugend",
+          "title": "1905_jugend",
+          "width": 1158,
+          "height": 1563,
+          "drupal_internal__target_id": 194
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/12fa7d3a-cf52-4d7b-bf34-98f19238117d/field_media_image?resourceVersion=id%3A133"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image/12fa7d3a-cf52-4d7b-bf34-98f19238117d/relationships/field_media_image?resourceVersion=id%3A133"
+        }
+      }
+    }
+  }
+}

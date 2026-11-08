@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "1a37b67e-1a06-477d-baed-b37435130893",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/1a37b67e-1a06-477d-baed-b37435130893?resourceVersion=id%3A3408"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/1a37b67e-1a06-477d-baed-b37435130893?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49578,
+    "drupal_internal__vid": 3408,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Klage gegen Ultramontanisten",
+    "created": "2011-11-07T12:35:59+00:00",
+    "changed": "2011-11-07T12:35:59+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49578",
+      "pid": 1394,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Das Neue Wiener Tagblatt meldet am 6. Januar 1906 aus München<blockquote>Hermann <i>Bahr</i> wird von seiner vorgesetzten Behörde, der Hoftheaterintendanz, veranlaßt werden, wegen der Beschuldigungen der ultramontanen Blätter gegen diese die Verleumdungsklage zu überreichen. Nach seiner Rechtfertigung durch ein gerichtliches Urteil soll seinem Amtantritte <i>keinerlei Hindernis</i> entgegenstehen.</blockquote>",
+      "format": "full_html",
+      "processed": "Das Neue Wiener Tagblatt meldet am 6. Januar 1906 aus München<blockquote>Hermann <i>Bahr</i> wird von seiner vorgesetzten Behörde, der Hoftheaterintendanz, veranlaßt werden, wegen der Beschuldigungen der ultramontanen Blätter gegen diese die Verleumdungsklage zu überreichen. Nach seiner Rechtfertigung durch ein gerichtliches Urteil soll seinem Amtantritte <i>keinerlei Hindernis</i> entgegenstehen.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1906-01-06",
+      "end_value": "1906-01-06"
+    },
+    "field_sources": [
+      "Neues Wiener Tagblatt, 40 (1906) #5, 14. (6.1.1906)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1a37b67e-1a06-477d-baed-b37435130893/node_type?resourceVersion=id%3A3408"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1a37b67e-1a06-477d-baed-b37435130893/relationships/node_type?resourceVersion=id%3A3408"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1a37b67e-1a06-477d-baed-b37435130893/revision_uid?resourceVersion=id%3A3408"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1a37b67e-1a06-477d-baed-b37435130893/relationships/revision_uid?resourceVersion=id%3A3408"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1a37b67e-1a06-477d-baed-b37435130893/uid?resourceVersion=id%3A3408"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1a37b67e-1a06-477d-baed-b37435130893/relationships/uid?resourceVersion=id%3A3408"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1a37b67e-1a06-477d-baed-b37435130893/field_event_type?resourceVersion=id%3A3408"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1a37b67e-1a06-477d-baed-b37435130893/relationships/field_event_type?resourceVersion=id%3A3408"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "e84a608a-934a-436a-ade0-eff9264e6fa4",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/e84a608a-934a-436a-ade0-eff9264e6fa4?resourceVersion=id%3A3494"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/e84a608a-934a-436a-ade0-eff9264e6fa4?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49721,
+    "drupal_internal__vid": 3494,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Köchin",
+    "created": "2011-12-15T15:16:25+00:00",
+    "changed": "2011-12-15T15:16:25+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49721",
+      "pid": 1534,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahr will seine Flucht zur Einsamkeit 1893 begonnen haben:<blockquote>Damals begann der Zudrang der Menschheit […] Sehr einfach, sagt ich mir: du nimmst dir eine Köchin, da brauchst du dann nicht mehr ins Gasthaus zu gehen. Die Köchin muß aber doch nicht ausgereicht haben, so nahm ich, um Schutz vor dem Nachlauf der Welt zu finden, zwei Jahre darauf eine Frau.</blockquote>",
+      "format": "full_html",
+      "processed": "Bahr will seine Flucht zur Einsamkeit 1893 begonnen haben:<blockquote>Damals begann der Zudrang der Menschheit […] Sehr einfach, sagt ich mir: du nimmst dir eine Köchin, da brauchst du dann nicht mehr ins Gasthaus zu gehen. Die Köchin muß aber doch nicht ausgereicht haben, so nahm ich, um Schutz vor dem Nachlauf der Welt zu finden, zwei Jahre darauf eine Frau.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1893-01-01",
+      "end_value": "1893-01-01"
+    },
+    "field_sources": [
+      "Tagebuch 1919, 280. (Eintrag: 17. September)",
+      "(Hier auf 1.1.1893 datiert)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e84a608a-934a-436a-ade0-eff9264e6fa4/node_type?resourceVersion=id%3A3494"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e84a608a-934a-436a-ade0-eff9264e6fa4/relationships/node_type?resourceVersion=id%3A3494"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e84a608a-934a-436a-ade0-eff9264e6fa4/revision_uid?resourceVersion=id%3A3494"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e84a608a-934a-436a-ade0-eff9264e6fa4/relationships/revision_uid?resourceVersion=id%3A3494"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e84a608a-934a-436a-ade0-eff9264e6fa4/uid?resourceVersion=id%3A3494"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e84a608a-934a-436a-ade0-eff9264e6fa4/relationships/uid?resourceVersion=id%3A3494"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e84a608a-934a-436a-ade0-eff9264e6fa4/field_event_type?resourceVersion=id%3A3494"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e84a608a-934a-436a-ade0-eff9264e6fa4/relationships/field_event_type?resourceVersion=id%3A3494"
+        }
+      }
+    }
+  }
+}

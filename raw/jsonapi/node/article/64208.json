@@ -1,0 +1,112 @@
+{
+  "type": "node--article",
+  "id": "f63cc8e0-0933-4b6d-83b9-0bb4b8a7fb8f",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/article/f63cc8e0-0933-4b6d-83b9-0bb4b8a7fb8f?resourceVersion=id%3A4018"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/article/f63cc8e0-0933-4b6d-83b9-0bb4b8a7fb8f?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 64208,
+    "drupal_internal__vid": 4018,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:47:58+00:00",
+    "status": true,
+    "title": "Gegen Klimt",
+    "created": "2012-05-10T13:28:12+00:00",
+    "changed": "2013-04-09T10:15:08+00:00",
+    "promote": true,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/article/64208",
+      "pid": 1641,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<img style=\"padding-left : 20px; float : right\" src=\"http://www.univie.ac.at/bahr/sites/all/blog/nuda.jpg\" width=\"200px\" alt=\"Gustav Klimt - Nuda Veritas - Ausschnitt\" vspace=\"15\" hspace=\"15\">Im Österreichischen Theatermuseum läuft von 10. Mai bis zum 29. Oktober 2012 die Ausstellung \"Gegen Klimt. Die 'Nuda Veritas' und ihr Verteidiger Hermann Bahr.\" Kuratiert wurde sie von Kurt Ifkovits und Andreas Kugler. \r\n\r\nAls Höhepunkte können die Entschlüsselung der Kompilatorenzuschreibung von \"Gegen Klimt\" (Bahr, Burckhardt, Kolo Moser und vor allem Fritz Wärndorfer), die Zusammenführung der \"Hexe\" mit der Originaltür aus dem Haus Bahr, die Olbrich-Pläne dieses Hauses sowie die Ermittlung der Haar- und Beinvorlage der \"Nuda\" gelten.\r\n\r\n<h3>Links</h3>\r\n\r\n<a href=\"http://www.theatermuseum.at/ausstellungen/vorschau/gegen-klimt/?back=%2Fausstellungen%2Faktuell%2F&open=5328&cHash=cbf53c628cab418845c3fad607969138\">Österreichisches Theatermuseum\r\n\r\n<a href=\"http://www.univie.ac.at/bahr/node/28283\">Rede über Klimt</a>\r\n<a href=\"http://www.univie.ac.at/bahr/node/44019\">Gegen Klimt</a>\r\n<a href=\"http://www.univie.ac.at/bahr/node/39134\">Themenbibliografie zu Bahr und Klimt</a>\r\n\r\n<h3>Ausstellungsbesprechungen</h3>\r\nDie Presse, 10.5.2012 <a href=\"http://diepresse.com/home/kultur/kunst/756368/Seltener-Ausgang-fuer-Klimts-Nackte-Wahrheit?from=gl.home_kultur\">Link</a>\r\nWiener Zeitung, <a href=\"http://www.wienerzeitung.at/themen_channel/wzkunstgriff/kunst/456832_Kritische-Ikone.html\">Link</a>\r\nAPA-Meldung auf: Der Standard <a href=\"http://derstandard.at/1336563122513/Theatermuseum-Ausstellung-Gegen-Klimt\">Link</a>\r\n",
+      "format": "full_html",
+      "processed": "<img style=\"padding-left : 20px; float : right\" src=\"http://www.univie.ac.at/bahr/sites/all/blog/nuda.jpg\" width=\"200px\" alt=\"Gustav Klimt - Nuda Veritas - Ausschnitt\" vspace=\"15\" hspace=\"15\">Im Österreichischen Theatermuseum läuft von 10. Mai bis zum 29. Oktober 2012 die Ausstellung \"Gegen Klimt. Die 'Nuda Veritas' und ihr Verteidiger Hermann Bahr.\" Kuratiert wurde sie von Kurt Ifkovits und Andreas Kugler. \n\nAls Höhepunkte können die Entschlüsselung der Kompilatorenzuschreibung von \"Gegen Klimt\" (Bahr, Burckhardt, Kolo Moser und vor allem Fritz Wärndorfer), die Zusammenführung der \"Hexe\" mit der Originaltür aus dem Haus Bahr, die Olbrich-Pläne dieses Hauses sowie die Ermittlung der Haar- und Beinvorlage der \"Nuda\" gelten.\n\n<h3>Links</h3>\n\n<a href=\"http://www.theatermuseum.at/ausstellungen/vorschau/gegen-klimt/?back=%2Fausstellungen%2Faktuell%2F&amp;open=5328&amp;cHash=cbf53c628cab418845c3fad607969138\">Österreichisches Theatermuseum\n\n<a href=\"http://www.univie.ac.at/bahr/node/28283\">Rede über Klimt</a>\n<a href=\"http://www.univie.ac.at/bahr/node/44019\">Gegen Klimt</a>\n<a href=\"http://www.univie.ac.at/bahr/node/39134\">Themenbibliografie zu Bahr und Klimt</a>\n\n<h3>Ausstellungsbesprechungen</h3>\nDie Presse, 10.5.2012 <a href=\"http://diepresse.com/home/kultur/kunst/756368/Seltener-Ausgang-fuer-Klimts-Nackte-Wahrheit?from=gl.home_kultur\">Link</a>\nWiener Zeitung, <a href=\"http://www.wienerzeitung.at/themen_channel/wzkunstgriff/kunst/456832_Kritische-Ikone.html\">Link</a>\nAPA-Meldung auf: Der Standard <a href=\"http://derstandard.at/1336563122513/Theatermuseum-Ausstellung-Gegen-Klimt\">Link</a>\n</a>",
+      "summary": null
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "2591b802-2e12-43ea-999f-36ccdccd1176",
+        "meta": {
+          "drupal_internal__target_id": "article"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/f63cc8e0-0933-4b6d-83b9-0bb4b8a7fb8f/node_type?resourceVersion=id%3A4018"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/f63cc8e0-0933-4b6d-83b9-0bb4b8a7fb8f/relationships/node_type?resourceVersion=id%3A4018"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/f63cc8e0-0933-4b6d-83b9-0bb4b8a7fb8f/revision_uid?resourceVersion=id%3A4018"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/f63cc8e0-0933-4b6d-83b9-0bb4b8a7fb8f/relationships/revision_uid?resourceVersion=id%3A4018"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/f63cc8e0-0933-4b6d-83b9-0bb4b8a7fb8f/uid?resourceVersion=id%3A4018"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/f63cc8e0-0933-4b6d-83b9-0bb4b8a7fb8f/relationships/uid?resourceVersion=id%3A4018"
+        }
+      }
+    },
+    "field_image": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/f63cc8e0-0933-4b6d-83b9-0bb4b8a7fb8f/field_image?resourceVersion=id%3A4018"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/f63cc8e0-0933-4b6d-83b9-0bb4b8a7fb8f/relationships/field_image?resourceVersion=id%3A4018"
+        }
+      }
+    },
+    "field_tags": {
+      "data": [],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/f63cc8e0-0933-4b6d-83b9-0bb4b8a7fb8f/field_tags?resourceVersion=id%3A4018"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/f63cc8e0-0933-4b6d-83b9-0bb4b8a7fb8f/relationships/field_tags?resourceVersion=id%3A4018"
+        }
+      }
+    }
+  }
+}

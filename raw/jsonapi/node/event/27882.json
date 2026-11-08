@@ -1,0 +1,119 @@
+{
+  "type": "node--event",
+  "id": "0cec4ad1-f87f-4206-8001-5ae626e0a4b1",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/0cec4ad1-f87f-4206-8001-5ae626e0a4b1?resourceVersion=id%3A2233"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/0cec4ad1-f87f-4206-8001-5ae626e0a4b1?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27882,
+    "drupal_internal__vid": 2233,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Operation",
+    "created": "2010-06-21T14:24:34+00:00",
+    "changed": "2012-05-23T18:09:57+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/27882",
+      "pid": 66,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Die Blinddarmoperation am 26. Jänner 1903 nimmt Arthurs Bruder Julius Schnitzler im Sanatorium Löw vor. \r\n",
+      "format": "full_html",
+      "processed": "Die Blinddarmoperation am 26. Jänner 1903 nimmt Arthurs Bruder Julius Schnitzler im Sanatorium Löw vor. \n",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1903-01-26",
+      "end_value": "1903-01-26"
+    },
+    "field_sources": [
+      "Bahr/Redlich, 11-12.",
+      "Tagebücher (Csàky), III, 271.",
+      "Fritz Fellner und Doris A. Corradini (Hgg.): Schicksalsjahre Österreichs. Die Erinnerungen und Tagebücher Josef Redlichs 1869–1936. Wien: Böhlau 2011, I, 114.",
+      "Schnitzler: Tagebücher, III, 12."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0cec4ad1-f87f-4206-8001-5ae626e0a4b1/node_type?resourceVersion=id%3A2233"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0cec4ad1-f87f-4206-8001-5ae626e0a4b1/relationships/node_type?resourceVersion=id%3A2233"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0cec4ad1-f87f-4206-8001-5ae626e0a4b1/revision_uid?resourceVersion=id%3A2233"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0cec4ad1-f87f-4206-8001-5ae626e0a4b1/relationships/revision_uid?resourceVersion=id%3A2233"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0cec4ad1-f87f-4206-8001-5ae626e0a4b1/uid?resourceVersion=id%3A2233"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0cec4ad1-f87f-4206-8001-5ae626e0a4b1/relationships/uid?resourceVersion=id%3A2233"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0cec4ad1-f87f-4206-8001-5ae626e0a4b1/field_event_type?resourceVersion=id%3A2233"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0cec4ad1-f87f-4206-8001-5ae626e0a4b1/relationships/field_event_type?resourceVersion=id%3A2233"
+        }
+      }
+    }
+  }
+}

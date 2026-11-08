@@ -1,0 +1,114 @@
+{
+  "type": "node--event",
+  "id": "d4493bee-829d-43a8-b6b8-bd40493ad40d",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/d4493bee-829d-43a8-b6b8-bd40493ad40d?resourceVersion=id%3A2629"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/d4493bee-829d-43a8-b6b8-bd40493ad40d?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38808,
+    "drupal_internal__vid": 2629,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "München",
+    "created": "2011-02-02T14:38:09+00:00",
+    "changed": "2011-05-03T10:09:22+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38808",
+      "pid": 556,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahr schreibt am 3.2.1897, eben vom Vortrag aus Brünn zurück, an seinen Vater, dass es ein großer Erfolg war und kündigt für Anfang März den gleichen Vortrag in München an.",
+      "format": "full_html",
+      "processed": "Bahr schreibt am 3.2.1897, eben vom Vortrag aus Brünn zurück, an seinen Vater, dass es ein großer Erfolg war und kündigt für Anfang März den gleichen Vortrag in München an.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1897-03-01",
+      "end_value": "1897-03-01"
+    },
+    "field_sources": []
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d4493bee-829d-43a8-b6b8-bd40493ad40d/node_type?resourceVersion=id%3A2629"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d4493bee-829d-43a8-b6b8-bd40493ad40d/relationships/node_type?resourceVersion=id%3A2629"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d4493bee-829d-43a8-b6b8-bd40493ad40d/revision_uid?resourceVersion=id%3A2629"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d4493bee-829d-43a8-b6b8-bd40493ad40d/relationships/revision_uid?resourceVersion=id%3A2629"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d4493bee-829d-43a8-b6b8-bd40493ad40d/uid?resourceVersion=id%3A2629"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d4493bee-829d-43a8-b6b8-bd40493ad40d/relationships/uid?resourceVersion=id%3A2629"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d4493bee-829d-43a8-b6b8-bd40493ad40d/field_event_type?resourceVersion=id%3A2629"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d4493bee-829d-43a8-b6b8-bd40493ad40d/relationships/field_event_type?resourceVersion=id%3A2629"
+        }
+      }
+    }
+  }
+}

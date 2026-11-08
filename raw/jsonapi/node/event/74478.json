@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "6a76a9e6-eb2c-4a15-9884-988ab520079e",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/6a76a9e6-eb2c-4a15-9884-988ab520079e?resourceVersion=id%3A3789"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/6a76a9e6-eb2c-4a15-9884-988ab520079e?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74478,
+    "drupal_internal__vid": 3789,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Linz",
+    "created": "2013-03-12T13:32:31+00:00",
+    "changed": "2013-03-12T13:35:54+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/74478",
+      "pid": 1852,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "In der zweiten Augustwoche 1885 fährt Bahr nach Linz, am 18. Oktober kommt er nach Dresden.",
+      "format": "full_html",
+      "processed": "In der zweiten Augustwoche 1885 fährt Bahr nach Linz, am 18. Oktober kommt er nach Dresden.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1885-08-06",
+      "end_value": "1885-10-17"
+    },
+    "field_sources": [
+      "Briefe an den Vater, Juli 1885, 20.10.1885"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6a76a9e6-eb2c-4a15-9884-988ab520079e/node_type?resourceVersion=id%3A3789"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6a76a9e6-eb2c-4a15-9884-988ab520079e/relationships/node_type?resourceVersion=id%3A3789"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6a76a9e6-eb2c-4a15-9884-988ab520079e/revision_uid?resourceVersion=id%3A3789"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6a76a9e6-eb2c-4a15-9884-988ab520079e/relationships/revision_uid?resourceVersion=id%3A3789"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6a76a9e6-eb2c-4a15-9884-988ab520079e/uid?resourceVersion=id%3A3789"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6a76a9e6-eb2c-4a15-9884-988ab520079e/relationships/uid?resourceVersion=id%3A3789"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6a76a9e6-eb2c-4a15-9884-988ab520079e/field_event_type?resourceVersion=id%3A3789"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6a76a9e6-eb2c-4a15-9884-988ab520079e/relationships/field_event_type?resourceVersion=id%3A3789"
+        }
+      }
+    }
+  }
+}

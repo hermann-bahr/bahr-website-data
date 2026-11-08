@@ -1,0 +1,227 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kritische-schriften__schwarzgelb-1917" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Schwarzgelb (1917)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">38720</idno>
+        <idno type="drupal-alias">/bibliografie/38720</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bibliografie/38720">https://bahr.univie.ac.at/bibliografie/38720</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+        <bibl type="beschriebene-ausgabe">
+          <author>Hermann Bahr</author>
+          <title type="main">Schwarzgelb</title>
+          <pubPlace>Berlin</pubPlace>
+          <publisher>S. Fischer</publisher>
+          <date>1917</date>
+          <extent>216</extent>
+          <edition>1.-4. Tsd.</edition>
+          <note>Widmung: "Dem großen Österreicher Richard von Kralik. Salzburg, Weihnachten 1916."</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="2" key="kritische-schriften">Kritische Schriften</term>
+          <term n="24" key="schwarzgelb-1917" type="eintrag">Schwarzgelb (1917)</term>
+        </keywords>
+        <classCode scheme="drupal-type">bibliographie</classCode>
+        <keywords scheme="bibliografie_type">
+          <term>Schriften in Einzelausgaben</term>
+        </keywords>
+        <keywords scheme="bibliografie_type">
+          <term>Kritische Schriften</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2011-01-19T10:28:37+00:00" type="created">angelegt in Drupal</change>
+      <change when="2012-08-20T14:52:00+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="bib">
+        <head>Bibliografie</head>
+        <table type="bibliografie">
+          <row>
+            <cell>Autor:</cell>
+            <cell>Hermann Bahr</cell>
+          </row>
+          <row>
+            <cell>Titel:</cell>
+            <cell>Schwarzgelb</cell>
+          </row>
+          <row>
+            <cell>Ort:</cell>
+            <cell>Berlin</cell>
+          </row>
+          <row>
+            <cell>Verlag:</cell>
+            <cell>S. Fischer</cell>
+          </row>
+          <row>
+            <cell>Jahr:</cell>
+            <cell>1917</cell>
+          </row>
+          <row>
+            <cell>Seiten:</cell>
+            <cell>216</cell>
+          </row>
+          <row>
+            <cell>Aufl.:</cell>
+            <cell>1.-4. Tsd.</cell>
+          </row>
+          <row>
+            <cell>Anm.:</cell>
+            <cell>Widmung: "Dem großen Österreicher Richard von Kralik. Salzburg, Weihnachten 1916."</cell>
+          </row>
+        </table>
+      </div>
+      <div xml:id="erstdrucke">
+        <head>Erstdrucke</head>
+        <p>Bahrs Tätigkeit in den Kriegsjahren, mit seiner Propaganda für Österreich und Deutschtum, ist zeitbestimmt durch das Fehlen eines zentralen Publikationsorgans. Ist die jahrelange Verbundenheit an S. Fischer noch insofern präsent, dass Die neue Rundschau zumindest drei der Texte als erste veröffentlichte, so gibt es bei den anderen keinen verbindenden Faden. Deutlich ist, dass ein Teil der Texte auf Vorträgen beruhen, es zu einer engeren Verflechtung zwischen den beiden Medien kommt. Auf die Verschiebung, die damit einher geht, macht er auf Seite 175 aufmerksam. Überhaupt ist der letzte Artikel "Randgespräch" eine Besonderheit, indem er eine Reflexion innerhalb des Buches zu den Texten des Buches bietet (darunter eine lange Replik Pernerstorfers auf "Böhmen"). Die Druckproduktion ist, vermutlich kriegsbedingt, etwas aus der Ordnung: Denn die Widmung des Buches ist mit "Weihnachten 1916" datiert, die letzten Texte erschienen aber in den ersten Monaten 1917 in Zeitungsorganen. Als Vermutung sei ausgesprochen, dass das einerseits durch die Verkettung mit den Vorträgen erklärbar wäre (die Texte liegen vor), andererseits, dass die Texte nunmehr gleichzeitig an den Verlag Fischer und die Zeitungsredaktionen gingen.</p>
+        <table>
+          <row>
+            <cell>9-29</cell>
+            <cell><hi rend="bold">Deutschland und Österreich. </hi><lb/>Variante als "Ein Vortrag Hermann Bahrs in München. Über Deutschland und Österreich" in: Neues Wiener Journal, 25.2.1916, 6-7 Dieselbe in: National-Zeitung, Berlin, 69 (1916) #50, 2-3. (29.2.1916)<lb/>Die neue Rundschau, 27 (1916) #6 (Juni), 826-835</cell>
+          </row>
+          <row>
+            <cell>30-45</cell>
+            <cell><hi rend="bold">Das österreichische Wunder. </hi><lb/>Als "Die Zukunft Österreichs" in: Die Tat, Jena, 7 (1915) #1 (April), 45-49.<lb/>Der Kunstfreund, Berlin, 2 (1915) #7 (April), 200-204.<lb/>Münchner Neueste Nachrichten, 68 (1915) #184, 2. (11.4.1915)<lb/>Breslauer Morgen-Zeitung, (1915) #98, Erste Beilage, 2. (11.4.1915) <lb/>Die Lese, 1915<lb/>Das österreichische Wunder. Einladung nach Salzburg. Stuttgart: Die Lese [1915]</cell>
+          </row>
+          <row>
+            <cell>46-77</cell>
+            <cell><hi rend="bold">Österreich. </hi><lb/>Als "Österreichisch" in: Die neue Rundschau, 26 (1915) #2, 916-933. <lb/>Zwei Absätze in: Das große Jahr 1914-1915. Almanach des S. Fischer-Verlags. Berlin: S. Fischer 1915, 69-73</cell>
+          </row>
+          <row>
+            <cell>79-100</cell>
+            <cell><hi rend="bold">Die Länder. 1. Böhmen</hi><lb/>Variante in: Berliner Tageblatt, 45 (1916) #479, Abend-Ausgabe, 2-3. (18.9.1916) Die neue Rundschau, 27 (1916) #1, 36-49</cell>
+          </row>
+          <row>
+            <cell>101-105</cell>
+            <cell><hi rend="bold">Die Länder. 2. Salzburg. (Zum hundertsten Jahrestag seiner Vereinigung mit Österreich)</hi><lb/>Als "Nach hundert Jahren" in: Salzburger Chronik, 52 (1916) #98, 1. (30.4.1916)</cell>
+          </row>
+          <row>
+            <cell>106-113</cell>
+            <cell><hi rend="bold">Der Österreicher. </hi><lb/>Wieland, 1 (1915) #37, 3-6. (10.12.1915)</cell>
+          </row>
+          <row>
+            <cell>114-118</cell>
+            <cell><hi rend="bold">Wien und Berlin. 1. Merk's Wien</hi><lb/>Als "Zukunft" in: Neues Wiener Journal, 24 (1916) #7963, 8. (1.1.1916)</cell>
+          </row>
+          <row>
+            <cell>118-125</cell>
+            <cell><hi rend="bold">Wien und Berlin. 2. Merk's Berlin</hi><lb/>Als "Österreichische Antwort. Ein Brief nach Berlin" in: Neues Wiener Journal, 24 (1916) #8075, 7-8. (23.4.1916)</cell>
+          </row>
+          <row>
+            <cell>125-130</cell>
+            <cell><hi rend="bold">Wien und Berlin. 3. Merkt's alle beide</hi><lb/>Als "Dienet einander!" in: Neues Wiener Journal, 24 (1916) #8123, 7-8. (11.6.1916)</cell>
+          </row>
+          <row>
+            <cell>131-168</cell>
+            <cell><hi rend="bold">Die "Ideen von 1914". </hi><lb/>Vortragsmitschrift? in: Grazer Volksblatt, 49 (1916) #851, 5-6. (10.12.1916)<lb/>Als "Ideen von 1914" in: Hochland, 14 (1917) #Januar, 431-448.</cell>
+          </row>
+          <row>
+            <cell>169-173</cell>
+            <cell><hi rend="bold">Kaiser Karl. </hi>Hochland, 14 (1917) #Februar, 565-567<lb/>Nachdruck davon in: Salzburger Chronik, 53 (1917) #32, 3-4. (10.2.1917)</cell>
+          </row>
+          <row>
+            <cell>174-216</cell>
+            <cell>
+              <hi rend="bold">Randgespräch. </hi>
+            </cell>
+          </row>
+        </table>
+        <p>
+          <hi rend="small">Alle Artikel verifiziert, Mai 2011.</hi>
+        </p>
+      </div>
+      <div xml:id="rezens">
+        <head>Rezensionen</head>
+        <p>Im Archiv ab dem 20. April 1917. Donauland, #5, Juni 1917.</p>
+      </div>
+      <div xml:id="inhaltsvz">
+        <head>Inhaltsverzeichnis</head>
+        <table>
+          <row>
+            <cell role="label">Seiten</cell>
+            <cell role="label">Inhalt</cell>
+          </row>
+          <row>
+            <cell>9-29</cell>
+            <cell>
+              <hi rend="bold">Deutschland und Österreich.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>30-45</cell>
+            <cell>
+              <hi rend="bold">Das österreichische Wunder.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>46-77</cell>
+            <cell>
+              <hi rend="bold">Österreich.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>79-100</cell>
+            <cell><hi rend="bold">Die Länder.</hi> 1. Böhmen</cell>
+          </row>
+          <row>
+            <cell>101-105</cell>
+            <cell><hi rend="bold">Die Länder.</hi> 2. Salzburg. (Zum hundertsten Jahrestag seiner Vereinigung mit Österreich)</cell>
+          </row>
+          <row>
+            <cell>106-113</cell>
+            <cell>
+              <hi rend="bold">Der Österreicher.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>114-118</cell>
+            <cell><hi rend="bold">Wien und Berlin.</hi> 1. Merk's Wien</cell>
+          </row>
+          <row>
+            <cell>118-125</cell>
+            <cell><hi rend="bold">Wien und Berlin.</hi> 2. Merk's Berlin</cell>
+          </row>
+          <row>
+            <cell>125-130</cell>
+            <cell><hi rend="bold">Wien und Berlin.</hi> 3. Merkt's alle beide</cell>
+          </row>
+          <row>
+            <cell>131-168</cell>
+            <cell>
+              <hi rend="bold">Die "Ideen von 1914".</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>169-173</cell>
+            <cell>
+              <hi rend="bold">Kaiser Karl.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>174-216</cell>
+            <cell>
+              <hi rend="bold">Randgespräch.</hi>
+            </cell>
+          </row>
+        </table>
+      </div>
+      <div xml:id="digit">
+        <head>Digitalisate</head>
+        <p><ref target="http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=86">ANNO</ref> <ref target="http://www.archive.org/search.php?query=schwarzgelb%20bahr">Archive.org</ref></p>
+      </div>
+    </body>
+  </text>
+</TEI>

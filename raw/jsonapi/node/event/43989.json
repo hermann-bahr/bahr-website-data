@@ -1,0 +1,120 @@
+{
+  "type": "node--event",
+  "id": "bf61952f-e9b4-465a-b288-95091b83f10c",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/bf61952f-e9b4-465a-b288-95091b83f10c?resourceVersion=id%3A2917"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/bf61952f-e9b4-465a-b288-95091b83f10c?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 43989,
+    "drupal_internal__vid": 2917,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Wilhelmine Sandrock",
+    "created": "2011-07-12T15:26:37+00:00",
+    "changed": "2011-09-14T12:59:02+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/43989",
+      "pid": 889,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Um den Jahreswechsel 1893/94 steht Bahr in einer Liebesbeziehung mit der Schauspielerin Wilhelmine Sandrock,[1] die bis zur Verlobung gegangen sei. Zur gleichen Zeit war Schnitzler mit ihrer Schwester Adele liiert, der das gemeinsame Schreiben an zwei Schwestern als Jagd des Schicksals in die Typisierung erlebt:<blockquote>\"Bahr und Sch. (die Führer der Naturalisten) haben Verhältnis mit 2 Schwestern, welche Schauspielerinnen und Canaillen sind.\"[2]</blockquote> \r\nIm Nachlass Bahrs sind nur spätere Briefe Wilhelmine Sandrocks (nach 1900) erhalten, die den \"Herrn Doctor\" [!] bitten, bestimmte Aufführungen anzuschauen, da er der einzige Verehrer ihres schauspielerischen Talents wäre, andererseits  die Pflege und die Aufnahme eines Hundes vermitteln.[3] Spannender sind zwei Briefe Adeles an Bahr. Einer, datiert vom 29.12.1893, bittet ihn zum Sylvesterabendessen mit \"Willy\" (Wilhelmine), \"dem kleinen Schnitzler\" und anderen.[4] Tags darauf folgt ein in klagend-satirischem Ton gehaltener, worin sie ihm vorwirft, sie wisse, welchen Armen er sich entwinde, sie könne ihm nicht dazu gratulieren und hoffe, dass kein Bastard daraus werde, ein in diesen Fragen bewanderter \"Dr. Sz.\" habe keine Zeit, sich darum zu kümmern. Weiterhin hoffe sie, Bahr morgen zu sehen.[5]",
+      "format": "full_html",
+      "processed": "Um den Jahreswechsel 1893/94 steht Bahr in einer Liebesbeziehung mit der Schauspielerin Wilhelmine Sandrock,[1] die bis zur Verlobung gegangen sei. Zur gleichen Zeit war Schnitzler mit ihrer Schwester Adele liiert, der das gemeinsame Schreiben an zwei Schwestern als Jagd des Schicksals in die Typisierung erlebt:<blockquote>\"Bahr und Sch. (die Führer der Naturalisten) haben Verhältnis mit 2 Schwestern, welche Schauspielerinnen und Canaillen sind.\"[2]</blockquote> \nIm Nachlass Bahrs sind nur spätere Briefe Wilhelmine Sandrocks (nach 1900) erhalten, die den \"Herrn Doctor\" [!] bitten, bestimmte Aufführungen anzuschauen, da er der einzige Verehrer ihres schauspielerischen Talents wäre, andererseits  die Pflege und die Aufnahme eines Hundes vermitteln.[3] Spannender sind zwei Briefe Adeles an Bahr. Einer, datiert vom 29.12.1893, bittet ihn zum Sylvesterabendessen mit \"Willy\" (Wilhelmine), \"dem kleinen Schnitzler\" und anderen.[4] Tags darauf folgt ein in klagend-satirischem Ton gehaltener, worin sie ihm vorwirft, sie wisse, welchen Armen er sich entwinde, sie könne ihm nicht dazu gratulieren und hoffe, dass kein Bastard daraus werde, ein in diesen Fragen bewanderter \"Dr. Sz.\" habe keine Zeit, sich darum zu kümmern. Weiterhin hoffe sie, Bahr morgen zu sehen.[5]",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1893-12-26",
+      "end_value": "1893-12-31"
+    },
+    "field_sources": [
+      "[1] Adele Sandrock und Arthur Schnitzler: Dilly. Geschichte einer Liebe in Briefen, Bildern und Dokumenten. Hg. Renate Wagner. Frankfurt/Main: Fischer 1983, 32 und 57.",
+      "[2] Schnitzler: Tagebuch, II, 64-65. (26., 30. und 31.12.1893)",
+      "[3] Briefe im Nachlass",
+      "[4] Nachlass, A22939 BaM",
+      "[5] Nachlass A22940 BaM"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bf61952f-e9b4-465a-b288-95091b83f10c/node_type?resourceVersion=id%3A2917"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bf61952f-e9b4-465a-b288-95091b83f10c/relationships/node_type?resourceVersion=id%3A2917"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bf61952f-e9b4-465a-b288-95091b83f10c/revision_uid?resourceVersion=id%3A2917"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bf61952f-e9b4-465a-b288-95091b83f10c/relationships/revision_uid?resourceVersion=id%3A2917"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bf61952f-e9b4-465a-b288-95091b83f10c/uid?resourceVersion=id%3A2917"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bf61952f-e9b4-465a-b288-95091b83f10c/relationships/uid?resourceVersion=id%3A2917"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bf61952f-e9b4-465a-b288-95091b83f10c/field_event_type?resourceVersion=id%3A2917"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bf61952f-e9b4-465a-b288-95091b83f10c/relationships/field_event_type?resourceVersion=id%3A2917"
+        }
+      }
+    }
+  }
+}

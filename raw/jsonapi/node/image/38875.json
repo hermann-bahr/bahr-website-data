@@ -1,0 +1,116 @@
+{
+  "type": "node--image",
+  "id": "2caf8527-f720-494f-9d0d-b6751ef88727",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/image/2caf8527-f720-494f-9d0d-b6751ef88727?resourceVersion=id%3A3971"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/image/2caf8527-f720-494f-9d0d-b6751ef88727?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38875,
+    "drupal_internal__vid": 3971,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:44:08+00:00",
+    "status": true,
+    "title": "1900 Rosa Bahr von Albert von Keller",
+    "created": "2011-02-21T17:08:19+00:00",
+    "changed": "2011-02-21T17:20:14+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/bild/38875",
+      "pid": 618,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<i>Die Abbildung Rosa Bahrs, das ist Rosa Jokl bzw. Rosa Joel, mit der Bahr seit 1895 verheiratet war, stammt aus Albert von Keller: Zwanzig Photogravüren nach Werken seiner Hand. Vom Künstler autor. Ausg. München: F. Bruckmann, [1900]. <i>Im Briefwechsel mit dem Vater schreibt Bahr, dass Keller sie öfter malte (S. 407). Parallel zur Ausgabe der \"Photogravüren\" erschien ein Band \"Urteile der Presse\", die folgende Kommentare zu dem Bild liefert:<br /><br />Darmstädter Zeitung, 13.12.1899:<br /><blockquote>Frau H. B. [?] Phantasie-Bildnis der Gattin des Wiener Schriftstellers Hermann Bahr</blockquote><br /><br />---<br />Münchener Zeitung, 8.12.1899:<br />Eduard Engels<br />Im Atelier Albert von Kellers<br /><blockquote>Ich betrachte die Bilder. Nächst dem Fenster, lebensgross, eine Dame in antikem, rothem Gewande, rothe Blumen im Haar, eine volle, üppige Gestalt, eine Beauté, Frau Hermann Bahr aus Wien.</blockquote><br />---<br />Leipziger Illustrierte Ztg, 14.12.1899:<br />Fendler <br /><blockquote>Auf der anderen Seite aber leitet ein Bild wie das der ?Frau H. B.?, deren schlanke Glieder ein leichtes Schleiergewand kaum verhüllt, zu jenen Studien pikantesten weiblichen Wesens hinüber</blockquote><br />---<br />Frankfurter Zeitung, 20.12.1899:<br /><blockquote>Unter den Porträts ist das als Bild einer ?Frau H. B.? bezeichnete deshalb erwähnenswerth, weil es zeigt, dass zwischen Modellen und Mondänen manchmal keinerlei Unterschied ist, wenn es sich darum handelt, ihren Wuchs dem Künstlerauge zu enthüllen.</blockquote></i></i>",
+      "format": "full_html",
+      "processed": "<i>Die Abbildung Rosa Bahrs, das ist Rosa Jokl bzw. Rosa Joel, mit der Bahr seit 1895 verheiratet war, stammt aus Albert von Keller: Zwanzig Photogravüren nach Werken seiner Hand. Vom Künstler autor. Ausg. München: F. Bruckmann, [1900]. <i>Im Briefwechsel mit dem Vater schreibt Bahr, dass Keller sie öfter malte (S. 407). Parallel zur Ausgabe der \"Photogravüren\" erschien ein Band \"Urteile der Presse\", die folgende Kommentare zu dem Bild liefert:<br><br>Darmstädter Zeitung, 13.12.1899:<br><blockquote>Frau H. B. [?] Phantasie-Bildnis der Gattin des Wiener Schriftstellers Hermann Bahr</blockquote><br><br>---<br>Münchener Zeitung, 8.12.1899:<br>Eduard Engels<br>Im Atelier Albert von Kellers<br><blockquote>Ich betrachte die Bilder. Nächst dem Fenster, lebensgross, eine Dame in antikem, rothem Gewande, rothe Blumen im Haar, eine volle, üppige Gestalt, eine Beauté, Frau Hermann Bahr aus Wien.</blockquote><br>---<br>Leipziger Illustrierte Ztg, 14.12.1899:<br>Fendler <br><blockquote>Auf der anderen Seite aber leitet ein Bild wie das der ?Frau H. B.?, deren schlanke Glieder ein leichtes Schleiergewand kaum verhüllt, zu jenen Studien pikantesten weiblichen Wesens hinüber</blockquote><br>---<br>Frankfurter Zeitung, 20.12.1899:<br><blockquote>Unter den Porträts ist das als Bild einer ?Frau H. B.? bezeichnete deshalb erwähnenswerth, weil es zeigt, dass zwischen Modellen und Mondänen manchmal keinerlei Unterschied ist, wenn es sich darum handelt, ihren Wuchs dem Künstlerauge zu enthüllen.</blockquote></i></i>",
+      "summary": null
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "e2381624-d098-4c5b-bdd7-5dbfd773b84e",
+        "meta": {
+          "drupal_internal__target_id": "image"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/2caf8527-f720-494f-9d0d-b6751ef88727/node_type?resourceVersion=id%3A3971"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/2caf8527-f720-494f-9d0d-b6751ef88727/relationships/node_type?resourceVersion=id%3A3971"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/2caf8527-f720-494f-9d0d-b6751ef88727/revision_uid?resourceVersion=id%3A3971"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/2caf8527-f720-494f-9d0d-b6751ef88727/relationships/revision_uid?resourceVersion=id%3A3971"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/2caf8527-f720-494f-9d0d-b6751ef88727/uid?resourceVersion=id%3A3971"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/2caf8527-f720-494f-9d0d-b6751ef88727/relationships/uid?resourceVersion=id%3A3971"
+        }
+      }
+    },
+    "field_images": {
+      "data": [
+        {
+          "type": "media--image",
+          "id": "1c85566b-f520-4e19-bdc2-8320680e7624",
+          "meta": {
+            "drupal_internal__target_id": 150
+          }
+        },
+        {
+          "type": "media--image",
+          "id": "58a1286a-dbff-483e-8e4e-7307eb31167b",
+          "meta": {
+            "drupal_internal__target_id": 151
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/2caf8527-f720-494f-9d0d-b6751ef88727/field_images?resourceVersion=id%3A3971"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/2caf8527-f720-494f-9d0d-b6751ef88727/relationships/field_images?resourceVersion=id%3A3971"
+        }
+      }
+    }
+  }
+}

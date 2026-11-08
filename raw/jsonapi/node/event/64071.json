@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "8434dce1-2be3-4aa0-8fb0-57b2076eb9a4",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/8434dce1-2be3-4aa0-8fb0-57b2076eb9a4?resourceVersion=id%3A3565"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/8434dce1-2be3-4aa0-8fb0-57b2076eb9a4?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 64071,
+    "drupal_internal__vid": 3565,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Reise nach Eipeldauen beendet",
+    "created": "2012-01-26T14:30:14+00:00",
+    "changed": "2012-01-26T14:30:14+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/64071",
+      "pid": 1606,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 17. August 1909 beendet Bahr seine Revue \"Reise nach Eipeldauen\".",
+      "format": "full_html",
+      "processed": "Am 17. August 1909 beendet Bahr seine Revue \"Reise nach Eipeldauen\".",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1909-08-17",
+      "end_value": "1909-08-17"
+    },
+    "field_sources": [
+      "Hermann Bahr: Aufzeichnungen 1909-1911. Ausgabe in Vorbereitung von Kurt Ifkovits\r\n"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8434dce1-2be3-4aa0-8fb0-57b2076eb9a4/node_type?resourceVersion=id%3A3565"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8434dce1-2be3-4aa0-8fb0-57b2076eb9a4/relationships/node_type?resourceVersion=id%3A3565"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8434dce1-2be3-4aa0-8fb0-57b2076eb9a4/revision_uid?resourceVersion=id%3A3565"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8434dce1-2be3-4aa0-8fb0-57b2076eb9a4/relationships/revision_uid?resourceVersion=id%3A3565"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8434dce1-2be3-4aa0-8fb0-57b2076eb9a4/uid?resourceVersion=id%3A3565"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8434dce1-2be3-4aa0-8fb0-57b2076eb9a4/relationships/uid?resourceVersion=id%3A3565"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8434dce1-2be3-4aa0-8fb0-57b2076eb9a4/field_event_type?resourceVersion=id%3A3565"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8434dce1-2be3-4aa0-8fb0-57b2076eb9a4/relationships/field_event_type?resourceVersion=id%3A3565"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "828f3290-73df-4fdb-b43e-3fee8bdc88f1",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/828f3290-73df-4fdb-b43e-3fee8bdc88f1?resourceVersion=id%3A2658"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/828f3290-73df-4fdb-b43e-3fee8bdc88f1?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38841,
+    "drupal_internal__vid": 2658,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Gasthof Steinlechner",
+    "created": "2011-02-10T17:08:44+00:00",
+    "changed": "2013-01-15T13:35:39+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38841",
+      "pid": 586,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Der \"Illustrierte Sonntag\" schreibt:<blockquote>… [1912] zog Bahr nach Salzburg, wo er lange im Arenberg-Palais hauste, und dem Gasthof Steinlechner, wo er viel verkehrte, seine literarische Persönlichkeit aufprägte. Ein eigenes \"Bahrstüberl\" wurde dort eingerichtet, sein Geist spricht ewig in salomonischen Sprüchen von der Wand, er selbst wird aber schmerzlich vermißt</blockquote>Bahr selbst bezeichnet sich für die Zeit, die er in Salzburg lebte, als Stammgast. ",
+      "format": "full_html",
+      "processed": "Der \"Illustrierte Sonntag\" schreibt:<blockquote>… [1912] zog Bahr nach Salzburg, wo er lange im Arenberg-Palais hauste, und dem Gasthof Steinlechner, wo er viel verkehrte, seine literarische Persönlichkeit aufprägte. Ein eigenes \"Bahrstüberl\" wurde dort eingerichtet, sein Geist spricht ewig in salomonischen Sprüchen von der Wand, er selbst wird aber schmerzlich vermißt</blockquote>Bahr selbst bezeichnet sich für die Zeit, die er in Salzburg lebte, als Stammgast. ",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1912-04-01",
+      "end_value": "1912-04-01"
+    },
+    "field_sources": [
+      "Illustrierter Sonntag, 4. August 1929",
+      "Hermann Bahr: Tagebuch. 3. November. Neues Wiener Journal, 36 (1928) #12563, 10. (11.11.1928)",
+      "Hier mit 1. April 1913 datiert."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/828f3290-73df-4fdb-b43e-3fee8bdc88f1/node_type?resourceVersion=id%3A2658"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/828f3290-73df-4fdb-b43e-3fee8bdc88f1/relationships/node_type?resourceVersion=id%3A2658"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/828f3290-73df-4fdb-b43e-3fee8bdc88f1/revision_uid?resourceVersion=id%3A2658"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/828f3290-73df-4fdb-b43e-3fee8bdc88f1/relationships/revision_uid?resourceVersion=id%3A2658"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/828f3290-73df-4fdb-b43e-3fee8bdc88f1/uid?resourceVersion=id%3A2658"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/828f3290-73df-4fdb-b43e-3fee8bdc88f1/relationships/uid?resourceVersion=id%3A2658"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/828f3290-73df-4fdb-b43e-3fee8bdc88f1/field_event_type?resourceVersion=id%3A2658"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/828f3290-73df-4fdb-b43e-3fee8bdc88f1/relationships/field_event_type?resourceVersion=id%3A2658"
+        }
+      }
+    }
+  }
+}

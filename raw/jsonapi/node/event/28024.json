@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "ce0cf2ad-ae1d-43a6-bb67-49c87c895264",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/ce0cf2ad-ae1d-43a6-bb67-49c87c895264?resourceVersion=id%3A2356"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/ce0cf2ad-ae1d-43a6-bb67-49c87c895264?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28024,
+    "drupal_internal__vid": 2356,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "O Mensch",
+    "created": "2010-07-28T10:42:07+00:00",
+    "changed": "2012-10-16T12:53:51+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28024",
+      "pid": 190,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahrs Roman \"O Mensch\" (S. Fischer-Verlag) dürfte im September 1910 in den Buchläden aufgelegen sein. Am 27. beginnt Schnitzler es zu lesen.",
+      "format": "full_html",
+      "processed": "Bahrs Roman \"O Mensch\" (S. Fischer-Verlag) dürfte im September 1910 in den Buchläden aufgelegen sein. Am 27. beginnt Schnitzler es zu lesen.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1910-09-24",
+      "end_value": "1910-09-24"
+    },
+    "field_sources": [
+      "Hermann Bahr: O Mensch. Roman. Berlin: S. Fischer, 1910.\r\n",
+      "Schnitzler: Tagebücher, IV, 179."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ce0cf2ad-ae1d-43a6-bb67-49c87c895264/node_type?resourceVersion=id%3A2356"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ce0cf2ad-ae1d-43a6-bb67-49c87c895264/relationships/node_type?resourceVersion=id%3A2356"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ce0cf2ad-ae1d-43a6-bb67-49c87c895264/revision_uid?resourceVersion=id%3A2356"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ce0cf2ad-ae1d-43a6-bb67-49c87c895264/relationships/revision_uid?resourceVersion=id%3A2356"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ce0cf2ad-ae1d-43a6-bb67-49c87c895264/uid?resourceVersion=id%3A2356"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ce0cf2ad-ae1d-43a6-bb67-49c87c895264/relationships/uid?resourceVersion=id%3A2356"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "2f55ff54-49af-41ba-a2d1-45a7ac71add2",
+          "meta": {
+            "drupal_internal__target_id": 2
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ce0cf2ad-ae1d-43a6-bb67-49c87c895264/field_event_type?resourceVersion=id%3A2356"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ce0cf2ad-ae1d-43a6-bb67-49c87c895264/relationships/field_event_type?resourceVersion=id%3A2356"
+        }
+      }
+    }
+  }
+}

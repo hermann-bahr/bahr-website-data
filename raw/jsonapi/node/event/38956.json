@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "67ec8c8c-7012-42c0-8510-2c2486646d18",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/67ec8c8c-7012-42c0-8510-2c2486646d18?resourceVersion=id%3A2742"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/67ec8c8c-7012-42c0-8510-2c2486646d18?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38956,
+    "drupal_internal__vid": 2742,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "AS, Horn, Schwarzkopf, Torresani",
+    "created": "2011-03-15T17:47:13+00:00",
+    "changed": "2011-11-30T13:16:50+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38956",
+      "pid": 696,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "30. September 1892:<blockquote>Nachts im Kfh. erschienen Horn, Bahr, Schwarzkopf, Torresani.-</blockquote>",
+      "format": "full_html",
+      "processed": "30. September 1892:<blockquote>Nachts im Kfh. erschienen Horn, Bahr, Schwarzkopf, Torresani.-</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1892-09-30",
+      "end_value": "1892-09-30"
+    },
+    "field_sources": [
+      "Schnitzler: Tagebuch, I, 388."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/67ec8c8c-7012-42c0-8510-2c2486646d18/node_type?resourceVersion=id%3A2742"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/67ec8c8c-7012-42c0-8510-2c2486646d18/relationships/node_type?resourceVersion=id%3A2742"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/67ec8c8c-7012-42c0-8510-2c2486646d18/revision_uid?resourceVersion=id%3A2742"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/67ec8c8c-7012-42c0-8510-2c2486646d18/relationships/revision_uid?resourceVersion=id%3A2742"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/67ec8c8c-7012-42c0-8510-2c2486646d18/uid?resourceVersion=id%3A2742"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/67ec8c8c-7012-42c0-8510-2c2486646d18/relationships/uid?resourceVersion=id%3A2742"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/67ec8c8c-7012-42c0-8510-2c2486646d18/field_event_type?resourceVersion=id%3A2742"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/67ec8c8c-7012-42c0-8510-2c2486646d18/relationships/field_event_type?resourceVersion=id%3A2742"
+        }
+      }
+    }
+  }
+}

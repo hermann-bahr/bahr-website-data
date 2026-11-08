@@ -1,0 +1,109 @@
+{
+  "type": "node--image",
+  "id": "a600bf5f-6e5f-4fe9-8b6d-5450a4b7711a",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/image/a600bf5f-6e5f-4fe9-8b6d-5450a4b7711a?resourceVersion=id%3A3983"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/image/a600bf5f-6e5f-4fe9-8b6d-5450a4b7711a?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74426,
+    "drupal_internal__vid": 3983,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:44:08+00:00",
+    "status": true,
+    "title": "1912 In Bayreuth",
+    "created": "2012-11-06T12:46:34+00:00",
+    "changed": "2012-11-06T12:46:34+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/bild/74426",
+      "pid": 1800,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<i>Detail aus Fotocollage zu Hermann Bahr: Das Bayreuther Gespräch. Kölnische Theater-Rundschau, 2 (1912) #39, 8-11. (17.8.1912)<br>Unterschrift zu Bild 5: \"Knüpfer, Braun, Hermann Bahr, Anna Bahr-Mildenburg<br /></i>",
+      "format": "full_html",
+      "processed": "<i>Detail aus Fotocollage zu Hermann Bahr: Das Bayreuther Gespräch. Kölnische Theater-Rundschau, 2 (1912) #39, 8-11. (17.8.1912)<br>Unterschrift zu Bild 5: \"Knüpfer, Braun, Hermann Bahr, Anna Bahr-Mildenburg<br></i>",
+      "summary": null
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "e2381624-d098-4c5b-bdd7-5dbfd773b84e",
+        "meta": {
+          "drupal_internal__target_id": "image"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/a600bf5f-6e5f-4fe9-8b6d-5450a4b7711a/node_type?resourceVersion=id%3A3983"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/a600bf5f-6e5f-4fe9-8b6d-5450a4b7711a/relationships/node_type?resourceVersion=id%3A3983"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/a600bf5f-6e5f-4fe9-8b6d-5450a4b7711a/revision_uid?resourceVersion=id%3A3983"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/a600bf5f-6e5f-4fe9-8b6d-5450a4b7711a/relationships/revision_uid?resourceVersion=id%3A3983"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/a600bf5f-6e5f-4fe9-8b6d-5450a4b7711a/uid?resourceVersion=id%3A3983"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/a600bf5f-6e5f-4fe9-8b6d-5450a4b7711a/relationships/uid?resourceVersion=id%3A3983"
+        }
+      }
+    },
+    "field_images": {
+      "data": [
+        {
+          "type": "media--image",
+          "id": "d2b1d3fa-f4d7-4438-862d-42352cd62fa9",
+          "meta": {
+            "drupal_internal__target_id": 163
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/a600bf5f-6e5f-4fe9-8b6d-5450a4b7711a/field_images?resourceVersion=id%3A3983"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/a600bf5f-6e5f-4fe9-8b6d-5450a4b7711a/relationships/field_images?resourceVersion=id%3A3983"
+        }
+      }
+    }
+  }
+}

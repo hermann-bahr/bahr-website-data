@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "e30f629d-d589-4661-8ce3-fc30d46443ad",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/e30f629d-d589-4661-8ce3-fc30d46443ad?resourceVersion=id%3A2997"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/e30f629d-d589-4661-8ce3-fc30d46443ad?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44080,
+    "drupal_internal__vid": 2997,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Ehrenmitglied Bühnenverein",
+    "created": "2011-09-05T11:46:37+00:00",
+    "changed": "2011-09-05T11:57:18+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44080",
+      "pid": 975,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "In Folge von Bahrs Arbeit für die Neufassung des Theatergesetzes bekommt er bei einer Versammlung des Bühnenvereins am 9. April 1903 die Ehrenmitgliedschaft des Deutschen Bühnenvereins zuerkannt. Bahr ist höchstwahrscheinlich nicht anwesend.\r\n",
+      "format": "full_html",
+      "processed": "In Folge von Bahrs Arbeit für die Neufassung des Theatergesetzes bekommt er bei einer Versammlung des Bühnenvereins am 9. April 1903 die Ehrenmitgliedschaft des Deutschen Bühnenvereins zuerkannt. Bahr ist höchstwahrscheinlich nicht anwesend.\n",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1903-04-09",
+      "end_value": "1903-04-09"
+    },
+    "field_sources": [
+      "Tagesbote aus Schlesien und Mähren, 63 (1903) #168, Abendblatt, 4. (10.4.1903)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e30f629d-d589-4661-8ce3-fc30d46443ad/node_type?resourceVersion=id%3A2997"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e30f629d-d589-4661-8ce3-fc30d46443ad/relationships/node_type?resourceVersion=id%3A2997"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e30f629d-d589-4661-8ce3-fc30d46443ad/revision_uid?resourceVersion=id%3A2997"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e30f629d-d589-4661-8ce3-fc30d46443ad/relationships/revision_uid?resourceVersion=id%3A2997"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e30f629d-d589-4661-8ce3-fc30d46443ad/uid?resourceVersion=id%3A2997"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e30f629d-d589-4661-8ce3-fc30d46443ad/relationships/uid?resourceVersion=id%3A2997"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e30f629d-d589-4661-8ce3-fc30d46443ad/field_event_type?resourceVersion=id%3A2997"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e30f629d-d589-4661-8ce3-fc30d46443ad/relationships/field_event_type?resourceVersion=id%3A2997"
+        }
+      }
+    }
+  }
+}

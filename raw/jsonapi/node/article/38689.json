@@ -1,0 +1,112 @@
+{
+  "type": "node--article",
+  "id": "462bbabf-a144-4f73-a71d-bb086198f195",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/article/462bbabf-a144-4f73-a71d-bb086198f195?resourceVersion=id%3A4009"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/article/462bbabf-a144-4f73-a71d-bb086198f195?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38689,
+    "drupal_internal__vid": 4009,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:47:58+00:00",
+    "status": true,
+    "title": "Selbstbildnis, Selbstplagiat",
+    "created": "2010-12-22T16:45:21+00:00",
+    "changed": "2012-01-02T15:04:36+00:00",
+    "promote": true,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/article/38689",
+      "pid": 441,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Die Schwierigkeit bei Bahr und seinen Anekdoten besteht darin: Einige werden von ihm so oft erzählt, dass man zwangsläufig den Überblick verliert und dabei sich nur das Gefühl einstellt, diese schon zu kennen. Ein etwas weitergehendes Detail sei hier aber für das \"Selbstbildnis\" angeführt: Und zwar berichtet Bahr auf den Seiten 211-212 seiner Erinnerungen die ersten Begegnungen mit Viktor Adler. Das ist eine leicht überarbeitete Fassung seines im Neuen Wiener Journal publizierten \"Tagebuchs\" vom 15. November 1918, einem Nachruf auf Adler (Buchfassung S. 278-280).\r\n\r\nAnders verhält es sich mit einem Eintrag im \"Tagebuch\" vom 12. Juni 1918, der Bahrs erste Lektüre und den Kuraufenthalt in Kreuzen referiert: Hier stellt das \"Tagebuch\" eine Entwurfskizze für das \"Selbstbildnis\" dar.",
+      "format": "full_html",
+      "processed": "Die Schwierigkeit bei Bahr und seinen Anekdoten besteht darin: Einige werden von ihm so oft erzählt, dass man zwangsläufig den Überblick verliert und dabei sich nur das Gefühl einstellt, diese schon zu kennen. Ein etwas weitergehendes Detail sei hier aber für das \"Selbstbildnis\" angeführt: Und zwar berichtet Bahr auf den Seiten 211-212 seiner Erinnerungen die ersten Begegnungen mit Viktor Adler. Das ist eine leicht überarbeitete Fassung seines im Neuen Wiener Journal publizierten \"Tagebuchs\" vom 15. November 1918, einem Nachruf auf Adler (Buchfassung S. 278-280).\n\nAnders verhält es sich mit einem Eintrag im \"Tagebuch\" vom 12. Juni 1918, der Bahrs erste Lektüre und den Kuraufenthalt in Kreuzen referiert: Hier stellt das \"Tagebuch\" eine Entwurfskizze für das \"Selbstbildnis\" dar.",
+      "summary": null
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "2591b802-2e12-43ea-999f-36ccdccd1176",
+        "meta": {
+          "drupal_internal__target_id": "article"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/462bbabf-a144-4f73-a71d-bb086198f195/node_type?resourceVersion=id%3A4009"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/462bbabf-a144-4f73-a71d-bb086198f195/relationships/node_type?resourceVersion=id%3A4009"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/462bbabf-a144-4f73-a71d-bb086198f195/revision_uid?resourceVersion=id%3A4009"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/462bbabf-a144-4f73-a71d-bb086198f195/relationships/revision_uid?resourceVersion=id%3A4009"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/462bbabf-a144-4f73-a71d-bb086198f195/uid?resourceVersion=id%3A4009"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/462bbabf-a144-4f73-a71d-bb086198f195/relationships/uid?resourceVersion=id%3A4009"
+        }
+      }
+    },
+    "field_image": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/462bbabf-a144-4f73-a71d-bb086198f195/field_image?resourceVersion=id%3A4009"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/462bbabf-a144-4f73-a71d-bb086198f195/relationships/field_image?resourceVersion=id%3A4009"
+        }
+      }
+    },
+    "field_tags": {
+      "data": [],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/462bbabf-a144-4f73-a71d-bb086198f195/field_tags?resourceVersion=id%3A4009"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/462bbabf-a144-4f73-a71d-bb086198f195/relationships/field_tags?resourceVersion=id%3A4009"
+        }
+      }
+    }
+  }
+}

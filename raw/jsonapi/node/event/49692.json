@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "8cf84ff8-e2c0-4fcc-a624-52d41c54bc90",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/8cf84ff8-e2c0-4fcc-a624-52d41c54bc90?resourceVersion=id%3A3474"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/8cf84ff8-e2c0-4fcc-a624-52d41c54bc90?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49692,
+    "drupal_internal__vid": 3474,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Pressecongress in Rom",
+    "created": "2011-11-28T12:22:13+00:00",
+    "changed": "2011-11-28T12:22:13+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49692",
+      "pid": 1507,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Von 3. bis zum 10. April 1899 ist Bahr Teilnehmer beim Internationalen Pressecongress in Rom. Im \"Tagebuch\" 1919 erinnert er sich:<blockquote>ich, war, gelegentlich eines der Internationalen Preßkongresse Wilhelm Singers, die doch das Gute hatten, daß man in aller Herren Ländern umsonst spazieren fahren konnte, zum erstenmal in Rom</blockquote>",
+      "format": "full_html",
+      "processed": "Von 3. bis zum 10. April 1899 ist Bahr Teilnehmer beim Internationalen Pressecongress in Rom. Im \"Tagebuch\" 1919 erinnert er sich:<blockquote>ich, war, gelegentlich eines der Internationalen Preßkongresse Wilhelm Singers, die doch das Gute hatten, daß man in aller Herren Ländern umsonst spazieren fahren konnte, zum erstenmal in Rom</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1899-04-03",
+      "end_value": "1899-04-10"
+    },
+    "field_sources": [
+      "Tagebücher (Csàky), II, 309-314.",
+      "Hermann Bahr: Tagebuch. 1. Mai. In: 1919. Tagebuch, 147-152, hier: 152"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8cf84ff8-e2c0-4fcc-a624-52d41c54bc90/node_type?resourceVersion=id%3A3474"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8cf84ff8-e2c0-4fcc-a624-52d41c54bc90/relationships/node_type?resourceVersion=id%3A3474"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8cf84ff8-e2c0-4fcc-a624-52d41c54bc90/revision_uid?resourceVersion=id%3A3474"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8cf84ff8-e2c0-4fcc-a624-52d41c54bc90/relationships/revision_uid?resourceVersion=id%3A3474"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8cf84ff8-e2c0-4fcc-a624-52d41c54bc90/uid?resourceVersion=id%3A3474"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8cf84ff8-e2c0-4fcc-a624-52d41c54bc90/relationships/uid?resourceVersion=id%3A3474"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8cf84ff8-e2c0-4fcc-a624-52d41c54bc90/field_event_type?resourceVersion=id%3A3474"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8cf84ff8-e2c0-4fcc-a624-52d41c54bc90/relationships/field_event_type?resourceVersion=id%3A3474"
+        }
+      }
+    }
+  }
+}

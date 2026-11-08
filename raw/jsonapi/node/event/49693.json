@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "3a5faced-ccd4-4f5b-945f-a3ebdcde5833",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/3a5faced-ccd4-4f5b-945f-a3ebdcde5833?resourceVersion=id%3A3475"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/3a5faced-ccd4-4f5b-945f-a3ebdcde5833?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49693,
+    "drupal_internal__vid": 3475,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Wilhelm Singer",
+    "created": "2011-11-28T12:28:40+00:00",
+    "changed": "2011-11-28T12:28:40+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49693",
+      "pid": 1508,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahrs Wechsel von der \"Zeit\" zum von Wilhelm Singer herausgegebenen Neuen Wiener Tagblatt und zur Österreichischen Volkszeitung kündigt sich leise an. Das erste Zeichen - und womöglich das Umfeld, in dem die von Karl Kraus öfter kritisch ausgeschlachtete lobhudelnden Bankettrede auf Singer stattfand - ist Bahrs Teilnahme am Internationalen Presse-Kongress in Rom vom 2. zum 10. April 1899.",
+      "format": "full_html",
+      "processed": "Bahrs Wechsel von der \"Zeit\" zum von Wilhelm Singer herausgegebenen Neuen Wiener Tagblatt und zur Österreichischen Volkszeitung kündigt sich leise an. Das erste Zeichen - und womöglich das Umfeld, in dem die von Karl Kraus öfter kritisch ausgeschlachtete lobhudelnden Bankettrede auf Singer stattfand - ist Bahrs Teilnahme am Internationalen Presse-Kongress in Rom vom 2. zum 10. April 1899.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1899-04-03",
+      "end_value": "1899-04-03"
+    },
+    "field_sources": [
+      "(Hier auf 3.4.1899 datiert)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3a5faced-ccd4-4f5b-945f-a3ebdcde5833/node_type?resourceVersion=id%3A3475"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3a5faced-ccd4-4f5b-945f-a3ebdcde5833/relationships/node_type?resourceVersion=id%3A3475"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3a5faced-ccd4-4f5b-945f-a3ebdcde5833/revision_uid?resourceVersion=id%3A3475"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3a5faced-ccd4-4f5b-945f-a3ebdcde5833/relationships/revision_uid?resourceVersion=id%3A3475"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3a5faced-ccd4-4f5b-945f-a3ebdcde5833/uid?resourceVersion=id%3A3475"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3a5faced-ccd4-4f5b-945f-a3ebdcde5833/relationships/uid?resourceVersion=id%3A3475"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3a5faced-ccd4-4f5b-945f-a3ebdcde5833/field_event_type?resourceVersion=id%3A3475"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3a5faced-ccd4-4f5b-945f-a3ebdcde5833/relationships/field_event_type?resourceVersion=id%3A3475"
+        }
+      }
+    }
+  }
+}

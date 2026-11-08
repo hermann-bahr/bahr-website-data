@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stammbaum" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Stammbaum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">74442</idno>
+        <idno type="drupal-alias">/stammbaum</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/stammbaum">https://bahr.univie.ac.at/stammbaum</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="none">
+          <term>nicht im Menü</term>
+        </keywords>
+        <classCode scheme="drupal-type">page</classCode>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2012-11-20T09:00:24+00:00" type="created">angelegt in Drupal</change>
+      <change when="2013-01-17T09:49:33+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>1937/38, wenige Jahre nach Bahrs Tod, musste die Witwe Bahrs, Anna Bahr-Mildenburg den "Ariernachweis" für Hermann und sich erstellen. Das führte zu einigen Schwierigkeiten, schließlich sind, wie man aus dem "Selbstbildnis" ersehen kann, die Verwandtschaftsverhältnisse kompliziert und umfassen einen großen geografischen Raum, der schon längst nicht mehr zur österreichischen Monarchie gehörte. Sie beschäftigte einen Neffen, kontaktierte Jaroslav Kvapil in Prag und letztlich gelang es ihr, bis zu den Urgroßeltern und teilweise weiter, Bahrs Abstammung zu klären. Eine Kiste mit allen Dokumenten zum "Ariernachweis" findet sich in ihrem Nachlass im Österreichischen Theatermuseum, woraus hier die Familienverhältnisse und Lebensdaten (aufs Jahr genau) zusammengestellt wurden, mit Angaben aus anderen Quellen ergänzt. Nicht gezielt angeführt werden die Ortschaften und ob alle Familien vollständig sind. Obwohl schon zu Bahrs Lebzeiten sein Eintreten für Juden den Verdacht entstehen ließ, selbst einer zu sein, wurde Bahrs "arische" Abstammung erfolgreich bewiesen. Schon im "Selbstbildnis" wird aber vermerkt, dass Tante Anna mit Salomo Robicsek mit einem Juden verheiratet war und auch Bahrs erste Frau jüdischer Abstammung war.<lb/>Ausgehend davon wurden mit anderen Quellen viele weitere Personen im Umfeld ergänzt, so dass der Stammbaum mittlerweile auch die Familien der beiden Ehefrauen enthält.<lb/> <ref target="https://bahr.univie.ac.at/sites/all/stammbaum/index.html" type="sites-all">Stammbaum Hermann Bahrs</ref></p>
+      </div>
+    </body>
+  </text>
+</TEI>

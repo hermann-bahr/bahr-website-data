@@ -1,0 +1,112 @@
+{
+  "type": "node--article",
+  "id": "6df856e8-3c11-47f4-b364-9c3f4031accf",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/article/6df856e8-3c11-47f4-b364-9c3f4031accf?resourceVersion=id%3A4022"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/article/6df856e8-3c11-47f4-b364-9c3f4031accf?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 81342,
+    "drupal_internal__vid": 4022,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:47:58+00:00",
+    "status": true,
+    "title": "Textverzeichnis erschienen",
+    "created": "2014-12-27T10:27:42+00:00",
+    "changed": "2014-12-27T10:34:38+00:00",
+    "promote": true,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/article/81342",
+      "pid": 1881,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<img src=\"http://www.univie.ac.at/bahr/sites/all/bilder/textverzeichnis.jpg\" width=\"200px\" align=\"right\">Im Juli 2013 erschien beim VDG-Verlag Weimar eine gedruckte Fassung des Textverzeichnisses. Dabei handelt es sich um eine für den Druck aufbereitete Fassung der auf dieser Website einsehbaren Nachweise. Die Vorzüge der Buchausgabe bestehen darin, dass sie unmittelbarer einen Überblick über das Schaffen in bestimmten Jahren ermöglicht und sie mit einiger Sicherheit die Lebenszeit dieser Website übderdauern wird. Nachträge hingegen wird es nur auf dieser Website geben.\r\n\r\nZur <a href=\"http://www.vdg-weimar.de/katalog/hermann-bahr-textverzeichnis-801.html\">Verlagspräsentation</a>",
+      "format": "full_html",
+      "processed": "<img src=\"http://www.univie.ac.at/bahr/sites/all/bilder/textverzeichnis.jpg\" width=\"200px\" align=\"right\">Im Juli 2013 erschien beim VDG-Verlag Weimar eine gedruckte Fassung des Textverzeichnisses. Dabei handelt es sich um eine für den Druck aufbereitete Fassung der auf dieser Website einsehbaren Nachweise. Die Vorzüge der Buchausgabe bestehen darin, dass sie unmittelbarer einen Überblick über das Schaffen in bestimmten Jahren ermöglicht und sie mit einiger Sicherheit die Lebenszeit dieser Website übderdauern wird. Nachträge hingegen wird es nur auf dieser Website geben.\n\nZur <a href=\"http://www.vdg-weimar.de/katalog/hermann-bahr-textverzeichnis-801.html\">Verlagspräsentation</a>",
+      "summary": null
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "2591b802-2e12-43ea-999f-36ccdccd1176",
+        "meta": {
+          "drupal_internal__target_id": "article"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/6df856e8-3c11-47f4-b364-9c3f4031accf/node_type?resourceVersion=id%3A4022"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/6df856e8-3c11-47f4-b364-9c3f4031accf/relationships/node_type?resourceVersion=id%3A4022"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/6df856e8-3c11-47f4-b364-9c3f4031accf/revision_uid?resourceVersion=id%3A4022"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/6df856e8-3c11-47f4-b364-9c3f4031accf/relationships/revision_uid?resourceVersion=id%3A4022"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/6df856e8-3c11-47f4-b364-9c3f4031accf/uid?resourceVersion=id%3A4022"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/6df856e8-3c11-47f4-b364-9c3f4031accf/relationships/uid?resourceVersion=id%3A4022"
+        }
+      }
+    },
+    "field_image": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/6df856e8-3c11-47f4-b364-9c3f4031accf/field_image?resourceVersion=id%3A4022"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/6df856e8-3c11-47f4-b364-9c3f4031accf/relationships/field_image?resourceVersion=id%3A4022"
+        }
+      }
+    },
+    "field_tags": {
+      "data": [],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/6df856e8-3c11-47f4-b364-9c3f4031accf/field_tags?resourceVersion=id%3A4022"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/article/6df856e8-3c11-47f4-b364-9c3f4031accf/relationships/field_tags?resourceVersion=id%3A4022"
+        }
+      }
+    }
+  }
+}

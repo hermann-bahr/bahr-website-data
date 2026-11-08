@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "d21e6c5e-fd31-480c-aec4-91a3965c5fee",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/d21e6c5e-fd31-480c-aec4-91a3965c5fee?resourceVersion=id%3A2599"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/d21e6c5e-fd31-480c-aec4-91a3965c5fee?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38778,
+    "drupal_internal__vid": 2599,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Ebensee, Böhmen, Kaltenleutgeben, Sulz",
+    "created": "2011-01-31T18:31:30+00:00",
+    "changed": "2011-11-03T11:01:29+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38778",
+      "pid": 526,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Für den August 1893 macht sich Bahr viele Pläne:\r\n<blockquote>über den Semmering nach Maria Zell […], dann auf ein paar Tage nach dem Grundlsee zu Berti Goldschmidt, nach Ischl, wohin ich mir Loris vom Strobl kommen lasse, vielleicht an den Attersee […] dann vielleicht ein paar Tage nach Linz […] und dann noch etwa 10, 12 Tage in die Sulz oder nach Kaltenleutgeben</blockquote> Womöglich trifft er gleich am Anfang in Ebensee auf Hofmannsthal und Burckhard, auch am Grundlsee und in Zell war er. Am 12. August schreibt er, dass er nach Böhmen gehe und danach Sulz und Kaltenleutgeben bleibe. Zur Eröffnung des Volkstheaters am 25. August dürfte er zurück gewesen sein, vielleicht auch erst am 10.9.",
+      "format": "full_html",
+      "processed": "Für den August 1893 macht sich Bahr viele Pläne:\n<blockquote>über den Semmering nach Maria Zell […], dann auf ein paar Tage nach dem Grundlsee zu Berti Goldschmidt, nach Ischl, wohin ich mir Loris vom Strobl kommen lasse, vielleicht an den Attersee […] dann vielleicht ein paar Tage nach Linz […] und dann noch etwa 10, 12 Tage in die Sulz oder nach Kaltenleutgeben</blockquote> Womöglich trifft er gleich am Anfang in Ebensee auf Hofmannsthal und Burckhard, auch am Grundlsee und in Zell war er. Am 12. August schreibt er, dass er nach Böhmen gehe und danach Sulz und Kaltenleutgeben bleibe. Zur Eröffnung des Volkstheaters am 25. August dürfte er zurück gewesen sein, vielleicht auch erst am 10.9.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1893-08-07",
+      "end_value": "1893-09-10"
+    },
+    "field_sources": [
+      "Brief an den Vater, 6.8.1893, 12.8.1893, 10.9. sowie ein undatierter, Beginn: Ich war zwei Tage fidel"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d21e6c5e-fd31-480c-aec4-91a3965c5fee/node_type?resourceVersion=id%3A2599"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d21e6c5e-fd31-480c-aec4-91a3965c5fee/relationships/node_type?resourceVersion=id%3A2599"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d21e6c5e-fd31-480c-aec4-91a3965c5fee/revision_uid?resourceVersion=id%3A2599"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d21e6c5e-fd31-480c-aec4-91a3965c5fee/relationships/revision_uid?resourceVersion=id%3A2599"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d21e6c5e-fd31-480c-aec4-91a3965c5fee/uid?resourceVersion=id%3A2599"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d21e6c5e-fd31-480c-aec4-91a3965c5fee/relationships/uid?resourceVersion=id%3A2599"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d21e6c5e-fd31-480c-aec4-91a3965c5fee/field_event_type?resourceVersion=id%3A2599"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d21e6c5e-fd31-480c-aec4-91a3965c5fee/relationships/field_event_type?resourceVersion=id%3A2599"
+        }
+      }
+    }
+  }
+}

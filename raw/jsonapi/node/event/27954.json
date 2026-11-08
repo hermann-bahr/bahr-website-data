@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "3fe3142a-bb06-49c8-9621-794644097465",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/3fe3142a-bb06-49c8-9621-794644097465?resourceVersion=id%3A2295"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/3fe3142a-bb06-49c8-9621-794644097465?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27954,
+    "drupal_internal__vid": 2295,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Rudigier",
+    "created": "2010-07-19T15:06:10+00:00",
+    "changed": "2011-10-14T16:32:41+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/27954",
+      "pid": 129,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Auf Dezember 1917 datieren lässt sich Bahrs Studie über den Linzer Bischof Rudigier, mit dem sein Vater Sträuße ausgefochten hatte, der aber für den Sohn zum Vorbild für Österreich erkoren wird. Am 24. Dezember fragt Bahr Redlich, ob er das Buch auch bekommen habe.",
+      "format": "full_html",
+      "processed": "Auf Dezember 1917 datieren lässt sich Bahrs Studie über den Linzer Bischof Rudigier, mit dem sein Vater Sträuße ausgefochten hatte, der aber für den Sohn zum Vorbild für Österreich erkoren wird. Am 24. Dezember fragt Bahr Redlich, ob er das Buch auch bekommen habe.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1917-12-24",
+      "end_value": "1917-12-24"
+    },
+    "field_sources": [
+      "Hermann Bahr: Rudigier. Kempten und München: Jos. Kösel, [1917]."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3fe3142a-bb06-49c8-9621-794644097465/node_type?resourceVersion=id%3A2295"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3fe3142a-bb06-49c8-9621-794644097465/relationships/node_type?resourceVersion=id%3A2295"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3fe3142a-bb06-49c8-9621-794644097465/revision_uid?resourceVersion=id%3A2295"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3fe3142a-bb06-49c8-9621-794644097465/relationships/revision_uid?resourceVersion=id%3A2295"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3fe3142a-bb06-49c8-9621-794644097465/uid?resourceVersion=id%3A2295"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3fe3142a-bb06-49c8-9621-794644097465/relationships/uid?resourceVersion=id%3A2295"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "da42ac4a-f48f-4397-af4d-b66e913825fb",
+          "meta": {
+            "drupal_internal__target_id": 3
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3fe3142a-bb06-49c8-9621-794644097465/field_event_type?resourceVersion=id%3A2295"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/3fe3142a-bb06-49c8-9621-794644097465/relationships/field_event_type?resourceVersion=id%3A2295"
+        }
+      }
+    }
+  }
+}

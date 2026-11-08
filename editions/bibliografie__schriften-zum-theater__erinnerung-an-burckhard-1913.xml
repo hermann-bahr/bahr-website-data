@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bibliografie__schriften-zum-theater__erinnerung-an-burckhard-1913" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Erinnerung an Burckhard (1913)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">39100</idno>
+        <idno type="drupal-alias">/bibliografie/39100</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bibliografie/39100">https://bahr.univie.ac.at/bibliografie/39100</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+        <bibl type="beschriebene-ausgabe">
+          <author>Hermann Bahr</author>
+          <title type="main">Erinnerung an Burckhard</title>
+          <pubPlace>Berlin</pubPlace>
+          <publisher>S. Fischer</publisher>
+          <date>1913</date>
+          <extent>136</extent>
+          <note>Mit drei Porträts von Burckhard. Am 28.6.1913 teilt Bahr Fischer mit, dass das Manuskript fast fertig ist. Im 1. Juli-Heft des "Merkers" ist das 2. Kapitel vorabgedruckt, das Buch wird für Herbst angekündigt. Am 18. August ist es ausgedruckt und soll Mitte September fertig sein (Bahr/Redlich, 88). Die Widmung in Gerhart Hauptmanns Exemplar datiert vom 7. Oktober 1913. Schnitzler nennt es am 7.12.1925 in einem Brief an Anton Bettelheim "Das beste, was über Max Burckhard bisher geschrieben wurde" (Schnitzler: Briefe 1913-1931, 420).</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="1" key="bibliografie">Bibliografie</term>
+          <term n="5" key="schriften-zum-theater">Schriften zum Theater</term>
+          <term n="3" key="erinnerung-an-burckhard-1913" type="eintrag">Erinnerung an Burckhard (1913)</term>
+        </keywords>
+        <classCode scheme="drupal-type">bibliographie</classCode>
+        <keywords scheme="bibliografie_type">
+          <term>Schriften für das Theater</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2011-05-18T18:50:12+00:00" type="created">angelegt in Drupal</change>
+      <change when="2012-10-22T10:24:44+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="bib">
+        <head>Bibliografie</head>
+        <table type="bibliografie">
+          <row>
+            <cell>Autor:</cell>
+            <cell>Hermann Bahr</cell>
+          </row>
+          <row>
+            <cell>Titel:</cell>
+            <cell>Erinnerung an Burckhard</cell>
+          </row>
+          <row>
+            <cell>Ort:</cell>
+            <cell>Berlin</cell>
+          </row>
+          <row>
+            <cell>Verlag:</cell>
+            <cell>S. Fischer</cell>
+          </row>
+          <row>
+            <cell>Jahr:</cell>
+            <cell>1913</cell>
+          </row>
+          <row>
+            <cell>Seiten:</cell>
+            <cell>136</cell>
+          </row>
+          <row>
+            <cell>Anm.:</cell>
+            <cell>Mit drei Porträts von Burckhard. Am 28.6.1913 teilt Bahr Fischer mit, dass das Manuskript fast fertig ist. Im 1. Juli-Heft des "Merkers" ist das 2. Kapitel vorabgedruckt, das Buch wird für Herbst angekündigt. Am 18. August ist es ausgedruckt und soll Mitte September fertig sein (Bahr/Redlich, 88). Die Widmung in Gerhart Hauptmanns Exemplar datiert vom 7. Oktober 1913. Schnitzler nennt es am 7.12.1925 in einem Brief an Anton Bettelheim "Das beste, was über Max Burckhard bisher geschrieben wurde" (Schnitzler: Briefe 1913-1931, 420).</cell>
+          </row>
+        </table>
+      </div>
+      <div xml:id="rezens">
+        <head>Rezensionen</head>
+        <p>Paul Zifferer in: Neue Freie Presse, #17643, 31-32. (5.10.1913) [O. N.:] Hermann Bahr: Erinnerungen an Burckhard (S. Fischer, Berlin). In: Breslauer Morgen-Zeitung, 1913 #316, Literarische Beilage, 2. (17.11.1913) Berliner Tageblatt, zwischen 6. und 9.12.1913 Peter Alexander Kleimann: Hermann Bahr: Erinnerungen an Burkhard. In: Hamburgischer Correspondent. Zeitung für Literatur, Kunst und Wissenschaft, 1913 #26, 206. (21.12.1913) Albert Zippert: Hermann Bahr: Erinnerungen an Burckhard. In: Die Persönlichkeit, 1 (1914) #2 (Februar), 141-142.</p>
+      </div>
+      <div xml:id="digit">
+        <head>Digitalisate</head>
+        <list rend="bulleted">
+          <item>
+            <ref target="http://www.archive.org/search.php?query=hermann%20bahr%20burckhard">archive.org</ref>
+          </item>
+        </list>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "9f3a8ac2-50fe-4c46-867e-c64593e44000",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/9f3a8ac2-50fe-4c46-867e-c64593e44000?resourceVersion=id%3A3760"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/9f3a8ac2-50fe-4c46-867e-c64593e44000?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74438,
+    "drupal_internal__vid": 3760,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Max Kretzer",
+    "created": "2012-11-13T15:07:19+00:00",
+    "changed": "2012-11-13T15:07:19+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/74438",
+      "pid": 1812,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Über Max Kretzer schreibt Bahr in seinem Selbstbildnis:<blockquote>Und wie horchten wir freudig auf, als sich nun gar auch noch unser eigener Zola fand, ein Berliner Zola: Max Kretzer, in dessen „Betrogenen“ und „Verkommenen“ unser tiefes menschliches Erbarmen mit den Enterbten ebenso auf seine Rechnung kam wie der schadenfrohe Hohn, einmal recht nach Lust in menschlicher Gemeinheit wühlen\r\nzu können;</blockquote>Im Nachlass Bahrs befindet sich eine Fotografie Kretzers, rückseitig von diesem beschriftet:<blockquote>Herrn Hermann Bahr. Zur Erinnerung an die in Berlin gemeinschaftlich verbrachten höllischen Stunden, mit dem herzlichen Wunsch: \"Auf Wiedersehen!\" Dein Gesinnungsgenosse Max Kretzer. Berlin am 18. V. 1887.</blockquote>",
+      "format": "full_html",
+      "processed": "Über Max Kretzer schreibt Bahr in seinem Selbstbildnis:<blockquote>Und wie horchten wir freudig auf, als sich nun gar auch noch unser eigener Zola fand, ein Berliner Zola: Max Kretzer, in dessen „Betrogenen“ und „Verkommenen“ unser tiefes menschliches Erbarmen mit den Enterbten ebenso auf seine Rechnung kam wie der schadenfrohe Hohn, einmal recht nach Lust in menschlicher Gemeinheit wühlen\nzu können;</blockquote>Im Nachlass Bahrs befindet sich eine Fotografie Kretzers, rückseitig von diesem beschriftet:<blockquote>Herrn Hermann Bahr. Zur Erinnerung an die in Berlin gemeinschaftlich verbrachten höllischen Stunden, mit dem herzlichen Wunsch: \"Auf Wiedersehen!\" Dein Gesinnungsgenosse Max Kretzer. Berlin am 18. V. 1887.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1887-05-18",
+      "end_value": "1887-05-18"
+    },
+    "field_sources": [
+      "Selbstbildnis, 192.",
+      "Nachlass Bahrs, Kiste mit Fotografien"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9f3a8ac2-50fe-4c46-867e-c64593e44000/node_type?resourceVersion=id%3A3760"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9f3a8ac2-50fe-4c46-867e-c64593e44000/relationships/node_type?resourceVersion=id%3A3760"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9f3a8ac2-50fe-4c46-867e-c64593e44000/revision_uid?resourceVersion=id%3A3760"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9f3a8ac2-50fe-4c46-867e-c64593e44000/relationships/revision_uid?resourceVersion=id%3A3760"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9f3a8ac2-50fe-4c46-867e-c64593e44000/uid?resourceVersion=id%3A3760"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9f3a8ac2-50fe-4c46-867e-c64593e44000/relationships/uid?resourceVersion=id%3A3760"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9f3a8ac2-50fe-4c46-867e-c64593e44000/field_event_type?resourceVersion=id%3A3760"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9f3a8ac2-50fe-4c46-867e-c64593e44000/relationships/field_event_type?resourceVersion=id%3A3760"
+        }
+      }
+    }
+  }
+}

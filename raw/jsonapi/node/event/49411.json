@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "525d7a38-89e9-40d1-be55-34d39d0101b7",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/525d7a38-89e9-40d1-be55-34d39d0101b7?resourceVersion=id%3A3254"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/525d7a38-89e9-40d1-be55-34d39d0101b7?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49411,
+    "drupal_internal__vid": 3254,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Schwindelanfälle",
+    "created": "2011-10-18T16:12:53+00:00",
+    "changed": "2011-10-18T16:14:26+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49411",
+      "pid": 1235,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Schon im ersten Brief Redlichs an Bahr nach dessen Rückkehr nach Salzburg (9. April 1919) hofft Redlich auf eine Besserung seiner \"Seekrankheit\". Nachdem Bahr einen Monat lang nicht antwortet, erfährt Redlich Anfang Mai über \"Jenny\" Eugenie von Roth, dass Bahrs Schwindelanfälle noch immer nicht weg sind, er aber besseren Appetit habe. Am 7. Mai schreibt Bahr kurz, dass es mit ihm aufwärts ginge. Am 25. Mai kann er zum ersten Mal wieder auf den Gaisberg wandern.",
+      "format": "full_html",
+      "processed": "Schon im ersten Brief Redlichs an Bahr nach dessen Rückkehr nach Salzburg (9. April 1919) hofft Redlich auf eine Besserung seiner \"Seekrankheit\". Nachdem Bahr einen Monat lang nicht antwortet, erfährt Redlich Anfang Mai über \"Jenny\" Eugenie von Roth, dass Bahrs Schwindelanfälle noch immer nicht weg sind, er aber besseren Appetit habe. Am 7. Mai schreibt Bahr kurz, dass es mit ihm aufwärts ginge. Am 25. Mai kann er zum ersten Mal wieder auf den Gaisberg wandern.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1919-04-09",
+      "end_value": "1919-05-25"
+    },
+    "field_sources": [
+      "Bahr/Redlich, 360-365."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/525d7a38-89e9-40d1-be55-34d39d0101b7/node_type?resourceVersion=id%3A3254"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/525d7a38-89e9-40d1-be55-34d39d0101b7/relationships/node_type?resourceVersion=id%3A3254"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/525d7a38-89e9-40d1-be55-34d39d0101b7/revision_uid?resourceVersion=id%3A3254"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/525d7a38-89e9-40d1-be55-34d39d0101b7/relationships/revision_uid?resourceVersion=id%3A3254"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/525d7a38-89e9-40d1-be55-34d39d0101b7/uid?resourceVersion=id%3A3254"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/525d7a38-89e9-40d1-be55-34d39d0101b7/relationships/uid?resourceVersion=id%3A3254"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/525d7a38-89e9-40d1-be55-34d39d0101b7/field_event_type?resourceVersion=id%3A3254"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/525d7a38-89e9-40d1-be55-34d39d0101b7/relationships/field_event_type?resourceVersion=id%3A3254"
+        }
+      }
+    }
+  }
+}

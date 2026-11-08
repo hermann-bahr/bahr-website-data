@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "26d606bb-0db7-476d-9098-69d5db62e3ad",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/26d606bb-0db7-476d-9098-69d5db62e3ad?resourceVersion=id%3A3360"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/26d606bb-0db7-476d-9098-69d5db62e3ad?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49526,
+    "drupal_internal__vid": 3360,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Vortragszyklus Deutsches Theater",
+    "created": "2011-10-27T14:00:57+00:00",
+    "changed": "2011-10-27T14:00:57+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49526",
+      "pid": 1344,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Im Neuen Wiener Tagblatt steht am 22. August 1905:<blockquote>Aus Berlin meldet man uns: Im Vortragscyklus der Schauspielschule des Deutschen Theaters werden Vorträge halten: Hermann Bahr, Baron Berger, Barnay, Richard Beer-Hofmann, Hugo von Hofmannsthal und Richard Muther.</blockquote>Wann der Vortrag stattfand - und ob überhaupt, ist ungeklärt.",
+      "format": "full_html",
+      "processed": "Im Neuen Wiener Tagblatt steht am 22. August 1905:<blockquote>Aus Berlin meldet man uns: Im Vortragscyklus der Schauspielschule des Deutschen Theaters werden Vorträge halten: Hermann Bahr, Baron Berger, Barnay, Richard Beer-Hofmann, Hugo von Hofmannsthal und Richard Muther.</blockquote>Wann der Vortrag stattfand - und ob überhaupt, ist ungeklärt.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1905-08-22",
+      "end_value": "1905-08-22"
+    },
+    "field_sources": [
+      "Neues Wiener Tagblatt, 39 (1905) #231, 8. (22.8.1905)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/26d606bb-0db7-476d-9098-69d5db62e3ad/node_type?resourceVersion=id%3A3360"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/26d606bb-0db7-476d-9098-69d5db62e3ad/relationships/node_type?resourceVersion=id%3A3360"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/26d606bb-0db7-476d-9098-69d5db62e3ad/revision_uid?resourceVersion=id%3A3360"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/26d606bb-0db7-476d-9098-69d5db62e3ad/relationships/revision_uid?resourceVersion=id%3A3360"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/26d606bb-0db7-476d-9098-69d5db62e3ad/uid?resourceVersion=id%3A3360"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/26d606bb-0db7-476d-9098-69d5db62e3ad/relationships/uid?resourceVersion=id%3A3360"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/26d606bb-0db7-476d-9098-69d5db62e3ad/field_event_type?resourceVersion=id%3A3360"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/26d606bb-0db7-476d-9098-69d5db62e3ad/relationships/field_event_type?resourceVersion=id%3A3360"
+        }
+      }
+    }
+  }
+}

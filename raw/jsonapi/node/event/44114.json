@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "b2bc27f1-13e3-4ebc-ad92-d7723b7c4b79",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b2bc27f1-13e3-4ebc-ad92-d7723b7c4b79?resourceVersion=id%3A3030"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b2bc27f1-13e3-4ebc-ad92-d7723b7c4b79?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44114,
+    "drupal_internal__vid": 3030,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Streichung im N.W.T.",
+    "created": "2011-09-14T08:49:50+00:00",
+    "changed": "2011-09-14T08:49:50+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44114",
+      "pid": 1009,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Eine Auseinandersetzung mit dem Feuilletonverantwortlichen Eduard Pötzl am 28. August 1904 zeigt Bahrs Stand innerhalb des \"Neuen Wiener Tagblatts\". Pötzl hatte aus der Theaterkritik zur \"Kindermörderin\" einen aktualisierenden Satz über den schwierigen Umgang mancher Stoffe mit der Bühne gestrichen: <blockquote>Das könnte schließlich auch ich für den 'Reigen' geschrieben haben.</blockquote>Bahr restitutiert den Satz wieder und beschwert sich brieflich mein Chefredakteur Singer. In dem Brief beschreibt er seine beiden Funktionen beim \"N.W.T.\": \"Feuilletons\" und \"Kritische Referate\". Für Feuilletons ist Pötzl zuständig, der sie ablehnen kann und der der Grund ist, warum Bahr nur mehr wenige schreibt. Die \"Kritischen Referate\" bezeichnen alle Theaterbesprechungen und die fallen ausschließlich in Bahrs Ressort, der den Theaterteil leitet, auch wenn sie \"unter dem Strich\", also im Feuilletonteil erscheinen. Wie schon im Zuge des Prozesses mit Karl Kraus, aber auch in \"Gegen Klimt\" deutlich wird, ist Bahr innerhalb der Redaktion isoliert und hat seine Stelle nur durch seine gute Beziehung zu Singer.",
+      "format": "full_html",
+      "processed": "Eine Auseinandersetzung mit dem Feuilletonverantwortlichen Eduard Pötzl am 28. August 1904 zeigt Bahrs Stand innerhalb des \"Neuen Wiener Tagblatts\". Pötzl hatte aus der Theaterkritik zur \"Kindermörderin\" einen aktualisierenden Satz über den schwierigen Umgang mancher Stoffe mit der Bühne gestrichen: <blockquote>Das könnte schließlich auch ich für den 'Reigen' geschrieben haben.</blockquote>Bahr restitutiert den Satz wieder und beschwert sich brieflich mein Chefredakteur Singer. In dem Brief beschreibt er seine beiden Funktionen beim \"N.W.T.\": \"Feuilletons\" und \"Kritische Referate\". Für Feuilletons ist Pötzl zuständig, der sie ablehnen kann und der der Grund ist, warum Bahr nur mehr wenige schreibt. Die \"Kritischen Referate\" bezeichnen alle Theaterbesprechungen und die fallen ausschließlich in Bahrs Ressort, der den Theaterteil leitet, auch wenn sie \"unter dem Strich\", also im Feuilletonteil erscheinen. Wie schon im Zuge des Prozesses mit Karl Kraus, aber auch in \"Gegen Klimt\" deutlich wird, ist Bahr innerhalb der Redaktion isoliert und hat seine Stelle nur durch seine gute Beziehung zu Singer.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1904-08-28",
+      "end_value": "1904-08-28"
+    },
+    "field_sources": [
+      "Hermann Bahr: Sturm und Drang. (\"Die Kindermörderin\", ein Trauerspiel von Heinrich Leopold Wagner. Zum ersten Mal aufgeführt durch den Musik- und Theaterverein \"Sezession\" im Beatrixsaal am 27. August 1904). Neues Wiener Tagblatt, (1904), 3-5. (28.8.1904) ",
+      "Glossen, 421.",
+      "Tagebücher (Csàky), IV, 269-270."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b2bc27f1-13e3-4ebc-ad92-d7723b7c4b79/node_type?resourceVersion=id%3A3030"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b2bc27f1-13e3-4ebc-ad92-d7723b7c4b79/relationships/node_type?resourceVersion=id%3A3030"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b2bc27f1-13e3-4ebc-ad92-d7723b7c4b79/revision_uid?resourceVersion=id%3A3030"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b2bc27f1-13e3-4ebc-ad92-d7723b7c4b79/relationships/revision_uid?resourceVersion=id%3A3030"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b2bc27f1-13e3-4ebc-ad92-d7723b7c4b79/uid?resourceVersion=id%3A3030"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b2bc27f1-13e3-4ebc-ad92-d7723b7c4b79/relationships/uid?resourceVersion=id%3A3030"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "d579e54c-64dd-4193-a9ef-da87efb3ed16",
+          "meta": {
+            "drupal_internal__target_id": 8
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b2bc27f1-13e3-4ebc-ad92-d7723b7c4b79/field_event_type?resourceVersion=id%3A3030"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b2bc27f1-13e3-4ebc-ad92-d7723b7c4b79/relationships/field_event_type?resourceVersion=id%3A3030"
+        }
+      }
+    }
+  }
+}

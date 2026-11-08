@@ -1,0 +1,121 @@
+{
+  "type": "node--event",
+  "id": "4b4356fb-f7b3-496f-a257-be1a65544e4f",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/4b4356fb-f7b3-496f-a257-be1a65544e4f?resourceVersion=id%3A2333"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/4b4356fb-f7b3-496f-a257-be1a65544e4f?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28001,
+    "drupal_internal__vid": 2333,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Olbrichs \"Haus Bahr\"",
+    "created": "2010-07-27T14:45:58+00:00",
+    "changed": "2012-10-29T07:39:23+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28001",
+      "pid": 167,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 18. Juli 1900 [1] zieht Bahr in sein Haus, das von Joseph Maria Olbrich, dem Architekten des Sezessionsgebäudes, für ihn gebaut wurde. Das Grundstück in der Veitlissengasse hatte er dazu von seinem nunmehrigen Nachbarn Emmerich Bukovics, dem Direktor des Deutschen Volkstheaters erworben. Die Inneneinrichtung übernahm ebenfalls Olbrich, aber es finden sich auch Objekte von Olbrichs früherem Arbeitgeber Otto Wagner. Der heute prominenteste Einrichtungsgegenstand stellt Gustav Klimts Nuda Veritas dar. Heutige Adresse, mit verlegtem Eingang: Winzerstr. 22. Am 21. und 22. Februar 1901 werden die Umstände der Errichtung in einem Verfahren gegen Karl Kraus vor Gericht verhandelt, siehe dort.\r\nDer Eintrag im Adressverzeichnis Lehmann 1901 [2] enthält nun auch seine \"Sprechstunde\": <blockquote>Bahr, Hermann, Schriftsteller, Redacteur d. \"Neuen Wiener Tagblatt\", XIII/7 Veitlisseng. 5.a. (Redaction I. Steyrerhof 3 (1/2 6-1/2 7)</blockquote> Von der Stadtbahnstation zu seinem Haus dauert es 18 Minuten.[3]\r\n",
+      "format": "full_html",
+      "processed": "Am 18. Juli 1900 [1] zieht Bahr in sein Haus, das von Joseph Maria Olbrich, dem Architekten des Sezessionsgebäudes, für ihn gebaut wurde. Das Grundstück in der Veitlissengasse hatte er dazu von seinem nunmehrigen Nachbarn Emmerich Bukovics, dem Direktor des Deutschen Volkstheaters erworben. Die Inneneinrichtung übernahm ebenfalls Olbrich, aber es finden sich auch Objekte von Olbrichs früherem Arbeitgeber Otto Wagner. Der heute prominenteste Einrichtungsgegenstand stellt Gustav Klimts Nuda Veritas dar. Heutige Adresse, mit verlegtem Eingang: Winzerstr. 22. Am 21. und 22. Februar 1901 werden die Umstände der Errichtung in einem Verfahren gegen Karl Kraus vor Gericht verhandelt, siehe dort.\nDer Eintrag im Adressverzeichnis Lehmann 1901 [2] enthält nun auch seine \"Sprechstunde\": <blockquote>Bahr, Hermann, Schriftsteller, Redacteur d. \"Neuen Wiener Tagblatt\", XIII/7 Veitlisseng. 5.a. (Redaction I. Steyrerhof 3 (1/2 6-1/2 7)</blockquote> Von der Stadtbahnstation zu seinem Haus dauert es 18 Minuten.[3]\n",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1900-07-18",
+      "end_value": "1900-07-18"
+    },
+    "field_sources": [
+      "[1] Briefwechsel Bahr/Hofmannsthal. Hg. Elsbeth Dangel-Pelloquin. Göttingen: Wallstein. (In Vorbereitung), an HvH, 22.7.1900",
+      "[2] Adressverzeichnis Lehmann 1901, II, 33 - Drucklegung 20. August 1900",
+      "[3] Brief an die Mutter, 30. 12. [1901]",
+      "Zum Haus: Villa Bahr aus: Das Interieur, II, 164.",
+      "Ludwig Hevesi: Acht Jahre Secession. Wien: Konegen 1906. ",
+      "Markus Kristan und Eva B. Ottillinger: Die Wohn- und Geschäftshäuser der Wiener Zeit. In: Joseph Maria Olbrich (1867 - 1908). Architekt und Gestalter der frühen Moderne. Eine Ausstellung in Zusammenarbeit mit dem Leopold Museum Wien und der Kunstbibliothek - Staatliche Museen zu Berlin. Hg. Ralf Beil. Ostfildern: Hatje Cantz 2010, 117-138."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4b4356fb-f7b3-496f-a257-be1a65544e4f/node_type?resourceVersion=id%3A2333"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4b4356fb-f7b3-496f-a257-be1a65544e4f/relationships/node_type?resourceVersion=id%3A2333"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4b4356fb-f7b3-496f-a257-be1a65544e4f/revision_uid?resourceVersion=id%3A2333"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4b4356fb-f7b3-496f-a257-be1a65544e4f/relationships/revision_uid?resourceVersion=id%3A2333"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4b4356fb-f7b3-496f-a257-be1a65544e4f/uid?resourceVersion=id%3A2333"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4b4356fb-f7b3-496f-a257-be1a65544e4f/relationships/uid?resourceVersion=id%3A2333"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4b4356fb-f7b3-496f-a257-be1a65544e4f/field_event_type?resourceVersion=id%3A2333"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4b4356fb-f7b3-496f-a257-be1a65544e4f/relationships/field_event_type?resourceVersion=id%3A2333"
+        }
+      }
+    }
+  }
+}

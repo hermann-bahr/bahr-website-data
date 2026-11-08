@@ -1,0 +1,119 @@
+{
+  "type": "node--event",
+  "id": "f290113a-30c6-423e-aa70-9d39b73b4aa6",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f290113a-30c6-423e-aa70-9d39b73b4aa6?resourceVersion=id%3A2337"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f290113a-30c6-423e-aa70-9d39b73b4aa6?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28005,
+    "drupal_internal__vid": 2337,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Herzproblem",
+    "created": "2010-07-27T14:52:47+00:00",
+    "changed": "2011-10-24T10:36:03+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28005",
+      "pid": 171,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Anfang Dezember 1903 in Berlin, bei den Proben des \"Meisters\", verspürt Bahr zum ersten Mal Probleme mit seinem Herzen, die sich länger hinziehen und zu mehreren Konsultationen bei Ärzten führen. Diagnostiziert wird eine \"schwere Erkrankung der Aorta und der Kranzarterien, Angina Pectoris\". Es ist die zweite lebensbedrohende Erkrankung Bahrs innerhalb von 12 Monaten. Am 12. Jänner reist er auf Kur. In der Folge wird Bahr das Jahr 1904 vor allem für seine Genesung verwenden.",
+      "format": "full_html",
+      "processed": "Anfang Dezember 1903 in Berlin, bei den Proben des \"Meisters\", verspürt Bahr zum ersten Mal Probleme mit seinem Herzen, die sich länger hinziehen und zu mehreren Konsultationen bei Ärzten führen. Diagnostiziert wird eine \"schwere Erkrankung der Aorta und der Kranzarterien, Angina Pectoris\". Es ist die zweite lebensbedrohende Erkrankung Bahrs innerhalb von 12 Monaten. Am 12. Jänner reist er auf Kur. In der Folge wird Bahr das Jahr 1904 vor allem für seine Genesung verwenden.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1903-12-05",
+      "end_value": "1904-01-12"
+    },
+    "field_sources": [
+      "Tagebücher (Csàky), IV, XIII und 1-8.",
+      "Hugo von Hofmannsthal und Arthur Schnitzler: Briefwechsel. Hg. Therese Nickl und Heinrich Schnitzler. Frankfurt/Main: Fischer 1964, 181. ",
+      "Bahr/Redlich, 19.",
+      "Fritz Fellner und Doris A. Corradini (Hgg.): Schicksalsjahre Österreichs. Die Erinnerungen und Tagebücher Josef Redlichs 1869–1936. Wien: Böhlau 2011, I, 146."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f290113a-30c6-423e-aa70-9d39b73b4aa6/node_type?resourceVersion=id%3A2337"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f290113a-30c6-423e-aa70-9d39b73b4aa6/relationships/node_type?resourceVersion=id%3A2337"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f290113a-30c6-423e-aa70-9d39b73b4aa6/revision_uid?resourceVersion=id%3A2337"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f290113a-30c6-423e-aa70-9d39b73b4aa6/relationships/revision_uid?resourceVersion=id%3A2337"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f290113a-30c6-423e-aa70-9d39b73b4aa6/uid?resourceVersion=id%3A2337"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f290113a-30c6-423e-aa70-9d39b73b4aa6/relationships/uid?resourceVersion=id%3A2337"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f290113a-30c6-423e-aa70-9d39b73b4aa6/field_event_type?resourceVersion=id%3A2337"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f290113a-30c6-423e-aa70-9d39b73b4aa6/relationships/field_event_type?resourceVersion=id%3A2337"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "5cec1b51-eab5-4a4b-9eb2-94a839f762eb",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/5cec1b51-eab5-4a4b-9eb2-94a839f762eb?resourceVersion=id%3A2718"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/5cec1b51-eab5-4a4b-9eb2-94a839f762eb?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38932,
+    "drupal_internal__vid": 2718,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Fall Reinhardt",
+    "created": "2011-03-15T14:38:39+00:00",
+    "changed": "2011-09-01T08:44:31+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38932",
+      "pid": 672,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahr ist am 30. Jänner 1907 in Berlin als Zeuge im Prozess Dr. Bergmann gegen Siegfried Jacobsohn geladen. Es handelt sich bei der Auseinandersetzung um eine Schmähschrift gegen Max Reinhardt, gegen die Jacobsohn sich publizistisch äußerte. Bahr behauptet, die Verhandlungen mit Reinhardt hätten schon vor seines \"Münchner Abenteuers\", als ihm eine Theaterleitung nach Vertragsunterzeichnung wieder abgesagt wurde, stattgefunden. Er wäre also von Reinhardt nicht wegen des Skandals engagiert worden. Außerdem halte er Reinhardt für den gegenwärtig besten Regisseur. Jacobsohn wird am 31. Jänner schuldig gesprochen und zu 160 Mark Geldstrafe verurteilt.",
+      "format": "full_html",
+      "processed": "Bahr ist am 30. Jänner 1907 in Berlin als Zeuge im Prozess Dr. Bergmann gegen Siegfried Jacobsohn geladen. Es handelt sich bei der Auseinandersetzung um eine Schmähschrift gegen Max Reinhardt, gegen die Jacobsohn sich publizistisch äußerte. Bahr behauptet, die Verhandlungen mit Reinhardt hätten schon vor seines \"Münchner Abenteuers\", als ihm eine Theaterleitung nach Vertragsunterzeichnung wieder abgesagt wurde, stattgefunden. Er wäre also von Reinhardt nicht wegen des Skandals engagiert worden. Außerdem halte er Reinhardt für den gegenwärtig besten Regisseur. Jacobsohn wird am 31. Jänner schuldig gesprochen und zu 160 Mark Geldstrafe verurteilt.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1907-01-30",
+      "end_value": "1907-01-30"
+    },
+    "field_sources": [
+      "[o.N.:] Neues Wiener Journal, 15 (1907) #4770, 9 und #4772, 15. (31.1. und 2.2.1907)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5cec1b51-eab5-4a4b-9eb2-94a839f762eb/node_type?resourceVersion=id%3A2718"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5cec1b51-eab5-4a4b-9eb2-94a839f762eb/relationships/node_type?resourceVersion=id%3A2718"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5cec1b51-eab5-4a4b-9eb2-94a839f762eb/revision_uid?resourceVersion=id%3A2718"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5cec1b51-eab5-4a4b-9eb2-94a839f762eb/relationships/revision_uid?resourceVersion=id%3A2718"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5cec1b51-eab5-4a4b-9eb2-94a839f762eb/uid?resourceVersion=id%3A2718"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5cec1b51-eab5-4a4b-9eb2-94a839f762eb/relationships/uid?resourceVersion=id%3A2718"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5cec1b51-eab5-4a4b-9eb2-94a839f762eb/field_event_type?resourceVersion=id%3A2718"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5cec1b51-eab5-4a4b-9eb2-94a839f762eb/relationships/field_event_type?resourceVersion=id%3A2718"
+        }
+      }
+    }
+  }
+}

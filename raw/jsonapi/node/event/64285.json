@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "4a1f0f50-490f-4735-abab-56051c763091",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/4a1f0f50-490f-4735-abab-56051c763091?resourceVersion=id%3A3675"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/4a1f0f50-490f-4735-abab-56051c763091?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 64285,
+    "drupal_internal__vid": 3675,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Erziehung",
+    "created": "2012-09-26T08:43:14+00:00",
+    "changed": "2012-09-26T08:43:14+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/64285",
+      "pid": 1718,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 29. Dezember 1911 hält Bahr im \"Deutschen Haus\" in Czernowitz einen Vortrag über \"Erziehung\". ",
+      "format": "full_html",
+      "processed": "Am 29. Dezember 1911 hält Bahr im \"Deutschen Haus\" in Czernowitz einen Vortrag über \"Erziehung\". ",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1911-12-29",
+      "end_value": "1911-12-29"
+    },
+    "field_sources": [
+      "Czernowitzer Allgemeine Zeitung, (1911) #2382, 4. (30.12.1911)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4a1f0f50-490f-4735-abab-56051c763091/node_type?resourceVersion=id%3A3675"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4a1f0f50-490f-4735-abab-56051c763091/relationships/node_type?resourceVersion=id%3A3675"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4a1f0f50-490f-4735-abab-56051c763091/revision_uid?resourceVersion=id%3A3675"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4a1f0f50-490f-4735-abab-56051c763091/relationships/revision_uid?resourceVersion=id%3A3675"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4a1f0f50-490f-4735-abab-56051c763091/uid?resourceVersion=id%3A3675"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4a1f0f50-490f-4735-abab-56051c763091/relationships/uid?resourceVersion=id%3A3675"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4a1f0f50-490f-4735-abab-56051c763091/field_event_type?resourceVersion=id%3A3675"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4a1f0f50-490f-4735-abab-56051c763091/relationships/field_event_type?resourceVersion=id%3A3675"
+        }
+      }
+    }
+  }
+}

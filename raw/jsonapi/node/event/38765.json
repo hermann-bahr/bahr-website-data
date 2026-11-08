@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "420ccb36-b7b2-4944-90da-2f6cc3a818e9",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/420ccb36-b7b2-4944-90da-2f6cc3a818e9?resourceVersion=id%3A2586"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/420ccb36-b7b2-4944-90da-2f6cc3a818e9?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38765,
+    "drupal_internal__vid": 2586,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Spielhagen",
+    "created": "2011-01-27T12:03:41+00:00",
+    "changed": "2011-11-03T11:40:46+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38765",
+      "pid": 513,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahr verkehrt, wie er seinem Vater schreibt, mit Friedrich Spielagen.",
+      "format": "full_html",
+      "processed": "Bahr verkehrt, wie er seinem Vater schreibt, mit Friedrich Spielagen.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1890-11-16",
+      "end_value": "1890-11-16"
+    },
+    "field_sources": [
+      "Brief an den Vater, 16.11.1890"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/420ccb36-b7b2-4944-90da-2f6cc3a818e9/node_type?resourceVersion=id%3A2586"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/420ccb36-b7b2-4944-90da-2f6cc3a818e9/relationships/node_type?resourceVersion=id%3A2586"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/420ccb36-b7b2-4944-90da-2f6cc3a818e9/revision_uid?resourceVersion=id%3A2586"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/420ccb36-b7b2-4944-90da-2f6cc3a818e9/relationships/revision_uid?resourceVersion=id%3A2586"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/420ccb36-b7b2-4944-90da-2f6cc3a818e9/uid?resourceVersion=id%3A2586"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/420ccb36-b7b2-4944-90da-2f6cc3a818e9/relationships/uid?resourceVersion=id%3A2586"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/420ccb36-b7b2-4944-90da-2f6cc3a818e9/field_event_type?resourceVersion=id%3A2586"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/420ccb36-b7b2-4944-90da-2f6cc3a818e9/relationships/field_event_type?resourceVersion=id%3A2586"
+        }
+      }
+    }
+  }
+}

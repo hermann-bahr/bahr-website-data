@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "378aa9a0-6354-4d60-a3d9-099de3d8a626",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/378aa9a0-6354-4d60-a3d9-099de3d8a626?resourceVersion=id%3A2889"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/378aa9a0-6354-4d60-a3d9-099de3d8a626?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39126,
+    "drupal_internal__vid": 2889,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Wienerinnen",
+    "created": "2011-06-06T13:03:31+00:00",
+    "changed": "2011-06-27T11:35:28+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39126",
+      "pid": 854,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<blockquote>Über ausdrücklichen Wunsch des Verfassers Hermann Bahr, der bei dem Berliner Gastspiel des Deutschen Volkstheaters durch sein Wiener Stück \"Der Star\" vertreten ist, wird das Lustspiel \"Wienerinnen\"  seines spezifisch wienerischen Inhaltes wegen zuerst in Wien zu Beginn der nächsten Saison und nicht, wie von der Direktion beabsichtigt war, in Berlin aufgeführt.</blockquote>",
+      "format": "full_html",
+      "processed": "<blockquote>Über ausdrücklichen Wunsch des Verfassers Hermann Bahr, der bei dem Berliner Gastspiel des Deutschen Volkstheaters durch sein Wiener Stück \"Der Star\" vertreten ist, wird das Lustspiel \"Wienerinnen\"  seines spezifisch wienerischen Inhaltes wegen zuerst in Wien zu Beginn der nächsten Saison und nicht, wie von der Direktion beabsichtigt war, in Berlin aufgeführt.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1900-04-22",
+      "end_value": "1900-04-22"
+    },
+    "field_sources": [
+      "Österreichische Volkszeitung, 46 (1900) #109, 11. (22.4.1900)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/378aa9a0-6354-4d60-a3d9-099de3d8a626/node_type?resourceVersion=id%3A2889"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/378aa9a0-6354-4d60-a3d9-099de3d8a626/relationships/node_type?resourceVersion=id%3A2889"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/378aa9a0-6354-4d60-a3d9-099de3d8a626/revision_uid?resourceVersion=id%3A2889"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/378aa9a0-6354-4d60-a3d9-099de3d8a626/relationships/revision_uid?resourceVersion=id%3A2889"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/378aa9a0-6354-4d60-a3d9-099de3d8a626/uid?resourceVersion=id%3A2889"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/378aa9a0-6354-4d60-a3d9-099de3d8a626/relationships/uid?resourceVersion=id%3A2889"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/378aa9a0-6354-4d60-a3d9-099de3d8a626/field_event_type?resourceVersion=id%3A2889"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/378aa9a0-6354-4d60-a3d9-099de3d8a626/relationships/field_event_type?resourceVersion=id%3A2889"
+        }
+      }
+    }
+  }
+}

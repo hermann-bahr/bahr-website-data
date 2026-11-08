@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "1d00f89b-137e-4831-ac10-9977fa389436",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/1d00f89b-137e-4831-ac10-9977fa389436?resourceVersion=id%3A3573"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/1d00f89b-137e-4831-ac10-9977fa389436?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 64079,
+    "drupal_internal__vid": 3573,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Danzig",
+    "created": "2012-01-26T14:57:59+00:00",
+    "changed": "2012-01-26T14:57:59+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/64079",
+      "pid": 1614,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 3. Dezember 1912 spricht Bahr über Olbrich in Danzig.",
+      "format": "full_html",
+      "processed": "Am 3. Dezember 1912 spricht Bahr über Olbrich in Danzig.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1909-12-03",
+      "end_value": "1909-12-03"
+    },
+    "field_sources": [
+      "Hermann Bahr: Aufzeichnungen 1909-1911. Ausgabe in Vorbereitung von Kurt Ifkovits\r\n"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1d00f89b-137e-4831-ac10-9977fa389436/node_type?resourceVersion=id%3A3573"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1d00f89b-137e-4831-ac10-9977fa389436/relationships/node_type?resourceVersion=id%3A3573"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1d00f89b-137e-4831-ac10-9977fa389436/revision_uid?resourceVersion=id%3A3573"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1d00f89b-137e-4831-ac10-9977fa389436/relationships/revision_uid?resourceVersion=id%3A3573"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1d00f89b-137e-4831-ac10-9977fa389436/uid?resourceVersion=id%3A3573"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1d00f89b-137e-4831-ac10-9977fa389436/relationships/uid?resourceVersion=id%3A3573"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1d00f89b-137e-4831-ac10-9977fa389436/field_event_type?resourceVersion=id%3A3573"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1d00f89b-137e-4831-ac10-9977fa389436/relationships/field_event_type?resourceVersion=id%3A3573"
+        }
+      }
+    }
+  }
+}

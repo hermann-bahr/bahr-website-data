@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "1e782ed1-08a7-4480-b0b4-7a15299368a8",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/1e782ed1-08a7-4480-b0b4-7a15299368a8?resourceVersion=id%3A2809"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/1e782ed1-08a7-4480-b0b4-7a15299368a8?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39032,
+    "drupal_internal__vid": 2809,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Letzer Artikel Vossische",
+    "created": "2011-04-06T15:46:37+00:00",
+    "changed": "2011-11-02T15:53:38+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39032",
+      "pid": 765,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Nach einigen Jahren, in denen er maximal einen oder zwei Artikel in der \"Vossischen\" publizierte, erscheint am 10. Juli 1926 der letzte Beitrag von ihm.",
+      "format": "full_html",
+      "processed": "Nach einigen Jahren, in denen er maximal einen oder zwei Artikel in der \"Vossischen\" publizierte, erscheint am 10. Juli 1926 der letzte Beitrag von ihm.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1926-07-10",
+      "end_value": "1926-07-10"
+    },
+    "field_sources": [
+      "Hermann Bahr: Ariadne. Vossische Zeitung, (1926) #322, Morgenausgabe, Unterhaltungsblatt, 1. (10.7.1926) "
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1e782ed1-08a7-4480-b0b4-7a15299368a8/node_type?resourceVersion=id%3A2809"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1e782ed1-08a7-4480-b0b4-7a15299368a8/relationships/node_type?resourceVersion=id%3A2809"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1e782ed1-08a7-4480-b0b4-7a15299368a8/revision_uid?resourceVersion=id%3A2809"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1e782ed1-08a7-4480-b0b4-7a15299368a8/relationships/revision_uid?resourceVersion=id%3A2809"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1e782ed1-08a7-4480-b0b4-7a15299368a8/uid?resourceVersion=id%3A2809"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1e782ed1-08a7-4480-b0b4-7a15299368a8/relationships/uid?resourceVersion=id%3A2809"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "d579e54c-64dd-4193-a9ef-da87efb3ed16",
+          "meta": {
+            "drupal_internal__target_id": 8
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1e782ed1-08a7-4480-b0b4-7a15299368a8/field_event_type?resourceVersion=id%3A2809"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1e782ed1-08a7-4480-b0b4-7a15299368a8/relationships/field_event_type?resourceVersion=id%3A2809"
+        }
+      }
+    }
+  }
+}

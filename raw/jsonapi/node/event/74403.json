@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "d77c94b1-6c61-44f4-8b28-1f2e4f0e9d33",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/d77c94b1-6c61-44f4-8b28-1f2e4f0e9d33?resourceVersion=id%3A3731"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/d77c94b1-6c61-44f4-8b28-1f2e4f0e9d33?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74403,
+    "drupal_internal__vid": 3731,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Rodaun",
+    "created": "2012-10-23T11:48:43+00:00",
+    "changed": "2013-09-14T11:54:38+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/74403",
+      "pid": 1777,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahr gehört zu den ersten Besucher des frisch vermählten Ehepaars Hofmannsthal nach deren Einzug in das Fuchs-Schlößchen in Rodaun. Er und Georg Franckenstein kommen am 5. Juli 1901 vorbei.",
+      "format": "full_html",
+      "processed": "Bahr gehört zu den ersten Besucher des frisch vermählten Ehepaars Hofmannsthal nach deren Einzug in das Fuchs-Schlößchen in Rodaun. Er und Georg Franckenstein kommen am 5. Juli 1901 vorbei.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1901-07-05",
+      "end_value": "1901-07-05"
+    },
+    "field_sources": [
+      "HvH: Briefwechsel mit den Eltern, 5.7.1901. Zit. n. Briefwechsel Bahr/Hofmannsthal. Hg. Elsbeth Dangel-Pelloquin. Göttingen: Wallstein. (In Vorbereitung) Anm. zu: von HvH, 25,7.1901"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d77c94b1-6c61-44f4-8b28-1f2e4f0e9d33/node_type?resourceVersion=id%3A3731"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d77c94b1-6c61-44f4-8b28-1f2e4f0e9d33/relationships/node_type?resourceVersion=id%3A3731"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d77c94b1-6c61-44f4-8b28-1f2e4f0e9d33/revision_uid?resourceVersion=id%3A3731"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d77c94b1-6c61-44f4-8b28-1f2e4f0e9d33/relationships/revision_uid?resourceVersion=id%3A3731"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d77c94b1-6c61-44f4-8b28-1f2e4f0e9d33/uid?resourceVersion=id%3A3731"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d77c94b1-6c61-44f4-8b28-1f2e4f0e9d33/relationships/uid?resourceVersion=id%3A3731"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d77c94b1-6c61-44f4-8b28-1f2e4f0e9d33/field_event_type?resourceVersion=id%3A3731"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d77c94b1-6c61-44f4-8b28-1f2e4f0e9d33/relationships/field_event_type?resourceVersion=id%3A3731"
+        }
+      }
+    }
+  }
+}

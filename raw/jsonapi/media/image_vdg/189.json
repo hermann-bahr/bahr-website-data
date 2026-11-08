@@ -1,0 +1,118 @@
+{
+  "type": "media--image_vdg",
+  "id": "d6b388be-267d-467a-93fa-86d824c0e31a",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/d6b388be-267d-467a-93fa-86d824c0e31a?resourceVersion=id%3A190"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/d6b388be-267d-467a-93fa-86d824c0e31a?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__mid": 189,
+    "drupal_internal__vid": 190,
+    "langcode": "de",
+    "revision_created": "2020-02-27T15:39:40+00:00",
+    "status": true,
+    "name": "6.jpg",
+    "created": "2020-02-27T15:39:30+00:00",
+    "changed": "2020-02-27T15:39:30+00:00",
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": null,
+      "pid": null,
+      "langcode": "de"
+    }
+  },
+  "relationships": {
+    "bundle": {
+      "data": {
+        "type": "media_type--media_type",
+        "id": "1e270fb0-cbb8-4385-a6d7-69db224c61f7",
+        "meta": {
+          "drupal_internal__target_id": "image_vdg"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/d6b388be-267d-467a-93fa-86d824c0e31a/bundle?resourceVersion=id%3A190"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/d6b388be-267d-467a-93fa-86d824c0e31a/relationships/bundle?resourceVersion=id%3A190"
+        }
+      }
+    },
+    "revision_user": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/d6b388be-267d-467a-93fa-86d824c0e31a/revision_user?resourceVersion=id%3A190"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/d6b388be-267d-467a-93fa-86d824c0e31a/relationships/revision_user?resourceVersion=id%3A190"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/d6b388be-267d-467a-93fa-86d824c0e31a/uid?resourceVersion=id%3A190"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/d6b388be-267d-467a-93fa-86d824c0e31a/relationships/uid?resourceVersion=id%3A190"
+        }
+      }
+    },
+    "thumbnail": {
+      "data": {
+        "type": "file--file",
+        "id": "682b1ab4-1315-4d64-86c1-7623df5ea023",
+        "meta": {
+          "alt": "Hermann Bahr, Kritische Schriften - 6 - Secession",
+          "title": null,
+          "width": 200,
+          "height": 286,
+          "drupal_internal__target_id": 264
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/d6b388be-267d-467a-93fa-86d824c0e31a/thumbnail?resourceVersion=id%3A190"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/d6b388be-267d-467a-93fa-86d824c0e31a/relationships/thumbnail?resourceVersion=id%3A190"
+        }
+      }
+    },
+    "field_media_image_1": {
+      "data": {
+        "type": "file--file",
+        "id": "682b1ab4-1315-4d64-86c1-7623df5ea023",
+        "meta": {
+          "alt": "Hermann Bahr, Kritische Schriften - 6 - Secession",
+          "title": "",
+          "width": 200,
+          "height": 286,
+          "drupal_internal__target_id": 264
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/d6b388be-267d-467a-93fa-86d824c0e31a/field_media_image_1?resourceVersion=id%3A190"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/d6b388be-267d-467a-93fa-86d824c0e31a/relationships/field_media_image_1?resourceVersion=id%3A190"
+        }
+      }
+    }
+  }
+}

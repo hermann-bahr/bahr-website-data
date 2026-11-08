@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "ede2a328-07c1-4471-b9bc-4dc61e88f6be",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/ede2a328-07c1-4471-b9bc-4dc61e88f6be?resourceVersion=id%3A2601"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/ede2a328-07c1-4471-b9bc-4dc61e88f6be?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38780,
+    "drupal_internal__vid": 2601,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Berlin",
+    "created": "2011-02-01T11:50:28+00:00",
+    "changed": "2011-07-13T16:44:42+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38780",
+      "pid": 528,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Aufenthalt in Berlin vom 8. Jänner 1894 für drei, vier Tage. Wohnhaft im Lindenhotel, Unter den Linden.",
+      "format": "full_html",
+      "processed": "Aufenthalt in Berlin vom 8. Jänner 1894 für drei, vier Tage. Wohnhaft im Lindenhotel, Unter den Linden.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1894-01-07",
+      "end_value": "1894-01-12"
+    },
+    "field_sources": [
+      "Brief an den Vater, 7.1.1894"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ede2a328-07c1-4471-b9bc-4dc61e88f6be/node_type?resourceVersion=id%3A2601"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ede2a328-07c1-4471-b9bc-4dc61e88f6be/relationships/node_type?resourceVersion=id%3A2601"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ede2a328-07c1-4471-b9bc-4dc61e88f6be/revision_uid?resourceVersion=id%3A2601"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ede2a328-07c1-4471-b9bc-4dc61e88f6be/relationships/revision_uid?resourceVersion=id%3A2601"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ede2a328-07c1-4471-b9bc-4dc61e88f6be/uid?resourceVersion=id%3A2601"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ede2a328-07c1-4471-b9bc-4dc61e88f6be/relationships/uid?resourceVersion=id%3A2601"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ede2a328-07c1-4471-b9bc-4dc61e88f6be/field_event_type?resourceVersion=id%3A2601"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/ede2a328-07c1-4471-b9bc-4dc61e88f6be/relationships/field_event_type?resourceVersion=id%3A2601"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "9534768b-bb8b-4e4b-bcfe-05a664da6372",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/9534768b-bb8b-4e4b-bcfe-05a664da6372?resourceVersion=id%3A3439"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/9534768b-bb8b-4e4b-bcfe-05a664da6372?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49613,
+    "drupal_internal__vid": 3439,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Zimmerstraße 27, Berlin",
+    "created": "2011-11-16T15:13:44+00:00",
+    "changed": "2013-02-19T13:20:25+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49613",
+      "pid": 1429,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Mai 1884: Bahrs erste Unterkunft in Berlin liegt in der Zimmerstraße 27, 1. Quergebäude, 3. Treppe rechts, wo er das erste Semester wohnhaft bleibt.",
+      "format": "full_html",
+      "processed": "Mai 1884: Bahrs erste Unterkunft in Berlin liegt in der Zimmerstraße 27, 1. Quergebäude, 3. Treppe rechts, wo er das erste Semester wohnhaft bleibt.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1884-05-01",
+      "end_value": "1884-05-01"
+    },
+    "field_sources": [
+      "Selbstbildnis, 179",
+      "Studentenverzeichnis der Universität Berlin",
+      "Brief an den Vater, 3.5.1884"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9534768b-bb8b-4e4b-bcfe-05a664da6372/node_type?resourceVersion=id%3A3439"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9534768b-bb8b-4e4b-bcfe-05a664da6372/relationships/node_type?resourceVersion=id%3A3439"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9534768b-bb8b-4e4b-bcfe-05a664da6372/revision_uid?resourceVersion=id%3A3439"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9534768b-bb8b-4e4b-bcfe-05a664da6372/relationships/revision_uid?resourceVersion=id%3A3439"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9534768b-bb8b-4e4b-bcfe-05a664da6372/uid?resourceVersion=id%3A3439"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9534768b-bb8b-4e4b-bcfe-05a664da6372/relationships/uid?resourceVersion=id%3A3439"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9534768b-bb8b-4e4b-bcfe-05a664da6372/field_event_type?resourceVersion=id%3A3439"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9534768b-bb8b-4e4b-bcfe-05a664da6372/relationships/field_event_type?resourceVersion=id%3A3439"
+        }
+      }
+    }
+  }
+}

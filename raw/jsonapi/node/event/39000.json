@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "b1bc34a5-15db-4532-934b-f403291de111",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b1bc34a5-15db-4532-934b-f403291de111?resourceVersion=id%3A2782"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b1bc34a5-15db-4532-934b-f403291de111?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39000,
+    "drupal_internal__vid": 2782,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Anastasius Weidlich ✝",
+    "created": "2011-03-22T10:53:38+00:00",
+    "changed": "2011-11-14T22:09:25+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39000",
+      "pid": 736,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 2. Juli 1873 ertränkt sich Bahrs Großonkel mütterlicherseits und Taufpate, Anastasius Ritter von Weidlich in der Donau.<blockquote>ein wunderlicher, halb verrückter Hofrat, von Schlaflosigkeit so gepeinigt, daß er, über siebzig alt, lieber in die Donau sprang; drei Tage trieb er im Wasser, in Wallsee zog man in heraus.[1]</blockquote>\r\nIn der Lokalpresse liest sich das so:<blockquote>--<strong>Muthmaßlicher Selbstmord</strong>. Gestern Nachmittags fuhr der hier wohnhaft gewesene geisteskranke R. v. W. per Fiaker vom Hauptplatz nach Margarethen, stieg innerhalb der Anschlußmauer ab, bezahlte ffür die Fahrt und ging weiter; die im Greiner'schen Steinbruche beschäftigten Arbeiter sahen ihn in der Richtung gegen Wilhering gehen und gewahrten ihn alsbald mehrere Klafter vom Ufer in der Donau mit dem Wellen ringend; dieselben versuchten seine Rettung, er sank jedoch zu früh unter und sie konnten nur seinen Hut auffangen.[2]</blockquote>\r\nIm Jahr seines Todes erscheint auch das letzte Werk des Großonkels: \"Ein Wort an die oberste Sanitätsbehörde über die stetige Degeneration der Bevölkerung.\"\r\n",
+      "format": "full_html",
+      "processed": "Am 2. Juli 1873 ertränkt sich Bahrs Großonkel mütterlicherseits und Taufpate, Anastasius Ritter von Weidlich in der Donau.<blockquote>ein wunderlicher, halb verrückter Hofrat, von Schlaflosigkeit so gepeinigt, daß er, über siebzig alt, lieber in die Donau sprang; drei Tage trieb er im Wasser, in Wallsee zog man in heraus.[1]</blockquote>\nIn der Lokalpresse liest sich das so:<blockquote>--<strong>Muthmaßlicher Selbstmord</strong>. Gestern Nachmittags fuhr der hier wohnhaft gewesene geisteskranke R. v. W. per Fiaker vom Hauptplatz nach Margarethen, stieg innerhalb der Anschlußmauer ab, bezahlte ffür die Fahrt und ging weiter; die im Greiner'schen Steinbruche beschäftigten Arbeiter sahen ihn in der Richtung gegen Wilhering gehen und gewahrten ihn alsbald mehrere Klafter vom Ufer in der Donau mit dem Wellen ringend; dieselben versuchten seine Rettung, er sank jedoch zu früh unter und sie konnten nur seinen Hut auffangen.[2]</blockquote>\nIm Jahr seines Todes erscheint auch das letzte Werk des Großonkels: \"Ein Wort an die oberste Sanitätsbehörde über die stetige Degeneration der Bevölkerung.\"\n",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1873-07-02",
+      "end_value": "1873-07-02"
+    },
+    "field_sources": [
+      "Inventur, 167. (Bahr erinnert sich falsch, er war zehn und nicht sieben, als es geschah.)",
+      "[1] Selbstbildnis, 73-74",
+      "[2] Linzer Volksblatt, 5 (1873) #152, 2. (4.7.1873)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b1bc34a5-15db-4532-934b-f403291de111/node_type?resourceVersion=id%3A2782"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b1bc34a5-15db-4532-934b-f403291de111/relationships/node_type?resourceVersion=id%3A2782"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b1bc34a5-15db-4532-934b-f403291de111/revision_uid?resourceVersion=id%3A2782"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b1bc34a5-15db-4532-934b-f403291de111/relationships/revision_uid?resourceVersion=id%3A2782"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b1bc34a5-15db-4532-934b-f403291de111/uid?resourceVersion=id%3A2782"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b1bc34a5-15db-4532-934b-f403291de111/relationships/uid?resourceVersion=id%3A2782"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b1bc34a5-15db-4532-934b-f403291de111/field_event_type?resourceVersion=id%3A2782"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b1bc34a5-15db-4532-934b-f403291de111/relationships/field_event_type?resourceVersion=id%3A2782"
+        }
+      }
+    }
+  }
+}

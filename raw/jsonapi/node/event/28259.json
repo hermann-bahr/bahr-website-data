@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "752dee74-40db-4736-8686-98998b211000",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/752dee74-40db-4736-8686-98998b211000?resourceVersion=id%3A2534"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/752dee74-40db-4736-8686-98998b211000?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28259,
+    "drupal_internal__vid": 2534,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Zweifel am Sieg",
+    "created": "2010-11-15T19:15:46+00:00",
+    "changed": "2012-10-30T15:33:22+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28259",
+      "pid": 392,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 9. Februar 1916 ist Bahr beim Chefredakteur des „Berliner Tageblatts“ in Berlin. Der notiert sich: <blockquote>Bahr meint, Österreich könne den Krieg über den Herbst hinaus nicht fortführen.</blockquote>",
+      "format": "full_html",
+      "processed": "Am 9. Februar 1916 ist Bahr beim Chefredakteur des „Berliner Tageblatts“ in Berlin. Der notiert sich: <blockquote>Bahr meint, Österreich könne den Krieg über den Herbst hinaus nicht fortführen.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1916-02-09",
+      "end_value": "1916-02-09"
+    },
+    "field_sources": [
+      "Theodor Wolff: Tagebücher 1914-1919. Boppard/Rhein: Harald Boldt 1984, 347-348. (#304)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/752dee74-40db-4736-8686-98998b211000/node_type?resourceVersion=id%3A2534"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/752dee74-40db-4736-8686-98998b211000/relationships/node_type?resourceVersion=id%3A2534"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/752dee74-40db-4736-8686-98998b211000/revision_uid?resourceVersion=id%3A2534"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/752dee74-40db-4736-8686-98998b211000/relationships/revision_uid?resourceVersion=id%3A2534"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/752dee74-40db-4736-8686-98998b211000/uid?resourceVersion=id%3A2534"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/752dee74-40db-4736-8686-98998b211000/relationships/uid?resourceVersion=id%3A2534"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/752dee74-40db-4736-8686-98998b211000/field_event_type?resourceVersion=id%3A2534"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/752dee74-40db-4736-8686-98998b211000/relationships/field_event_type?resourceVersion=id%3A2534"
+        }
+      }
+    }
+  }
+}

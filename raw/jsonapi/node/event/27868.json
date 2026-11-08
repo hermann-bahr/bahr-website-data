@@ -1,0 +1,120 @@
+{
+  "type": "node--event",
+  "id": "57bf4349-35ea-42a2-99ac-c8d7395ce567",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/57bf4349-35ea-42a2-99ac-c8d7395ce567?resourceVersion=id%3A2220"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/57bf4349-35ea-42a2-99ac-c8d7395ce567?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27868,
+    "drupal_internal__vid": 2220,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Studium in Czernowitz",
+    "created": "2010-06-21T08:53:36+00:00",
+    "changed": "2013-03-12T11:25:04+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/27868",
+      "pid": 53,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Von Oktober 1883 bis Ende Februar 1884 Weiterführung des Studiums in Czernowitz. (Die Universität in Czernowitz hatte im davor abgelaufenen Sommersemester 248 Hörer, davon 128 Juristen.[1])\r\nWegen weiterer antiösterreichischen und antisemitischen Umtrieben wird er aufgefordert, die Universität zu verlassen, wenn er die Zeit angerechnet haben will. Laut Selbstbildnis zwei Monate vor Semesterschluss Abreise nach Wien. Anders, ebenfalls mit dem Selbstbildnis gerechnet: Wenige Tage nach der Gerichtsverhandlung am 14. Februar Abreise. Die Abreise findet am 3. oder 4. März statt.\r\nAus Berlin schickt Bahr dann eine publizistische Begründung nach, warum die Universität geschlossen gehöre.",
+      "format": "full_html",
+      "processed": "Von Oktober 1883 bis Ende Februar 1884 Weiterführung des Studiums in Czernowitz. (Die Universität in Czernowitz hatte im davor abgelaufenen Sommersemester 248 Hörer, davon 128 Juristen.[1])\nWegen weiterer antiösterreichischen und antisemitischen Umtrieben wird er aufgefordert, die Universität zu verlassen, wenn er die Zeit angerechnet haben will. Laut Selbstbildnis zwei Monate vor Semesterschluss Abreise nach Wien. Anders, ebenfalls mit dem Selbstbildnis gerechnet: Wenige Tage nach der Gerichtsverhandlung am 14. Februar Abreise. Die Abreise findet am 3. oder 4. März statt.\nAus Berlin schickt Bahr dann eine publizistische Begründung nach, warum die Universität geschlossen gehöre.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1883-10-01",
+      "end_value": "1884-03-03"
+    },
+    "field_sources": [
+      "Daten aus biografischen Papieren im Nachlass",
+      "Selbstbildnis, 156-166",
+      "[1] Deutsche Hochschule, Prag, 2 (1883) #72, 2. (10.10.1883)",
+      "Hermann Bahr: Die Zukunft der Alma Mater Francisco-Josephina. Kyffhäuser-Zeitung, 3.6 (1884) #42, 427-428. (14.7.1884)",
+      "Brief an den Vater, 28. Februar 1884, worin er die Abreise nach Wien für 3. oder 4. März ankündigt"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/57bf4349-35ea-42a2-99ac-c8d7395ce567/node_type?resourceVersion=id%3A2220"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/57bf4349-35ea-42a2-99ac-c8d7395ce567/relationships/node_type?resourceVersion=id%3A2220"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/57bf4349-35ea-42a2-99ac-c8d7395ce567/revision_uid?resourceVersion=id%3A2220"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/57bf4349-35ea-42a2-99ac-c8d7395ce567/relationships/revision_uid?resourceVersion=id%3A2220"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/57bf4349-35ea-42a2-99ac-c8d7395ce567/uid?resourceVersion=id%3A2220"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/57bf4349-35ea-42a2-99ac-c8d7395ce567/relationships/uid?resourceVersion=id%3A2220"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/57bf4349-35ea-42a2-99ac-c8d7395ce567/field_event_type?resourceVersion=id%3A2220"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/57bf4349-35ea-42a2-99ac-c8d7395ce567/relationships/field_event_type?resourceVersion=id%3A2220"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "1b43bc58-744a-4bfb-a732-ab7ebc88b9df",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/1b43bc58-744a-4bfb-a732-ab7ebc88b9df?resourceVersion=id%3A3142"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/1b43bc58-744a-4bfb-a732-ab7ebc88b9df?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44228,
+    "drupal_internal__vid": 3142,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Gustav Mahler",
+    "created": "2011-09-29T09:30:37+00:00",
+    "changed": "2011-10-21T13:23:42+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44228",
+      "pid": 1121,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahr beschreibt seine erste Begegnung mit Mahler in einem Feuilleton 1914: Da schildert er es als 17 Jahre zurück, dass er mit Bernhard Pollini in einem Wiener Hotel saß und Mahler reingestürmt kam. Ifkovits datiert auf Mai 1897.",
+      "format": "full_html",
+      "processed": "Bahr beschreibt seine erste Begegnung mit Mahler in einem Feuilleton 1914: Da schildert er es als 17 Jahre zurück, dass er mit Bernhard Pollini in einem Wiener Hotel saß und Mahler reingestürmt kam. Ifkovits datiert auf Mai 1897.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1897-05-01",
+      "end_value": "1897-05-01"
+    },
+    "field_sources": [
+      "Hermann Bahr: Mahler. (\"Gustav Mahler.\" Von Richard Specht. Mit neunzig Bildern. Bei Schuster & Loeffler, Berlin und Leipzig, 1913). Neue Freie Presse, (1914) #17806, Morgenblatt, 31-33. (22.3.1914) Buchausgabe: Bilderbuch, 59-69.",
+      "Ifkovits: \"Mahler, das war ein Wille\", 191"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1b43bc58-744a-4bfb-a732-ab7ebc88b9df/node_type?resourceVersion=id%3A3142"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1b43bc58-744a-4bfb-a732-ab7ebc88b9df/relationships/node_type?resourceVersion=id%3A3142"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1b43bc58-744a-4bfb-a732-ab7ebc88b9df/revision_uid?resourceVersion=id%3A3142"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1b43bc58-744a-4bfb-a732-ab7ebc88b9df/relationships/revision_uid?resourceVersion=id%3A3142"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1b43bc58-744a-4bfb-a732-ab7ebc88b9df/uid?resourceVersion=id%3A3142"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1b43bc58-744a-4bfb-a732-ab7ebc88b9df/relationships/uid?resourceVersion=id%3A3142"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1b43bc58-744a-4bfb-a732-ab7ebc88b9df/field_event_type?resourceVersion=id%3A3142"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1b43bc58-744a-4bfb-a732-ab7ebc88b9df/relationships/field_event_type?resourceVersion=id%3A3142"
+        }
+      }
+    }
+  }
+}

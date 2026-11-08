@@ -1,0 +1,114 @@
+{
+  "type": "node--event",
+  "id": "85be0b43-da13-4937-948b-e55d3c971f7f",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/85be0b43-da13-4937-948b-e55d3c971f7f?resourceVersion=id%3A2515"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/85be0b43-da13-4937-948b-e55d3c971f7f?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28210,
+    "drupal_internal__vid": 2515,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Winterthur",
+    "created": "2010-10-09T14:10:16+00:00",
+    "changed": "2010-10-09T14:10:16+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28210",
+      "pid": 353,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 18. November 1912 liest Bahr in Winterthur",
+      "format": "full_html",
+      "processed": "Am 18. November 1912 liest Bahr in Winterthur",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1912-11-18",
+      "end_value": "1912-11-18"
+    },
+    "field_sources": []
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/85be0b43-da13-4937-948b-e55d3c971f7f/node_type?resourceVersion=id%3A2515"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/85be0b43-da13-4937-948b-e55d3c971f7f/relationships/node_type?resourceVersion=id%3A2515"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/85be0b43-da13-4937-948b-e55d3c971f7f/revision_uid?resourceVersion=id%3A2515"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/85be0b43-da13-4937-948b-e55d3c971f7f/relationships/revision_uid?resourceVersion=id%3A2515"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/85be0b43-da13-4937-948b-e55d3c971f7f/uid?resourceVersion=id%3A2515"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/85be0b43-da13-4937-948b-e55d3c971f7f/relationships/uid?resourceVersion=id%3A2515"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/85be0b43-da13-4937-948b-e55d3c971f7f/field_event_type?resourceVersion=id%3A2515"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/85be0b43-da13-4937-948b-e55d3c971f7f/relationships/field_event_type?resourceVersion=id%3A2515"
+        }
+      }
+    }
+  }
+}

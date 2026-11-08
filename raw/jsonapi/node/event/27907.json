@@ -1,0 +1,124 @@
+{
+  "type": "node--event",
+  "id": "4d995ca1-8608-46bf-aa6f-9eddf7f82f29",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/4d995ca1-8608-46bf-aa6f-9eddf7f82f29?resourceVersion=id%3A2252"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/4d995ca1-8608-46bf-aa6f-9eddf7f82f29?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27907,
+    "drupal_internal__vid": 2252,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Panama-Skandal",
+    "created": "2010-06-28T10:59:34+00:00",
+    "changed": "2012-10-15T14:16:30+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/27907",
+      "pid": 86,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 22.12.1894 fährt Bahr als Sonderkorrespondent der \"Deutschen Zeitung\" nach Paris, um vor Ort Erkundigungen über die Vorgänge rund um den Skandal zu tätigen. Als publizistischer Erfolg kann er verbuchen, dass sogar die Londoner \"Times\" nachdruckt, wenngleich ohne Nennung seines Namens. Zu Beginn des neuen Jahres fährt er zurück.",
+      "format": "full_html",
+      "processed": "Am 22.12.1894 fährt Bahr als Sonderkorrespondent der \"Deutschen Zeitung\" nach Paris, um vor Ort Erkundigungen über die Vorgänge rund um den Skandal zu tätigen. Als publizistischer Erfolg kann er verbuchen, dass sogar die Londoner \"Times\" nachdruckt, wenngleich ohne Nennung seines Namens. Zu Beginn des neuen Jahres fährt er zurück.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1892-12-22",
+      "end_value": "1893-01-08"
+    },
+    "field_sources": [
+      "Hermann Bahr: Panama-Interviews der \"Deutschen Zeitung\". (Drahtbericht der \"Deutschen Zeitung\"). Deutsche Zeitung, Wien, 22 (1892) #7541, Sonntags-Ausgabe, 2. (25.12.1892) \r\n",
+      "Hermann Bahr: Die Vorgänge in Frankreich. Deutsche Zeitung, Wien, 22 (1892) #7542, Morgen-Ausgabe, 1. (27.12.1892) \r\n",
+      "Hermann Bahr: Pariser Stimmungsbild. Deutsche Zeitung, Wien, 22 (1892) #7543, Morgen-Ausgabe, 1-2. (28.12.1892) \r\n",
+      "Hermann Bahr: Emil Zola über den Panama-Scandal. (Drahtbericht unseres Special-Correspondenten). Deutsche Zeitung, Wien, 22 (1892) #7543, Morgen-Ausgabe, 1. (28.12.1892) \r\n",
+      "The Panama Scandals. Vienna, Dec. 28. The Times, (1892) #33834, 3. (29.12.1893)",
+      "Hermann Bahr: Panama. 1. In der Kammer. Deutsche Zeitung, Wien, 23 (1893) #7547, Morgen-Ausgabe, 1-2. (1.1.1893) \r\n",
+      "Hermann Bahr: Panama. 2. Bei Maurice Barrés. Deutsche Zeitung, Wien, 23 (1893) #7552, Morgen-Ausgabe, 1-2. (6.1.1893) \r\n",
+      "Hermann Bahr: Panama. 3. Zickzack. Deutsche Zeitung, Wien, 23 (1893) #7559, Morgen-Ausgabe, 1-2. (13.1.1893) \r\n",
+      "Hermann Bahr: Panama. 4. Emile Zola. Deutsche Zeitung, Wien, 23 (1893) #7563, Morgen-Ausgabe, 1-2. (17.1.1893) \r\n"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4d995ca1-8608-46bf-aa6f-9eddf7f82f29/node_type?resourceVersion=id%3A2252"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4d995ca1-8608-46bf-aa6f-9eddf7f82f29/relationships/node_type?resourceVersion=id%3A2252"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4d995ca1-8608-46bf-aa6f-9eddf7f82f29/revision_uid?resourceVersion=id%3A2252"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4d995ca1-8608-46bf-aa6f-9eddf7f82f29/relationships/revision_uid?resourceVersion=id%3A2252"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4d995ca1-8608-46bf-aa6f-9eddf7f82f29/uid?resourceVersion=id%3A2252"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4d995ca1-8608-46bf-aa6f-9eddf7f82f29/relationships/uid?resourceVersion=id%3A2252"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "d579e54c-64dd-4193-a9ef-da87efb3ed16",
+          "meta": {
+            "drupal_internal__target_id": 8
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4d995ca1-8608-46bf-aa6f-9eddf7f82f29/field_event_type?resourceVersion=id%3A2252"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4d995ca1-8608-46bf-aa6f-9eddf7f82f29/relationships/field_event_type?resourceVersion=id%3A2252"
+        }
+      }
+    }
+  }
+}

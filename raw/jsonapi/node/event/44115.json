@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "fb6553fd-6302-4b63-9cf3-ea2cef4c2d53",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/fb6553fd-6302-4b63-9cf3-ea2cef4c2d53?resourceVersion=id%3A3031"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/fb6553fd-6302-4b63-9cf3-ea2cef4c2d53?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44115,
+    "drupal_internal__vid": 3031,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Lueger Boykott",
+    "created": "2011-09-14T09:04:38+00:00",
+    "changed": "2011-09-14T09:04:38+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44115",
+      "pid": 1010,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Eine \"Nebenfront\" des 9. Internationalen Journalisten-Congress ist, dass Bahr am 12. September dem Empfang bei Bürgermeister Karl Lueger demonstrativ fernbleibt. Er wundert sich, dass die jüdischen Redaktionsmitarbeiter nicht das gleiche tun. Seine Meinung zu Lueger tut er in späteren Jahren kund.",
+      "format": "full_html",
+      "processed": "Eine \"Nebenfront\" des 9. Internationalen Journalisten-Congress ist, dass Bahr am 12. September dem Empfang bei Bürgermeister Karl Lueger demonstrativ fernbleibt. Er wundert sich, dass die jüdischen Redaktionsmitarbeiter nicht das gleiche tun. Seine Meinung zu Lueger tut er in späteren Jahren kund.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1904-09-12",
+      "end_value": "1904-09-12"
+    },
+    "field_sources": [
+      "Tagebücher (Csàky), IV, 295.",
+      "Hermann Bahr: Österreichisches. 1 [Karl Lueger]. März, 3 (1909) #1, 17-23.  Buchausgabe: Als \"Austriaca. 1\" in: Austriaca, 9-18",
+      "Tagebuch 1919"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fb6553fd-6302-4b63-9cf3-ea2cef4c2d53/node_type?resourceVersion=id%3A3031"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fb6553fd-6302-4b63-9cf3-ea2cef4c2d53/relationships/node_type?resourceVersion=id%3A3031"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fb6553fd-6302-4b63-9cf3-ea2cef4c2d53/revision_uid?resourceVersion=id%3A3031"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fb6553fd-6302-4b63-9cf3-ea2cef4c2d53/relationships/revision_uid?resourceVersion=id%3A3031"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fb6553fd-6302-4b63-9cf3-ea2cef4c2d53/uid?resourceVersion=id%3A3031"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fb6553fd-6302-4b63-9cf3-ea2cef4c2d53/relationships/uid?resourceVersion=id%3A3031"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fb6553fd-6302-4b63-9cf3-ea2cef4c2d53/field_event_type?resourceVersion=id%3A3031"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fb6553fd-6302-4b63-9cf3-ea2cef4c2d53/relationships/field_event_type?resourceVersion=id%3A3031"
+        }
+      }
+    }
+  }
+}

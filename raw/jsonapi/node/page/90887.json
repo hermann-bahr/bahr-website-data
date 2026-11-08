@@ -1,0 +1,90 @@
+{
+  "type": "node--page",
+  "id": "3cd9a093-1a27-4abb-99fe-306c21825074",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/page/3cd9a093-1a27-4abb-99fe-306c21825074?resourceVersion=id%3A4265"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/page/3cd9a093-1a27-4abb-99fe-306c21825074?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 90887,
+    "drupal_internal__vid": 4265,
+    "langcode": "de",
+    "revision_timestamp": "2023-11-22T20:42:45+00:00",
+    "status": true,
+    "title": "Leben",
+    "created": "2020-02-27T15:58:23+00:00",
+    "changed": "2023-11-22T20:42:45+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/leben",
+      "pid": 1904,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<p>Eines der Nebenprodukte des Projekts war eine Zeitleiste. Ursprünglich noch als grobe Orientierung gedacht, wurde sie zunehmend Arbeitsgrundlage. Immer mehr Datenpunkte wurden gesetzt, unveröffentlichte Quellen und Hinweise aufgenommen. Zu verantworten hat sie Martin Anton Müller, der dabei auf Informationen von Elsbeth Dangel-Pelloquin, Kurt Ifkovits und Gottfried Schnödl zurückgreifen konnte.</p><p>Die ursprüngliche Darstellung hat das Serverupdate 2018 nicht überlebt.&nbsp;Die Daten&nbsp;können&nbsp;über&nbsp;<a href=\"https://github.com/martinantonmueller/bahr-zeitleiste\">Github</a>&nbsp;(als XML, TEI-P5) bezogen werden.</p>",
+      "format": "basic_html",
+      "processed": "<p>Eines der Nebenprodukte des Projekts war eine Zeitleiste. Ursprünglich noch als grobe Orientierung gedacht, wurde sie zunehmend Arbeitsgrundlage. Immer mehr Datenpunkte wurden gesetzt, unveröffentlichte Quellen und Hinweise aufgenommen. Zu verantworten hat sie Martin Anton Müller, der dabei auf Informationen von Elsbeth Dangel-Pelloquin, Kurt Ifkovits und Gottfried Schnödl zurückgreifen konnte.</p><p>Die ursprüngliche Darstellung hat das Serverupdate 2018 nicht überlebt.&nbsp;Die Daten&nbsp;können&nbsp;über&nbsp;<a href=\"https://github.com/martinantonmueller/bahr-zeitleiste\">Github</a>&nbsp;(als XML, TEI-P5) bezogen werden.</p>",
+      "summary": ""
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "016d417b-5c75-4303-8420-18e221e9e269",
+        "meta": {
+          "drupal_internal__target_id": "page"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/3cd9a093-1a27-4abb-99fe-306c21825074/node_type?resourceVersion=id%3A4265"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/3cd9a093-1a27-4abb-99fe-306c21825074/relationships/node_type?resourceVersion=id%3A4265"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/3cd9a093-1a27-4abb-99fe-306c21825074/revision_uid?resourceVersion=id%3A4265"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/3cd9a093-1a27-4abb-99fe-306c21825074/relationships/revision_uid?resourceVersion=id%3A4265"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/3cd9a093-1a27-4abb-99fe-306c21825074/uid?resourceVersion=id%3A4265"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/3cd9a093-1a27-4abb-99fe-306c21825074/relationships/uid?resourceVersion=id%3A4265"
+        }
+      }
+    }
+  }
+}

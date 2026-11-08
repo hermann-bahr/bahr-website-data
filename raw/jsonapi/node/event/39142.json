@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "effb6bb2-45e8-4087-b5d9-418e8df606c8",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/effb6bb2-45e8-4087-b5d9-418e8df606c8?resourceVersion=id%3A2901"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/effb6bb2-45e8-4087-b5d9-418e8df606c8?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39142,
+    "drupal_internal__vid": 2901,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Graz",
+    "created": "2011-07-05T09:46:15+00:00",
+    "changed": "2011-07-22T09:56:23+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39142",
+      "pid": 870,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Von einem Vortrag Bahrs in Graz berichtet ausführlich Hans von Dettelbach. Der Vortrag beginnt mit \"Dieser Krieg ist eine Zeit höchster Kraftanspannung und Kraftentfaltung.\" Am 5. Dezember 1916 reiste  Bahr in die Steiermark, am 10. erschien im Grazer Volksblatt eine nicht näher zugeordnete Mitschrift seines Vortrags \"Ideen von 1914\", die mit \"Der Weltkrieg ist eine Zeit höchster Kraftansammlung und Entfaltung\" beginnt. In Buchform erschien der Text u.a. in \"Schwarzgelb\". ",
+      "format": "full_html",
+      "processed": "Von einem Vortrag Bahrs in Graz berichtet ausführlich Hans von Dettelbach. Der Vortrag beginnt mit \"Dieser Krieg ist eine Zeit höchster Kraftanspannung und Kraftentfaltung.\" Am 5. Dezember 1916 reiste  Bahr in die Steiermark, am 10. erschien im Grazer Volksblatt eine nicht näher zugeordnete Mitschrift seines Vortrags \"Ideen von 1914\", die mit \"Der Weltkrieg ist eine Zeit höchster Kraftansammlung und Entfaltung\" beginnt. In Buchform erschien der Text u.a. in \"Schwarzgelb\". ",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1916-12-08",
+      "end_value": "1916-12-08"
+    },
+    "field_sources": [
+      "Hans von Dettelbach: Steirische Begegnungen. Ein Buch des Gedenkens. Graz: Stiasny 1966, 253-260.",
+      "Hermann Bahr: Die Ideen von 1914. Vortrag. Grazer Volksblatt, 49 (1916) #851, 5-6. (10.12.1916)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/effb6bb2-45e8-4087-b5d9-418e8df606c8/node_type?resourceVersion=id%3A2901"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/effb6bb2-45e8-4087-b5d9-418e8df606c8/relationships/node_type?resourceVersion=id%3A2901"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/effb6bb2-45e8-4087-b5d9-418e8df606c8/revision_uid?resourceVersion=id%3A2901"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/effb6bb2-45e8-4087-b5d9-418e8df606c8/relationships/revision_uid?resourceVersion=id%3A2901"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/effb6bb2-45e8-4087-b5d9-418e8df606c8/uid?resourceVersion=id%3A2901"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/effb6bb2-45e8-4087-b5d9-418e8df606c8/relationships/uid?resourceVersion=id%3A2901"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/effb6bb2-45e8-4087-b5d9-418e8df606c8/field_event_type?resourceVersion=id%3A2901"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/effb6bb2-45e8-4087-b5d9-418e8df606c8/relationships/field_event_type?resourceVersion=id%3A2901"
+        }
+      }
+    }
+  }
+}

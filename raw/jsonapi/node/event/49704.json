@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "8db1e47c-20ff-4d60-9891-b0717917cf08",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/8db1e47c-20ff-4d60-9891-b0717917cf08?resourceVersion=id%3A3480"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/8db1e47c-20ff-4d60-9891-b0717917cf08?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49704,
+    "drupal_internal__vid": 3480,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Stettin",
+    "created": "2011-11-30T16:22:18+00:00",
+    "changed": "2013-03-12T15:36:56+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49704",
+      "pid": 1518,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "In seinem \"Tagebuch\" berichtet Bahr 1919, wie er zur Zeit der Freien Bühne in Berlin sehr von Emanuel Reicher eingenommen war:<blockquote>Ich erinnere mich, daß wir einmal drei Mann hoch eigens nach Stettin fuhren, bloß um Reicher als Willy Janickow in \"Sodoms Ende\" zu sehen.</blockquote>Eine genauere Datierung ist derzeit nicht möglich, mit dabei war auf jedem Fall Sudermann.",
+      "format": "full_html",
+      "processed": "In seinem \"Tagebuch\" berichtet Bahr 1919, wie er zur Zeit der Freien Bühne in Berlin sehr von Emanuel Reicher eingenommen war:<blockquote>Ich erinnere mich, daß wir einmal drei Mann hoch eigens nach Stettin fuhren, bloß um Reicher als Willy Janickow in \"Sodoms Ende\" zu sehen.</blockquote>Eine genauere Datierung ist derzeit nicht möglich, mit dabei war auf jedem Fall Sudermann.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1890-07-01",
+      "end_value": "1890-07-01"
+    },
+    "field_sources": [
+      "1919. Tagebuch, 210. (20. Juni)",
+      "(Hier auf 1. Juli 1890 datiert)",
+      "Brief Bahrs an Sudermann, 18. Okt. (1891), Abschrift Nachlass Bahr"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8db1e47c-20ff-4d60-9891-b0717917cf08/node_type?resourceVersion=id%3A3480"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8db1e47c-20ff-4d60-9891-b0717917cf08/relationships/node_type?resourceVersion=id%3A3480"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8db1e47c-20ff-4d60-9891-b0717917cf08/revision_uid?resourceVersion=id%3A3480"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8db1e47c-20ff-4d60-9891-b0717917cf08/relationships/revision_uid?resourceVersion=id%3A3480"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8db1e47c-20ff-4d60-9891-b0717917cf08/uid?resourceVersion=id%3A3480"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8db1e47c-20ff-4d60-9891-b0717917cf08/relationships/uid?resourceVersion=id%3A3480"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8db1e47c-20ff-4d60-9891-b0717917cf08/field_event_type?resourceVersion=id%3A3480"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8db1e47c-20ff-4d60-9891-b0717917cf08/relationships/field_event_type?resourceVersion=id%3A3480"
+        }
+      }
+    }
+  }
+}

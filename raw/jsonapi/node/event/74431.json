@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "9672f393-4139-4c17-a49b-2c3e57c564f5",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/9672f393-4139-4c17-a49b-2c3e57c564f5?resourceVersion=id%3A3755"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/9672f393-4139-4c17-a49b-2c3e57c564f5?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74431,
+    "drupal_internal__vid": 3755,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Hunde. Schwimmen, Fechten",
+    "created": "2012-11-12T08:40:22+00:00",
+    "changed": "2012-11-12T08:40:22+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/74431",
+      "pid": 1805,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Für das in der zweiten Hälfte 1904 erschienene Verlagsverzeichnis von Albert Langen verfasst Bahr eine kurze Selbstbiografie, die neben Bekanntem der Liste seiner Sportarten Fechten und Schwimmen hinzufügt und bezüglich seines Nachwuchses die Aussage trifft:\r\n<blockquote>Kinder: keine. Hunde: vier.</blockquote>",
+      "format": "full_html",
+      "processed": "Für das in der zweiten Hälfte 1904 erschienene Verlagsverzeichnis von Albert Langen verfasst Bahr eine kurze Selbstbiografie, die neben Bekanntem der Liste seiner Sportarten Fechten und Schwimmen hinzufügt und bezüglich seines Nachwuchses die Aussage trifft:\n<blockquote>Kinder: keine. Hunde: vier.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1904-07-01",
+      "end_value": "1904-07-01"
+    },
+    "field_sources": [
+      "Hermann Bahr: Selbstbiographie. In: Albert Langens Verlagskatalog. 1894-1904. München: Albert Langen 1904, 4.",
+      "(Hier 1.7.1904)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9672f393-4139-4c17-a49b-2c3e57c564f5/node_type?resourceVersion=id%3A3755"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9672f393-4139-4c17-a49b-2c3e57c564f5/relationships/node_type?resourceVersion=id%3A3755"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9672f393-4139-4c17-a49b-2c3e57c564f5/revision_uid?resourceVersion=id%3A3755"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9672f393-4139-4c17-a49b-2c3e57c564f5/relationships/revision_uid?resourceVersion=id%3A3755"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9672f393-4139-4c17-a49b-2c3e57c564f5/uid?resourceVersion=id%3A3755"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9672f393-4139-4c17-a49b-2c3e57c564f5/relationships/uid?resourceVersion=id%3A3755"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9672f393-4139-4c17-a49b-2c3e57c564f5/field_event_type?resourceVersion=id%3A3755"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9672f393-4139-4c17-a49b-2c3e57c564f5/relationships/field_event_type?resourceVersion=id%3A3755"
+        }
+      }
+    }
+  }
+}

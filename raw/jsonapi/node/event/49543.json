@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "f7b46ae4-bd5b-4671-afea-40579356c1e1",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f7b46ae4-bd5b-4671-afea-40579356c1e1?resourceVersion=id%3A3376"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f7b46ae4-bd5b-4671-afea-40579356c1e1?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49543,
+    "drupal_internal__vid": 3376,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Unterach am Attersee",
+    "created": "2011-10-28T13:47:03+00:00",
+    "changed": "2011-10-28T13:59:30+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49543",
+      "pid": 1360,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "An Redlich, 8. Mai 1925:<blockquote>Für Juli und August haben wir eine Wohnung in Unterach am Attersee gemietet.</blockquote>Adresse: Bei Hauptmann Hlavatsch, Haus unmittelbar am See, nahe der Kirche, gleich beim Landungsplatz. Am 7. oder 8. Juli dürfte er eintreffen und bis zum 20. September bleiben.",
+      "format": "full_html",
+      "processed": "An Redlich, 8. Mai 1925:<blockquote>Für Juli und August haben wir eine Wohnung in Unterach am Attersee gemietet.</blockquote>Adresse: Bei Hauptmann Hlavatsch, Haus unmittelbar am See, nahe der Kirche, gleich beim Landungsplatz. Am 7. oder 8. Juli dürfte er eintreffen und bis zum 20. September bleiben.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1924-07-07",
+      "end_value": "1924-09-20"
+    },
+    "field_sources": [
+      "Bahr/Redlich, 524-532."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f7b46ae4-bd5b-4671-afea-40579356c1e1/node_type?resourceVersion=id%3A3376"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f7b46ae4-bd5b-4671-afea-40579356c1e1/relationships/node_type?resourceVersion=id%3A3376"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f7b46ae4-bd5b-4671-afea-40579356c1e1/revision_uid?resourceVersion=id%3A3376"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f7b46ae4-bd5b-4671-afea-40579356c1e1/relationships/revision_uid?resourceVersion=id%3A3376"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f7b46ae4-bd5b-4671-afea-40579356c1e1/uid?resourceVersion=id%3A3376"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f7b46ae4-bd5b-4671-afea-40579356c1e1/relationships/uid?resourceVersion=id%3A3376"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f7b46ae4-bd5b-4671-afea-40579356c1e1/field_event_type?resourceVersion=id%3A3376"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f7b46ae4-bd5b-4671-afea-40579356c1e1/relationships/field_event_type?resourceVersion=id%3A3376"
+        }
+      }
+    }
+  }
+}

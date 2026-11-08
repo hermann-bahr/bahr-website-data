@@ -1,0 +1,109 @@
+{
+  "type": "node--image",
+  "id": "4992679f-1201-4743-89dc-26162d1c4303",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/image/4992679f-1201-4743-89dc-26162d1c4303?resourceVersion=id%3A3973"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/image/4992679f-1201-4743-89dc-26162d1c4303?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38877,
+    "drupal_internal__vid": 3973,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:44:08+00:00",
+    "status": true,
+    "title": "Karikatur Karl Arnold",
+    "created": "2011-02-21T17:29:43+00:00",
+    "changed": "2013-01-17T10:34:19+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/bild/38877",
+      "pid": 620,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<i>Karl Arnold: Schwabing und Kurfürstendamm. München: Piper o.J.<br>Dass. in: Der Uhu, 1934 #2 (Februar)</i>",
+      "format": "full_html",
+      "processed": "<i>Karl Arnold: Schwabing und Kurfürstendamm. München: Piper o.J.<br>Dass. in: Der Uhu, 1934 #2 (Februar)</i>",
+      "summary": null
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "e2381624-d098-4c5b-bdd7-5dbfd773b84e",
+        "meta": {
+          "drupal_internal__target_id": "image"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/4992679f-1201-4743-89dc-26162d1c4303/node_type?resourceVersion=id%3A3973"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/4992679f-1201-4743-89dc-26162d1c4303/relationships/node_type?resourceVersion=id%3A3973"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/4992679f-1201-4743-89dc-26162d1c4303/revision_uid?resourceVersion=id%3A3973"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/4992679f-1201-4743-89dc-26162d1c4303/relationships/revision_uid?resourceVersion=id%3A3973"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/4992679f-1201-4743-89dc-26162d1c4303/uid?resourceVersion=id%3A3973"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/4992679f-1201-4743-89dc-26162d1c4303/relationships/uid?resourceVersion=id%3A3973"
+        }
+      }
+    },
+    "field_images": {
+      "data": [
+        {
+          "type": "media--image",
+          "id": "f9bac2b7-073d-400b-b681-b2fe96bb2093",
+          "meta": {
+            "drupal_internal__target_id": 153
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/4992679f-1201-4743-89dc-26162d1c4303/field_images?resourceVersion=id%3A3973"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/4992679f-1201-4743-89dc-26162d1c4303/relationships/field_images?resourceVersion=id%3A3973"
+        }
+      }
+    }
+  }
+}

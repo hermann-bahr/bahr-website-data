@@ -1,0 +1,118 @@
+{
+  "type": "media--image_vdg",
+  "id": "19dd80d7-cf3d-4660-b977-94441f71fc00",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/19dd80d7-cf3d-4660-b977-94441f71fc00?resourceVersion=id%3A205"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/19dd80d7-cf3d-4660-b977-94441f71fc00?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__mid": 204,
+    "drupal_internal__vid": 205,
+    "langcode": "de",
+    "revision_created": "2020-02-27T15:47:37+00:00",
+    "status": true,
+    "name": "21.jpg",
+    "created": "2020-02-27T15:47:28+00:00",
+    "changed": "2020-02-27T15:47:28+00:00",
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": null,
+      "pid": null,
+      "langcode": "de"
+    }
+  },
+  "relationships": {
+    "bundle": {
+      "data": {
+        "type": "media_type--media_type",
+        "id": "1e270fb0-cbb8-4385-a6d7-69db224c61f7",
+        "meta": {
+          "drupal_internal__target_id": "image_vdg"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/19dd80d7-cf3d-4660-b977-94441f71fc00/bundle?resourceVersion=id%3A205"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/19dd80d7-cf3d-4660-b977-94441f71fc00/relationships/bundle?resourceVersion=id%3A205"
+        }
+      }
+    },
+    "revision_user": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/19dd80d7-cf3d-4660-b977-94441f71fc00/revision_user?resourceVersion=id%3A205"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/19dd80d7-cf3d-4660-b977-94441f71fc00/relationships/revision_user?resourceVersion=id%3A205"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/19dd80d7-cf3d-4660-b977-94441f71fc00/uid?resourceVersion=id%3A205"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/19dd80d7-cf3d-4660-b977-94441f71fc00/relationships/uid?resourceVersion=id%3A205"
+        }
+      }
+    },
+    "thumbnail": {
+      "data": {
+        "type": "file--file",
+        "id": "3edb64a6-558e-471f-b6a8-6955b8e18871",
+        "meta": {
+          "alt": "Hermann Bahr, Kritische Schriften - 21 - Russische Reise",
+          "title": null,
+          "width": 202,
+          "height": 286,
+          "drupal_internal__target_id": 282
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/19dd80d7-cf3d-4660-b977-94441f71fc00/thumbnail?resourceVersion=id%3A205"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/19dd80d7-cf3d-4660-b977-94441f71fc00/relationships/thumbnail?resourceVersion=id%3A205"
+        }
+      }
+    },
+    "field_media_image_1": {
+      "data": {
+        "type": "file--file",
+        "id": "3edb64a6-558e-471f-b6a8-6955b8e18871",
+        "meta": {
+          "alt": "Hermann Bahr, Kritische Schriften - 21 - Russische Reise",
+          "title": "",
+          "width": 202,
+          "height": 286,
+          "drupal_internal__target_id": 282
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/19dd80d7-cf3d-4660-b977-94441f71fc00/field_media_image_1?resourceVersion=id%3A205"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/19dd80d7-cf3d-4660-b977-94441f71fc00/relationships/field_media_image_1?resourceVersion=id%3A205"
+        }
+      }
+    }
+  }
+}

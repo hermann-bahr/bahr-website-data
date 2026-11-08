@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kritische-schriften__dialog-vom-marsyas-1906" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Dialog vom Marsyas (1906)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">28285</idno>
+        <idno type="drupal-alias">/bibliografie/28285</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bibliografie/28285">https://bahr.univie.ac.at/bibliografie/28285</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+        <bibl type="beschriebene-ausgabe">
+          <author>Hermann Bahr</author>
+          <title type="main">Dialog vom Marsyas</title>
+          <title type="sub">Mit einer Photogravüre und fünfzehn Vollbildern in Tonätzung</title>
+          <pubPlace>Berlin</pubPlace>
+          <publisher>Bard-Marquardt</publisher>
+          <series>
+            <title level="s">Cornelius Gurlitt [Hg.]: Die Kultur, Sammlung illustrierter Einzeldarstellungen, 4</title>
+          </series>
+          <date>1906</date>
+          <extent>73</extent>
+          <note>Ohne gedruckte Jahresangabe. Bahr schickte das Manuskript im Sommer 1904 an Bard und rechnete mit einem Erscheinen Ende Jänner 1905. Verzögerungen im Verlag führten dazu, dass im Oktober 1905 zwar die Abbildungen gedruckt sind, nicht aber der Text. Aufgrund der Anzeige im "Büchereinlauf" des Neuen Wiener Tagblatts (40 (1906) #13, 34) vom 14. Jänner 1906 anders als Thomasberger, der [1905] angibt, auf [1906] datiert. Die Frankfurter Zeitung vermerkt am 24.8.1913 (1. Morgenblatt, S. 6), dass die Inselausgabe in der Redaktion eingelangt ist.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="2" key="kritische-schriften">Kritische Schriften</term>
+          <term n="10" key="dialog-vom-marsyas-1906" type="eintrag">Dialog vom Marsyas (1906)</term>
+        </keywords>
+        <classCode scheme="drupal-type">bibliographie</classCode>
+        <keywords scheme="bibliografie_type">
+          <term>Schriften in Einzelausgaben</term>
+        </keywords>
+        <keywords scheme="bibliografie_type">
+          <term>Kritische Schriften</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2010-11-30T06:47:08+00:00" type="created">angelegt in Drupal</change>
+      <change when="2013-03-05T10:24:01+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="intro">
+        <head>Einleitung</head>
+        <p>Wie im "Dialog vom Tragischen" handelt es sich auch im "Dialog vom Marsyas" um ein Gespräch, dessen Thema die Kunst im weiteren Sinn ist. Ein "Meister" entwickelt anhand des Marsyas-Mythos die These, dass es zwei Formen von Kunstproduktion gäbe: Eine, die aufgrund eines Mangels und eine, die aufgrund eines Überflusses im Künstler aufgenommen würde. Während die erste dazu führe, dass der Kunstschaffende selbst gerade durch seine Werke an Wert oder zumindest an Kraft verliere, würde die zweite Form nicht nur schöne Werke, sondern auch gute Menschen produzieren.</p>
+      </div>
+      <div xml:id="bib">
+        <head>Bibliografie</head>
+        <table type="bibliografie">
+          <row>
+            <cell>Autor:</cell>
+            <cell>Hermann Bahr</cell>
+          </row>
+          <row>
+            <cell>Titel:</cell>
+            <cell>Dialog vom Marsyas</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>Mit einer Photogravüre und fünfzehn Vollbildern in Tonätzung</cell>
+          </row>
+          <row>
+            <cell>Ort:</cell>
+            <cell>Berlin</cell>
+          </row>
+          <row>
+            <cell>Verlag:</cell>
+            <cell>Bard-Marquardt</cell>
+          </row>
+          <row>
+            <cell>Reihe:</cell>
+            <cell>Cornelius Gurlitt [Hg.]: Die Kultur, Sammlung illustrierter Einzeldarstellungen, 4</cell>
+          </row>
+          <row>
+            <cell>Jahr:</cell>
+            <cell>1906</cell>
+          </row>
+          <row>
+            <cell>Seiten:</cell>
+            <cell>73</cell>
+          </row>
+          <row>
+            <cell>Anm.:</cell>
+            <cell>Ohne gedruckte Jahresangabe. Bahr schickte das Manuskript im Sommer 1904 an Bard und rechnete mit einem Erscheinen Ende Jänner 1905. Verzögerungen im Verlag führten dazu, dass im Oktober 1905 zwar die Abbildungen gedruckt sind, nicht aber der Text. Aufgrund der Anzeige im "Büchereinlauf" des Neuen Wiener Tagblatts (40 (1906) #13, 34) vom 14. Jänner 1906 anders als Thomasberger, der [1905] angibt, auf [1906] datiert. Die Frankfurter Zeitung vermerkt am 24.8.1913 (1. Morgenblatt, S. 6), dass die Inselausgabe in der Redaktion eingelangt ist.</cell>
+          </row>
+        </table>
+      </div>
+      <div xml:id="ks">
+        <head>Kritische Schriften</head>
+        <div>
+          <head>Dialog vom Tragischen (1904), Dialog vom Marsyas [1906], Josef Kainz (1906)</head>
+          <div>
+            <head>Band IX</head>
+            <p>Herausgegeben von Gottfried Schnödl 2010 ISBN: 9783897396166 <ref target="http://www.vdg-weimar.de/katalog/?id=556">VDG Weimar</ref></p>
+          </div>
+        </div>
+      </div>
+      <div xml:id="erstdrucke">
+        <head>Erstdruck</head>
+        <p>Die neue Rundschau, 15 (1904) #10, 1173-1205</p>
+      </div>
+      <div xml:id="rezens">
+        <head>Rezensionen</head>
+        <p>Im Archiv: Otto Julius Bierbaum: Etwas von einem Geschundenen, 21.2.1906</p>
+      </div>
+      <div xml:id="digit">
+        <head>Digitalisate</head>
+        <p><hi rend="italic">Neusatz:</hi> <ref target="https://bahr.univie.ac.at/sites/all/ks/9-dialog.pdf" type="sites-all"><hi rend="bold">Kritische Schriften in Einzelausgaben</hi></ref> <hi rend="italic">Faksimile des Erstdrucks:</hi> <ref target="http://archive.org/search.php?query=hermann%20bahr%20marsyas">Archive.org</ref></p>
+      </div>
+    </body>
+  </text>
+</TEI>

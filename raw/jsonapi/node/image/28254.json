@@ -1,0 +1,109 @@
+{
+  "type": "node--image",
+  "id": "b05e0536-2e1c-41c0-a199-531eeb0aeee1",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/image/b05e0536-2e1c-41c0-a199-531eeb0aeee1?resourceVersion=id%3A3955"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/image/b05e0536-2e1c-41c0-a199-531eeb0aeee1?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28254,
+    "drupal_internal__vid": 3955,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:44:08+00:00",
+    "status": true,
+    "title": "1908 Beruccio malt Bahr",
+    "created": "2010-11-13T18:09:12+00:00",
+    "changed": "2010-11-18T21:50:23+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/bild/28254",
+      "pid": 387,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<strong>Bilder aus aller Welt.</strong><br>Ein eigenartiges Bild aus dem Leben am Lido in Venedig hat der Photograph auf die Platte gebannt. Man sieht, wie da ein Künstler in dem denkbar leichtesten Badekostüm seinen Beruf ausübt: Der italienische Maler Beruccio malt den Wiener Schriftsteller Hermann Bahr, der im langen Bademantel vor ihm steht.<br /><br /><i>Aus: Die Woche, 1908, #35, S. 1538.</i>",
+      "format": "full_html",
+      "processed": "<strong>Bilder aus aller Welt.</strong><br>Ein eigenartiges Bild aus dem Leben am Lido in Venedig hat der Photograph auf die Platte gebannt. Man sieht, wie da ein Künstler in dem denkbar leichtesten Badekostüm seinen Beruf ausübt: Der italienische Maler Beruccio malt den Wiener Schriftsteller Hermann Bahr, der im langen Bademantel vor ihm steht.<br><br><i>Aus: Die Woche, 1908, #35, S. 1538.</i>",
+      "summary": null
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "e2381624-d098-4c5b-bdd7-5dbfd773b84e",
+        "meta": {
+          "drupal_internal__target_id": "image"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/b05e0536-2e1c-41c0-a199-531eeb0aeee1/node_type?resourceVersion=id%3A3955"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/b05e0536-2e1c-41c0-a199-531eeb0aeee1/relationships/node_type?resourceVersion=id%3A3955"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/b05e0536-2e1c-41c0-a199-531eeb0aeee1/revision_uid?resourceVersion=id%3A3955"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/b05e0536-2e1c-41c0-a199-531eeb0aeee1/relationships/revision_uid?resourceVersion=id%3A3955"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/b05e0536-2e1c-41c0-a199-531eeb0aeee1/uid?resourceVersion=id%3A3955"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/b05e0536-2e1c-41c0-a199-531eeb0aeee1/relationships/uid?resourceVersion=id%3A3955"
+        }
+      }
+    },
+    "field_images": {
+      "data": [
+        {
+          "type": "media--image",
+          "id": "c579445f-c62b-4fef-8fbc-267f4b73b799",
+          "meta": {
+            "drupal_internal__target_id": 134
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/b05e0536-2e1c-41c0-a199-531eeb0aeee1/field_images?resourceVersion=id%3A3955"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/b05e0536-2e1c-41c0-a199-531eeb0aeee1/relationships/field_images?resourceVersion=id%3A3955"
+        }
+      }
+    }
+  }
+}

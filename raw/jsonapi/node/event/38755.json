@@ -1,0 +1,114 @@
+{
+  "type": "node--event",
+  "id": "86553318-0aba-4707-b779-0e137dd3f91c",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/86553318-0aba-4707-b779-0e137dd3f91c?resourceVersion=id%3A2576"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/86553318-0aba-4707-b779-0e137dd3f91c?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38755,
+    "drupal_internal__vid": 2576,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Comédie Française",
+    "created": "2011-01-25T20:01:23+00:00",
+    "changed": "2011-01-25T20:01:23+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38755",
+      "pid": 503,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 22. Dezember 1888 ist Bahr zum ersten Mal in seinem Leben in der Comédie Française, er sieht, wie er am 29. seinem Vater schreibt, eine Aufführung von Corneilles Le Cid und Molières \"Les précieuses ridicules\". ",
+      "format": "full_html",
+      "processed": "Am 22. Dezember 1888 ist Bahr zum ersten Mal in seinem Leben in der Comédie Française, er sieht, wie er am 29. seinem Vater schreibt, eine Aufführung von Corneilles Le Cid und Molières \"Les précieuses ridicules\". ",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1888-12-22",
+      "end_value": "1888-12-22"
+    },
+    "field_sources": []
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/86553318-0aba-4707-b779-0e137dd3f91c/node_type?resourceVersion=id%3A2576"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/86553318-0aba-4707-b779-0e137dd3f91c/relationships/node_type?resourceVersion=id%3A2576"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/86553318-0aba-4707-b779-0e137dd3f91c/revision_uid?resourceVersion=id%3A2576"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/86553318-0aba-4707-b779-0e137dd3f91c/relationships/revision_uid?resourceVersion=id%3A2576"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/86553318-0aba-4707-b779-0e137dd3f91c/uid?resourceVersion=id%3A2576"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/86553318-0aba-4707-b779-0e137dd3f91c/relationships/uid?resourceVersion=id%3A2576"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/86553318-0aba-4707-b779-0e137dd3f91c/field_event_type?resourceVersion=id%3A2576"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/86553318-0aba-4707-b779-0e137dd3f91c/relationships/field_event_type?resourceVersion=id%3A2576"
+        }
+      }
+    }
+  }
+}

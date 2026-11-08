@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "db0493ee-ecf4-4cef-82a0-f1dc75de87af",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/db0493ee-ecf4-4cef-82a0-f1dc75de87af?resourceVersion=id%3A3722"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/db0493ee-ecf4-4cef-82a0-f1dc75de87af?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74394,
+    "drupal_internal__vid": 3722,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Salzburg",
+    "created": "2012-10-22T19:12:20+00:00",
+    "changed": "2013-09-14T11:54:40+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/74394",
+      "pid": 1768,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 4. März 1899 schreibt Bahr Gerty Schlesinger als Salzburg eine Karte. Vermutlich besucht er in Salzburg seine Mutter und das Grab seines Vaters.",
+      "format": "full_html",
+      "processed": "Am 4. März 1899 schreibt Bahr Gerty Schlesinger als Salzburg eine Karte. Vermutlich besucht er in Salzburg seine Mutter und das Grab seines Vaters.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1899-03-04",
+      "end_value": "1899-03-04"
+    },
+    "field_sources": [
+      "Briefwechsel Bahr/Hofmannsthal. Hg. Elsbeth Dangel-Pelloquin. Göttingen: Wallstein. (In Vorbereitung)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/db0493ee-ecf4-4cef-82a0-f1dc75de87af/node_type?resourceVersion=id%3A3722"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/db0493ee-ecf4-4cef-82a0-f1dc75de87af/relationships/node_type?resourceVersion=id%3A3722"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/db0493ee-ecf4-4cef-82a0-f1dc75de87af/revision_uid?resourceVersion=id%3A3722"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/db0493ee-ecf4-4cef-82a0-f1dc75de87af/relationships/revision_uid?resourceVersion=id%3A3722"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/db0493ee-ecf4-4cef-82a0-f1dc75de87af/uid?resourceVersion=id%3A3722"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/db0493ee-ecf4-4cef-82a0-f1dc75de87af/relationships/uid?resourceVersion=id%3A3722"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/db0493ee-ecf4-4cef-82a0-f1dc75de87af/field_event_type?resourceVersion=id%3A3722"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/db0493ee-ecf4-4cef-82a0-f1dc75de87af/relationships/field_event_type?resourceVersion=id%3A3722"
+        }
+      }
+    }
+  }
+}

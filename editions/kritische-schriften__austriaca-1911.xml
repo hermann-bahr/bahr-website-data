@@ -1,0 +1,334 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kritische-schriften__austriaca-1911" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Austriaca (1911)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">38703</idno>
+        <idno type="drupal-alias">/bibliografie/38703</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bibliografie/38703">https://bahr.univie.ac.at/bibliografie/38703</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+        <bibl type="beschriebene-ausgabe">
+          <author>Hermann Bahr</author>
+          <title type="main">Austriaca</title>
+          <pubPlace>Berlin</pubPlace>
+          <publisher>S. Fischer</publisher>
+          <date>1911</date>
+          <extent>211</extent>
+          <edition>2. und 3. Aufl. 1911</edition>
+          <editor role="translator">Tschechische Ausgabe mit eigenem Vorwort: Austriaca. Se svolením Autora přeložil Dr. J. B. Novák. Turnov: Ing. R. Ptáčník 1912. (=Knihovna Slunovrat, Sv. II)</editor>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="2" key="kritische-schriften">Kritische Schriften</term>
+          <term n="12" key="austriaca-1911" type="eintrag">Austriaca (1911)</term>
+        </keywords>
+        <classCode scheme="drupal-type">bibliographie</classCode>
+        <keywords scheme="bibliografie_type">
+          <term>Schriften in Einzelausgaben</term>
+        </keywords>
+        <keywords scheme="bibliografie_type">
+          <term>Kritische Schriften</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2010-12-29T12:18:59+00:00" type="created">angelegt in Drupal</change>
+      <change when="2014-01-02T12:09:24+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="intro">
+        <head>Einleitung</head>
+        <p>Um 1910 veröffentlicht Hermann Bahr zahlreiche Texte, die sich mit österreichischer Politik befassen. Bahrs Kritik am Beamtentum und der unzeitgemäßen „Kabinettspolitik“ der österreichisch-ungarischen Monarchie lesen sich streckenweise wie Berichte aus Robert Musils Kakanien. Was den Gestus angeht, unterscheidet sich Bahrs Ansatz jedoch grundlegend von der Rückschau Musils; kurz vor dem Ersten Weltkrieg geht es ihm um die pointierte Beschreibung und mittelbar die Verbesserung konkreter österreichischer Missstände.</p>
+        <p>Gemeinsam mit „Wien“ (1907, Bd. XXII dieser Reihe) und der „Dalmatinischen Reise“ (1909, Bd. XXIII) steht damit auch „Austriaca“ (1911) im Zeichen eines Engagements, das seine Kraft aus der eigenen Bescheidung auf konkrete, gleichsam tagespolitische Themen zieht</p>
+      </div>
+      <div xml:id="bib">
+        <head>Bibliografie</head>
+        <table type="bibliografie">
+          <row>
+            <cell>Autor:</cell>
+            <cell>Hermann Bahr</cell>
+          </row>
+          <row>
+            <cell>Titel:</cell>
+            <cell>Austriaca</cell>
+          </row>
+          <row>
+            <cell>Ort:</cell>
+            <cell>Berlin</cell>
+          </row>
+          <row>
+            <cell>Verlag:</cell>
+            <cell>S. Fischer</cell>
+          </row>
+          <row>
+            <cell>Jahr:</cell>
+            <cell>1911</cell>
+          </row>
+          <row>
+            <cell>Seiten:</cell>
+            <cell>211</cell>
+          </row>
+          <row>
+            <cell>Aufl.:</cell>
+            <cell>2. und 3. Aufl. 1911</cell>
+          </row>
+          <row>
+            <cell>Übers.:</cell>
+            <cell>Tschechische Ausgabe mit eigenem Vorwort: Austriaca. Se svolením Autora přeložil Dr. J. B. Novák. Turnov: Ing. R. Ptáčník 1912. (=Knihovna Slunovrat, Sv. II)</cell>
+          </row>
+        </table>
+      </div>
+      <div xml:id="ks">
+        <head>Kritische Schriften</head>
+        <p>Band XI, 2011 ISBN: 9783897396524 <ref target="http://www.vdg-weimar.de/katalog/?id=587">VDG Weimar</ref></p>
+      </div>
+      <div xml:id="erstdrucke">
+        <head>Erstdrucke</head>
+        <table>
+          <row>
+            <cell role="label">Seiten</cell>
+            <cell role="label">Titel / Erstdruck</cell>
+          </row>
+          <row>
+            <cell>9-18</cell>
+            <cell><hi rend="bold">Austriaca. 1</hi><lb/>Als "Österreichisches. 1 [Karl Lueger]" in: März, 3 (1909) #1, 17-23</cell>
+          </row>
+          <row>
+            <cell>18-27</cell>
+            <cell><hi rend="bold">Austriaca. 2</hi><lb/>Als "Österreichisches. 2 [Kaiser Franz Josef]" in: März, 3 (1909) #1, 253-259.</cell>
+          </row>
+          <row>
+            <cell>27-34</cell>
+            <cell><hi rend="bold">Austriaca. 3</hi><lb/>Als "Österreichisches. 3" in: März, 3 (1909) #2, 130-134.</cell>
+          </row>
+          <row>
+            <cell>34-44</cell>
+            <cell><hi rend="bold">Austriaca. 4</hi><lb/>Als "Österreichisches. 4 [Bosnien und Herzegowina]" in: März, 3 (1909) #2, 297-303</cell>
+          </row>
+          <row>
+            <cell>45-54</cell>
+            <cell><hi rend="bold">Austriaca. 5</hi><lb/>Als "Österreichisches. 5" in: März, 3 (1909) #2, 361-66</cell>
+          </row>
+          <row>
+            <cell>54-63</cell>
+            <cell><hi rend="bold">Austriaca. 6</hi><lb/>Als "Österreichisches. 6 [Ungarn]" in: März, 3 (1909) #4, 360-365</cell>
+          </row>
+          <row>
+            <cell>63-71</cell>
+            <cell><hi rend="bold">Austriaca. 7</hi><lb/>Als "Der Richter" in: Neues Wiener Journal, 17 (1909) #5639, 1-2. (4.7.1909)<lb/>Jahrbuch der Freien Generation, Neue Folge, 1 (1910), 68-72.</cell>
+          </row>
+          <row>
+            <cell>71-77</cell>
+            <cell><hi rend="bold">Austriaca. 8</hi><lb/>Als "Die Renner Buben" in: Berliner Tageblatt, 38 (1909) #534, Abend-Ausgabe, 1-2. (20.10.1909)</cell>
+          </row>
+          <row>
+            <cell>77-90</cell>
+            <cell><hi rend="bold">Austriaca. 9</hi><lb/>Als "Österreichisches. 7" in: März, 4 (1910) #1, 260-268</cell>
+          </row>
+          <row>
+            <cell>91-101</cell>
+            <cell><hi rend="bold">Austriaca. 10</hi><lb/>Als "Österreichisches. 8" in: März, 4 (1910) #3, 350-356.</cell>
+          </row>
+          <row>
+            <cell>101-109</cell>
+            <cell><hi rend="bold">Austriaca. 11</hi><lb/>Als "Die Post" in: Neues Wiener Journal, 19 (1911) #6280, 13-14. (16.4.1911)</cell>
+          </row>
+          <row>
+            <cell>109-111</cell>
+            <cell><hi rend="bold">Austriaca. 11. ***</hi><lb/>Als "Eine Erklärung von Hermann Bahr" in: Neues Wiener Journal, 14.5.1911, 3-4. (14.5.1911)<lb/>Als "Die Post" in: Deutsch-österreichische Post, 4 (1911) #6, 4. (1.6.1911)</cell>
+          </row>
+          <row>
+            <cell>113-121</cell>
+            <cell><hi rend="bold">Austriaca. 12</hi><lb/>Als "Der verlassene Student" in: Neue Freie Presse, (1909) #16205, Morgenblatt, 1-3. (1.10.1909)</cell>
+          </row>
+          <row>
+            <cell>122-132</cell>
+            <cell><hi rend="bold">Graf Aehrenthal. 1</hi><lb/>Die Zukunft, 17 (1909) #68, 304-308. (28.8.1909)</cell>
+          </row>
+          <row>
+            <cell>122-135</cell>
+            <cell><hi rend="bold">Graf Aehrenthal. 2</hi><lb/>Als "Aehrenthal" in: Die Zukunft, 19 (1911) #75, 256-257. (20.5.1911)</cell>
+          </row>
+          <row>
+            <cell>136-145</cell>
+            <cell><hi rend="bold">Hochverrat in Agram. </hi><lb/>Die Zukunft, 17 (1909) #67, 343-347. (5.6.1909) Als "Veleizdaja u Zagrebu" in: Sloboda, 18.6.1909</cell>
+          </row>
+          <row>
+            <cell>146-167</cell>
+            <cell><hi rend="bold">Prozeß Friedjung. </hi><lb/>Die neue Rundschau, 21 (1910) #2, 240-250. Gekürzt in: Neues Wiener Journal, 18 (1910) #5844, 2-3. (29.1.1910)</cell>
+          </row>
+          <row>
+            <cell>168-178</cell>
+            <cell><hi rend="bold">Freie Schule. </hi><lb/>Neue Freie Presse, (1910) #16583, Morgenblatt, 1-3. (22.10.1910)</cell>
+          </row>
+          <row>
+            <cell>179-191</cell>
+            <cell><hi rend="bold">Johann Orth. </hi><lb/>Neue Freie Presse, (1910) #16485, Morgenblatt, 1-3. (15.7.1910)</cell>
+          </row>
+          <row>
+            <cell>192-201</cell>
+            <cell><hi rend="bold">Girardi. Zum vierzigjährigen Künstlerjubiläum</hi><lb/>Neues Wiener Journal, 17 (1909) #5605, 6. (30.5.1909)</cell>
+          </row>
+        </table>
+        <p>
+          <hi rend="small">Alle Texte gesichtet, August 2011</hi>
+        </p>
+      </div>
+      <div xml:id="rezens">
+        <head>Rezensionen</head>
+        <p>Im Archiv ab dem 21. September 1911. Die Aktion, 1 (1911) #34, 1083. (9.10.1911) Westermanns Monatshefte, 109 (1912), 774. Br.: Austriaca. Von Hermann Bahr. In: Hamburgischer Correspondent. Zeitung für Literatur, Kunst und Wissenschaft, (1912) #2, 15. (21.1.1912) In den Verlagsanzeigen von "Inventur" wird eine Rezension Stefan Zweigs im "Bücherwurm" erwähnt.</p>
+      </div>
+      <div xml:id="inhaltsvz">
+        <head>Inhaltsverzeichnis</head>
+        <table>
+          <row>
+            <cell>9-18</cell>
+            <cell><hi rend="bold">Austriaca.</hi> 1</cell>
+          </row>
+          <row>
+            <cell>18-27</cell>
+            <cell><hi rend="bold">Austriaca.</hi> 2</cell>
+          </row>
+          <row>
+            <cell>27-34</cell>
+            <cell><hi rend="bold">Austriaca.</hi> 3</cell>
+          </row>
+          <row>
+            <cell>34-44</cell>
+            <cell><hi rend="bold">Austriaca.</hi> 4</cell>
+          </row>
+          <row>
+            <cell>45-54</cell>
+            <cell><hi rend="bold">Austriaca.</hi> 5</cell>
+          </row>
+          <row>
+            <cell>54-63</cell>
+            <cell><hi rend="bold">Austriaca.</hi> 6</cell>
+          </row>
+          <row>
+            <cell>63-71</cell>
+            <cell><hi rend="bold">Austriaca.</hi> 7</cell>
+          </row>
+          <row>
+            <cell>71-77</cell>
+            <cell><hi rend="bold">Austriaca.</hi> 8</cell>
+          </row>
+          <row>
+            <cell>77-90</cell>
+            <cell><hi rend="bold">Austriaca.</hi> 9</cell>
+          </row>
+          <row>
+            <cell>91-101</cell>
+            <cell><hi rend="bold">Austriaca.</hi> 10</cell>
+          </row>
+          <row>
+            <cell>101-109</cell>
+            <cell><hi rend="bold">Austriaca.</hi> 11</cell>
+          </row>
+          <row>
+            <cell>109-111</cell>
+            <cell><hi rend="bold">Austriaca.</hi> 11. ***</cell>
+          </row>
+          <row>
+            <cell>113-121</cell>
+            <cell><hi rend="bold">Austriaca.</hi> 12</cell>
+          </row>
+          <row>
+            <cell>122-132</cell>
+            <cell><hi rend="bold">Graf Aehrenthal.</hi> 1</cell>
+          </row>
+          <row>
+            <cell>122-135</cell>
+            <cell><hi rend="bold">Graf Aehrenthal.</hi> 2</cell>
+          </row>
+          <row>
+            <cell>136-145</cell>
+            <cell>
+              <hi rend="bold">Hochverrat in Agram.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>146-167</cell>
+            <cell>
+              <hi rend="bold">Prozeß Friedjung.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>168-178</cell>
+            <cell>
+              <hi rend="bold">Freie Schule.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>179-191</cell>
+            <cell>
+              <hi rend="bold">Johann Orth.</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>192-201</cell>
+            <cell><hi rend="bold">Girardi.</hi> Zum vierzigjährigen Künstlerjubiläum</cell>
+          </row>
+        </table>
+      </div>
+      <div xml:id="kinhalt">
+        <head>Kommentiertes Inhaltsverzeichnis</head>
+        <list type="gloss">
+          <label>Austriaca 1</label>
+          <item>Bahr erkennt in der Ernennung des Wiener Bürgermeisters Karl Lueger zum geheimen Rat die Kapitulation des Populismus vor der überkommenen Standesordnung.</item>
+          <label>Austriaca 2</label>
+          <item>Die Politik Österreichs ist Bahr zufolge bestimmt von Leuten, die zu wissen vorgeben, was der Kaiser "eigentlich" will. Nun tritt auch noch eine weitere Gruppe auf das politische Parkett: diejenigen, die die Wünsche des Thronfolgers zu kennen vorgeben: ein "neuer Kredit" ist damit eröffnet, "der der kommenden Männer".</item>
+          <label>Austriaca 3</label>
+          <item>Bahr hält das "nationale Problem" Österreich-Ungarns für ein bloß scheinbares, das verschwinden würde, wenn es zu vorurteilsfreier Kommunikation zwischen den Nationen käme.</item>
+          <label>Austriaca 4</label>
+          <item>Hinter der verfehlten Balkanpolitik Österreichs steht für Bahr ein innenpolitisches und wirtschaftliches Problem: weil Österreich weder demokratisch noch industrialisiert ist, kann es mit dem Balkan und dieser mit Österreich nicht viel anfangen.</item>
+          <label>Austriaca 5</label>
+          <item>Bahr sieht die Politik der Deutschen in Böhmen kritisch; anstatt der Durchsetzung der deutschen Amtssprache oder deutscher Straßennamen würde er sich eine subtilere Einflussnahme wünschen, die die nationalen Wünsche der Tschechen respektiert.</item>
+          <label>Austriaca 6</label>
+          <item>Bahr geißelt die kritischen Töne, die in Österreich über Ungarn fallen und meint, nicht das ungarische Volk, sondern die Grundherren in Ungarn würden die Demokratisierung und wirtschaftlichen Entwicklung des Landes verhindern.</item>
+          <label>Austriaca 7</label>
+          <item>Bahr liest "Gullivers Reisen" von Jonathan Swift und findet in ihm eine ähnliche Kritik des Rechtssystems, von der auch Max Burckhards "Der Richter" bestimmt ist.</item>
+          <label>Austriaca 8</label>
+          <item>Die jungen Brüder Renner bauen in Graz ein funktionierendes Fluggerät; Bahr zeigt sich überrascht darüber, dass sie dafür nicht mehr Bewunderung bekommen und meint in der Reserviertheit nationaler Erfolge gegenüber eine österreichische Besonderheit zu erkennen.</item>
+          <label>Austriaca 9</label>
+          <item>Das Stück der "Feldherrnhügel" wird von der Zensur erlaubt, dann aber unter der Hand verboten; Bahr kritisiert an diesem Beispiel den willkürlichen Umgang mit Gesetzen. Das führt ihn zu allgemeineren Überlegungen über eine österreichische Bürokratie, die sich nicht an die Rechtslage hält sondern aus vielen kleinen Souveränen zu bestehen scheint.</item>
+          <label>Austriaca 10</label>
+          <item>Nicht nur, dass sich die österreichische Bürokratie nicht an Gesetze hält, sie hält sich auch nicht an die Realität: v. a. am Beispiel der Bahn ließe sich das erkennen.</item>
+          <label>Austriaca 11</label>
+          <item>Bahr kritisiert die österreichische Post aufgrund ihrer Langsamkeit und Fehleranfälligkeit und gibt persönliche Erfahrungen mit dem postalen Unvermögen zu Protokoll.</item>
+          <label>Austriaca 12</label>
+          <item>Bahr konstatiert, dass die Jugend in Österreich (anders als etwa in Großbritannien) nicht liberal sei, und meint den Grund in der ungenügenden Jugendarbeit der Liberalen zu erkennen.</item>
+          <label>Graf Aehrenthal 1</label>
+          <item>In dem Text von 1909 Bahr unterstützt das Engagement des k. u. k. Außenministers Graf Aehrenthal auf dem Balkan, meint aber, dass für den Erfolg eines solchen Unternehmens auch eine innenpolitische Veränderung notwendig sei.</item>
+          <label>Graf Aehrenthal 2</label>
+          <item>Im Frühling 1911 muss Bahr eine jüngst ausgebrochene "böse Stimmung" gegen Aehrenthal konstatieren, und den Kritikern des Ministers zumindest teilweise Recht geben.</item>
+          <label>Hochverrat in Agram</label>
+          <item>Bahr kritisiert den Hochverratsprozess (gegen angebliche großserbische Umtriebe) von 1909 in Zagreb als rechtlich haltlos und politisch unklug.</item>
+          <label>Prozeß Friedjung</label>
+          <item>1909 beschuldigte der Historiker Friedjung eine Reihe von serbischen und kroatischen Politikern des Verrats und musste sich im nachfolgenden Prozess auf einen unrühmlichen Vergleich einlassen. Bahr gibt an, schon vom ersten Tag die Haltlosigkeit der Angriffe Friedjungs durchschaut zu haben.</item>
+          <label>Freie Schule</label>
+          <item>Bahr lobt ein Schulkonzept, das wohl am ehesten als "antiautoritär" bezeichnet werden kann, insofern er von der natürlichen Entwicklung des Kindes mehr erwartet als von Bildungszwängen.</item>
+          <label>Johann Orth</label>
+          <item>Bahr gibt die bewegte Lebensgeschichte von Johann Orth bzw. Johann Salvator von Österreich-Toskana wieder und sieht in ihr ein typisches Habsburger-Schicksal.</item>
+          <label>Girardi</label>
+          <item>Bahr ehrt Alexander Girardi als einen Schauspieler, der sich gerade nicht verstellt, sondern sein "Altwiener" Wesen in allen Stücken unverfälscht präsentiert.</item>
+        </list>
+      </div>
+      <div xml:id="digit">
+        <head>Digitalisate</head>
+        <p><hi rend="italic">Neusatz:</hi> <ref target="https://bahr.univie.ac.at/sites/all/ks/11-austriaca.pdf" type="sites-all"><hi rend="bold">Kritische Schriften in Einzelausgaben</hi></ref> <hi rend="italic">Faksimile der Erstausgabe:</hi> <ref target="http://www.archive.org/search.php?query=hermann%20bahr%20austriaca">Archive.org</ref> <ref target="http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=73">ÖNB-ANNO</ref></p>
+      </div>
+    </body>
+  </text>
+</TEI>

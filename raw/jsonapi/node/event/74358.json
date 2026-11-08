@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "0c3769ab-7a6f-4842-826c-2ffe17b8901c",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/0c3769ab-7a6f-4842-826c-2ffe17b8901c?resourceVersion=id%3A3686"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/0c3769ab-7a6f-4842-826c-2ffe17b8901c?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74358,
+    "drupal_internal__vid": 3686,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "HvH",
+    "created": "2012-10-12T13:43:53+00:00",
+    "changed": "2013-09-14T11:54:40+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/74358",
+      "pid": 1732,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Für den 28. April 1891, den zweiten Tag der Bekanntschaft Bahrs mit Hugo von Hofmannsthal, notierte sich HvH:<blockquote>ich glaube, ich gefalle ihm ebensogut als er mir;</blockquote>",
+      "format": "full_html",
+      "processed": "Für den 28. April 1891, den zweiten Tag der Bekanntschaft Bahrs mit Hugo von Hofmannsthal, notierte sich HvH:<blockquote>ich glaube, ich gefalle ihm ebensogut als er mir;</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1891-04-28",
+      "end_value": "1891-04-28"
+    },
+    "field_sources": [
+      "HVH: SW XXXVIII; GW RA III, 328."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0c3769ab-7a6f-4842-826c-2ffe17b8901c/node_type?resourceVersion=id%3A3686"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0c3769ab-7a6f-4842-826c-2ffe17b8901c/relationships/node_type?resourceVersion=id%3A3686"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0c3769ab-7a6f-4842-826c-2ffe17b8901c/revision_uid?resourceVersion=id%3A3686"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0c3769ab-7a6f-4842-826c-2ffe17b8901c/relationships/revision_uid?resourceVersion=id%3A3686"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0c3769ab-7a6f-4842-826c-2ffe17b8901c/uid?resourceVersion=id%3A3686"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0c3769ab-7a6f-4842-826c-2ffe17b8901c/relationships/uid?resourceVersion=id%3A3686"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0c3769ab-7a6f-4842-826c-2ffe17b8901c/field_event_type?resourceVersion=id%3A3686"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0c3769ab-7a6f-4842-826c-2ffe17b8901c/relationships/field_event_type?resourceVersion=id%3A3686"
+        }
+      }
+    }
+  }
+}

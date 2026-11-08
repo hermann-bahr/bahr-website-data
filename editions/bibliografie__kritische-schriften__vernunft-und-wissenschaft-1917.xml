@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bibliografie__kritische-schriften__vernunft-und-wissenschaft-1917" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Vernunft und Wissenschaft (1917)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">38723</idno>
+        <idno type="drupal-alias">/bibliografie/38723</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bibliografie/38723">https://bahr.univie.ac.at/bibliografie/38723</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+        <bibl type="beschriebene-ausgabe">
+          <author>Hermann Bahr</author>
+          <title type="main">Vernunft und Wissenschaft</title>
+          <title type="sub">Sonderabdruck aus der "Kultur" Jahrbuch der österreichischen Leo-Gesellschaft</title>
+          <pubPlace>Innsbruck, Wien, München</pubPlace>
+          <publisher>Tyrolia</publisher>
+          <date>1917</date>
+          <extent>46</extent>
+          <note>Am 17. April 1917 kann Bahr Redlich schreiben, er habe "[s]eine 'Kritik der Vernunft', aber zusammengedrängt auf 150 geschriebene Blätter" fertiggestellt. Am 29. Oktober schreibt er ihm, dass innerhalb weniger Wochen tausend Exemplare abgesetzt worden sind (Bahr/Redlich, 277).</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="1" key="bibliografie">Bibliografie</term>
+          <term n="4" key="kritische-schriften">Kritische Schriften</term>
+          <term n="18" key="vernunft-und-wissenschaft-1917" type="eintrag">Vernunft und Wissenschaft (1917)</term>
+        </keywords>
+        <classCode scheme="drupal-type">bibliographie</classCode>
+        <keywords scheme="bibliografie_type">
+          <term>Kritische Schriften</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2011-01-19T10:48:11+00:00" type="created">angelegt in Drupal</change>
+      <change when="2011-11-21T15:32:09+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="intro">
+        <head>Einleitung</head>
+        <p>Bahrs Weg zum Glauben begegneten viele mit Unglauben. Fünf Jahre, nachdem er den Wandel offen verkündet hatte, versuchte er mit diesem Aufsatz seine Rechtgläubigkeit – Orthodoxie - zu beweisen. In einer für ihn (und das Thema) verblüffend wissenschaftlich gehaltenen, von Belegen in Fußnoten vollen, Abhandlung möchte er zeigen, wie sein Glaube ein Ergebnis der Vernunft ist. Entsprechend wurde der Titel auch im Zuge der Eingliederung in seinem nächsten Sammelband "Summula" zu "Vernunft und Glaube" geändert.</p>
+      </div>
+      <div xml:id="bib">
+        <head>Bibliografie</head>
+        <table type="bibliografie">
+          <row>
+            <cell>Autor:</cell>
+            <cell>Hermann Bahr</cell>
+          </row>
+          <row>
+            <cell>Titel:</cell>
+            <cell>Vernunft und Wissenschaft</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>Sonderabdruck aus der "Kultur" Jahrbuch der österreichischen Leo-Gesellschaft</cell>
+          </row>
+          <row>
+            <cell>Ort:</cell>
+            <cell>Innsbruck, Wien, München</cell>
+          </row>
+          <row>
+            <cell>Verlag:</cell>
+            <cell>Tyrolia</cell>
+          </row>
+          <row>
+            <cell>Jahr:</cell>
+            <cell>1917</cell>
+          </row>
+          <row>
+            <cell>Seiten:</cell>
+            <cell>46</cell>
+          </row>
+          <row>
+            <cell>Anm.</cell>
+            <cell>Am 17. April 1917 kann Bahr Redlich schreiben, er habe "[s]eine 'Kritik der Vernunft', aber zusammengedrängt auf 150 geschriebene Blätter" fertiggestellt. Am 29. Oktober schreibt er ihm, dass innerhalb weniger Wochen tausend Exemplare abgesetzt worden sind (Bahr/Redlich, 277).</cell>
+          </row>
+        </table>
+      </div>
+      <div xml:id="erstdrucke">
+        <head>Erstdrucke</head>
+        <p>Österreichische Leogesellschaft, Hg.: Die Kultur. Jahrbuch für Wissenschaft, Literatur und Kunst. Band 18. Wien, Innsbruck: Tyrolia 1917, 34-70.</p>
+      </div>
+      <div xml:id="rezens">
+        <head>Rezensionen</head>
+        <p>G. B. [Gottfried Brunner?]: Wir müssen wieder Christen werden. In: Katholische Kirchenzeitung, 57 (1917) #34, 274-279. (23. 8. 1917) Dass. am 16.9.1917 in der Reichspost. R. Hornich in: Das neue Österreich, Oktoberheft 1917.</p>
+      </div>
+      <div xml:id="digit">
+        <head>Digitalisate</head>
+        <p>
+          <ref target="http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&amp;aid=87">Anno</ref>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

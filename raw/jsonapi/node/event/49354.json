@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "272f2517-85d9-4284-afab-6191cafd13fd",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/272f2517-85d9-4284-afab-6191cafd13fd?resourceVersion=id%3A3200"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/272f2517-85d9-4284-afab-6191cafd13fd?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49354,
+    "drupal_internal__vid": 3200,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Lammasch",
+    "created": "2011-10-13T10:50:58+00:00",
+    "changed": "2011-10-24T12:09:50+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49354",
+      "pid": 1179,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Nach seinem Besuch am 6. kommt es zwischen 7. und Bahrs Abreise am 12. Jänner 1916 mindestens zu einem zweiten Besuch von Heinrich Lammasch bei Bahr. Weitere Hinweise auf den ebenfalls in Salzburg lebenden Lammasch, der näheren Umgang mit Bahr pflegte, finden sich im Briefwechsel Bahr/Redlich.",
+      "format": "full_html",
+      "processed": "Nach seinem Besuch am 6. kommt es zwischen 7. und Bahrs Abreise am 12. Jänner 1916 mindestens zu einem zweiten Besuch von Heinrich Lammasch bei Bahr. Weitere Hinweise auf den ebenfalls in Salzburg lebenden Lammasch, der näheren Umgang mit Bahr pflegte, finden sich im Briefwechsel Bahr/Redlich.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1916-01-07",
+      "end_value": "1916-01-07"
+    },
+    "field_sources": [
+      "Bahr/Redlich, 149."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/272f2517-85d9-4284-afab-6191cafd13fd/node_type?resourceVersion=id%3A3200"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/272f2517-85d9-4284-afab-6191cafd13fd/relationships/node_type?resourceVersion=id%3A3200"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/272f2517-85d9-4284-afab-6191cafd13fd/revision_uid?resourceVersion=id%3A3200"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/272f2517-85d9-4284-afab-6191cafd13fd/relationships/revision_uid?resourceVersion=id%3A3200"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/272f2517-85d9-4284-afab-6191cafd13fd/uid?resourceVersion=id%3A3200"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/272f2517-85d9-4284-afab-6191cafd13fd/relationships/uid?resourceVersion=id%3A3200"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/272f2517-85d9-4284-afab-6191cafd13fd/field_event_type?resourceVersion=id%3A3200"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/272f2517-85d9-4284-afab-6191cafd13fd/relationships/field_event_type?resourceVersion=id%3A3200"
+        }
+      }
+    }
+  }
+}

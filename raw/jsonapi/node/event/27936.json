@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "10e3dece-f37f-4541-873b-4ab50ca18432",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/10e3dece-f37f-4541-873b-4ab50ca18432?resourceVersion=id%3A2278"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/10e3dece-f37f-4541-873b-4ab50ca18432?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27936,
+    "drupal_internal__vid": 2278,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Dialog vom Tragischen",
+    "created": "2010-07-19T11:16:54+00:00",
+    "changed": "2012-10-29T09:59:08+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/27936",
+      "pid": 112,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Der erste der zwei veröffentlichten Dialoge zur Kunst (ein dritter, der Dialog vom Laster blieb unvollendet) erschien im Oktober 1903, auf 1904 vordatiert, bei S. Fischer in Berlin. Hugo von Hofmannsthals Widmungsexemplar ist von Bahr händisch auf 31.10.1903 datiert.",
+      "format": "full_html",
+      "processed": "Der erste der zwei veröffentlichten Dialoge zur Kunst (ein dritter, der Dialog vom Laster blieb unvollendet) erschien im Oktober 1903, auf 1904 vordatiert, bei S. Fischer in Berlin. Hugo von Hofmannsthals Widmungsexemplar ist von Bahr händisch auf 31.10.1903 datiert.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1903-10-01",
+      "end_value": "1903-10-01"
+    },
+    "field_sources": [
+      "Anm. zu: An Bahr, 18.7.1903. Briefwechsel Bahr/Hofmannsthal. Hg. Elsbeth Dangel-Pelloquin. Göttingen: Wallstein. (In Vorbereitung)",
+      "Datierung laut Tagebücher (Csàky), III, S. XII.\r\n"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/10e3dece-f37f-4541-873b-4ab50ca18432/node_type?resourceVersion=id%3A2278"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/10e3dece-f37f-4541-873b-4ab50ca18432/relationships/node_type?resourceVersion=id%3A2278"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/10e3dece-f37f-4541-873b-4ab50ca18432/revision_uid?resourceVersion=id%3A2278"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/10e3dece-f37f-4541-873b-4ab50ca18432/relationships/revision_uid?resourceVersion=id%3A2278"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/10e3dece-f37f-4541-873b-4ab50ca18432/uid?resourceVersion=id%3A2278"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/10e3dece-f37f-4541-873b-4ab50ca18432/relationships/uid?resourceVersion=id%3A2278"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "da42ac4a-f48f-4397-af4d-b66e913825fb",
+          "meta": {
+            "drupal_internal__target_id": 3
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/10e3dece-f37f-4541-873b-4ab50ca18432/field_event_type?resourceVersion=id%3A2278"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/10e3dece-f37f-4541-873b-4ab50ca18432/relationships/field_event_type?resourceVersion=id%3A2278"
+        }
+      }
+    }
+  }
+}

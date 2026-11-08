@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "097ce0e9-17f9-47d6-82cb-8b09eb6b1a09",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/097ce0e9-17f9-47d6-82cb-8b09eb6b1a09?resourceVersion=id%3A2287"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/097ce0e9-17f9-47d6-82cb-8b09eb6b1a09?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 27946,
+    "drupal_internal__vid": 2287,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Das Hermann Bahr-Buch",
+    "created": "2010-07-19T14:39:46+00:00",
+    "changed": "2012-10-16T14:32:38+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/27946",
+      "pid": 121,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Anlässlich seines 50. Geburtstages am 19. Juli 1913 stellt der Fischer-Verlag ohne Bahrs Mithilfe eine Werkkompilation der kritischen Schriften zusammen, die sich großteils aus Büchern speist, aber auch Texte aus der \"Freien Bühne\" enthält. Fertiggestellt ist es bereits Ende Juni, am 29. blättert Schnitzler es durch.",
+      "format": "full_html",
+      "processed": "Anlässlich seines 50. Geburtstages am 19. Juli 1913 stellt der Fischer-Verlag ohne Bahrs Mithilfe eine Werkkompilation der kritischen Schriften zusammen, die sich großteils aus Büchern speist, aber auch Texte aus der \"Freien Bühne\" enthält. Fertiggestellt ist es bereits Ende Juni, am 29. blättert Schnitzler es durch.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1913-06-29",
+      "end_value": "1913-06-29"
+    },
+    "field_sources": [
+      "Hermann Bahr: Das Hermann-Bahr-Buch. Mit 21 Abb. zum 19. Juli 1913 (50. Geburtstag). Berlin: S. Fischer, 1913.",
+      "Schnitzler: Tagebücher, V, 47."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/097ce0e9-17f9-47d6-82cb-8b09eb6b1a09/node_type?resourceVersion=id%3A2287"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/097ce0e9-17f9-47d6-82cb-8b09eb6b1a09/relationships/node_type?resourceVersion=id%3A2287"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/097ce0e9-17f9-47d6-82cb-8b09eb6b1a09/revision_uid?resourceVersion=id%3A2287"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/097ce0e9-17f9-47d6-82cb-8b09eb6b1a09/relationships/revision_uid?resourceVersion=id%3A2287"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/097ce0e9-17f9-47d6-82cb-8b09eb6b1a09/uid?resourceVersion=id%3A2287"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/097ce0e9-17f9-47d6-82cb-8b09eb6b1a09/relationships/uid?resourceVersion=id%3A2287"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "da42ac4a-f48f-4397-af4d-b66e913825fb",
+          "meta": {
+            "drupal_internal__target_id": 3
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/097ce0e9-17f9-47d6-82cb-8b09eb6b1a09/field_event_type?resourceVersion=id%3A2287"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/097ce0e9-17f9-47d6-82cb-8b09eb6b1a09/relationships/field_event_type?resourceVersion=id%3A2287"
+        }
+      }
+    }
+  }
+}

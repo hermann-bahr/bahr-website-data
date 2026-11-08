@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "47a636c9-f469-46ac-9fdc-e6eaafe94afa",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/47a636c9-f469-46ac-9fdc-e6eaafe94afa?resourceVersion=id%3A2667"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/47a636c9-f469-46ac-9fdc-e6eaafe94afa?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38851,
+    "drupal_internal__vid": 2667,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "O. A. H. Schmitz",
+    "created": "2011-02-15T15:59:30+00:00",
+    "changed": "2013-09-14T11:54:38+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38851",
+      "pid": 595,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 7. Februar 1908 notiert sich O. A. H. Schmitz den Beginn einer, vor allem in den späten Salzburger und dann Münchner Jahren, gelebten Freundschaft: <blockquote>Erkältet. Abends im Café Savoy Hermann Bahr kennen gelernt. Dann öde zusammengesessen mit Ewers, Handl, von Levetzow und ihren Frauen.</blockquote> Drei Tage später trifft er ihn wieder, wieder im Savoy.",
+      "format": "full_html",
+      "processed": "Am 7. Februar 1908 notiert sich O. A. H. Schmitz den Beginn einer, vor allem in den späten Salzburger und dann Münchner Jahren, gelebten Freundschaft: <blockquote>Erkältet. Abends im Café Savoy Hermann Bahr kennen gelernt. Dann öde zusammengesessen mit Ewers, Handl, von Levetzow und ihren Frauen.</blockquote> Drei Tage später trifft er ihn wieder, wieder im Savoy.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1908-02-07",
+      "end_value": "1908-02-07"
+    },
+    "field_sources": [
+      "Oscar A. H. Schmitz: Ein Dandy auf Reisen. Tagebücher. Band 2. Hg. Wolfgang Martynkewicz. Berlin: Aufbau 2007, 115-116."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/47a636c9-f469-46ac-9fdc-e6eaafe94afa/node_type?resourceVersion=id%3A2667"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/47a636c9-f469-46ac-9fdc-e6eaafe94afa/relationships/node_type?resourceVersion=id%3A2667"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/47a636c9-f469-46ac-9fdc-e6eaafe94afa/revision_uid?resourceVersion=id%3A2667"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/47a636c9-f469-46ac-9fdc-e6eaafe94afa/relationships/revision_uid?resourceVersion=id%3A2667"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/47a636c9-f469-46ac-9fdc-e6eaafe94afa/uid?resourceVersion=id%3A2667"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/47a636c9-f469-46ac-9fdc-e6eaafe94afa/relationships/uid?resourceVersion=id%3A2667"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/47a636c9-f469-46ac-9fdc-e6eaafe94afa/field_event_type?resourceVersion=id%3A2667"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/47a636c9-f469-46ac-9fdc-e6eaafe94afa/relationships/field_event_type?resourceVersion=id%3A2667"
+        }
+      }
+    }
+  }
+}

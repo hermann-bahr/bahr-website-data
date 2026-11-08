@@ -1,0 +1,109 @@
+{
+  "type": "node--bibliographie",
+  "id": "689ca3bd-6839-47c5-9e26-552916fd1e38",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/689ca3bd-6839-47c5-9e26-552916fd1e38?resourceVersion=id%3A3895"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/689ca3bd-6839-47c5-9e26-552916fd1e38?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44021,
+    "drupal_internal__vid": 3895,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:44:00+00:00",
+    "status": true,
+    "title": "Theater und Kultur",
+    "created": "2011-07-21T10:00:49+00:00",
+    "changed": "2012-10-08T13:17:00+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/bibliografie/44021",
+      "pid": 919,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<h3 id=\"bib\">Bibliografie</h3>\r\n<table class=\"bibliografie\">\r\n<tr><td>Reihe:</td><td>Theater und Kultur</td></tr>\r\n<tr><td> </td><td>Hg. unter Mitwirkung von Hermann Bahr und Hugo Hofmannsthal von Richard Smekal (später Max Pirker)</td></tr>\r\n<tr><td>Verlag 1:</td><td>Wien: Wiener Literarische Anstalt</td></tr>\r\n<tr><td>Verlag 2 (ab 1922):</td><td>Zürich, Wien, Leipzig: Amalthea</td></tr>\r\n<tr><td>Titel:</td><td><ol>\r\n<li>Bahr, Hermann: Burgtheater. 1920\r\n<li>Hofmannsthal, Hugo: Ferdinand Raimunds Lebensdokumente. 1920\r\n<li>Pirker, Max: Rund um die Zauberflöte. 1920\r\n<li>Rieger, Erwin: Offenbach und seine Wiener Schule 1920\r\n<li>Rieger, Erwin: Phantasie über Don Juan. 1922 (teilw. Titelauflage Amalthea-Verlag)\r\n<li>Wellesz, Egon: Der Beginn des musikalischen Barock und die Anfänge der Oper in Wien. 1922\r\n<li>Trojan, Felix: Das Theater an der Wien. 1923\r\n<li>Kobald, Karl: Wiens theatralische Sendung. 1922\r\n<li>Alker, Ernst: Philipp Hafner. Ein altwiener Komödiendichter. 1923\r\n<li>Ilg, Johannes: Theatergeschichte. 1937\r\n<li>Frey, Dagobert; Kobald, Karl; Herterich, Franz: Das Schönbrunner Schlosstheater. 1924\r\n</ol></td>\r\n</table>\r\n\r\n<h3 id=\"rezens\">Rezensionen</h3>\r\n<p>-</p>\r\n\r\n<h3 id=\"digit\">Digitalisate</h3>\r\n\r\n<a href=\"/bahr/node/39095\">Burgtheater</a>",
+      "format": "full_html",
+      "processed": "<h3 id=\"bib\">Bibliografie</h3>\n<table class=\"bibliografie\">\n<tr><td>Reihe:</td><td>Theater und Kultur</td></tr>\n<tr><td> </td><td>Hg. unter Mitwirkung von Hermann Bahr und Hugo Hofmannsthal von Richard Smekal (später Max Pirker)</td></tr>\n<tr><td>Verlag 1:</td><td>Wien: Wiener Literarische Anstalt</td></tr>\n<tr><td>Verlag 2 (ab 1922):</td><td>Zürich, Wien, Leipzig: Amalthea</td></tr>\n<tr><td>Titel:</td><td><ol>\n<li>Bahr, Hermann: Burgtheater. 1920\n</li><li>Hofmannsthal, Hugo: Ferdinand Raimunds Lebensdokumente. 1920\n</li><li>Pirker, Max: Rund um die Zauberflöte. 1920\n</li><li>Rieger, Erwin: Offenbach und seine Wiener Schule 1920\n</li><li>Rieger, Erwin: Phantasie über Don Juan. 1922 (teilw. Titelauflage Amalthea-Verlag)\n</li><li>Wellesz, Egon: Der Beginn des musikalischen Barock und die Anfänge der Oper in Wien. 1922\n</li><li>Trojan, Felix: Das Theater an der Wien. 1923\n</li><li>Kobald, Karl: Wiens theatralische Sendung. 1922\n</li><li>Alker, Ernst: Philipp Hafner. Ein altwiener Komödiendichter. 1923\n</li><li>Ilg, Johannes: Theatergeschichte. 1937\n</li><li>Frey, Dagobert; Kobald, Karl; Herterich, Franz: Das Schönbrunner Schlosstheater. 1924\n</li></ol></td>\n</tr></table>\n\n<h3 id=\"rezens\">Rezensionen</h3>\n<p>-</p>\n\n<h3 id=\"digit\">Digitalisate</h3>\n\n<a href=\"/bahr/node/39095\">Burgtheater</a>",
+      "summary": null
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "c4d97a7b-20a3-4a00-9858-72c5abf35af3",
+        "meta": {
+          "drupal_internal__target_id": "bibliographie"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/689ca3bd-6839-47c5-9e26-552916fd1e38/node_type?resourceVersion=id%3A3895"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/689ca3bd-6839-47c5-9e26-552916fd1e38/relationships/node_type?resourceVersion=id%3A3895"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/689ca3bd-6839-47c5-9e26-552916fd1e38/revision_uid?resourceVersion=id%3A3895"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/689ca3bd-6839-47c5-9e26-552916fd1e38/relationships/revision_uid?resourceVersion=id%3A3895"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/689ca3bd-6839-47c5-9e26-552916fd1e38/uid?resourceVersion=id%3A3895"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/689ca3bd-6839-47c5-9e26-552916fd1e38/relationships/uid?resourceVersion=id%3A3895"
+        }
+      }
+    },
+    "field_bibliographie_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--bibliografie_type",
+          "id": "f502c2d3-6460-4f4b-b186-f71e3ca08950",
+          "meta": {
+            "drupal_internal__target_id": 16
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/689ca3bd-6839-47c5-9e26-552916fd1e38/field_bibliographie_type?resourceVersion=id%3A3895"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/bibliographie/689ca3bd-6839-47c5-9e26-552916fd1e38/relationships/field_bibliographie_type?resourceVersion=id%3A3895"
+        }
+      }
+    }
+  }
+}

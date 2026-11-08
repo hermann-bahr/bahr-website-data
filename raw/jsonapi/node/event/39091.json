@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "114a5d9f-36fb-4169-8a88-d2ec2a051691",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/114a5d9f-36fb-4169-8a88-d2ec2a051691?resourceVersion=id%3A2865"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/114a5d9f-36fb-4169-8a88-d2ec2a051691?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39091,
+    "drupal_internal__vid": 2865,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Georg Trakl",
+    "created": "2011-05-16T12:19:35+00:00",
+    "changed": "2013-03-11T13:39:05+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39091",
+      "pid": 822,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "1917 behauptet Bahr:\r\n<blockquote>Ich hauste noch in Ober-St. Veit, als Buschbeck mir ihn zum erstenmal brachte; zwei von seinen Gedichten gab ich damals dem \"Neuen Wiener Journal\", da wurde sein Namen zum erstenmal gedruckt.</blockquote>\r\nEs müsste also 1909 sein, was auch mit einem Brief Trakls an Buschbeck vom Oktober (?) 1909 übereinstimmt. Im Neuen Wiener Journal erschienen am 17. Oktober 1909 die Gedichte \"Einer Vorübergehenden\", \"Vollendung\" und \"Andacht\". 1913 hat Buschbeck Trakl auch ein Buch aus dem Besitz Bahrs geliehen. Abschriften von Trakls Gedichten finden sich in Bahrs Nachlass.",
+      "format": "full_html",
+      "processed": "1917 behauptet Bahr:\n<blockquote>Ich hauste noch in Ober-St. Veit, als Buschbeck mir ihn zum erstenmal brachte; zwei von seinen Gedichten gab ich damals dem \"Neuen Wiener Journal\", da wurde sein Namen zum erstenmal gedruckt.</blockquote>\nEs müsste also 1909 sein, was auch mit einem Brief Trakls an Buschbeck vom Oktober (?) 1909 übereinstimmt. Im Neuen Wiener Journal erschienen am 17. Oktober 1909 die Gedichte \"Einer Vorübergehenden\", \"Vollendung\" und \"Andacht\". 1913 hat Buschbeck Trakl auch ein Buch aus dem Besitz Bahrs geliehen. Abschriften von Trakls Gedichten finden sich in Bahrs Nachlass.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1909-10-01",
+      "end_value": "1909-10-01"
+    },
+    "field_sources": [
+      "Hermann Bahr: Tagebuch. 26. August. Neues Wiener Journal, 25 (1917) #8577, 5. (16.9.1917) [nicht in der Buchausgabe der \"Tagebücher!]",
+      "Georg Trakl: Dichtungen und Briefe. Hg. Walther Killy und Hans Szklenar. 2. erg. Aufl. Salzburg: Otto Müller 1987, 476 und 755-756. ",
+      "Buschbeck an Ficker, 23. Oktober 1925. In: Ludwig von Ficker: Briefwechsel 1914-1925. Hg. Ignaz Zangerle u.a. Innsbruck: Haymon 1988, 441."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/114a5d9f-36fb-4169-8a88-d2ec2a051691/node_type?resourceVersion=id%3A2865"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/114a5d9f-36fb-4169-8a88-d2ec2a051691/relationships/node_type?resourceVersion=id%3A2865"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/114a5d9f-36fb-4169-8a88-d2ec2a051691/revision_uid?resourceVersion=id%3A2865"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/114a5d9f-36fb-4169-8a88-d2ec2a051691/relationships/revision_uid?resourceVersion=id%3A2865"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/114a5d9f-36fb-4169-8a88-d2ec2a051691/uid?resourceVersion=id%3A2865"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/114a5d9f-36fb-4169-8a88-d2ec2a051691/relationships/uid?resourceVersion=id%3A2865"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/114a5d9f-36fb-4169-8a88-d2ec2a051691/field_event_type?resourceVersion=id%3A2865"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/114a5d9f-36fb-4169-8a88-d2ec2a051691/relationships/field_event_type?resourceVersion=id%3A2865"
+        }
+      }
+    }
+  }
+}

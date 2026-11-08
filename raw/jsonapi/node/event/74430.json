@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "e65f03b6-8b16-4b8b-b4bc-dc9ca0c7e7d1",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/e65f03b6-8b16-4b8b-b4bc-dc9ca0c7e7d1?resourceVersion=id%3A3754"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/e65f03b6-8b16-4b8b-b4bc-dc9ca0c7e7d1?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74430,
+    "drupal_internal__vid": 3754,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Rede",
+    "created": "2012-11-06T13:56:31+00:00",
+    "changed": "2012-11-06T13:57:08+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/74430",
+      "pid": 1804,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am Pressekongress liefert Bahr folgende Wortmeldung:<blockquote>Aks erster Diskussionsredner, den man in dem lärmend-unordentlichen Saal wenigstens gut verstand, sprach Herr Hermann Bahr. Er brachte insofern einen frischerern Ton in die uferlose Grundsteindebatte als er wenigstens einige richtige Dinge darüber sagte, daß ein Preßcongreß sich mit dem Verhältnis des <i>journalistischen Arbeiters zum Unternehmer</i> befassen müsse. Die Setzer wagte er gar den Redakteuren als Muster vorzuführen, die Notwendigkeit der Organisation gegen die Unternehmer zu betonen! Und gegenüber denen, die stets und für jeden Fall den \"feinen Ton\" wünschen, sagte er mit rhetorischem Schwung: \"Wenn ein Journalist eine Lumperei begeht, so erfordert gerade die Würde der Presse, offen zu sagen: 'Der und jener hat sich wie ein Schuft benommen.'\" Die Rede schloß mit einem Hymnus auf Wilhelm Singer. Hätte der Herausgeber des \"Neuen Wiener Tagblatts\" Geschmack, so müßte er sich die Begeisterung seiner Redakteure verbitten.[1]</blockquote>. Bahr schreibt Gerty von Hofmannsthal am 15. September,  dass nur die Arbeiter-Zeitung, die die Todfeindin seines Chefs Wilhelm Singer sei, sich getraut habe, seine Rede abzudrucken.",
+      "format": "full_html",
+      "processed": "Am Pressekongress liefert Bahr folgende Wortmeldung:<blockquote>Aks erster Diskussionsredner, den man in dem lärmend-unordentlichen Saal wenigstens gut verstand, sprach Herr Hermann Bahr. Er brachte insofern einen frischerern Ton in die uferlose Grundsteindebatte als er wenigstens einige richtige Dinge darüber sagte, daß ein Preßcongreß sich mit dem Verhältnis des <i>journalistischen Arbeiters zum Unternehmer</i> befassen müsse. Die Setzer wagte er gar den Redakteuren als Muster vorzuführen, die Notwendigkeit der Organisation gegen die Unternehmer zu betonen! Und gegenüber denen, die stets und für jeden Fall den \"feinen Ton\" wünschen, sagte er mit rhetorischem Schwung: \"Wenn ein Journalist eine Lumperei begeht, so erfordert gerade die Würde der Presse, offen zu sagen: 'Der und jener hat sich wie ein Schuft benommen.'\" Die Rede schloß mit einem Hymnus auf Wilhelm Singer. Hätte der Herausgeber des \"Neuen Wiener Tagblatts\" Geschmack, so müßte er sich die Begeisterung seiner Redakteure verbitten.[1]</blockquote>. Bahr schreibt Gerty von Hofmannsthal am 15. September,  dass nur die Arbeiter-Zeitung, die die Todfeindin seines Chefs Wilhelm Singer sei, sich getraut habe, seine Rede abzudrucken.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1904-09-13",
+      "end_value": "1904-09-13"
+    },
+    "field_sources": [
+      "[1] Der Preßcongreß. Montag-Vormittagssitzung. Arbeiter-Zeitung, 16 (1904) #254, Morgenblatt, 6. (13.9.1904)",
+      "[2] Briefwechsel Bahr/Hofmannsthal. Hg. Elsbeth Dangel-Pelloquin. Göttingen: Wallstein. (In Vorbereitung)",
+      "Zur Rede auch: Tagebuch (Csàky), IV, 294. "
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e65f03b6-8b16-4b8b-b4bc-dc9ca0c7e7d1/node_type?resourceVersion=id%3A3754"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e65f03b6-8b16-4b8b-b4bc-dc9ca0c7e7d1/relationships/node_type?resourceVersion=id%3A3754"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e65f03b6-8b16-4b8b-b4bc-dc9ca0c7e7d1/revision_uid?resourceVersion=id%3A3754"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e65f03b6-8b16-4b8b-b4bc-dc9ca0c7e7d1/relationships/revision_uid?resourceVersion=id%3A3754"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e65f03b6-8b16-4b8b-b4bc-dc9ca0c7e7d1/uid?resourceVersion=id%3A3754"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e65f03b6-8b16-4b8b-b4bc-dc9ca0c7e7d1/relationships/uid?resourceVersion=id%3A3754"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e65f03b6-8b16-4b8b-b4bc-dc9ca0c7e7d1/field_event_type?resourceVersion=id%3A3754"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/e65f03b6-8b16-4b8b-b4bc-dc9ca0c7e7d1/relationships/field_event_type?resourceVersion=id%3A3754"
+        }
+      }
+    }
+  }
+}

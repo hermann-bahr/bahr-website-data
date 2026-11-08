@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "bc39cdba-e660-43f9-8551-0767bb1bd499",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/bc39cdba-e660-43f9-8551-0767bb1bd499?resourceVersion=id%3A2391"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/bc39cdba-e660-43f9-8551-0767bb1bd499?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28063,
+    "drupal_internal__vid": 2391,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Robert",
+    "created": "2010-08-06T10:11:37+00:00",
+    "changed": "2012-12-20T08:58:04+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28063",
+      "pid": 225,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahr begründet im \"Selbstbildnis\" seine Übersiedlung nach Salzburg damit, dass seine Mutter mit einem Kind schwanger ging und Platz benötigt wurde. Robert Bahr ist am 22. Oktober 1878 geboren und stirbt in seinem zehnten Lebensjahr 1887.",
+      "format": "full_html",
+      "processed": "Bahr begründet im \"Selbstbildnis\" seine Übersiedlung nach Salzburg damit, dass seine Mutter mit einem Kind schwanger ging und Platz benötigt wurde. Robert Bahr ist am 22. Oktober 1878 geboren und stirbt in seinem zehnten Lebensjahr 1887.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1878-10-22",
+      "end_value": "1878-10-22"
+    },
+    "field_sources": [
+      "Selbstbildnis, 72",
+      "Todesanzeige im Nachlass, Kiste 98",
+      "Nachlass Kiste 104: Varia Brief der Stadtpfarre an Rudolf Holzer"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bc39cdba-e660-43f9-8551-0767bb1bd499/node_type?resourceVersion=id%3A2391"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bc39cdba-e660-43f9-8551-0767bb1bd499/relationships/node_type?resourceVersion=id%3A2391"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bc39cdba-e660-43f9-8551-0767bb1bd499/revision_uid?resourceVersion=id%3A2391"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bc39cdba-e660-43f9-8551-0767bb1bd499/relationships/revision_uid?resourceVersion=id%3A2391"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bc39cdba-e660-43f9-8551-0767bb1bd499/uid?resourceVersion=id%3A2391"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bc39cdba-e660-43f9-8551-0767bb1bd499/relationships/uid?resourceVersion=id%3A2391"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bc39cdba-e660-43f9-8551-0767bb1bd499/field_event_type?resourceVersion=id%3A2391"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/bc39cdba-e660-43f9-8551-0767bb1bd499/relationships/field_event_type?resourceVersion=id%3A2391"
+        }
+      }
+    }
+  }
+}

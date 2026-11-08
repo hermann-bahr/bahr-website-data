@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "9c7d0dd1-2c9b-4488-9b3f-29a45d39f5a0",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/9c7d0dd1-2c9b-4488-9b3f-29a45d39f5a0?resourceVersion=id%3A2716"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/9c7d0dd1-2c9b-4488-9b3f-29a45d39f5a0?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38930,
+    "drupal_internal__vid": 2716,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Libretto für Strauss",
+    "created": "2011-03-15T10:24:50+00:00",
+    "changed": "2011-12-20T16:11:56+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38930",
+      "pid": 670,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Nach einer Aufwärmrunde im Vorjahr versucht Bahr im Juni/Juli 1917 endlich der Einladung Richard Strauss zu einem Libretto für \"Intermezzo\" zu folgen und es hinzuschreiben. Er gibt aber nach Abfassung eines Entwurfs auf.",
+      "format": "full_html",
+      "processed": "Nach einer Aufwärmrunde im Vorjahr versucht Bahr im Juni/Juli 1917 endlich der Einladung Richard Strauss zu einem Libretto für \"Intermezzo\" zu folgen und es hinzuschreiben. Er gibt aber nach Abfassung eines Entwurfs auf.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1917-06-20",
+      "end_value": "1917-07-25"
+    },
+    "field_sources": [
+      "Der Strom der Töne trug mich fort. Die Welt um Richard Strauss in Briefen. In Zusammenarbeit mit Franz und Alice Strauss herausgegeben von Franz Grasberger. Tutzing: Hans Schneider 1967, Briefe #228, #230, #231, #232.",
+      "Hermann Bahr: Meister und Meisterbriefe um Hermann Bahr. Aus seinen Entwürfen, Tagebüchern und seinem Briefwechsel. Ausgewählt und eingeleitet von Joseph Gregor. Wien: Hermann Bauer 1947, 101-105."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9c7d0dd1-2c9b-4488-9b3f-29a45d39f5a0/node_type?resourceVersion=id%3A2716"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9c7d0dd1-2c9b-4488-9b3f-29a45d39f5a0/relationships/node_type?resourceVersion=id%3A2716"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9c7d0dd1-2c9b-4488-9b3f-29a45d39f5a0/revision_uid?resourceVersion=id%3A2716"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9c7d0dd1-2c9b-4488-9b3f-29a45d39f5a0/relationships/revision_uid?resourceVersion=id%3A2716"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9c7d0dd1-2c9b-4488-9b3f-29a45d39f5a0/uid?resourceVersion=id%3A2716"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9c7d0dd1-2c9b-4488-9b3f-29a45d39f5a0/relationships/uid?resourceVersion=id%3A2716"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9c7d0dd1-2c9b-4488-9b3f-29a45d39f5a0/field_event_type?resourceVersion=id%3A2716"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9c7d0dd1-2c9b-4488-9b3f-29a45d39f5a0/relationships/field_event_type?resourceVersion=id%3A2716"
+        }
+      }
+    }
+  }
+}

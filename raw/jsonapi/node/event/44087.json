@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "86c9f0ed-5ee5-422c-80d0-8ad926b7b26d",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/86c9f0ed-5ee5-422c-80d0-8ad926b7b26d?resourceVersion=id%3A3004"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/86c9f0ed-5ee5-422c-80d0-8ad926b7b26d?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44087,
+    "drupal_internal__vid": 3004,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Vertrag für Mildenburg",
+    "created": "2011-09-08T10:13:59+00:00",
+    "changed": "2011-09-15T09:10:13+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44087",
+      "pid": 982,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 24. August 1907 wird der neue Vertrag von Anna Mildenburg, der sie für sechs Jahre an die Wiener Hofoper verpflichtet, unterfertigt. Bahr hatte ihn ausgehandelt.",
+      "format": "full_html",
+      "processed": "Am 24. August 1907 wird der neue Vertrag von Anna Mildenburg, der sie für sechs Jahre an die Wiener Hofoper verpflichtet, unterfertigt. Bahr hatte ihn ausgehandelt.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1907-08-24",
+      "end_value": "1907-08-24"
+    },
+    "field_sources": [
+      "Gabriele Parizek: Anna Bahr-Mildenburg [Dissertation], 47.",
+      "Tagebücher (Csàky), IV, 406-408."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/86c9f0ed-5ee5-422c-80d0-8ad926b7b26d/node_type?resourceVersion=id%3A3004"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/86c9f0ed-5ee5-422c-80d0-8ad926b7b26d/relationships/node_type?resourceVersion=id%3A3004"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/86c9f0ed-5ee5-422c-80d0-8ad926b7b26d/revision_uid?resourceVersion=id%3A3004"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/86c9f0ed-5ee5-422c-80d0-8ad926b7b26d/relationships/revision_uid?resourceVersion=id%3A3004"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/86c9f0ed-5ee5-422c-80d0-8ad926b7b26d/uid?resourceVersion=id%3A3004"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/86c9f0ed-5ee5-422c-80d0-8ad926b7b26d/relationships/uid?resourceVersion=id%3A3004"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/86c9f0ed-5ee5-422c-80d0-8ad926b7b26d/field_event_type?resourceVersion=id%3A3004"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/86c9f0ed-5ee5-422c-80d0-8ad926b7b26d/relationships/field_event_type?resourceVersion=id%3A3004"
+        }
+      }
+    }
+  }
+}

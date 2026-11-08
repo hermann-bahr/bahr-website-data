@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "d21503f0-926e-4365-9d6a-718c1530b86f",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/d21503f0-926e-4365-9d6a-718c1530b86f?resourceVersion=id%3A2795"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/d21503f0-926e-4365-9d6a-718c1530b86f?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39014,
+    "drupal_internal__vid": 2795,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "De Keysers Royal Hotel",
+    "created": "2011-03-24T13:41:47+00:00",
+    "changed": "2011-07-13T13:06:28+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39014",
+      "pid": 750,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Im Nachlass ist die Hotelrechnung samt Konsumation erhalten: Bahr war mit Anna Bahr-Mildenburg vom 11. bis zum 17. März im De Keysers Royal Hotel und bezahlte 28.51 Pfund.\r\n",
+      "format": "full_html",
+      "processed": "Im Nachlass ist die Hotelrechnung samt Konsumation erhalten: Bahr war mit Anna Bahr-Mildenburg vom 11. bis zum 17. März im De Keysers Royal Hotel und bezahlte 28.51 Pfund.\n",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1910-03-11",
+      "end_value": "1910-03-17"
+    },
+    "field_sources": [
+      "Nachlass: A 33647 BaMM, Kiste 80"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d21503f0-926e-4365-9d6a-718c1530b86f/node_type?resourceVersion=id%3A2795"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d21503f0-926e-4365-9d6a-718c1530b86f/relationships/node_type?resourceVersion=id%3A2795"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d21503f0-926e-4365-9d6a-718c1530b86f/revision_uid?resourceVersion=id%3A2795"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d21503f0-926e-4365-9d6a-718c1530b86f/relationships/revision_uid?resourceVersion=id%3A2795"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d21503f0-926e-4365-9d6a-718c1530b86f/uid?resourceVersion=id%3A2795"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d21503f0-926e-4365-9d6a-718c1530b86f/relationships/uid?resourceVersion=id%3A2795"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d21503f0-926e-4365-9d6a-718c1530b86f/field_event_type?resourceVersion=id%3A2795"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d21503f0-926e-4365-9d6a-718c1530b86f/relationships/field_event_type?resourceVersion=id%3A2795"
+        }
+      }
+    }
+  }
+}

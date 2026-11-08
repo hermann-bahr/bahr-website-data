@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "9f17e38d-4a94-4a33-878f-4379090a348a",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/9f17e38d-4a94-4a33-878f-4379090a348a?resourceVersion=id%3A3148"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/9f17e38d-4a94-4a33-878f-4379090a348a?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44234,
+    "drupal_internal__vid": 3148,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Beginn Autobiographie",
+    "created": "2011-10-03T09:33:18+00:00",
+    "changed": "2011-10-03T09:36:53+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44234",
+      "pid": 1127,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Gegenüber Kvapil erwähnt Bahr am 29. September 1919, dass er für den Winter den Plan gefasst habe, seine Lebenserinnerungen abzufassen. Diese beginnen gut ein Jahr später erstmals im \"Neuen Reich\" zu erscheinen, im Frühjahr 1923 sind sie fertig gestellt und erscheinen passend zu Bahrs 60. Geburtstag im selben Jahr.",
+      "format": "full_html",
+      "processed": "Gegenüber Kvapil erwähnt Bahr am 29. September 1919, dass er für den Winter den Plan gefasst habe, seine Lebenserinnerungen abzufassen. Diese beginnen gut ein Jahr später erstmals im \"Neuen Reich\" zu erscheinen, im Frühjahr 1923 sind sie fertig gestellt und erscheinen passend zu Bahrs 60. Geburtstag im selben Jahr.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1919-09-29",
+      "end_value": "1919-09-29"
+    },
+    "field_sources": [
+      "Bahr/Kvapil, 232 und 235.",
+      "Hermann Bahr: Erinnerungen. I. Das Neue Reich. Wochenschrift für Kultur, Politik und Volkswirtschaft, 3 (1920) #1, 12-13. (3.10.1920)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9f17e38d-4a94-4a33-878f-4379090a348a/node_type?resourceVersion=id%3A3148"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9f17e38d-4a94-4a33-878f-4379090a348a/relationships/node_type?resourceVersion=id%3A3148"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9f17e38d-4a94-4a33-878f-4379090a348a/revision_uid?resourceVersion=id%3A3148"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9f17e38d-4a94-4a33-878f-4379090a348a/relationships/revision_uid?resourceVersion=id%3A3148"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9f17e38d-4a94-4a33-878f-4379090a348a/uid?resourceVersion=id%3A3148"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9f17e38d-4a94-4a33-878f-4379090a348a/relationships/uid?resourceVersion=id%3A3148"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9f17e38d-4a94-4a33-878f-4379090a348a/field_event_type?resourceVersion=id%3A3148"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9f17e38d-4a94-4a33-878f-4379090a348a/relationships/field_event_type?resourceVersion=id%3A3148"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "902c22a9-2423-49c4-b9e3-fbc9698d1514",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/902c22a9-2423-49c4-b9e3-fbc9698d1514?resourceVersion=id%3A2395"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/902c22a9-2423-49c4-b9e3-fbc9698d1514?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28068,
+    "drupal_internal__vid": 2395,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Wienerinnen",
+    "created": "2010-08-09T09:00:38+00:00",
+    "changed": "2012-10-23T11:06:23+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28068",
+      "pid": 229,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 3. Oktober 1900 hat das Lustspiel \"Wienerinnen\" Uraufführung am Deutschen Volkstheater, Wien. Neben einer bei Ahn und Simrock verlegten Manuskriptausgabe (vermutlich 1900) erscheint bei Albert Ahn 1911 ein Druck für den Buchhandel.",
+      "format": "full_html",
+      "processed": "Am 3. Oktober 1900 hat das Lustspiel \"Wienerinnen\" Uraufführung am Deutschen Volkstheater, Wien. Neben einer bei Ahn und Simrock verlegten Manuskriptausgabe (vermutlich 1900) erscheint bei Albert Ahn 1911 ein Druck für den Buchhandel.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1900-10-03",
+      "end_value": "1900-10-03"
+    },
+    "field_sources": [
+      "Hermann Bahr: Wienerinnen. Lustspiel in drei Akten. Berlin: Ahn und Simrock, 1900.\r\n",
+      "Hermann Bahr: Wienerinnen. Lustspiel in drei Akten. Bonn: Albert Ahn, 1911.\r\n"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/902c22a9-2423-49c4-b9e3-fbc9698d1514/node_type?resourceVersion=id%3A2395"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/902c22a9-2423-49c4-b9e3-fbc9698d1514/relationships/node_type?resourceVersion=id%3A2395"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/902c22a9-2423-49c4-b9e3-fbc9698d1514/revision_uid?resourceVersion=id%3A2395"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/902c22a9-2423-49c4-b9e3-fbc9698d1514/relationships/revision_uid?resourceVersion=id%3A2395"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/902c22a9-2423-49c4-b9e3-fbc9698d1514/uid?resourceVersion=id%3A2395"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/902c22a9-2423-49c4-b9e3-fbc9698d1514/relationships/uid?resourceVersion=id%3A2395"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "27f3d2a4-8970-4726-9ab8-ce37707ec1bc",
+          "meta": {
+            "drupal_internal__target_id": 1
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/902c22a9-2423-49c4-b9e3-fbc9698d1514/field_event_type?resourceVersion=id%3A2395"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/902c22a9-2423-49c4-b9e3-fbc9698d1514/relationships/field_event_type?resourceVersion=id%3A2395"
+        }
+      }
+    }
+  }
+}

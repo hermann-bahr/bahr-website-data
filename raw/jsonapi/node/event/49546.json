@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "5a622f55-0a63-4484-8691-513b6bf24364",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/5a622f55-0a63-4484-8691-513b6bf24364?resourceVersion=id%3A3379"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/5a622f55-0a63-4484-8691-513b6bf24364?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49546,
+    "drupal_internal__vid": 3379,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Katzenberg, Salzburg",
+    "created": "2011-10-28T14:01:31+00:00",
+    "changed": "2011-12-19T13:48:09+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49546",
+      "pid": 1363,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Ob er im Sommer 1924 im Anschluss an den Sommeraufenthalt am Attersee noch wie geplant, zwei, drei Tage zu Thienen-Adlerflychts auf Schloss Katzenberg fuhr, ist offen. Geplant wäre das rund um den 20.-23. September. Am 25. September notiert Stefan Zweig in Salzburg:<blockquote>Hermann Bahr ist hier, momentan äußerst Stolz, daß ihm gestern ein sechsstündiger Marsch ohne Beschwerden gelungen ist.</blockquote>Bahr kann Redlich am 7. Oktober mitteilen, dass er seit 10 Tagen zuhause sei.",
+      "format": "full_html",
+      "processed": "Ob er im Sommer 1924 im Anschluss an den Sommeraufenthalt am Attersee noch wie geplant, zwei, drei Tage zu Thienen-Adlerflychts auf Schloss Katzenberg fuhr, ist offen. Geplant wäre das rund um den 20.-23. September. Am 25. September notiert Stefan Zweig in Salzburg:<blockquote>Hermann Bahr ist hier, momentan äußerst Stolz, daß ihm gestern ein sechsstündiger Marsch ohne Beschwerden gelungen ist.</blockquote>Bahr kann Redlich am 7. Oktober mitteilen, dass er seit 10 Tagen zuhause sei.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1924-09-20",
+      "end_value": "1924-09-27"
+    },
+    "field_sources": [
+      "Bahr/Redlich, 529-534.",
+      "Stefan Zweig: Briefe. 1920-1931. Hgg. Knut Beck und Jeffrey B. Berlin. Berlin: S. Fischer 2000, 123. (An Buschbeck)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5a622f55-0a63-4484-8691-513b6bf24364/node_type?resourceVersion=id%3A3379"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5a622f55-0a63-4484-8691-513b6bf24364/relationships/node_type?resourceVersion=id%3A3379"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5a622f55-0a63-4484-8691-513b6bf24364/revision_uid?resourceVersion=id%3A3379"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5a622f55-0a63-4484-8691-513b6bf24364/relationships/revision_uid?resourceVersion=id%3A3379"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5a622f55-0a63-4484-8691-513b6bf24364/uid?resourceVersion=id%3A3379"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5a622f55-0a63-4484-8691-513b6bf24364/relationships/uid?resourceVersion=id%3A3379"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5a622f55-0a63-4484-8691-513b6bf24364/field_event_type?resourceVersion=id%3A3379"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/5a622f55-0a63-4484-8691-513b6bf24364/relationships/field_event_type?resourceVersion=id%3A3379"
+        }
+      }
+    }
+  }
+}

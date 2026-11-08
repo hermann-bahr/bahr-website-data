@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bilder__1908-beruccio-malt-bahr" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">1908 Beruccio malt Bahr</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">28254</idno>
+        <idno type="drupal-alias">/bild/28254</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bild/28254">https://bahr.univie.ac.at/bild/28254</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="main-menu">
+          <term n="7" key="bilder">Bilder</term>
+          <term n="20" key="1908-beruccio-malt-bahr" type="eintrag">1908 Beruccio malt Bahr</term>
+        </keywords>
+        <classCode scheme="drupal-type">image</classCode>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2010-11-13T18:09:12+00:00" type="created">angelegt in Drupal</change>
+      <change when="2010-11-18T21:50:23+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <figure>
+          <graphic url="files/bahr_bilder/1908_lido.jpg"/>
+          <figDesc>1908 Beruccio malt Bahr</figDesc>
+        </figure>
+        <p><hi rend="bold">Bilder aus aller Welt.</hi><lb/>Ein eigenartiges Bild aus dem Leben am Lido in Venedig hat der Photograph auf die Platte gebannt. Man sieht, wie da ein Künstler in dem denkbar leichtesten Badekostüm seinen Beruf ausübt: Der italienische Maler Beruccio malt den Wiener Schriftsteller Hermann Bahr, der im langen Bademantel vor ihm steht.</p>
+        <p>
+          <hi rend="italic">Aus: Die Woche, 1908, #35, S. 1538.</hi>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "1e2c47a2-10f1-4e68-a5ad-3b70eea0d60b",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/1e2c47a2-10f1-4e68-a5ad-3b70eea0d60b?resourceVersion=id%3A3477"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/1e2c47a2-10f1-4e68-a5ad-3b70eea0d60b?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49696,
+    "drupal_internal__vid": 3477,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Hohenlohe-Schillingsfürst",
+    "created": "2011-11-28T20:51:02+00:00",
+    "changed": "2011-11-30T16:30:02+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49696",
+      "pid": 1510,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Zu Beginn seiner Reise nach Dalmatien, am 14. oder 15. Februar 1909, trifft Bahr nach eigener Aussage den \"Roten Prinz\" Konrad zu Hohenlohe-Schillingsfürst in der Triester Straßenbahn und rät dem ehemaligen Ministerpräsident und nunmehrigen Statthalter des österreichischen Küstenlandes, Hotels auf den Hängen um Triest zu bauen. ",
+      "format": "full_html",
+      "processed": "Zu Beginn seiner Reise nach Dalmatien, am 14. oder 15. Februar 1909, trifft Bahr nach eigener Aussage den \"Roten Prinz\" Konrad zu Hohenlohe-Schillingsfürst in der Triester Straßenbahn und rät dem ehemaligen Ministerpräsident und nunmehrigen Statthalter des österreichischen Küstenlandes, Hotels auf den Hängen um Triest zu bauen. ",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1909-02-14",
+      "end_value": "1909-02-14"
+    },
+    "field_sources": [
+      "Dalmatinische Reise (1909), 16ff.",
+      "1919. Tagebuch, 23-26."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1e2c47a2-10f1-4e68-a5ad-3b70eea0d60b/node_type?resourceVersion=id%3A3477"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1e2c47a2-10f1-4e68-a5ad-3b70eea0d60b/relationships/node_type?resourceVersion=id%3A3477"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1e2c47a2-10f1-4e68-a5ad-3b70eea0d60b/revision_uid?resourceVersion=id%3A3477"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1e2c47a2-10f1-4e68-a5ad-3b70eea0d60b/relationships/revision_uid?resourceVersion=id%3A3477"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1e2c47a2-10f1-4e68-a5ad-3b70eea0d60b/uid?resourceVersion=id%3A3477"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1e2c47a2-10f1-4e68-a5ad-3b70eea0d60b/relationships/uid?resourceVersion=id%3A3477"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1e2c47a2-10f1-4e68-a5ad-3b70eea0d60b/field_event_type?resourceVersion=id%3A3477"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1e2c47a2-10f1-4e68-a5ad-3b70eea0d60b/relationships/field_event_type?resourceVersion=id%3A3477"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "0689df34-0b5e-425a-9540-adc1041e4551",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/0689df34-0b5e-425a-9540-adc1041e4551?resourceVersion=id%3A2585"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/0689df34-0b5e-425a-9540-adc1041e4551?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38764,
+    "drupal_internal__vid": 2585,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Waffenübung, Eger",
+    "created": "2011-01-25T22:43:07+00:00",
+    "changed": "2011-11-17T13:15:49+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38764",
+      "pid": 512,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Bahrs ständige Bemühungen, die verpflichtenden Waffenübungen zu verschieben oder ihnen bestenfalls zu entkommen, führen dazu, dass er von Berlin aus nicht nach Linz, sondern nach Eger (heute Cheb/Tschechische Republik) fahren kann, wo er von 8. bis zum 21. Juni Dienst tut. Im Selbstbildnis nennt er es<blockquote>die lustigste [… Waffenübung jene] in Eger, wo Karl Iro, nachmals ein berühmter deutschradikaler Abgeordneter, mein Feldwebel war.</blockquote>Am 23. ist er zurück in Berlin.",
+      "format": "full_html",
+      "processed": "Bahrs ständige Bemühungen, die verpflichtenden Waffenübungen zu verschieben oder ihnen bestenfalls zu entkommen, führen dazu, dass er von Berlin aus nicht nach Linz, sondern nach Eger (heute Cheb/Tschechische Republik) fahren kann, wo er von 8. bis zum 21. Juni Dienst tut. Im Selbstbildnis nennt er es<blockquote>die lustigste [… Waffenübung jene] in Eger, wo Karl Iro, nachmals ein berühmter deutschradikaler Abgeordneter, mein Feldwebel war.</blockquote>Am 23. ist er zurück in Berlin.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1890-06-08",
+      "end_value": "1890-06-23"
+    },
+    "field_sources": [
+      "Briefe an den Vater",
+      "Selbstbildnis, 209"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0689df34-0b5e-425a-9540-adc1041e4551/node_type?resourceVersion=id%3A2585"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0689df34-0b5e-425a-9540-adc1041e4551/relationships/node_type?resourceVersion=id%3A2585"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0689df34-0b5e-425a-9540-adc1041e4551/revision_uid?resourceVersion=id%3A2585"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0689df34-0b5e-425a-9540-adc1041e4551/relationships/revision_uid?resourceVersion=id%3A2585"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0689df34-0b5e-425a-9540-adc1041e4551/uid?resourceVersion=id%3A2585"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0689df34-0b5e-425a-9540-adc1041e4551/relationships/uid?resourceVersion=id%3A2585"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0689df34-0b5e-425a-9540-adc1041e4551/field_event_type?resourceVersion=id%3A2585"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0689df34-0b5e-425a-9540-adc1041e4551/relationships/field_event_type?resourceVersion=id%3A2585"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "fbe0d1ad-5000-4d9e-a4eb-80ab90bb27d8",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/fbe0d1ad-5000-4d9e-a4eb-80ab90bb27d8?resourceVersion=id%3A3019"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/fbe0d1ad-5000-4d9e-a4eb-80ab90bb27d8?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44103,
+    "drupal_internal__vid": 3019,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Schauspielschule, Festspiele",
+    "created": "2011-09-13T15:41:01+00:00",
+    "changed": "2011-11-07T13:18:02+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44103",
+      "pid": 998,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Von einem Engagement als Oberregisseur am Hoftheater in München verspricht Bahr sich die Umsetzung alter Wünsche: Eine Schauspielschule und Münchner Sommerfestspiele - \"Hans Sachs, Goethe und die Moderne.\"",
+      "format": "full_html",
+      "processed": "Von einem Engagement als Oberregisseur am Hoftheater in München verspricht Bahr sich die Umsetzung alter Wünsche: Eine Schauspielschule und Münchner Sommerfestspiele - \"Hans Sachs, Goethe und die Moderne.\"",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1905-11-10",
+      "end_value": "1905-11-10"
+    },
+    "field_sources": [
+      "Brief an Speidel, 10.11.1905, abgedruckt in: Tagebücher (Csàky), IV, XV und 434-437."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fbe0d1ad-5000-4d9e-a4eb-80ab90bb27d8/node_type?resourceVersion=id%3A3019"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fbe0d1ad-5000-4d9e-a4eb-80ab90bb27d8/relationships/node_type?resourceVersion=id%3A3019"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fbe0d1ad-5000-4d9e-a4eb-80ab90bb27d8/revision_uid?resourceVersion=id%3A3019"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fbe0d1ad-5000-4d9e-a4eb-80ab90bb27d8/relationships/revision_uid?resourceVersion=id%3A3019"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fbe0d1ad-5000-4d9e-a4eb-80ab90bb27d8/uid?resourceVersion=id%3A3019"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fbe0d1ad-5000-4d9e-a4eb-80ab90bb27d8/relationships/uid?resourceVersion=id%3A3019"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fbe0d1ad-5000-4d9e-a4eb-80ab90bb27d8/field_event_type?resourceVersion=id%3A3019"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/fbe0d1ad-5000-4d9e-a4eb-80ab90bb27d8/relationships/field_event_type?resourceVersion=id%3A3019"
+        }
+      }
+    }
+  }
+}

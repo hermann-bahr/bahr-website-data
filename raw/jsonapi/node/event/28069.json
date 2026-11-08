@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "f36fecb0-1db9-4aa2-a7be-1ddb270b24cb",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f36fecb0-1db9-4aa2-a7be-1ddb270b24cb?resourceVersion=id%3A2396"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/f36fecb0-1db9-4aa2-a7be-1ddb270b24cb?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28069,
+    "drupal_internal__vid": 2396,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Der Krampus",
+    "created": "2010-08-09T09:01:53+00:00",
+    "changed": "2012-03-21T16:01:31+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28069",
+      "pid": 230,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Das nächste Lustspiel Bahrs, Der Krampus, hat am 23. November 1901 am Linzer Landestheater Première. Sie findet in Anwesenheit von Bahr, Burckhard und Bukovics vor ausverkauftem Haus statt. Die Reaktionen sind gemischt, wenngleich für den Berichterstatter der Österreichischen Volks-Zeitung letztlich die Zustimmung überwiegt.\r\n\r\nAngesiedelt im Wien Maria Theresias handelt das Stück von einem jungen Liebespaar, dem die Zustimmung zur Ehe durch den mächtigen Onkel des Mädchens, Hofrat Anastasius von Negrelli, fehlt. Dieser will das Mädchen mit dem eigentlich zur Überbringung der Botschaft abgesandten Sekretär verloben, der widerspricht nicht, was bis zu einem klärenden Gespräch im letzten Akt für Verwirrung sorgt.\r\n\r\nDie Buchausgabe verlegt Albert Langen in München, 1902.",
+      "format": "full_html",
+      "processed": "Das nächste Lustspiel Bahrs, Der Krampus, hat am 23. November 1901 am Linzer Landestheater Première. Sie findet in Anwesenheit von Bahr, Burckhard und Bukovics vor ausverkauftem Haus statt. Die Reaktionen sind gemischt, wenngleich für den Berichterstatter der Österreichischen Volks-Zeitung letztlich die Zustimmung überwiegt.\n\nAngesiedelt im Wien Maria Theresias handelt das Stück von einem jungen Liebespaar, dem die Zustimmung zur Ehe durch den mächtigen Onkel des Mädchens, Hofrat Anastasius von Negrelli, fehlt. Dieser will das Mädchen mit dem eigentlich zur Überbringung der Botschaft abgesandten Sekretär verloben, der widerspricht nicht, was bis zu einem klärenden Gespräch im letzten Akt für Verwirrung sorgt.\n\nDie Buchausgabe verlegt Albert Langen in München, 1902.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1901-11-23",
+      "end_value": "1901-11-23"
+    },
+    "field_sources": [
+      "Ö.V.Z., 47 (1901) #323, 5. (24.11.1901)",
+      "Hermann Bahr: Der Krampus. Lustspiel in drei Aufzügen. München: Albert Langen, 1902."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f36fecb0-1db9-4aa2-a7be-1ddb270b24cb/node_type?resourceVersion=id%3A2396"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f36fecb0-1db9-4aa2-a7be-1ddb270b24cb/relationships/node_type?resourceVersion=id%3A2396"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f36fecb0-1db9-4aa2-a7be-1ddb270b24cb/revision_uid?resourceVersion=id%3A2396"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f36fecb0-1db9-4aa2-a7be-1ddb270b24cb/relationships/revision_uid?resourceVersion=id%3A2396"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f36fecb0-1db9-4aa2-a7be-1ddb270b24cb/uid?resourceVersion=id%3A2396"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f36fecb0-1db9-4aa2-a7be-1ddb270b24cb/relationships/uid?resourceVersion=id%3A2396"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "27f3d2a4-8970-4726-9ab8-ce37707ec1bc",
+          "meta": {
+            "drupal_internal__target_id": 1
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f36fecb0-1db9-4aa2-a7be-1ddb270b24cb/field_event_type?resourceVersion=id%3A2396"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/f36fecb0-1db9-4aa2-a7be-1ddb270b24cb/relationships/field_event_type?resourceVersion=id%3A2396"
+        }
+      }
+    }
+  }
+}

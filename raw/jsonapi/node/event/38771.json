@@ -1,0 +1,114 @@
+{
+  "type": "node--event",
+  "id": "d3a8bba6-8e15-4722-aad9-a31799dd8b31",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/d3a8bba6-8e15-4722-aad9-a31799dd8b31?resourceVersion=id%3A2592"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/d3a8bba6-8e15-4722-aad9-a31799dd8b31?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38771,
+    "drupal_internal__vid": 2592,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Himmelpfortgasse 11",
+    "created": "2011-01-28T15:25:20+00:00",
+    "changed": "2011-01-28T15:25:20+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38771",
+      "pid": 519,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Nach dem kurzen Aufenthalt am Franziskanerplatz ist Bahr am 11. Mai 1891 in die Himmelpfortgasse 11 übersiedelt, wieder im 1. Wiener Gemeindebezirk.",
+      "format": "full_html",
+      "processed": "Nach dem kurzen Aufenthalt am Franziskanerplatz ist Bahr am 11. Mai 1891 in die Himmelpfortgasse 11 übersiedelt, wieder im 1. Wiener Gemeindebezirk.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1891-05-11",
+      "end_value": "1891-05-11"
+    },
+    "field_sources": []
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d3a8bba6-8e15-4722-aad9-a31799dd8b31/node_type?resourceVersion=id%3A2592"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d3a8bba6-8e15-4722-aad9-a31799dd8b31/relationships/node_type?resourceVersion=id%3A2592"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d3a8bba6-8e15-4722-aad9-a31799dd8b31/revision_uid?resourceVersion=id%3A2592"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d3a8bba6-8e15-4722-aad9-a31799dd8b31/relationships/revision_uid?resourceVersion=id%3A2592"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d3a8bba6-8e15-4722-aad9-a31799dd8b31/uid?resourceVersion=id%3A2592"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d3a8bba6-8e15-4722-aad9-a31799dd8b31/relationships/uid?resourceVersion=id%3A2592"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d3a8bba6-8e15-4722-aad9-a31799dd8b31/field_event_type?resourceVersion=id%3A2592"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d3a8bba6-8e15-4722-aad9-a31799dd8b31/relationships/field_event_type?resourceVersion=id%3A2592"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "type": "node--event",
+  "id": "a9ac042d-64f4-4170-96ef-00470184174d",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/a9ac042d-64f4-4170-96ef-00470184174d?resourceVersion=id%3A2429"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/a9ac042d-64f4-4170-96ef-00470184174d?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28106,
+    "drupal_internal__vid": 2429,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Südbahnhotel",
+    "created": "2010-08-11T19:54:32+00:00",
+    "changed": "2010-08-11T19:54:56+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28106",
+      "pid": 264,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 27.4.1907 reist Bahr vom Südbahnhotel am Semmering nach Triest.",
+      "format": "full_html",
+      "processed": "Am 27.4.1907 reist Bahr vom Südbahnhotel am Semmering nach Triest.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1907-04-27",
+      "end_value": "1907-04-27"
+    },
+    "field_sources": []
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a9ac042d-64f4-4170-96ef-00470184174d/node_type?resourceVersion=id%3A2429"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a9ac042d-64f4-4170-96ef-00470184174d/relationships/node_type?resourceVersion=id%3A2429"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a9ac042d-64f4-4170-96ef-00470184174d/revision_uid?resourceVersion=id%3A2429"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a9ac042d-64f4-4170-96ef-00470184174d/relationships/revision_uid?resourceVersion=id%3A2429"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a9ac042d-64f4-4170-96ef-00470184174d/uid?resourceVersion=id%3A2429"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a9ac042d-64f4-4170-96ef-00470184174d/relationships/uid?resourceVersion=id%3A2429"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a9ac042d-64f4-4170-96ef-00470184174d/field_event_type?resourceVersion=id%3A2429"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a9ac042d-64f4-4170-96ef-00470184174d/relationships/field_event_type?resourceVersion=id%3A2429"
+        }
+      }
+    }
+  }
+}

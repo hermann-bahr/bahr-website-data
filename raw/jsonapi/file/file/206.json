@@ -1,0 +1,36 @@
+{
+  "type": "file--file",
+  "id": "2a101efb-902d-43b1-8000-0c73b13e6831",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/file/file/2a101efb-902d-43b1-8000-0c73b13e6831"
+    }
+  },
+  "attributes": {
+    "drupal_internal__fid": 206,
+    "langcode": "de",
+    "filename": "1899_sitzend.jpg",
+    "uri": {
+      "value": "public://bahr_bilder/1899_sitzend.jpg",
+      "url": "/sites/default/files/bahr_bilder/1899_sitzend.jpg"
+    },
+    "filemime": "image/jpeg",
+    "filesize": 221818,
+    "status": true,
+    "created": "2020-02-18T15:00:35+00:00",
+    "changed": "2020-02-18T15:11:43+00:00"
+  },
+  "relationships": {
+    "uid": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/file/file/2a101efb-902d-43b1-8000-0c73b13e6831/uid"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/file/file/2a101efb-902d-43b1-8000-0c73b13e6831/relationships/uid"
+        }
+      }
+    }
+  }
+}

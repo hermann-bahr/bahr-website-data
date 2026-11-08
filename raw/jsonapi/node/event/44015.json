@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "21f43c35-dd67-4aae-bc7b-4381ecda3da1",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/21f43c35-dd67-4aae-bc7b-4381ecda3da1?resourceVersion=id%3A2940"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/21f43c35-dd67-4aae-bc7b-4381ecda3da1?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44015,
+    "drupal_internal__vid": 2940,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Rauchen einschränken",
+    "created": "2011-07-15T09:10:53+00:00",
+    "changed": "2011-11-30T13:21:15+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44015",
+      "pid": 913,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Vom 5. März 1900 weg versucht Bahr zwei Wochen lang, das Rauchen einzuschränken. In seinem Tagebuch notiert er sich täglich seinen Konsum. Anfangs \"3 Virginier, 2 Trab[ucco], 2 Zigaretten\", sind es in der letzten Eintragung am 18. März \"2 Cigarett. 1 Havanna\".",
+      "format": "full_html",
+      "processed": "Vom 5. März 1900 weg versucht Bahr zwei Wochen lang, das Rauchen einzuschränken. In seinem Tagebuch notiert er sich täglich seinen Konsum. Anfangs \"3 Virginier, 2 Trab[ucco], 2 Zigaretten\", sind es in der letzten Eintragung am 18. März \"2 Cigarett. 1 Havanna\".",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1900-03-05",
+      "end_value": "1900-03-18"
+    },
+    "field_sources": [
+      "Tagebücher (Csàky), II, 396-398."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/21f43c35-dd67-4aae-bc7b-4381ecda3da1/node_type?resourceVersion=id%3A2940"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/21f43c35-dd67-4aae-bc7b-4381ecda3da1/relationships/node_type?resourceVersion=id%3A2940"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/21f43c35-dd67-4aae-bc7b-4381ecda3da1/revision_uid?resourceVersion=id%3A2940"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/21f43c35-dd67-4aae-bc7b-4381ecda3da1/relationships/revision_uid?resourceVersion=id%3A2940"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/21f43c35-dd67-4aae-bc7b-4381ecda3da1/uid?resourceVersion=id%3A2940"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/21f43c35-dd67-4aae-bc7b-4381ecda3da1/relationships/uid?resourceVersion=id%3A2940"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/21f43c35-dd67-4aae-bc7b-4381ecda3da1/field_event_type?resourceVersion=id%3A2940"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/21f43c35-dd67-4aae-bc7b-4381ecda3da1/relationships/field_event_type?resourceVersion=id%3A2940"
+        }
+      }
+    }
+  }
+}

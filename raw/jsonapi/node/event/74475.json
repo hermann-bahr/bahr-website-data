@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "b26edc06-7990-4f93-b251-12d0e9f43bdf",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b26edc06-7990-4f93-b251-12d0e9f43bdf?resourceVersion=id%3A3786"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b26edc06-7990-4f93-b251-12d0e9f43bdf?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74475,
+    "drupal_internal__vid": 3786,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Paul Schlenther",
+    "created": "2013-03-12T11:54:23+00:00",
+    "changed": "2013-03-12T11:54:23+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/74475",
+      "pid": 1849,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Den nachmaligen Direktor des Burgtheaters und derzeitigen Redakteur der \"Deutschen Literaturzeitung\", Paul Schlenther besucht Bahr in der ersten Maihälfte 1884.",
+      "format": "full_html",
+      "processed": "Den nachmaligen Direktor des Burgtheaters und derzeitigen Redakteur der \"Deutschen Literaturzeitung\", Paul Schlenther besucht Bahr in der ersten Maihälfte 1884.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1884-05-18",
+      "end_value": "1884-05-18"
+    },
+    "field_sources": [
+      "An den Vater, 18. Mai 1884\r\n"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b26edc06-7990-4f93-b251-12d0e9f43bdf/node_type?resourceVersion=id%3A3786"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b26edc06-7990-4f93-b251-12d0e9f43bdf/relationships/node_type?resourceVersion=id%3A3786"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b26edc06-7990-4f93-b251-12d0e9f43bdf/revision_uid?resourceVersion=id%3A3786"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b26edc06-7990-4f93-b251-12d0e9f43bdf/relationships/revision_uid?resourceVersion=id%3A3786"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b26edc06-7990-4f93-b251-12d0e9f43bdf/uid?resourceVersion=id%3A3786"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b26edc06-7990-4f93-b251-12d0e9f43bdf/relationships/uid?resourceVersion=id%3A3786"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b26edc06-7990-4f93-b251-12d0e9f43bdf/field_event_type?resourceVersion=id%3A3786"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b26edc06-7990-4f93-b251-12d0e9f43bdf/relationships/field_event_type?resourceVersion=id%3A3786"
+        }
+      }
+    }
+  }
+}

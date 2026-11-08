@@ -1,0 +1,118 @@
+{
+  "type": "media--image_vdg",
+  "id": "0f87af87-e366-4a3f-9d31-f13dad90598a",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/0f87af87-e366-4a3f-9d31-f13dad90598a?resourceVersion=id%3A189"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/0f87af87-e366-4a3f-9d31-f13dad90598a?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__mid": 188,
+    "drupal_internal__vid": 189,
+    "langcode": "de",
+    "revision_created": "2020-02-27T15:39:08+00:00",
+    "status": true,
+    "name": "5.jpg",
+    "created": "2020-02-27T15:38:47+00:00",
+    "changed": "2020-02-27T15:38:47+00:00",
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": null,
+      "pid": null,
+      "langcode": "de"
+    }
+  },
+  "relationships": {
+    "bundle": {
+      "data": {
+        "type": "media_type--media_type",
+        "id": "1e270fb0-cbb8-4385-a6d7-69db224c61f7",
+        "meta": {
+          "drupal_internal__target_id": "image_vdg"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/0f87af87-e366-4a3f-9d31-f13dad90598a/bundle?resourceVersion=id%3A189"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/0f87af87-e366-4a3f-9d31-f13dad90598a/relationships/bundle?resourceVersion=id%3A189"
+        }
+      }
+    },
+    "revision_user": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/0f87af87-e366-4a3f-9d31-f13dad90598a/revision_user?resourceVersion=id%3A189"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/0f87af87-e366-4a3f-9d31-f13dad90598a/relationships/revision_user?resourceVersion=id%3A189"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/0f87af87-e366-4a3f-9d31-f13dad90598a/uid?resourceVersion=id%3A189"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/0f87af87-e366-4a3f-9d31-f13dad90598a/relationships/uid?resourceVersion=id%3A189"
+        }
+      }
+    },
+    "thumbnail": {
+      "data": {
+        "type": "file--file",
+        "id": "25cb7950-2d8b-4d75-9b41-c52c4bf886f2",
+        "meta": {
+          "alt": "Hermann Bahr, Kritische Schriften - 5 - Renaissance",
+          "title": null,
+          "width": 200,
+          "height": 286,
+          "drupal_internal__target_id": 263
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/0f87af87-e366-4a3f-9d31-f13dad90598a/thumbnail?resourceVersion=id%3A189"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/0f87af87-e366-4a3f-9d31-f13dad90598a/relationships/thumbnail?resourceVersion=id%3A189"
+        }
+      }
+    },
+    "field_media_image_1": {
+      "data": {
+        "type": "file--file",
+        "id": "25cb7950-2d8b-4d75-9b41-c52c4bf886f2",
+        "meta": {
+          "alt": "Hermann Bahr, Kritische Schriften - 5 - Renaissance",
+          "title": "",
+          "width": 200,
+          "height": 286,
+          "drupal_internal__target_id": 263
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/0f87af87-e366-4a3f-9d31-f13dad90598a/field_media_image_1?resourceVersion=id%3A189"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/media/image_vdg/0f87af87-e366-4a3f-9d31-f13dad90598a/relationships/field_media_image_1?resourceVersion=id%3A189"
+        }
+      }
+    }
+  }
+}

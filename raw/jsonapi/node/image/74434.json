@@ -1,0 +1,109 @@
+{
+  "type": "node--image",
+  "id": "e025db28-5d3b-40f6-8bb6-b097174d9920",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/image/e025db28-5d3b-40f6-8bb6-b097174d9920?resourceVersion=id%3A3988"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/image/e025db28-5d3b-40f6-8bb6-b097174d9920?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74434,
+    "drupal_internal__vid": 3988,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:44:08+00:00",
+    "status": true,
+    "title": "Um 1895 Postkarte",
+    "created": "2012-11-13T08:37:50+00:00",
+    "changed": "2012-11-15T08:36:38+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/bild/74434",
+      "pid": 1808,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "<i>Postkarte. Freundlicherweise zu Verfügung gestellt von Steven Weiss, aus der <a href=\"http://www.bennyspostcards.com\">Sammlung</a> seines Großvaters.</i>",
+      "format": "full_html",
+      "processed": "<i>Postkarte. Freundlicherweise zu Verfügung gestellt von Steven Weiss, aus der <a href=\"http://www.bennyspostcards.com\">Sammlung</a> seines Großvaters.</i>",
+      "summary": null
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "e2381624-d098-4c5b-bdd7-5dbfd773b84e",
+        "meta": {
+          "drupal_internal__target_id": "image"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/e025db28-5d3b-40f6-8bb6-b097174d9920/node_type?resourceVersion=id%3A3988"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/e025db28-5d3b-40f6-8bb6-b097174d9920/relationships/node_type?resourceVersion=id%3A3988"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/e025db28-5d3b-40f6-8bb6-b097174d9920/revision_uid?resourceVersion=id%3A3988"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/e025db28-5d3b-40f6-8bb6-b097174d9920/relationships/revision_uid?resourceVersion=id%3A3988"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/e025db28-5d3b-40f6-8bb6-b097174d9920/uid?resourceVersion=id%3A3988"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/e025db28-5d3b-40f6-8bb6-b097174d9920/relationships/uid?resourceVersion=id%3A3988"
+        }
+      }
+    },
+    "field_images": {
+      "data": [
+        {
+          "type": "media--image",
+          "id": "42dfe8e2-6ad3-4dea-8450-b4cfeab6972b",
+          "meta": {
+            "drupal_internal__target_id": 168
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/e025db28-5d3b-40f6-8bb6-b097174d9920/field_images?resourceVersion=id%3A3988"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/image/e025db28-5d3b-40f6-8bb6-b097174d9920/relationships/field_images?resourceVersion=id%3A3988"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "555fa642-df01-4e07-81f4-a1c79170fc69",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/555fa642-df01-4e07-81f4-a1c79170fc69?resourceVersion=id%3A3775"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/555fa642-df01-4e07-81f4-a1c79170fc69?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74463,
+    "drupal_internal__vid": 3775,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Markthallenstraße 2",
+    "created": "2013-02-18T10:52:45+00:00",
+    "changed": "2013-02-19T13:31:03+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/74463",
+      "pid": 1837,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Für das zweite Semester in Berlin zieht Bahr in die Markthallenstraße 2, Parterre links. Ende November übersiedelt er dann in die Kalkscheunenstr.",
+      "format": "full_html",
+      "processed": "Für das zweite Semester in Berlin zieht Bahr in die Markthallenstraße 2, Parterre links. Ende November übersiedelt er dann in die Kalkscheunenstr.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1884-10-16",
+      "end_value": "1884-10-16"
+    },
+    "field_sources": [
+      "Brief an den Vater, 16. Oktober 1884"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/555fa642-df01-4e07-81f4-a1c79170fc69/node_type?resourceVersion=id%3A3775"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/555fa642-df01-4e07-81f4-a1c79170fc69/relationships/node_type?resourceVersion=id%3A3775"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/555fa642-df01-4e07-81f4-a1c79170fc69/revision_uid?resourceVersion=id%3A3775"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/555fa642-df01-4e07-81f4-a1c79170fc69/relationships/revision_uid?resourceVersion=id%3A3775"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/555fa642-df01-4e07-81f4-a1c79170fc69/uid?resourceVersion=id%3A3775"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/555fa642-df01-4e07-81f4-a1c79170fc69/relationships/uid?resourceVersion=id%3A3775"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/555fa642-df01-4e07-81f4-a1c79170fc69/field_event_type?resourceVersion=id%3A3775"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/555fa642-df01-4e07-81f4-a1c79170fc69/relationships/field_event_type?resourceVersion=id%3A3775"
+        }
+      }
+    }
+  }
+}

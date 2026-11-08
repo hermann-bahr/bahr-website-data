@@ -1,0 +1,120 @@
+{
+  "type": "node--event",
+  "id": "83236c07-8f01-49d4-897b-8ce30b19c1c9",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/83236c07-8f01-49d4-897b-8ce30b19c1c9?resourceVersion=id%3A2358"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/83236c07-8f01-49d4-897b-8ce30b19c1c9?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28026,
+    "drupal_internal__vid": 2358,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Die Rotte Korahs",
+    "created": "2010-07-28T10:46:27+00:00",
+    "changed": "2012-11-29T16:18:18+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28026",
+      "pid": 192,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Nach drei Jahren kommt mit \"Die Rotte Korahs\" im April 1919 ein neuer Roman Bahrs auf den Markt. Der Vorabdruck in der Zeitschrift Donauland war zuvor zwischen März und Dezember 1918 in zehn Teilen erschienen. Josef Redlich liest das Buch am 30. Dezember 1918, vermutlich als Sammlung der Vorabdrucke. Schnitzler beginnt's am 3. April 1919 zu lesen (\"Unleidlich\"), Gerty von Hofmannsthal erhält es am 7. April.\r\n",
+      "format": "full_html",
+      "processed": "Nach drei Jahren kommt mit \"Die Rotte Korahs\" im April 1919 ein neuer Roman Bahrs auf den Markt. Der Vorabdruck in der Zeitschrift Donauland war zuvor zwischen März und Dezember 1918 in zehn Teilen erschienen. Josef Redlich liest das Buch am 30. Dezember 1918, vermutlich als Sammlung der Vorabdrucke. Schnitzler beginnt's am 3. April 1919 zu lesen (\"Unleidlich\"), Gerty von Hofmannsthal erhält es am 7. April.\n",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1919-04-03",
+      "end_value": "1919-04-03"
+    },
+    "field_sources": [
+      "Hermann Bahr: Die Rotte Korahs. Roman. Berlin: S. Fischer, 1919.",
+      "Hermann Bahr: Die Rotte Korahs. Donauland, 2 (1918) #1, 105-124. (1.3.1918)",
+      "Fritz Fellner und Doris A. Corradini (Hgg.): Schicksalsjahre Österreichs. Die Erinnerungen und Tagebücher Josef Redlichs 1869–1936. Wien: Böhlau 2011, II, 481.",
+      "Schnitzler: Tagebücher, VI, 242.",
+      "Von Gerty, 7.4.1919. Briefwechsel Bahr/Hofmannsthal. Hg. Elsbeth Dangel-Pelloquin. Göttingen: Wallstein. (In Vorbereitung)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/83236c07-8f01-49d4-897b-8ce30b19c1c9/node_type?resourceVersion=id%3A2358"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/83236c07-8f01-49d4-897b-8ce30b19c1c9/relationships/node_type?resourceVersion=id%3A2358"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/83236c07-8f01-49d4-897b-8ce30b19c1c9/revision_uid?resourceVersion=id%3A2358"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/83236c07-8f01-49d4-897b-8ce30b19c1c9/relationships/revision_uid?resourceVersion=id%3A2358"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/83236c07-8f01-49d4-897b-8ce30b19c1c9/uid?resourceVersion=id%3A2358"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/83236c07-8f01-49d4-897b-8ce30b19c1c9/relationships/uid?resourceVersion=id%3A2358"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "2f55ff54-49af-41ba-a2d1-45a7ac71add2",
+          "meta": {
+            "drupal_internal__target_id": 2
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/83236c07-8f01-49d4-897b-8ce30b19c1c9/field_event_type?resourceVersion=id%3A2358"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/83236c07-8f01-49d4-897b-8ce30b19c1c9/relationships/field_event_type?resourceVersion=id%3A2358"
+        }
+      }
+    }
+  }
+}

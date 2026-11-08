@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "9fd8858e-1eff-4471-b172-15b5171d7598",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/9fd8858e-1eff-4471-b172-15b5171d7598?resourceVersion=id%3A2537"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/9fd8858e-1eff-4471-b172-15b5171d7598?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28263,
+    "drupal_internal__vid": 2537,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Austritt Freie Bühne",
+    "created": "2010-11-17T17:46:14+00:00",
+    "changed": "2011-07-15T09:44:29+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28263",
+      "pid": 395,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 26. Juli 1890 erscheint diese Meldung im \"Berliner Tageblatt\":<blockquote>Die Unterzeichneten erklären, daß sie jede Verbindung mit der von Herrn Dr. Otto Brahm in Berlin herausgegebenen Wochenschrift \"Freie Bühne für modernes Leben\" abgebrochen haben und dieses Blatt nicht als Organ ihrer Anschauungen anerkennen.<br>Hermann Bahr, O. J. Bierbaum, Paul Ernst, Arno Holz, Iven Kruse, Freiherr Detlev von Liliencron, Bernhard Mänicke, Johannes Schlaf<br>Da Hermann Bahr auch als Karl Linz, B. Schwind, Globe Trotter und Schnitzel, Johannes Schlaf auch als Karl Benda und Paul Köchlin an der \"Freien Bühne\" theilgenommen, verliert das Blatt durch diese Erklärung 14 seiner Mitarbeiter.</blockquote>Nicht erwähnt wird, dass es sich um die Niederlage Bahrs in einem Machtkampf handelt, bei dem er versuchte, Otto Brahm von der Leitung der \"Freien Bühne\" zu verdrängen. Erst mit dem Ausscheiden Brahms aus der Zeitschrift wird Bahr wieder gelegentlich als Autor tätig werden.\r\n",
+      "format": "full_html",
+      "processed": "Am 26. Juli 1890 erscheint diese Meldung im \"Berliner Tageblatt\":<blockquote>Die Unterzeichneten erklären, daß sie jede Verbindung mit der von Herrn Dr. Otto Brahm in Berlin herausgegebenen Wochenschrift \"Freie Bühne für modernes Leben\" abgebrochen haben und dieses Blatt nicht als Organ ihrer Anschauungen anerkennen.<br>Hermann Bahr, O. J. Bierbaum, Paul Ernst, Arno Holz, Iven Kruse, Freiherr Detlev von Liliencron, Bernhard Mänicke, Johannes Schlaf<br>Da Hermann Bahr auch als Karl Linz, B. Schwind, Globe Trotter und Schnitzel, Johannes Schlaf auch als Karl Benda und Paul Köchlin an der \"Freien Bühne\" theilgenommen, verliert das Blatt durch diese Erklärung 14 seiner Mitarbeiter.</blockquote>Nicht erwähnt wird, dass es sich um die Niederlage Bahrs in einem Machtkampf handelt, bei dem er versuchte, Otto Brahm von der Leitung der \"Freien Bühne\" zu verdrängen. Erst mit dem Ausscheiden Brahms aus der Zeitschrift wird Bahr wieder gelegentlich als Autor tätig werden.\n",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1890-07-26",
+      "end_value": "1890-07-26"
+    },
+    "field_sources": [
+      "Theater, Kunst, Wissenschaft. Erklärung. Berliner Tageblatt, 19 (1890) #372, Morgen-Ausgabe, 2. (26.7.1890)",
+      "Dass. Vossische Zeitung, (1890) #343, Morgenausgabe, 4. (26.7.1890) – ohne den letzten Absatz."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9fd8858e-1eff-4471-b172-15b5171d7598/node_type?resourceVersion=id%3A2537"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9fd8858e-1eff-4471-b172-15b5171d7598/relationships/node_type?resourceVersion=id%3A2537"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9fd8858e-1eff-4471-b172-15b5171d7598/revision_uid?resourceVersion=id%3A2537"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9fd8858e-1eff-4471-b172-15b5171d7598/relationships/revision_uid?resourceVersion=id%3A2537"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9fd8858e-1eff-4471-b172-15b5171d7598/uid?resourceVersion=id%3A2537"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9fd8858e-1eff-4471-b172-15b5171d7598/relationships/uid?resourceVersion=id%3A2537"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "d579e54c-64dd-4193-a9ef-da87efb3ed16",
+          "meta": {
+            "drupal_internal__target_id": 8
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9fd8858e-1eff-4471-b172-15b5171d7598/field_event_type?resourceVersion=id%3A2537"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9fd8858e-1eff-4471-b172-15b5171d7598/relationships/field_event_type?resourceVersion=id%3A2537"
+        }
+      }
+    }
+  }
+}

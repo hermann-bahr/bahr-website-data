@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "d27a5284-9ec4-422c-9205-95fb5bedfd85",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/d27a5284-9ec4-422c-9205-95fb5bedfd85?resourceVersion=id%3A3256"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/d27a5284-9ec4-422c-9205-95fb5bedfd85?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49413,
+    "drupal_internal__vid": 3256,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Verhältnis zu Pannwitz negativ",
+    "created": "2011-10-19T09:28:20+00:00",
+    "changed": "2011-10-19T09:29:13+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49413",
+      "pid": 1237,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Die persönliche Begeisterung, die Bahr in den letzten 20 Monaten für Pannwitz empfunden hat, ist im Juni 1919 einer Ernüchterung gewichen. Redlich schreibt er: <blockquote>Pannwitz, von dem ich hauptsächlich via Thienen höre, scheint komplett meschugge.</blockquote>",
+      "format": "full_html",
+      "processed": "Die persönliche Begeisterung, die Bahr in den letzten 20 Monaten für Pannwitz empfunden hat, ist im Juni 1919 einer Ernüchterung gewichen. Redlich schreibt er: <blockquote>Pannwitz, von dem ich hauptsächlich via Thienen höre, scheint komplett meschugge.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1919-06-10",
+      "end_value": "1919-06-10"
+    },
+    "field_sources": [
+      "Bahr/Redlich, 367."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d27a5284-9ec4-422c-9205-95fb5bedfd85/node_type?resourceVersion=id%3A3256"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d27a5284-9ec4-422c-9205-95fb5bedfd85/relationships/node_type?resourceVersion=id%3A3256"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d27a5284-9ec4-422c-9205-95fb5bedfd85/revision_uid?resourceVersion=id%3A3256"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d27a5284-9ec4-422c-9205-95fb5bedfd85/relationships/revision_uid?resourceVersion=id%3A3256"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d27a5284-9ec4-422c-9205-95fb5bedfd85/uid?resourceVersion=id%3A3256"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d27a5284-9ec4-422c-9205-95fb5bedfd85/relationships/uid?resourceVersion=id%3A3256"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d27a5284-9ec4-422c-9205-95fb5bedfd85/field_event_type?resourceVersion=id%3A3256"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d27a5284-9ec4-422c-9205-95fb5bedfd85/relationships/field_event_type?resourceVersion=id%3A3256"
+        }
+      }
+    }
+  }
+}

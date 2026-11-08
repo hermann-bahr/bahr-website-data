@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "4574a3bc-b50c-4c8a-b3c1-08d7d6e5e915",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/4574a3bc-b50c-4c8a-b3c1-08d7d6e5e915?resourceVersion=id%3A3115"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/4574a3bc-b50c-4c8a-b3c1-08d7d6e5e915?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44201,
+    "drupal_internal__vid": 3115,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Vorträge in Süddeutschland",
+    "created": "2011-09-20T11:13:52+00:00",
+    "changed": "2011-10-13T09:27:18+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44201",
+      "pid": 1094,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 2. November 1915 fährt Bahr nach Süddeutschland (München, Ulm, Augsburg, Darmstadt, Pforzheim, Landau, Neustadt, Bonn), wo er seine Vorträge \"Deutschland und Österreich\" und \"Österreichs Zukunft\" hält. Am 16. November langt er in Prag an. Dazwischen ist er mehrfach in Darmstadt, wo seine Frau eine Rolle in seinem Stück \"Der Querulant\" einübt.",
+      "format": "full_html",
+      "processed": "Am 2. November 1915 fährt Bahr nach Süddeutschland (München, Ulm, Augsburg, Darmstadt, Pforzheim, Landau, Neustadt, Bonn), wo er seine Vorträge \"Deutschland und Österreich\" und \"Österreichs Zukunft\" hält. Am 16. November langt er in Prag an. Dazwischen ist er mehrfach in Darmstadt, wo seine Frau eine Rolle in seinem Stück \"Der Querulant\" einübt.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1915-11-02",
+      "end_value": "1915-11-15"
+    },
+    "field_sources": [
+      "Bahr/Kvapil, 381.",
+      "Bahr/Redlich, 132-134."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4574a3bc-b50c-4c8a-b3c1-08d7d6e5e915/node_type?resourceVersion=id%3A3115"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4574a3bc-b50c-4c8a-b3c1-08d7d6e5e915/relationships/node_type?resourceVersion=id%3A3115"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4574a3bc-b50c-4c8a-b3c1-08d7d6e5e915/revision_uid?resourceVersion=id%3A3115"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4574a3bc-b50c-4c8a-b3c1-08d7d6e5e915/relationships/revision_uid?resourceVersion=id%3A3115"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4574a3bc-b50c-4c8a-b3c1-08d7d6e5e915/uid?resourceVersion=id%3A3115"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4574a3bc-b50c-4c8a-b3c1-08d7d6e5e915/relationships/uid?resourceVersion=id%3A3115"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4574a3bc-b50c-4c8a-b3c1-08d7d6e5e915/field_event_type?resourceVersion=id%3A3115"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/4574a3bc-b50c-4c8a-b3c1-08d7d6e5e915/relationships/field_event_type?resourceVersion=id%3A3115"
+        }
+      }
+    }
+  }
+}

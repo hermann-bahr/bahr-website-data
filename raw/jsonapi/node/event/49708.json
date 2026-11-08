@@ -1,0 +1,119 @@
+{
+  "type": "node--event",
+  "id": "b717cc8c-3638-46ba-b793-07473d83b5af",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b717cc8c-3638-46ba-b793-07473d83b5af?resourceVersion=id%3A3484"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b717cc8c-3638-46ba-b793-07473d83b5af?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49708,
+    "drupal_internal__vid": 3484,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Bruckner",
+    "created": "2011-12-05T20:39:13+00:00",
+    "changed": "2012-01-27T11:02:33+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49708",
+      "pid": 1522,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "In den 17 Monaten des Studiums in Wien will Bahr zwar viele Vorlesungen versäumt haben. Einzig zu Anton Bruckners Kolleg ans Konservatorium will er mit einer gewissen Regelmäßigkeit gegangen sein. Dieser wäre unterhaltsam gewesen und hätte sich auch aufs \"Anzapfen\" bei einem Bierabend hervorragend verstanden.",
+      "format": "full_html",
+      "processed": "In den 17 Monaten des Studiums in Wien will Bahr zwar viele Vorlesungen versäumt haben. Einzig zu Anton Bruckners Kolleg ans Konservatorium will er mit einer gewissen Regelmäßigkeit gegangen sein. Dieser wäre unterhaltsam gewesen und hätte sich auch aufs \"Anzapfen\" bei einem Bierabend hervorragend verstanden.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1881-10-01",
+      "end_value": "1881-10-01"
+    },
+    "field_sources": [
+      "Liebe der Lebenden, III, 160.",
+      "Hermann Bahr: Erste Begegnung mit Eleonora Duse und mit Anton Bruckner. Aus meinen Erinnerungen. Neues Wiener Journal, 40 (1932) #13689, 12. (1.1.1932)",
+      "Hermann Bahr: Der Widersacher. Neue Freie Presse, (1929) #23244, Morgenblatt, 1-3. (1.6.1929)",
+      "(Hier auf 1. Oktober 1881 datiert.)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b717cc8c-3638-46ba-b793-07473d83b5af/node_type?resourceVersion=id%3A3484"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b717cc8c-3638-46ba-b793-07473d83b5af/relationships/node_type?resourceVersion=id%3A3484"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b717cc8c-3638-46ba-b793-07473d83b5af/revision_uid?resourceVersion=id%3A3484"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b717cc8c-3638-46ba-b793-07473d83b5af/relationships/revision_uid?resourceVersion=id%3A3484"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b717cc8c-3638-46ba-b793-07473d83b5af/uid?resourceVersion=id%3A3484"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b717cc8c-3638-46ba-b793-07473d83b5af/relationships/uid?resourceVersion=id%3A3484"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b717cc8c-3638-46ba-b793-07473d83b5af/field_event_type?resourceVersion=id%3A3484"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b717cc8c-3638-46ba-b793-07473d83b5af/relationships/field_event_type?resourceVersion=id%3A3484"
+        }
+      }
+    }
+  }
+}

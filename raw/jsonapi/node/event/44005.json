@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "8c74053d-5404-435d-bcae-f61307905dd0",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/8c74053d-5404-435d-bcae-f61307905dd0?resourceVersion=id%3A2931"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/8c74053d-5404-435d-bcae-f61307905dd0?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44005,
+    "drupal_internal__vid": 2931,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Keine Gaea in Hamburg",
+    "created": "2011-07-13T15:40:26+00:00",
+    "changed": "2011-10-03T12:49:09+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44005",
+      "pid": 904,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Im Oktober 1897 bedingt sich Bahr in seinem neuen Vertrag aus, dass er im kommenden Frühjahr drei Monate für eine Inszenierung der \"Gaea\" von Adalbert von Goldschmidt in Hamburg freigestellt würde und diese auch publizistisch begleiten dürfte. Es kam nicht dazu: Mit dem Tod Bernhard Pollinis, dem Leiter des Hamburger Stadttheaters, am 27. November 1897 starb auch das Projekt.",
+      "format": "full_html",
+      "processed": "Im Oktober 1897 bedingt sich Bahr in seinem neuen Vertrag aus, dass er im kommenden Frühjahr drei Monate für eine Inszenierung der \"Gaea\" von Adalbert von Goldschmidt in Hamburg freigestellt würde und diese auch publizistisch begleiten dürfte. Es kam nicht dazu: Mit dem Tod Bernhard Pollinis, dem Leiter des Hamburger Stadttheaters, am 27. November 1897 starb auch das Projekt.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1897-11-27",
+      "end_value": "1897-11-27"
+    },
+    "field_sources": [
+      "Brief Singers an Bahr, 18.10.1897 in: Die Zeit und die tschechische Moderne, 354.",
+      "Tagebuch (Csàky), II, XXIII-XXIV und 243-244."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8c74053d-5404-435d-bcae-f61307905dd0/node_type?resourceVersion=id%3A2931"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8c74053d-5404-435d-bcae-f61307905dd0/relationships/node_type?resourceVersion=id%3A2931"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8c74053d-5404-435d-bcae-f61307905dd0/revision_uid?resourceVersion=id%3A2931"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8c74053d-5404-435d-bcae-f61307905dd0/relationships/revision_uid?resourceVersion=id%3A2931"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8c74053d-5404-435d-bcae-f61307905dd0/uid?resourceVersion=id%3A2931"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8c74053d-5404-435d-bcae-f61307905dd0/relationships/uid?resourceVersion=id%3A2931"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8c74053d-5404-435d-bcae-f61307905dd0/field_event_type?resourceVersion=id%3A2931"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/8c74053d-5404-435d-bcae-f61307905dd0/relationships/field_event_type?resourceVersion=id%3A2931"
+        }
+      }
+    }
+  }
+}

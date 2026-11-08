@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "72f76097-b51e-495c-8978-c2347799246a",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/72f76097-b51e-495c-8978-c2347799246a?resourceVersion=id%3A3505"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/72f76097-b51e-495c-8978-c2347799246a?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49732,
+    "drupal_internal__vid": 3505,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Richard Strauß",
+    "created": "2011-12-20T12:16:12+00:00",
+    "changed": "2011-12-20T12:16:12+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49732",
+      "pid": 1545,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 30. Jänner 1902 beginnt der erhaltene Briefwechsel Bahrs mit Richard Strauß. Zuerst schreibt Bahr, weil ihm am Vortag die Uraufführung der \"Feuersnoth\" sehr gefallen hat und weil er Strauß seine Pantomime \"Der liebe Augustin\" zukommen lassen möchte. Zu diesem Zeitpunkt kennen sie sich noch nicht persönlich.",
+      "format": "full_html",
+      "processed": "Am 30. Jänner 1902 beginnt der erhaltene Briefwechsel Bahrs mit Richard Strauß. Zuerst schreibt Bahr, weil ihm am Vortag die Uraufführung der \"Feuersnoth\" sehr gefallen hat und weil er Strauß seine Pantomime \"Der liebe Augustin\" zukommen lassen möchte. Zu diesem Zeitpunkt kennen sie sich noch nicht persönlich.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1902-01-30",
+      "end_value": "1902-01-30"
+    },
+    "field_sources": [
+      "Hermann Bahr: Meister und Meisterbriefe um Hermann Bahr. Aus seinen Entwürfen, Tagebüchern und seinem Briefwechsel. Ausgewählt und eingeleitet von Joseph Gregor. Wien: Hermann Bauer 1947, 71."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/72f76097-b51e-495c-8978-c2347799246a/node_type?resourceVersion=id%3A3505"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/72f76097-b51e-495c-8978-c2347799246a/relationships/node_type?resourceVersion=id%3A3505"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/72f76097-b51e-495c-8978-c2347799246a/revision_uid?resourceVersion=id%3A3505"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/72f76097-b51e-495c-8978-c2347799246a/relationships/revision_uid?resourceVersion=id%3A3505"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/72f76097-b51e-495c-8978-c2347799246a/uid?resourceVersion=id%3A3505"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/72f76097-b51e-495c-8978-c2347799246a/relationships/uid?resourceVersion=id%3A3505"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/72f76097-b51e-495c-8978-c2347799246a/field_event_type?resourceVersion=id%3A3505"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/72f76097-b51e-495c-8978-c2347799246a/relationships/field_event_type?resourceVersion=id%3A3505"
+        }
+      }
+    }
+  }
+}

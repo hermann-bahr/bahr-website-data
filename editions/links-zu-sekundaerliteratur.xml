@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="links-zu-sekundaerliteratur" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Links zu Sekundärliteratur</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">3091</idno>
+        <idno type="drupal-alias">/links-zu-sekundaerliteratur</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/links-zu-sekundaerliteratur">https://bahr.univie.ac.at/links-zu-sekundaerliteratur</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="none">
+          <term>nicht im Menü</term>
+        </keywords>
+        <classCode scheme="drupal-type">page</classCode>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2009-12-30T16:32:30+00:00" type="created">angelegt in Drupal</change>
+      <change when="2011-08-30T10:25:23+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Hier ein paar Links zur Sekundärliteratur:</p>
+      </div>
+      <div>
+        <head>Zusammenstellungen von Sekundärliteratur</head>
+        <list rend="bulleted">
+          <item>
+            <ref target="http://www.ub.fu-berlin.de/service_neu/internetquellen/fachinformation/germanistik/autoren/autorb/bahr.html">Freie Universität Berlin</ref>
+          </item>
+          <item>
+            <ref target="http://www.tour-literatur.de/sekundlit_autoren/bahr_sekundlit.htm">TourLiteratur</ref>
+          </item>
+          <item><ref target="http://www.psychoanalyse-literatur.de/index.php?id=93">www.psychoanalyse-literatur.de</ref>: Psychoanalyse in der literarischen Moderne, teilw. annotiert.</item>
+          <item><ref target="http://www.ooegeschichte.at/bibliografie/Bahr+Hermann">Forum Oberösterreichische Geschichte</ref>: Zusammenstellung von Sekundärquellen mit Oberösterreichbezug</item>
+        </list>
+      </div>
+      <div>
+        <head>Einzelne Texte</head>
+        <list rend="bulleted">
+          <item>Donald G. Daviau: <ref target="http://www.kakanien.ac.at/beitr/ncs/DDaviau1/">Hermann Bahr: An Extraordinary Example of Transnational Networking, with special reference to Central Europe</ref></item>
+          <item>Donald G. Daviau: <ref target="http://mlq.dukejournals.org/cgi/reprint/20/4/360.pdf">Dialog vom Marsyas.</ref> Hermann Bahr's Affirmation of Life over Art</item>
+          <item>Buchvorstellung des Buches <ref target="http://www.inst.at/burei/ABand14.htm">Understanding Hermann Bahr</ref> von Donald G. Daviau</item>
+          <item>Manfred Dickel: <ref target="http://www.db-thueringen.de/servlets/DocumentServlet?id=14109">Zionismus und Jungwiener Moderne: Felix Salten - Leben und Wirken</ref> [Dissertation]</item>
+          <item>Lukas Mayrhofer: <ref target="http://www.onb.ac.at/sichtungen/berichte/mayerhofer-l-1a.html">Edition der Tagebücher, Skizzenbücher und Notizhefte Hermann Bahrs</ref></item>
+          <item>Pfohlmann, Oliver: <ref target="http://www.psychoanalyse-literatur.de/index.php?id=76">Psychoanalyse in der Wiener Moderne. Hermann Bahr</ref></item>
+          <item>Was der <ref target="http://de.wikipedia.org/wiki/Claus_Pias">Chef</ref> von der Guten Schule hält, findet sich <ref target="http://www.uni-due.de/~bj0063/texte/bahr.html">hier</ref>. Wobei die Schätzungen zum Nachlass, die man zu der Zeit (1998) noch bei Daviau abschrieb, nicht mehr aktuell sind.</item>
+          <item>Carmen Sippl: <ref target="http://www.inst.at/trans/3Nr/sippl.htm">Hermann Bahrs Rußland-Rezeption im Spiegel seiner Bibliothek an der UB Salzburg</ref></item>
+          <item>Elisabeth Strasser: <ref target="http://othes.univie.ac.at/8196/1/2009-12-14_0302242.pdf">Essayistische Schriften zum Wiener Hof-Burgtheater</ref> (Diplomarbeit, Universität Wien, 2009)</item>
+          <item>Mari Tarvas: <ref target="http://www.ceeol.com/aspx/getdocument.aspx?logid=5&amp;id=46af8360d2a045c990dfbe7be2620c18">Hermann Bahr: Das Verschwinden des Autors in seinem Werk</ref></item>
+          <item>Cathrine Theodorsen: <ref target="http://www.hum.uit.no/nordlit/9/3theodorsen.html">Zur Rolle des Dilettantismus im Prozess der Ausdifferenzierung einer österreichischen Literatur aus der deutschen Literatur</ref></item>
+          <item>Thomas Zaunschirm: <ref target="http://www.zaunschirm.de/bahr.html">Hermann Bahrs Gegen Klimt - Eine Revision.</ref> In: Kakanien, Budapest 1987, S.401-413</item>
+          <item>Aleksej I. Žerebin: <ref target="http://www.daad.ru/wort/wort2008/12_Zerebin_Wien.pdf">„Alles ist verteufelt elegant.“</ref> Zu den kulturellen Beziehungen zwischen Wien und Petersburg um 1900. In: Das Wort. Germanistisches Jahrbuch Russland 2008, 167-174.</item>
+          <item>Über Hermann Bahr in <ref target="http://complit.univie.ac.at/fileadmin/user_upload/abt_complit/VO_2_Hermann_Bahr_in_Paris.pdf">Paris</ref> hier ein PDF.</item>
+        </list>
+      </div>
+    </body>
+  </text>
+</TEI>

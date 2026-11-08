@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "6222ade5-b440-445c-b924-6339594959d8",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/6222ade5-b440-445c-b924-6339594959d8?resourceVersion=id%3A3244"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/6222ade5-b440-445c-b924-6339594959d8?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49401,
+    "drupal_internal__vid": 3244,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "HvH, Gerty",
+    "created": "2011-10-18T11:50:06+00:00",
+    "changed": "2012-11-05T13:11:39+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49401",
+      "pid": 1225,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 6. Juli kommen Hofmannsthals nach Salzburg. Am 11. Juli 1918 schreibt Bahr, dass Hugo und Gerty ein paar Tage da waren. Im Mittelpunkt stand Bahrs zukünftige Rolle am Burgtheater, denn Andrian schreibt Hofmannsthal am 9. Juli, Bahr müsse beim Kardinal Piffl vorsprechen oder ihm zumindest schreiben, dass er zwar kein katholisches Theater schaffen werde, aber eines, das die katholische Religion mehr berücksichtige als bisherige. Was der katholisch gewandelte Bahr gerne tut.",
+      "format": "full_html",
+      "processed": "Am 6. Juli kommen Hofmannsthals nach Salzburg. Am 11. Juli 1918 schreibt Bahr, dass Hugo und Gerty ein paar Tage da waren. Im Mittelpunkt stand Bahrs zukünftige Rolle am Burgtheater, denn Andrian schreibt Hofmannsthal am 9. Juli, Bahr müsse beim Kardinal Piffl vorsprechen oder ihm zumindest schreiben, dass er zwar kein katholisches Theater schaffen werde, aber eines, das die katholische Religion mehr berücksichtige als bisherige. Was der katholisch gewandelte Bahr gerne tut.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1918-07-06",
+      "end_value": "1918-07-10"
+    },
+    "field_sources": [
+      "Bahr/Redlich, 350.",
+      "Ursula Prutsch, Klaus Zeyringer (Hg.): Leopold von Andrian (1875-1951). Korrespondenzen, Notizen, Essays, Berichte. Wien, Köln, Weimar: Böhlau 2003, 445-446.",
+      "Anm. zu An Bahr, 29.6.1918. Briefwechsel Bahr/Hofmannsthal. Hg. Elsbeth Dangel-Pelloquin. Göttingen: Wallstein. (In Vorbereitung)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6222ade5-b440-445c-b924-6339594959d8/node_type?resourceVersion=id%3A3244"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6222ade5-b440-445c-b924-6339594959d8/relationships/node_type?resourceVersion=id%3A3244"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6222ade5-b440-445c-b924-6339594959d8/revision_uid?resourceVersion=id%3A3244"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6222ade5-b440-445c-b924-6339594959d8/relationships/revision_uid?resourceVersion=id%3A3244"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6222ade5-b440-445c-b924-6339594959d8/uid?resourceVersion=id%3A3244"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6222ade5-b440-445c-b924-6339594959d8/relationships/uid?resourceVersion=id%3A3244"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6222ade5-b440-445c-b924-6339594959d8/field_event_type?resourceVersion=id%3A3244"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/6222ade5-b440-445c-b924-6339594959d8/relationships/field_event_type?resourceVersion=id%3A3244"
+        }
+      }
+    }
+  }
+}

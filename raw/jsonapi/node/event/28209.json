@@ -1,0 +1,114 @@
+{
+  "type": "node--event",
+  "id": "066ffd41-73df-496e-86da-e6c008631639",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/066ffd41-73df-496e-86da-e6c008631639?resourceVersion=id%3A2514"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/066ffd41-73df-496e-86da-e6c008631639?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28209,
+    "drupal_internal__vid": 2514,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "München",
+    "created": "2010-10-09T14:09:28+00:00",
+    "changed": "2010-10-09T14:09:28+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28209",
+      "pid": 352,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 17. November 1912 liest Bahr in München.",
+      "format": "full_html",
+      "processed": "Am 17. November 1912 liest Bahr in München.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1912-11-17",
+      "end_value": "1912-11-17"
+    },
+    "field_sources": []
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/066ffd41-73df-496e-86da-e6c008631639/node_type?resourceVersion=id%3A2514"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/066ffd41-73df-496e-86da-e6c008631639/relationships/node_type?resourceVersion=id%3A2514"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/066ffd41-73df-496e-86da-e6c008631639/revision_uid?resourceVersion=id%3A2514"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/066ffd41-73df-496e-86da-e6c008631639/relationships/revision_uid?resourceVersion=id%3A2514"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/066ffd41-73df-496e-86da-e6c008631639/uid?resourceVersion=id%3A2514"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/066ffd41-73df-496e-86da-e6c008631639/relationships/uid?resourceVersion=id%3A2514"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/066ffd41-73df-496e-86da-e6c008631639/field_event_type?resourceVersion=id%3A2514"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/066ffd41-73df-496e-86da-e6c008631639/relationships/field_event_type?resourceVersion=id%3A2514"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "c6cd73f1-6400-4495-b797-3a27e85ddd6d",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/c6cd73f1-6400-4495-b797-3a27e85ddd6d?resourceVersion=id%3A3403"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/c6cd73f1-6400-4495-b797-3a27e85ddd6d?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49570,
+    "drupal_internal__vid": 3403,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Korrespondenz Bahrs in Abschrift",
+    "created": "2011-11-03T10:49:16+00:00",
+    "changed": "2011-11-03T10:49:16+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49570",
+      "pid": 1387,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Unmittelbar nach Bahrs Tod beginnt die Witwe, zentrale Briefpartner anzuschreiben, um an die Korrespondenz in Abschrift zu gelangen. Am 10. Februar 1936 schreibt sie Redlich darüber <blockquote>Wüßten Sie, wie schwer es ist, seine Briefe zur Abschrift zu bekommen! Ich bleibe in vielen Fällen ohne Antwort und es sind nur wenige, die mir, wie <i>Sie</i> zu helfen versprechen. Eigentlich müßte ja Österreich sich um <i>diese</i> Sache bemühen, denn der Inhalt der Briefe repräsentiert ja eine ganze Zeitepoche, Politik, Kunst, Wissenschaft – kurz ein ungeheures Material. Nun tue ich halt mein Möglichstes, um für später Bausteine zusammen zu tragen, damit das Werk Hermanns später bis ins kleinste neu erstehen kann.</blockquote>",
+      "format": "full_html",
+      "processed": "Unmittelbar nach Bahrs Tod beginnt die Witwe, zentrale Briefpartner anzuschreiben, um an die Korrespondenz in Abschrift zu gelangen. Am 10. Februar 1936 schreibt sie Redlich darüber <blockquote>Wüßten Sie, wie schwer es ist, seine Briefe zur Abschrift zu bekommen! Ich bleibe in vielen Fällen ohne Antwort und es sind nur wenige, die mir, wie <i>Sie</i> zu helfen versprechen. Eigentlich müßte ja Österreich sich um <i>diese</i> Sache bemühen, denn der Inhalt der Briefe repräsentiert ja eine ganze Zeitepoche, Politik, Kunst, Wissenschaft – kurz ein ungeheures Material. Nun tue ich halt mein Möglichstes, um für später Bausteine zusammen zu tragen, damit das Werk Hermanns später bis ins kleinste neu erstehen kann.</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1934-02-01",
+      "end_value": "1934-02-01"
+    },
+    "field_sources": [
+      "Bahr/Redlich, 574."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c6cd73f1-6400-4495-b797-3a27e85ddd6d/node_type?resourceVersion=id%3A3403"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c6cd73f1-6400-4495-b797-3a27e85ddd6d/relationships/node_type?resourceVersion=id%3A3403"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c6cd73f1-6400-4495-b797-3a27e85ddd6d/revision_uid?resourceVersion=id%3A3403"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c6cd73f1-6400-4495-b797-3a27e85ddd6d/relationships/revision_uid?resourceVersion=id%3A3403"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c6cd73f1-6400-4495-b797-3a27e85ddd6d/uid?resourceVersion=id%3A3403"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c6cd73f1-6400-4495-b797-3a27e85ddd6d/relationships/uid?resourceVersion=id%3A3403"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c6cd73f1-6400-4495-b797-3a27e85ddd6d/field_event_type?resourceVersion=id%3A3403"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/c6cd73f1-6400-4495-b797-3a27e85ddd6d/relationships/field_event_type?resourceVersion=id%3A3403"
+        }
+      }
+    }
+  }
+}

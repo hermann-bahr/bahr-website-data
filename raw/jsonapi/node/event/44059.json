@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "2d522673-06f6-4b06-8ea0-f4d81fc647f9",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/2d522673-06f6-4b06-8ea0-f4d81fc647f9?resourceVersion=id%3A2979"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/2d522673-06f6-4b06-8ea0-f4d81fc647f9?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44059,
+    "drupal_internal__vid": 2979,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "\"Faun\" fertig",
+    "created": "2011-09-02T10:21:20+00:00",
+    "changed": "2011-09-02T10:21:20+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44059",
+      "pid": 957,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 5. Juni 1906 schreibt sich Bahr ins Tagebuch:\r\n<blockquote>Faun beendigt. Er ist schlecht, besonders in den Worten.</blockquote>\r\n",
+      "format": "full_html",
+      "processed": "Am 5. Juni 1906 schreibt sich Bahr ins Tagebuch:\n<blockquote>Faun beendigt. Er ist schlecht, besonders in den Worten.</blockquote>\n",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1906-06-05",
+      "end_value": "1906-06-05"
+    },
+    "field_sources": [
+      "Tagebücher (Csàky), V, 16."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2d522673-06f6-4b06-8ea0-f4d81fc647f9/node_type?resourceVersion=id%3A2979"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2d522673-06f6-4b06-8ea0-f4d81fc647f9/relationships/node_type?resourceVersion=id%3A2979"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2d522673-06f6-4b06-8ea0-f4d81fc647f9/revision_uid?resourceVersion=id%3A2979"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2d522673-06f6-4b06-8ea0-f4d81fc647f9/relationships/revision_uid?resourceVersion=id%3A2979"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2d522673-06f6-4b06-8ea0-f4d81fc647f9/uid?resourceVersion=id%3A2979"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2d522673-06f6-4b06-8ea0-f4d81fc647f9/relationships/uid?resourceVersion=id%3A2979"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2d522673-06f6-4b06-8ea0-f4d81fc647f9/field_event_type?resourceVersion=id%3A2979"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2d522673-06f6-4b06-8ea0-f4d81fc647f9/relationships/field_event_type?resourceVersion=id%3A2979"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "a00b2834-1634-4365-a574-21d6e3a8b4a4",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/a00b2834-1634-4365-a574-21d6e3a8b4a4?resourceVersion=id%3A2882"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/a00b2834-1634-4365-a574-21d6e3a8b4a4?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39117,
+    "drupal_internal__vid": 2882,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Grundkauf",
+    "created": "2011-05-23T15:16:30+00:00",
+    "changed": "2011-06-27T11:39:05+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39117",
+      "pid": 847,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 26. Juli 1899 überweist Bahr die erste Hälfte der 3600fl. an Emmerich Bukovics für die 847 qm Grund neben dessen Villa in Ober St. Veit. Darauf wird ihm Olbrich ein Haus errichten. Die Grundstückstransaktion ist Teil des Prozesses Bahr gegen Kraus, der in der Fackel verbreitet, Bukovics habe den Grund im Gegenzug für positive Kritik hergeschenkt.",
+      "format": "full_html",
+      "processed": "Am 26. Juli 1899 überweist Bahr die erste Hälfte der 3600fl. an Emmerich Bukovics für die 847 qm Grund neben dessen Villa in Ober St. Veit. Darauf wird ihm Olbrich ein Haus errichten. Die Grundstückstransaktion ist Teil des Prozesses Bahr gegen Kraus, der in der Fackel verbreitet, Bukovics habe den Grund im Gegenzug für positive Kritik hergeschenkt.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1899-07-26",
+      "end_value": "1899-07-26"
+    },
+    "field_sources": [
+      "Neues Wiener Tagblatt, 35 (1901) #53, 9. (23.2.1901)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a00b2834-1634-4365-a574-21d6e3a8b4a4/node_type?resourceVersion=id%3A2882"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a00b2834-1634-4365-a574-21d6e3a8b4a4/relationships/node_type?resourceVersion=id%3A2882"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a00b2834-1634-4365-a574-21d6e3a8b4a4/revision_uid?resourceVersion=id%3A2882"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a00b2834-1634-4365-a574-21d6e3a8b4a4/relationships/revision_uid?resourceVersion=id%3A2882"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a00b2834-1634-4365-a574-21d6e3a8b4a4/uid?resourceVersion=id%3A2882"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a00b2834-1634-4365-a574-21d6e3a8b4a4/relationships/uid?resourceVersion=id%3A2882"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a00b2834-1634-4365-a574-21d6e3a8b4a4/field_event_type?resourceVersion=id%3A2882"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a00b2834-1634-4365-a574-21d6e3a8b4a4/relationships/field_event_type?resourceVersion=id%3A2882"
+        }
+      }
+    }
+  }
+}

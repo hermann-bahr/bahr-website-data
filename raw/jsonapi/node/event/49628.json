@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "b4f03195-df0e-46c4-afc7-3e0e7c53847d",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b4f03195-df0e-46c4-afc7-3e0e7c53847d?resourceVersion=id%3A3453"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/b4f03195-df0e-46c4-afc7-3e0e7c53847d?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49628,
+    "drupal_internal__vid": 3453,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Kokain",
+    "created": "2011-11-18T10:18:31+00:00",
+    "changed": "2011-11-18T10:18:46+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49628",
+      "pid": 1443,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "In Paris experimentiert Bahr mit Kokain:<blockquote>Kunst war mir am Ende nichts mehr als Suggestion von Sensationen. Um eben diese Zeit machte mich ein Kamerad mit dem Gebrauch von Kokain bekannt. Ich erfuhr, daß, was ich von der Kunst empfing, eigentlich durch Kokain viel weniger umständlich zu haben war. Ein Glück noch, daß es so teuer war und ich spottarm!</blockquote>",
+      "format": "full_html",
+      "processed": "In Paris experimentiert Bahr mit Kokain:<blockquote>Kunst war mir am Ende nichts mehr als Suggestion von Sensationen. Um eben diese Zeit machte mich ein Kamerad mit dem Gebrauch von Kokain bekannt. Ich erfuhr, daß, was ich von der Kunst empfing, eigentlich durch Kokain viel weniger umständlich zu haben war. Ein Glück noch, daß es so teuer war und ich spottarm!</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1889-01-01",
+      "end_value": "1889-01-01"
+    },
+    "field_sources": [
+      "Selbstbildnis, 236",
+      "(Hier auf 1.1.1889 datiert)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b4f03195-df0e-46c4-afc7-3e0e7c53847d/node_type?resourceVersion=id%3A3453"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b4f03195-df0e-46c4-afc7-3e0e7c53847d/relationships/node_type?resourceVersion=id%3A3453"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b4f03195-df0e-46c4-afc7-3e0e7c53847d/revision_uid?resourceVersion=id%3A3453"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b4f03195-df0e-46c4-afc7-3e0e7c53847d/relationships/revision_uid?resourceVersion=id%3A3453"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b4f03195-df0e-46c4-afc7-3e0e7c53847d/uid?resourceVersion=id%3A3453"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b4f03195-df0e-46c4-afc7-3e0e7c53847d/relationships/uid?resourceVersion=id%3A3453"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b4f03195-df0e-46c4-afc7-3e0e7c53847d/field_event_type?resourceVersion=id%3A3453"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/b4f03195-df0e-46c4-afc7-3e0e7c53847d/relationships/field_event_type?resourceVersion=id%3A3453"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "653488cd-f2e6-4ab8-9175-1526093254cd",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/653488cd-f2e6-4ab8-9175-1526093254cd?resourceVersion=id%3A3271"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/653488cd-f2e6-4ab8-9175-1526093254cd?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49428,
+    "drupal_internal__vid": 3271,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Verlobung",
+    "created": "2011-10-19T12:35:04+00:00",
+    "changed": "2011-10-21T19:06:28+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49428",
+      "pid": 1252,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 4. Juli 1909 meldet der Berliner Börsencourier, dass sich Bahr mit Anna Mildenburg verlobt habe.",
+      "format": "full_html",
+      "processed": "Am 4. Juli 1909 meldet der Berliner Börsencourier, dass sich Bahr mit Anna Mildenburg verlobt habe.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1909-07-04",
+      "end_value": "1909-07-04"
+    },
+    "field_sources": [
+      "Berliner Börsen-Courier, 41 (1909) #307, 1. Beilage, 2. (4.7.1909)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/653488cd-f2e6-4ab8-9175-1526093254cd/node_type?resourceVersion=id%3A3271"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/653488cd-f2e6-4ab8-9175-1526093254cd/relationships/node_type?resourceVersion=id%3A3271"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/653488cd-f2e6-4ab8-9175-1526093254cd/revision_uid?resourceVersion=id%3A3271"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/653488cd-f2e6-4ab8-9175-1526093254cd/relationships/revision_uid?resourceVersion=id%3A3271"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/653488cd-f2e6-4ab8-9175-1526093254cd/uid?resourceVersion=id%3A3271"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/653488cd-f2e6-4ab8-9175-1526093254cd/relationships/uid?resourceVersion=id%3A3271"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/653488cd-f2e6-4ab8-9175-1526093254cd/field_event_type?resourceVersion=id%3A3271"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/653488cd-f2e6-4ab8-9175-1526093254cd/relationships/field_event_type?resourceVersion=id%3A3271"
+        }
+      }
+    }
+  }
+}

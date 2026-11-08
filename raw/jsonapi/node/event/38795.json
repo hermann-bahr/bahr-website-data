@@ -1,0 +1,114 @@
+{
+  "type": "node--event",
+  "id": "50465123-2474-4ae2-af0f-467bead57622",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/50465123-2474-4ae2-af0f-467bead57622?resourceVersion=id%3A2616"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/50465123-2474-4ae2-af0f-467bead57622?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38795,
+    "drupal_internal__vid": 2616,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Neue Freie Presse",
+    "created": "2011-02-01T15:00:22+00:00",
+    "changed": "2011-02-01T15:00:39+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38795",
+      "pid": 543,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 12. November 1895 kann Bahr seinem Vater berichten, dass die Neue Freie Presse an ihm interessiert ist und ihm zusätzlich zu Feuilletons in Jahresfrist auch die Kunstkritik anvertrauen würde. Am 4. Dezember berichtet dann Bahr, dass er mit Eduard Bacher verhandelt habe, aber beschlossen hätte, die Neue Freie Presse noch ein, zwei Jahre zappeln zu lassen, bis sich geklärt habe, ob seine Projekte zur Übernahme eines Theaters etwas würden.",
+      "format": "full_html",
+      "processed": "Am 12. November 1895 kann Bahr seinem Vater berichten, dass die Neue Freie Presse an ihm interessiert ist und ihm zusätzlich zu Feuilletons in Jahresfrist auch die Kunstkritik anvertrauen würde. Am 4. Dezember berichtet dann Bahr, dass er mit Eduard Bacher verhandelt habe, aber beschlossen hätte, die Neue Freie Presse noch ein, zwei Jahre zappeln zu lassen, bis sich geklärt habe, ob seine Projekte zur Übernahme eines Theaters etwas würden.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1895-11-12",
+      "end_value": "1895-11-12"
+    },
+    "field_sources": []
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/50465123-2474-4ae2-af0f-467bead57622/node_type?resourceVersion=id%3A2616"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/50465123-2474-4ae2-af0f-467bead57622/relationships/node_type?resourceVersion=id%3A2616"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/50465123-2474-4ae2-af0f-467bead57622/revision_uid?resourceVersion=id%3A2616"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/50465123-2474-4ae2-af0f-467bead57622/relationships/revision_uid?resourceVersion=id%3A2616"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/50465123-2474-4ae2-af0f-467bead57622/uid?resourceVersion=id%3A2616"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/50465123-2474-4ae2-af0f-467bead57622/relationships/uid?resourceVersion=id%3A2616"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "d579e54c-64dd-4193-a9ef-da87efb3ed16",
+          "meta": {
+            "drupal_internal__target_id": 8
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/50465123-2474-4ae2-af0f-467bead57622/field_event_type?resourceVersion=id%3A2616"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/50465123-2474-4ae2-af0f-467bead57622/relationships/field_event_type?resourceVersion=id%3A2616"
+        }
+      }
+    }
+  }
+}

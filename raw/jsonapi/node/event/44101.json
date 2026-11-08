@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "74674dab-6f08-4185-b00f-bfed9d524d11",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/74674dab-6f08-4185-b00f-bfed9d524d11?resourceVersion=id%3A3017"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/74674dab-6f08-4185-b00f-bfed9d524d11?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44101,
+    "drupal_internal__vid": 3017,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Peter Altenberg",
+    "created": "2011-09-13T11:12:37+00:00",
+    "changed": "2011-09-13T11:12:37+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44101",
+      "pid": 996,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Spätestens am 30. Juni 1896 sind sich Peter Altenberg und Hermann Bahr persönlich begegnet. An seine Schwester Gretl schrieb Altenberg am 28.<blockquote>Übermorgen Souper mit Hermann Bahr</blockquote>",
+      "format": "full_html",
+      "processed": "Spätestens am 30. Juni 1896 sind sich Peter Altenberg und Hermann Bahr persönlich begegnet. An seine Schwester Gretl schrieb Altenberg am 28.<blockquote>Übermorgen Souper mit Hermann Bahr</blockquote>",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1896-06-30",
+      "end_value": "1896-06-30"
+    },
+    "field_sources": [
+      "Peter Altenberg an Gretl Engländer, Brief 28. Juni 1896, WstLB HS PA Abschr. 210 zit. Hermann Bahr und Peter Altenberg: Korrespondenz von Peter Altenberg an H. B. (1895-1913). Hgg. von Heinz Lunzer und Victoria Lunzer-Talos. In: Jeanne Bennay und Alfred Pfabigan, Hgg.: Hermann Bahr – Für eine andere Moderne. Bern: Peter Lang 2004, 249-262, hier: 231. ",
+      "Alternativ: Peter Altenberg: Die Selbsterfindung eines Dichters. Briefe und Dokumente 1892 - 1896. Hg. und mit einem Nachwort von Leo A. Lensing. Göttingen: Wallstein-Verlag, 2009, 71."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/74674dab-6f08-4185-b00f-bfed9d524d11/node_type?resourceVersion=id%3A3017"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/74674dab-6f08-4185-b00f-bfed9d524d11/relationships/node_type?resourceVersion=id%3A3017"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/74674dab-6f08-4185-b00f-bfed9d524d11/revision_uid?resourceVersion=id%3A3017"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/74674dab-6f08-4185-b00f-bfed9d524d11/relationships/revision_uid?resourceVersion=id%3A3017"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/74674dab-6f08-4185-b00f-bfed9d524d11/uid?resourceVersion=id%3A3017"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/74674dab-6f08-4185-b00f-bfed9d524d11/relationships/uid?resourceVersion=id%3A3017"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/74674dab-6f08-4185-b00f-bfed9d524d11/field_event_type?resourceVersion=id%3A3017"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/74674dab-6f08-4185-b00f-bfed9d524d11/relationships/field_event_type?resourceVersion=id%3A3017"
+        }
+      }
+    }
+  }
+}

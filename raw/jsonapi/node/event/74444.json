@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "283d1c78-f0e5-4297-9e06-d9f82adeb1ff",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/283d1c78-f0e5-4297-9e06-d9f82adeb1ff?resourceVersion=id%3A3762"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/283d1c78-f0e5-4297-9e06-d9f82adeb1ff?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74444,
+    "drupal_internal__vid": 3762,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Unregelmäßiges \"Tagebuch\"",
+    "created": "2012-11-26T14:50:52+00:00",
+    "changed": "2012-12-04T18:47:45+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/74444",
+      "pid": 1818,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 8. Juni 1924 erscheint Bahrs \"Tagebuch\" zum ersten Mal seit einem Monat wieder im Neuen Wiener Journal. Danach folgen gleich wieder zwei Wochen Pause. Grund für die Lücken liefert die schwere Erkrankung und dadurch notwendig gewordene Kur Bahrs. Es markiert trotzdem einen Unterschied, konnten sich die Leser und Leserinnen des Neuen Wiener Journals bis dahin auf wöchentliche Einträge nahezu mit Gewissheit verlassen. Fortan wird es zunehmend seltener erscheinen.",
+      "format": "full_html",
+      "processed": "Am 8. Juni 1924 erscheint Bahrs \"Tagebuch\" zum ersten Mal seit einem Monat wieder im Neuen Wiener Journal. Danach folgen gleich wieder zwei Wochen Pause. Grund für die Lücken liefert die schwere Erkrankung und dadurch notwendig gewordene Kur Bahrs. Es markiert trotzdem einen Unterschied, konnten sich die Leser und Leserinnen des Neuen Wiener Journals bis dahin auf wöchentliche Einträge nahezu mit Gewissheit verlassen. Fortan wird es zunehmend seltener erscheinen.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1924-06-08",
+      "end_value": "1924-06-08"
+    },
+    "field_sources": [
+      "Hermann Bahr: Tagebuch. 29. Mai. Neues Wiener Journal, 32 (1924) #10975, 12. (8.6.1924)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/283d1c78-f0e5-4297-9e06-d9f82adeb1ff/node_type?resourceVersion=id%3A3762"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/283d1c78-f0e5-4297-9e06-d9f82adeb1ff/relationships/node_type?resourceVersion=id%3A3762"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/283d1c78-f0e5-4297-9e06-d9f82adeb1ff/revision_uid?resourceVersion=id%3A3762"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/283d1c78-f0e5-4297-9e06-d9f82adeb1ff/relationships/revision_uid?resourceVersion=id%3A3762"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/283d1c78-f0e5-4297-9e06-d9f82adeb1ff/uid?resourceVersion=id%3A3762"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/283d1c78-f0e5-4297-9e06-d9f82adeb1ff/relationships/uid?resourceVersion=id%3A3762"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "b7b074bd-6489-4a96-84e9-9c8184cda171",
+          "meta": {
+            "drupal_internal__target_id": 7
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/283d1c78-f0e5-4297-9e06-d9f82adeb1ff/field_event_type?resourceVersion=id%3A3762"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/283d1c78-f0e5-4297-9e06-d9f82adeb1ff/relationships/field_event_type?resourceVersion=id%3A3762"
+        }
+      }
+    }
+  }
+}

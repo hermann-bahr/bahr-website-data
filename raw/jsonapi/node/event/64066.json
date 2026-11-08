@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "31e93e51-f425-4be3-9b43-5bd8283d4b33",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/31e93e51-f425-4be3-9b43-5bd8283d4b33?resourceVersion=id%3A3560"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/31e93e51-f425-4be3-9b43-5bd8283d4b33?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 64066,
+    "drupal_internal__vid": 3560,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Goethe-Ausgabe",
+    "created": "2012-01-25T13:45:28+00:00",
+    "changed": "2012-01-25T13:47:07+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/64066",
+      "pid": 1601,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "In seinem \"Tagebuch\" schreibt Bahr zum 12. Mai 1923:<blockquote>Ich hoffe, mich seiner Erziehung nicht unwürdig zu zeigen, wenn ich meinen endlich doch im Rechten verankerten Sinn, mein gereiftes Urteil und den inneren Ertrag eines nun an fünfzig Jahre währenden Verkehrs mit Goethe jetzt selber auch an einer Goethe-Ausgabe erproben will, die der Münchener Verlag Rösl mir anvertraut hat […] sie wendet sich an Leser, die nicht wünschen, daß geschmust wird.</blockquote>Weswegen die Ausgabe nie erschien und wie weit die Vorarbeiten fortgeschritten waren, ist unklar.",
+      "format": "full_html",
+      "processed": "In seinem \"Tagebuch\" schreibt Bahr zum 12. Mai 1923:<blockquote>Ich hoffe, mich seiner Erziehung nicht unwürdig zu zeigen, wenn ich meinen endlich doch im Rechten verankerten Sinn, mein gereiftes Urteil und den inneren Ertrag eines nun an fünfzig Jahre währenden Verkehrs mit Goethe jetzt selber auch an einer Goethe-Ausgabe erproben will, die der Münchener Verlag Rösl mir anvertraut hat […] sie wendet sich an Leser, die nicht wünschen, daß geschmust wird.</blockquote>Weswegen die Ausgabe nie erschien und wie weit die Vorarbeiten fortgeschritten waren, ist unklar.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1923-05-12",
+      "end_value": "1923-05-12"
+    },
+    "field_sources": [
+      "Liebe der Lebenden, III, 123-126."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/31e93e51-f425-4be3-9b43-5bd8283d4b33/node_type?resourceVersion=id%3A3560"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/31e93e51-f425-4be3-9b43-5bd8283d4b33/relationships/node_type?resourceVersion=id%3A3560"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/31e93e51-f425-4be3-9b43-5bd8283d4b33/revision_uid?resourceVersion=id%3A3560"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/31e93e51-f425-4be3-9b43-5bd8283d4b33/relationships/revision_uid?resourceVersion=id%3A3560"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/31e93e51-f425-4be3-9b43-5bd8283d4b33/uid?resourceVersion=id%3A3560"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/31e93e51-f425-4be3-9b43-5bd8283d4b33/relationships/uid?resourceVersion=id%3A3560"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/31e93e51-f425-4be3-9b43-5bd8283d4b33/field_event_type?resourceVersion=id%3A3560"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/31e93e51-f425-4be3-9b43-5bd8283d4b33/relationships/field_event_type?resourceVersion=id%3A3560"
+        }
+      }
+    }
+  }
+}

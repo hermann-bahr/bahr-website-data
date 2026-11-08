@@ -1,0 +1,117 @@
+{
+  "type": "node--event",
+  "id": "0f5ccba4-05d7-4830-8ea4-1143f5d41d8d",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/0f5ccba4-05d7-4830-8ea4-1143f5d41d8d?resourceVersion=id%3A2633"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/0f5ccba4-05d7-4830-8ea4-1143f5d41d8d?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 38813,
+    "drupal_internal__vid": 2633,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "München, Schliersee, Landro",
+    "created": "2011-02-02T16:45:21+00:00",
+    "changed": "2011-07-15T07:39:16+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/38813",
+      "pid": 560,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Die Sommerferien 1897 ähneln denen von 1896: Es beginnt am 31. Juli, über Salzburg nach München. Von dort nach Schliersee, und nach der Monatsmitte (17.) wieder ins Hotel Bauer nach Toblach (Landro) in den Dolomiten.  Am 31. August enden die Ferien.",
+      "format": "full_html",
+      "processed": "Die Sommerferien 1897 ähneln denen von 1896: Es beginnt am 31. Juli, über Salzburg nach München. Von dort nach Schliersee, und nach der Monatsmitte (17.) wieder ins Hotel Bauer nach Toblach (Landro) in den Dolomiten.  Am 31. August enden die Ferien.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1897-07-31",
+      "end_value": "1897-09-01"
+    },
+    "field_sources": [
+      "Brief an den Vater, 27.7. und 2.9.1897 ",
+      "Tagebücher (Csàky), II, 271-281."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0f5ccba4-05d7-4830-8ea4-1143f5d41d8d/node_type?resourceVersion=id%3A2633"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0f5ccba4-05d7-4830-8ea4-1143f5d41d8d/relationships/node_type?resourceVersion=id%3A2633"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0f5ccba4-05d7-4830-8ea4-1143f5d41d8d/revision_uid?resourceVersion=id%3A2633"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0f5ccba4-05d7-4830-8ea4-1143f5d41d8d/relationships/revision_uid?resourceVersion=id%3A2633"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0f5ccba4-05d7-4830-8ea4-1143f5d41d8d/uid?resourceVersion=id%3A2633"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0f5ccba4-05d7-4830-8ea4-1143f5d41d8d/relationships/uid?resourceVersion=id%3A2633"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "033a7bdb-f880-4e73-9190-0db3f28b1bc7",
+          "meta": {
+            "drupal_internal__target_id": 18
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0f5ccba4-05d7-4830-8ea4-1143f5d41d8d/field_event_type?resourceVersion=id%3A2633"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/0f5ccba4-05d7-4830-8ea4-1143f5d41d8d/relationships/field_event_type?resourceVersion=id%3A2633"
+        }
+      }
+    }
+  }
+}

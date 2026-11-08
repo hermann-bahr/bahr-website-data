@@ -1,0 +1,36 @@
+{
+  "type": "file--file",
+  "id": "cbe0c048-d34c-444f-b66f-d15a0df0364a",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/file/file/cbe0c048-d34c-444f-b66f-d15a0df0364a"
+    }
+  },
+  "attributes": {
+    "drupal_internal__fid": 233,
+    "langcode": "de",
+    "filename": "1902_lechner.jpg",
+    "uri": {
+      "value": "public://bahr_bilder/1902_lechner.jpg",
+      "url": "/sites/default/files/bahr_bilder/1902_lechner.jpg"
+    },
+    "filemime": "image/jpeg",
+    "filesize": 2010128,
+    "status": true,
+    "created": "2020-02-18T15:00:35+00:00",
+    "changed": "2020-02-18T15:11:43+00:00"
+  },
+  "relationships": {
+    "uid": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/file/file/cbe0c048-d34c-444f-b66f-d15a0df0364a/uid"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/file/file/cbe0c048-d34c-444f-b66f-d15a0df0364a/relationships/uid"
+        }
+      }
+    }
+  }
+}

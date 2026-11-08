@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "75f4f2c7-ffaf-45c8-829d-0b71ab91d05a",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/75f4f2c7-ffaf-45c8-829d-0b71ab91d05a?resourceVersion=id%3A2842"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/75f4f2c7-ffaf-45c8-829d-0b71ab91d05a?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 39068,
+    "drupal_internal__vid": 2842,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Duellforderung",
+    "created": "2011-05-05T20:22:16+00:00",
+    "changed": "2012-01-17T13:09:20+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/39068",
+      "pid": 799,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 7. Mai 1888 schickt Bahr zwei Sekundanten ins Redaktionsbüro der „Deutschen Wochenschrift“ um den Herausgeber Dr. Eugen Joseph Russell fordern zu lassen, der ihm einen Text mit schroffesten Anmerkungen zurück geschickt hat. Nachdem Russell einerseits die Frage der Satisfaktionspflicht eines Chefs gegenüber seines Mitarbeiters in Zweifel stellt, zweitens eine Ehrerklärung abgibt, wird ein Protokoll erstellt und die Sache ist abgetan, Bahrs Mitarbeit an der \"Deutschen Wochenschrift\" aber auch beendet.",
+      "format": "full_html",
+      "processed": "Am 7. Mai 1888 schickt Bahr zwei Sekundanten ins Redaktionsbüro der „Deutschen Wochenschrift“ um den Herausgeber Dr. Eugen Joseph Russell fordern zu lassen, der ihm einen Text mit schroffesten Anmerkungen zurück geschickt hat. Nachdem Russell einerseits die Frage der Satisfaktionspflicht eines Chefs gegenüber seines Mitarbeiters in Zweifel stellt, zweitens eine Ehrerklärung abgibt, wird ein Protokoll erstellt und die Sache ist abgetan, Bahrs Mitarbeit an der \"Deutschen Wochenschrift\" aber auch beendet.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1888-05-07",
+      "end_value": "1888-05-07"
+    },
+    "field_sources": [
+      "Das Protokoll findet sich in Kiste 77, Biographisches im Nachlass."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/75f4f2c7-ffaf-45c8-829d-0b71ab91d05a/node_type?resourceVersion=id%3A2842"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/75f4f2c7-ffaf-45c8-829d-0b71ab91d05a/relationships/node_type?resourceVersion=id%3A2842"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/75f4f2c7-ffaf-45c8-829d-0b71ab91d05a/revision_uid?resourceVersion=id%3A2842"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/75f4f2c7-ffaf-45c8-829d-0b71ab91d05a/relationships/revision_uid?resourceVersion=id%3A2842"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/75f4f2c7-ffaf-45c8-829d-0b71ab91d05a/uid?resourceVersion=id%3A2842"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/75f4f2c7-ffaf-45c8-829d-0b71ab91d05a/relationships/uid?resourceVersion=id%3A2842"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/75f4f2c7-ffaf-45c8-829d-0b71ab91d05a/field_event_type?resourceVersion=id%3A2842"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/75f4f2c7-ffaf-45c8-829d-0b71ab91d05a/relationships/field_event_type?resourceVersion=id%3A2842"
+        }
+      }
+    }
+  }
+}

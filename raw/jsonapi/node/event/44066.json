@@ -1,0 +1,119 @@
+{
+  "type": "node--event",
+  "id": "2fcf99d2-cce9-475d-8bb1-3b1f14e01d3f",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/2fcf99d2-cce9-475d-8bb1-3b1f14e01d3f?resourceVersion=id%3A2986"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/2fcf99d2-cce9-475d-8bb1-3b1f14e01d3f?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44066,
+    "drupal_internal__vid": 2986,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Frankfurt",
+    "created": "2011-09-05T08:44:05+00:00",
+    "changed": "2012-10-16T11:38:59+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44066",
+      "pid": 964,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Das Neue Wiener Journal schreibt am 4. November 1908:<blockquote>Hermann Bahr tritt eine Tournee an, die ihn als Vorleser durch eine Zahl süd- und mitteldeutscher Städte führen wird und erst Ende dieses Monats in Hamburg schließen wird.</blockquote>\r\nAm nächsten Tag um 20.30 ist die erste Station: Lesung in der freien literarischen Gesellschaft aus Schnitzlers Werken im großen Saal des Kaufmännischen Vereinshauses in Frankfurt",
+      "format": "full_html",
+      "processed": "Das Neue Wiener Journal schreibt am 4. November 1908:<blockquote>Hermann Bahr tritt eine Tournee an, die ihn als Vorleser durch eine Zahl süd- und mitteldeutscher Städte führen wird und erst Ende dieses Monats in Hamburg schließen wird.</blockquote>\nAm nächsten Tag um 20.30 ist die erste Station: Lesung in der freien literarischen Gesellschaft aus Schnitzlers Werken im großen Saal des Kaufmännischen Vereinshauses in Frankfurt",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1908-11-04",
+      "end_value": "1908-11-05"
+    },
+    "field_sources": [
+      "Neues Wiener Journal, 4.11.1908, 8. ",
+      "Tagebücher (Csàky), V, 390-391.",
+      "Hermann Bahr: [An die freie literarische Gesellschaft/]. Mitteilungen der Freien literarischen Gesellschaft in Frankfurt am Main, 1 (1908) #2 (November), 1-2. Buchausgabe: Buch der Jugend, 151-152.\r\n",
+      "Hermann Bahr: Reise in Deutschland. Berliner Tageblatt, 37 (1908) #656, Morgen-Ausgabe, 1. Beiblatt, 1. (25.12.1908) "
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2fcf99d2-cce9-475d-8bb1-3b1f14e01d3f/node_type?resourceVersion=id%3A2986"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2fcf99d2-cce9-475d-8bb1-3b1f14e01d3f/relationships/node_type?resourceVersion=id%3A2986"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2fcf99d2-cce9-475d-8bb1-3b1f14e01d3f/revision_uid?resourceVersion=id%3A2986"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2fcf99d2-cce9-475d-8bb1-3b1f14e01d3f/relationships/revision_uid?resourceVersion=id%3A2986"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2fcf99d2-cce9-475d-8bb1-3b1f14e01d3f/uid?resourceVersion=id%3A2986"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2fcf99d2-cce9-475d-8bb1-3b1f14e01d3f/relationships/uid?resourceVersion=id%3A2986"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2fcf99d2-cce9-475d-8bb1-3b1f14e01d3f/field_event_type?resourceVersion=id%3A2986"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/2fcf99d2-cce9-475d-8bb1-3b1f14e01d3f/relationships/field_event_type?resourceVersion=id%3A2986"
+        }
+      }
+    }
+  }
+}

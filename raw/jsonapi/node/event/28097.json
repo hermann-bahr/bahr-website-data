@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "d5ede28d-7935-4ed0-b76f-cf64847df021",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/d5ede28d-7935-4ed0-b76f-cf64847df021?resourceVersion=id%3A2422"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/d5ede28d-7935-4ed0-b76f-cf64847df021?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 28097,
+    "drupal_internal__vid": 2422,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Letzter Beitrag in der Neuen Freien Presse",
+    "created": "2010-08-11T19:36:58+00:00",
+    "changed": "2012-11-07T09:09:32+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/28097",
+      "pid": 257,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Seit 1907 hat Bahr über 200 Texte für die Neue Freie Presse verfasst, der Großteil Feuilletons. Am 26. Juni 1932 erscheint sein letzter Beitrag in der Zeitung, eine Gratulation an Johannes Schlaf zu seinem 70. Geburtstag.",
+      "format": "full_html",
+      "processed": "Seit 1907 hat Bahr über 200 Texte für die Neue Freie Presse verfasst, der Großteil Feuilletons. Am 26. Juni 1932 erscheint sein letzter Beitrag in der Zeitung, eine Gratulation an Johannes Schlaf zu seinem 70. Geburtstag.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1932-06-26",
+      "end_value": "1932-06-26"
+    },
+    "field_sources": [
+      "Hermann Bahr: Johannes Schlaf. Neue Freie Presse, (1932) #24348, 10. (26.6.1932) \r\n"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d5ede28d-7935-4ed0-b76f-cf64847df021/node_type?resourceVersion=id%3A2422"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d5ede28d-7935-4ed0-b76f-cf64847df021/relationships/node_type?resourceVersion=id%3A2422"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d5ede28d-7935-4ed0-b76f-cf64847df021/revision_uid?resourceVersion=id%3A2422"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d5ede28d-7935-4ed0-b76f-cf64847df021/relationships/revision_uid?resourceVersion=id%3A2422"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d5ede28d-7935-4ed0-b76f-cf64847df021/uid?resourceVersion=id%3A2422"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d5ede28d-7935-4ed0-b76f-cf64847df021/relationships/uid?resourceVersion=id%3A2422"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "d579e54c-64dd-4193-a9ef-da87efb3ed16",
+          "meta": {
+            "drupal_internal__target_id": 8
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d5ede28d-7935-4ed0-b76f-cf64847df021/field_event_type?resourceVersion=id%3A2422"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/d5ede28d-7935-4ed0-b76f-cf64847df021/relationships/field_event_type?resourceVersion=id%3A2422"
+        }
+      }
+    }
+  }
+}

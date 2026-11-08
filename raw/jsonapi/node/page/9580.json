@@ -1,0 +1,90 @@
+{
+  "type": "node--page",
+  "id": "36c108f2-c85d-4c10-b656-31b080ddf423",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/page/36c108f2-c85d-4c10-b656-31b080ddf423?resourceVersion=id%3A4035"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/page/36c108f2-c85d-4c10-b656-31b080ddf423?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 9580,
+    "drupal_internal__vid": 4035,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T17:01:03+00:00",
+    "status": true,
+    "title": "Technische Umsetzung",
+    "created": "2010-01-07T14:36:12+00:00",
+    "changed": "2010-01-07T14:43:32+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/technische-umsetzung",
+      "pid": 13,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Die <strong>„Kritischen Schriften“ </strong> werden ab Band 9 und einschließlich Band 7 mit <a href=“http://www.tug.org/“>LaTex (TexLive 2009)</a> gesetzt. Die Dokumentklasse stammt von Herbert Voss, Berlin.\r\n\r\nAls bibliografische <strong>Datenbank</strong> kommt <a href=“http://endnote.com\">Endnote X3</a> zum Einsatz.  Das Modul <a href=“http://drupal.org/project/biblio“>„biblio“</a> ermöglicht das Bereitstellen der Endnote-Daten auf der Website über einen XML-Import.\r\n\r\nDie <strong>Website</strong> basiert auf <a href=“http://drupal.org“>Drupal</a> mit MySQL, das verwendete Theme heißt <a href=\"http://drupal.org/project/nitobe\">Nitobe</a>.\r\n\r\n<strong>Ausstattung:</strong>\r\nBetriebssystem OSX 10.6\r\nPlustek Opticbook Corporate 3600 (über WinXP)\r\nCanon Canoscan Lide 100\r\nOmnipage 17 \r\nAcrobat Pro 9",
+      "format": "full_html",
+      "processed": "Die <strong>„Kritischen Schriften“ </strong> werden ab Band 9 und einschließlich Band 7 mit <a href=\"“http://www.tug.org/“\">LaTex (TexLive 2009)</a> gesetzt. Die Dokumentklasse stammt von Herbert Voss, Berlin.\n\nAls bibliografische <strong>Datenbank</strong> kommt <a href=\"“http://endnote.com&quot;\">Endnote X3</a> zum Einsatz.  Das Modul <a href=\"“http://drupal.org/project/biblio“\">„biblio“</a> ermöglicht das Bereitstellen der Endnote-Daten auf der Website über einen XML-Import.\n\nDie <strong>Website</strong> basiert auf <a href=\"“http://drupal.org“\">Drupal</a> mit MySQL, das verwendete Theme heißt <a href=\"http://drupal.org/project/nitobe\">Nitobe</a>.\n\n<strong>Ausstattung:</strong>\nBetriebssystem OSX 10.6\nPlustek Opticbook Corporate 3600 (über WinXP)\nCanon Canoscan Lide 100\nOmnipage 17 \nAcrobat Pro 9",
+      "summary": null
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "016d417b-5c75-4303-8420-18e221e9e269",
+        "meta": {
+          "drupal_internal__target_id": "page"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/36c108f2-c85d-4c10-b656-31b080ddf423/node_type?resourceVersion=id%3A4035"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/36c108f2-c85d-4c10-b656-31b080ddf423/relationships/node_type?resourceVersion=id%3A4035"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/36c108f2-c85d-4c10-b656-31b080ddf423/revision_uid?resourceVersion=id%3A4035"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/36c108f2-c85d-4c10-b656-31b080ddf423/relationships/revision_uid?resourceVersion=id%3A4035"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/36c108f2-c85d-4c10-b656-31b080ddf423/uid?resourceVersion=id%3A4035"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/36c108f2-c85d-4c10-b656-31b080ddf423/relationships/uid?resourceVersion=id%3A4035"
+        }
+      }
+    }
+  }
+}

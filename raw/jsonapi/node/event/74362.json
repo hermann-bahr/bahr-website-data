@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "a29d53c3-fa6a-4d90-bddf-1b6d14fca656",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/a29d53c3-fa6a-4d90-bddf-1b6d14fca656?resourceVersion=id%3A3690"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/a29d53c3-fa6a-4d90-bddf-1b6d14fca656?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74362,
+    "drupal_internal__vid": 3690,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "HvH",
+    "created": "2012-10-14T19:22:24+00:00",
+    "changed": "2013-09-14T11:54:39+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/74362",
+      "pid": 1736,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Vom 24. bis zum 30. September 1891 ist Bahr in Wien, wo er Abends mit Hugo von Hofmannsthal spazieren geht.",
+      "format": "full_html",
+      "processed": "Vom 24. bis zum 30. September 1891 ist Bahr in Wien, wo er Abends mit Hugo von Hofmannsthal spazieren geht.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1891-09-24",
+      "end_value": "1891-09-30"
+    },
+    "field_sources": [
+      "HvH: SW, XXXVIII; GW RA, III, 336 zit. n. Briefwechsel Bahr/Hofmannsthal. Hg. Elsbeth Dangel-Pelloquin. Göttingen: Wallstein. (In Vorbereitung), Anm. zu Brief an Bahr, 23.9.1891"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a29d53c3-fa6a-4d90-bddf-1b6d14fca656/node_type?resourceVersion=id%3A3690"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a29d53c3-fa6a-4d90-bddf-1b6d14fca656/relationships/node_type?resourceVersion=id%3A3690"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a29d53c3-fa6a-4d90-bddf-1b6d14fca656/revision_uid?resourceVersion=id%3A3690"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a29d53c3-fa6a-4d90-bddf-1b6d14fca656/relationships/revision_uid?resourceVersion=id%3A3690"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a29d53c3-fa6a-4d90-bddf-1b6d14fca656/uid?resourceVersion=id%3A3690"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a29d53c3-fa6a-4d90-bddf-1b6d14fca656/relationships/uid?resourceVersion=id%3A3690"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "699feaf9-3d65-4954-9343-989834b725b4",
+          "meta": {
+            "drupal_internal__target_id": 19
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a29d53c3-fa6a-4d90-bddf-1b6d14fca656/field_event_type?resourceVersion=id%3A3690"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/a29d53c3-fa6a-4d90-bddf-1b6d14fca656/relationships/field_event_type?resourceVersion=id%3A3690"
+        }
+      }
+    }
+  }
+}

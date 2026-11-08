@@ -1,0 +1,116 @@
+{
+  "type": "node--event",
+  "id": "1b3fc2f4-dd2d-4719-a111-ab3cd6c3c3e9",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/1b3fc2f4-dd2d-4719-a111-ab3cd6c3c3e9?resourceVersion=id%3A3490"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/1b3fc2f4-dd2d-4719-a111-ab3cd6c3c3e9?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 49715,
+    "drupal_internal__vid": 3490,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "\"Das Phantom\" fertig",
+    "created": "2011-12-14T12:36:07+00:00",
+    "changed": "2011-12-23T14:48:56+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/49715",
+      "pid": 1529,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 24. April 1913 meldet das Berliner Tageblatt, dass Bahrs neuestes Stück fertiggestellt sei und zu seinem 50. Geburtstag aufgeführt werden solle. Mit größter Wahrscheinlichkeit handelt es sich um das \"Phantom\", das aber erst am 4. Dezember uraufgeführt wird.",
+      "format": "full_html",
+      "processed": "Am 24. April 1913 meldet das Berliner Tageblatt, dass Bahrs neuestes Stück fertiggestellt sei und zu seinem 50. Geburtstag aufgeführt werden solle. Mit größter Wahrscheinlichkeit handelt es sich um das \"Phantom\", das aber erst am 4. Dezember uraufgeführt wird.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1908-04-24",
+      "end_value": "1908-04-24"
+    },
+    "field_sources": [
+      "Berliner Tageblatt, 42 (1908) #208, Abend-Ausgabe, 2. (24.4.1908)"
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1b3fc2f4-dd2d-4719-a111-ab3cd6c3c3e9/node_type?resourceVersion=id%3A3490"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1b3fc2f4-dd2d-4719-a111-ab3cd6c3c3e9/relationships/node_type?resourceVersion=id%3A3490"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1b3fc2f4-dd2d-4719-a111-ab3cd6c3c3e9/revision_uid?resourceVersion=id%3A3490"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1b3fc2f4-dd2d-4719-a111-ab3cd6c3c3e9/relationships/revision_uid?resourceVersion=id%3A3490"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1b3fc2f4-dd2d-4719-a111-ab3cd6c3c3e9/uid?resourceVersion=id%3A3490"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1b3fc2f4-dd2d-4719-a111-ab3cd6c3c3e9/relationships/uid?resourceVersion=id%3A3490"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "7d2fb0d4-d8e5-47ac-b5a9-23c3e8b67040",
+          "meta": {
+            "drupal_internal__target_id": 21
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1b3fc2f4-dd2d-4719-a111-ab3cd6c3c3e9/field_event_type?resourceVersion=id%3A3490"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/1b3fc2f4-dd2d-4719-a111-ab3cd6c3c3e9/relationships/field_event_type?resourceVersion=id%3A3490"
+        }
+      }
+    }
+  }
+}

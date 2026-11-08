@@ -1,0 +1,118 @@
+{
+  "type": "node--event",
+  "id": "9bae5eb3-e05d-4b6f-84b0-8a398095638a",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/9bae5eb3-e05d-4b6f-84b0-8a398095638a?resourceVersion=id%3A3002"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/event/9bae5eb3-e05d-4b6f-84b0-8a398095638a?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 44085,
+    "drupal_internal__vid": 3002,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T16:41:52+00:00",
+    "status": true,
+    "title": "Isadora Duncan in der Sezession",
+    "created": "2011-09-07T13:43:48+00:00",
+    "changed": "2012-06-13T20:29:03+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/ereignis/44085",
+      "pid": 980,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "Am 14. Februar 1902 tanzt Isadora Duncan, die Loïe Fuller zum Gastspiel in Wien begleitete, in der Sezession. Es ist ihr erster Auftritt in Wien. Eingeladen hat Klimt, die einführenden Worte über modernen Ausdruckstanz spricht Bahr. Etwa hundert geladene Gäste sind anwesend und an der Wand hängen Klimts \"Goldfische\". Bahr hat vorbereitend die Künstlerin schon wenige Tage zuvor privat tanzen gesehen.",
+      "format": "full_html",
+      "processed": "Am 14. Februar 1902 tanzt Isadora Duncan, die Loïe Fuller zum Gastspiel in Wien begleitete, in der Sezession. Es ist ihr erster Auftritt in Wien. Eingeladen hat Klimt, die einführenden Worte über modernen Ausdruckstanz spricht Bahr. Etwa hundert geladene Gäste sind anwesend und an der Wand hängen Klimts \"Goldfische\". Bahr hat vorbereitend die Künstlerin schon wenige Tage zuvor privat tanzen gesehen.",
+      "summary": null
+    },
+    "field_event_date": {
+      "value": "1902-02-14",
+      "end_value": "1902-02-14"
+    },
+    "field_sources": [
+      "Hermann Bahr: Isadora Duncan. Als Gast im Carltheater vom 21. bis 28. März 1903. Neues Wiener Tagblatt, 37 (1903) #80, 3-4, hier: 3. (22.3.1903) ",
+      "Vgl. auch: H. B.: Theater, Kunst und Literatur. Neues Wiener Tagblatt, 36 (1902) #43, 8-9. (13.2.1902) Buchausgabe: Rezensionen, 216-218.\r\n",
+      "Notizen zur Einleitung finden sich in: Tagebücher (Csàky), III, 187."
+    ]
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "86cb16df-f053-4ced-8fc4-1cab0abd93b5",
+        "meta": {
+          "drupal_internal__target_id": "event"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9bae5eb3-e05d-4b6f-84b0-8a398095638a/node_type?resourceVersion=id%3A3002"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9bae5eb3-e05d-4b6f-84b0-8a398095638a/relationships/node_type?resourceVersion=id%3A3002"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9bae5eb3-e05d-4b6f-84b0-8a398095638a/revision_uid?resourceVersion=id%3A3002"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9bae5eb3-e05d-4b6f-84b0-8a398095638a/relationships/revision_uid?resourceVersion=id%3A3002"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9bae5eb3-e05d-4b6f-84b0-8a398095638a/uid?resourceVersion=id%3A3002"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9bae5eb3-e05d-4b6f-84b0-8a398095638a/relationships/uid?resourceVersion=id%3A3002"
+        }
+      }
+    },
+    "field_event_type": {
+      "data": [
+        {
+          "type": "taxonomy_term--event_type",
+          "id": "84d4a334-673c-41a5-9bd5-fe12087bf41d",
+          "meta": {
+            "drupal_internal__target_id": 4
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9bae5eb3-e05d-4b6f-84b0-8a398095638a/field_event_type?resourceVersion=id%3A3002"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/event/9bae5eb3-e05d-4b6f-84b0-8a398095638a/relationships/field_event_type?resourceVersion=id%3A3002"
+        }
+      }
+    }
+  }
+}

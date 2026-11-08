@@ -1,0 +1,90 @@
+{
+  "type": "node--page",
+  "id": "8ad6c500-8405-4fc2-aad7-1f17ae1e514f",
+  "links": {
+    "self": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/page/8ad6c500-8405-4fc2-aad7-1f17ae1e514f?resourceVersion=id%3A4087"
+    },
+    "working-copy": {
+      "href": "https://bahr.univie.ac.at/jsonapi/node/page/8ad6c500-8405-4fc2-aad7-1f17ae1e514f?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 74442,
+    "drupal_internal__vid": 4087,
+    "langcode": "de",
+    "revision_timestamp": "2020-02-18T17:01:03+00:00",
+    "status": true,
+    "title": "Stammbaum",
+    "created": "2012-11-20T09:00:24+00:00",
+    "changed": "2013-01-17T09:49:33+00:00",
+    "promote": false,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": true,
+    "path": {
+      "alias": "/stammbaum",
+      "pid": 1816,
+      "langcode": "de"
+    },
+    "body": {
+      "value": "1937/38, wenige Jahre nach Bahrs Tod, musste die Witwe Bahrs, Anna Bahr-Mildenburg den \"Ariernachweis\" für Hermann und sich erstellen. Das führte zu einigen Schwierigkeiten, schließlich sind, wie man aus dem \"Selbstbildnis\" ersehen kann, die Verwandtschaftsverhältnisse kompliziert und umfassen einen großen geografischen Raum, der schon längst nicht mehr zur österreichischen Monarchie gehörte. Sie beschäftigte einen Neffen, kontaktierte Jaroslav Kvapil in Prag und letztlich gelang es ihr, bis zu den Urgroßeltern und teilweise weiter, Bahrs Abstammung zu klären. Eine Kiste mit allen Dokumenten zum \"Ariernachweis\" findet sich in ihrem Nachlass im Österreichischen Theatermuseum, woraus hier die Familienverhältnisse und Lebensdaten (aufs Jahr genau) zusammengestellt wurden, mit Angaben aus anderen Quellen ergänzt. Nicht gezielt angeführt werden die Ortschaften und ob alle Familien vollständig sind. Obwohl schon zu Bahrs Lebzeiten sein Eintreten für Juden den Verdacht entstehen ließ, selbst einer zu sein, wurde Bahrs \"arische\" Abstammung erfolgreich bewiesen. Schon im \"Selbstbildnis\" wird aber vermerkt, dass Tante Anna mit Salomo Robicsek mit einem Juden verheiratet war und auch Bahrs erste Frau jüdischer Abstammung war.<br>Ausgehend davon wurden mit anderen Quellen viele weitere Personen im Umfeld ergänzt, so dass der Stammbaum mittlerweile auch die Familien der beiden Ehefrauen enthält.<br>\r\n<a href=\"http://www.univie.ac.at/bahr/sites/all/stammbaum/index.html\">Stammbaum Hermann Bahrs</a>",
+      "format": "full_html",
+      "processed": "1937/38, wenige Jahre nach Bahrs Tod, musste die Witwe Bahrs, Anna Bahr-Mildenburg den \"Ariernachweis\" für Hermann und sich erstellen. Das führte zu einigen Schwierigkeiten, schließlich sind, wie man aus dem \"Selbstbildnis\" ersehen kann, die Verwandtschaftsverhältnisse kompliziert und umfassen einen großen geografischen Raum, der schon längst nicht mehr zur österreichischen Monarchie gehörte. Sie beschäftigte einen Neffen, kontaktierte Jaroslav Kvapil in Prag und letztlich gelang es ihr, bis zu den Urgroßeltern und teilweise weiter, Bahrs Abstammung zu klären. Eine Kiste mit allen Dokumenten zum \"Ariernachweis\" findet sich in ihrem Nachlass im Österreichischen Theatermuseum, woraus hier die Familienverhältnisse und Lebensdaten (aufs Jahr genau) zusammengestellt wurden, mit Angaben aus anderen Quellen ergänzt. Nicht gezielt angeführt werden die Ortschaften und ob alle Familien vollständig sind. Obwohl schon zu Bahrs Lebzeiten sein Eintreten für Juden den Verdacht entstehen ließ, selbst einer zu sein, wurde Bahrs \"arische\" Abstammung erfolgreich bewiesen. Schon im \"Selbstbildnis\" wird aber vermerkt, dass Tante Anna mit Salomo Robicsek mit einem Juden verheiratet war und auch Bahrs erste Frau jüdischer Abstammung war.<br>Ausgehend davon wurden mit anderen Quellen viele weitere Personen im Umfeld ergänzt, so dass der Stammbaum mittlerweile auch die Familien der beiden Ehefrauen enthält.<br>\n<a href=\"http://www.univie.ac.at/bahr/sites/all/stammbaum/index.html\">Stammbaum Hermann Bahrs</a>",
+      "summary": null
+    }
+  },
+  "relationships": {
+    "node_type": {
+      "data": {
+        "type": "node_type--node_type",
+        "id": "016d417b-5c75-4303-8420-18e221e9e269",
+        "meta": {
+          "drupal_internal__target_id": "page"
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/8ad6c500-8405-4fc2-aad7-1f17ae1e514f/node_type?resourceVersion=id%3A4087"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/8ad6c500-8405-4fc2-aad7-1f17ae1e514f/relationships/node_type?resourceVersion=id%3A4087"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/8ad6c500-8405-4fc2-aad7-1f17ae1e514f/revision_uid?resourceVersion=id%3A4087"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/8ad6c500-8405-4fc2-aad7-1f17ae1e514f/relationships/revision_uid?resourceVersion=id%3A4087"
+        }
+      }
+    },
+    "uid": {
+      "data": {
+        "type": "user--user",
+        "id": "4de8b112-1080-40f2-8fc7-67cc34bcb234",
+        "meta": {
+          "drupal_internal__target_id": 36
+        }
+      },
+      "links": {
+        "related": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/8ad6c500-8405-4fc2-aad7-1f17ae1e514f/uid?resourceVersion=id%3A4087"
+        },
+        "self": {
+          "href": "https://bahr.univie.ac.at/jsonapi/node/page/8ad6c500-8405-4fc2-aad7-1f17ae1e514f/relationships/uid?resourceVersion=id%3A4087"
+        }
+      }
+    }
+  }
+}

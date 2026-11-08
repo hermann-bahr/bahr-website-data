@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="technische-umsetzung" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">Technische Umsetzung</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <idno type="drupal-nid">9580</idno>
+        <idno type="drupal-alias">/technische-umsetzung</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/technische-umsetzung">https://bahr.univie.ac.at/technische-umsetzung</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="menu" n="none">
+          <term>nicht im Menü</term>
+        </keywords>
+        <classCode scheme="drupal-type">page</classCode>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2010-01-07T14:36:12+00:00" type="created">angelegt in Drupal</change>
+      <change when="2010-01-07T14:43:32+00:00" type="changed">zuletzt geändert in Drupal</change>
+      <change when="2026-11-08" type="converted">aus Drupal (JSON:API) nach TEI konvertiert, scripts/convert.py</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Die <hi rend="bold">„Kritischen Schriften“ </hi> werden ab Band 9 und einschließlich Band 7 mit <ref target="http://www.tug.org/">LaTex (TexLive 2009)</ref> gesetzt. Die Dokumentklasse stammt von Herbert Voss, Berlin. Als bibliografische <hi rend="bold">Datenbank</hi> kommt <ref target="http://endnote.com">Endnote X3</ref> zum Einsatz. Das Modul <ref target="http://drupal.org/project/biblio">„biblio“</ref> ermöglicht das Bereitstellen der Endnote-Daten auf der Website über einen XML-Import. Die <hi rend="bold">Website</hi> basiert auf <ref target="http://drupal.org">Drupal</ref> mit MySQL, das verwendete Theme heißt <ref target="http://drupal.org/project/nitobe">Nitobe</ref>. <hi rend="bold">Ausstattung:</hi> Betriebssystem OSX 10.6 Plustek Opticbook Corporate 3600 (über WinXP) Canon Canoscan Lide 100 Omnipage 17 Acrobat Pro 9</p>
+      </div>
+    </body>
+  </text>
+</TEI>
