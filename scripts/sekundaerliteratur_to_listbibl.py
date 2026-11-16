@@ -7,18 +7,23 @@ heuristisch in listBibl/biblStruct um.
 Ergebnis: editions/forschung__sekundaerliteratur.xml (wird überschrieben!)
 Die Zerlegung ist heuristisch. Jeder Eintrag behält deshalb das Originalzitat in
 <note type="original">; was sich nicht zuordnen ließ, steht in <note type="rest">.
+Einträge, die auf der Website rosafarben gesetzt sind (= Angaben unvollständig), erhalten
+status="incomplete"; die Farbe wird aus raw/html/liste/49700.html gelesen, weil sie in der
+Listenfassung nicht erhalten ist.
 """
 import copy
 import re
 import sys
+import unicodedata
 from datetime import date
 from pathlib import Path
 
-from lxml import etree
+from lxml import etree, html
 
 ROOT = Path(__file__).resolve().parent.parent
 SRC = ROOT / "obsolete" / "forschung__sekundaerliteratur.xml"
 OUT = ROOT / "editions" / "forschung__sekundaerliteratur.xml"
+RAW_HTML = ROOT / "raw" / "html" / "liste" / "49700.html"
 TEI = "http://www.tei-c.org/ns/1.0"
 XML = "http://www.w3.org/XML/1998/namespace"
 NS = {"t": TEI}
@@ -72,6 +77,25 @@ def E(tag, text=None, **attrs):
 
 def clean(s):
     return re.sub(r"\s+", " ", s or "").strip()
+
+
+def match_key(s):
+    """Schlüssel zum Abgleich von Zitaten zwischen Website-HTML und Listenfassung."""
+    return re.sub(r"\W+", "", unicodedata.normalize("NFC", s or "")).lower()
+
+
+def pink_entries():
+    """Zitate, die auf der Website rosafarben (unvollständige Angaben) gesetzt sind."""
+    keys = set()
+    doc = html.parse(str(RAW_HTML))
+    for span in doc.xpath("//span[contains(translate(@style, ' ', ''), 'color:pink')]"):
+        for li in span.xpath("ancestor::li[1]"):
+            keys.add(match_key("".join(li.xpath("text()|*[not(self::ul or self::ol)]//text()"))))
+    return keys
+
+
+PINK = pink_entries()
+PINK_FOUND = set()
 
 
 def trim(s):
@@ -570,6 +594,9 @@ def convert_item(item, year, cnt, parent=None, review=False):
     if parent is not None and not p.year and not p.when:
         year = parent
     bs = build(p, cnt.next(), year, original, main_refs)
+    if match_key(original) in PINK:
+        bs.set("status", "incomplete")
+        PINK_FOUND.add(match_key(original))
     cnt.stats[p.kind] = cnt.stats.get(p.kind, 0) + 1
     pos = bs.index(bs.find("t:note[@type='original']", NS))
     rel_type = "part"
@@ -656,6 +683,8 @@ def main():
     print("geschrieben:", OUT.relative_to(ROOT))
     print("biblStruct:", cnt.n, cnt.stats)
     print("Jahre ohne Einträge:", ", ".join(empty_years) or "-")
+    print("rosa (status=incomplete): %d Einträge, %d rosa Zitate der Website nicht zugeordnet"
+          % (len(out.xpath("//t:biblStruct[@status='incomplete']", namespaces=NS)), len(PINK - PINK_FOUND)))
 
 
 if __name__ == "__main__":
