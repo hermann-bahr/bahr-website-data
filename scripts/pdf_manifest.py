@@ -11,7 +11,7 @@ Columns:
   sha256      checksum, to detect changed or lost files
   ia_url      download URL on archive.org
   old_url     URL on the old site (bahr.univie.ac.at/sites/all/txt/…)
-  references  number of links to old_url in editions/
+  references  number of links to old_url or ia_url in editions/
 
 Also reports files that will need attention (duplicates, odd names, non-PDFs)
 and links in editions/ to sites/all/txt/ for which no local file exists.
@@ -30,7 +30,7 @@ from urllib.parse import quote, unquote
 IDENTIFIER = "hermann-bahr-texte"
 IA_BASE = f"https://archive.org/download/{IDENTIFIER}/"
 OLD_BASE = "https://bahr.univie.ac.at/sites/all/txt/"
-OLD_LINK = re.compile(r"https?://bahr\.univie\.ac\.at/sites/all/txt/([^\"'<>\s]+)")
+LINK = re.compile(r"(?:https?://bahr\.univie\.ac\.at/sites/all/txt/|https://archive\.org/download/hermann-bahr-texte/)([^\"'<>\s#?]+)")
 SAFE = re.compile(r"^[A-Za-z0-9._/-]+$")
 
 
@@ -53,7 +53,7 @@ def sha256(path):
 def edition_links(editions):
     refs = Counter()
     for f in editions.rglob("*.xml"):
-        for m in OLD_LINK.finditer(f.read_text(encoding="utf-8")):
+        for m in LINK.finditer(f.read_text(encoding="utf-8")):
             refs[nfc(unquote(m.group(1)))] += 1
     return refs
 

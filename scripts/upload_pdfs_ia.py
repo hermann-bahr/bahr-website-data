@@ -36,7 +36,7 @@ METADATA = {
     "subject": ["Hermann Bahr", "Wiener Moderne", "Zeitschriften", "Feuilleton"],
     "description": (
         "Digitalisate von Texten Hermann Bahrs und Sekundärliteratur, "
-        "gesammelt für die Website „Hermann Bahr“ (bahr.univie.ac.at). "
+        "gesammelt für die Website „Hermann Bahr“ (bahr.acdh.oeaw.ac.at). "
         "Ordner = Publikationsorgan. "
         "Verzeichnis der Dateien: https://github.com/hermann-bahr/bahr-website-data/blob/main/pdfs.csv"
     ),
