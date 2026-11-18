@@ -6,12 +6,13 @@
         <title level="a">Bibliografie der Bücher</title>
       </titleStmt>
       <publicationStmt>
-        <publisher>Hermann Bahr (bahr.univie.ac.at)</publisher>
+        <publisher>Hermann Bahr (bahr.acdh.oeaw.ac.at)</publisher>
+        <idno type="URL">https://bahr.acdh.oeaw.ac.at/bibliografie-der-buecher.html</idno>
         <idno type="drupal-nid">9600</idno>
         <idno type="drupal-alias">/bibliografie-der-buecher</idno>
       </publicationStmt>
       <sourceDesc>
-        <bibl type="drupal"><ref target="https://bahr.univie.ac.at/bibliografie-der-buecher">https://bahr.univie.ac.at/bibliografie-der-buecher</ref>, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
+        <bibl type="drupal">Frühere Drupal-Fassung der Website, Pfad /bibliografie-der-buecher, abgerufen am <date when="2026-11-08">2026-11-08</date></bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -44,7 +45,7 @@
             <cell role="label">Thomasberger</cell>
           </row>
           <row>
-            <cell>1. <ref target="https://bahr.univie.ac.at/node/9595" type="legacy">Theaterstücke</ref></cell>
+            <cell>1. <ref target="bibliografie__theaterstuecke.xml">Theaterstücke</ref></cell>
             <cell>Theaterstücke</cell>
           </row>
           <row>
@@ -64,7 +65,7 @@
             <cell>Tagebücher</cell>
           </row>
           <row>
-            <cell>6. <ref target="https://bahr.univie.ac.at/node/9601" type="legacy">Posthume Veröffentlichungen</ref></cell>
+            <cell>6. <ref target="bibliografie__posthume-veroeffentlichungen.xml">Posthume Veröffentlichungen</ref></cell>
             <cell>---</cell>
           </row>
           <row>
@@ -85,7 +86,7 @@
           <item>Eine neue Kategorie verzeichnet von Bahr herausgegebene Werke</item>
           <item>Zwei neue Texte, "Das Veilchen" und "Freie Erziehung" wurden aufgenommen</item>
           <item>Drei Texte, deren Nachweis schon Thomasberger Zweifel an ihrer Existenz äußern ließ und die auch seither nicht nachweisbar sind, wurden gestrichen. Es handelt sich dabei um die letzten beiden Bände "Tagebücher" und den vermuteten Separatdruck "Der neue Stil" aus "Studien zur Kritik der Moderne"</item>
-          <item>Die sechste Kategorie Thomasbergers, die Bahrs Beiträge zu Büchern beinhaltet, wurde aufgegeben. Sie umfassten nur einen Bruchteil der im Zuge des <ref target="https://bahr.univie.ac.at/node/3087" type="legacy">Werkverzeichnisses</ref> auf dieser Website zusammengetragenen Texte.</item>
+          <item>Die sechste Kategorie Thomasbergers, die Bahrs Beiträge zu Büchern beinhaltet, wurde aufgegeben. Sie umfassten nur einen Bruchteil der im Zuge des <ref target="https://bahr-textverzeichnis.acdh.oeaw.ac.at/">Werkverzeichnisses</ref> auf dieser Website zusammengetragenen Texte.</item>
           <item>Die von Thomasberger angegebenen Widmungen und Hinweise auf Erstdrucke wurden nur dann übernommen, wenn sie für die Datierung des Buches von Interesse sind. Die Hinweise auf den Satz in Fraktur oder Antiqua gestrichen.</item>
         </list>
       </div>

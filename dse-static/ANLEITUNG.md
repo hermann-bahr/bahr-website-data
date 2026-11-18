@@ -2,7 +2,7 @@
 
 Diese Anleitung beschreibt, wie aus den Daten dieses Repos mit dem
 [dse-static-cookiecutter](https://github.com/acdh-oeaw/dse-static-cookiecutter) eine statische
-Nachfolge-Website von <https://bahr.univie.ac.at> gebaut wird. Sie richtet sich an alle, die das
+Website <https://bahr.acdh.oeaw.ac.at> gebaut wird, die Nachfolgerin der alten Drupal-Website. Sie richtet sich an alle, die das
 Code-Repo (im Folgenden `bahr-static`) aufsetzen.
 
 Im Ordner `dse-static/` liegen drei Dateien, die ins Code-Repo kopiert werden:
@@ -49,8 +49,8 @@ Empfohlene Antworten:
 | `project_short_title` | `Hermann Bahr` |
 | `default_lang` | `de` |
 | `github_org` | `hermann-bahr` |
-| `base_url` | die künftige Adresse **mit `https://` und abschließendem `/`**, z. B. `https://bahr.univie.ac.at/` (die Templates hängen den Dateinamen direkt an; korrigierbar in `xslt/partials/params.xsl`) |
-| `redmine_id` | nur nötig, wenn das ACDH-Impressum verwendet wird (Abschnitt 6) |
+| `base_url` | die künftige Adresse **mit `https://` und abschließendem `/`**, also `https://bahr.acdh.oeaw.ac.at/` (die Templates hängen den Dateinamen direkt an; korrigierbar in `xslt/partials/params.xsl`) |
+| `redmine_id` | Redmine-ID des Projekts, für das ACDH-Impressum (Abschnitt 6) |
 | `translations` | `no` (alle Inhalte sind deutsch) |
 | `use_remote_data` | `yes` |
 | `data_dir` | `bahr-website-data` |
@@ -146,10 +146,11 @@ Es gibt keine `note`, `rs`, `pb` oder Register im Text. Die Register des Cookiec
 | `datei.xml`, `datei.xml#id` | – | auf `datei.html`, `datei.html#id` umschreiben |
 | `#id` | – | unverändert |
 | `files/…` | – | unverändert (liegt unter `html/files/`) |
-| `https://bahr.univie.ac.at/sites/all/…` | `sites-all` | 2954 Links auf PDFs, **die nicht geharvestet wurden** (Abschnitt 8) |
-| `https://bahr.univie.ac.at/node/…` | `zeitleiste` | 2 Links auf Ereignisse der alten Zeitleiste |
-| `https://bahr.univie.ac.at/contact` | `kontaktformular` | 2 Links auf das Drupal-Kontaktformular |
-| `https://bahr.univie.ac.at/…` | `legacy` | 6 interne Links, die nicht aufgelöst werden konnten |
+| `files/sites-all/…` | `sites-all` | Indizes, Stammbaum und einzelne PDFs vom alten Server (liegen unter `raw/files/sites-all/`) |
+| `ks/…` | `sites-all` | Bände der Kritischen Schriften (Ordner `ks/`, wird nach `html/ks/` kopiert) |
+| `https://archive.org/download/hermann-bahr-texte/…` | `sites-all` | Digitalisate, Verzeichnis in `pdfs.csv` |
+| `https://anno.onb.ac.at/…` | `sites-all` | Neue Freie Presse in ANNO (Ausgabe, bei Morgenblatt mit Seite) |
+| `leben.xml` | `zeitleiste` | 2 Links auf Ereignisse der Zeitleiste |
 | sonstige `http(s)://…` | – | externe Links |
 
 ## 5. Anpassungen im Code-Repo
@@ -194,9 +195,8 @@ Datei. So muss nicht jede Seite die ganze Sammlung neu einlesen.
 4. Entfernen, weil die Eingabedateien fehlen:
    - `meta.xsl` (`data/meta/` gibt es nicht; alle Seiten liegen in `data/editions/`)
    - `listperson.xsl`, `listplace.xsl`, `listorg.xsl`, `listbibl.xsl`, `beacon.xsl`
-   - `imprint.xsl`, wenn das ACDH-Impressum nicht verwendet wird (Abschnitt 6)
    - `noske-search.xsl`, solange es kein NoSketch-Korpus gibt
-5. `api.xsl` liest `./data/imprint.xml`. Entweder auf `${index}` umstellen oder den Aufruf entfernen.
+5. `api.xsl` liest `./data/imprint.xml`; die Datei legt `dl_imprint.sh` an (Abschnitt 6).
 6. Die abschließende `copy`-Anweisung (`data/**/*.xml` → `html/`) bleibt. Sie stellt die
    TEI-Downloads bereit (und nebenbei `menu.xml`).
 
@@ -312,9 +312,10 @@ Forschung (11) · Bilder – also dieselbe Reihenfolge wie auf der alten Website
 
 ### 5.6 Footer `xslt/partials/html_footer.xsl`
 
-Links auf Impressum und Barrierefreiheit aus dem Footer-Menü erzeugen:
+Link auf das ACDH-Impressum und die Links aus dem Footer-Menü (Barrierefreiheit) erzeugen:
 
 ```xml
+<a href="imprint.html">Impressum und Datenschutz</a>
 <xsl:for-each select="doc('../../data/menu.xml')/menus/menu[@name = 'footer']/item">
     <a href="{@href}"><xsl:value-of select="label"/></a>
 </xsl:for-each>
@@ -333,20 +334,19 @@ gebraucht, den Aufruf in `build.xml` streichen.
 
 ### 5.8 CSS
 
-Neue Klassen, die gestaltet werden sollten: `a.ref.sites-all`, `a.ref.legacy`, `a.ref.zeitleiste`
+Neue Klassen, die gestaltet werden sollten: `a.ref.sites-all`, `a.ref.zeitleiste`
 (zum Beispiel als Hinweis auf externe oder alte Ziele), `table.bibliografie`, `ul.eintraege`,
 `ul.unterseiten`, `span.hi-h3`, `span.hi-h4`.
 
 ## 6. Impressum
 
-Der Cookiecutter lädt mit `dl_imprint.sh` das ACDH-Impressum (über `redmine_id`). Die alte Website
-hat ein eigenes Impressum (`impressum-und-datenschutz.xml`) und eine Erklärung zur Barrierefreiheit
-(`barrierefreiheit.xml`). Beide werden über `editions.xsl` gerendert und stehen im Footer-Menü.
+Die Website liegt beim ACDH (`bahr.acdh.oeaw.ac.at`). Impressum und Datenschutzerklärung kommen
+deshalb wie bei anderen ACDH-Projekten über `dl_imprint.sh` (über `redmine_id`) und `imprint.xsl`
+als `imprint.html`. Die Erklärung zur Barrierefreiheit (`barrierefreiheit.xml`) bleibt, sie wird über
+`editions.xsl` gerendert, steht im Footer-Menü und verweist für Kontaktangaben auf `imprint.html`.
 
-- **Hosting nicht beim ACDH:** `dl_imprint.sh` und `imprint.xsl` weglassen, wie im mitgelieferten
-  `fetch_data.sh`. Den Inhalt von `impressum-und-datenschutz.xml` für den neuen Betreiber anpassen.
-- **Hosting beim ACDH:** `dl_imprint.sh` wieder in `fetch_data.sh` aufnehmen, `imprint.xsl` in
-  `build.xml` lassen und `impressum-und-datenschutz.xml` aus dem Footer nehmen.
+`dl_imprint.sh` wird in `fetch_data.sh` aufgerufen, `imprint.xsl` bleibt in `build.xml`. Der Footer
+braucht zusätzlich zum Footer-Menü einen festen Link auf `imprint.html` (Abschnitt 5.6).
 
 ## 7. Optional
 
@@ -395,24 +395,21 @@ weglassen.
 
 Details stehen in `convert-report.txt`.
 
-1. **PDFs unter `/sites/all/` (2954 Links, `ref[@type='sites-all']`).** Die Bände der Kritischen
-   Schriften, Sonderdrucke, Indizes und Zeitungsartikel lagen nicht in Drupal, sondern direkt auf dem
-   Server. Sie wurden nicht geharvestet, die Links zeigen weiter auf `https://bahr.univie.ac.at/sites/all/…`.
-   Wird der alte Server abgeschaltet, sind sie tot. Die PDFs müssen vorher gesichert und mit
-   ins Code-Repo oder auf einen Datei-Server genommen werden. Danach die Links umschreiben, am
-   einfachsten im `ref`-Template von `bahr.xsl` für `@type='sites-all'`.
+1. **PDFs vom alten Server (`ref[@type='sites-all']`).** Die Digitalisate liegen auf archive.org
+   (`pdfs.csv`, `scripts/upload_pdfs_ia.py`, `scripts/relink_pdfs_ia.py`), die Kritischen Schriften in
+   `ks/`, Indizes und Stammbaum unter `raw/files/sites-all/`. Die Neue Freie Presse ist auf ANNO
+   verlinkt. 60 Links auf PDFs, die schon auf dem alten Server fehlten, wurden entfernt; sie stehen
+   mit dem zugehörigen Eintrag in `tote-links.tsv`.
 2. **Zeitleiste** (`leben.xml`, `divGen[@type='zeitleiste']`, 2 Links mit `@type='zeitleiste'`):
    Die Daten liegen in [bahr-zeitleiste](https://github.com/martinantonmueller/bahr-zeitleiste).
    `bahr.xsl` setzt vorerst nur einen Link dorthin. Eine richtige Darstellung bräuchte einen
    zusätzlichen Fetch-Schritt und ein eigenes Stylesheet.
 3. **Textverzeichnis:** Der Menüpunkt wurde bewusst ausgelassen, weil das Textverzeichnis unter
-   <https://bahr-textverzeichnis.acdh.oeaw.ac.at/> liegt. Ein interner Link (`/textverzeichnis` in
-   `bibliografie__zur-bibliografie.xml`) zeigt noch auf die alte Seite.
-4. **6 unaufgelöste interne Links** (`ref[@type='legacy']`), unter anderem `/bahr/node/9595`, `9601` und
-   `3087` in `bibliografie-der-buecher.xml`: von Hand prüfen.
-5. **8 externe oder tote Bilder** (`http://www.univie.ac.at/bahr/sites/all/…`): Die Bilder fehlen, ihre
-   Verweise stehen weiter in den TEI-Dateien.
-6. **19 Seiten nicht im Menü** (`keywords[@n='none']`): Sie sind nur über Links erreichbar, zum Beispiel
+   <https://bahr-textverzeichnis.acdh.oeaw.ac.at/> liegt; Links darauf zeigen dorthin.
+4. **2 verlorene Grafiken** in `forschung__forschungsnotizen__statistische-bahrforschung.xml`
+   (`googletrend.png`, `trend.jpg`): weder auf dem alten Server noch in der Wayback Machine; an ihrer
+   Stelle steht ein `figDesc`.
+5. **19 Seiten nicht im Menü** (`keywords[@n='none']`): Sie sind nur über Links erreichbar, zum Beispiel
    `einleitung.xml`, `danksagung.xml`, `stammbaum.xml` (parallel zu `leben__stammbaum.xml`). Sie
    werden gebaut, erscheinen aber in keiner Navigation.
 
