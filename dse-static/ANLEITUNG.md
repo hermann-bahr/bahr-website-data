@@ -342,8 +342,7 @@ Neue Klassen, die gestaltet werden sollten: `a.ref.sites-all`, `a.ref.zeitleiste
 
 Die Website liegt beim ACDH (`bahr.acdh.oeaw.ac.at`). Impressum und Datenschutzerklärung kommen
 deshalb wie bei anderen ACDH-Projekten über `dl_imprint.sh` (über `redmine_id`) und `imprint.xsl`
-als `imprint.html`. Das eigene Impressum der alten Website (`impressum-und-datenschutz.xml`) wurde
-entfernt. Die Erklärung zur Barrierefreiheit (`barrierefreiheit.xml`) bleibt, sie wird über
+als `imprint.html`. Die Erklärung zur Barrierefreiheit (`barrierefreiheit.xml`) bleibt, sie wird über
 `editions.xsl` gerendert, steht im Footer-Menü und verweist für Kontaktangaben auf `imprint.html`.
 
 `dl_imprint.sh` wird in `fetch_data.sh` aufgerufen, `imprint.xsl` bleibt in `build.xml`. Der Footer
